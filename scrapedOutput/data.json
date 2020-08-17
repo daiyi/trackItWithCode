@@ -7,58 +7,58 @@
     },
     {
       "rank": "2.",
-      "title": "Factorio and Software Engineering",
-      "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
-    },
-    {
-      "rank": "3.",
-      "title": "Google: Open Letter to Australians",
-      "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
-    },
-    {
-      "rank": "4.",
-      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
-      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
-    },
-    {
-      "rank": "5.",
-      "title": "Pure Skill Minesweeper",
-      "link": "https://github.andrewt.net/mines/"
-    },
-    {
-      "rank": "6.",
-      "title": "Art of chording",
-      "link": "https://www.artofchording.com"
-    },
-    {
-      "rank": "7.",
       "title": "The Hard Problem of Breakfast",
       "link": "http://nautil.us//issue/88/love--sex/the-hard-problem-of-breakfast"
     },
     {
-      "rank": "8.",
+      "rank": "3.",
+      "title": "Factorio and Software Engineering",
+      "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
+    },
+    {
+      "rank": "4.",
+      "title": "Google: Open Letter to Australians",
+      "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
+    },
+    {
+      "rank": "5.",
+      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
+      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
+    },
+    {
+      "rank": "6.",
+      "title": "Pure Skill Minesweeper",
+      "link": "https://github.andrewt.net/mines/"
+    },
+    {
+      "rank": "7.",
       "title": "Recent Advances in Natural Language Processing",
       "link": "https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/"
     },
     {
-      "rank": "9.",
-      "title": "MicroPython",
-      "link": "https://micropython.org/"
+      "rank": "8.",
+      "title": "Art of chording",
+      "link": "https://www.artofchording.com"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Alaska that never was: Seward's Success (2011)",
       "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
     },
     {
+      "rank": "10.",
+      "title": "MicroPython",
+      "link": "https://micropython.org/"
+    },
+    {
       "rank": "11.",
-      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
-      "link": "https://github.com/p-ranav/structopt"
+      "title": "A guide to learning algorithms through LeetCode",
+      "link": "https://github.com/labuladong/fucking-algorithm/tree/english"
     },
     {
       "rank": "12.",
-      "title": "A guide to learning algorithms through LeetCode",
-      "link": "https://github.com/labuladong/fucking-algorithm/tree/english"
+      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
+      "link": "https://github.com/p-ranav/structopt"
     },
     {
       "rank": "13.",
@@ -77,18 +77,18 @@
     },
     {
       "rank": "16.",
+      "title": "Reversing Mental Age with Psychedelics",
+      "link": "https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/"
+    },
+    {
+      "rank": "17.",
       "title": "The Baltic states are reconfiguring their electric grids",
       "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Hello “Hello World”",
       "link": "https://blog.jfo.click/hello-hello-world/"
-    },
-    {
-      "rank": "18.",
-      "title": "Reversing Mental Age with Psychedelics",
-      "link": "https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "How long since Google said a Google Drive Linux client is coming?",
-      "link": "https://abevoelker.github.io/how-long-since-google-said-a-google-drive-linux-client-is-coming/"
+      "title": "WebAssembly without the browser part 1",
+      "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
     },
     {
       "rank": "21.",
-      "title": "WebAssembly without the browser part 1",
-      "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
+      "title": "How long since Google said a Google Drive Linux client is coming?",
+      "link": "https://abevoelker.github.io/how-long-since-google-said-a-google-drive-linux-client-is-coming/"
     },
     {
       "rank": "22.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "Why did the A-level algorithm say no?",
-      "link": "https://www.bbc.co.uk/news/education-53787203"
-    },
-    {
-      "rank": "26.",
       "title": "Show HN: Use React to build G Suite dialogs and add-ons",
       "link": "https://github.com/enuchi/React-Google-Apps-Script"
     },
     {
+      "rank": "26.",
+      "title": "Utah and Georgia install tech that lets roads talk",
+      "link": "https://www.foxbusiness.com/technology/utah-and-georgia-install-tech-that-lets-roads-talk"
+    },
+    {
       "rank": "27.",
-      "title": "“Rich People Can’t Stop”: The Luxe Quarantine Lives of Silicon Valley’s Elite",
-      "link": "https://www.vanityfair.com/news/2020/08/luxe-quarantine-lives-of-silicon-valley-elite"
+      "title": "Why did the A-level algorithm say no?",
+      "link": "https://www.bbc.co.uk/news/education-53787203"
     },
     {
       "rank": "28.",
-      "title": "AKAI MPC 3000 sampler/sequencer drum machine",
-      "link": "https://audiojive.com/akai-mpc-3000/"
-    },
-    {
-      "rank": "29.",
       "title": "Kapton: Miracle Material with a Tragic History",
       "link": "https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Web History: Browsers",
       "link": "https://css-tricks.com/chapter-2-browsers/"
+    },
+    {
+      "rank": "30.",
+      "title": "“Japanese Lindberghs” Made a 10k Mile-Flight in 1937",
+      "link": "https://www.airspacemag.com/airspacemag/japanese-lindberghs-180975338/"
     }
   ],
   "metadata": {
