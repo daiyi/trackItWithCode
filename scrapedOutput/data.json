@@ -7,53 +7,53 @@
     },
     {
       "rank": "2.",
+      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
+      "link": "https://www.nature.com/articles/s42003-020-01156-0"
+    },
+    {
+      "rank": "3.",
       "title": "How the Black Sea shaped the ancient Mediterranean world",
       "link": "https://www.historytoday.com/reviews/around-other-pond"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "A look at the J language: the fine line between genius and insanity (2012)",
       "link": "https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "An Introduction to OpenBSD",
       "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
       "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "ACCC: Response to Google open letter",
       "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Are CRDTs suitable for shared editing?",
       "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Nerves – Elixir Platform for IoT",
       "link": "https://www.nerves-project.org/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Handmade: A Community for Self-Rolled Performant Software (2016)",
       "link": "https://handmade.network/manifesto"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "OpenAI: Spinning Up in Deep RL",
       "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
-    },
-    {
-      "rank": "11.",
-      "title": "Ask HN: I need help finding the Australian Aboriginal flag in all artworks",
-      "link": "item?id=24187794"
     },
     {
       "rank": "12.",
@@ -62,93 +62,93 @@
     },
     {
       "rank": "13.",
+      "title": "Ask HN: I need help finding the Australian Aboriginal flag in all artworks",
+      "link": "item?id=24187794"
+    },
+    {
+      "rank": "14.",
       "title": "The Strange Costumes of the Plague Doctors",
       "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "The Market for Discontinued Photographic Film",
       "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "A CRISPR first produces squid as clear as glass",
       "link": "https://www.nature.com/articles/d41586-020-02242-3"
     },
     {
-      "rank": "16.",
-      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
-      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
-    },
-    {
       "rank": "17.",
-      "title": "Mindfulness and meditation can worsen depression and anxiety",
-      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
-    },
-    {
-      "rank": "18.",
       "title": "“Time of the Magicians” – philosophy's great decade?",
       "link": "https://www.theguardian.com/books/2020/aug/13/time-of-the-magicians-by-wolfram-eilenberger-review-philosophys-great-decade"
     },
     {
+      "rank": "18.",
+      "title": "Mindfulness and meditation can worsen depression and anxiety",
+      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
+    },
+    {
       "rank": "19.",
-      "title": "A Brief History of ClarisWorks (2003)",
-      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
+      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
+      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
     },
     {
       "rank": "20.",
-      "title": "Idris 2 version 0.2.1",
-      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
-    },
-    {
-      "rank": "21.",
       "title": "Ecommerce Is Eating the World – Join EasyPost",
       "link": "https://www.easypost.com/careers"
     },
     {
+      "rank": "21.",
+      "title": "A Brief History of ClarisWorks (2003)",
+      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
+    },
+    {
       "rank": "22.",
+      "title": "Idris 2 version 0.2.1",
+      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
+    },
+    {
+      "rank": "23.",
       "title": "Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi",
       "link": "https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
       "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
     },
     {
-      "rank": "24.",
-      "title": "Remote work is reshaping San Francisco, as tech workers flee and rents fall",
-      "link": "https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602"
+      "rank": "25.",
+      "title": "Rolling Blackouts in California Have Power Experts Stumped",
+      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "How to Start Using Microservices",
       "link": "https://hackernoon.com/how-to-start-using-microservices-0e1z3u47"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
+      "title": "Remote work is reshaping San Francisco, as tech workers flee and rents fall",
+      "link": "https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602"
+    },
+    {
+      "rank": "28.",
       "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
       "link": "https://github.com/p-ranav/structopt"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "Factorio and Software Engineering",
       "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "A-Levels: The Model is not the Student",
       "link": "http://thaines.com/post/alevels2020"
-    },
-    {
-      "rank": "29.",
-      "title": "Pure Skill Minesweeper",
-      "link": "https://github.andrewt.net/mines/"
-    },
-    {
-      "rank": "30.",
-      "title": "Art of chording",
-      "link": "https://www.artofchording.com"
     }
   ],
   "metadata": {
