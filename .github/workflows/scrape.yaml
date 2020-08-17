@@ -25,3 +25,8 @@ jobs:
         run: yarn tsc
       - name: Track the current setup
         run: yarn track
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          # Required
+          commit_message: Update data with latest scrape result
+          branch: tracking-history
