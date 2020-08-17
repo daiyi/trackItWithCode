@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
-      "title": "Idris 2 version 0.2.1 Released",
-      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
+      "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
+      "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
     },
     {
       "rank": "3.",
-      "title": "Nerves – Elixir Platform for IoT",
-      "link": "https://www.nerves-project.org/"
+      "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
+      "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
     },
     {
       "rank": "4.",
-      "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
-      "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
+      "title": "Nerves – Elixir Platform for IoT",
+      "link": "https://www.nerves-project.org/"
     },
     {
       "rank": "5.",
@@ -47,48 +47,48 @@
     },
     {
       "rank": "10.",
+      "title": "Idris 2 version 0.2.1",
+      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
+    },
+    {
+      "rank": "11.",
       "title": "Art of chording",
       "link": "https://www.artofchording.com"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "MicroPython",
       "link": "https://micropython.org/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Recent Advances in Natural Language Processing",
       "link": "https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
+      "title": "A Brief History of ClarisWorks (1969)",
+      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
+    },
+    {
+      "rank": "15.",
       "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
       "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
     },
     {
-      "rank": "14.",
+      "rank": "16.",
+      "title": "Handmade: A Community for Self-Rolled Performant Software",
+      "link": "https://handmade.network/manifesto"
+    },
+    {
+      "rank": "17.",
       "title": "Reversing Mental Age with Psychedelics",
       "link": "https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/"
     },
     {
-      "rank": "15.",
+      "rank": "18.",
       "title": "Show HN: I made an extension to watch Netflix films with screenplays in sync",
       "link": "https://screenplaysubs.com/"
-    },
-    {
-      "rank": "16.",
-      "title": "Alaska that never was: Seward's Success (2011)",
-      "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
-    },
-    {
-      "rank": "17.",
-      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
-      "link": "https://github.com/p-ranav/structopt"
-    },
-    {
-      "rank": "18.",
-      "title": "Not everyone needs 8 hours of sleep: new research",
-      "link": "https://time.com/5876614/circadian-rhythm-study/"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
+      "title": "Alaska that never was: Seward's Success (2011)",
+      "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
+    },
+    {
+      "rank": "21.",
+      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
+      "link": "https://github.com/p-ranav/structopt"
+    },
+    {
+      "rank": "22.",
+      "title": "Not everyone needs 8 hours of sleep: new research",
+      "link": "https://time.com/5876614/circadian-rhythm-study/"
+    },
+    {
+      "rank": "23.",
       "title": "Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi",
       "link": "https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/"
     },
     {
-      "rank": "21.",
+      "rank": "24.",
       "title": "TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM",
       "link": "https://github.com/hpi-swa/trufflesqueak"
     },
     {
-      "rank": "22.",
+      "rank": "25.",
       "title": "The Baltic states are reconfiguring their electric grids",
       "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
     },
     {
-      "rank": "23.",
-      "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
-      "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
-    },
-    {
-      "rank": "24.",
+      "rank": "26.",
       "title": "LFE: Lisp Flavored Erlang",
       "link": "https://lfe.io/books/tutorial/index.html"
     },
     {
-      "rank": "25.",
-      "title": "WebAssembly without the browser part 1",
+      "rank": "27.",
+      "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
+      "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
+    },
+    {
+      "rank": "28.",
+      "title": "WebAssembly without the browser",
       "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
     },
     {
-      "rank": "26.",
+      "rank": "29.",
       "title": "Hello “Hello World”",
       "link": "https://blog.jfo.click/hello-hello-world/"
     },
     {
-      "rank": "27.",
-      "title": "Show HN: Use React to build G Suite dialogs and add-ons",
-      "link": "https://github.com/enuchi/React-Google-Apps-Script"
-    },
-    {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Utah and Georgia install tech that lets roads talk",
       "link": "https://www.foxbusiness.com/technology/utah-and-georgia-install-tech-that-lets-roads-talk"
-    },
-    {
-      "rank": "29.",
-      "title": "Remote work is reshaping San Francisco, as tech workers flee and rents fall",
-      "link": "https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602"
-    },
-    {
-      "rank": "30.",
-      "title": "The Enigma of Gloom: On George Scialabba’s “How to Be Depressed”",
-      "link": "https://lareviewofbooks.org/article/the-enigma-of-gloom-on-george-scialabbas-how-to-be-depressed/"
     }
   ],
   "metadata": {
