@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
-      "title": "Xcsset Mac Malware: Infects Xcode Projects, Performs UXSS Attack on Safari",
-      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
-    },
-    {
-      "rank": "9.",
       "title": "A guide to learning algorithms through LeetCode",
       "link": "https://github.com/labuladong/fucking-algorithm/tree/english"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Show HN: I made an extension to watch Netflix films with screenplays in sync",
       "link": "https://screenplaysubs.com/"
+    },
+    {
+      "rank": "10.",
+      "title": "Xcsset Mac Malware: Infects Xcode Projects, Performs UXSS Attack on Safari",
+      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
     },
     {
       "rank": "11.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
-      "link": "https://github.com/p-ranav/structopt"
+      "title": "LFE: Lisp Flavored Erlang",
+      "link": "https://lfe.io/books/tutorial/index.html"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "LFE: Lisp Flavored Erlang",
-      "link": "https://lfe.io/books/tutorial/index.html"
+      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
+      "link": "https://github.com/p-ranav/structopt"
     },
     {
       "rank": "16.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
-      "title": "Kapton: Miracle Material with a Tragic History",
-      "link": "https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/"
-    },
-    {
-      "rank": "27.",
       "title": "AKAI MPC 3000 sampler/sequencer drum machine",
       "link": "https://audiojive.com/akai-mpc-3000/"
     },
     {
+      "rank": "27.",
+      "title": "Kapton: Miracle Material with a Tragic History",
+      "link": "https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/"
+    },
+    {
       "rank": "28.",
-      "title": "“Japanese Lindberghs” Made a 10k Mile-Flight in 1937",
-      "link": "https://www.airspacemag.com/airspacemag/japanese-lindberghs-180975338/"
+      "title": "“Rich People Can’t Stop”: The Luxe Quarantine Lives of Silicon Valley’s Elite",
+      "link": "https://www.vanityfair.com/news/2020/08/luxe-quarantine-lives-of-silicon-valley-elite"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Big Sur: “Warning: PHP is not recommended”",
-      "link": "https://twitter.com/GrahamJCampbell/status/1295111982924861442"
+      "title": "“Japanese Lindberghs” Made a 10k Mile-Flight in 1937",
+      "link": "https://www.airspacemag.com/airspacemag/japanese-lindberghs-180975338/"
     }
   ],
   "metadata": {
