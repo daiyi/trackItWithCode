@@ -23,5 +23,5 @@ jobs:
         run: yarn install --dev
       - name: Compile Typescript
         run: yarn tsc
-      - name: Run code
-        run: node dist/index.js
+      - name: Track the current setup
+        run: yarn track

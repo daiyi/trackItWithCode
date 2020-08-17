@@ -33,7 +33,8 @@ const hackerNewsScraper = {
   },
 }
 
+
 // @ts-expect-error Tatooine isn't typed
 Tatooine([hackerNewsScraper]).then(([scrapedHackerNewsData]) => {
-  console.log(scrapedHackerNewsData)
+  console.log(JSON.stringify(scrapedHackerNewsData, null, 2))
 })
