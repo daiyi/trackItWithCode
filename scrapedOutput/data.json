@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Apple, Epic, and the App Store",
-      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
+      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
+      "link": "https://www.nature.com/articles/s42003-020-01156-0"
     },
     {
       "rank": "2.",
-      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
-      "link": "https://www.nature.com/articles/s42003-020-01156-0"
+      "title": "Apple, Epic, and the App Store",
+      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
     },
     {
       "rank": "3.",
@@ -37,68 +37,68 @@
     },
     {
       "rank": "8.",
-      "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
-      "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
-    },
-    {
-      "rank": "9.",
-      "title": "Mux is looking for developers familiar with WebRTC/video to build new things",
-      "link": "https://mux.com/jobs?hnj=18"
-    },
-    {
-      "rank": "10.",
-      "title": "How the Black Sea shaped the ancient Mediterranean world",
-      "link": "https://www.historytoday.com/reviews/around-other-pond"
-    },
-    {
-      "rank": "11.",
-      "title": "An Introduction to OpenBSD",
-      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
-    },
-    {
-      "rank": "12.",
-      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
-      "link": "item?id=24188214"
-    },
-    {
-      "rank": "13.",
-      "title": "Named Tensors",
-      "link": "http://nlp.seas.harvard.edu/NamedTensor"
-    },
-    {
-      "rank": "14.",
-      "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
-      "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
-    },
-    {
-      "rank": "15.",
       "title": "Show HN: A Friend And I Remastered 85 Slate Star Codex Posts",
       "link": "https://www.slatestarcodexabridged.com/"
     },
     {
-      "rank": "16.",
-      "title": "Nerves – Elixir Platform for IoT",
-      "link": "https://www.nerves-project.org/"
+      "rank": "9.",
+      "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
+      "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
     },
     {
-      "rank": "17.",
-      "title": "Are CRDTs suitable for shared editing?",
-      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
-    },
-    {
-      "rank": "18.",
+      "rank": "10.",
       "title": "Show HN: Search the text of articles submitted to HN, with live updating",
       "link": "https://hndex.ml/"
     },
     {
-      "rank": "19.",
+      "rank": "11.",
+      "title": "Mux is looking for developers familiar with WebRTC/video to build new things",
+      "link": "https://mux.com/jobs?hnj=18"
+    },
+    {
+      "rank": "12.",
       "title": "What if we could live for a million years",
       "link": "https://www.scientificamerican.com/article/what-if-we-could-live-for-a-million-years/"
     },
     {
-      "rank": "20.",
+      "rank": "13.",
+      "title": "How the Black Sea shaped the ancient Mediterranean world",
+      "link": "https://www.historytoday.com/reviews/around-other-pond"
+    },
+    {
+      "rank": "14.",
+      "title": "An Introduction to OpenBSD",
+      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
+    },
+    {
+      "rank": "15.",
+      "title": "Named Tensors",
+      "link": "http://nlp.seas.harvard.edu/NamedTensor"
+    },
+    {
+      "rank": "16.",
+      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
+      "link": "item?id=24188214"
+    },
+    {
+      "rank": "17.",
+      "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
+      "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
+    },
+    {
+      "rank": "18.",
       "title": "Strange Rhythms: On Rosemary Mayer’s 1971 diary",
       "link": "https://www.thenation.com/article/culture/rosemary-mayer-diaries-1971/"
+    },
+    {
+      "rank": "19.",
+      "title": "Nerves – Elixir Platform for IoT",
+      "link": "https://www.nerves-project.org/"
+    },
+    {
+      "rank": "20.",
+      "title": "Are CRDTs suitable for shared editing?",
+      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "OpenAI: Spinning Up in Deep RL",
-      "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
+      "title": "Handmade: A Community for Self-Rolled Performant Software (2016)",
+      "link": "https://handmade.network/manifesto"
     },
     {
       "rank": "23.",
-      "title": "Handmade: A Community for Self-Rolled Performant Software (2016)",
-      "link": "https://handmade.network/manifesto"
+      "title": "OpenAI: Spinning Up in Deep RL",
+      "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
     },
     {
       "rank": "24.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Robinhood Now Valued at $11.2B with New Fund Backing",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-17/robinhood-now-valued-at-11-2-billion-with-sundheim-fund-backing"
-    },
-    {
-      "rank": "27.",
       "title": "Mindfulness and meditation can worsen depression and anxiety",
       "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "“Time of the Magicians” – philosophy's great decade?",
       "link": "https://www.theguardian.com/books/2020/aug/13/time-of-the-magicians-by-wolfram-eilenberger-review-philosophys-great-decade"
     },
     {
+      "rank": "28.",
+      "title": "A Brief History of ClarisWorks (2003)",
+      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
+    },
+    {
       "rank": "29.",
-      "title": "Ask HN: How do you overcome decision fatigue in software development?",
-      "link": "item?id=24176774"
+      "title": "The Market for Discontinued Photographic Film",
+      "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
     },
     {
       "rank": "30.",
-      "title": "A Brief History of ClarisWorks (2003)",
-      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
+      "title": "Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi",
+      "link": "https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/"
     }
   ],
   "metadata": {
