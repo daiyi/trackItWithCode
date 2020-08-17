@@ -22,93 +22,93 @@
     },
     {
       "rank": "5.",
-      "title": "Recent Advances in Natural Language Processing",
-      "link": "https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/"
-    },
-    {
-      "rank": "6.",
-      "title": "MicroPython",
-      "link": "https://micropython.org/"
-    },
-    {
-      "rank": "7.",
-      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
-      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
-    },
-    {
-      "rank": "8.",
-      "title": "A guide to learning algorithms through LeetCode",
-      "link": "https://github.com/labuladong/fucking-algorithm/tree/english"
-    },
-    {
-      "rank": "9.",
-      "title": "Show HN: I made an extension to watch Netflix films with screenplays in sync",
-      "link": "https://screenplaysubs.com/"
-    },
-    {
-      "rank": "10.",
       "title": "Xcsset Mac Malware: Infects Xcode Projects, Performs UXSS Attack on Safari",
       "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
     },
     {
+      "rank": "6.",
+      "title": "Recent Advances in Natural Language Processing",
+      "link": "https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/"
+    },
+    {
+      "rank": "7.",
+      "title": "MicroPython",
+      "link": "https://micropython.org/"
+    },
+    {
+      "rank": "8.",
+      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
+      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
+    },
+    {
+      "rank": "9.",
+      "title": "Google: Open Letter to Australians",
+      "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
+    },
+    {
+      "rank": "10.",
+      "title": "A guide to learning algorithms through LeetCode",
+      "link": "https://github.com/labuladong/fucking-algorithm/tree/english"
+    },
+    {
       "rank": "11.",
-      "title": "How Purism avoids Intel’s Active Management Technology",
-      "link": "https://puri.sm/learn/avoiding-intel-amt/"
+      "title": "Show HN: I made an extension to watch Netflix films with screenplays in sync",
+      "link": "https://screenplaysubs.com/"
     },
     {
       "rank": "12.",
-      "title": "TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM",
-      "link": "https://github.com/hpi-swa/trufflesqueak"
-    },
-    {
-      "rank": "13.",
-      "title": "LFE: Lisp Flavored Erlang",
-      "link": "https://lfe.io/books/tutorial/index.html"
-    },
-    {
-      "rank": "14.",
-      "title": "The Baltic states are reconfiguring their electric grids",
-      "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
-    },
-    {
-      "rank": "15.",
       "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
       "link": "https://github.com/p-ranav/structopt"
     },
     {
+      "rank": "13.",
+      "title": "How Purism avoids Intel’s Active Management Technology",
+      "link": "https://puri.sm/learn/avoiding-intel-amt/"
+    },
+    {
+      "rank": "14.",
+      "title": "TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM",
+      "link": "https://github.com/hpi-swa/trufflesqueak"
+    },
+    {
+      "rank": "15.",
+      "title": "LFE: Lisp Flavored Erlang",
+      "link": "https://lfe.io/books/tutorial/index.html"
+    },
+    {
       "rank": "16.",
+      "title": "The Baltic states are reconfiguring their electric grids",
+      "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
+    },
+    {
+      "rank": "17.",
       "title": "Hello “Hello World ”",
       "link": "https://blog.jfo.click/hello-hello-world/"
     },
     {
-      "rank": "17.",
-      "title": "WebAssembly without the browser part 1",
-      "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
-    },
-    {
       "rank": "18.",
-      "title": "Hiding messages in x86 binaries using semantic duals",
-      "link": "https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals"
-    },
-    {
-      "rank": "19.",
       "title": "Reversing Mental Age with Psychedelics",
       "link": "https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/"
     },
     {
+      "rank": "19.",
+      "title": "WebAssembly without the browser part 1",
+      "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
+    },
+    {
       "rank": "20.",
+      "title": "Hiding messages in x86 binaries using semantic duals",
+      "link": "https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals"
+    },
+    {
+      "rank": "21.",
       "title": "The Enigma of Gloom: On George Scialabba’s “How to Be Depressed”",
       "link": "https://lareviewofbooks.org/article/the-enigma-of-gloom-on-george-scialabbas-how-to-be-depressed/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Remote work is reshaping San Francisco, as tech workers flee and rents fall",
       "link": "https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602"
-    },
-    {
-      "rank": "22.",
-      "title": "Why did the A-level algorithm say no?",
-      "link": "https://www.bbc.co.uk/news/education-53787203"
     },
     {
       "rank": "23.",
@@ -117,28 +117,28 @@
     },
     {
       "rank": "24.",
+      "title": "Why did the A-level algorithm say no?",
+      "link": "https://www.bbc.co.uk/news/education-53787203"
+    },
+    {
+      "rank": "25.",
       "title": "Do I Need Kubernetes?",
       "link": "https://mbird.biz/writing/do-i-need-kubernetes.html"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Show HN: Use React to build G Suite dialogs and add-ons",
       "link": "https://github.com/enuchi/React-Google-Apps-Script"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "AKAI MPC 3000 sampler/sequencer drum machine",
       "link": "https://audiojive.com/akai-mpc-3000/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Kapton: Miracle Material with a Tragic History",
       "link": "https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/"
-    },
-    {
-      "rank": "28.",
-      "title": "“Rich People Can’t Stop”: The Luxe Quarantine Lives of Silicon Valley’s Elite",
-      "link": "https://www.vanityfair.com/news/2020/08/luxe-quarantine-lives-of-silicon-valley-elite"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "“Japanese Lindberghs” Made a 10k Mile-Flight in 1937",
-      "link": "https://www.airspacemag.com/airspacemag/japanese-lindberghs-180975338/"
+      "title": "“Rich People Can’t Stop”: The Luxe Quarantine Lives of Silicon Valley’s Elite",
+      "link": "https://www.vanityfair.com/news/2020/08/luxe-quarantine-lives-of-silicon-valley-elite"
     }
   ],
   "metadata": {
