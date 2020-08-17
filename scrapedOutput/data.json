@@ -2,7 +2,7 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "I fear App Review is getting too powerful [pdf]",
+      "title": "I fear App Review is getting too powerful (2015) [pdf]",
       "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
     },
     {
@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
-      "link": "https://www.nature.com/articles/s42003-020-01156-0"
+      "title": "Karpathy's MinGPT",
+      "link": "https://github.com/karpathy/minGPT"
     },
     {
       "rank": "4.",
-      "title": "Karpathy's MinGPT",
-      "link": "https://github.com/karpathy/minGPT"
+      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
+      "link": "https://www.nature.com/articles/s42003-020-01156-0"
     },
     {
       "rank": "5.",
@@ -27,73 +27,73 @@
     },
     {
       "rank": "6.",
-      "title": "Chat server on a WiFi-enabled SD card",
-      "link": "https://l-o-o-s-e-d.net/wartor"
-    },
-    {
-      "rank": "7.",
-      "title": "Apple, Epic, and the App Store",
-      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
-    },
-    {
-      "rank": "8.",
-      "title": "How to Build an Iconic Company – Keith Rabois [audio]",
-      "link": "https://nugget.fm/rabois/"
-    },
-    {
-      "rank": "9.",
-      "title": "A 35-year-old bug in patch found during the 2.11BSD restoration project",
-      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
-    },
-    {
-      "rank": "10.",
       "title": "Understanding Recursive Queries in PostgreSQL",
       "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
-      "rank": "11.",
+      "rank": "7.",
       "title": "We should discuss soil as much as we talk about coal",
       "link": "https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal"
     },
     {
-      "rank": "12.",
-      "title": "In Favor of Niceness, Community, and Civilization",
-      "link": "https://www.slatestarcodexabridged.com/In-Favor-Of-Niceness-Community-And-Civilization"
+      "rank": "8.",
+      "title": "Chat server on a WiFi-enabled SD card",
+      "link": "https://l-o-o-s-e-d.net/wartor"
     },
     {
-      "rank": "13.",
+      "rank": "9.",
+      "title": "Apple, Epic, and the App Store",
+      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
+    },
+    {
+      "rank": "10.",
+      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
+      "link": "item?id=24188214"
+    },
+    {
+      "rank": "11.",
+      "title": "A 35-year-old bug in patch found during the 2.11BSD restoration project",
+      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
+    },
+    {
+      "rank": "12.",
       "title": "Show HN: Search the text of articles submitted to HN, with live updating",
       "link": "https://hndex.ml/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "A look at the J language: the fine line between genius and insanity (2012)",
       "link": "https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/"
     },
     {
+      "rank": "14.",
+      "title": "How to Build an Iconic Company – Keith Rabois [audio]",
+      "link": "https://nugget.fm/rabois/"
+    },
+    {
       "rank": "15.",
-      "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
-      "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
+      "title": "Response to Google open letter",
+      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
     },
     {
       "rank": "16.",
-      "title": "Inviting employees back to the office – if you dare",
-      "link": "https://www.functionize.com/blog/inviting-employees-back-to-the-office-if-you-dare/"
+      "title": "Ask HN: Finding the Australian Aboriginal flag in all artworks",
+      "link": "item?id=24187794"
     },
     {
       "rank": "17.",
+      "title": "Next-Generation IBM POWER10 Processor",
+      "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
+    },
+    {
+      "rank": "18.",
       "title": "Named Tensors",
       "link": "http://nlp.seas.harvard.edu/NamedTensor"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "How the Black Sea shaped the ancient Mediterranean world",
       "link": "https://www.historytoday.com/reviews/around-other-pond"
-    },
-    {
-      "rank": "19.",
-      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
-      "link": "item?id=24188214"
     },
     {
       "rank": "20.",
@@ -102,53 +102,53 @@
     },
     {
       "rank": "21.",
-      "title": "Apple to kill Epic’s accounts on Friday the 28th",
-      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
-    },
-    {
-      "rank": "22.",
-      "title": "Robinhood now valued at $11.2B with new fund backing",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-17/robinhood-now-valued-at-11-2-billion-with-sundheim-fund-backing"
-    },
-    {
-      "rank": "23.",
       "title": "A-Levels: The Model is not the Student",
       "link": "http://thaines.com/post/alevels2020"
     },
     {
-      "rank": "24.",
+      "rank": "22.",
+      "title": "Apple to kill Epic’s accounts on Friday the 28th",
+      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
+    },
+    {
+      "rank": "23.",
       "title": "An Introduction to OpenBSD",
       "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
     },
     {
+      "rank": "24.",
+      "title": "The Market for Discontinued Photographic Film",
+      "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
+    },
+    {
       "rank": "25.",
+      "title": "Ask HN: How do you overcome decision fatigue in software development?",
+      "link": "item?id=24176774"
+    },
+    {
+      "rank": "26.",
+      "title": "Robinhood now valued at $11.2B with new fund backing",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-17/robinhood-now-valued-at-11-2-billion-with-sundheim-fund-backing"
+    },
+    {
+      "rank": "27.",
       "title": "Pathological Lying: Theoretical and Empirical Support for a Diagnostic Entity",
       "link": "https://psychnewsdaily.com/about-13-percent-of-people-are-pathological-liars/"
     },
     {
-      "rank": "26.",
-      "title": "Mux is looking for developers familiar with WebRTC/video to build new things",
-      "link": "https://mux.com/jobs?hnj=18"
-    },
-    {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
       "link": "https://dungeonmapdoodler.com/"
     },
     {
-      "rank": "28.",
-      "title": "Ask HN: Parents, what are you doing for school this fall?",
-      "link": "item?id=24189147"
-    },
-    {
       "rank": "29.",
-      "title": "Jobseekers face exploitation as online recruitment is riddled with fake news",
-      "link": "https://www.newstatesman.com/politics/economy/2020/08/jobseekers-face-exploitation-online-recruitment-riddled-fake-news"
+      "title": "Mux is looking for developers familiar with WebRTC/video to build new things",
+      "link": "https://mux.com/jobs?hnj=18"
     },
     {
       "rank": "30.",
-      "title": "Nerves – Elixir Platform for IoT",
-      "link": "https://www.nerves-project.org/"
+      "title": "Jobseekers face exploitation as online recruitment is riddled with fake news",
+      "link": "https://www.newstatesman.com/politics/economy/2020/08/jobseekers-face-exploitation-online-recruitment-riddled-fake-news"
     }
   ],
   "metadata": {
