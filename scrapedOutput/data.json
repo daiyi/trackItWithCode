@@ -7,38 +7,38 @@
     },
     {
       "rank": "2.",
-      "title": "How the Black Sea shaped the ancient Mediterranean world",
-      "link": "https://www.historytoday.com/reviews/around-other-pond"
-    },
-    {
-      "rank": "3.",
-      "title": "An Introduction to OpenBSD",
-      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
-    },
-    {
-      "rank": "4.",
-      "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
-      "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
-    },
-    {
-      "rank": "5.",
       "title": "A look at the J language: the fine line between genius and insanity (2012)",
       "link": "https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/"
     },
     {
+      "rank": "3.",
+      "title": "How the Black Sea shaped the ancient Mediterranean world",
+      "link": "https://www.historytoday.com/reviews/around-other-pond"
+    },
+    {
+      "rank": "4.",
+      "title": "An Introduction to OpenBSD",
+      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
+    },
+    {
+      "rank": "5.",
+      "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
+      "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
+    },
+    {
       "rank": "6.",
-      "title": "Response to Google open letter",
+      "title": "ACCC: Response to Google open letter",
       "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
     },
     {
       "rank": "7.",
-      "title": "How China’s Expanding Fishing Fleet Is Depleting the World’s Oceans",
-      "link": "https://e360.yale.edu/features/how-chinas-expanding-fishing-fleet-is-depleting-worlds-oceans"
+      "title": "Nerves – Elixir Platform for IoT",
+      "link": "https://www.nerves-project.org/"
     },
     {
       "rank": "8.",
-      "title": "Nerves – Elixir Platform for IoT",
-      "link": "https://www.nerves-project.org/"
+      "title": "How China’s Expanding Fishing Fleet Is Depleting the World’s Oceans",
+      "link": "https://e360.yale.edu/features/how-chinas-expanding-fishing-fleet-is-depleting-worlds-oceans"
     },
     {
       "rank": "9.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
-      "title": "Google: Open Letter to Australians",
-      "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
-    },
-    {
-      "rank": "14.",
       "title": "The Strange Costumes of the Plague Doctors",
       "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "The Market for Discontinued Photographic Film",
       "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
+    },
+    {
+      "rank": "15.",
+      "title": "A CRISPR first produces squid as clear as glass",
+      "link": "https://www.nature.com/articles/d41586-020-02242-3"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "A CRISPR first produces squid as clear as glass",
-      "link": "https://www.nature.com/articles/d41586-020-02242-3"
+      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
+      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
     },
     {
       "rank": "18.",
-      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
-      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
+      "title": "How to Start Using Microservices",
+      "link": "https://hackernoon.com/how-to-start-using-microservices-0e1z3u47"
     },
     {
       "rank": "19.",
@@ -107,33 +107,33 @@
     },
     {
       "rank": "22.",
-      "title": "Ecommerce Is Eating the World – Join EasyPost",
-      "link": "https://www.easypost.com/careers"
-    },
-    {
-      "rank": "23.",
-      "title": "How to Start Using Microservices",
-      "link": "https://hackernoon.com/how-to-start-using-microservices-0e1z3u47"
-    },
-    {
-      "rank": "24.",
       "title": "Idris 2 version 0.2.1",
       "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
     },
     {
-      "rank": "25.",
+      "rank": "23.",
+      "title": "Ecommerce Is Eating the World – Join EasyPost",
+      "link": "https://www.easypost.com/careers"
+    },
+    {
+      "rank": "24.",
       "title": "A brief introduction to observational entropy",
       "link": "https://arxiv.org/abs/2008.04409"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
       "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi",
       "link": "https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/"
+    },
+    {
+      "rank": "27.",
+      "title": "Google: Open Letter to Australians",
+      "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
     },
     {
       "rank": "28.",
