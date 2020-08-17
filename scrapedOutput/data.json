@@ -7,28 +7,28 @@
     },
     {
       "rank": "2.",
+      "title": "Ask HN: How do you overcome decision fatigue in software development?",
+      "link": "item?id=24176774"
+    },
+    {
+      "rank": "3.",
       "title": "A 35-year-old bug in patch found during the 2.11BSD restoration project",
       "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "A look at the J language: the fine line between genius and insanity (2012)",
       "link": "https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
       "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "How the Black Sea shaped the ancient Mediterranean world",
       "link": "https://www.historytoday.com/reviews/around-other-pond"
-    },
-    {
-      "rank": "6.",
-      "title": "I Quit My Job. Here’s How I Planned the Start as an Entrepreneur",
-      "link": "https://medium.com/@sjorsvandongen/i-quit-my-job-heres-how-i-planned-the-start-as-an-entrepreneur-7bc546631431"
     },
     {
       "rank": "7.",
@@ -42,58 +42,58 @@
     },
     {
       "rank": "9.",
+      "title": "Named Tensors",
+      "link": "http://nlp.seas.harvard.edu/NamedTensor"
+    },
+    {
+      "rank": "10.",
+      "title": "Chat server on a WiFi-enabled SD card",
+      "link": "https://l-o-o-s-e-d.net/wartor"
+    },
+    {
+      "rank": "11.",
       "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
       "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
     },
     {
-      "rank": "10.",
+      "rank": "12.",
+      "title": "US post office carriers \"forced to work fewer hours,\" leaving \"buckets of mail\"",
+      "link": "https://www.theguardian.com/business/2020/aug/16/usps-mail-delays-postmaster-general-changes-workers"
+    },
+    {
+      "rank": "13.",
       "title": "Are CRDTs suitable for shared editing?",
       "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
     },
     {
-      "rank": "11.",
+      "rank": "14.",
       "title": "Nerves – Elixir Platform for IoT",
       "link": "https://www.nerves-project.org/"
     },
     {
-      "rank": "12.",
+      "rank": "15.",
       "title": "ACCC: Response to Google open letter",
       "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
     },
     {
-      "rank": "13.",
-      "title": "Ask HN: How do you overcome decision fatigue in software development?",
-      "link": "item?id=24176774"
-    },
-    {
-      "rank": "14.",
-      "title": "OpenAI: Spinning Up in Deep RL",
-      "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
-    },
-    {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Handmade: A Community for Self-Rolled Performant Software (2016)",
       "link": "https://handmade.network/manifesto"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
+      "title": "OpenAI: Spinning Up in Deep RL",
+      "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
+    },
+    {
+      "rank": "18.",
       "title": "The Strange Costumes of the Plague Doctors",
       "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
     },
     {
-      "rank": "17.",
+      "rank": "19.",
       "title": "To Know, but Not Understand: David Weinberger on Science and Big Data (2012)",
       "link": "https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/"
-    },
-    {
-      "rank": "18.",
-      "title": "The Market for Discontinued Photographic Film",
-      "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
-    },
-    {
-      "rank": "19.",
-      "title": "A CRISPR first produces squid as clear as glass",
-      "link": "https://www.nature.com/articles/d41586-020-02242-3"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "“Time of the Magicians” – philosophy's great decade?",
-      "link": "https://www.theguardian.com/books/2020/aug/13/time-of-the-magicians-by-wolfram-eilenberger-review-philosophys-great-decade"
+      "title": "A CRISPR first produces squid as clear as glass",
+      "link": "https://www.nature.com/articles/d41586-020-02242-3"
     },
     {
       "rank": "22.",
-      "title": "Named Tensors",
-      "link": "http://nlp.seas.harvard.edu/NamedTensor"
+      "title": "“Time of the Magicians” – philosophy's great decade?",
+      "link": "https://www.theguardian.com/books/2020/aug/13/time-of-the-magicians-by-wolfram-eilenberger-review-philosophys-great-decade"
     },
     {
       "rank": "23.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Rolling Blackouts in California Have Power Experts Stumped",
-      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
-    },
-    {
-      "rank": "27.",
       "title": "A Brief History of ClarisWorks (2003)",
       "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
     },
     {
+      "rank": "27.",
+      "title": "Rolling Blackouts in California Have Power Experts Stumped",
+      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
+    },
+    {
       "rank": "28.",
+      "title": "The Market for Discontinued Photographic Film",
+      "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
+    },
+    {
+      "rank": "29.",
       "title": "Ecommerce Is Eating the World – Join EasyPost",
       "link": "https://www.easypost.com/careers"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
       "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
-    },
-    {
-      "rank": "30.",
-      "title": "Idris 2 version 0.2.1",
-      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
     }
   ],
   "metadata": {
