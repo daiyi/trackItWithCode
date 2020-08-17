@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
-      "title": "A Twist on Schrödinger's Cat Paradox",
-      "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
-    },
-    {
-      "rank": "9.",
-      "title": "Vanta (YC W18) is hiring as we build simple security and compliance for startups",
-      "link": "https://vanta.com/jobs"
-    },
-    {
-      "rank": "10.",
       "title": "Apple, Epic, and the App Store",
       "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
     },
     {
-      "rank": "11.",
+      "rank": "9.",
+      "title": "A Twist on Schrödinger's Cat Paradox",
+      "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
+    },
+    {
+      "rank": "10.",
       "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
       "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
+    },
+    {
+      "rank": "11.",
+      "title": "Vanta (YC W18) is hiring as we build simple security and compliance for startups",
+      "link": "https://vanta.com/jobs"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
+      "title": "Apple to kill Epic’s accounts on Friday the 28th",
+      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
+    },
+    {
+      "rank": "14.",
       "title": "Show HN: Search the text of articles submitted to HN, with live updating",
       "link": "https://hndex.ml/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
       "link": "https://www.dropbase.io/"
-    },
-    {
-      "rank": "15.",
-      "title": "Rolling blackouts in California have power experts stumped",
-      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
-      "link": "https://kliu.io/post/yubico-magic-unlock/"
+      "title": "Rolling blackouts in California have power experts stumped",
+      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
       "rank": "18.",
-      "title": "Response to Google open letter",
-      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
+      "title": "How to Build an Iconic Company – Keith Rabois [audio]",
+      "link": "https://nugget.fm/rabois/"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "How to Build an Iconic Company – Keith Rabois [audio]",
-      "link": "https://nugget.fm/rabois/"
+      "title": "Response to Google open letter",
+      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
     },
     {
       "rank": "21.",
-      "title": "Jobseekers face exploitation as online recruitment is riddled with fake news",
-      "link": "https://www.newstatesman.com/politics/economy/2020/08/jobseekers-face-exploitation-online-recruitment-riddled-fake-news"
+      "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
+      "link": "https://kliu.io/post/yubico-magic-unlock/"
     },
     {
       "rank": "22.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "Ask HN: Finding the Australian Aboriginal flag in all artworks",
-      "link": "item?id=24187794"
+      "title": "Jobseekers face exploitation as online recruitment is riddled with fake news",
+      "link": "https://www.newstatesman.com/politics/economy/2020/08/jobseekers-face-exploitation-online-recruitment-riddled-fake-news"
     },
     {
       "rank": "24.",
-      "title": "A Brief History of ClarisWorks (2003)",
-      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
+      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
+      "link": "https://dungeonmapdoodler.com/"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "How the Black Sea shaped the ancient Mediterranean world",
-      "link": "https://www.historytoday.com/reviews/around-other-pond"
-    },
-    {
-      "rank": "27.",
-      "title": "Are CRDTs suitable for shared editing?",
-      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
-    },
-    {
-      "rank": "28.",
       "title": "Robinhood now valued at $11.2B with new fund backing",
       "link": "https://www.bloomberg.com/news/articles/2020-08-17/robinhood-now-valued-at-11-2-billion-with-sundheim-fund-backing"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
       "title": "Ask HN: How do you overcome decision fatigue in software development?",
       "link": "item?id=24176774"
     },
     {
+      "rank": "28.",
+      "title": "A Brief History of ClarisWorks (2003)",
+      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
+    },
+    {
+      "rank": "29.",
+      "title": "Are CRDTs suitable for shared editing?",
+      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
+    },
+    {
       "rank": "30.",
-      "title": "A-Levels: The Model is not the Student",
-      "link": "http://thaines.com/post/alevels2020"
+      "title": "How the Black Sea shaped the ancient Mediterranean world",
+      "link": "https://www.historytoday.com/reviews/around-other-pond"
     }
   ],
   "metadata": {
