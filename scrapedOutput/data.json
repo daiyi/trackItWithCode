@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
-      "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
-      "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
-    },
-    {
-      "rank": "4.",
       "title": "OpenAI: Spinning Up in Deep RL",
       "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
     },
     {
+      "rank": "4.",
+      "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
+      "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
+    },
+    {
       "rank": "5.",
-      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
-      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
+      "title": "Handmade: A Community for Self-Rolled Performant Software",
+      "link": "https://handmade.network/manifesto"
     },
     {
       "rank": "6.",
@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "Handmade: A Community for Self-Rolled Performant Software",
-      "link": "https://handmade.network/manifesto"
+      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
+      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
     },
     {
       "rank": "8.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "A CRISPR first produces squid as clear as glass",
-      "link": "https://www.nature.com/articles/d41586-020-02242-3"
+      "title": "Pure Skill Minesweeper",
+      "link": "https://github.andrewt.net/mines/"
     },
     {
       "rank": "11.",
-      "title": "Pure Skill Minesweeper",
-      "link": "https://github.andrewt.net/mines/"
+      "title": "A CRISPR first produces squid as clear as glass",
+      "link": "https://www.nature.com/articles/d41586-020-02242-3"
     },
     {
       "rank": "12.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "Reversing Mental Age with Psychedelics",
-      "link": "https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/"
+      "title": "Not everyone needs 8 hours of sleep: new research",
+      "link": "https://time.com/5876614/circadian-rhythm-study/"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Digital Design in Architecture: research landscape map 1975-2019",
-      "link": "https://github.com/antonsavov/research-maps"
+      "title": "Reversing Mental Age with Psychedelics",
+      "link": "https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/"
     },
     {
       "rank": "19.",
-      "title": "Not everyone needs 8 hours of sleep: new research",
-      "link": "https://time.com/5876614/circadian-rhythm-study/"
+      "title": "Digital Design in Architecture: research landscape map 1975-2019",
+      "link": "https://github.com/antonsavov/research-maps"
     },
     {
       "rank": "20.",
@@ -107,18 +107,18 @@
     },
     {
       "rank": "22.",
-      "title": "Global Wave Discovery Ends 220-Year Search",
-      "link": "http://abstractions.nautil.us/article/603/global-wave-discovery-ends-220-year-search"
-    },
-    {
-      "rank": "23.",
       "title": "The Baltic states are reconfiguring their electric grids",
       "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM",
       "link": "https://github.com/hpi-swa/trufflesqueak"
+    },
+    {
+      "rank": "24.",
+      "title": "Global Wave Discovery Ends 220-Year Search",
+      "link": "http://abstractions.nautil.us/article/603/global-wave-discovery-ends-220-year-search"
     },
     {
       "rank": "25.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
-      "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
-      "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
-    },
-    {
-      "rank": "27.",
       "title": "WebAssembly without the browser",
       "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Hello “Hello World”",
       "link": "https://blog.jfo.click/hello-hello-world/"
+    },
+    {
+      "rank": "28.",
+      "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
+      "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
     },
     {
       "rank": "29.",
