@@ -7,53 +7,53 @@
     },
     {
       "rank": "2.",
-      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
-      "link": "https://www.nature.com/articles/s42003-020-01156-0"
-    },
-    {
-      "rank": "3.",
       "title": "I fear App Review is getting too powerful [pdf]",
       "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Karpathy's MinGPT",
       "link": "https://github.com/karpathy/minGPT"
     },
     {
+      "rank": "4.",
+      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
+      "link": "https://www.nature.com/articles/s42003-020-01156-0"
+    },
+    {
       "rank": "5.",
-      "title": "Belarus president: “Until you kill me, there will be no other elections”",
-      "link": "https://news.sky.com/story/belarus-uk-condemns-appalling-violence-against-protesters-and-does-not-accept-results-of-election-12050864"
-    },
-    {
-      "rank": "6.",
-      "title": "In Favor of Niceness, Community, and Civilization",
-      "link": "https://www.slatestarcodexabridged.com/In-Favor-Of-Niceness-Community-And-Civilization"
-    },
-    {
-      "rank": "7.",
-      "title": "How to Build an Iconic Company – Keith Rabois",
-      "link": "https://nugget.fm/rabois/"
-    },
-    {
-      "rank": "8.",
       "title": "Chat server on a WiFi-enabled SD card",
       "link": "https://l-o-o-s-e-d.net/wartor"
     },
     {
-      "rank": "9.",
+      "rank": "6.",
+      "title": "How to Build an Iconic Company – Keith Rabois [audio]",
+      "link": "https://nugget.fm/rabois/"
+    },
+    {
+      "rank": "7.",
       "title": "A 35-year-old bug in patch found during the 2.11BSD restoration project",
       "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
-      "rank": "10.",
+      "rank": "8.",
+      "title": "A Twist on Schrödinger's Cat Paradox Has Major Implications for Quantum Theory",
+      "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
+    },
+    {
+      "rank": "9.",
       "title": "Show HN: Search the text of articles submitted to HN, with live updating",
       "link": "https://hndex.ml/"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "A look at the J language: the fine line between genius and insanity (2012)",
       "link": "https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/"
+    },
+    {
+      "rank": "11.",
+      "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
+      "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
     },
     {
       "rank": "12.",
@@ -62,93 +62,93 @@
     },
     {
       "rank": "13.",
-      "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
-      "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
-    },
-    {
-      "rank": "14.",
-      "title": "A Twist on Schrödinger's Cat Paradox Has Major Implications for Quantum Theory",
-      "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
-    },
-    {
-      "rank": "15.",
       "title": "Inviting employees back to the office – if you dare",
       "link": "https://www.functionize.com/blog/inviting-employees-back-to-the-office-if-you-dare/"
     },
     {
-      "rank": "16.",
+      "rank": "14.",
       "title": "Named Tensors",
       "link": "http://nlp.seas.harvard.edu/NamedTensor"
     },
     {
-      "rank": "17.",
+      "rank": "15.",
       "title": "How the Black Sea shaped the ancient Mediterranean world",
       "link": "https://www.historytoday.com/reviews/around-other-pond"
     },
     {
-      "rank": "18.",
+      "rank": "16.",
       "title": "An Introduction to OpenBSD",
       "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
     },
     {
-      "rank": "19.",
-      "title": "Mux is looking for developers familiar with WebRTC/video to build new things",
-      "link": "https://mux.com/jobs?hnj=18"
-    },
-    {
-      "rank": "20.",
+      "rank": "17.",
       "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
       "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
     },
     {
-      "rank": "21.",
-      "title": "Jobseekers face exploitation as online recruitment is riddled with fake news",
-      "link": "https://www.newstatesman.com/politics/economy/2020/08/jobseekers-face-exploitation-online-recruitment-riddled-fake-news"
-    },
-    {
-      "rank": "22.",
+      "rank": "18.",
       "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
       "link": "https://kliu.io/post/yubico-magic-unlock/"
     },
     {
-      "rank": "23.",
-      "title": "Nerves – Elixir Platform for IoT",
-      "link": "https://www.nerves-project.org/"
+      "rank": "19.",
+      "title": "Jobseekers face exploitation as online recruitment is riddled with fake news",
+      "link": "https://www.newstatesman.com/politics/economy/2020/08/jobseekers-face-exploitation-online-recruitment-riddled-fake-news"
     },
     {
-      "rank": "24.",
-      "title": "Are CRDTs suitable for shared editing?",
-      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
-    },
-    {
-      "rank": "25.",
-      "title": "Strange Rhythms: On Rosemary Mayer’s 1971 diary",
-      "link": "https://www.thenation.com/article/culture/rosemary-mayer-diaries-1971/"
-    },
-    {
-      "rank": "26.",
+      "rank": "20.",
       "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
       "link": "https://dungeonmapdoodler.com/"
     },
     {
-      "rank": "27.",
-      "title": "Apple, Epic, and the App Store",
-      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
+      "rank": "21.",
+      "title": "Mux is looking for developers familiar with WebRTC/video to build new things",
+      "link": "https://mux.com/jobs?hnj=18"
     },
     {
-      "rank": "28.",
+      "rank": "22.",
+      "title": "Nerves – Elixir Platform for IoT",
+      "link": "https://www.nerves-project.org/"
+    },
+    {
+      "rank": "23.",
+      "title": "Are CRDTs suitable for shared editing?",
+      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
+    },
+    {
+      "rank": "24.",
+      "title": "Strange Rhythms: On Rosemary Mayer’s 1971 diary",
+      "link": "https://www.thenation.com/article/culture/rosemary-mayer-diaries-1971/"
+    },
+    {
+      "rank": "25.",
       "title": "ACCC: Response to Google open letter",
       "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
     },
     {
-      "rank": "29.",
+      "rank": "26.",
+      "title": "Apple, Epic, and the App Store",
+      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
+    },
+    {
+      "rank": "27.",
       "title": "OpenAI: Spinning Up in Deep RL",
       "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
     },
     {
+      "rank": "28.",
+      "title": "The Strange Costumes of the Plague Doctors",
+      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
+    },
+    {
+      "rank": "29.",
+      "title": "Apple to kill Epic’s accounts on Friday the 28th",
+      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
+    },
+    {
       "rank": "30.",
-      "title": "A Proposed Origin for SARS-CoV-2 and the Covid-19 Pandemic",
-      "link": "https://jonathanlatham.net/a-proposed-origin-for-sars-cov-2-and-the-covid-19-pandemic/"
+      "title": "Handmade: A Community for Self-Rolled Performant Software (2016)",
+      "link": "https://handmade.network/manifesto"
     }
   ],
   "metadata": {
