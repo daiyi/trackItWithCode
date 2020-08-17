@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "OpenAI: Spinning Up in Deep RL",
-      "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
+      "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
+      "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
     },
     {
       "rank": "4.",
-      "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
-      "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
+      "title": "OpenAI: Spinning Up in Deep RL",
+      "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
     },
     {
       "rank": "5.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
+      "title": "Handmade: A Community for Self-Rolled Performant Software",
+      "link": "https://handmade.network/manifesto"
+    },
+    {
+      "rank": "8.",
       "title": "Google: Open Letter to Australians",
       "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Factorio and Software Engineering",
       "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
-    },
-    {
-      "rank": "9.",
-      "title": "Pure Skill Minesweeper",
-      "link": "https://github.andrewt.net/mines/"
     },
     {
       "rank": "10.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
+      "title": "Pure Skill Minesweeper",
+      "link": "https://github.andrewt.net/mines/"
+    },
+    {
+      "rank": "12.",
       "title": "A Brief History of ClarisWorks (1969)",
       "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Art of chording",
       "link": "https://www.artofchording.com"
-    },
-    {
-      "rank": "13.",
-      "title": "Handmade: A Community for Self-Rolled Performant Software",
-      "link": "https://handmade.network/manifesto"
     },
     {
       "rank": "14.",
@@ -77,18 +77,18 @@
     },
     {
       "rank": "16.",
-      "title": "Digital Design in Architecture: research landscape map 1975-2019",
-      "link": "https://github.com/antonsavov/research-maps"
-    },
-    {
-      "rank": "17.",
       "title": "Reversing Mental Age with Psychedelics",
       "link": "https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/"
     },
     {
+      "rank": "17.",
+      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
+      "link": "https://github.com/p-ranav/structopt"
+    },
+    {
       "rank": "18.",
-      "title": "Show HN: I made an extension to watch Netflix films with screenplays in sync",
-      "link": "https://screenplaysubs.com/"
+      "title": "Digital Design in Architecture: research landscape map 1975-2019",
+      "link": "https://github.com/antonsavov/research-maps"
     },
     {
       "rank": "19.",
@@ -97,23 +97,23 @@
     },
     {
       "rank": "20.",
-      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
-      "link": "https://github.com/p-ranav/structopt"
-    },
-    {
-      "rank": "21.",
       "title": "Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi",
       "link": "https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Alaska that never was: Seward's Success (2011)",
       "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Global Wave Discovery Ends 220-Year Search",
       "link": "http://abstractions.nautil.us/article/603/global-wave-discovery-ends-220-year-search"
+    },
+    {
+      "rank": "23.",
+      "title": "The Baltic states are reconfiguring their electric grids",
+      "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
     },
     {
       "rank": "24.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
-      "title": "The Baltic states are reconfiguring their electric grids",
-      "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
-    },
-    {
-      "rank": "26.",
       "title": "LFE: Lisp Flavored Erlang",
       "link": "https://lfe.io/books/tutorial/index.html"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
       "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
+    },
+    {
+      "rank": "27.",
+      "title": "WebAssembly without the browser",
+      "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "WebAssembly without the browser",
-      "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
+      "title": "Utah and Georgia install tech that lets roads talk",
+      "link": "https://www.foxbusiness.com/technology/utah-and-georgia-install-tech-that-lets-roads-talk"
     }
   ],
   "metadata": {
