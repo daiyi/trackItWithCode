@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Art of chording",
-      "link": "https://www.artofchording.com"
+      "title": "Pure Skill Minesweeper",
+      "link": "https://github.andrewt.net/mines/"
     },
     {
       "rank": "4.",
-      "title": "Pure Skill Minesweeper",
-      "link": "https://github.andrewt.net/mines/"
+      "title": "Art of chording",
+      "link": "https://www.artofchording.com"
     },
     {
       "rank": "5.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "How Purism avoids Intel’s Active Management Technology",
-      "link": "https://puri.sm/learn/avoiding-intel-amt/"
+      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
+      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
     },
     {
       "rank": "11.",
-      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
-      "link": "https://github.com/p-ranav/structopt"
+      "title": "How Purism avoids Intel’s Active Management Technology",
+      "link": "https://puri.sm/learn/avoiding-intel-amt/"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
+      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
+      "link": "https://github.com/p-ranav/structopt"
+    },
+    {
+      "rank": "14.",
       "title": "The Baltic states are reconfiguring their electric grids",
       "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "LFE: Lisp Flavored Erlang",
       "link": "https://lfe.io/books/tutorial/index.html"
-    },
-    {
-      "rank": "15.",
-      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
-      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
     },
     {
       "rank": "16.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Big Sur: “Warning: PHP is not recommended”",
-      "link": "https://twitter.com/GrahamJCampbell/status/1295111982924861442"
+      "title": "Web History: Browsers",
+      "link": "https://css-tricks.com/chapter-2-browsers/"
     },
     {
       "rank": "30.",
-      "title": "Web History: Browsers",
-      "link": "https://css-tricks.com/chapter-2-browsers/"
+      "title": "Big Sur: “Warning: PHP is not recommended”",
+      "link": "https://twitter.com/GrahamJCampbell/status/1295111982924861442"
     }
   ],
   "metadata": {
