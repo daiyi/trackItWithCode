@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "An Introduction to OpenBSD",
-      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
+      "title": "A 35-year-old bug in patch found during the 2.11BSD restoration project",
+      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
       "rank": "6.",
@@ -32,123 +32,123 @@
     },
     {
       "rank": "7.",
+      "title": "An Introduction to OpenBSD",
+      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
+    },
+    {
+      "rank": "8.",
       "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
       "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
     },
     {
-      "rank": "8.",
-      "title": "A 35-year-old bug in patch found during the 2.11BSD restoration project",
-      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
+      "rank": "9.",
+      "title": "I Quit My Job. Here’s How I Planned the Start as an Entrepreneur",
+      "link": "https://medium.com/@sjorsvandongen/i-quit-my-job-heres-how-i-planned-the-start-as-an-entrepreneur-7bc546631431"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Are CRDTs suitable for shared editing?",
       "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Nerves – Elixir Platform for IoT",
       "link": "https://www.nerves-project.org/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "ACCC: Response to Google open letter",
       "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
+      "title": "Ask HN: How do you overcome decision fatigue in software development?",
+      "link": "item?id=24176774"
+    },
+    {
+      "rank": "14.",
       "title": "Handmade: A Community for Self-Rolled Performant Software (2016)",
       "link": "https://handmade.network/manifesto"
     },
     {
-      "rank": "13.",
+      "rank": "15.",
       "title": "OpenAI: Spinning Up in Deep RL",
       "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
     },
     {
-      "rank": "14.",
+      "rank": "16.",
       "title": "To Know, but Not Understand: David Weinberger on Science and Big Data (2012)",
       "link": "https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/"
     },
     {
-      "rank": "15.",
+      "rank": "17.",
       "title": "The Strange Costumes of the Plague Doctors",
       "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
     },
     {
-      "rank": "16.",
-      "title": "Ask HN: I need help finding the Australian Aboriginal flag in all artworks",
-      "link": "item?id=24187794"
-    },
-    {
-      "rank": "17.",
+      "rank": "18.",
       "title": "The Market for Discontinued Photographic Film",
       "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "A CRISPR first produces squid as clear as glass",
       "link": "https://www.nature.com/articles/d41586-020-02242-3"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
+      "title": "Ask HN: I need help finding the Australian Aboriginal flag in all artworks",
+      "link": "item?id=24187794"
+    },
+    {
+      "rank": "21.",
       "title": "“Time of the Magicians” – philosophy's great decade?",
       "link": "https://www.theguardian.com/books/2020/aug/13/time-of-the-magicians-by-wolfram-eilenberger-review-philosophys-great-decade"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
+      "title": "Named Tensors",
+      "link": "http://nlp.seas.harvard.edu/NamedTensor"
+    },
+    {
+      "rank": "23.",
       "title": "Mindfulness and meditation can worsen depression and anxiety",
       "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
-      "rank": "21.",
+      "rank": "24.",
       "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
       "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
     },
     {
-      "rank": "22.",
+      "rank": "25.",
+      "title": "Robinhood Now Valued at $11.2B with New Fund Backing",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-17/robinhood-now-valued-at-11-2-billion-with-sundheim-fund-backing"
+    },
+    {
+      "rank": "26.",
       "title": "Rolling Blackouts in California Have Power Experts Stumped",
       "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
-      "rank": "23.",
+      "rank": "27.",
       "title": "A Brief History of ClarisWorks (2003)",
       "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
     },
     {
-      "rank": "24.",
+      "rank": "28.",
       "title": "Ecommerce Is Eating the World – Join EasyPost",
       "link": "https://www.easypost.com/careers"
     },
     {
-      "rank": "25.",
+      "rank": "29.",
       "title": "Idris 2 version 0.2.1",
       "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
     },
     {
-      "rank": "26.",
+      "rank": "30.",
       "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
       "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
-    },
-    {
-      "rank": "27.",
-      "title": "Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi",
-      "link": "https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/"
-    },
-    {
-      "rank": "28.",
-      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
-      "link": "https://github.com/p-ranav/structopt"
-    },
-    {
-      "rank": "29.",
-      "title": "Remote work is reshaping San Francisco, as tech workers flee and rents fall",
-      "link": "https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602"
-    },
-    {
-      "rank": "30.",
-      "title": "Factorio and Software Engineering",
-      "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
     }
   ],
   "metadata": {
