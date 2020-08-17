@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Xcsset Mac Malware: Infects Xcode Projects, Performs UXSS Attack on Safari",
+      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
       "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
     },
     {
       "rank": "2.",
-      "title": "The Hard Problem of Breakfast",
-      "link": "http://nautil.us//issue/88/love--sex/the-hard-problem-of-breakfast"
-    },
-    {
-      "rank": "3.",
       "title": "Factorio and Software Engineering",
       "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Google: Open Letter to Australians",
       "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
+    },
+    {
+      "rank": "4.",
+      "title": "Show HN: AppleBot – Automate Things in Apple Dev Portal",
+      "link": "https://www.getapplebot.com"
     },
     {
       "rank": "5.",
@@ -32,38 +32,38 @@
     },
     {
       "rank": "7.",
-      "title": "Show HN: AppleBot – Automate Things in Apple Dev Portal (Developer.apple.com)",
-      "link": "https://www.getapplebot.com"
-    },
-    {
-      "rank": "8.",
       "title": "Art of chording",
       "link": "https://www.artofchording.com"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Recent Advances in Natural Language Processing",
       "link": "https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "MicroPython",
       "link": "https://micropython.org/"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Alaska that never was: Seward's Success (2011)",
       "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "A guide to learning algorithms through LeetCode",
       "link": "https://github.com/labuladong/fucking-algorithm/tree/english"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Show HN: I made an extension to watch Netflix films with screenplays in sync",
       "link": "https://screenplaysubs.com/"
+    },
+    {
+      "rank": "13.",
+      "title": "The Hard Problem of Breakfast",
+      "link": "http://nautil.us//issue/88/love--sex/the-hard-problem-of-breakfast"
     },
     {
       "rank": "14.",
@@ -82,23 +82,23 @@
     },
     {
       "rank": "17.",
-      "title": "TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM",
-      "link": "https://github.com/hpi-swa/trufflesqueak"
-    },
-    {
-      "rank": "18.",
-      "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
-      "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
-    },
-    {
-      "rank": "19.",
       "title": "The Baltic states are reconfiguring their electric grids",
       "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
     },
     {
-      "rank": "20.",
+      "rank": "18.",
+      "title": "TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM",
+      "link": "https://github.com/hpi-swa/trufflesqueak"
+    },
+    {
+      "rank": "19.",
       "title": "Hello “Hello World”",
       "link": "https://blog.jfo.click/hello-hello-world/"
+    },
+    {
+      "rank": "20.",
+      "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
+      "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
     },
     {
       "rank": "21.",
@@ -107,18 +107,18 @@
     },
     {
       "rank": "22.",
+      "title": "Not everyone needs 8 hours of sleep: new research",
+      "link": "https://time.com/5876614/circadian-rhythm-study/"
+    },
+    {
+      "rank": "23.",
       "title": "WebAssembly without the browser part 1",
       "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Hiding messages in x86 binaries using semantic duals",
       "link": "https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals"
-    },
-    {
-      "rank": "24.",
-      "title": "How long since Google said a Google Drive Linux client is coming?",
-      "link": "https://abevoelker.github.io/how-long-since-google-said-a-google-drive-linux-client-is-coming/"
     },
     {
       "rank": "25.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Remote work is reshaping San Francisco, as tech workers flee and rents fall",
-      "link": "https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602"
+      "title": "Utah and Georgia install tech that lets roads talk",
+      "link": "https://www.foxbusiness.com/technology/utah-and-georgia-install-tech-that-lets-roads-talk"
     },
     {
       "rank": "27.",
-      "title": "Utah and Georgia install tech that lets roads talk",
-      "link": "https://www.foxbusiness.com/technology/utah-and-georgia-install-tech-that-lets-roads-talk"
+      "title": "Remote work is reshaping San Francisco, as tech workers flee and rents fall",
+      "link": "https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602"
     },
     {
       "rank": "28.",
