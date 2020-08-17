@@ -7,23 +7,23 @@
     },
     {
       "rank": "2.",
-      "title": "Factorio and Software Engineering",
-      "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
-    },
-    {
-      "rank": "3.",
       "title": "Google: Open Letter to Australians",
       "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
     },
     {
+      "rank": "3.",
+      "title": "Factorio and Software Engineering",
+      "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
+    },
+    {
       "rank": "4.",
-      "title": "Show HN: AppleBot – Automate Things in Apple Dev Portal",
-      "link": "https://www.getapplebot.com"
+      "title": "Pure Skill Minesweeper",
+      "link": "https://github.andrewt.net/mines/"
     },
     {
       "rank": "5.",
-      "title": "Pure Skill Minesweeper",
-      "link": "https://github.andrewt.net/mines/"
+      "title": "Art of chording",
+      "link": "https://www.artofchording.com"
     },
     {
       "rank": "6.",
@@ -32,53 +32,53 @@
     },
     {
       "rank": "7.",
-      "title": "Art of chording",
-      "link": "https://www.artofchording.com"
-    },
-    {
-      "rank": "8.",
       "title": "Recent Advances in Natural Language Processing",
       "link": "https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "MicroPython",
       "link": "https://micropython.org/"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Alaska that never was: Seward's Success (2011)",
       "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
     },
     {
-      "rank": "11.",
-      "title": "A guide to learning algorithms through LeetCode",
-      "link": "https://github.com/labuladong/fucking-algorithm/tree/english"
+      "rank": "10.",
+      "title": "OpenAI: Spinning Up in Deep RL",
+      "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Show HN: I made an extension to watch Netflix films with screenplays in sync",
       "link": "https://screenplaysubs.com/"
     },
     {
-      "rank": "13.",
-      "title": "The Hard Problem of Breakfast",
-      "link": "http://nautil.us//issue/88/love--sex/the-hard-problem-of-breakfast"
+      "rank": "12.",
+      "title": "A CRISPR first produces squid as clear as glass",
+      "link": "https://www.nature.com/articles/d41586-020-02242-3"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
       "link": "https://github.com/p-ranav/structopt"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "How Purism avoids Intel’s Active Management Technology",
       "link": "https://puri.sm/learn/avoiding-intel-amt/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Reversing Mental Age with Psychedelics",
       "link": "https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/"
+    },
+    {
+      "rank": "16.",
+      "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
+      "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
     },
     {
       "rank": "17.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
-      "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
-      "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
-    },
-    {
-      "rank": "21.",
       "title": "LFE: Lisp Flavored Erlang",
       "link": "https://lfe.io/books/tutorial/index.html"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Not everyone needs 8 hours of sleep: new research",
       "link": "https://time.com/5876614/circadian-rhythm-study/"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "WebAssembly without the browser part 1",
       "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
     },
     {
-      "rank": "24.",
-      "title": "Hiding messages in x86 binaries using semantic duals",
-      "link": "https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals"
-    },
-    {
-      "rank": "25.",
+      "rank": "23.",
       "title": "Show HN: Use React to build G Suite dialogs and add-ons",
       "link": "https://github.com/enuchi/React-Google-Apps-Script"
     },
     {
-      "rank": "26.",
+      "rank": "24.",
       "title": "Utah and Georgia install tech that lets roads talk",
       "link": "https://www.foxbusiness.com/technology/utah-and-georgia-install-tech-that-lets-roads-talk"
     },
     {
-      "rank": "27.",
+      "rank": "25.",
+      "title": "The Hard Problem of Breakfast",
+      "link": "http://nautil.us//issue/88/love--sex/the-hard-problem-of-breakfast"
+    },
+    {
+      "rank": "26.",
       "title": "Remote work is reshaping San Francisco, as tech workers flee and rents fall",
       "link": "https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "The Enigma of Gloom: On George Scialabba’s “How to Be Depressed”",
       "link": "https://lareviewofbooks.org/article/the-enigma-of-gloom-on-george-scialabbas-how-to-be-depressed/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Why did the A-level algorithm say no?",
       "link": "https://www.bbc.co.uk/news/education-53787203"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Web History: Browsers",
       "link": "https://css-tricks.com/chapter-2-browsers/"
+    },
+    {
+      "rank": "30.",
+      "title": "A guide to learning algorithms through LeetCode",
+      "link": "https://github.com/labuladong/fucking-algorithm/tree/english"
     }
   ],
   "metadata": {
