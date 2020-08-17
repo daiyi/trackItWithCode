@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "An Introduction to OpenBSD",
-      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
+      "title": "To Know, but Not Understand: David Weinberger on Science and Big Data (2012)",
+      "link": "https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/"
     },
     {
       "rank": "6.",
@@ -32,48 +32,48 @@
     },
     {
       "rank": "7.",
-      "title": "Ecommerce Is Eating the World – Join EasyPost",
-      "link": "https://www.easypost.com/careers"
+      "title": "An Introduction to OpenBSD",
+      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
     },
     {
       "rank": "8.",
-      "title": "To Know, but Not Understand: David Weinberger on Science and Big Data (2012)",
-      "link": "https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/"
-    },
-    {
-      "rank": "9.",
-      "title": "Handmade: A Community for Self-Rolled Performant Software (2016)",
-      "link": "https://handmade.network/manifesto"
-    },
-    {
-      "rank": "10.",
-      "title": "Google: Open Letter to Australians",
-      "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
-    },
-    {
-      "rank": "11.",
       "title": "How China’s Expanding Fishing Fleet Is Depleting the World’s Oceans",
       "link": "https://e360.yale.edu/features/how-chinas-expanding-fishing-fleet-is-depleting-worlds-oceans"
     },
     {
+      "rank": "9.",
+      "title": "Ecommerce Is Eating the World – Join EasyPost",
+      "link": "https://www.easypost.com/careers"
+    },
+    {
+      "rank": "10.",
+      "title": "Handmade: A Community for Self-Rolled Performant Software (2016)",
+      "link": "https://handmade.network/manifesto"
+    },
+    {
+      "rank": "11.",
+      "title": "Google: Open Letter to Australians",
+      "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
+    },
+    {
       "rank": "12.",
-      "title": "The Strange Costumes of the Plague Doctors",
-      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
-    },
-    {
-      "rank": "13.",
-      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
-      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
-    },
-    {
-      "rank": "14.",
       "title": "Are CRDTs suitable for shared editing?",
       "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
     },
     {
+      "rank": "13.",
+      "title": "The Strange Costumes of the Plague Doctors",
+      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
+    },
+    {
+      "rank": "14.",
+      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
+      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
+    },
+    {
       "rank": "15.",
-      "title": "Factorio and Software Engineering",
-      "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
+      "title": "The Market for Discontinued Photographic Film",
+      "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
-      "title": "The Market for Discontinued Photographic Film",
-      "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
+      "title": "Factorio and Software Engineering",
+      "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
     },
     {
       "rank": "18.",
-      "title": "A brief introduction to observational entropy",
-      "link": "https://arxiv.org/abs/2008.04409"
+      "title": "Pure Skill Minesweeper",
+      "link": "https://github.andrewt.net/mines/"
     },
     {
       "rank": "19.",
-      "title": "Pure Skill Minesweeper",
-      "link": "https://github.andrewt.net/mines/"
+      "title": "A brief introduction to observational entropy",
+      "link": "https://arxiv.org/abs/2008.04409"
     },
     {
       "rank": "20.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "Not everyone needs 8 hours of sleep: new research",
-      "link": "https://time.com/5876614/circadian-rhythm-study/"
+      "title": "Mindfulness and meditation can worsen depression and anxiety",
+      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
       "rank": "24.",
-      "title": "Mindfulness and meditation can worsen depression and anxiety",
-      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
+      "title": "Not everyone needs 8 hours of sleep: new research",
+      "link": "https://time.com/5876614/circadian-rhythm-study/"
     },
     {
       "rank": "25.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "A-Levels: The Model is not the Student",
-      "link": "http://thaines.com/post/alevels2020"
+      "title": "Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi",
+      "link": "https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/"
     },
     {
       "rank": "28.",
-      "title": "Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi",
-      "link": "https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/"
+      "title": "A-Levels: The Model is not the Student",
+      "link": "http://thaines.com/post/alevels2020"
     },
     {
       "rank": "29.",
