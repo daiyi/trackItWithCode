@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "ACCC: Response to Google Open Letter",
-      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
+      "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
+      "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
     },
     {
       "rank": "2.",
-      "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
-      "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
+      "title": "ACCC: Response to Google Open Letter",
+      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
     },
     {
       "rank": "3.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Predatory journal accepts fake story about scooters and hydroxychloroquine",
-      "link": "https://scienceintegritydigest.com/2020/08/16/predatory-journal-accepts-fake-story-about-scooters-and-hydroxychloroquine/"
+      "title": "Google: Open Letter to Australians",
+      "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
     },
     {
       "rank": "9.",
-      "title": "Google: Open Letter to Australians",
-      "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
+      "title": "Predatory journal accepts fake story about scooters and hydroxychloroquine",
+      "link": "https://scienceintegritydigest.com/2020/08/16/predatory-journal-accepts-fake-story-about-scooters-and-hydroxychloroquine/"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
-      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
+      "title": "To Know, but Not Understand: David Weinberger on Science and Big Data (2012)",
+      "link": "https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/"
     },
     {
       "rank": "12.",
-      "title": "To Know, but Not Understand: David Weinberger on Science and Big Data (2012)",
-      "link": "https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/"
+      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
+      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
     },
     {
       "rank": "13.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "The Market for Discontinued Photographic Film",
-      "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
-    },
-    {
-      "rank": "16.",
       "title": "Pure Skill Minesweeper",
       "link": "https://github.andrewt.net/mines/"
     },
     {
+      "rank": "16.",
+      "title": "The Market for Discontinued Photographic Film",
+      "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
+    },
+    {
       "rank": "17.",
-      "title": "Idris 2 version 0.2.1",
-      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
+      "title": "A Brief History of ClarisWorks (2003)",
+      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
     },
     {
       "rank": "18.",
-      "title": "A Brief History of ClarisWorks (2003)",
-      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
+      "title": "Idris 2 version 0.2.1",
+      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
     },
     {
       "rank": "19.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM",
-      "link": "https://github.com/hpi-swa/trufflesqueak"
+      "title": "Mindfulness and meditation can worsen depression and anxiety",
+      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "WebAssembly without the browser",
-      "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
+      "title": "Remote work is reshaping San Francisco, as tech workers flee and rents fall",
+      "link": "https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602"
     },
     {
       "rank": "29.",
-      "title": "Mindfulness and meditation can worsen depression and anxiety",
-      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
+      "title": "Alaska that never was: Seward's Success (2011)",
+      "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
     },
     {
       "rank": "30.",
-      "title": "Remote work is reshaping San Francisco, as tech workers flee and rents fall",
-      "link": "https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602"
+      "title": "Show HN: Use React to build G Suite dialogs and add-ons",
+      "link": "https://github.com/enuchi/React-Google-Apps-Script"
     }
   ],
   "metadata": {
