@@ -17,38 +17,38 @@
     },
     {
       "rank": "4.",
-      "title": "An Introduction to OpenBSD",
-      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
-    },
-    {
-      "rank": "5.",
       "title": "Nerves – Elixir Platform for IoT",
       "link": "https://www.nerves-project.org/"
     },
     {
+      "rank": "5.",
+      "title": "An Introduction to OpenBSD",
+      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
+    },
+    {
       "rank": "6.",
+      "title": "Ecommerce Is Eating the World – Join EasyPost",
+      "link": "https://www.easypost.com/careers"
+    },
+    {
+      "rank": "7.",
       "title": "OpenAI: Spinning Up in Deep RL",
       "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "To Know, but Not Understand: David Weinberger on Science and Big Data (2012)",
       "link": "https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Handmade: A Community for Self-Rolled Performant Software (2016)",
       "link": "https://handmade.network/manifesto"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Google: Open Letter to Australians",
       "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
-    },
-    {
-      "rank": "10.",
-      "title": "The Strange Costumes of the Plague Doctors",
-      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
     },
     {
       "rank": "11.",
@@ -57,28 +57,28 @@
     },
     {
       "rank": "12.",
-      "title": "A brief introduction to observational entropy",
-      "link": "https://arxiv.org/abs/2008.04409"
+      "title": "The Strange Costumes of the Plague Doctors",
+      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
     },
     {
       "rank": "13.",
-      "title": "Are CRDTs suitable for shared editing?",
-      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
-    },
-    {
-      "rank": "14.",
-      "title": "A CRISPR first produces squid as clear as glass",
-      "link": "https://www.nature.com/articles/d41586-020-02242-3"
-    },
-    {
-      "rank": "15.",
       "title": "Factorio and Software Engineering",
       "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
     },
     {
+      "rank": "14.",
+      "title": "A brief introduction to observational entropy",
+      "link": "https://arxiv.org/abs/2008.04409"
+    },
+    {
+      "rank": "15.",
+      "title": "A CRISPR first produces squid as clear as glass",
+      "link": "https://www.nature.com/articles/d41586-020-02242-3"
+    },
+    {
       "rank": "16.",
-      "title": "The Market for Discontinued Photographic Film",
-      "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
+      "title": "How China’s Expanding Fishing Fleet Is Depleting the World’s Oceans",
+      "link": "https://e360.yale.edu/features/how-chinas-expanding-fishing-fleet-is-depleting-worlds-oceans"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "A-Levels: The Model is not the Student",
-      "link": "http://thaines.com/post/alevels2020"
+      "title": "Are CRDTs suitable for shared editing?",
+      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
     },
     {
       "rank": "19.",
-      "title": "Predatory journal accepts fake story about scooters and hydroxychloroquine",
-      "link": "https://scienceintegritydigest.com/2020/08/16/predatory-journal-accepts-fake-story-about-scooters-and-hydroxychloroquine/"
+      "title": "The Market for Discontinued Photographic Film",
+      "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Idris 2 version 0.2.1",
-      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
+      "title": "Art of chording",
+      "link": "https://www.artofchording.com"
     },
     {
       "rank": "22.",
-      "title": "Art of chording",
-      "link": "https://www.artofchording.com"
+      "title": "Idris 2 version 0.2.1",
+      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
     },
     {
       "rank": "23.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
-      "title": "Reversing Mental Age with Psychedelics",
-      "link": "https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/"
+      "title": "Mindfulness and meditation can worsen depression and anxiety",
+      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
       "rank": "25.",
-      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
-      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
+      "title": "A-Levels: The Model is not the Student",
+      "link": "http://thaines.com/post/alevels2020"
     },
     {
       "rank": "26.",
-      "title": "Mindfulness and meditation can worsen depression and anxiety",
-      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
+      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
+      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
     },
     {
       "rank": "27.",
