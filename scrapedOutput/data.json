@@ -7,38 +7,38 @@
     },
     {
       "rank": "2.",
-      "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
-      "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
+      "title": "Idris 2 version 0.2.1 Released",
+      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
     },
     {
       "rank": "3.",
-      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
-      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
-    },
-    {
-      "rank": "4.",
       "title": "Nerves – Elixir Platform for IoT",
       "link": "https://www.nerves-project.org/"
     },
     {
+      "rank": "4.",
+      "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
+      "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
+    },
+    {
       "rank": "5.",
+      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
+      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
+    },
+    {
+      "rank": "6.",
       "title": "Google: Open Letter to Australians",
       "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Factorio and Software Engineering",
       "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Pure Skill Minesweeper",
       "link": "https://github.andrewt.net/mines/"
-    },
-    {
-      "rank": "8.",
-      "title": "Art of chording",
-      "link": "https://www.artofchording.com"
     },
     {
       "rank": "9.",
@@ -47,8 +47,8 @@
     },
     {
       "rank": "10.",
-      "title": "Recent Advances in Natural Language Processing",
-      "link": "https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/"
+      "title": "Art of chording",
+      "link": "https://www.artofchording.com"
     },
     {
       "rank": "11.",
@@ -57,48 +57,48 @@
     },
     {
       "rank": "12.",
+      "title": "Recent Advances in Natural Language Processing",
+      "link": "https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/"
+    },
+    {
+      "rank": "13.",
       "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
       "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
     },
     {
-      "rank": "13.",
-      "title": "Alaska that never was: Seward's Success (2011)",
-      "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
-    },
-    {
       "rank": "14.",
-      "title": "Show HN: I made an extension to watch Netflix films with screenplays in sync",
-      "link": "https://screenplaysubs.com/"
-    },
-    {
-      "rank": "15.",
       "title": "Reversing Mental Age with Psychedelics",
       "link": "https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/"
     },
     {
+      "rank": "15.",
+      "title": "Show HN: I made an extension to watch Netflix films with screenplays in sync",
+      "link": "https://screenplaysubs.com/"
+    },
+    {
       "rank": "16.",
+      "title": "Alaska that never was: Seward's Success (2011)",
+      "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
+    },
+    {
+      "rank": "17.",
       "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
       "link": "https://github.com/p-ranav/structopt"
     },
     {
-      "rank": "17.",
-      "title": "How Purism avoids Intel’s Active Management Technology",
-      "link": "https://puri.sm/learn/avoiding-intel-amt/"
+      "rank": "18.",
+      "title": "Not everyone needs 8 hours of sleep: new research",
+      "link": "https://time.com/5876614/circadian-rhythm-study/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Digital Design in Architecture: research landscape map 1975-2019",
       "link": "https://github.com/antonsavov/research-maps"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi",
       "link": "https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/"
-    },
-    {
-      "rank": "20.",
-      "title": "Not everyone needs 8 hours of sleep: new research",
-      "link": "https://time.com/5876614/circadian-rhythm-study/"
     },
     {
       "rank": "21.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "LFE: Lisp Flavored Erlang",
-      "link": "https://lfe.io/books/tutorial/index.html"
+      "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
+      "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
     },
     {
       "rank": "24.",
-      "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
-      "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
+      "title": "LFE: Lisp Flavored Erlang",
+      "link": "https://lfe.io/books/tutorial/index.html"
     },
     {
       "rank": "25.",
