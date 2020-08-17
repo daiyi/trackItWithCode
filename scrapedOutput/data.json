@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Understanding Recursive Queries in PostgreSQL",
-      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
+      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
+      "link": "https://www.nature.com/articles/s42003-020-01156-0"
     },
     {
       "rank": "7.",
-      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
-      "link": "https://www.nature.com/articles/s42003-020-01156-0"
+      "title": "Understanding Recursive Queries in PostgreSQL",
+      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
       "rank": "8.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
-      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
+      "title": "Rolling blackouts in California have power experts stumped",
+      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
       "rank": "13.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "Rolling blackouts in California have power experts stumped",
-      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
+      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
+      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
     },
     {
       "rank": "15.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
-      "link": "https://hndex.ml/"
+      "title": "Mindfulness and meditation can worsen depression and anxiety",
+      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
       "rank": "17.",
-      "title": "Mindfulness and meditation can worsen depression and anxiety",
-      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
+      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
+      "link": "https://hndex.ml/"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Vanta (YC W18) is hiring as we build simple security and compliance for startups",
-      "link": "https://vanta.com/jobs"
+      "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
+      "link": "https://kliu.io/post/yubico-magic-unlock/"
     },
     {
       "rank": "20.",
-      "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
-      "link": "https://kliu.io/post/yubico-magic-unlock/"
+      "title": "Vanta (YC W18) is hiring as we build simple security and compliance for startups",
+      "link": "https://vanta.com/jobs"
     },
     {
       "rank": "21.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Jobseekers face exploitation as online recruitment is riddled with fake news",
-      "link": "https://www.newstatesman.com/politics/economy/2020/08/jobseekers-face-exploitation-online-recruitment-riddled-fake-news"
-    },
-    {
-      "rank": "28.",
       "title": "Ask HN: How do you overcome decision fatigue in software development?",
       "link": "item?id=24176774"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "How the Black Sea shaped the ancient Mediterranean world",
       "link": "https://www.historytoday.com/reviews/around-other-pond"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "A Brief History of ClarisWorks (2003)",
       "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
+    },
+    {
+      "rank": "30.",
+      "title": "Are CRDTs suitable for shared editing?",
+      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
     }
   ],
   "metadata": {
