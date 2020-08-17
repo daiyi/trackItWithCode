@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Pure Skill Minesweeper",
-      "link": "https://github.andrewt.net/mines/"
+      "title": "Art of chording",
+      "link": "https://www.artofchording.com"
     },
     {
       "rank": "4.",
-      "title": "Art of chording",
-      "link": "https://www.artofchording.com"
+      "title": "Pure Skill Minesweeper",
+      "link": "https://github.andrewt.net/mines/"
     },
     {
       "rank": "5.",
@@ -32,23 +32,23 @@
     },
     {
       "rank": "7.",
+      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
+      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
+    },
+    {
+      "rank": "8.",
       "title": "Xcsset Mac Malware: Infects Xcode Projects, Performs UXSS Attack on Safari",
       "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "A guide to learning algorithms through LeetCode",
       "link": "https://github.com/labuladong/fucking-algorithm/tree/english"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Show HN: I made an extension to watch Netflix films with screenplays in sync",
       "link": "https://screenplaysubs.com/"
-    },
-    {
-      "rank": "10.",
-      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
-      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
     },
     {
       "rank": "11.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "Show HN: Use React to build G Suite dialogs and add-ons",
-      "link": "https://github.com/enuchi/React-Google-Apps-Script"
+      "title": "Do I Need Kubernetes?",
+      "link": "https://mbird.biz/writing/do-i-need-kubernetes.html"
     },
     {
       "rank": "25.",
-      "title": "Do I Need Kubernetes?",
-      "link": "https://mbird.biz/writing/do-i-need-kubernetes.html"
+      "title": "Show HN: Use React to build G Suite dialogs and add-ons",
+      "link": "https://github.com/enuchi/React-Google-Apps-Script"
     },
     {
       "rank": "26.",
