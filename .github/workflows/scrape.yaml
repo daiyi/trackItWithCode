@@ -29,4 +29,4 @@ jobs:
         with:
           # Required
           commit_message: Update data with latest scrape result
-          branch: tracking-history
+          # branch: tracking-history
