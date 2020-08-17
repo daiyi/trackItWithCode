@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
-      "title": "Factorio and Software Engineering",
-      "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
-    },
-    {
-      "rank": "4.",
       "title": "Google: Open Letter to Australians",
       "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
     },
     {
+      "rank": "4.",
+      "title": "Factorio and Software Engineering",
+      "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
+    },
+    {
       "rank": "5.",
-      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
-      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
+      "title": "Pure Skill Minesweeper",
+      "link": "https://github.andrewt.net/mines/"
     },
     {
       "rank": "6.",
-      "title": "Pure Skill Minesweeper",
-      "link": "https://github.andrewt.net/mines/"
+      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
+      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
     },
     {
       "rank": "7.",
@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
+      "title": "Alaska that never was: Seward's Success (2011)",
+      "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
+    },
+    {
+      "rank": "9.",
       "title": "Recent Advances in Natural Language Processing",
       "link": "https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "MicroPython",
       "link": "https://micropython.org/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Show HN: AppleBot – Automate Things in Apple Dev Portal (Developer.apple.com)",
       "link": "https://www.getapplebot.com"
-    },
-    {
-      "rank": "11.",
-      "title": "Alaska that never was: Seward's Success (2011)",
-      "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
     },
     {
       "rank": "12.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "How Purism avoids Intel’s Active Management Technology",
-      "link": "https://puri.sm/learn/avoiding-intel-amt/"
+      "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
+      "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
     },
     {
       "rank": "16.",
-      "title": "TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM",
-      "link": "https://github.com/hpi-swa/trufflesqueak"
+      "title": "How Purism avoids Intel’s Active Management Technology",
+      "link": "https://puri.sm/learn/avoiding-intel-amt/"
     },
     {
       "rank": "17.",
@@ -87,38 +87,38 @@
     },
     {
       "rank": "18.",
+      "title": "TruffleSqueak: Polyglot Programming with Squeak/Smalltalk and GraalVM",
+      "link": "https://github.com/hpi-swa/trufflesqueak"
+    },
+    {
+      "rank": "19.",
       "title": "The Baltic states are reconfiguring their electric grids",
       "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Hello “Hello World”",
       "link": "https://blog.jfo.click/hello-hello-world/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "LFE: Lisp Flavored Erlang",
       "link": "https://lfe.io/books/tutorial/index.html"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "WebAssembly without the browser part 1",
       "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
     },
     {
-      "rank": "22.",
-      "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
-      "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
-    },
-    {
       "rank": "23.",
-      "title": "How long since Google said a Google Drive Linux client is coming?",
-      "link": "https://abevoelker.github.io/how-long-since-google-said-a-google-drive-linux-client-is-coming/"
+      "title": "Hiding messages in x86 binaries using semantic duals",
+      "link": "https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals"
     },
     {
       "rank": "24.",
-      "title": "Hiding messages in x86 binaries using semantic duals",
-      "link": "https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals"
+      "title": "How long since Google said a Google Drive Linux client is coming?",
+      "link": "https://abevoelker.github.io/how-long-since-google-said-a-google-drive-linux-client-is-coming/"
     },
     {
       "rank": "25.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "The Enigma of Gloom: On George Scialabba’s “How to Be Depressed”",
-      "link": "https://lareviewofbooks.org/article/the-enigma-of-gloom-on-george-scialabbas-how-to-be-depressed/"
+      "title": "Show HN: Use React to build G Suite dialogs and add-ons",
+      "link": "https://github.com/enuchi/React-Google-Apps-Script"
     },
     {
       "rank": "27.",
-      "title": "Show HN: Use React to build G Suite dialogs and add-ons",
-      "link": "https://github.com/enuchi/React-Google-Apps-Script"
+      "title": "The Enigma of Gloom: On George Scialabba’s “How to Be Depressed”",
+      "link": "https://lareviewofbooks.org/article/the-enigma-of-gloom-on-george-scialabbas-how-to-be-depressed/"
     },
     {
       "rank": "28.",
