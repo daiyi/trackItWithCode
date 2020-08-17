@@ -1,0 +1,11 @@
+{
+  "name": "trackItWithCode",
+  "version": "1.0.0",
+  "description": "The programmer's way of tracking changes online",
+  "main": "dist/index.js",
+  "author": "marcopolo",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
