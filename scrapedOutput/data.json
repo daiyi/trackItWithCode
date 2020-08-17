@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "The Strange Costumes of the Plague Doctors",
-      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
+      "title": "Google: Open Letter to Australians",
+      "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
     },
     {
       "rank": "10.",
-      "title": "Google: Open Letter to Australians",
-      "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
+      "title": "The Strange Costumes of the Plague Doctors",
+      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
     },
     {
       "rank": "11.",
@@ -57,33 +57,33 @@
     },
     {
       "rank": "12.",
+      "title": "To Know, but Not Understand: David Weinberger on Science and Big Data (2012)",
+      "link": "https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/"
+    },
+    {
+      "rank": "13.",
       "title": "A CRISPR first produces squid as clear as glass",
       "link": "https://www.nature.com/articles/d41586-020-02242-3"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Factorio and Software Engineering",
       "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
     },
     {
-      "rank": "14.",
-      "title": "Pure Skill Minesweeper",
-      "link": "https://github.andrewt.net/mines/"
-    },
-    {
       "rank": "15.",
-      "title": "Idris 2 version 0.2.1",
-      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
-    },
-    {
-      "rank": "16.",
       "title": "The Market for Discontinued Photographic Film",
       "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
     },
     {
+      "rank": "16.",
+      "title": "Pure Skill Minesweeper",
+      "link": "https://github.andrewt.net/mines/"
+    },
+    {
       "rank": "17.",
-      "title": "To Know, but Not Understand: David Weinberger on Science and Big Data (2012)",
-      "link": "https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/"
+      "title": "Idris 2 version 0.2.1",
+      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
     },
     {
       "rank": "18.",
@@ -102,23 +102,23 @@
     },
     {
       "rank": "21.",
-      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
-      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
-    },
-    {
-      "rank": "22.",
       "title": "Not everyone needs 8 hours of sleep: new research",
       "link": "https://time.com/5876614/circadian-rhythm-study/"
     },
     {
+      "rank": "22.",
+      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
+      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
+    },
+    {
       "rank": "23.",
-      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
-      "link": "https://github.com/p-ranav/structopt"
+      "title": "The Baltic states are reconfiguring their electric grids",
+      "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
     },
     {
       "rank": "24.",
-      "title": "The Baltic states are reconfiguring their electric grids",
-      "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
+      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
+      "link": "https://github.com/p-ranav/structopt"
     },
     {
       "rank": "25.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "Alaska that never was: Seward's Success (2011)",
-      "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
+      "title": "WebAssembly without the browser",
+      "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
     },
     {
       "rank": "29.",
-      "title": "WebAssembly without the browser",
-      "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
+      "title": "Mindfulness and meditation can worsen depression and anxiety",
+      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
       "rank": "30.",
