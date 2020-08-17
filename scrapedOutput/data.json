@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
-      "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
+      "title": "A 35-year-old bug in patch found during the 2.11BSD restoration project",
+      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
       "rank": "3.",
@@ -17,33 +17,33 @@
     },
     {
       "rank": "4.",
+      "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
+      "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
+    },
+    {
+      "rank": "5.",
       "title": "How the Black Sea shaped the ancient Mediterranean world",
       "link": "https://www.historytoday.com/reviews/around-other-pond"
     },
     {
-      "rank": "5.",
-      "title": "A 35-year-old bug in patch found during the 2.11BSD restoration project",
-      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
+      "rank": "6.",
+      "title": "I Quit My Job. Here’s How I Planned the Start as an Entrepreneur",
+      "link": "https://medium.com/@sjorsvandongen/i-quit-my-job-heres-how-i-planned-the-start-as-an-entrepreneur-7bc546631431"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "An Introduction to OpenBSD",
       "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
       "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
-    },
-    {
-      "rank": "9.",
-      "title": "I Quit My Job. Here’s How I Planned the Start as an Entrepreneur",
-      "link": "https://medium.com/@sjorsvandongen/i-quit-my-job-heres-how-i-planned-the-start-as-an-entrepreneur-7bc546631431"
     },
     {
       "rank": "10.",
@@ -67,23 +67,23 @@
     },
     {
       "rank": "14.",
-      "title": "Handmade: A Community for Self-Rolled Performant Software (2016)",
-      "link": "https://handmade.network/manifesto"
-    },
-    {
-      "rank": "15.",
       "title": "OpenAI: Spinning Up in Deep RL",
       "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
     },
     {
+      "rank": "15.",
+      "title": "Handmade: A Community for Self-Rolled Performant Software (2016)",
+      "link": "https://handmade.network/manifesto"
+    },
+    {
       "rank": "16.",
-      "title": "To Know, but Not Understand: David Weinberger on Science and Big Data (2012)",
-      "link": "https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/"
+      "title": "The Strange Costumes of the Plague Doctors",
+      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
     },
     {
       "rank": "17.",
-      "title": "The Strange Costumes of the Plague Doctors",
-      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
+      "title": "To Know, but Not Understand: David Weinberger on Science and Big Data (2012)",
+      "link": "https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/"
     },
     {
       "rank": "18.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Idris 2 version 0.2.1",
-      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
+      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
+      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
     },
     {
       "rank": "30.",
-      "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
-      "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
+      "title": "Idris 2 version 0.2.1",
+      "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
     }
   ],
   "metadata": {
