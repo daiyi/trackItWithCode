@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
-      "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
+      "title": "ACCC: Response to Google Open Letter",
+      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
     },
     {
       "rank": "2.",
-      "title": "ACCC: Response to Google Open Letter",
-      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
+      "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
+      "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
     },
     {
       "rank": "3.",
@@ -92,18 +92,18 @@
     },
     {
       "rank": "19.",
+      "title": "Digital Design in Architecture: research landscape map 1975-2019",
+      "link": "https://github.com/antonsavov/research-maps"
+    },
+    {
+      "rank": "20.",
       "title": "Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi",
       "link": "https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "The Baltic states are reconfiguring their electric grids",
       "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
-    },
-    {
-      "rank": "21.",
-      "title": "Digital Design in Architecture: research landscape map 1975-2019",
-      "link": "https://github.com/antonsavov/research-maps"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "The Strange Costumes of the Plague Doctors",
-      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
+      "title": "Predatory journal accepts fake story about scooters and hydroxychloroquine",
+      "link": "https://scienceintegritydigest.com/2020/08/16/predatory-journal-accepts-fake-story-about-scooters-and-hydroxychloroquine/"
     },
     {
       "rank": "24.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "WebAssembly without the browser",
-      "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
+      "title": "The Strange Costumes of the Plague Doctors",
+      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
     },
     {
       "rank": "26.",
-      "title": "Show HN: Use React to build G Suite dialogs and add-ons",
-      "link": "https://github.com/enuchi/React-Google-Apps-Script"
+      "title": "WebAssembly without the browser",
+      "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Show HN: Use React to build G Suite dialogs and add-ons",
+      "link": "https://github.com/enuchi/React-Google-Apps-Script"
+    },
+    {
+      "rank": "29.",
       "title": "Hello “Hello World”",
       "link": "https://blog.jfo.click/hello-hello-world/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Utah and Georgia install tech that lets roads talk",
       "link": "https://www.foxbusiness.com/technology/utah-and-georgia-install-tech-that-lets-roads-talk"
-    },
-    {
-      "rank": "30.",
-      "title": "The Game Archaeologist Discovers the Island of Kesmai (2012)",
-      "link": "https://www.engadget.com/2012-03-06-the-game-archaeologist-discovers-the-island-of-kesmai.html"
     }
   ],
   "metadata": {
