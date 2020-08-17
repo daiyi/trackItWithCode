@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
-      "title": "Art of chording",
-      "link": "https://www.artofchording.com"
-    },
-    {
-      "rank": "4.",
       "title": "Pure Skill Minesweeper",
       "link": "https://github.andrewt.net/mines/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
       "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Google: Open Letter to Australians",
       "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
+    },
+    {
+      "rank": "6.",
+      "title": "Art of chording",
+      "link": "https://www.artofchording.com"
     },
     {
       "rank": "7.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
-      "link": "https://github.com/p-ranav/structopt"
+      "title": "The Hard Problem of Breakfast",
+      "link": "http://nautil.us//issue/88/love--sex/the-hard-problem-of-breakfast"
     },
     {
       "rank": "10.",
-      "title": "A guide to learning algorithms through LeetCode",
-      "link": "https://github.com/labuladong/fucking-algorithm/tree/english"
+      "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
+      "link": "https://github.com/p-ranav/structopt"
     },
     {
       "rank": "11.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
-      "title": "The Hard Problem of Breakfast",
-      "link": "http://nautil.us//issue/88/love--sex/the-hard-problem-of-breakfast"
+      "title": "A guide to learning algorithms through LeetCode",
+      "link": "https://github.com/labuladong/fucking-algorithm/tree/english"
     },
     {
       "rank": "13.",
-      "title": "Alaska that never was: Seward's Success (2011)",
-      "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
+      "title": "How Purism avoids Intel’s Active Management Technology",
+      "link": "https://puri.sm/learn/avoiding-intel-amt/"
     },
     {
       "rank": "14.",
-      "title": "How Purism avoids Intel’s Active Management Technology",
-      "link": "https://puri.sm/learn/avoiding-intel-amt/"
+      "title": "Alaska that never was: Seward's Success (2011)",
+      "link": "http://historicalaska.blogspot.com/2011/02/alaska-that-never-was-sewards-success.html"
     },
     {
       "rank": "15.",
@@ -82,28 +82,28 @@
     },
     {
       "rank": "17.",
-      "title": "LFE: Lisp Flavored Erlang",
-      "link": "https://lfe.io/books/tutorial/index.html"
-    },
-    {
-      "rank": "18.",
       "title": "The Baltic states are reconfiguring their electric grids",
       "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
     },
     {
-      "rank": "19.",
-      "title": "How long since Google said a Google Drive Linux client is coming?",
-      "link": "https://abevoelker.github.io/how-long-since-google-said-a-google-drive-linux-client-is-coming/"
+      "rank": "18.",
+      "title": "LFE: Lisp Flavored Erlang",
+      "link": "https://lfe.io/books/tutorial/index.html"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Reversing Mental Age with Psychedelics",
       "link": "https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "WebAssembly without the browser part 1",
       "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
+    },
+    {
+      "rank": "21.",
+      "title": "How long since Google said a Google Drive Linux client is coming?",
+      "link": "https://abevoelker.github.io/how-long-since-google-said-a-google-drive-linux-client-is-coming/"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
+      "title": "“Rich People Can’t Stop”: The Luxe Quarantine Lives of Silicon Valley’s Elite",
+      "link": "https://www.vanityfair.com/news/2020/08/luxe-quarantine-lives-of-silicon-valley-elite"
+    },
+    {
+      "rank": "24.",
       "title": "Remote work is reshaping San Francisco, as tech workers flee and rents fall",
       "link": "https://www.wsj.com/articles/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall-11597413602"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "The Enigma of Gloom: On George Scialabba’s “How to Be Depressed”",
       "link": "https://lareviewofbooks.org/article/the-enigma-of-gloom-on-george-scialabbas-how-to-be-depressed/"
-    },
-    {
-      "rank": "25.",
-      "title": "In the Turkish locale, \"INFO\".lower() != \"info\"",
-      "link": "https://github.com/python/cpython/blob/fff3c28052e6b0750d6218e00acacd2fded4991a/Lib/logging/handlers.py#L802"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Do I Need Kubernetes?",
-      "link": "https://mbird.biz/writing/do-i-need-kubernetes.html"
-    },
-    {
-      "rank": "28.",
       "title": "Show HN: Use React to build G Suite dialogs and add-ons",
       "link": "https://github.com/enuchi/React-Google-Apps-Script"
     },
     {
+      "rank": "28.",
+      "title": "AKAI MPC 3000 sampler/sequencer drum machine",
+      "link": "https://audiojive.com/akai-mpc-3000/"
+    },
+    {
       "rank": "29.",
-      "title": "“Rich People Can’t Stop”: The Luxe Quarantine Lives of Silicon Valley’s Elite",
-      "link": "https://www.vanityfair.com/news/2020/08/luxe-quarantine-lives-of-silicon-valley-elite"
+      "title": "Kapton: Miracle Material with a Tragic History",
+      "link": "https://hackaday.com/2018/04/04/kapton-miracle-material-with-a-tragic-history/"
     },
     {
       "rank": "30.",
-      "title": "AKAI MPC 3000 sampler/sequencer drum machine",
-      "link": "https://audiojive.com/akai-mpc-3000/"
+      "title": "Web History: Browsers",
+      "link": "https://css-tricks.com/chapter-2-browsers/"
     }
   ],
   "metadata": {
