@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
-      "link": "https://www.nature.com/articles/s42003-020-01156-0"
+      "title": "Understanding Recursive Queries in PostgreSQL",
+      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
       "rank": "6.",
-      "title": "Understanding Recursive Queries in PostgreSQL",
-      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
+      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
+      "link": "https://www.nature.com/articles/s42003-020-01156-0"
     },
     {
       "rank": "7.",
@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
+      "title": "The Computational Limits of Deep Learning",
+      "link": "https://arxiv.org/abs/2007.05558"
+    },
+    {
+      "rank": "9.",
       "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
       "link": "https://www.dropbase.io/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Apple, Epic, and the App Store",
       "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
       "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
-    },
-    {
-      "rank": "11.",
-      "title": "The Computational Limits of Deep Learning",
-      "link": "https://arxiv.org/abs/2007.05558"
     },
     {
       "rank": "12.",
@@ -62,23 +62,23 @@
     },
     {
       "rank": "13.",
-      "title": "A Twist on Schrödinger's Cat Paradox",
-      "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
+      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
+      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
     },
     {
       "rank": "14.",
-      "title": "Vanta (YC W18) is hiring as we build simple security and compliance for startups",
-      "link": "https://vanta.com/jobs"
-    },
-    {
-      "rank": "15.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Show HN: Search the text of articles submitted to HN, with live updating",
       "link": "https://hndex.ml/"
+    },
+    {
+      "rank": "16.",
+      "title": "Vanta (YC W18) is hiring as we build simple security and compliance for startups",
+      "link": "https://vanta.com/jobs"
     },
     {
       "rank": "17.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
+      "title": "A Twist on Schrödinger's Cat Paradox",
+      "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
+    },
+    {
+      "rank": "19.",
+      "title": "A $10B domed experimental city nearly got built in rural Minnesota",
+      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
+    },
+    {
+      "rank": "20.",
       "title": "Mindfulness and meditation can worsen depression and anxiety",
       "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "A look at the J language: the fine line between genius and insanity (2012)",
       "link": "https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/"
-    },
-    {
-      "rank": "20.",
-      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
-      "link": "https://dungeonmapdoodler.com/"
-    },
-    {
-      "rank": "21.",
-      "title": "Response to Google open letter",
-      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
-      "title": "A $10B domed experimental city nearly got built in rural Minnesota",
-      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
+      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
+      "link": "https://dungeonmapdoodler.com/"
     },
     {
       "rank": "24.",
-      "title": "How to Build an Iconic Company – Keith Rabois [audio]",
-      "link": "https://nugget.fm/rabois/"
+      "title": "Response to Google open letter",
+      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
     },
     {
       "rank": "25.",
-      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
-      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
+      "title": "How to Build an Iconic Company – Keith Rabois [audio]",
+      "link": "https://nugget.fm/rabois/"
     },
     {
       "rank": "26.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Ask HN: How do you overcome decision fatigue in software development?",
-      "link": "item?id=24176774"
-    },
-    {
-      "rank": "29.",
       "title": "How the Black Sea shaped the ancient Mediterranean world",
       "link": "https://www.historytoday.com/reviews/around-other-pond"
     },
     {
+      "rank": "29.",
+      "title": "Robinhood now valued at $11.2B with new fund backing",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-17/robinhood-now-valued-at-11-2-billion-with-sundheim-fund-backing"
+    },
+    {
       "rank": "30.",
-      "title": "A Brief History of ClarisWorks (2003)",
-      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
+      "title": "Ask HN: How do you overcome decision fatigue in software development?",
+      "link": "item?id=24176774"
     }
   ],
   "metadata": {
