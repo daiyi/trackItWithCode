@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
-      "title": "A-Levels: The Model is not the Student",
-      "link": "http://thaines.com/post/alevels2020"
-    },
-    {
-      "rank": "3.",
-      "title": "ACCC: Response to Google Open Letter",
+      "title": "Response to Google open letter",
       "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
       "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
+    },
+    {
+      "rank": "4.",
+      "title": "An Introduction to OpenBSD",
+      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
     },
     {
       "rank": "5.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "The Strange Costumes of the Plague Doctors",
-      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
+      "title": "Google: Open Letter to Australians",
+      "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
     },
     {
       "rank": "10.",
-      "title": "Google: Open Letter to Australians",
-      "link": "https://about.google/intl/ALL_au/google-in-australia/an-open-letter/"
+      "title": "The Strange Costumes of the Plague Doctors",
+      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
     },
     {
       "rank": "11.",
@@ -57,23 +57,23 @@
     },
     {
       "rank": "12.",
-      "title": "An Introduction to OpenBSD",
-      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
+      "title": "A brief introduction to observational entropy",
+      "link": "https://arxiv.org/abs/2008.04409"
     },
     {
       "rank": "13.",
+      "title": "Are CRDTs suitable for shared editing?",
+      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
+    },
+    {
+      "rank": "14.",
       "title": "A CRISPR first produces squid as clear as glass",
       "link": "https://www.nature.com/articles/d41586-020-02242-3"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Factorio and Software Engineering",
       "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
-    },
-    {
-      "rank": "15.",
-      "title": "A brief introduction to observational entropy",
-      "link": "https://arxiv.org/abs/2008.04409"
     },
     {
       "rank": "16.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "A Brief History of ClarisWorks (2003)",
-      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
+      "title": "A-Levels: The Model is not the Student",
+      "link": "http://thaines.com/post/alevels2020"
     },
     {
       "rank": "19.",
@@ -97,18 +97,18 @@
     },
     {
       "rank": "20.",
+      "title": "A Brief History of ClarisWorks (2003)",
+      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
+    },
+    {
+      "rank": "21.",
       "title": "Idris 2 version 0.2.1",
       "link": "https://www.idris-lang.org/idris-2-version-021-released.html"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Art of chording",
       "link": "https://www.artofchording.com"
-    },
-    {
-      "rank": "22.",
-      "title": "Reversing Mental Age with Psychedelics",
-      "link": "https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/"
     },
     {
       "rank": "23.",
@@ -117,28 +117,28 @@
     },
     {
       "rank": "24.",
+      "title": "Reversing Mental Age with Psychedelics",
+      "link": "https://mad.science.blog/2020/08/16/the-phoenix-effect-reversing-mental-age-with-psychedelics/"
+    },
+    {
+      "rank": "25.",
       "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
       "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
     },
     {
-      "rank": "25.",
-      "title": "The Baltic states are reconfiguring their electric grids",
-      "link": "https://www.economist.com/europe/2020/08/15/why-the-baltic-states-are-reconfiguring-their-electric-grids"
+      "rank": "26.",
+      "title": "Mindfulness and meditation can worsen depression and anxiety",
+      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
       "link": "https://github.com/p-ranav/structopt"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Linux PinePhone has physical kill switches for its cameras, mic, data, BT, Wi-Fi",
       "link": "https://www.androidpolice.com/2020/08/15/this-smartphone-has-physical-kill-switches-for-its-cameras-microphone-data-bluetooth-and-wi-fi/"
-    },
-    {
-      "rank": "28.",
-      "title": "Mindfulness and meditation can worsen depression and anxiety",
-      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Digital Design in Architecture: research landscape map 1975-2019",
-      "link": "https://github.com/antonsavov/research-maps"
+      "title": "Show HN: Use React to build G Suite dialogs and add-ons",
+      "link": "https://github.com/enuchi/React-Google-Apps-Script"
     }
   ],
   "metadata": {
