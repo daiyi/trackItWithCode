@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Ecommerce Is Eating the World – Join EasyPost",
-      "link": "https://www.easypost.com/careers"
+      "title": "OpenAI: Spinning Up in Deep RL",
+      "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
     },
     {
       "rank": "7.",
-      "title": "OpenAI: Spinning Up in Deep RL",
-      "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
+      "title": "Ecommerce Is Eating the World – Join EasyPost",
+      "link": "https://www.easypost.com/careers"
     },
     {
       "rank": "8.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
-      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
+      "title": "How China’s Expanding Fishing Fleet Is Depleting the World’s Oceans",
+      "link": "https://e360.yale.edu/features/how-chinas-expanding-fishing-fleet-is-depleting-worlds-oceans"
     },
     {
       "rank": "12.",
@@ -62,38 +62,38 @@
     },
     {
       "rank": "13.",
-      "title": "Factorio and Software Engineering",
-      "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
+      "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
+      "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
     },
     {
       "rank": "14.",
-      "title": "A brief introduction to observational entropy",
-      "link": "https://arxiv.org/abs/2008.04409"
-    },
-    {
-      "rank": "15.",
-      "title": "A CRISPR first produces squid as clear as glass",
-      "link": "https://www.nature.com/articles/d41586-020-02242-3"
-    },
-    {
-      "rank": "16.",
-      "title": "How China’s Expanding Fishing Fleet Is Depleting the World’s Oceans",
-      "link": "https://e360.yale.edu/features/how-chinas-expanding-fishing-fleet-is-depleting-worlds-oceans"
-    },
-    {
-      "rank": "17.",
-      "title": "Pure Skill Minesweeper",
-      "link": "https://github.andrewt.net/mines/"
-    },
-    {
-      "rank": "18.",
       "title": "Are CRDTs suitable for shared editing?",
       "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
     },
     {
-      "rank": "19.",
+      "rank": "15.",
+      "title": "Factorio and Software Engineering",
+      "link": "https://blog.nindalf.com/posts/factorio-and-software-engineering/"
+    },
+    {
+      "rank": "16.",
+      "title": "A CRISPR first produces squid as clear as glass",
+      "link": "https://www.nature.com/articles/d41586-020-02242-3"
+    },
+    {
+      "rank": "17.",
       "title": "The Market for Discontinued Photographic Film",
       "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
+    },
+    {
+      "rank": "18.",
+      "title": "A brief introduction to observational entropy",
+      "link": "https://arxiv.org/abs/2008.04409"
+    },
+    {
+      "rank": "19.",
+      "title": "Pure Skill Minesweeper",
+      "link": "https://github.andrewt.net/mines/"
     },
     {
       "rank": "20.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
-      "title": "A-Levels: The Model is not the Student",
-      "link": "http://thaines.com/post/alevels2020"
-    },
-    {
-      "rank": "26.",
       "title": "Death Valley soars to 130 degrees, Earth’s highest temperature since 1931",
       "link": "https://www.washingtonpost.com/weather/2020/08/16/death-valley-heat-record/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Show HN: Structopt for C++ – Parse command line arguments by defining a struct",
       "link": "https://github.com/p-ranav/structopt"
+    },
+    {
+      "rank": "27.",
+      "title": "A-Levels: The Model is not the Student",
+      "link": "http://thaines.com/post/alevels2020"
     },
     {
       "rank": "28.",
