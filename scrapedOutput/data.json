@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "An Introduction to OpenBSD",
-      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
+      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
+      "link": "item?id=24188214"
     },
     {
       "rank": "9.",
-      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
-      "link": "item?id=24188214"
+      "title": "An Introduction to OpenBSD",
+      "link": "https://blog.lambda.cx/posts/openbsd-introduction-talk/"
     },
     {
       "rank": "10.",
@@ -52,88 +52,88 @@
     },
     {
       "rank": "11.",
+      "title": "Apple, Epic, and the App Store",
+      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
+    },
+    {
+      "rank": "12.",
       "title": "Named Tensors",
       "link": "http://nlp.seas.harvard.edu/NamedTensor"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Microsoft Put Off Fixing Zero Day for 2 Years",
       "link": "https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/"
     },
     {
-      "rank": "13.",
-      "title": "Are CRDTs suitable for shared editing?",
-      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
-    },
-    {
       "rank": "14.",
-      "title": "Nerves – Elixir Platform for IoT",
-      "link": "https://www.nerves-project.org/"
-    },
-    {
-      "rank": "15.",
-      "title": "ACCC: Response to Google open letter",
-      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
-    },
-    {
-      "rank": "16.",
-      "title": "Show HN: Me And A Friend Remastered 85 Slate Star Codex Posts",
-      "link": "https://www.slatestarcodexabridged.com/"
-    },
-    {
-      "rank": "17.",
       "title": "Ask HN: Parents, what are you doing for school this fall?",
       "link": "item?id=24189147"
     },
     {
+      "rank": "15.",
+      "title": "Are CRDTs suitable for shared editing?",
+      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
+    },
+    {
+      "rank": "16.",
+      "title": "Nerves – Elixir Platform for IoT",
+      "link": "https://www.nerves-project.org/"
+    },
+    {
+      "rank": "17.",
+      "title": "ACCC: Response to Google open letter",
+      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
+    },
+    {
       "rank": "18.",
+      "title": "Show HN: Me And A Friend Remastered 85 Slate Star Codex Posts",
+      "link": "https://www.slatestarcodexabridged.com/"
+    },
+    {
+      "rank": "19.",
       "title": "Handmade: A Community for Self-Rolled Performant Software (2016)",
       "link": "https://handmade.network/manifesto"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "OpenAI: Spinning Up in Deep RL",
       "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "The Strange Costumes of the Plague Doctors",
       "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Robinhood Now Valued at $11.2B with New Fund Backing",
       "link": "https://www.bloomberg.com/news/articles/2020-08-17/robinhood-now-valued-at-11-2-billion-with-sundheim-fund-backing"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "To Know, but Not Understand: David Weinberger on Science and Big Data (2012)",
       "link": "https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "A CRISPR first produces squid as clear as glass",
       "link": "https://www.nature.com/articles/d41586-020-02242-3"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Mindfulness and meditation can worsen depression and anxiety",
       "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "“Time of the Magicians” – philosophy's great decade?",
       "link": "https://www.theguardian.com/books/2020/aug/13/time-of-the-magicians-by-wolfram-eilenberger-review-philosophys-great-decade"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "XCSSET Mac Malware infects Xcode projects, performs UXSS attack on browsers",
       "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/xcsset-mac-malware-infects-xcode-projects-performs-uxss-attack-on-safari-other-browsers-leverages-zero-day-exploits/"
-    },
-    {
-      "rank": "27.",
-      "title": "Rolling Blackouts in California Have Power Experts Stumped",
-      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "The Market for Discontinued Photographic Film",
-      "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
+      "title": "Rolling Blackouts in California Have Power Experts Stumped",
+      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
       "rank": "30.",
-      "title": "A Brief History of ClarisWorks (2003)",
-      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
+      "title": "The Market for Discontinued Photographic Film",
+      "link": "https://leejo.github.io/2020/08/14/the_market_for_discontinued_film/"
     }
   ],
   "metadata": {
