@@ -12,8 +12,8 @@
     },
     {
       "rank": "3.",
-      "title": "A 35-year-old bug in patch found during the 2.11BSD restoration project",
-      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
+      "title": "What’s Flying Above Us?",
+      "link": "https://skycircl.es/donate/"
     },
     {
       "rank": "4.",
@@ -22,28 +22,28 @@
     },
     {
       "rank": "5.",
-      "title": "What’s Flying Above Us?",
-      "link": "https://skycircl.es/donate/"
+      "title": "A 35-year-old bug in patch found during the 2.11BSD restoration project",
+      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
       "rank": "6.",
-      "title": "A look at the J language: the fine line between genius and insanity (2012)",
-      "link": "https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/"
-    },
-    {
-      "rank": "7.",
-      "title": "Mux is looking for developers familiar with WebRTC/video to build new things",
-      "link": "https://mux.com/jobs?hnj=18"
-    },
-    {
-      "rank": "8.",
       "title": "Ask HN: Parents, what are you doing for school this fall?",
       "link": "item?id=24189147"
     },
     {
-      "rank": "9.",
+      "rank": "7.",
+      "title": "A look at the J language: the fine line between genius and insanity (2012)",
+      "link": "https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/"
+    },
+    {
+      "rank": "8.",
       "title": "IBM Reveals Next-Generation IBM POWER10 Processor",
       "link": "https://newsroom.ibm.com/2020-08-17-IBM-Reveals-Next-Generation-IBM-POWER10-Processor"
+    },
+    {
+      "rank": "9.",
+      "title": "Mux is looking for developers familiar with WebRTC/video to build new things",
+      "link": "https://mux.com/jobs?hnj=18"
     },
     {
       "rank": "10.",
@@ -72,28 +72,28 @@
     },
     {
       "rank": "15.",
-      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
-      "link": "https://hndex.ml/"
-    },
-    {
-      "rank": "16.",
-      "title": "Show HN: Me And A Friend Remastered 85 Slate Star Codex Posts",
+      "title": "Show HN: A Friend And I Remastered 85 Slate Star Codex Posts",
       "link": "https://www.slatestarcodexabridged.com/"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Nerves – Elixir Platform for IoT",
       "link": "https://www.nerves-project.org/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Are CRDTs suitable for shared editing?",
       "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
     },
     {
+      "rank": "18.",
+      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
+      "link": "https://hndex.ml/"
+    },
+    {
       "rank": "19.",
-      "title": "ACCC: Response to Google open letter",
-      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
+      "title": "What if we could live for a million years",
+      "link": "https://www.scientificamerican.com/article/what-if-we-could-live-for-a-million-years/"
     },
     {
       "rank": "20.",
@@ -102,53 +102,53 @@
     },
     {
       "rank": "21.",
+      "title": "ACCC: Response to Google open letter",
+      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
+    },
+    {
+      "rank": "22.",
       "title": "OpenAI: Spinning Up in Deep RL",
       "link": "https://spinningup.openai.com/en/latest/user/introduction.html"
     },
     {
-      "rank": "22.",
-      "title": "A fake blog written by AI shot to the top of Hacker News",
-      "link": "https://www.businessinsider.com/fake-ai-generated-gpt3-blog-hacker-news-2020-8"
-    },
-    {
       "rank": "23.",
-      "title": "The Strange Costumes of the Plague Doctors",
-      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
-    },
-    {
-      "rank": "24.",
       "title": "Handmade: A Community for Self-Rolled Performant Software (2016)",
       "link": "https://handmade.network/manifesto"
     },
     {
-      "rank": "25.",
-      "title": "Ask HN: How do you overcome decision fatigue in software development?",
-      "link": "item?id=24176774"
+      "rank": "24.",
+      "title": "The Strange Costumes of the Plague Doctors",
+      "link": "http://www.openculture.com/2020/08/the-strange-costumes-of-plague-doctors.html"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "To Know, but Not Understand: David Weinberger on Science and Big Data (2012)",
       "link": "https://www.theatlantic.com/technology/archive/2012/01/to-know-but-not-understand-david-weinberger-on-science-and-big-data/250820/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Robinhood Now Valued at $11.2B with New Fund Backing",
       "link": "https://www.bloomberg.com/news/articles/2020-08-17/robinhood-now-valued-at-11-2-billion-with-sundheim-fund-backing"
     },
     {
-      "rank": "28.",
-      "title": "A CRISPR first produces squid as clear as glass",
-      "link": "https://www.nature.com/articles/d41586-020-02242-3"
-    },
-    {
-      "rank": "29.",
+      "rank": "27.",
       "title": "Mindfulness and meditation can worsen depression and anxiety",
       "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
-      "rank": "30.",
+      "rank": "28.",
       "title": "“Time of the Magicians” – philosophy's great decade?",
       "link": "https://www.theguardian.com/books/2020/aug/13/time-of-the-magicians-by-wolfram-eilenberger-review-philosophys-great-decade"
+    },
+    {
+      "rank": "29.",
+      "title": "Ask HN: How do you overcome decision fatigue in software development?",
+      "link": "item?id=24176774"
+    },
+    {
+      "rank": "30.",
+      "title": "A Brief History of ClarisWorks (2003)",
+      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
     }
   ],
   "metadata": {
