@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "Laying the foundation for Rust’s future",
-      "link": "https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html"
+      "title": "Shadow Traffic: Why Your Traffic Numbers Are Off by 20%",
+      "link": "https://blog.parse.ly/post/9616/shadow-traffic-why-your-traffic-numbers-are-off-by-20/"
     },
     {
       "rank": "6.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
-      "title": "Xplain – Explaining X11 for the rest of us",
-      "link": "https://magcius.github.io/xplain/article/"
+      "title": "Laying the foundation for Rust’s future",
+      "link": "https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html"
     },
     {
       "rank": "8.",
-      "title": "Shadow Traffic: Why Your Traffic Numbers Are Off by 20%",
-      "link": "https://blog.parse.ly/post/9616/shadow-traffic-why-your-traffic-numbers-are-off-by-20/"
+      "title": "APL386 Unicode – An APL Font",
+      "link": "https://abrudz.github.io/APL386/"
     },
     {
       "rank": "9.",
-      "title": "Dear Apple: Your Services Are No Longer Required",
-      "link": "https://lowendmac.com/2020/dear-apple-your-services-are-no-longer-required/"
+      "title": "Xplain – Explaining X11 for the rest of us",
+      "link": "https://magcius.github.io/xplain/article/"
     },
     {
       "rank": "10.",
@@ -52,48 +52,48 @@
     },
     {
       "rank": "11.",
-      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
-      "link": "https://www.workatastartup.com/techtalk"
-    },
-    {
-      "rank": "12.",
-      "title": "Backblaze Hard Drive Stats Q2 2020",
-      "link": "https://www.backblaze.com/blog/backblaze-hard-drive-stats-q2-2020/"
-    },
-    {
-      "rank": "13.",
       "title": "Allowing CMake Functions to Return(value)",
       "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
     },
     {
-      "rank": "14.",
+      "rank": "12.",
       "title": "Modeling a Wealth Tax",
       "link": "http://paulgraham.com/wtax.html"
     },
     {
-      "rank": "15.",
-      "title": "SpaceX raises $1.9B in largest funding round to date",
-      "link": "https://techcrunch.com/2020/08/18/spacex-raises-1-9-billion-in-largest-funding-found-to-date/"
+      "rank": "13.",
+      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
+      "link": "https://www.workatastartup.com/techtalk"
     },
     {
-      "rank": "16.",
-      "title": "APL386 Unicode – An APL Font",
-      "link": "https://abrudz.github.io/APL386/"
-    },
-    {
-      "rank": "17.",
+      "rank": "14.",
       "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
       "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
     },
     {
-      "rank": "18.",
+      "rank": "15.",
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+    },
+    {
+      "rank": "16.",
       "title": "Graphical Linear Algebra",
       "link": "https://graphicallinearalgebra.net/"
     },
     {
-      "rank": "19.",
+      "rank": "17.",
+      "title": "Backblaze Hard Drive Stats Q2 2020",
+      "link": "https://www.backblaze.com/blog/backblaze-hard-drive-stats-q2-2020/"
+    },
+    {
+      "rank": "18.",
       "title": "Simple, open source alternative to Google Analytics",
       "link": "https://umami.is/"
+    },
+    {
+      "rank": "19.",
+      "title": "Investor revolt and legal dispute delay Filecoin plans",
+      "link": "https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html"
     },
     {
       "rank": "20.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "Kotlin 1.4",
-      "link": "https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html"
+      "title": "Dear Apple: Your Services Are No Longer Required",
+      "link": "https://lowendmac.com/2020/dear-apple-your-services-are-no-longer-required/"
     },
     {
       "rank": "26.",
+      "title": "Kotlin 1.4",
+      "link": "https://blog.jetbrains.com/kotlin/2020/08/kotlin-1-4-released-with-a-focus-on-quality-and-performance/"
+    },
+    {
+      "rank": "27.",
       "title": "Show HN: GA Insights – Never Log into Google Analytics Again",
       "link": "item?id=24199806"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Black silicon photodetector breaks the 100% efficiency limit",
       "link": "https://phys.org/news/2020-08-black-silicon-photodetector-efficiency-limit.html"
     },
     {
-      "rank": "28.",
-      "title": "The Death of Corporate Research Labs",
-      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
-    },
-    {
       "rank": "29.",
-      "title": "Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps",
-      "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
+      "title": "SpaceX raises $1.9B in largest funding round to date",
+      "link": "https://techcrunch.com/2020/08/18/spacex-raises-1-9-billion-in-largest-funding-found-to-date/"
     },
     {
       "rank": "30.",
-      "title": "The life-changing love of one of the 20th century’s greatest physicists (2015)",
-      "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
+      "title": "Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps",
+      "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
     }
   ],
   "metadata": {
