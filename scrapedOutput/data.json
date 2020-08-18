@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "How to deploy a React app for free",
-      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
+      "title": "I fear App Review is getting too powerful (2015) [pdf]",
+      "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
     },
     {
       "rank": "2.",
-      "title": "I fear App Review is getting too powerful (2015) [pdf]",
-      "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
+      "title": "How to deploy a React app for free",
+      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
     },
     {
       "rank": "3.",
@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Essential Coding Theory [pdf]",
-      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
+      "title": "What’s Flying Above Us?",
+      "link": "https://skycircl.es/donate/"
     },
     {
       "rank": "6.",
-      "title": "What’s Flying Above Us?",
-      "link": "https://skycircl.es/donate/"
+      "title": "Essential Coding Theory [pdf]",
+      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
     },
     {
       "rank": "7.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "The Computational Limits of Deep Learning",
-      "link": "https://arxiv.org/abs/2007.05558"
+      "title": "Create and view interactive cheatsheets on the command-line",
+      "link": "https://github.com/cheat/cheat"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
-      "link": "https://www.nature.com/articles/s42003-020-01156-0"
+      "title": "The Computational Limits of Deep Learning",
+      "link": "https://arxiv.org/abs/2007.05558"
     },
     {
       "rank": "12.",
-      "title": "Create and view interactive cheatsheets on the command-line",
-      "link": "https://github.com/cheat/cheat"
+      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
+      "link": "https://www.nature.com/articles/s42003-020-01156-0"
     },
     {
       "rank": "13.",
@@ -67,23 +67,23 @@
     },
     {
       "rank": "14.",
+      "title": "Stuck with Pound",
+      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
+    },
+    {
+      "rank": "15.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Understanding Recursive Queries in PostgreSQL",
       "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "A circuit-like notation for lambda calculus (2015)",
       "link": "https://csvoss.com/circuit-notation-lambda-calculus"
-    },
-    {
-      "rank": "17.",
-      "title": "Stuck with Pound",
-      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
     },
     {
       "rank": "18.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
-      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
+      "title": "Projected growth of Tiger Mosquito range in northeastern US (2013)",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/"
     },
     {
       "rank": "20.",
@@ -102,43 +102,43 @@
     },
     {
       "rank": "21.",
-      "title": "Apple, Epic, and the App Store",
-      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
-    },
-    {
-      "rank": "22.",
-      "title": "Spectrum Analyzer Software for OpenRAMAN",
-      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
-    },
-    {
-      "rank": "23.",
       "title": "Using, Understanding, and Unraveling the OCaml Language",
       "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
     },
     {
-      "rank": "24.",
-      "title": "Historian's Cookbook: We All Scream for Ice Cream (2018)",
-      "link": "https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream"
+      "rank": "22.",
+      "title": "Apple, Epic, and the App Store",
+      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
     },
     {
-      "rank": "25.",
+      "rank": "23.",
+      "title": "Spectrum Analyzer Software for OpenRAMAN",
+      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
+    },
+    {
+      "rank": "24.",
       "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
       "link": "https://kliu.io/post/yubico-magic-unlock/"
     },
     {
-      "rank": "26.",
-      "title": "Dependency",
-      "link": "https://xkcd.com/2347/"
+      "rank": "25.",
+      "title": "Historian's Cookbook: We All Scream for Ice Cream (2018)",
+      "link": "https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
       "link": "https://dungeonmapdoodler.com/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "A Twist on Schrödinger's Cat Paradox",
       "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
+    },
+    {
+      "rank": "28.",
+      "title": "Dependency",
+      "link": "https://xkcd.com/2347/"
     },
     {
       "rank": "29.",
