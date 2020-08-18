@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
-      "link": "https://github.com/Uzay-G/archivy"
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
     },
     {
       "rank": "5.",
-      "title": "The Death of Corporate Research Labs",
-      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+      "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
+      "link": "https://github.com/Uzay-G/archivy"
     },
     {
       "rank": "6.",
@@ -32,23 +32,23 @@
     },
     {
       "rank": "7.",
-      "title": "Xplain – Explaining X11 for the rest of us",
-      "link": "https://magcius.github.io/xplain/article/"
-    },
-    {
-      "rank": "8.",
       "title": "Language-Agnostic Bert Sentence Embedding",
       "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
     },
     {
+      "rank": "8.",
+      "title": "Xplain – Explaining X11 for the rest of us",
+      "link": "https://magcius.github.io/xplain/article/"
+    },
+    {
       "rank": "9.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
+      "title": "Lost Advanced Civilizations",
+      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
     },
     {
       "rank": "10.",
-      "title": "Lost Advanced Civilizations",
-      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
     },
     {
       "rank": "11.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
+      "title": "Allowing CMake Functions to Return(value)",
+      "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
+    },
+    {
+      "rank": "13.",
       "title": "Modeling a Wealth Tax",
       "link": "http://paulgraham.com/wtax.html"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
       "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
-    },
-    {
-      "rank": "14.",
-      "title": "Allowing CMake Functions to Return(value)",
-      "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
     },
     {
       "rank": "15.",
@@ -82,68 +82,68 @@
     },
     {
       "rank": "17.",
-      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
-      "link": "https://www.workatastartup.com/techtalk"
-    },
-    {
-      "rank": "18.",
       "title": "Simple, open source alternative to Google Analytics",
       "link": "https://umami.is/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Laying the foundation for Rust’s future",
       "link": "https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html"
     },
     {
-      "rank": "20.",
-      "title": "How to give access to AWS resources without creating 100s of IAM Users?",
-      "link": "https://blog.rajanpanchal.net/how-to-give-access-to-aws-resources-without-creating-100s-of-iam-users-ckds91qj100pf97s1gc3v8vwb"
+      "rank": "19.",
+      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
+      "link": "https://www.workatastartup.com/techtalk"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Architecture of the Nintendo DS",
       "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "An Ecology of Mind: A daughter's portrait of Gregory Bateson",
       "link": "http://www.anecologyofmind.com/thefilm.html"
     },
     {
+      "rank": "22.",
+      "title": "A single metric to drive Customer Success teams",
+      "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
+    },
+    {
       "rank": "23.",
+      "title": "How to give access to AWS resources without creating 100s of IAM Users?",
+      "link": "https://blog.rajanpanchal.net/how-to-give-access-to-aws-resources-without-creating-100s-of-iam-users-ckds91qj100pf97s1gc3v8vwb"
+    },
+    {
+      "rank": "24.",
       "title": "If Founders Treated Their Investors the Same Way They Treated Their Employees",
       "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
     },
     {
-      "rank": "24.",
-      "title": "Investor revolt and legal dispute delay Filecoin plans",
-      "link": "https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html"
-    },
-    {
       "rank": "25.",
-      "title": "An old Goderich salt mine could one day save you money on your hydro bill",
-      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
-    },
-    {
-      "rank": "26.",
       "title": "Ask HN: How do you switch off from work, particularly when working from home?",
       "link": "item?id=24196433"
     },
     {
-      "rank": "27.",
-      "title": "Prosopagnosia: The artist in search of her face",
-      "link": "https://www.bbc.co.uk/news/stories-53192821"
+      "rank": "26.",
+      "title": "Investor revolt and legal dispute delay Filecoin plans",
+      "link": "https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "1-Euro Houses",
       "link": "https://1eurohouses.com/case-a-1-euro-houses/"
     },
     {
+      "rank": "28.",
+      "title": "ANSI Z535 Compliant Safety Sign Generator",
+      "link": "https://observatory.db.erau.edu/generators/signs/"
+    },
+    {
       "rank": "29.",
-      "title": "Dear Apple: Your Services Are No Longer Required",
-      "link": "https://lowendmac.com/2020/dear-apple-your-services-are-no-longer-required/"
+      "title": "Prosopagnosia: The artist in search of her face",
+      "link": "https://www.bbc.co.uk/news/stories-53192821"
     },
     {
       "rank": "30.",
