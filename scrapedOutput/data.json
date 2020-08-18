@@ -27,33 +27,33 @@
     },
     {
       "rank": "6.",
+      "title": "Create and view interactive cheatsheets on the command-line",
+      "link": "https://github.com/cheat/cheat"
+    },
+    {
+      "rank": "7.",
       "title": "Karpathy's MinGPT",
       "link": "https://github.com/karpathy/minGPT"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Pytov – C-like syntax Python",
       "link": "https://github.com/Yuvix25/pytov"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
       "link": "https://www.dropbase.io/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "The Computational Limits of Deep Learning",
       "link": "https://arxiv.org/abs/2007.05558"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Essential Coding Theory [pdf]",
       "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
-    },
-    {
-      "rank": "11.",
-      "title": "Create and view interactive cheatsheets on the command-line",
-      "link": "https://github.com/cheat/cheat"
     },
     {
       "rank": "12.",
@@ -67,43 +67,43 @@
     },
     {
       "rank": "14.",
-      "title": "Understanding Recursive Queries in PostgreSQL",
-      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
-    },
-    {
-      "rank": "15.",
-      "title": "A circuit-like notation for lambda calculus (2015)",
-      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
-    },
-    {
-      "rank": "16.",
       "title": "Stuck with Pound",
       "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
     },
     {
+      "rank": "15.",
+      "title": "Understanding Recursive Queries in PostgreSQL",
+      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
+    },
+    {
+      "rank": "16.",
+      "title": "A circuit-like notation for lambda calculus (2015)",
+      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
+    },
+    {
       "rank": "17.",
-      "title": "A $10B domed experimental city nearly got built in rural Minnesota",
+      "title": "A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)",
       "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
     },
     {
       "rank": "18.",
-      "title": "Using, Understanding, and Unraveling the OCaml Language",
-      "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
-    },
-    {
-      "rank": "19.",
       "title": "Apple, Epic, and the App Store",
       "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
     },
     {
+      "rank": "19.",
+      "title": "Using, Understanding, and Unraveling the OCaml Language",
+      "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
+    },
+    {
       "rank": "20.",
-      "title": "Projected growth of Tiger Mosquito range in northeastern US (2013)",
-      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/"
+      "title": "Spectrum Analyzer Software for OpenRAMAN",
+      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
     },
     {
       "rank": "21.",
-      "title": "Spectrum Analyzer Software for OpenRAMAN",
-      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
+      "title": "Projected growth of Tiger Mosquito range in northeastern US (2013)",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/"
     },
     {
       "rank": "22.",
@@ -132,18 +132,18 @@
     },
     {
       "rank": "27.",
+      "title": "Apple to kill Epic’s accounts on Friday the 28th",
+      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
+    },
+    {
+      "rank": "28.",
       "title": "Historian's Cookbook: We All Scream for Ice Cream (2018)",
       "link": "https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Avro Canada VZ-9 Avrocar",
       "link": "https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar"
-    },
-    {
-      "rank": "29.",
-      "title": "Apple to kill Epic’s accounts on Friday the 28th",
-      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
     },
     {
       "rank": "30.",
