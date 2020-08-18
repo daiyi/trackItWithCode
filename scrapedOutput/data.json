@@ -2,58 +2,58 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "U.S. states seek $2.2T from OxyContin maker Purdue Pharma",
-      "link": "https://www.reuters.com/article/us-purdue-pharma-investigations-opioids/u-s-states-seek-2-2-trillion-from-oxycontin-maker-purdue-pharma-filings-idUSKCN25D2EG"
-    },
-    {
-      "rank": "2.",
       "title": "I fear App Review is getting too powerful (2015) [pdf]",
       "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "Apple expands independent repair program to Mac after US antitrust investigation",
       "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
     },
     {
-      "rank": "4.",
-      "title": "2.5M Medical Records Leaked by AI Company",
-      "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
-    },
-    {
-      "rank": "5.",
+      "rank": "3.",
       "title": "What’s Flying Above Us?",
       "link": "https://skycircl.es/donate/"
     },
     {
-      "rank": "6.",
-      "title": "Karpathy's MinGPT",
-      "link": "https://github.com/karpathy/minGPT"
-    },
-    {
-      "rank": "7.",
+      "rank": "4.",
       "title": "Essential Coding Theory [pdf]",
       "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
     },
     {
-      "rank": "8.",
-      "title": "Building AGI Using Language Models",
-      "link": "https://leogao.dev/2020/08/17/Building-AGI-Using-Language-Models/"
+      "rank": "5.",
+      "title": "Karpathy's MinGPT",
+      "link": "https://github.com/karpathy/minGPT"
     },
     {
-      "rank": "9.",
+      "rank": "6.",
+      "title": "2.5M Medical Records Leaked by AI Company",
+      "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
+    },
+    {
+      "rank": "7.",
       "title": "The Computational Limits of Deep Learning",
       "link": "https://arxiv.org/abs/2007.05558"
     },
     {
-      "rank": "10.",
+      "rank": "8.",
       "title": "Artificial eyespots on cattle reduce predation by large carnivores",
       "link": "https://www.nature.com/articles/s42003-020-01156-0"
     },
     {
-      "rank": "11.",
+      "rank": "9.",
+      "title": "Building AGI Using Language Models",
+      "link": "https://leogao.dev/2020/08/17/Building-AGI-Using-Language-Models/"
+    },
+    {
+      "rank": "10.",
       "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
       "link": "https://www.dropbase.io/"
+    },
+    {
+      "rank": "11.",
+      "title": "Pytov – C-like syntax Python",
+      "link": "https://github.com/Yuvix25/pytov"
     },
     {
       "rank": "12.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "Pytov – C-like syntax Python",
-      "link": "https://github.com/Yuvix25/pytov"
+      "title": "U.S. states seek $2.2T from OxyContin maker Purdue Pharma",
+      "link": "https://www.reuters.com/article/us-purdue-pharma-investigations-opioids/u-s-states-seek-2-2-trillion-from-oxycontin-maker-purdue-pharma-filings-idUSKCN25D2EG"
     },
     {
       "rank": "15.",
@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
-      "title": "A circuit-like notation for lambda calculus (2015)",
-      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
-    },
-    {
-      "rank": "17.",
       "title": "Rolling blackouts in California have power experts stumped",
       "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
+      "rank": "17.",
+      "title": "A circuit-like notation for lambda calculus (2015)",
+      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
+    },
+    {
       "rank": "18.",
-      "title": "Dependency",
-      "link": "https://xkcd.com/2347/"
+      "title": "A $10B domed experimental city nearly got built in rural Minnesota",
+      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
     },
     {
       "rank": "19.",
-      "title": "A $10B domed experimental city nearly got built in rural Minnesota",
-      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
+      "title": "Dependency",
+      "link": "https://xkcd.com/2347/"
     },
     {
       "rank": "20.",
@@ -107,18 +107,18 @@
     },
     {
       "rank": "22.",
-      "title": "Reclaiming Becket: London’s great saint needs a reboot",
-      "link": "https://thecritic.co.uk/reclaiming-becket/"
-    },
-    {
-      "rank": "23.",
       "title": "Spectrum Analyzer Software for OpenRAMAN",
       "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
       "link": "https://kliu.io/post/yubico-magic-unlock/"
+    },
+    {
+      "rank": "24.",
+      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
+      "link": "https://dungeonmapdoodler.com/"
     },
     {
       "rank": "25.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "A Twist on Schrödinger's Cat Paradox",
-      "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
+      "title": "Reclaiming Becket: London’s great saint needs a reboot",
+      "link": "https://thecritic.co.uk/reclaiming-becket/"
     },
     {
       "rank": "27.",
-      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
-      "link": "https://dungeonmapdoodler.com/"
+      "title": "A Twist on Schrödinger's Cat Paradox",
+      "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
     },
     {
       "rank": "28.",
