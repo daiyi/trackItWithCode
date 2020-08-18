@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "I fear App Review is getting too powerful (2015) [pdf]",
-      "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
+      "title": "How to deploy a React app for free",
+      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
     },
     {
       "rank": "2.",
-      "title": "How to deploy a React app for free",
-      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
+      "title": "I fear App Review is getting too powerful (2015) [pdf]",
+      "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
     },
     {
       "rank": "3.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
+      "title": "Create and view interactive cheatsheets on the command-line",
+      "link": "https://github.com/cheat/cheat"
+    },
+    {
+      "rank": "16.",
       "title": "A circuit-like notation for lambda calculus (2015)",
       "link": "https://csvoss.com/circuit-notation-lambda-calculus"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Rolling blackouts in California have power experts stumped",
       "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
-    },
-    {
-      "rank": "17.",
-      "title": "U.S. states seek $2.2T from OxyContin maker Purdue Pharma",
-      "link": "https://www.reuters.com/article/us-purdue-pharma-investigations-opioids/u-s-states-seek-2-2-trillion-from-oxycontin-maker-purdue-pharma-filings-idUSKCN25D2EG"
     },
     {
       "rank": "18.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Historian's Cookbook: We All Scream for Ice Cream (2018)",
-      "link": "https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream"
+      "title": "Apple, Epic, and the App Store",
+      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
     },
     {
       "rank": "21.",
@@ -107,23 +107,23 @@
     },
     {
       "rank": "22.",
+      "title": "Historian's Cookbook: We All Scream for Ice Cream (2018)",
+      "link": "https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream"
+    },
+    {
+      "rank": "23.",
       "title": "Stuck with Pound",
       "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
     },
     {
-      "rank": "23.",
-      "title": "Apple, Epic, and the App Store",
-      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
-    },
-    {
       "rank": "24.",
-      "title": "Create and view interactive cheatsheets on the command-line",
-      "link": "https://github.com/cheat/cheat"
+      "title": "Using, Understanding, and Unraveling the OCaml Language",
+      "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
     },
     {
       "rank": "25.",
-      "title": "Using, Understanding, and Unraveling the OCaml Language",
-      "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
+      "title": "U.S. states seek $2.2T from OxyContin maker Purdue Pharma",
+      "link": "https://www.reuters.com/article/us-purdue-pharma-investigations-opioids/u-s-states-seek-2-2-trillion-from-oxycontin-maker-purdue-pharma-filings-idUSKCN25D2EG"
     },
     {
       "rank": "26.",
