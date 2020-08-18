@@ -12,138 +12,138 @@
     },
     {
       "rank": "3.",
+      "title": "Dear Apple: Your Services Are No Longer Required",
+      "link": "https://lowendmac.com/2020/dear-apple-your-services-are-no-longer-required/"
+    },
+    {
+      "rank": "4.",
       "title": "Show HN: Archivy – Self Hosted Knowledge Base embedded into your filesystem",
       "link": "https://github.com/Uzay-G/archivy"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Canon's cloud platform has lost users' files – and it can't restore them",
       "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Xplain – Explaining X11 for the rest of us",
       "link": "https://magcius.github.io/xplain/article/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Backblaze Hard Drive Stats Q2 2020",
       "link": "https://www.backblaze.com/blog/backblaze-hard-drive-stats-q2-2020/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Shadow Traffic: Why Your Traffic Numbers Are Off by 20%",
       "link": "https://blog.parse.ly/post/9616/shadow-traffic-why-your-traffic-numbers-are-off-by-20/"
     },
     {
-      "rank": "8.",
-      "title": "Modeling a Wealth Tax",
-      "link": "http://paulgraham.com/wtax.html"
-    },
-    {
       "rank": "9.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
-    },
-    {
-      "rank": "10.",
-      "title": "Simple, open source alternative to Google Analytics",
-      "link": "https://umami.is/"
-    },
-    {
-      "rank": "11.",
-      "title": "Graphical Linear Algebra",
-      "link": "https://graphicallinearalgebra.net/"
-    },
-    {
-      "rank": "12.",
-      "title": "If Founders Treated Their Investors the Same Way They Treated Their Employees",
-      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
-    },
-    {
-      "rank": "13.",
-      "title": "The ‘Batman Effect’: How having an alter ego empowers you",
-      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
-    },
-    {
-      "rank": "14.",
-      "title": "Viola Web Browser (2009)",
-      "link": "http://viola.org/"
-    },
-    {
-      "rank": "15.",
-      "title": "Architecture of the Nintendo DS",
-      "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
-    },
-    {
-      "rank": "16.",
-      "title": "Show HN: GA Insights – Never Log into Google Analytics Again",
-      "link": "item?id=24199806"
-    },
-    {
-      "rank": "17.",
       "title": "Haskell Mini-Patterns Handbook",
       "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
     },
     {
-      "rank": "18.",
-      "title": "Ask HN: How do you switch off from work, particularly when WFH?",
-      "link": "item?id=24196433"
+      "rank": "10.",
+      "title": "Modeling a Wealth Tax",
+      "link": "http://paulgraham.com/wtax.html"
     },
     {
-      "rank": "19.",
+      "rank": "11.",
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
+    },
+    {
+      "rank": "12.",
+      "title": "Simple, open source alternative to Google Analytics",
+      "link": "https://umami.is/"
+    },
+    {
+      "rank": "13.",
+      "title": "Graphical Linear Algebra",
+      "link": "https://graphicallinearalgebra.net/"
+    },
+    {
+      "rank": "14.",
+      "title": "The ‘Batman Effect’: How having an alter ego empowers you",
+      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
+    },
+    {
+      "rank": "15.",
+      "title": "If Founders Treated Their Investors the Same Way They Treated Their Employees",
+      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
+    },
+    {
+      "rank": "16.",
+      "title": "Viola Web Browser (2009)",
+      "link": "http://viola.org/"
+    },
+    {
+      "rank": "17.",
+      "title": "Architecture of the Nintendo DS",
+      "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
+    },
+    {
+      "rank": "18.",
       "title": "Investor revolt and legal dispute delay Filecoin plans",
       "link": "https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html"
     },
     {
+      "rank": "19.",
+      "title": "Show HN: GA Insights – Never Log into Google Analytics Again",
+      "link": "item?id=24199806"
+    },
+    {
       "rank": "20.",
+      "title": "Ask HN: How do you switch off from work, particularly when WFH?",
+      "link": "item?id=24196433"
+    },
+    {
+      "rank": "21.",
       "title": "Kotlin 1.4",
       "link": "https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html"
     },
     {
-      "rank": "21.",
-      "title": "Prosopagnosia: The artist in search of her face",
-      "link": "https://www.bbc.co.uk/news/stories-53192821"
-    },
-    {
       "rank": "22.",
-      "title": "Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps",
-      "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
-    },
-    {
-      "rank": "23.",
       "title": "Black silicon photodetector breaks the 100% efficiency limit",
       "link": "https://phys.org/news/2020-08-black-silicon-photodetector-efficiency-limit.html"
     },
     {
+      "rank": "23.",
+      "title": "Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps",
+      "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
+    },
+    {
       "rank": "24.",
+      "title": "Prosopagnosia: The artist in search of her face",
+      "link": "https://www.bbc.co.uk/news/stories-53192821"
+    },
+    {
+      "rank": "25.",
       "title": "The life-changing love of one of the 20th century’s greatest physicists (2015)",
       "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
     },
     {
-      "rank": "25.",
-      "title": "Slate, create beautiful, responsive API documentation",
-      "link": "https://github.com/slatedocs/slate"
-    },
-    {
       "rank": "26.",
-      "title": "OneSignal is hiring a Back end Engineer interested in writing in Go and Rust",
-      "link": "https://onesignal.com/careers/9a60a245-06d9-4e2a-82fb-da5e1e9d22d8"
-    },
-    {
-      "rank": "27.",
       "title": "Fossilised 429-million-year-old eye mirrors modern insect vision",
       "link": "https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html"
     },
     {
+      "rank": "27.",
+      "title": "Slate, create beautiful, responsive API documentation",
+      "link": "https://github.com/slatedocs/slate"
+    },
+    {
       "rank": "28.",
-      "title": "Accused Spy Alexander Yuk Ching Ma Beat the Polygraph to Penetrate the FBI",
-      "link": "https://antipolygraph.org/blog/2020/08/18/accused-spy-alexander-yuk-ching-ma-evidently-beat-the-polygraph-to-penetrate-the-fbi/"
+      "title": "Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo",
+      "link": "https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/"
     },
     {
       "rank": "29.",
-      "title": "Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo",
-      "link": "https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/"
+      "title": "OneSignal is hiring a Back end Engineer interested in writing in Go and Rust",
+      "link": "https://onesignal.com/careers/9a60a245-06d9-4e2a-82fb-da5e1e9d22d8"
     },
     {
       "rank": "30.",
