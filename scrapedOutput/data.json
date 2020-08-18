@@ -27,43 +27,43 @@
     },
     {
       "rank": "6.",
+      "title": "Two more restaurants in Toronto just got rid of tipping",
+      "link": "https://www.blogto.com/eat_drink/2020/08/restaurants-toronto-rid-of-tipping/"
+    },
+    {
+      "rank": "7.",
       "title": "Karpathy's MinGPT",
       "link": "https://github.com/karpathy/minGPT"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "The Computational Limits of Deep Learning",
       "link": "https://arxiv.org/abs/2007.05558"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Pytov – C-like syntax Python",
       "link": "https://github.com/Yuvix25/pytov"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
       "link": "https://www.dropbase.io/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Artificial eyespots on cattle reduce predation by large carnivores",
       "link": "https://www.nature.com/articles/s42003-020-01156-0"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "We should discuss soil as much as coal (2019)",
       "link": "https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
-    },
-    {
-      "rank": "13.",
-      "title": "Understanding Recursive Queries in PostgreSQL",
-      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Rolling blackouts in California have power experts stumped",
-      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
+      "title": "Understanding Recursive Queries in PostgreSQL",
+      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
+      "title": "Rolling blackouts in California have power experts stumped",
+      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
+    },
+    {
+      "rank": "18.",
       "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
       "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "A $10B domed experimental city nearly got built in rural Minnesota",
       "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
-    },
-    {
-      "rank": "19.",
-      "title": "Two more restaurants in Toronto just got rid of tipping",
-      "link": "https://www.blogto.com/eat_drink/2020/08/restaurants-toronto-rid-of-tipping/"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Spectrum Analyzer Software for OpenRAMAN",
-      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
+      "title": "Dependency",
+      "link": "https://xkcd.com/2347/"
     },
     {
       "rank": "22.",
-      "title": "Dependency",
-      "link": "https://xkcd.com/2347/"
+      "title": "Spectrum Analyzer Software for OpenRAMAN",
+      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
     },
     {
       "rank": "23.",
@@ -117,23 +117,23 @@
     },
     {
       "rank": "24.",
+      "title": "Using, Understanding, and Unraveling the OCaml Language",
+      "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
+    },
+    {
+      "rank": "25.",
       "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
       "link": "https://kliu.io/post/yubico-magic-unlock/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
       "link": "https://dungeonmapdoodler.com/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "A Twist on Schrödinger's Cat Paradox",
       "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
-    },
-    {
-      "rank": "27.",
-      "title": "Oracle is in talks to acquire TikTok’s U.S. operations, sources say",
-      "link": "https://www.cnbc.com/2020/08/17/oracle-is-in-talks-to-acquire-tiktoks-us-operations-source-says.html"
     },
     {
       "rank": "28.",
