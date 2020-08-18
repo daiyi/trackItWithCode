@@ -7,28 +7,28 @@
     },
     {
       "rank": "2.",
-      "title": "Architecture of the Nintendo DS",
-      "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
-    },
-    {
-      "rank": "3.",
       "title": "Canon's cloud platform has lost users' files – and it CAN'T restore them",
       "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     },
     {
+      "rank": "3.",
+      "title": "Architecture of the Nintendo DS",
+      "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
+    },
+    {
       "rank": "4.",
+      "title": "New language features and more in Kotlin 1.4",
+      "link": "https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html"
+    },
+    {
+      "rank": "5.",
       "title": "I fear App Review is getting too powerful (2015) [pdf]",
       "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Apple expands independent repair program to Mac after US antitrust investigation",
       "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
-    },
-    {
-      "rank": "6.",
-      "title": "New language features and more in Kotlin 1.4",
-      "link": "https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html"
     },
     {
       "rank": "7.",
@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
-      "title": "Karpathy's MinGPT",
-      "link": "https://github.com/karpathy/minGPT"
-    },
-    {
-      "rank": "10.",
       "title": "Let's Learn x86-64 Assembly Part 0 – Setup and First Steps",
       "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
     },
     {
+      "rank": "10.",
+      "title": "Karpathy's MinGPT",
+      "link": "https://github.com/karpathy/minGPT"
+    },
+    {
       "rank": "11.",
-      "title": "The Computational Limits of Deep Learning",
-      "link": "https://arxiv.org/abs/2007.05558"
+      "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
+      "link": "https://www.dropbase.io/"
     },
     {
       "rank": "12.",
-      "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
-      "link": "https://www.dropbase.io/"
+      "title": "The Computational Limits of Deep Learning",
+      "link": "https://arxiv.org/abs/2007.05558"
     },
     {
       "rank": "13.",
@@ -77,33 +77,33 @@
     },
     {
       "rank": "16.",
+      "title": "Threat to kill wild boar that stole nude bather's laptop prompts outcry",
+      "link": "https://www.theguardian.com/world/2020/aug/17/threat-to-kill-wild-boar-that-stole-nude-bathers-laptop-prompts-outcry-berlin"
+    },
+    {
+      "rank": "17.",
       "title": "Stuck with Pound",
       "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
     },
     {
-      "rank": "17.",
-      "title": "Projected growth of Tiger Mosquito range in northeastern US (2013)",
-      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/"
-    },
-    {
       "rank": "18.",
-      "title": "The Last of the Hedgehogs: René Girard",
-      "link": "https://lareviewofbooks.org/article/the-last-of-the-hedgehogs"
-    },
-    {
-      "rank": "19.",
-      "title": "Ultraviolet Hubble Movie",
-      "link": "http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html"
-    },
-    {
-      "rank": "20.",
       "title": "Using, Understanding, and Unraveling the OCaml Language",
       "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
     },
     {
-      "rank": "21.",
+      "rank": "19.",
+      "title": "Projected growth of Tiger Mosquito range in northeastern US (2013)",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/"
+    },
+    {
+      "rank": "20.",
       "title": "Understanding Recursive Queries in PostgreSQL",
       "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
+    },
+    {
+      "rank": "21.",
+      "title": "Ultraviolet Hubble Movie",
+      "link": "http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
+      "title": "The Last of the Hedgehogs: René Girard",
+      "link": "https://lareviewofbooks.org/article/the-last-of-the-hedgehogs"
+    },
+    {
+      "rank": "24.",
       "title": "Show HN: Made in India CSS",
       "link": "https://nishantpainter.github.io/made-in-india-css/"
     },
     {
-      "rank": "24.",
-      "title": "Threat to kill wild boar that stole nude bather's laptop prompts outcry",
-      "link": "https://www.theguardian.com/world/2020/aug/17/threat-to-kill-wild-boar-that-stole-nude-bathers-laptop-prompts-outcry-berlin"
-    },
-    {
       "rank": "25.",
-      "title": "Apple, Epic, and the App Store",
-      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
+      "title": "Impossible Figures Library",
+      "link": "https://im-possible.info/english/library/index.html"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "Apple, Epic, and the App Store",
+      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
+    },
+    {
+      "rank": "28.",
       "title": "A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)",
       "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "How to deploy a React app for free",
       "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Spectrum Analyzer Software for OpenRAMAN",
       "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
-    },
-    {
-      "rank": "30.",
-      "title": "Impossible Figures Library",
-      "link": "https://im-possible.info/english/library/index.html"
     }
   ],
   "metadata": {
