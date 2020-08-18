@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Canon's cloud platform has lost users' files – and it can't restore them",
-      "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
+      "title": "Graphical Linear Algebra",
+      "link": "https://graphicallinearalgebra.net/"
     },
     {
       "rank": "2.",
-      "title": "Graphical Linear Algebra",
-      "link": "https://graphicallinearalgebra.net/"
+      "title": "Canon's cloud platform has lost users' files – and it can't restore them",
+      "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     },
     {
       "rank": "3.",
@@ -37,33 +37,33 @@
     },
     {
       "rank": "8.",
+      "title": "Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps",
+      "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
+    },
+    {
+      "rank": "9.",
       "title": "An Ecology of Mind",
       "link": "http://www.anecologyofmind.com/thefilm.html"
     },
     {
-      "rank": "9.",
-      "title": "Let's Learn x86-64 Assembly Part 0 – Setup and First Steps",
-      "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
+      "rank": "10.",
+      "title": "Ask HN: How do you switch off from work, particularly when WFH?",
+      "link": "item?id=24196433"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "The Computational Limits of Deep Learning",
       "link": "https://arxiv.org/abs/2007.05558"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
       "link": "https://www.dropbase.io/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Create and view interactive cheatsheets on the command-line",
       "link": "https://github.com/cheat/cheat"
-    },
-    {
-      "rank": "13.",
-      "title": "Ask HN: How do you switch off from work, particularly when WFH?",
-      "link": "item?id=24196433"
     },
     {
       "rank": "14.",
@@ -72,83 +72,83 @@
     },
     {
       "rank": "15.",
-      "title": "I fear App Review is getting too powerful (2015) [pdf]",
-      "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
-    },
-    {
-      "rank": "16.",
-      "title": "Using, Understanding, and Unraveling the OCaml Language",
-      "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
-    },
-    {
-      "rank": "17.",
-      "title": "Understanding Recursive Queries in PostgreSQL",
-      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
-    },
-    {
-      "rank": "18.",
       "title": "The Last of the Hedgehogs: René Girard",
       "link": "https://lareviewofbooks.org/article/the-last-of-the-hedgehogs"
     },
     {
+      "rank": "16.",
+      "title": "I fear App Review is getting too powerful (2015) [pdf]",
+      "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
+    },
+    {
+      "rank": "17.",
+      "title": "A DOS JavaScript Canvas with Sound",
+      "link": "https://github.com/SuperIlu/DOjS"
+    },
+    {
+      "rank": "18.",
+      "title": "Using, Understanding, and Unraveling the OCaml Language",
+      "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
+    },
+    {
       "rank": "19.",
+      "title": "Understanding Recursive Queries in PostgreSQL",
+      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
+    },
+    {
+      "rank": "20.",
+      "title": "He Wasn’t Toscanini, but He Made Orchestras Sing",
+      "link": "https://www.nytimes.com/2020/08/13/arts/music/john-barbirolli-new-york-philharmonic.html"
+    },
+    {
+      "rank": "21.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
       "title": "Impossible Figures Library",
       "link": "https://im-possible.info/english/library/index.html"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "Stuck with Pound",
       "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
     },
     {
-      "rank": "22.",
-      "title": "Projected growth of Tiger Mosquito range in northeastern US (2013)",
-      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/"
-    },
-    {
-      "rank": "23.",
+      "rank": "24.",
       "title": "A circuit-like notation for lambda calculus (2015)",
       "link": "https://csvoss.com/circuit-notation-lambda-calculus"
     },
     {
-      "rank": "24.",
-      "title": "A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)",
-      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
-    },
-    {
       "rank": "25.",
-      "title": "How to deploy a React app for free",
-      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
+      "title": "Projected growth of Tiger Mosquito range in northeastern US (2013)",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/"
     },
     {
       "rank": "26.",
-      "title": "Ultraviolet Hubble Movie",
-      "link": "http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html"
-    },
-    {
-      "rank": "27.",
-      "title": "What’s Flying Above Us?",
-      "link": "https://skycircl.es/donate/"
-    },
-    {
-      "rank": "28.",
-      "title": "Spectrum Analyzer Software for OpenRAMAN",
-      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
-    },
-    {
-      "rank": "29.",
       "title": "Here’s an example of how brands build fake reviews on Amazon",
       "link": "https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"
     },
     {
+      "rank": "27.",
+      "title": "A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)",
+      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
+    },
+    {
+      "rank": "28.",
+      "title": "How to deploy a React app for free",
+      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
+    },
+    {
+      "rank": "29.",
+      "title": "Ultraviolet Hubble Movie",
+      "link": "http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html"
+    },
+    {
       "rank": "30.",
-      "title": "Avro Canada VZ-9 Avrocar",
-      "link": "https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar"
+      "title": "What’s Flying Above Us?",
+      "link": "https://skycircl.es/donate/"
     }
   ],
   "metadata": {
