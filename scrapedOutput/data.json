@@ -27,38 +27,38 @@
     },
     {
       "rank": "6.",
+      "title": "Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo",
+      "link": "https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/"
+    },
+    {
+      "rank": "7.",
       "title": "Apple expands independent repair program to Mac after US antitrust investigation",
       "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Ask HN: How do you switch off from work, particularly when WFH?",
       "link": "item?id=24196433"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "2.5M Medical Records Leaked by AI Company",
       "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
+      "title": "A DOS JavaScript Canvas with Sound",
+      "link": "https://github.com/SuperIlu/DOjS"
+    },
+    {
+      "rank": "11.",
       "title": "Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps",
       "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
     },
     {
-      "rank": "10.",
+      "rank": "12.",
       "title": "An Ecology of Mind",
       "link": "http://www.anecologyofmind.com/thefilm.html"
-    },
-    {
-      "rank": "11.",
-      "title": "The Computational Limits of Deep Learning",
-      "link": "https://arxiv.org/abs/2007.05558"
-    },
-    {
-      "rank": "12.",
-      "title": "The Last of the Hedgehogs: René Girard",
-      "link": "https://lareviewofbooks.org/article/the-last-of-the-hedgehogs"
     },
     {
       "rank": "13.",
@@ -67,43 +67,43 @@
     },
     {
       "rank": "14.",
+      "title": "The Computational Limits of Deep Learning",
+      "link": "https://arxiv.org/abs/2007.05558"
+    },
+    {
+      "rank": "15.",
       "title": "Create and view interactive cheatsheets on the command-line",
       "link": "https://github.com/cheat/cheat"
     },
     {
-      "rank": "15.",
-      "title": "Essential Coding Theory [pdf]",
-      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
+      "rank": "16.",
+      "title": "The Last of the Hedgehogs: René Girard",
+      "link": "https://lareviewofbooks.org/article/the-last-of-the-hedgehogs"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "I fear App Review is getting too powerful (2015) [pdf]",
       "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
+      "title": "Essential Coding Theory [pdf]",
+      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
+    },
+    {
+      "rank": "19.",
       "title": "Using, Understanding, and Unraveling the OCaml Language",
       "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
     },
     {
-      "rank": "18.",
-      "title": "A DOS JavaScript Canvas with Sound",
-      "link": "https://github.com/SuperIlu/DOjS"
-    },
-    {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Impossible Figures Library",
       "link": "https://im-possible.info/english/library/index.html"
-    },
-    {
-      "rank": "21.",
-      "title": "He Wasn’t Toscanini, but He Made Orchestras Sing",
-      "link": "https://www.nytimes.com/2020/08/13/arts/music/john-barbirolli-new-york-philharmonic.html"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "Stuck with Pound",
-      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
-    },
-    {
-      "rank": "24.",
-      "title": "Ultraviolet Hubble Movie",
-      "link": "http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html"
-    },
-    {
-      "rank": "25.",
       "title": "A circuit-like notation for lambda calculus (2015)",
       "link": "https://csvoss.com/circuit-notation-lambda-calculus"
     },
     {
+      "rank": "24.",
+      "title": "Stuck with Pound",
+      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
+    },
+    {
+      "rank": "25.",
+      "title": "He Wasn’t Toscanini, but He Made Orchestras Sing",
+      "link": "https://www.nytimes.com/2020/08/13/arts/music/john-barbirolli-new-york-philharmonic.html"
+    },
+    {
       "rank": "26.",
+      "title": "Ultraviolet Hubble Movie",
+      "link": "http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html"
+    },
+    {
+      "rank": "27.",
       "title": "A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)",
       "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
+      "title": "Mailto: ?attach=~/ parameter allows including arbitrary files on disk",
+      "link": "https://twitter.com/jensvoid/status/1295357952480751616"
+    },
+    {
+      "rank": "29.",
       "title": "Projected growth of Tiger Mosquito range in northeastern US (2013)",
       "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/"
     },
     {
-      "rank": "28.",
-      "title": "How to deploy a React app for free",
-      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
-    },
-    {
-      "rank": "29.",
+      "rank": "30.",
       "title": "What’s Flying Above Us?",
       "link": "https://skycircl.es/donate/"
-    },
-    {
-      "rank": "30.",
-      "title": "Spectrum Analyzer Software for OpenRAMAN",
-      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
     }
   ],
   "metadata": {
