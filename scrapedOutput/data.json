@@ -17,28 +17,28 @@
     },
     {
       "rank": "4.",
-      "title": "Two more restaurants in Toronto just got rid of tipping",
-      "link": "https://www.blogto.com/eat_drink/2020/08/restaurants-toronto-rid-of-tipping/"
-    },
-    {
-      "rank": "5.",
-      "title": "What’s Flying Above Us?",
-      "link": "https://skycircl.es/donate/"
-    },
-    {
-      "rank": "6.",
-      "title": "Essential Coding Theory [pdf]",
-      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
-    },
-    {
-      "rank": "7.",
       "title": "How to deploy a React app for free",
       "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
     },
     {
-      "rank": "8.",
+      "rank": "5.",
+      "title": "Essential Coding Theory [pdf]",
+      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
+    },
+    {
+      "rank": "6.",
+      "title": "What’s Flying Above Us?",
+      "link": "https://skycircl.es/donate/"
+    },
+    {
+      "rank": "7.",
       "title": "Karpathy's MinGPT",
       "link": "https://github.com/karpathy/minGPT"
+    },
+    {
+      "rank": "8.",
+      "title": "Pytov – C-like syntax Python",
+      "link": "https://github.com/Yuvix25/pytov"
     },
     {
       "rank": "9.",
@@ -47,28 +47,28 @@
     },
     {
       "rank": "10.",
-      "title": "Pytov – C-like syntax Python",
-      "link": "https://github.com/Yuvix25/pytov"
-    },
-    {
-      "rank": "11.",
       "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
       "link": "https://www.dropbase.io/"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Artificial eyespots on cattle reduce predation by large carnivores",
       "link": "https://www.nature.com/articles/s42003-020-01156-0"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "We should discuss soil as much as coal (2019)",
       "link": "https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
+    },
+    {
+      "rank": "14.",
+      "title": "A circuit-like notation for lambda calculus (2015)",
+      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
     },
     {
       "rank": "15.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "A circuit-like notation for lambda calculus (2015)",
-      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
+      "title": "Rolling blackouts in California have power experts stumped",
+      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
       "rank": "18.",
-      "title": "Rolling blackouts in California have power experts stumped",
-      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
+      "title": "Stuck with Pound",
+      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
     },
     {
       "rank": "19.",
@@ -97,18 +97,18 @@
     },
     {
       "rank": "20.",
+      "title": "Historian's Cookbook: We All Scream for Ice Cream (2018)",
+      "link": "https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream"
+    },
+    {
+      "rank": "21.",
       "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
       "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Spectrum Analyzer Software for OpenRAMAN",
       "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
-    },
-    {
-      "rank": "22.",
-      "title": "Historian's Cookbook: We All Scream for Ice Cream (2018)",
-      "link": "https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream"
     },
     {
       "rank": "23.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Apple to kill Epic’s accounts on Friday the 28th",
-      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
+      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
+      "link": "https://hndex.ml/"
     },
     {
       "rank": "30.",
-      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
-      "link": "https://hndex.ml/"
+      "title": "Apple to kill Epic’s accounts on Friday the 28th",
+      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
     }
   ],
   "metadata": {
