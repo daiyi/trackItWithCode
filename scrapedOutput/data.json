@@ -2,48 +2,48 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Simple, open source alternative to Google Analytics",
-      "link": "https://umami.is/"
-    },
-    {
-      "rank": "2.",
       "title": "Laying the foundation for Rust’s future",
       "link": "https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "Canon's cloud platform has lost users' files – and it can't restore them",
       "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Xplain – Explaining X11 for the rest of us",
       "link": "https://magcius.github.io/xplain/article/"
     },
     {
-      "rank": "5.",
-      "title": "Samsung committing to three generations of Android OS upgrades",
-      "link": "https://news.samsung.com/global/samsung-raises-the-bar-for-mobile-experience-innovation-committing-to-three-generations-of-android-os-upgrades"
+      "rank": "4.",
+      "title": "Simple, open source alternative to Google Analytics",
+      "link": "https://umami.is/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Modeling a Wealth Tax",
       "link": "http://paulgraham.com/wtax.html"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Apple announces Apple Music radio",
       "link": "https://www.apple.com/newsroom/2020/08/apple-announces-apple-music-radio/"
     },
     {
+      "rank": "7.",
+      "title": "If Founders Treated Their Investors the Same Way They Treated Their Employees",
+      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
+    },
+    {
       "rank": "8.",
-      "title": "OneSignal is hiring a Back end Engineer interested in writing in Go and Rust",
-      "link": "https://onesignal.com/careers/9a60a245-06d9-4e2a-82fb-da5e1e9d22d8"
+      "title": "Show HN: MP3 to Text",
+      "link": "https://www.veed.io/tools/mp3-to-text"
     },
     {
       "rank": "9.",
-      "title": "If Founders Treated Their Investors the Same Way They Treated Their Employees",
-      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
+      "title": "OneSignal is hiring a Back end Engineer interested in writing in Go and Rust",
+      "link": "https://onesignal.com/careers/9a60a245-06d9-4e2a-82fb-da5e1e9d22d8"
     },
     {
       "rank": "10.",
@@ -62,58 +62,58 @@
     },
     {
       "rank": "13.",
-      "title": "Freelance Legal Help",
-      "link": "https://freelanceforlaw.com/"
-    },
-    {
-      "rank": "14.",
-      "title": "Ask HN: How do you switch off from work, particularly when WFH?",
-      "link": "item?id=24196433"
-    },
-    {
-      "rank": "15.",
       "title": "The ‘Batman Effect’: How having an alter ego empowers you",
       "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
     },
     {
+      "rank": "14.",
+      "title": "Samsung committing to three generations of Android OS upgrades",
+      "link": "https://news.samsung.com/global/samsung-raises-the-bar-for-mobile-experience-innovation-committing-to-three-generations-of-android-os-upgrades"
+    },
+    {
+      "rank": "15.",
+      "title": "Ask HN: How do you switch off from work, particularly when WFH?",
+      "link": "item?id=24196433"
+    },
+    {
       "rank": "16.",
+      "title": "Freelance Legal Help",
+      "link": "https://freelanceforlaw.com/"
+    },
+    {
+      "rank": "17.",
       "title": "Kotlin 1.4",
       "link": "https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Prosopagnosia: The artist in search of her face",
       "link": "https://www.bbc.co.uk/news/stories-53192821"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "The life-changing love of one of the 20th century’s greatest physicists (2015)",
       "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
     },
     {
-      "rank": "19.",
-      "title": "Show HN: MP3 to Text",
-      "link": "https://www.veed.io/tools/mp3-to-text"
+      "rank": "20.",
+      "title": "Woolly flying squirrel spotted in Uttrakhand's Gangotri National Park",
+      "link": "https://in.news.yahoo.com/woolly-flying-squirrel-spotted-uttrakhands-052802395.html"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps",
       "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Fossilised 429-million-year-old eye mirrors modern insect vision",
       "link": "https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo",
       "link": "https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/"
-    },
-    {
-      "rank": "23.",
-      "title": "Mailto: ?attach=~/ parameter allows including arbitrary files on disk",
-      "link": "https://twitter.com/jensvoid/status/1295357952480751616"
     },
     {
       "rank": "24.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "Mailto: ?attach=~/ parameter allows including arbitrary files on disk",
+      "link": "https://twitter.com/jensvoid/status/1295357952480751616"
+    },
+    {
+      "rank": "27.",
       "title": "Slate, create beautiful, responsive API documentation",
       "link": "https://github.com/slatedocs/slate"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "The week old Hollywood finally died",
       "link": "https://www.nytimes.com/2020/08/16/business/media/hollywood-studios-firings-streaming.html"
     },
     {
-      "rank": "28.",
-      "title": "2.5M Medical Records Leaked by AI Company",
-      "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
-    },
-    {
       "rank": "29.",
-      "title": "A DOS JavaScript Canvas with Sound",
-      "link": "https://github.com/SuperIlu/DOjS"
+      "title": "Strange times: The sui generis Dave Brubeck",
+      "link": "https://www.the-tls.co.uk/articles/strange-times/"
     },
     {
       "rank": "30.",
-      "title": "Strange times: The sui generis Dave Brubeck",
-      "link": "https://www.the-tls.co.uk/articles/strange-times/"
+      "title": "2.5M Medical Records Leaked by AI Company",
+      "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
     }
   ],
   "metadata": {
