@@ -2,38 +2,38 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Dependency",
-      "link": "https://xkcd.com/2347/"
-    },
-    {
-      "rank": "2.",
       "title": "I fear App Review is getting too powerful (2015) [pdf]",
       "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "Apple expands independent repair program to Mac after US antitrust investigation",
       "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "What’s Flying Above Us?",
       "link": "https://skycircl.es/donate/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Karpathy's MinGPT",
       "link": "https://github.com/karpathy/minGPT"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "The Computational Limits of Deep Learning",
       "link": "https://arxiv.org/abs/2007.05558"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Artificial eyespots on cattle reduce predation by large carnivores",
       "link": "https://www.nature.com/articles/s42003-020-01156-0"
+    },
+    {
+      "rank": "7.",
+      "title": "Dependency",
+      "link": "https://xkcd.com/2347/"
     },
     {
       "rank": "8.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
-      "title": "A circuit-like notation for lambda calculus",
-      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
+      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
+      "link": "item?id=24188214"
     },
     {
       "rank": "11.",
-      "title": "Understanding Recursive Queries in PostgreSQL",
-      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
+      "title": "A circuit-like notation for lambda calculus (2015)",
+      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
     },
     {
       "rank": "12.",
-      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
-      "link": "item?id=24188214"
+      "title": "Understanding Recursive Queries in PostgreSQL",
+      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
       "rank": "13.",
@@ -87,33 +87,33 @@
     },
     {
       "rank": "18.",
-      "title": "Spectrum Analyzer Software for OpenRAMAN",
-      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
-    },
-    {
-      "rank": "19.",
       "title": "A Twist on Schrödinger's Cat Paradox",
       "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
     },
     {
+      "rank": "19.",
+      "title": "Spectrum Analyzer Software for OpenRAMAN",
+      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
+    },
+    {
       "rank": "20.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
-    },
-    {
-      "rank": "21.",
-      "title": "Apple to kill Epic’s accounts on Friday the 28th",
-      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
-    },
-    {
-      "rank": "22.",
       "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
       "link": "https://dungeonmapdoodler.com/"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
+    },
+    {
+      "rank": "22.",
       "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
       "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
+    },
+    {
+      "rank": "23.",
+      "title": "Apple to kill Epic’s accounts on Friday the 28th",
+      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
     },
     {
       "rank": "24.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "Are CRDTs suitable for shared editing?",
-      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
+      "title": "Strange times: The sui generis Dave Brubeck",
+      "link": "https://www.the-tls.co.uk/articles/strange-times/"
     },
     {
       "rank": "29.",
-      "title": "Strange times: The sui generis Dave Brubeck",
-      "link": "https://www.the-tls.co.uk/articles/strange-times/"
+      "title": "Are CRDTs suitable for shared editing?",
+      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
     },
     {
       "rank": "30.",
