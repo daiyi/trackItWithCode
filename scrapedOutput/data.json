@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
-      "title": "Apple expands independent repair program to Mac after US antitrust investigation",
-      "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
-    },
-    {
-      "rank": "3.",
       "title": "2.5M Medical Records Leaked by AI Company",
       "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
     },
     {
+      "rank": "3.",
+      "title": "Apple expands independent repair program to Mac after US antitrust investigation",
+      "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
+    },
+    {
       "rank": "4.",
-      "title": "Essential Coding Theory [pdf]",
-      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
+      "title": "Two more restaurants in Toronto just got rid of tipping",
+      "link": "https://www.blogto.com/eat_drink/2020/08/restaurants-toronto-rid-of-tipping/"
     },
     {
       "rank": "5.",
@@ -27,48 +27,48 @@
     },
     {
       "rank": "6.",
-      "title": "Two more restaurants in Toronto just got rid of tipping",
-      "link": "https://www.blogto.com/eat_drink/2020/08/restaurants-toronto-rid-of-tipping/"
+      "title": "Essential Coding Theory [pdf]",
+      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
     },
     {
       "rank": "7.",
+      "title": "How to deploy a React app for free",
+      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
+    },
+    {
+      "rank": "8.",
       "title": "Karpathy's MinGPT",
       "link": "https://github.com/karpathy/minGPT"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "The Computational Limits of Deep Learning",
       "link": "https://arxiv.org/abs/2007.05558"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Pytov – C-like syntax Python",
       "link": "https://github.com/Yuvix25/pytov"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
       "link": "https://www.dropbase.io/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Artificial eyespots on cattle reduce predation by large carnivores",
       "link": "https://www.nature.com/articles/s42003-020-01156-0"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "We should discuss soil as much as coal (2019)",
       "link": "https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
-    },
-    {
-      "rank": "14.",
-      "title": "U.S. states seek $2.2T from OxyContin maker Purdue Pharma",
-      "link": "https://www.reuters.com/article/us-purdue-pharma-investigations-opioids/u-s-states-seek-2-2-trillion-from-oxycontin-maker-purdue-pharma-filings-idUSKCN25D2EG"
     },
     {
       "rank": "15.",
@@ -77,18 +77,18 @@
     },
     {
       "rank": "16.",
+      "title": "U.S. states seek $2.2T from OxyContin maker Purdue Pharma",
+      "link": "https://www.reuters.com/article/us-purdue-pharma-investigations-opioids/u-s-states-seek-2-2-trillion-from-oxycontin-maker-purdue-pharma-filings-idUSKCN25D2EG"
+    },
+    {
+      "rank": "17.",
       "title": "A circuit-like notation for lambda calculus (2015)",
       "link": "https://csvoss.com/circuit-notation-lambda-calculus"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Rolling blackouts in California have power experts stumped",
       "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
-    },
-    {
-      "rank": "18.",
-      "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
-      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
       "rank": "19.",
@@ -97,53 +97,53 @@
     },
     {
       "rank": "20.",
-      "title": "Apple, Epic, and the App Store",
-      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
+      "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
+      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
       "rank": "21.",
-      "title": "Dependency",
-      "link": "https://xkcd.com/2347/"
-    },
-    {
-      "rank": "22.",
       "title": "Spectrum Analyzer Software for OpenRAMAN",
       "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Historian's Cookbook: We All Scream for Ice Cream (2018)",
       "link": "https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream"
     },
     {
+      "rank": "23.",
+      "title": "Apple, Epic, and the App Store",
+      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
+    },
+    {
       "rank": "24.",
+      "title": "Dependency",
+      "link": "https://xkcd.com/2347/"
+    },
+    {
+      "rank": "25.",
       "title": "Using, Understanding, and Unraveling the OCaml Language",
       "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
       "link": "https://kliu.io/post/yubico-magic-unlock/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
       "link": "https://dungeonmapdoodler.com/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "A Twist on Schrödinger's Cat Paradox",
       "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Apple to kill Epic’s accounts on Friday the 28th",
       "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
-    },
-    {
-      "rank": "29.",
-      "title": "Buckingham Palace art collection to go on gallery display for the first time",
-      "link": "https://www.theguardian.com/artanddesign/2020/aug/16/buckingham-palace-art-collection-gallery-display-first-time"
     },
     {
       "rank": "30.",
