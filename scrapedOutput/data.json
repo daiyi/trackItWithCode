@@ -17,8 +17,8 @@
     },
     {
       "rank": "4.",
-      "title": "Haskell Mini-Patterns Handbook",
-      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
+      "title": "Language-Agnostic Bert Sentence Embedding",
+      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
     },
     {
       "rank": "5.",
@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Language-Agnostic Bert Sentence Embedding",
-      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
+      "title": "Haskell Mini-Patterns Handbook",
+      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
     },
     {
       "rank": "7.",
@@ -42,7 +42,7 @@
     },
     {
       "rank": "9.",
-      "title": "Xplain – Explaining X11 for the rest of us",
+      "title": "Xplain – Explaining X11 for the rest of us (2017)",
       "link": "https://magcius.github.io/xplain/article/"
     },
     {
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "Product Activity Coefficient: A single metric to drive customer success teams",
-      "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
+      "title": "Allowing CMake functions to return(value)",
+      "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
     },
     {
       "rank": "13.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Allowing CMake functions to return(value)",
-      "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
+      "title": "Product Activity Coefficient: A single metric to drive customer success teams",
+      "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
     },
     {
       "rank": "16.",
@@ -82,73 +82,73 @@
     },
     {
       "rank": "17.",
-      "title": "Backblaze Hard Drive Stats Q2 2020",
-      "link": "https://www.backblaze.com/blog/backblaze-hard-drive-stats-q2-2020/"
-    },
-    {
-      "rank": "18.",
-      "title": "Architecture of the Nintendo DS",
-      "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
-    },
-    {
-      "rank": "19.",
-      "title": "An Ecology of Mind: A daughter's portrait of Gregory Bateson",
-      "link": "http://www.anecologyofmind.com/thefilm.html"
-    },
-    {
-      "rank": "20.",
-      "title": "Laying the foundation for Rust’s future",
-      "link": "https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html"
-    },
-    {
-      "rank": "21.",
       "title": "An old Goderich salt mine could one day save you money on your hydro bill (2019)",
       "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
     },
     {
-      "rank": "22.",
-      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
-      "link": "https://www.workatastartup.com/techtalk"
-    },
-    {
-      "rank": "23.",
+      "rank": "18.",
       "title": "Lost Advanced Civilizations",
       "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
     },
     {
-      "rank": "24.",
+      "rank": "19.",
+      "title": "The life-changing love of Paul Dirac (2015)",
+      "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
+    },
+    {
+      "rank": "20.",
+      "title": "Architecture of the Nintendo DS",
+      "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
+    },
+    {
+      "rank": "21.",
+      "title": "Backblaze Hard Drive Stats Q2 2020",
+      "link": "https://www.backblaze.com/blog/backblaze-hard-drive-stats-q2-2020/"
+    },
+    {
+      "rank": "22.",
+      "title": "An Ecology of Mind: A daughter's portrait of Gregory Bateson",
+      "link": "http://www.anecologyofmind.com/thefilm.html"
+    },
+    {
+      "rank": "23.",
       "title": "An example of how brands build fake reviews on Amazon",
       "link": "https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"
     },
     {
+      "rank": "24.",
+      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
+      "link": "https://www.workatastartup.com/techtalk"
+    },
+    {
       "rank": "25.",
-      "title": "If founders treated their investors the same way they treated their employees",
-      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
+      "title": "Shadow traffic: site visits that are not captured by typical analytics providers",
+      "link": "https://blog.parse.ly/post/9616/shadow-traffic-why-your-traffic-numbers-are-off-by-20/"
     },
     {
       "rank": "26.",
+      "title": "Laying the foundation for Rust’s future",
+      "link": "https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html"
+    },
+    {
+      "rank": "27.",
       "title": "1-Euro Houses",
       "link": "https://1eurohouses.com/case-a-1-euro-houses/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
+      "title": "If founders treated their investors the same way they treated their employees",
+      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
+    },
+    {
+      "rank": "29.",
       "title": "Investor revolt and legal dispute delay Filecoin plans",
       "link": "https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Ask HN: How do you switch off from work, particularly when working from home?",
       "link": "item?id=24196433"
-    },
-    {
-      "rank": "29.",
-      "title": "Prosopagnosia: The artist in search of her face",
-      "link": "https://www.bbc.co.uk/news/stories-53192821"
-    },
-    {
-      "rank": "30.",
-      "title": "How to give access to AWS resources without creating 100s of IAM Users?",
-      "link": "https://blog.rajanpanchal.net/how-to-give-access-to-aws-resources-without-creating-100s-of-iam-users-ckds91qj100pf97s1gc3v8vwb"
     }
   ],
   "metadata": {
