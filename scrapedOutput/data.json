@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
-      "title": "Capitalism Cancels the Passions",
-      "link": "https://musingmind.substack.com/p/mind-matters-cbc"
-    },
-    {
-      "rank": "7.",
       "title": "The Computational Limits of Deep Learning",
       "link": "https://arxiv.org/abs/2007.05558"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Artificial eyespots on cattle reduce predation by large carnivores",
       "link": "https://www.nature.com/articles/s42003-020-01156-0"
+    },
+    {
+      "rank": "8.",
+      "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
+      "link": "https://www.dropbase.io/"
     },
     {
       "rank": "9.",
@@ -47,8 +47,8 @@
     },
     {
       "rank": "10.",
-      "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
-      "link": "https://www.dropbase.io/"
+      "title": "Understanding Recursive Queries in PostgreSQL",
+      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
       "rank": "11.",
@@ -57,43 +57,43 @@
     },
     {
       "rank": "12.",
-      "title": "Understanding Recursive Queries in PostgreSQL",
-      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
-    },
-    {
-      "rank": "13.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
-    },
-    {
-      "rank": "14.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
     },
     {
-      "rank": "15.",
+      "rank": "13.",
       "title": "Rolling blackouts in California have power experts stumped",
       "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
-      "rank": "16.",
-      "title": "Apple, Epic, and the App Store",
-      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
+      "rank": "14.",
+      "title": "A $10B domed experimental city nearly got built in rural Minnesota",
+      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
     },
     {
-      "rank": "17.",
+      "rank": "15.",
       "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
       "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
+      "rank": "16.",
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
+    },
+    {
+      "rank": "17.",
+      "title": "Apple, Epic, and the App Store",
+      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
+    },
+    {
       "rank": "18.",
-      "title": "Reclaiming Becket: London’s great saint needs a reboot",
-      "link": "https://thecritic.co.uk/reclaiming-becket/"
+      "title": "Mindfulness and meditation can worsen depression and anxiety",
+      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
       "rank": "19.",
-      "title": "Mindfulness and meditation can worsen depression and anxiety",
-      "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
+      "title": "Reclaiming Becket: London’s great saint needs a reboot",
+      "link": "https://thecritic.co.uk/reclaiming-becket/"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "A $10B domed experimental city nearly got built in rural Minnesota",
-      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
+      "title": "Apple to kill Epic’s accounts on Friday the 28th",
+      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
     },
     {
       "rank": "22.",
-      "title": "Apple to kill Epic’s accounts on Friday the 28th",
-      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
+      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
+      "link": "https://dungeonmapdoodler.com/"
     },
     {
       "rank": "23.",
@@ -117,23 +117,23 @@
     },
     {
       "rank": "24.",
-      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
-      "link": "https://dungeonmapdoodler.com/"
+      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
+      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
     },
     {
       "rank": "25.",
+      "title": "Buckingham Palace art collection to go on gallery display for the first time",
+      "link": "https://www.theguardian.com/artanddesign/2020/aug/16/buckingham-palace-art-collection-gallery-display-first-time"
+    },
+    {
+      "rank": "26.",
       "title": "A look at the J language: the fine line between genius and insanity (2012)",
       "link": "https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Show HN: Search the text of articles submitted to HN, with live updating",
       "link": "https://hndex.ml/"
-    },
-    {
-      "rank": "27.",
-      "title": "Buckingham Palace art collection to go on gallery display for the first time",
-      "link": "https://www.theguardian.com/artanddesign/2020/aug/16/buckingham-palace-art-collection-gallery-display-first-time"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
-      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
+      "title": "Are CRDTs suitable for shared editing?",
+      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
     },
     {
       "rank": "30.",
-      "title": "Are CRDTs suitable for shared editing?",
-      "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
+      "title": "How the Black Sea shaped the ancient Mediterranean world",
+      "link": "https://www.historytoday.com/reviews/around-other-pond"
     }
   ],
   "metadata": {
