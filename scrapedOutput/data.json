@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "I fear App Review is getting too powerful (2015) [pdf]",
-      "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
+      "title": "Graphical Linear Algebra",
+      "link": "https://graphicallinearalgebra.net/"
     },
     {
       "rank": "3.",
-      "title": "Graphical Linear Algebra",
-      "link": "https://graphicallinearalgebra.net/"
+      "title": "I fear App Review is getting too powerful (2015) [pdf]",
+      "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
     },
     {
       "rank": "4.",
@@ -27,43 +27,43 @@
     },
     {
       "rank": "6.",
-      "title": "Karpathy's MinGPT",
-      "link": "https://github.com/karpathy/minGPT"
-    },
-    {
-      "rank": "7.",
-      "title": "Create and view interactive cheatsheets on the command-line",
-      "link": "https://github.com/cheat/cheat"
-    },
-    {
-      "rank": "8.",
-      "title": "The Computational Limits of Deep Learning",
-      "link": "https://arxiv.org/abs/2007.05558"
-    },
-    {
-      "rank": "9.",
-      "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
-      "link": "https://www.dropbase.io/"
-    },
-    {
-      "rank": "10.",
-      "title": "Show HN: Made in India CSS",
-      "link": "https://nishantpainter.github.io/made-in-india-css/"
-    },
-    {
-      "rank": "11.",
       "title": "An Ecology of Mind",
       "link": "http://www.anecologyofmind.com/thefilm.html"
     },
     {
+      "rank": "7.",
+      "title": "Karpathy's MinGPT",
+      "link": "https://github.com/karpathy/minGPT"
+    },
+    {
+      "rank": "8.",
+      "title": "Create and view interactive cheatsheets on the command-line",
+      "link": "https://github.com/cheat/cheat"
+    },
+    {
+      "rank": "9.",
+      "title": "The Computational Limits of Deep Learning",
+      "link": "https://arxiv.org/abs/2007.05558"
+    },
+    {
+      "rank": "10.",
+      "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
+      "link": "https://www.dropbase.io/"
+    },
+    {
+      "rank": "11.",
+      "title": "Show HN: Made in India CSS",
+      "link": "https://nishantpainter.github.io/made-in-india-css/"
+    },
+    {
       "rank": "12.",
-      "title": "Essential Coding Theory [pdf]",
-      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
+      "title": "We should discuss soil as much as coal (2019)",
+      "link": "https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal"
     },
     {
       "rank": "13.",
-      "title": "We should discuss soil as much as coal (2019)",
-      "link": "https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal"
+      "title": "Essential Coding Theory [pdf]",
+      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
     },
     {
       "rank": "14.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "Ultraviolet Hubble Movie",
-      "link": "http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html"
+      "title": "Stuck with Pound",
+      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
     },
     {
       "rank": "16.",
-      "title": "How to deploy a React app for free",
-      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
-    },
-    {
-      "rank": "17.",
       "title": "Understanding Recursive Queries in PostgreSQL",
       "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
+    },
+    {
+      "rank": "18.",
+      "title": "How to deploy a React app for free",
+      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Stuck with Pound",
-      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
+      "title": "Ultraviolet Hubble Movie",
+      "link": "http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)",
-      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
+      "title": "Apple, Epic, and the App Store",
+      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
     },
     {
       "rank": "23.",
-      "title": "Apple, Epic, and the App Store",
-      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
+      "title": "A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)",
+      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
     },
     {
       "rank": "24.",
@@ -127,23 +127,23 @@
     },
     {
       "rank": "26.",
-      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
-      "link": "https://dungeonmapdoodler.com/"
-    },
-    {
-      "rank": "27.",
       "title": "Impossible Figures Library",
       "link": "https://im-possible.info/english/library/index.html"
     },
     {
+      "rank": "27.",
+      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
+      "link": "https://dungeonmapdoodler.com/"
+    },
+    {
       "rank": "28.",
-      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
-      "link": "https://hndex.ml/"
+      "title": "Avro Canada VZ-9 Avrocar",
+      "link": "https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar"
     },
     {
       "rank": "29.",
-      "title": "Avro Canada VZ-9 Avrocar",
-      "link": "https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar"
+      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
+      "link": "https://hndex.ml/"
     },
     {
       "rank": "30.",
