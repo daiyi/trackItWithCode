@@ -27,33 +27,33 @@
     },
     {
       "rank": "6.",
-      "title": "Essential Coding Theory [pdf]",
-      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
-    },
-    {
-      "rank": "7.",
       "title": "Karpathy's MinGPT",
       "link": "https://github.com/karpathy/minGPT"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Pytov – C-like syntax Python",
       "link": "https://github.com/Yuvix25/pytov"
     },
     {
-      "rank": "9.",
-      "title": "Create and view interactive cheatsheets on the command-line",
-      "link": "https://github.com/cheat/cheat"
-    },
-    {
-      "rank": "10.",
+      "rank": "8.",
       "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
       "link": "https://www.dropbase.io/"
     },
     {
-      "rank": "11.",
+      "rank": "9.",
       "title": "The Computational Limits of Deep Learning",
       "link": "https://arxiv.org/abs/2007.05558"
+    },
+    {
+      "rank": "10.",
+      "title": "Essential Coding Theory [pdf]",
+      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
+    },
+    {
+      "rank": "11.",
+      "title": "Create and view interactive cheatsheets on the command-line",
+      "link": "https://github.com/cheat/cheat"
     },
     {
       "rank": "12.",
@@ -67,18 +67,18 @@
     },
     {
       "rank": "14.",
-      "title": "Stuck with Pound",
-      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
-    },
-    {
-      "rank": "15.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Understanding Recursive Queries in PostgreSQL",
       "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
+    },
+    {
+      "rank": "16.",
+      "title": "Rolling blackouts in California have power experts stumped",
+      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
       "rank": "17.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
-      "title": "Rolling blackouts in California have power experts stumped",
-      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
+      "title": "Stuck with Pound",
+      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
     },
     {
       "rank": "19.",
-      "title": "Projected growth of Tiger Mosquito range in northeastern US (2013)",
-      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/"
-    },
-    {
-      "rank": "20.",
       "title": "A $10B domed experimental city nearly got built in rural Minnesota",
       "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Using, Understanding, and Unraveling the OCaml Language",
       "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
+    },
+    {
+      "rank": "21.",
+      "title": "Projected growth of Tiger Mosquito range in northeastern US (2013)",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/"
     },
     {
       "rank": "22.",
@@ -122,23 +122,23 @@
     },
     {
       "rank": "25.",
-      "title": "Historian's Cookbook: We All Scream for Ice Cream (2018)",
-      "link": "https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream"
-    },
-    {
-      "rank": "26.",
       "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
       "link": "https://dungeonmapdoodler.com/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "A Twist on Schrödinger's Cat Paradox",
       "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Dependency",
       "link": "https://xkcd.com/2347/"
+    },
+    {
+      "rank": "28.",
+      "title": "Historian's Cookbook: We All Scream for Ice Cream (2018)",
+      "link": "https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream"
     },
     {
       "rank": "29.",
