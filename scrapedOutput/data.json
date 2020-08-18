@@ -12,83 +12,83 @@
     },
     {
       "rank": "3.",
-      "title": "Modeling a Wealth Tax",
-      "link": "http://paulgraham.com/wtax.html"
-    },
-    {
-      "rank": "4.",
       "title": "Graphical Linear Algebra",
       "link": "https://graphicallinearalgebra.net/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Architecture of the Nintendo DS",
       "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
     },
     {
-      "rank": "6.",
-      "title": "Accused Spy Alexander Yuk Ching Ma Beat the Polygraph to Penetrate the FBI",
-      "link": "https://antipolygraph.org/blog/2020/08/18/accused-spy-alexander-yuk-ching-ma-evidently-beat-the-polygraph-to-penetrate-the-fbi/"
-    },
-    {
-      "rank": "7.",
-      "title": "Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo",
-      "link": "https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/"
-    },
-    {
-      "rank": "8.",
-      "title": "Kotlin 1.4",
-      "link": "https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html"
-    },
-    {
-      "rank": "9.",
-      "title": "The life-changing love of one of the 20th century’s greatest physicists (2015)",
-      "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
-    },
-    {
-      "rank": "10.",
+      "rank": "5.",
       "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
       "link": "item?id=24198114"
     },
     {
-      "rank": "11.",
-      "title": "Fossilised 429-million-year-old eye mirrors modern insect vision",
-      "link": "https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html"
+      "rank": "6.",
+      "title": "Kotlin 1.4",
+      "link": "https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html"
     },
     {
-      "rank": "12.",
+      "rank": "7.",
+      "title": "The life-changing love of one of the 20th century’s greatest physicists (2015)",
+      "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
+    },
+    {
+      "rank": "8.",
+      "title": "Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo",
+      "link": "https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/"
+    },
+    {
+      "rank": "9.",
       "title": "Ask HN: How do you switch off from work, particularly when WFH?",
       "link": "item?id=24196433"
     },
     {
-      "rank": "13.",
+      "rank": "10.",
+      "title": "Fossilised 429-million-year-old eye mirrors modern insect vision",
+      "link": "https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html"
+    },
+    {
+      "rank": "11.",
       "title": "Mailto: ?attach=~/ parameter allows including arbitrary files on disk",
       "link": "https://twitter.com/jensvoid/status/1295357952480751616"
     },
     {
-      "rank": "14.",
-      "title": "NumPy another Iverson Ghost (2018)",
-      "link": "https://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/"
-    },
-    {
-      "rank": "15.",
+      "rank": "12.",
       "title": "Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps",
       "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
     },
     {
-      "rank": "16.",
+      "rank": "13.",
+      "title": "NumPy another Iverson Ghost (2018)",
+      "link": "https://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/"
+    },
+    {
+      "rank": "14.",
+      "title": "Accused Spy Alexander Yuk Ching Ma Beat the Polygraph to Penetrate the FBI",
+      "link": "https://antipolygraph.org/blog/2020/08/18/accused-spy-alexander-yuk-ching-ma-evidently-beat-the-polygraph-to-penetrate-the-fbi/"
+    },
+    {
+      "rank": "15.",
       "title": "Slate, create beautiful, responsive API documentation",
       "link": "https://github.com/slatedocs/slate"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "A DOS JavaScript Canvas with Sound",
       "link": "https://github.com/SuperIlu/DOjS"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Strange times: The sui generis Dave Brubeck",
       "link": "https://www.the-tls.co.uk/articles/strange-times/"
+    },
+    {
+      "rank": "18.",
+      "title": "Modeling a Wealth Tax",
+      "link": "http://paulgraham.com/wtax.html"
     },
     {
       "rank": "19.",
