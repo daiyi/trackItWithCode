@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "What’s Flying Above Us?",
-      "link": "https://skycircl.es/donate/"
+      "title": "2.5M Medical Records Leaked by AI Company",
+      "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
     },
     {
       "rank": "5.",
-      "title": "2.5M Medical Records Leaked by AI Company",
-      "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
+      "title": "What’s Flying Above Us?",
+      "link": "https://skycircl.es/donate/"
     },
     {
       "rank": "6.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Pytov – C-like syntax Python",
-      "link": "https://github.com/Yuvix25/pytov"
+      "title": "Building AGI Using Language Models",
+      "link": "https://leogao.dev/2020/08/17/Building-AGI-Using-Language-Models/"
     },
     {
       "rank": "11.",
-      "title": "Building AGI Using Language Models",
-      "link": "https://leogao.dev/2020/08/17/Building-AGI-Using-Language-Models/"
+      "title": "Pytov – C-like syntax Python",
+      "link": "https://github.com/Yuvix25/pytov"
     },
     {
       "rank": "12.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "A circuit-like notation for lambda calculus (2015)",
-      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
+      "title": "Understanding Recursive Queries in PostgreSQL",
+      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
       "rank": "16.",
-      "title": "Understanding Recursive Queries in PostgreSQL",
-      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
+      "title": "A circuit-like notation for lambda calculus (2015)",
+      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
     },
     {
       "rank": "17.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
-      "title": "A $10B domed experimental city nearly got built in rural Minnesota",
-      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
-    },
-    {
-      "rank": "19.",
       "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
       "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
+      "rank": "19.",
+      "title": "A $10B domed experimental city nearly got built in rural Minnesota",
+      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
+    },
+    {
       "rank": "20.",
-      "title": "Dependency",
-      "link": "https://xkcd.com/2347/"
+      "title": "Apple, Epic, and the App Store",
+      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
     },
     {
       "rank": "21.",
-      "title": "Apple, Epic, and the App Store",
-      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
+      "title": "Dependency",
+      "link": "https://xkcd.com/2347/"
     },
     {
       "rank": "22.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "An Interview with Simon Kelley, the author of dnsmasq",
-      "link": "https://joshuakugler.com/an-interview-with-simon-kelley-the-author-of-dnsmasq.html"
-    },
-    {
-      "rank": "29.",
       "title": "Show HN: Search the text of articles submitted to HN, with live updating",
       "link": "https://hndex.ml/"
     },
     {
+      "rank": "29.",
+      "title": "An Interview with Simon Kelley, the author of dnsmasq",
+      "link": "https://joshuakugler.com/an-interview-with-simon-kelley-the-author-of-dnsmasq.html"
+    },
+    {
       "rank": "30.",
-      "title": "Strange times: The sui generis Dave Brubeck",
-      "link": "https://www.the-tls.co.uk/articles/strange-times/"
+      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
+      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
     }
   ],
   "metadata": {
