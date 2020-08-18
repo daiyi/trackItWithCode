@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
-      "title": "What’s Flying Above Us?",
-      "link": "https://skycircl.es/donate/"
-    },
-    {
-      "rank": "4.",
       "title": "Essential Coding Theory [pdf]",
       "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
     },
     {
+      "rank": "4.",
+      "title": "What’s Flying Above Us?",
+      "link": "https://skycircl.es/donate/"
+    },
+    {
       "rank": "5.",
-      "title": "Karpathy's MinGPT",
-      "link": "https://github.com/karpathy/minGPT"
+      "title": "2.5M Medical Records Leaked by AI Company",
+      "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
     },
     {
       "rank": "6.",
-      "title": "2.5M Medical Records Leaked by AI Company",
-      "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
+      "title": "Karpathy's MinGPT",
+      "link": "https://github.com/karpathy/minGPT"
     },
     {
       "rank": "7.",
@@ -42,18 +42,18 @@
     },
     {
       "rank": "9.",
-      "title": "Building AGI Using Language Models",
-      "link": "https://leogao.dev/2020/08/17/Building-AGI-Using-Language-Models/"
-    },
-    {
-      "rank": "10.",
       "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
       "link": "https://www.dropbase.io/"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Pytov – C-like syntax Python",
       "link": "https://github.com/Yuvix25/pytov"
+    },
+    {
+      "rank": "11.",
+      "title": "Building AGI Using Language Models",
+      "link": "https://leogao.dev/2020/08/17/Building-AGI-Using-Language-Models/"
     },
     {
       "rank": "12.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
+      "title": "A circuit-like notation for lambda calculus (2015)",
+      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
+    },
+    {
+      "rank": "16.",
       "title": "Understanding Recursive Queries in PostgreSQL",
       "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Rolling blackouts in California have power experts stumped",
       "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
-    },
-    {
-      "rank": "17.",
-      "title": "A circuit-like notation for lambda calculus (2015)",
-      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Dependency",
-      "link": "https://xkcd.com/2347/"
+      "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
+      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
       "rank": "20.",
-      "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
-      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
+      "title": "Dependency",
+      "link": "https://xkcd.com/2347/"
     },
     {
       "rank": "21.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
-      "link": "https://kliu.io/post/yubico-magic-unlock/"
-    },
-    {
-      "rank": "24.",
-      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
-      "link": "https://dungeonmapdoodler.com/"
-    },
-    {
-      "rank": "25.",
-      "title": "Apple to kill Epic’s accounts on Friday the 28th",
-      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
-    },
-    {
-      "rank": "26.",
-      "title": "Reclaiming Becket: London’s great saint needs a reboot",
-      "link": "https://thecritic.co.uk/reclaiming-becket/"
-    },
-    {
-      "rank": "27.",
       "title": "A Twist on Schrödinger's Cat Paradox",
       "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
     },
     {
+      "rank": "24.",
+      "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
+      "link": "https://kliu.io/post/yubico-magic-unlock/"
+    },
+    {
+      "rank": "25.",
+      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
+      "link": "https://dungeonmapdoodler.com/"
+    },
+    {
+      "rank": "26.",
+      "title": "Apple to kill Epic’s accounts on Friday the 28th",
+      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
+    },
+    {
+      "rank": "27.",
+      "title": "Reclaiming Becket: London’s great saint needs a reboot",
+      "link": "https://thecritic.co.uk/reclaiming-becket/"
+    },
+    {
       "rank": "28.",
+      "title": "An Interview with Simon Kelley, the author of dnsmasq",
+      "link": "https://joshuakugler.com/an-interview-with-simon-kelley-the-author-of-dnsmasq.html"
+    },
+    {
+      "rank": "29.",
       "title": "Show HN: Search the text of articles submitted to HN, with live updating",
       "link": "https://hndex.ml/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Strange times: The sui generis Dave Brubeck",
       "link": "https://www.the-tls.co.uk/articles/strange-times/"
-    },
-    {
-      "rank": "30.",
-      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
-      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
     }
   ],
   "metadata": {
