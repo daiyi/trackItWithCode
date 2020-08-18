@@ -2,33 +2,33 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "U.S. states seek $2.2T from OxyContin maker Purdue Pharma",
+      "link": "https://www.reuters.com/article/us-purdue-pharma-investigations-opioids/u-s-states-seek-2-2-trillion-from-oxycontin-maker-purdue-pharma-filings-idUSKCN25D2EG"
+    },
+    {
+      "rank": "2.",
       "title": "I fear App Review is getting too powerful (2015) [pdf]",
       "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Apple expands independent repair program to Mac after US antitrust investigation",
       "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
+      "title": "2.5M Medical Records Leaked by AI Company",
+      "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
+    },
+    {
+      "rank": "5.",
       "title": "What’s Flying Above Us?",
       "link": "https://skycircl.es/donate/"
     },
     {
-      "rank": "4.",
+      "rank": "6.",
       "title": "Karpathy's MinGPT",
       "link": "https://github.com/karpathy/minGPT"
-    },
-    {
-      "rank": "5.",
-      "title": "The Computational Limits of Deep Learning",
-      "link": "https://arxiv.org/abs/2007.05558"
-    },
-    {
-      "rank": "6.",
-      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
-      "link": "https://www.nature.com/articles/s42003-020-01156-0"
     },
     {
       "rank": "7.",
@@ -37,103 +37,103 @@
     },
     {
       "rank": "8.",
-      "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
-      "link": "https://www.dropbase.io/"
-    },
-    {
-      "rank": "9.",
-      "title": "We should discuss soil as much as coal (2019)",
-      "link": "https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal"
-    },
-    {
-      "rank": "10.",
-      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
-      "link": "item?id=24188214"
-    },
-    {
-      "rank": "11.",
-      "title": "A circuit-like notation for lambda calculus (2015)",
-      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
-    },
-    {
-      "rank": "12.",
-      "title": "Dependency",
-      "link": "https://xkcd.com/2347/"
-    },
-    {
-      "rank": "13.",
-      "title": "Understanding Recursive Queries in PostgreSQL",
-      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
-    },
-    {
-      "rank": "14.",
-      "title": "Rolling blackouts in California have power experts stumped",
-      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
-    },
-    {
-      "rank": "15.",
       "title": "Building AGI Using Language Models",
       "link": "https://leogao.dev/2020/08/17/Building-AGI-Using-Language-Models/"
     },
     {
+      "rank": "9.",
+      "title": "The Computational Limits of Deep Learning",
+      "link": "https://arxiv.org/abs/2007.05558"
+    },
+    {
+      "rank": "10.",
+      "title": "Artificial eyespots on cattle reduce predation by large carnivores",
+      "link": "https://www.nature.com/articles/s42003-020-01156-0"
+    },
+    {
+      "rank": "11.",
+      "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
+      "link": "https://www.dropbase.io/"
+    },
+    {
+      "rank": "12.",
+      "title": "We should discuss soil as much as coal (2019)",
+      "link": "https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal"
+    },
+    {
+      "rank": "13.",
+      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
+      "link": "item?id=24188214"
+    },
+    {
+      "rank": "14.",
+      "title": "Pytov – C-like syntax Python",
+      "link": "https://github.com/Yuvix25/pytov"
+    },
+    {
+      "rank": "15.",
+      "title": "Understanding Recursive Queries in PostgreSQL",
+      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
+    },
+    {
       "rank": "16.",
+      "title": "A circuit-like notation for lambda calculus (2015)",
+      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
+    },
+    {
+      "rank": "17.",
+      "title": "Rolling blackouts in California have power experts stumped",
+      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
+    },
+    {
+      "rank": "18.",
+      "title": "Dependency",
+      "link": "https://xkcd.com/2347/"
+    },
+    {
+      "rank": "19.",
       "title": "A $10B domed experimental city nearly got built in rural Minnesota",
       "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
     },
     {
-      "rank": "17.",
+      "rank": "20.",
       "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
       "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
-      "rank": "18.",
+      "rank": "21.",
       "title": "Apple, Epic, and the App Store",
       "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
     },
     {
-      "rank": "19.",
-      "title": "Spectrum Analyzer Software for OpenRAMAN",
-      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
-    },
-    {
-      "rank": "20.",
+      "rank": "22.",
       "title": "Reclaiming Becket: London’s great saint needs a reboot",
       "link": "https://thecritic.co.uk/reclaiming-becket/"
     },
     {
-      "rank": "21.",
-      "title": "Apple to kill Epic’s accounts on Friday the 28th",
-      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
+      "rank": "23.",
+      "title": "Spectrum Analyzer Software for OpenRAMAN",
+      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
       "link": "https://kliu.io/post/yubico-magic-unlock/"
     },
     {
-      "rank": "23.",
-      "title": "A look at the J language: the fine line between genius and insanity (2012)",
-      "link": "https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/"
+      "rank": "25.",
+      "title": "Apple to kill Epic’s accounts on Friday the 28th",
+      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "A Twist on Schrödinger's Cat Paradox",
       "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
       "link": "https://dungeonmapdoodler.com/"
-    },
-    {
-      "rank": "26.",
-      "title": "Strange times: The sui generis Dave Brubeck",
-      "link": "https://www.the-tls.co.uk/articles/strange-times/"
-    },
-    {
-      "rank": "27.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
-      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
+      "title": "Strange times: The sui generis Dave Brubeck",
+      "link": "https://www.the-tls.co.uk/articles/strange-times/"
     },
     {
       "rank": "30.",
-      "title": "Buckingham Palace art collection to go on gallery display for the first time",
-      "link": "https://www.theguardian.com/artanddesign/2020/aug/16/buckingham-palace-art-collection-gallery-display-first-time"
+      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
+      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
     }
   ],
   "metadata": {
