@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "Popular seafood species in sharp decline around the world",
-      "link": "https://news.ubc.ca/2020/07/21/popular-seafood-species-in-sharp-decline-around-the-world/"
+      "title": "How to give access to AWS resources without creating 100s of IAM Users?",
+      "link": "https://blog.rajanpanchal.net/how-to-give-access-to-aws-resources-without-creating-100s-of-iam-users-ckds91qj100pf97s1gc3v8vwb"
     },
     {
       "rank": "3.",
@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
-      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
-      "link": "https://www.workatastartup.com/techtalk"
-    },
-    {
-      "rank": "10.",
-      "title": "Backblaze Hard Drive Stats Q2 2020",
-      "link": "https://www.backblaze.com/blog/backblaze-hard-drive-stats-q2-2020/"
-    },
-    {
-      "rank": "11.",
       "title": "Dear Apple: Your Services Are No Longer Required",
       "link": "https://lowendmac.com/2020/dear-apple-your-services-are-no-longer-required/"
     },
     {
+      "rank": "10.",
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
+    },
+    {
+      "rank": "11.",
+      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
+      "link": "https://www.workatastartup.com/techtalk"
+    },
+    {
       "rank": "12.",
-      "title": "Modeling a Wealth Tax",
-      "link": "http://paulgraham.com/wtax.html"
+      "title": "Backblaze Hard Drive Stats Q2 2020",
+      "link": "https://www.backblaze.com/blog/backblaze-hard-drive-stats-q2-2020/"
     },
     {
       "rank": "13.",
@@ -67,88 +67,88 @@
     },
     {
       "rank": "14.",
+      "title": "Modeling a Wealth Tax",
+      "link": "http://paulgraham.com/wtax.html"
+    },
+    {
+      "rank": "15.",
       "title": "SpaceX raises $1.9B in largest funding round to date",
       "link": "https://techcrunch.com/2020/08/18/spacex-raises-1-9-billion-in-largest-funding-found-to-date/"
     },
     {
-      "rank": "15.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
-    },
-    {
       "rank": "16.",
-      "title": "Simple, open source alternative to Google Analytics",
-      "link": "https://umami.is/"
+      "title": "APL386 Unicode – An APL Font",
+      "link": "https://abrudz.github.io/APL386/"
     },
     {
       "rank": "17.",
+      "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
+      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
+    },
+    {
+      "rank": "18.",
       "title": "Graphical Linear Algebra",
       "link": "https://graphicallinearalgebra.net/"
     },
     {
-      "rank": "18.",
-      "title": "How to give access to AWS resources without creating 100s of IAM Users?",
-      "link": "https://blog.rajanpanchal.net/how-to-give-access-to-aws-resources-without-creating-100s-of-iam-users-ckds91qj100pf97s1gc3v8vwb"
-    },
-    {
       "rank": "19.",
-      "title": "The ‘Batman Effect’: How having an alter ego empowers you",
-      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
+      "title": "Simple, open source alternative to Google Analytics",
+      "link": "https://umami.is/"
     },
     {
       "rank": "20.",
+      "title": "Popular seafood species in sharp decline around the world",
+      "link": "https://news.ubc.ca/2020/07/21/popular-seafood-species-in-sharp-decline-around-the-world/"
+    },
+    {
+      "rank": "21.",
       "title": "If Founders Treated Their Investors the Same Way They Treated Their Employees",
       "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Architecture of the Nintendo DS",
       "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Viola Web Browser (2009)",
       "link": "http://viola.org/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Ask HN: How do you switch off from work, particularly when WFH?",
       "link": "item?id=24196433"
     },
     {
-      "rank": "24.",
-      "title": "Show HN: GA Insights – Never Log into Google Analytics Again",
-      "link": "item?id=24199806"
-    },
-    {
       "rank": "25.",
-      "title": "Black silicon photodetector breaks the 100% efficiency limit",
-      "link": "https://phys.org/news/2020-08-black-silicon-photodetector-efficiency-limit.html"
-    },
-    {
-      "rank": "26.",
       "title": "Kotlin 1.4",
       "link": "https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html"
     },
     {
+      "rank": "26.",
+      "title": "Show HN: GA Insights – Never Log into Google Analytics Again",
+      "link": "item?id=24199806"
+    },
+    {
       "rank": "27.",
+      "title": "Black silicon photodetector breaks the 100% efficiency limit",
+      "link": "https://phys.org/news/2020-08-black-silicon-photodetector-efficiency-limit.html"
+    },
+    {
+      "rank": "28.",
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+    },
+    {
+      "rank": "29.",
       "title": "Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps",
       "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
     },
     {
-      "rank": "28.",
-      "title": "Prosopagnosia: The artist in search of her face",
-      "link": "https://www.bbc.co.uk/news/stories-53192821"
-    },
-    {
-      "rank": "29.",
+      "rank": "30.",
       "title": "The life-changing love of one of the 20th century’s greatest physicists (2015)",
       "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
-    },
-    {
-      "rank": "30.",
-      "title": "Fossilised 429-million-year-old eye mirrors modern insect vision",
-      "link": "https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html"
     }
   ],
   "metadata": {
