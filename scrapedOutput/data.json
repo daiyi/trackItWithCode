@@ -7,23 +7,23 @@
     },
     {
       "rank": "2.",
+      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
+      "link": "https://umami.is/"
+    },
+    {
+      "rank": "3.",
       "title": "APL386 Unicode – An APL Font",
       "link": "https://abrudz.github.io/APL386/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Haskell Mini-Patterns Handbook",
       "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "The Death of Corporate Research Labs",
       "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
-    },
-    {
-      "rank": "5.",
-      "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
-      "link": "https://github.com/Uzay-G/archivy"
     },
     {
       "rank": "6.",
@@ -32,38 +32,38 @@
     },
     {
       "rank": "7.",
+      "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
+      "link": "https://github.com/Uzay-G/archivy"
+    },
+    {
+      "rank": "8.",
       "title": "Canon's cloud platform has lost users' files and can't restore them",
       "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Xplain – Explaining X11 for the rest of us",
       "link": "https://magcius.github.io/xplain/article/"
     },
     {
-      "rank": "9.",
-      "title": "Lost Advanced Civilizations",
-      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
-    },
-    {
       "rank": "10.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
-    },
-    {
-      "rank": "11.",
       "title": "ANSI Z535 Compliant Safety Sign Generator",
       "link": "https://observatory.db.erau.edu/generators/signs/"
     },
     {
+      "rank": "11.",
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
+    },
+    {
       "rank": "12.",
-      "title": "A single metric to drive Customer Success teams",
+      "title": "Product Activity Coefficient: A single metric to drive customer success teams",
       "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
     },
     {
       "rank": "13.",
-      "title": "Allowing cmake functions to return(value)",
-      "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
+      "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
+      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
-      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
+      "title": "Allowing CMake functions to return(value)",
+      "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
     },
     {
       "rank": "16.",
@@ -87,48 +87,48 @@
     },
     {
       "rank": "18.",
-      "title": "Simple, open source alternative to Google Analytics",
-      "link": "https://umami.is/"
-    },
-    {
-      "rank": "19.",
       "title": "Architecture of the Nintendo DS",
       "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
     },
     {
-      "rank": "20.",
-      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
-      "link": "https://www.workatastartup.com/techtalk"
-    },
-    {
-      "rank": "21.",
-      "title": "Laying the foundation for Rust’s future",
-      "link": "https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html"
-    },
-    {
-      "rank": "22.",
+      "rank": "19.",
       "title": "An Ecology of Mind: A daughter's portrait of Gregory Bateson",
       "link": "http://www.anecologyofmind.com/thefilm.html"
     },
     {
+      "rank": "20.",
+      "title": "Laying the foundation for Rust’s future",
+      "link": "https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html"
+    },
+    {
+      "rank": "21.",
+      "title": "An old Goderich salt mine could one day save you money on your hydro bill (2019)",
+      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
+    },
+    {
+      "rank": "22.",
+      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
+      "link": "https://www.workatastartup.com/techtalk"
+    },
+    {
       "rank": "23.",
-      "title": "If Founders Treated Their Investors the Same Way They Treated Their Employees",
-      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
+      "title": "Lost Advanced Civilizations",
+      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
     },
     {
       "rank": "24.",
-      "title": "How to give access to AWS resources without creating 100s of IAM Users?",
-      "link": "https://blog.rajanpanchal.net/how-to-give-access-to-aws-resources-without-creating-100s-of-iam-users-ckds91qj100pf97s1gc3v8vwb"
+      "title": "An example of how brands build fake reviews on Amazon",
+      "link": "https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"
     },
     {
       "rank": "25.",
-      "title": "1-Euro Houses",
-      "link": "https://1eurohouses.com/case-a-1-euro-houses/"
+      "title": "If founders treated their investors the same way they treated their employees",
+      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
     },
     {
       "rank": "26.",
-      "title": "An example of how brands build fake reviews on Amazon",
-      "link": "https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"
+      "title": "1-Euro Houses",
+      "link": "https://1eurohouses.com/case-a-1-euro-houses/"
     },
     {
       "rank": "27.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Kotlin 1.4",
-      "link": "https://blog.jetbrains.com/kotlin/2020/08/kotlin-1-4-released-with-a-focus-on-quality-and-performance/"
+      "title": "How to give access to AWS resources without creating 100s of IAM Users?",
+      "link": "https://blog.rajanpanchal.net/how-to-give-access-to-aws-resources-without-creating-100s-of-iam-users-ckds91qj100pf97s1gc3v8vwb"
     }
   ],
   "metadata": {
