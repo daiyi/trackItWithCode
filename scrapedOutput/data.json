@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "How to deploy a React app for free",
-      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
+      "title": "Apple expands independent repair program to Mac after US antitrust investigation",
+      "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
     },
     {
       "rank": "3.",
-      "title": "Apple expands independent repair program to Mac after US antitrust investigation",
-      "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
+      "title": "How to deploy a React app for free",
+      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
     },
     {
       "rank": "4.",
@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "What’s Flying Above Us?",
-      "link": "https://skycircl.es/donate/"
+      "title": "Show HN: Made in India CSS",
+      "link": "https://nishantpainter.github.io/made-in-india-css/"
     },
     {
       "rank": "6.",
-      "title": "Create and view interactive cheatsheets on the command-line",
-      "link": "https://github.com/cheat/cheat"
+      "title": "What’s Flying Above Us?",
+      "link": "https://skycircl.es/donate/"
     },
     {
       "rank": "7.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Pytov – C-like syntax Python",
-      "link": "https://github.com/Yuvix25/pytov"
+      "title": "Create and view interactive cheatsheets on the command-line",
+      "link": "https://github.com/cheat/cheat"
     },
     {
       "rank": "9.",
@@ -62,88 +62,88 @@
     },
     {
       "rank": "13.",
-      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
-      "link": "item?id=24188214"
+      "title": "Architecture of the Nintendo DS",
+      "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
     },
     {
       "rank": "14.",
-      "title": "Stuck with Pound",
-      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
-    },
-    {
-      "rank": "15.",
-      "title": "Understanding Recursive Queries in PostgreSQL",
-      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
-    },
-    {
-      "rank": "16.",
-      "title": "A circuit-like notation for lambda calculus (2015)",
-      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
-    },
-    {
-      "rank": "17.",
-      "title": "A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)",
-      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
-    },
-    {
-      "rank": "18.",
-      "title": "Apple, Epic, and the App Store",
-      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
-    },
-    {
-      "rank": "19.",
-      "title": "Using, Understanding, and Unraveling the OCaml Language",
-      "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
-    },
-    {
-      "rank": "20.",
-      "title": "Spectrum Analyzer Software for OpenRAMAN",
-      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
-    },
-    {
-      "rank": "21.",
       "title": "Projected growth of Tiger Mosquito range in northeastern US (2013)",
       "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/"
     },
     {
+      "rank": "15.",
+      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
+      "link": "item?id=24188214"
+    },
+    {
+      "rank": "16.",
+      "title": "Understanding Recursive Queries in PostgreSQL",
+      "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
+    },
+    {
+      "rank": "17.",
+      "title": "A circuit-like notation for lambda calculus (2015)",
+      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
+    },
+    {
+      "rank": "18.",
+      "title": "Ultraviolet Hubble Movie",
+      "link": "http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html"
+    },
+    {
+      "rank": "19.",
+      "title": "Stuck with Pound",
+      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
+    },
+    {
+      "rank": "20.",
+      "title": "An Ecology of Mind",
+      "link": "http://www.anecologyofmind.com/thefilm.html"
+    },
+    {
+      "rank": "21.",
+      "title": "A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)",
+      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
+    },
+    {
       "rank": "22.",
-      "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
-      "link": "https://kliu.io/post/yubico-magic-unlock/"
+      "title": "Apple, Epic, and the App Store",
+      "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
     },
     {
       "rank": "23.",
-      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
-      "link": "https://dungeonmapdoodler.com/"
+      "title": "Pytov – C-like syntax Python",
+      "link": "https://github.com/Yuvix25/pytov"
     },
     {
       "rank": "24.",
+      "title": "Using, Understanding, and Unraveling the OCaml Language",
+      "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
+    },
+    {
+      "rank": "25.",
+      "title": "Spectrum Analyzer Software for OpenRAMAN",
+      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
+    },
+    {
+      "rank": "26.",
       "title": "A Twist on Schrödinger's Cat Paradox",
       "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
     },
     {
-      "rank": "25.",
-      "title": "Dependency",
-      "link": "https://xkcd.com/2347/"
-    },
-    {
-      "rank": "26.",
-      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
-      "link": "https://hndex.ml/"
-    },
-    {
       "rank": "27.",
-      "title": "Apple to kill Epic’s accounts on Friday the 28th",
-      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
+      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
+      "link": "https://dungeonmapdoodler.com/"
     },
     {
       "rank": "28.",
-      "title": "Historian's Cookbook: We All Scream for Ice Cream (2018)",
-      "link": "https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream"
+      "title": "Avro Canada VZ-9 Avrocar",
+      "link": "https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar"
     },
     {
       "rank": "29.",
-      "title": "Avro Canada VZ-9 Avrocar",
-      "link": "https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar"
+      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
+      "link": "https://hndex.ml/"
     },
     {
       "rank": "30.",
