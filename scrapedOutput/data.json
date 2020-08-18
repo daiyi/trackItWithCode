@@ -2,63 +2,63 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Canon's cloud platform has lost users' files – and it can't restore them",
-      "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
-    },
-    {
-      "rank": "2.",
       "title": "Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo",
       "link": "https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/"
     },
     {
+      "rank": "2.",
+      "title": "Canon's cloud platform has lost users' files – and it can't restore them",
+      "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
+    },
+    {
       "rank": "3.",
+      "title": "Accused Spy Alexander Yuk Ching Ma Beat the Polygraph to Penetrate the FBI",
+      "link": "https://antipolygraph.org/blog/2020/08/18/accused-spy-alexander-yuk-ching-ma-evidently-beat-the-polygraph-to-penetrate-the-fbi/"
+    },
+    {
+      "rank": "4.",
       "title": "Graphical Linear Algebra",
       "link": "https://graphicallinearalgebra.net/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Architecture of the Nintendo DS",
       "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "The life-changing love of one of the 20th century’s greatest physicists (2015)",
       "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "New language features and more in Kotlin 1.4",
       "link": "https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Mailto: ?attach=~/ parameter allows including arbitrary files on disk",
       "link": "https://twitter.com/jensvoid/status/1295357952480751616"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps",
       "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "A DOS JavaScript Canvas with Sound",
       "link": "https://github.com/SuperIlu/DOjS"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "2.5M Medical Records Leaked by AI Company",
       "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Fossilised 429-million-year-old eye mirrors modern insect vision",
       "link": "https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html"
-    },
-    {
-      "rank": "12.",
-      "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
-      "link": "https://www.dropbase.io/"
     },
     {
       "rank": "13.",
@@ -67,88 +67,88 @@
     },
     {
       "rank": "14.",
+      "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
+      "link": "https://www.dropbase.io/"
+    },
+    {
+      "rank": "15.",
       "title": "Essential Coding Theory [pdf]",
       "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "The Computational Limits of Deep Learning",
       "link": "https://arxiv.org/abs/2007.05558"
     },
     {
-      "rank": "16.",
-      "title": "I fear App Review is getting too powerful (2015) [pdf]",
-      "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
-    },
-    {
       "rank": "17.",
-      "title": "Create and view interactive cheatsheets on the command-line",
-      "link": "https://github.com/cheat/cheat"
-    },
-    {
-      "rank": "18.",
-      "title": "The Last of the Hedgehogs: René Girard",
-      "link": "https://lareviewofbooks.org/article/the-last-of-the-hedgehogs"
-    },
-    {
-      "rank": "19.",
-      "title": "Using, Understanding, and Unraveling the OCaml Language",
-      "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
-    },
-    {
-      "rank": "20.",
-      "title": "Apple expands independent repair program to Mac after US antitrust investigation",
-      "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
-    },
-    {
-      "rank": "21.",
-      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
-      "link": "item?id=24188214"
-    },
-    {
-      "rank": "22.",
-      "title": "Impossible Figures Library",
-      "link": "https://im-possible.info/english/library/index.html"
-    },
-    {
-      "rank": "23.",
       "title": "Slate, create beautiful, responsive API documentation",
       "link": "https://github.com/slatedocs/slate"
     },
     {
+      "rank": "18.",
+      "title": "I fear App Review is getting too powerful (2015) [pdf]",
+      "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
+    },
+    {
+      "rank": "19.",
+      "title": "The week old Hollywood finally died",
+      "link": "https://www.nytimes.com/2020/08/16/business/media/hollywood-studios-firings-streaming.html"
+    },
+    {
+      "rank": "20.",
+      "title": "Create and view interactive cheatsheets on the command-line",
+      "link": "https://github.com/cheat/cheat"
+    },
+    {
+      "rank": "21.",
+      "title": "Using, Understanding, and Unraveling the OCaml Language",
+      "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
+    },
+    {
+      "rank": "22.",
+      "title": "The Last of the Hedgehogs: René Girard",
+      "link": "https://lareviewofbooks.org/article/the-last-of-the-hedgehogs"
+    },
+    {
+      "rank": "23.",
+      "title": "Apple expands independent repair program to Mac after US antitrust investigation",
+      "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
+    },
+    {
       "rank": "24.",
+      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
+      "link": "item?id=24188214"
+    },
+    {
+      "rank": "25.",
+      "title": "Impossible Figures Library",
+      "link": "https://im-possible.info/english/library/index.html"
+    },
+    {
+      "rank": "26.",
       "title": "A circuit-like notation for lambda calculus (2015)",
       "link": "https://csvoss.com/circuit-notation-lambda-calculus"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Here’s an example of how brands build fake reviews on Amazon",
       "link": "https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "1-Euro Houses",
       "link": "https://1eurohouses.com/case-a-1-euro-houses/"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "What’s Flying Above Us?",
       "link": "https://skycircl.es/donate/"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Stuck with Pound",
       "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
-    },
-    {
-      "rank": "29.",
-      "title": "Ultraviolet Hubble Movie",
-      "link": "http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html"
-    },
-    {
-      "rank": "30.",
-      "title": "How to deploy a React app for free",
-      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
     }
   ],
   "metadata": {
