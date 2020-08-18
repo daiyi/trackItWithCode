@@ -32,63 +32,63 @@
     },
     {
       "rank": "7.",
+      "title": "Essential Coding Theory [pdf]",
+      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
+    },
+    {
+      "rank": "8.",
       "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
       "link": "https://www.dropbase.io/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "We should discuss soil as much as coal (2019)",
       "link": "https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "A circuit-like notation for lambda calculus (2015)",
       "link": "https://csvoss.com/circuit-notation-lambda-calculus"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Dependency",
       "link": "https://xkcd.com/2347/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Understanding Recursive Queries in PostgreSQL",
       "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Rolling blackouts in California have power experts stumped",
       "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
+      "title": "Building AGI Using Language Models",
+      "link": "https://leogao.dev/2020/08/17/Building-AGI-Using-Language-Models/"
+    },
+    {
+      "rank": "16.",
       "title": "A $10B domed experimental city nearly got built in rural Minnesota",
       "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
     },
     {
-      "rank": "15.",
+      "rank": "17.",
       "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
       "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
-      "rank": "16.",
+      "rank": "18.",
       "title": "Apple, Epic, and the App Store",
       "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
-    },
-    {
-      "rank": "17.",
-      "title": "Reclaiming Becket: London’s great saint needs a reboot",
-      "link": "https://thecritic.co.uk/reclaiming-becket/"
-    },
-    {
-      "rank": "18.",
-      "title": "Building AGI Using Language Models",
-      "link": "https://leogao.dev/2020/08/17/Building-AGI-Using-Language-Models/"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
+      "title": "Reclaiming Becket: London’s great saint needs a reboot",
+      "link": "https://thecritic.co.uk/reclaiming-becket/"
+    },
+    {
+      "rank": "21.",
       "title": "Apple to kill Epic’s accounts on Friday the 28th",
       "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
     },
     {
-      "rank": "21.",
-      "title": "A Twist on Schrödinger's Cat Paradox",
-      "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
-    },
-    {
       "rank": "22.",
-      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
-      "link": "https://dungeonmapdoodler.com/"
-    },
-    {
-      "rank": "23.",
       "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
       "link": "https://kliu.io/post/yubico-magic-unlock/"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "A look at the J language: the fine line between genius and insanity (2012)",
       "link": "https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/"
     },
     {
+      "rank": "24.",
+      "title": "A Twist on Schrödinger's Cat Paradox",
+      "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
+    },
+    {
       "rank": "25.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
+      "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
+      "link": "https://dungeonmapdoodler.com/"
     },
     {
       "rank": "26.",
-      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
-      "link": "https://hndex.ml/"
-    },
-    {
-      "rank": "27.",
-      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
-      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
-    },
-    {
-      "rank": "28.",
       "title": "Strange times: The sui generis Dave Brubeck",
       "link": "https://www.the-tls.co.uk/articles/strange-times/"
     },
     {
+      "rank": "27.",
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
+    },
+    {
+      "rank": "28.",
+      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
+      "link": "https://hndex.ml/"
+    },
+    {
       "rank": "29.",
-      "title": "Avro Canada VZ-9 Avrocar",
-      "link": "https://en.wikipedia.org/wiki/Avro_Canada_VZ-9_Avrocar"
+      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
+      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
     },
     {
       "rank": "30.",
-      "title": "How the Black Sea shaped the ancient Mediterranean world",
-      "link": "https://www.historytoday.com/reviews/around-other-pond"
+      "title": "Buckingham Palace art collection to go on gallery display for the first time",
+      "link": "https://www.theguardian.com/artanddesign/2020/aug/16/buckingham-palace-art-collection-gallery-display-first-time"
     }
   ],
   "metadata": {
