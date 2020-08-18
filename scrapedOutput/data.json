@@ -2,43 +2,43 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "If Founders Treated Their Investors the Same Way They Treated Their Employees",
+      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
+    },
+    {
+      "rank": "2.",
       "title": "Canon's cloud platform has lost users' files – and it can't restore them",
       "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Xplain – Explaining X11 for the rest of us",
       "link": "https://magcius.github.io/xplain/article/"
     },
     {
-      "rank": "3.",
-      "title": "Graphical Linear Algebra",
-      "link": "https://graphicallinearalgebra.net/"
-    },
-    {
       "rank": "4.",
-      "title": "Architecture of the Nintendo DS",
-      "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
+      "title": "Modeling a Wealth Tax",
+      "link": "http://paulgraham.com/wtax.html"
     },
     {
       "rank": "5.",
+      "title": "Simple, open source alternative to Google Analytics",
+      "link": "https://umami.is/"
+    },
+    {
+      "rank": "6.",
       "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
       "link": "item?id=24198114"
     },
     {
-      "rank": "6.",
-      "title": "Kotlin 1.4",
-      "link": "https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html"
-    },
-    {
       "rank": "7.",
-      "title": "The life-changing love of one of the 20th century’s greatest physicists (2015)",
-      "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
+      "title": "Graphical Linear Algebra",
+      "link": "https://graphicallinearalgebra.net/"
     },
     {
       "rank": "8.",
-      "title": "Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo",
-      "link": "https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/"
+      "title": "Architecture of the Nintendo DS",
+      "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
     },
     {
       "rank": "9.",
@@ -47,108 +47,108 @@
     },
     {
       "rank": "10.",
-      "title": "Fossilised 429-million-year-old eye mirrors modern insect vision",
-      "link": "https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html"
+      "title": "Apple announces Apple Music radio",
+      "link": "https://www.apple.com/newsroom/2020/08/apple-announces-apple-music-radio/"
     },
     {
       "rank": "11.",
-      "title": "Mailto: ?attach=~/ parameter allows including arbitrary files on disk",
-      "link": "https://twitter.com/jensvoid/status/1295357952480751616"
+      "title": "Kotlin 1.4",
+      "link": "https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html"
     },
     {
       "rank": "12.",
-      "title": "Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps",
-      "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
+      "title": "The life-changing love of one of the 20th century’s greatest physicists (2015)",
+      "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
     },
     {
       "rank": "13.",
-      "title": "NumPy another Iverson Ghost (2018)",
-      "link": "https://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/"
+      "title": "Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo",
+      "link": "https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/"
     },
     {
       "rank": "14.",
+      "title": "The ‘Batman Effect’: How having an alter ego empowers you",
+      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
+    },
+    {
+      "rank": "15.",
       "title": "Accused Spy Alexander Yuk Ching Ma Beat the Polygraph to Penetrate the FBI",
       "link": "https://antipolygraph.org/blog/2020/08/18/accused-spy-alexander-yuk-ching-ma-evidently-beat-the-polygraph-to-penetrate-the-fbi/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
+      "title": "NumPy another Iverson Ghost (2018)",
+      "link": "https://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/"
+    },
+    {
+      "rank": "17.",
+      "title": "Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps",
+      "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
+    },
+    {
+      "rank": "18.",
+      "title": "Fossilised 429-million-year-old eye mirrors modern insect vision",
+      "link": "https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html"
+    },
+    {
+      "rank": "19.",
+      "title": "Mailto: ?attach=~/ parameter allows including arbitrary files on disk",
+      "link": "https://twitter.com/jensvoid/status/1295357952480751616"
+    },
+    {
+      "rank": "20.",
       "title": "Slate, create beautiful, responsive API documentation",
       "link": "https://github.com/slatedocs/slate"
     },
     {
-      "rank": "16.",
+      "rank": "21.",
       "title": "A DOS JavaScript Canvas with Sound",
       "link": "https://github.com/SuperIlu/DOjS"
     },
     {
-      "rank": "17.",
+      "rank": "22.",
       "title": "Strange times: The sui generis Dave Brubeck",
       "link": "https://www.the-tls.co.uk/articles/strange-times/"
     },
     {
-      "rank": "18.",
-      "title": "Modeling a Wealth Tax",
-      "link": "http://paulgraham.com/wtax.html"
-    },
-    {
-      "rank": "19.",
+      "rank": "23.",
       "title": "2.5M Medical Records Leaked by AI Company",
       "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
     },
     {
-      "rank": "20.",
-      "title": "Clear Channel’s billboards will start tracking consumers in Europe",
-      "link": "https://www.theverge.com/2020/8/10/21361734/clear-channel-billboards-privacy-ad-tracking-europe"
-    },
-    {
-      "rank": "21.",
+      "rank": "24.",
       "title": "Essential Coding Theory [pdf]",
       "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
     },
     {
-      "rank": "22.",
-      "title": "An Ecology of Mind",
-      "link": "http://www.anecologyofmind.com/thefilm.html"
-    },
-    {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Create and view interactive cheatsheets on the command-line",
       "link": "https://github.com/cheat/cheat"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
+      "title": "Clear Channel’s billboards will start tracking consumers in Europe",
+      "link": "https://www.theverge.com/2020/8/10/21361734/clear-channel-billboards-privacy-ad-tracking-europe"
+    },
+    {
+      "rank": "27.",
+      "title": "An Ecology of Mind",
+      "link": "http://www.anecologyofmind.com/thefilm.html"
+    },
+    {
+      "rank": "28.",
       "title": "I fear App Review is getting too powerful (2015) [pdf]",
       "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
     },
     {
-      "rank": "25.",
+      "rank": "29.",
       "title": "Impossible Figures Library",
       "link": "https://im-possible.info/english/library/index.html"
     },
     {
-      "rank": "26.",
+      "rank": "30.",
       "title": "Using, Understanding, and Unraveling the OCaml Language",
       "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
-    },
-    {
-      "rank": "27.",
-      "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
-      "link": "item?id=24188214"
-    },
-    {
-      "rank": "28.",
-      "title": "Apple expands independent repair program to Mac after US antitrust investigation",
-      "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
-    },
-    {
-      "rank": "29.",
-      "title": "A circuit-like notation for lambda calculus (2015)",
-      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
-    },
-    {
-      "rank": "30.",
-      "title": "What’s Flying Above Us?",
-      "link": "https://skycircl.es/donate/"
     }
   ],
   "metadata": {
