@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "The Death of Corporate Research Labs",
-      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+      "title": "Voxel Plotting with Gnuplot 5.4",
+      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
     },
     {
       "rank": "4.",
-      "title": "Voxel Plotting with Gnuplot 5.4",
-      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
     },
     {
       "rank": "5.",
@@ -27,28 +27,28 @@
     },
     {
       "rank": "6.",
-      "title": "Language-Agnostic Bert Sentence Embedding",
-      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
-    },
-    {
-      "rank": "7.",
       "title": "Haskell Mini-Patterns Handbook",
       "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
     },
     {
+      "rank": "7.",
+      "title": "Language-Agnostic Bert Sentence Embedding",
+      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
+    },
+    {
       "rank": "8.",
+      "title": "Canon's cloud platform has lost users' files and can't restore them",
+      "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
+    },
+    {
+      "rank": "9.",
       "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
       "link": "https://github.com/Uzay-G/archivy"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Scale AI (YC S16) is hiring engineers to build infrastructure for AI",
       "link": "https://scale.com/careers"
-    },
-    {
-      "rank": "10.",
-      "title": "Canon's cloud platform has lost users' files and can't restore them",
-      "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     },
     {
       "rank": "11.",
@@ -57,23 +57,23 @@
     },
     {
       "rank": "12.",
-      "title": "Xplain – Explaining X11 for the rest of us (2017)",
-      "link": "https://magcius.github.io/xplain/article/"
-    },
-    {
-      "rank": "13.",
-      "title": "Product Activity Coefficient: A single metric to drive customer success teams",
-      "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
-    },
-    {
-      "rank": "14.",
       "title": "Black Sky satellites return images just 58 hours after launch",
       "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
     },
     {
+      "rank": "13.",
+      "title": "Xplain – Explaining X11 for the rest of us (2017)",
+      "link": "https://magcius.github.io/xplain/article/"
+    },
+    {
+      "rank": "14.",
+      "title": "Product Activity Coefficient: A single metric to drive customer success teams",
+      "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
+    },
+    {
       "rank": "15.",
-      "title": "Users as people and the participatory economy",
-      "link": "https://sariazout.substack.com/p/check-your-pulse-50"
+      "title": "‘Oumuamua: A Hydrogen Iceberg?",
+      "link": "https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/"
     },
     {
       "rank": "16.",
@@ -82,23 +82,23 @@
     },
     {
       "rank": "17.",
-      "title": "An old Goderich salt mine could one day save you money on your hydro bill (2019)",
-      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
-    },
-    {
-      "rank": "18.",
       "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
       "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
     },
     {
+      "rank": "18.",
+      "title": "Users as people and the participatory economy",
+      "link": "https://sariazout.substack.com/p/check-your-pulse-50"
+    },
+    {
       "rank": "19.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
+      "title": "An old Goderich salt mine could one day save you money on your hydro bill (2019)",
+      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
     },
     {
       "rank": "20.",
-      "title": "‘Oumuamua: A Hydrogen Iceberg?",
-      "link": "https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/"
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Allowing CMake functions to return(value)",
-      "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
+      "title": "Graphical Linear Algebra",
+      "link": "https://graphicallinearalgebra.net/"
     },
     {
       "rank": "23.",
-      "title": "Graphical Linear Algebra",
-      "link": "https://graphicallinearalgebra.net/"
+      "title": "Allowing CMake functions to return(value)",
+      "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
     },
     {
       "rank": "24.",
