@@ -2,33 +2,33 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Dependency",
+      "link": "https://xkcd.com/2347/"
+    },
+    {
+      "rank": "2.",
       "title": "I fear App Review is getting too powerful (2015) [pdf]",
       "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Apple expands independent repair program to Mac after US antitrust investigation",
       "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "What’s Flying Above Us?",
       "link": "https://skycircl.es/donate/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Karpathy's MinGPT",
       "link": "https://github.com/karpathy/minGPT"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "The Computational Limits of Deep Learning",
       "link": "https://arxiv.org/abs/2007.05558"
-    },
-    {
-      "rank": "6.",
-      "title": "We should discuss soil as much as coal (2019)",
-      "link": "https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal"
     },
     {
       "rank": "7.",
@@ -42,73 +42,73 @@
     },
     {
       "rank": "9.",
+      "title": "We should discuss soil as much as coal (2019)",
+      "link": "https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal"
+    },
+    {
+      "rank": "10.",
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
+    },
+    {
+      "rank": "11.",
       "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
       "link": "https://www.dropbase.io/"
     },
     {
-      "rank": "10.",
+      "rank": "12.",
       "title": "Understanding Recursive Queries in PostgreSQL",
       "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
-      "rank": "11.",
+      "rank": "13.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
     },
     {
-      "rank": "12.",
+      "rank": "14.",
       "title": "Apple, Epic, and the App Store",
       "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
     },
     {
-      "rank": "13.",
+      "rank": "15.",
       "title": "Rolling blackouts in California have power experts stumped",
       "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
-      "rank": "14.",
+      "rank": "16.",
       "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
       "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
-      "rank": "15.",
+      "rank": "17.",
       "title": "A $10B domed experimental city nearly got built in rural Minnesota",
       "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
     },
     {
-      "rank": "16.",
-      "title": "A Twist on Schrödinger's Cat Paradox",
-      "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
-    },
-    {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Mindfulness and meditation can worsen depression and anxiety",
       "link": "https://www.newscientist.com/article/2251840-mindfulness-and-meditation-can-worsen-depression-and-anxiety/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
+      "title": "A Twist on Schrödinger's Cat Paradox",
+      "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
+    },
+    {
+      "rank": "20.",
       "title": "Buckingham Palace art collection to go on gallery display for the first time",
       "link": "https://www.theguardian.com/artanddesign/2020/aug/16/buckingham-palace-art-collection-gallery-display-first-time"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "Apple to kill Epic’s accounts on Friday the 28th",
       "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
       "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
       "link": "https://kliu.io/post/yubico-magic-unlock/"
-    },
-    {
-      "rank": "21.",
-      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
-      "link": "https://hndex.ml/"
-    },
-    {
-      "rank": "22.",
-      "title": "Response to Google open letter",
-      "link": "https://www.accc.gov.au/media-release/response-to-google-open-letter"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
-      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
-    },
-    {
-      "rank": "25.",
-      "title": "Categories of Optics (2018)",
-      "link": "https://arxiv.org/abs/1809.00738"
-    },
-    {
-      "rank": "26.",
-      "title": "Strange times: The sui generis Dave Brubeck",
-      "link": "https://www.the-tls.co.uk/articles/strange-times/"
-    },
-    {
-      "rank": "27.",
       "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
       "link": "https://dungeonmapdoodler.com/"
     },
     {
-      "rank": "28.",
-      "title": "How the Black Sea shaped the ancient Mediterranean world",
-      "link": "https://www.historytoday.com/reviews/around-other-pond"
+      "rank": "25.",
+      "title": "Show HN: Search the text of articles submitted to HN, with live updating",
+      "link": "https://hndex.ml/"
     },
     {
-      "rank": "29.",
+      "rank": "26.",
+      "title": "Connecting the Atari ST to the Internet with an ESP8266 (2017)",
+      "link": "https://www.chzsoft.de/site/hardware/connecting-the-atari-st-to-the-internet/"
+    },
+    {
+      "rank": "27.",
+      "title": "Strange times: The sui generis Dave Brubeck",
+      "link": "https://www.the-tls.co.uk/articles/strange-times/"
+    },
+    {
+      "rank": "28.",
       "title": "Are CRDTs suitable for shared editing?",
       "link": "https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/"
     },
     {
+      "rank": "29.",
+      "title": "How the Black Sea shaped the ancient Mediterranean world",
+      "link": "https://www.historytoday.com/reviews/around-other-pond"
+    },
+    {
       "rank": "30.",
-      "title": "Vanta (YC W18) is hiring as we build simple security and compliance for startups",
-      "link": "https://vanta.com/jobs"
+      "title": "A Brief History of ClarisWorks (2003)",
+      "link": "http://groups.csail.mit.edu/mac/users/bob/clarisworks.php"
     }
   ],
   "metadata": {
