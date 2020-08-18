@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "2.5M Medical Records Leaked by AI Company",
-      "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
+      "title": "How to deploy a React app for free",
+      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
     },
     {
       "rank": "3.",
@@ -17,8 +17,8 @@
     },
     {
       "rank": "4.",
-      "title": "How to deploy a React app for free",
-      "link": "https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/"
+      "title": "2.5M Medical Records Leaked by AI Company",
+      "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
     },
     {
       "rank": "5.",
@@ -67,33 +67,33 @@
     },
     {
       "rank": "14.",
-      "title": "A circuit-like notation for lambda calculus (2015)",
-      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
-    },
-    {
-      "rank": "15.",
       "title": "Understanding Recursive Queries in PostgreSQL",
       "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
-      "rank": "16.",
-      "title": "U.S. states seek $2.2T from OxyContin maker Purdue Pharma",
-      "link": "https://www.reuters.com/article/us-purdue-pharma-investigations-opioids/u-s-states-seek-2-2-trillion-from-oxycontin-maker-purdue-pharma-filings-idUSKCN25D2EG"
+      "rank": "15.",
+      "title": "A circuit-like notation for lambda calculus (2015)",
+      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Rolling blackouts in California have power experts stumped",
       "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
+      "rank": "17.",
+      "title": "U.S. states seek $2.2T from OxyContin maker Purdue Pharma",
+      "link": "https://www.reuters.com/article/us-purdue-pharma-investigations-opioids/u-s-states-seek-2-2-trillion-from-oxycontin-maker-purdue-pharma-filings-idUSKCN25D2EG"
+    },
+    {
       "rank": "18.",
-      "title": "Stuck with Pound",
-      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
+      "title": "A $10B domed experimental city nearly got built in rural Minnesota",
+      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
     },
     {
       "rank": "19.",
-      "title": "A $10B domed experimental city nearly got built in rural Minnesota",
-      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
+      "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
+      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "A 35-year-old bug in Patch found in efforts to restore 29-year-old BSD",
-      "link": "http://bsdimp.blogspot.com/2020/08/a-35-year-old-bug-in-patch-found-in.html"
+      "title": "Spectrum Analyzer Software for OpenRAMAN",
+      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
     },
     {
       "rank": "22.",
-      "title": "Spectrum Analyzer Software for OpenRAMAN",
-      "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
+      "title": "Stuck with Pound",
+      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "Dependency",
-      "link": "https://xkcd.com/2347/"
+      "title": "Create and view interactive cheatsheets on the command-line",
+      "link": "https://github.com/cheat/cheat"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "Dependency",
+      "link": "https://xkcd.com/2347/"
+    },
+    {
+      "rank": "27.",
       "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
       "link": "https://kliu.io/post/yubico-magic-unlock/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
       "link": "https://dungeonmapdoodler.com/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "A Twist on Schrödinger's Cat Paradox",
       "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Show HN: Search the text of articles submitted to HN, with live updating",
       "link": "https://hndex.ml/"
-    },
-    {
-      "rank": "30.",
-      "title": "Apple to kill Epic’s accounts on Friday the 28th",
-      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
     }
   ],
   "metadata": {
