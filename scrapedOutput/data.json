@@ -2,33 +2,33 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo",
-      "link": "https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/"
-    },
-    {
-      "rank": "2.",
       "title": "Canon's cloud platform has lost users' files – and it can't restore them",
       "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "Accused Spy Alexander Yuk Ching Ma Beat the Polygraph to Penetrate the FBI",
       "link": "https://antipolygraph.org/blog/2020/08/18/accused-spy-alexander-yuk-ching-ma-evidently-beat-the-polygraph-to-penetrate-the-fbi/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Graphical Linear Algebra",
       "link": "https://graphicallinearalgebra.net/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Architecture of the Nintendo DS",
       "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "The life-changing love of one of the 20th century’s greatest physicists (2015)",
       "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
+    },
+    {
+      "rank": "6.",
+      "title": "Gigapixel AI Accidentally Added Ryan Gosling’s Face to This Photo",
+      "link": "https://petapixel.com/2020/08/17/gigapixel-ai-accidentally-added-ryan-goslings-face-to-this-photo/"
     },
     {
       "rank": "7.",
@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
+      "title": "The week old Hollywood finally died",
+      "link": "https://www.nytimes.com/2020/08/16/business/media/hollywood-studios-firings-streaming.html"
+    },
+    {
+      "rank": "9.",
       "title": "Mailto: ?attach=~/ parameter allows including arbitrary files on disk",
       "link": "https://twitter.com/jensvoid/status/1295357952480751616"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Let’s Learn x86-64 Assembly: Part 0 – Setup and First Steps",
       "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "A DOS JavaScript Canvas with Sound",
       "link": "https://github.com/SuperIlu/DOjS"
-    },
-    {
-      "rank": "11.",
-      "title": "2.5M Medical Records Leaked by AI Company",
-      "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
     },
     {
       "rank": "12.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "An Ecology of Mind",
-      "link": "http://www.anecologyofmind.com/thefilm.html"
+      "title": "2.5M Medical Records Leaked by AI Company",
+      "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
     },
     {
       "rank": "14.",
-      "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
-      "link": "https://www.dropbase.io/"
+      "title": "An Ecology of Mind",
+      "link": "http://www.anecologyofmind.com/thefilm.html"
     },
     {
       "rank": "15.",
@@ -82,48 +82,48 @@
     },
     {
       "rank": "17.",
-      "title": "Slate, create beautiful, responsive API documentation",
-      "link": "https://github.com/slatedocs/slate"
-    },
-    {
-      "rank": "18.",
       "title": "I fear App Review is getting too powerful (2015) [pdf]",
       "link": "https://judiciary.house.gov/uploadedfiles/015127.pdf"
     },
     {
-      "rank": "19.",
-      "title": "The week old Hollywood finally died",
-      "link": "https://www.nytimes.com/2020/08/16/business/media/hollywood-studios-firings-streaming.html"
-    },
-    {
-      "rank": "20.",
+      "rank": "18.",
       "title": "Create and view interactive cheatsheets on the command-line",
       "link": "https://github.com/cheat/cheat"
     },
     {
-      "rank": "21.",
+      "rank": "19.",
+      "title": "Slate, create beautiful, responsive API documentation",
+      "link": "https://github.com/slatedocs/slate"
+    },
+    {
+      "rank": "20.",
       "title": "Using, Understanding, and Unraveling the OCaml Language",
       "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
     },
     {
-      "rank": "22.",
-      "title": "The Last of the Hedgehogs: René Girard",
-      "link": "https://lareviewofbooks.org/article/the-last-of-the-hedgehogs"
-    },
-    {
-      "rank": "23.",
+      "rank": "21.",
       "title": "Apple expands independent repair program to Mac after US antitrust investigation",
       "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
     },
     {
-      "rank": "24.",
+      "rank": "22.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
     },
     {
-      "rank": "25.",
+      "rank": "23.",
+      "title": "The Last of the Hedgehogs: René Girard",
+      "link": "https://lareviewofbooks.org/article/the-last-of-the-hedgehogs"
+    },
+    {
+      "rank": "24.",
       "title": "Impossible Figures Library",
       "link": "https://im-possible.info/english/library/index.html"
+    },
+    {
+      "rank": "25.",
+      "title": "1-Euro Houses",
+      "link": "https://1eurohouses.com/case-a-1-euro-houses/"
     },
     {
       "rank": "26.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "1-Euro Houses",
-      "link": "https://1eurohouses.com/case-a-1-euro-houses/"
-    },
-    {
-      "rank": "29.",
       "title": "What’s Flying Above Us?",
       "link": "https://skycircl.es/donate/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Stuck with Pound",
       "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
+    },
+    {
+      "rank": "30.",
+      "title": "Ultraviolet Hubble Movie",
+      "link": "http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html"
     }
   ],
   "metadata": {
