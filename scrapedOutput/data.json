@@ -27,43 +27,43 @@
     },
     {
       "rank": "6.",
-      "title": "Simple, open source alternative to Google Analytics",
-      "link": "https://umami.is/"
-    },
-    {
-      "rank": "7.",
-      "title": "Modeling a Wealth Tax",
-      "link": "http://paulgraham.com/wtax.html"
-    },
-    {
-      "rank": "8.",
-      "title": "Show HN: GA Insights – Never Log into Google Analytics Again",
-      "link": "item?id=24199806"
-    },
-    {
-      "rank": "9.",
-      "title": "Freelance Legal Help",
-      "link": "https://freelanceforlaw.com/"
-    },
-    {
-      "rank": "10.",
-      "title": "If Founders Treated Their Investors the Same Way They Treated Their Employees",
-      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
-    },
-    {
-      "rank": "11.",
       "title": "Show HN: Archivy – Self Hosted Knowledge Base embedded into your filesystem",
       "link": "https://github.com/Uzay-G/archivy"
     },
     {
-      "rank": "12.",
+      "rank": "7.",
+      "title": "Simple, open source alternative to Google Analytics",
+      "link": "https://umami.is/"
+    },
+    {
+      "rank": "8.",
+      "title": "Modeling a Wealth Tax",
+      "link": "http://paulgraham.com/wtax.html"
+    },
+    {
+      "rank": "9.",
+      "title": "If Founders Treated Their Investors the Same Way They Treated Their Employees",
+      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
+    },
+    {
+      "rank": "10.",
+      "title": "Show HN: GA Insights – Never Log into Google Analytics Again",
+      "link": "item?id=24199806"
+    },
+    {
+      "rank": "11.",
       "title": "Graphical Linear Algebra",
       "link": "https://graphicallinearalgebra.net/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Architecture of the Nintendo DS",
       "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
+    },
+    {
+      "rank": "13.",
+      "title": "The ‘Batman Effect’: How having an alter ego empowers you",
+      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "OneSignal is hiring a Back end Engineer interested in writing in Go and Rust",
-      "link": "https://onesignal.com/careers/9a60a245-06d9-4e2a-82fb-da5e1e9d22d8"
+      "title": "Ask HN: How do you switch off from work, particularly when WFH?",
+      "link": "item?id=24196433"
     },
     {
       "rank": "16.",
@@ -82,23 +82,23 @@
     },
     {
       "rank": "17.",
-      "title": "The ‘Batman Effect’: How having an alter ego empowers you",
-      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
+      "title": "OneSignal is hiring a Back end Engineer interested in writing in Go and Rust",
+      "link": "https://onesignal.com/careers/9a60a245-06d9-4e2a-82fb-da5e1e9d22d8"
     },
     {
       "rank": "18.",
-      "title": "Ask HN: How do you switch off from work, particularly when WFH?",
-      "link": "item?id=24196433"
-    },
-    {
-      "rank": "19.",
       "title": "Samsung committing to three generations of Android OS upgrades",
       "link": "https://news.samsung.com/global/samsung-raises-the-bar-for-mobile-experience-innovation-committing-to-three-generations-of-android-os-upgrades"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Kotlin 1.4",
       "link": "https://android-developers.googleblog.com/2020/08/new-language-features-and-more-in.html"
+    },
+    {
+      "rank": "20.",
+      "title": "Viola Web Browser (2009)",
+      "link": "http://viola.org/"
     },
     {
       "rank": "21.",
@@ -112,28 +112,28 @@
     },
     {
       "rank": "23.",
-      "title": "Accused Spy Alexander Yuk Ching Ma Beat the Polygraph to Penetrate the FBI",
-      "link": "https://antipolygraph.org/blog/2020/08/18/accused-spy-alexander-yuk-ching-ma-evidently-beat-the-polygraph-to-penetrate-the-fbi/"
-    },
-    {
-      "rank": "24.",
-      "title": "Prosopagnosia: The artist in search of her face",
-      "link": "https://www.bbc.co.uk/news/stories-53192821"
-    },
-    {
-      "rank": "25.",
-      "title": "Fossilised 429-million-year-old eye mirrors modern insect vision",
-      "link": "https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html"
-    },
-    {
-      "rank": "26.",
       "title": "Wuhan coronavirus: From silent streets to packed pools",
       "link": "https://www.bbc.com/news/world-asia-china-53816511"
     },
     {
-      "rank": "27.",
+      "rank": "24.",
       "title": "NumPy another Iverson Ghost (2018)",
       "link": "https://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/"
+    },
+    {
+      "rank": "25.",
+      "title": "Accused Spy Alexander Yuk Ching Ma Beat the Polygraph to Penetrate the FBI",
+      "link": "https://antipolygraph.org/blog/2020/08/18/accused-spy-alexander-yuk-ching-ma-evidently-beat-the-polygraph-to-penetrate-the-fbi/"
+    },
+    {
+      "rank": "26.",
+      "title": "Fossilised 429-million-year-old eye mirrors modern insect vision",
+      "link": "https://phys.org/news/2020-08-million-year-old-eye-view-trilobite-life.html"
+    },
+    {
+      "rank": "27.",
+      "title": "Prosopagnosia: The artist in search of her face",
+      "link": "https://www.bbc.co.uk/news/stories-53192821"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Apple announces Apple Music radio",
-      "link": "https://www.apple.com/newsroom/2020/08/apple-announces-apple-music-radio/"
+      "title": "Slate, create beautiful, responsive API documentation",
+      "link": "https://github.com/slatedocs/slate"
     }
   ],
   "metadata": {
