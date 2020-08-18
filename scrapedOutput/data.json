@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Canon's cloud platform has lost users' files and can't restore them",
-      "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
+      "title": "Language-Agnostic Bert Sentence Embedding",
+      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
     },
     {
       "rank": "7.",
-      "title": "Language-Agnostic Bert Sentence Embedding",
-      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
+      "title": "Canon's cloud platform has lost users' files and can't restore them",
+      "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     },
     {
       "rank": "8.",
@@ -52,93 +52,93 @@
     },
     {
       "rank": "11.",
-      "title": "Microsoft’s ‘can’t uninstall Microsoft Edge’ support page",
-      "link": "https://www.theverge.com/2020/8/17/21372846/microsoft-cant-uninstall-microsoft-edge-web-browser-editorial"
+      "title": "ANSI Z535 Compliant Safety Sign Generator",
+      "link": "https://observatory.db.erau.edu/generators/signs/"
     },
     {
       "rank": "12.",
-      "title": "Allowing CMake Functions to Return(value)",
-      "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
-    },
-    {
-      "rank": "13.",
-      "title": "Modeling a Wealth Tax",
-      "link": "http://paulgraham.com/wtax.html"
-    },
-    {
-      "rank": "14.",
-      "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
-      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
-    },
-    {
-      "rank": "15.",
-      "title": "Graphical Linear Algebra",
-      "link": "https://graphicallinearalgebra.net/"
-    },
-    {
-      "rank": "16.",
-      "title": "Backblaze Hard Drive Stats Q2 2020",
-      "link": "https://www.backblaze.com/blog/backblaze-hard-drive-stats-q2-2020/"
-    },
-    {
-      "rank": "17.",
-      "title": "Simple, open source alternative to Google Analytics",
-      "link": "https://umami.is/"
-    },
-    {
-      "rank": "18.",
-      "title": "Laying the foundation for Rust’s future",
-      "link": "https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html"
-    },
-    {
-      "rank": "19.",
-      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
-      "link": "https://www.workatastartup.com/techtalk"
-    },
-    {
-      "rank": "20.",
-      "title": "Architecture of the Nintendo DS",
-      "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
-    },
-    {
-      "rank": "21.",
-      "title": "An Ecology of Mind: A daughter's portrait of Gregory Bateson",
-      "link": "http://www.anecologyofmind.com/thefilm.html"
-    },
-    {
-      "rank": "22.",
       "title": "A single metric to drive Customer Success teams",
       "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
     },
     {
-      "rank": "23.",
-      "title": "How to give access to AWS resources without creating 100s of IAM Users?",
-      "link": "https://blog.rajanpanchal.net/how-to-give-access-to-aws-resources-without-creating-100s-of-iam-users-ckds91qj100pf97s1gc3v8vwb"
+      "rank": "13.",
+      "title": "Allowing cmake functions to return(value)",
+      "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
     },
     {
-      "rank": "24.",
+      "rank": "14.",
+      "title": "Modeling a Wealth Tax",
+      "link": "http://paulgraham.com/wtax.html"
+    },
+    {
+      "rank": "15.",
+      "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
+      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
+    },
+    {
+      "rank": "16.",
+      "title": "Graphical Linear Algebra",
+      "link": "https://graphicallinearalgebra.net/"
+    },
+    {
+      "rank": "17.",
+      "title": "Backblaze Hard Drive Stats Q2 2020",
+      "link": "https://www.backblaze.com/blog/backblaze-hard-drive-stats-q2-2020/"
+    },
+    {
+      "rank": "18.",
+      "title": "Simple, open source alternative to Google Analytics",
+      "link": "https://umami.is/"
+    },
+    {
+      "rank": "19.",
+      "title": "Architecture of the Nintendo DS",
+      "link": "https://www.copetti.org/projects/consoles/nintendo-ds/"
+    },
+    {
+      "rank": "20.",
+      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
+      "link": "https://www.workatastartup.com/techtalk"
+    },
+    {
+      "rank": "21.",
+      "title": "Laying the foundation for Rust’s future",
+      "link": "https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html"
+    },
+    {
+      "rank": "22.",
+      "title": "An Ecology of Mind: A daughter's portrait of Gregory Bateson",
+      "link": "http://www.anecologyofmind.com/thefilm.html"
+    },
+    {
+      "rank": "23.",
       "title": "If Founders Treated Their Investors the Same Way They Treated Their Employees",
       "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
     },
     {
+      "rank": "24.",
+      "title": "How to give access to AWS resources without creating 100s of IAM Users?",
+      "link": "https://blog.rajanpanchal.net/how-to-give-access-to-aws-resources-without-creating-100s-of-iam-users-ckds91qj100pf97s1gc3v8vwb"
+    },
+    {
       "rank": "25.",
-      "title": "Ask HN: How do you switch off from work, particularly when working from home?",
-      "link": "item?id=24196433"
-    },
-    {
-      "rank": "26.",
-      "title": "Investor revolt and legal dispute delay Filecoin plans",
-      "link": "https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html"
-    },
-    {
-      "rank": "27.",
       "title": "1-Euro Houses",
       "link": "https://1eurohouses.com/case-a-1-euro-houses/"
     },
     {
+      "rank": "26.",
+      "title": "An example of how brands build fake reviews on Amazon",
+      "link": "https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"
+    },
+    {
+      "rank": "27.",
+      "title": "Investor revolt and legal dispute delay Filecoin plans",
+      "link": "https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html"
+    },
+    {
       "rank": "28.",
-      "title": "ANSI Z535 Compliant Safety Sign Generator",
-      "link": "https://observatory.db.erau.edu/generators/signs/"
+      "title": "Ask HN: How do you switch off from work, particularly when working from home?",
+      "link": "item?id=24196433"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "An example of how brands build fake reviews on Amazon",
-      "link": "https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"
+      "title": "Kotlin 1.4",
+      "link": "https://blog.jetbrains.com/kotlin/2020/08/kotlin-1-4-released-with-a-focus-on-quality-and-performance/"
     }
   ],
   "metadata": {
