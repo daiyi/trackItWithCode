@@ -2,7 +2,7 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Canon's cloud platform has lost users' files – and it CAN'T restore them",
+      "title": "Canon's cloud platform has lost users' files – and it can't restore them",
       "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     },
     {
@@ -22,53 +22,53 @@
     },
     {
       "rank": "5.",
+      "title": "The life-changing love of one of the 20th century’s greatest physicists",
+      "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
+    },
+    {
+      "rank": "6.",
       "title": "Apple expands independent repair program to Mac after US antitrust investigation",
       "link": "https://techcrunch.com/2020/08/17/apple-expands-its-independent-repair-program-to-mac-after-us-antitrust-investigation-examined-companys-repair-policies/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "2.5M Medical Records Leaked by AI Company",
       "link": "https://securethoughts.com/medical-data-of-auto-accident-victims-exposed-online/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "An Ecology of Mind",
       "link": "http://www.anecologyofmind.com/thefilm.html"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Let's Learn x86-64 Assembly Part 0 – Setup and First Steps",
       "link": "https://gpfault.net/posts/asm-tut-0.txt.html"
     },
     {
-      "rank": "9.",
-      "title": "Karpathy's MinGPT",
-      "link": "https://github.com/karpathy/minGPT"
-    },
-    {
       "rank": "10.",
-      "title": "Create and view interactive cheatsheets on the command-line",
-      "link": "https://github.com/cheat/cheat"
-    },
-    {
-      "rank": "11.",
       "title": "The Computational Limits of Deep Learning",
       "link": "https://arxiv.org/abs/2007.05558"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Show HN: Dropbase 2.0 – Turn offline files into live databases",
       "link": "https://www.dropbase.io/"
     },
     {
+      "rank": "12.",
+      "title": "Create and view interactive cheatsheets on the command-line",
+      "link": "https://github.com/cheat/cheat"
+    },
+    {
       "rank": "13.",
-      "title": "Essential Coding Theory [pdf]",
-      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
+      "title": "Ask HN: How do you switch off from work, particularly when WFH?",
+      "link": "item?id=24196433"
     },
     {
       "rank": "14.",
-      "title": "We should discuss soil as much as coal (2019)",
-      "link": "https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal"
+      "title": "Essential Coding Theory [pdf]",
+      "link": "https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"
     },
     {
       "rank": "15.",
@@ -77,48 +77,48 @@
     },
     {
       "rank": "16.",
-      "title": "The Last of the Hedgehogs: René Girard",
-      "link": "https://lareviewofbooks.org/article/the-last-of-the-hedgehogs"
-    },
-    {
-      "rank": "17.",
       "title": "Using, Understanding, and Unraveling the OCaml Language",
       "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Understanding Recursive Queries in PostgreSQL",
       "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
     },
     {
-      "rank": "19.",
-      "title": "Stuck with Pound",
-      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
+      "rank": "18.",
+      "title": "The Last of the Hedgehogs: René Girard",
+      "link": "https://lareviewofbooks.org/article/the-last-of-the-hedgehogs"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
     },
     {
-      "rank": "21.",
-      "title": "Projected growth of Tiger Mosquito range in northeastern US (2013)",
-      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/"
-    },
-    {
-      "rank": "22.",
+      "rank": "20.",
       "title": "Impossible Figures Library",
       "link": "https://im-possible.info/english/library/index.html"
     },
     {
+      "rank": "21.",
+      "title": "Stuck with Pound",
+      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
+    },
+    {
+      "rank": "22.",
+      "title": "Projected growth of Tiger Mosquito range in northeastern US (2013)",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3614918/"
+    },
+    {
       "rank": "23.",
-      "title": "Ultraviolet Hubble Movie",
-      "link": "http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html"
+      "title": "A circuit-like notation for lambda calculus (2015)",
+      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
     },
     {
       "rank": "24.",
-      "title": "Ask HN: How do you switch off from work, particularly when WFH?",
-      "link": "item?id=24196433"
+      "title": "A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)",
+      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
     },
     {
       "rank": "25.",
@@ -127,23 +127,23 @@
     },
     {
       "rank": "26.",
-      "title": "A circuit-like notation for lambda calculus (2015)",
-      "link": "https://csvoss.com/circuit-notation-lambda-calculus"
+      "title": "Ultraviolet Hubble Movie",
+      "link": "http://www.planetarylightshow.com/europa/prop_15424/v16-odr316bcq.html"
     },
     {
       "rank": "27.",
-      "title": "A $10B Experimental City Nearly Got Built in Rural Minnesota (2018)",
-      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
-    },
-    {
-      "rank": "28.",
       "title": "What’s Flying Above Us?",
       "link": "https://skycircl.es/donate/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Spectrum Analyzer Software for OpenRAMAN",
       "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
+    },
+    {
+      "rank": "29.",
+      "title": "Here’s an example of how brands build fake reviews on Amazon",
+      "link": "https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"
     },
     {
       "rank": "30.",
