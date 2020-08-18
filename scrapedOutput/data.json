@@ -57,23 +57,23 @@
     },
     {
       "rank": "12.",
+      "title": "Create and view interactive cheatsheets on the command-line",
+      "link": "https://github.com/cheat/cheat"
+    },
+    {
+      "rank": "13.",
       "title": "We should discuss soil as much as coal (2019)",
       "link": "https://www.gatesnotes.com/Energy/We-should-discuss-soil-as-much-as-coal"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Launch HN: Batch (YC S20) – Replays for event-driven systems",
       "link": "item?id=24188214"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Understanding Recursive Queries in PostgreSQL",
       "link": "https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/"
-    },
-    {
-      "rank": "15.",
-      "title": "Create and view interactive cheatsheets on the command-line",
-      "link": "https://github.com/cheat/cheat"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Rolling blackouts in California have power experts stumped",
-      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
+      "title": "Stuck with Pound",
+      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
     },
     {
       "rank": "18.",
-      "title": "A $10B domed experimental city nearly got built in rural Minnesota",
-      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
+      "title": "Rolling blackouts in California have power experts stumped",
+      "link": "https://www.nytimes.com/2020/08/16/business/california-blackouts.html"
     },
     {
       "rank": "19.",
@@ -97,33 +97,33 @@
     },
     {
       "rank": "20.",
+      "title": "A $10B domed experimental city nearly got built in rural Minnesota",
+      "link": "https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/"
+    },
+    {
+      "rank": "21.",
       "title": "Apple, Epic, and the App Store",
       "link": "https://stratechery.com/2020/apple-epic-and-the-app-store/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Spectrum Analyzer Software for OpenRAMAN",
       "link": "http://www.thepulsar.be/article/spectrum-analyzer-software-for-openraman"
     },
     {
-      "rank": "22.",
-      "title": "Historian's Cookbook: We All Scream for Ice Cream (2018)",
-      "link": "https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream"
-    },
-    {
       "rank": "23.",
-      "title": "Stuck with Pound",
-      "link": "https://kirkcenter.org/reviews/stuck-with-pound/"
-    },
-    {
-      "rank": "24.",
       "title": "Using, Understanding, and Unraveling the OCaml Language",
       "link": "http://caml.inria.fr/pub/docs/u3-ocaml/index.html"
     },
     {
+      "rank": "24.",
+      "title": "Historian's Cookbook: We All Scream for Ice Cream (2018)",
+      "link": "https://www.historytoday.com/archive/historians-cookbook/we-all-scream-ice-cream"
+    },
+    {
       "rank": "25.",
-      "title": "U.S. states seek $2.2T from OxyContin maker Purdue Pharma",
-      "link": "https://www.reuters.com/article/us-purdue-pharma-investigations-opioids/u-s-states-seek-2-2-trillion-from-oxycontin-maker-purdue-pharma-filings-idUSKCN25D2EG"
+      "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
+      "link": "https://kliu.io/post/yubico-magic-unlock/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Using a Yubikey as a touchless, magic unlock key for Linux",
-      "link": "https://kliu.io/post/yubico-magic-unlock/"
-    },
-    {
-      "rank": "28.",
       "title": "Show HN: Dungeon Map Doodler – Free online map drawing tool",
       "link": "https://dungeonmapdoodler.com/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "A Twist on Schrödinger's Cat Paradox",
       "link": "https://www.scientificamerican.com/article/this-twist-on-schroedingers-cat-paradox-has-major-implications-for-quantum-theory/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Show HN: Search the text of articles submitted to HN, with live updating",
       "link": "https://hndex.ml/"
+    },
+    {
+      "rank": "30.",
+      "title": "Apple to kill Epic’s accounts on Friday the 28th",
+      "link": "https://twitter.com/EpicNewsroom/status/1295430127455596544"
     }
   ],
   "metadata": {
