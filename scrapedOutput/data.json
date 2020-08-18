@@ -2,7 +2,7 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Faceboook account now required to login to Oculus devices",
+      "title": "Facebook account now required to login to Oculus devices",
       "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
     },
     {
@@ -32,28 +32,28 @@
     },
     {
       "rank": "7.",
-      "title": "ANSI Z535 Compliant Safety Sign Generator",
-      "link": "https://observatory.db.erau.edu/generators/signs/"
-    },
-    {
-      "rank": "8.",
       "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
       "link": "https://github.com/Uzay-G/archivy"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Canon's cloud platform has lost users' files and can't restore them",
       "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     },
     {
+      "rank": "9.",
+      "title": "ANSI Z535 Compliant Safety Sign Generator",
+      "link": "https://observatory.db.erau.edu/generators/signs/"
+    },
+    {
       "rank": "10.",
-      "title": "Users as people and the participatory economy",
-      "link": "https://sariazout.substack.com/p/check-your-pulse-50"
+      "title": "Xplain – Explaining X11 for the rest of us (2017)",
+      "link": "https://magcius.github.io/xplain/article/"
     },
     {
       "rank": "11.",
-      "title": "Xplain – Explaining X11 for the rest of us (2017)",
-      "link": "https://magcius.github.io/xplain/article/"
+      "title": "Users as people and the participatory economy",
+      "link": "https://sariazout.substack.com/p/check-your-pulse-50"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
-      "title": "Lost Advanced Civilizations",
-      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
+      "title": "An old Goderich salt mine could one day save you money on your hydro bill (2019)",
+      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
     },
     {
       "rank": "14.",
-      "title": "‘Oumuamua: A Hydrogen Iceberg?",
-      "link": "https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/"
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
     },
     {
       "rank": "15.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
+      "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
+      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
-      "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
-      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
+      "title": "Modeling a Wealth Tax",
+      "link": "http://paulgraham.com/wtax.html"
     },
     {
       "rank": "18.",
-      "title": "An old Goderich salt mine could one day save you money on your hydro bill (2019)",
-      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
+      "title": "‘Oumuamua: A Hydrogen Iceberg?",
+      "link": "https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/"
     },
     {
       "rank": "19.",
-      "title": "Modeling a Wealth Tax",
-      "link": "http://paulgraham.com/wtax.html"
+      "title": "Lost Advanced Civilizations",
+      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
     },
     {
       "rank": "20.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "Backblaze Hard Drive Stats Q2 2020",
-      "link": "https://www.backblaze.com/blog/backblaze-hard-drive-stats-q2-2020/"
+      "title": "An example of how brands build fake reviews on Amazon",
+      "link": "https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"
     },
     {
       "rank": "25.",
-      "title": "An example of how brands build fake reviews on Amazon",
-      "link": "https://www.reddit.com/r/Supplements/comments/g19a1w/heres_a_brand_thats_building_its_reviews_steadily/"
+      "title": "Backblaze Hard Drive Stats Q2 2020",
+      "link": "https://www.backblaze.com/blog/backblaze-hard-drive-stats-q2-2020/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
-      "link": "https://www.workatastartup.com/techtalk"
-    },
-    {
-      "rank": "28.",
       "title": "Laying the foundation for Rust’s future",
       "link": "https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html"
     },
     {
+      "rank": "28.",
+      "title": "YC startups are hiring at YC's Lightning Tech Talks on Sept 10th",
+      "link": "https://www.workatastartup.com/techtalk"
+    },
+    {
       "rank": "29.",
-      "title": "Shadow traffic: site visits that are not captured by typical analytics providers",
-      "link": "https://blog.parse.ly/post/9616/shadow-traffic-why-your-traffic-numbers-are-off-by-20/"
+      "title": "If founders treated their investors the same way they treated their employees",
+      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
     },
     {
       "rank": "30.",
-      "title": "If founders treated their investors the same way they treated their employees",
-      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
+      "title": "Shadow traffic: site visits that are not captured by typical analytics providers",
+      "link": "https://blog.parse.ly/post/9616/shadow-traffic-why-your-traffic-numbers-are-off-by-20/"
     }
   ],
   "metadata": {
