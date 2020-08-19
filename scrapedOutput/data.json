@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
-    },
-    {
-      "rank": "2.",
-      "title": "Most “mandatory requirements” in corporations are imaginary",
-      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
-    },
-    {
-      "rank": "3.",
       "title": "Show HN: theheadless.dev – open source Puppeteer and Playwright knowledge base",
       "link": "https://theheadless.dev/"
     },
     {
+      "rank": "2.",
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+    },
+    {
+      "rank": "3.",
+      "title": "Most “mandatory requirements” in corporations are imaginary",
+      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
+    },
+    {
       "rank": "4.",
-      "title": "Researchers can duplicate keys from the sounds they make in locks",
-      "link": "https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks"
+      "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
+      "link": "item?id=24208958"
     },
     {
       "rank": "5.",
-      "title": "RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0",
-      "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
+      "title": "Researchers can duplicate keys from the sounds they make in locks",
+      "link": "https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks"
     },
     {
       "rank": "6.",
@@ -32,23 +32,23 @@
     },
     {
       "rank": "7.",
+      "title": "RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0",
+      "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
+    },
+    {
+      "rank": "8.",
       "title": "How many pieces can a puzzle have?",
       "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
       "link": "https://github.com/alias-rahil/handwritten.js#README.md"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
       "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
-    },
-    {
-      "rank": "10.",
-      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
-      "link": "https://github.com/TimeToogo/tunshell"
     },
     {
       "rank": "11.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Humanly Traversable Wormholes",
-      "link": "https://arxiv.org/abs/2008.06618"
+      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
+      "link": "https://github.com/TimeToogo/tunshell"
     },
     {
       "rank": "13.",
-      "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
-      "link": "item?id=24208958"
+      "title": "Humanly Traversable Wormholes",
+      "link": "https://arxiv.org/abs/2008.06618"
     },
     {
       "rank": "14.",
@@ -77,18 +77,18 @@
     },
     {
       "rank": "16.",
-      "title": "Voxel Plotting with Gnuplot 5.4",
-      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
-    },
-    {
-      "rank": "17.",
       "title": "APL386 Unicode – An APL Font",
       "link": "https://abrudz.github.io/APL386/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "The Consortium for Python Data API Standards",
       "link": "https://data-apis.org/blog/announcing_the_consortium/"
+    },
+    {
+      "rank": "18.",
+      "title": "Voxel Plotting with Gnuplot 5.4",
+      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
     },
     {
       "rank": "19.",
@@ -102,23 +102,23 @@
     },
     {
       "rank": "21.",
-      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
-      "link": "https://fofpx.com/?pid=graphingcalculator"
-    },
-    {
-      "rank": "22.",
-      "title": "Senior Full Stack Engineer",
-      "link": "https://apply.workable.com/jerry/j/FA1F4C0876/"
-    },
-    {
-      "rank": "23.",
       "title": "Umami: Self-hosted open-source alternative to Google Analytics",
       "link": "https://umami.is/"
     },
     {
-      "rank": "24.",
+      "rank": "22.",
+      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
+      "link": "https://fofpx.com/?pid=graphingcalculator"
+    },
+    {
+      "rank": "23.",
       "title": "Black Sky satellites return images just 58 hours after launch",
       "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
+    },
+    {
+      "rank": "24.",
+      "title": "Senior Full Stack Engineer",
+      "link": "https://apply.workable.com/jerry/j/FA1F4C0876/"
     },
     {
       "rank": "25.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
+      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
+      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
+    },
+    {
+      "rank": "27.",
       "title": "Ask HN: Is a SaaS provider expected to have a trademark in every country?",
       "link": "item?id=24195375"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Old salt mine is the first emission-free compressed air energy facility (2019)",
       "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
-    },
-    {
-      "rank": "28.",
-      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
-      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
     },
     {
       "rank": "29.",
