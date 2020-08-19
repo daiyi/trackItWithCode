@@ -27,88 +27,88 @@
     },
     {
       "rank": "6.",
-      "title": "ReadMe (YC W15) is hiring a Head of Marketing with developer experience",
-      "link": "https://readme.com/careers#head-of-marketing"
-    },
-    {
-      "rank": "7.",
-      "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
-      "link": "https://arxiv.org/abs/2008.07699"
-    },
-    {
-      "rank": "8.",
-      "title": "My kid can’t handle a virtual education, and neither can I",
-      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
-    },
-    {
-      "rank": "9.",
-      "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
-      "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
-    },
-    {
-      "rank": "10.",
-      "title": "Rust and C++ Interoperability in Chrome",
-      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
-    },
-    {
-      "rank": "11.",
-      "title": "What harm do minimum wages do?",
-      "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
-    },
-    {
-      "rank": "12.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
-    },
-    {
-      "rank": "13.",
-      "title": "Mexico moves to ban junk food sales to children, citing obesity",
-      "link": "https://www.washingtonpost.com/business/2020/08/19/mexico-kids-junk-food-ban/"
-    },
-    {
-      "rank": "14.",
-      "title": "Titan in Depth: Security in Plaintext",
-      "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
-    },
-    {
-      "rank": "15.",
-      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
-      "link": "https://theheadless.dev/"
-    },
-    {
-      "rank": "16.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
-    },
-    {
-      "rank": "17.",
       "title": "Netflix Conductor: An Open Source Workflow Orchestration Engine",
       "link": "https://netflix.github.io/conductor/"
     },
     {
+      "rank": "7.",
+      "title": "My kid can’t handle a virtual education, and neither can I",
+      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
+    },
+    {
+      "rank": "8.",
+      "title": "ReadMe (YC W15) is hiring a Head of Marketing with developer experience",
+      "link": "https://readme.com/careers#head-of-marketing"
+    },
+    {
+      "rank": "9.",
+      "title": "Rust and C++ Interoperability in Chrome",
+      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
+    },
+    {
+      "rank": "10.",
+      "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
+      "link": "https://arxiv.org/abs/2008.07699"
+    },
+    {
+      "rank": "11.",
+      "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
+      "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
+    },
+    {
+      "rank": "12.",
+      "title": "What harm do minimum wages do?",
+      "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
+    },
+    {
+      "rank": "13.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
+    },
+    {
+      "rank": "14.",
+      "title": "Mexico moves to ban junk food sales to children, citing obesity",
+      "link": "https://www.washingtonpost.com/business/2020/08/19/mexico-kids-junk-food-ban/"
+    },
+    {
+      "rank": "15.",
+      "title": "Deep Dive into Filecoin",
+      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
+    },
+    {
+      "rank": "16.",
+      "title": "Titan in Depth: Security in Plaintext",
+      "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
+    },
+    {
+      "rank": "17.",
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+    },
+    {
       "rank": "18.",
-      "title": "Things the Most Successful People I Know Struggle with to Be Happy",
-      "link": "https://leowid.com/the-7-things-the-most-successful-people-i-know-struggle-with-to-be-happy/"
+      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
+      "link": "https://theheadless.dev/"
     },
     {
       "rank": "19.",
-      "title": "Most “mandatory requirements” in corporations are imaginary",
-      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
-    },
-    {
-      "rank": "20.",
-      "title": "Germany begins 3-year universal-basic-income trial",
-      "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
-    },
-    {
-      "rank": "21.",
       "title": "How Happy Couples Argue: Study (2019)",
       "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
     },
     {
+      "rank": "20.",
+      "title": "Most “mandatory requirements” in corporations are imaginary",
+      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
+    },
+    {
+      "rank": "21.",
+      "title": "Germany begins 3-year universal-basic-income trial",
+      "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
+    },
+    {
       "rank": "22.",
-      "title": "Deep Dive into Filecoin",
-      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
+      "title": "Erlang: The New Scalable ETS Ordered_set",
+      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
     },
     {
       "rank": "23.",
@@ -117,28 +117,28 @@
     },
     {
       "rank": "24.",
-      "title": "Erlang: The New Scalable ETS Ordered_set",
-      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
-    },
-    {
-      "rank": "25.",
       "title": "Mousemacs – A mouse-driven Emacs",
       "link": "https://github.com/corvideon/mousemacs"
     },
     {
-      "rank": "26.",
-      "title": "Apple becomes first U.S. company to reach a $2T market cap",
-      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
+      "rank": "25.",
+      "title": "Graphics Programming Projects",
+      "link": "http://graphicscodex.com/projects/projects/index.html"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "How many pieces can a puzzle have?",
       "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
     },
     {
+      "rank": "27.",
+      "title": "Apple becomes first U.S. company to reach a $2T market cap",
+      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
+    },
+    {
       "rank": "28.",
-      "title": "Graphics Programming Projects",
-      "link": "http://graphicscodex.com/projects/projects/index.html"
+      "title": "Things the Most Successful People I Know Struggle with to Be Happy",
+      "link": "https://leowid.com/the-7-things-the-most-successful-people-i-know-struggle-with-to-be-happy/"
     },
     {
       "rank": "29.",
