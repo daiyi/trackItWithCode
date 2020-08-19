@@ -7,33 +7,33 @@
     },
     {
       "rank": "2.",
-      "title": "Researchers Can Duplicate Keys from the Sounds They Make in Locks",
+      "title": "Researchers can duplicate keys from the sounds they make in locks",
       "link": "https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks"
     },
     {
       "rank": "3.",
-      "title": "Zillow 2020 Urban-Suburban Market Report",
-      "link": "https://www.zillow.com/research/2020-urb-suburb-market-report-27712/"
-    },
-    {
-      "rank": "4.",
       "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
       "link": "https://github.com/alias-rahil/handwritten.js#README.md"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Umami: Self-hosted open-source alternative to Google Analytics",
       "link": "https://umami.is/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "The Death of Corporate Research Labs",
       "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Humanly Traversable Wormholes",
       "link": "https://arxiv.org/abs/2008.06618"
+    },
+    {
+      "rank": "7.",
+      "title": "Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors",
+      "link": "https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/"
     },
     {
       "rank": "8.",
@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
-      "title": "Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors",
-      "link": "https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/"
-    },
-    {
-      "rank": "10.",
       "title": "Black Sky satellites return images just 58 hours after launch",
       "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
     },
     {
+      "rank": "10.",
+      "title": "I’m A Teapot – HTTP status code 418",
+      "link": "https://httpstatuses.com/418"
+    },
+    {
       "rank": "11.",
-      "title": "APL386 Unicode – An APL Font",
-      "link": "https://abrudz.github.io/APL386/"
+      "title": "Haskell Mini-Patterns Handbook",
+      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
     },
     {
       "rank": "12.",
-      "title": "Haskell Mini-Patterns Handbook",
-      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
+      "title": "APL386 Unicode – An APL Font",
+      "link": "https://abrudz.github.io/APL386/"
     },
     {
       "rank": "13.",
@@ -82,53 +82,53 @@
     },
     {
       "rank": "17.",
-      "title": "A Virginia couple that gave birth to the billable hour",
-      "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
-    },
-    {
-      "rank": "18.",
       "title": "Lost Advanced Civilizations",
       "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
     },
     {
+      "rank": "18.",
+      "title": "An old Goderich salt mine could one day save you money on your hydro bill (2019)",
+      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
+    },
+    {
       "rank": "19.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
-    },
-    {
-      "rank": "20.",
-      "title": "Language-Agnostic Bert Sentence Embedding",
-      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
-    },
-    {
-      "rank": "21.",
       "title": "Effective Airflow Development",
       "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
     },
     {
+      "rank": "20.",
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
+    },
+    {
+      "rank": "21.",
+      "title": "Language-Agnostic Bert Sentence Embedding",
+      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
+    },
+    {
       "rank": "22.",
+      "title": "A Virginia couple that gave birth to the billable hour",
+      "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
+    },
+    {
+      "rank": "23.",
       "title": "‘Oumuamua: A Hydrogen Iceberg?",
       "link": "https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
+      "title": "Allowing CMake functions to return(value)",
+      "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
+    },
+    {
+      "rank": "25.",
       "title": "Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)",
       "link": "item?id=24206381"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
       "link": "https://github.com/airbnb/ts-migrate"
-    },
-    {
-      "rank": "25.",
-      "title": "ANSI Z535 Compliant Safety Sign Generator",
-      "link": "https://observatory.db.erau.edu/generators/signs/"
-    },
-    {
-      "rank": "26.",
-      "title": "Users as people and the participatory economy",
-      "link": "https://sariazout.substack.com/p/check-your-pulse-50"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Product Activity Coefficient: A single metric to drive customer success teams",
-      "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
+      "title": "Users as people and the participatory economy",
+      "link": "https://sariazout.substack.com/p/check-your-pulse-50"
     },
     {
       "rank": "29.",
-      "title": "Canon's cloud platform has lost users' files and can't restore them",
-      "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
+      "title": "ANSI Z535 Compliant Safety Sign Generator",
+      "link": "https://observatory.db.erau.edu/generators/signs/"
     },
     {
       "rank": "30.",
-      "title": "Investor revolt and legal dispute delay Filecoin plans",
-      "link": "https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html"
+      "title": "Product Activity Coefficient: A single metric to drive customer success teams",
+      "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
     }
   ],
   "metadata": {
