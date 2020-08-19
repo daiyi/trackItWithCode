@@ -47,108 +47,108 @@
     },
     {
       "rank": "10.",
-      "title": "The Anti-Capitalist Software License",
-      "link": "https://anticapitalist.software"
-    },
-    {
-      "rank": "11.",
       "title": "Haskell Mini-Patterns Handbook",
       "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "APL386 Unicode – An APL Font",
       "link": "https://abrudz.github.io/APL386/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
       "link": "https://github.com/Uzay-G/archivy"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "The Consortium for Python Data API Standards",
       "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Xplain – Explaining X11 for the rest of us (2017)",
       "link": "https://magcius.github.io/xplain/article/"
     },
     {
-      "rank": "16.",
-      "title": "ANSI Z535 Compliant Safety Sign Generator",
-      "link": "https://observatory.db.erau.edu/generators/signs/"
-    },
-    {
-      "rank": "17.",
+      "rank": "15.",
       "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
       "link": "https://github.com/pibooth/pibooth"
     },
     {
-      "rank": "18.",
-      "title": "Effective Airflow Development",
-      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
-    },
-    {
-      "rank": "19.",
+      "rank": "16.",
       "title": "Language-Agnostic Bert Sentence Embedding",
       "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
     },
     {
-      "rank": "20.",
+      "rank": "17.",
       "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
       "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
     },
     {
-      "rank": "21.",
+      "rank": "18.",
       "title": "Lost Advanced Civilizations",
       "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
     },
     {
-      "rank": "22.",
+      "rank": "19.",
+      "title": "Effective Airflow Development",
+      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
+    },
+    {
+      "rank": "20.",
       "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
       "link": "item?id=24198114"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
+      "title": "ANSI Z535 Compliant Safety Sign Generator",
+      "link": "https://observatory.db.erau.edu/generators/signs/"
+    },
+    {
+      "rank": "22.",
       "title": "Product Activity Coefficient: A single metric to drive customer success teams",
       "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "‘Oumuamua: A Hydrogen Iceberg?",
       "link": "https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Users as people and the participatory economy",
       "link": "https://sariazout.substack.com/p/check-your-pulse-50"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "An old Goderich salt mine could one day save you money on your hydro bill (2019)",
       "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Modeling a Wealth Tax",
       "link": "http://paulgraham.com/wtax.html"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "The life-changing love of Paul Dirac (2015)",
       "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Canon's cloud platform has lost users' files and can't restore them",
       "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     },
     {
+      "rank": "29.",
+      "title": "Investor revolt and legal dispute delay Filecoin plans",
+      "link": "https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html"
+    },
+    {
       "rank": "30.",
-      "title": "Allowing CMake functions to return(value)",
-      "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
+      "title": "If founders treated their investors the same way they treated their employees",
+      "link": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/"
     }
   ],
   "metadata": {
