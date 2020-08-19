@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Show HN: theheadless.dev – open source Puppeteer and Playwright knowledge base",
-      "link": "https://theheadless.dev/"
+      "title": "The antibiotic paradox: why companies can’t afford to create life-saving drugs",
+      "link": "https://www.nature.com/articles/d41586-020-02418-x"
     },
     {
       "rank": "2.",
-      "title": "The antibiotic paradox: why companies can’t afford to create life-saving drugs",
-      "link": "https://www.nature.com/articles/d41586-020-02418-x"
+      "title": "Show HN: theheadless.dev – open source Puppeteer and Playwright knowledge base",
+      "link": "https://theheadless.dev/"
     },
     {
       "rank": "3.",
@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
     },
     {
       "rank": "6.",
@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Mousemacs – A mouse-driven Emacs",
-      "link": "https://github.com/corvideon/mousemacs"
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
       "rank": "8.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
+      "title": "Mousemacs – A mouse-driven Emacs",
+      "link": "https://github.com/corvideon/mousemacs"
     },
     {
       "rank": "9.",
@@ -77,28 +77,28 @@
     },
     {
       "rank": "16.",
-      "title": "How Not to Photograph Sex Workers",
-      "link": "https://fstoppers.com/documentary/how-not-photograph-sex-workers-506874"
-    },
-    {
-      "rank": "17.",
       "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
       "link": "https://github.com/alias-rahil/handwritten.js#README.md"
     },
     {
-      "rank": "18.",
-      "title": "I’m A Teapot – HTTP status code 418",
-      "link": "https://httpstatuses.com/418"
+      "rank": "17.",
+      "title": "Ask HN: How to Become a Music Buff?",
+      "link": "item?id=24209025"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
       "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
     },
     {
+      "rank": "19.",
+      "title": "I’m A Teapot – HTTP status code 418",
+      "link": "https://httpstatuses.com/418"
+    },
+    {
       "rank": "20.",
-      "title": "Ask HN: How to Become a Music Buff?",
-      "link": "item?id=24209025"
+      "title": "IBM 3033 [pdf]",
+      "link": "http://www.bitsavers.org/pdf/ibm/3033/GC20-1859-4_3033_ProcessorComplex_Apr79.pdf"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
-      "link": "https://github.com/TimeToogo/tunshell"
+      "title": "Ask HN: Is a SaaS provider expected to have a trademark in every country?",
+      "link": "item?id=24195375"
     },
     {
       "rank": "23.",
-      "title": "Ask HN: Is a SaaS provider expected to have a trademark in every country?",
-      "link": "item?id=24195375"
+      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
+      "link": "https://github.com/TimeToogo/tunshell"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
-      "link": "https://github.com/airbnb/ts-migrate"
-    },
-    {
-      "rank": "26.",
-      "title": "Voxel Plotting with Gnuplot 5.4",
-      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
-    },
-    {
-      "rank": "27.",
-      "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
-      "link": "https://github.com/pibooth/pibooth"
-    },
-    {
-      "rank": "28.",
-      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
-      "link": "https://umami.is/"
-    },
-    {
-      "rank": "29.",
       "title": "The Consortium for Python Data API Standards",
       "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
-      "rank": "30.",
+      "rank": "26.",
+      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
+      "link": "https://umami.is/"
+    },
+    {
+      "rank": "27.",
       "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
       "link": "https://fofpx.com/?pid=graphingcalculator"
+    },
+    {
+      "rank": "28.",
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
+    },
+    {
+      "rank": "29.",
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+    },
+    {
+      "rank": "30.",
+      "title": "Mancala",
+      "link": "https://en.wikipedia.org/wiki/Mancala"
     }
   ],
   "metadata": {
