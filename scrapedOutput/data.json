@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
-    },
-    {
-      "rank": "2.",
-      "title": "Facebook account now required to login to Oculus devices",
-      "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
-    },
-    {
-      "rank": "3.",
       "title": "Most “mandatory requirements” in corporations are imaginary",
       "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
     },
     {
-      "rank": "4.",
+      "rank": "2.",
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+    },
+    {
+      "rank": "3.",
       "title": "Researchers can duplicate keys from the sounds they make in locks",
       "link": "https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "RetinaFace-tf2: state of the art face detection in TensorFlow 2.0",
       "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
+    },
+    {
+      "rank": "5.",
+      "title": "Facebook account now required to login to Oculus devices",
+      "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
     },
     {
       "rank": "6.",
@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
-      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
-      "link": "https://github.com/TimeToogo/tunshell"
-    },
-    {
-      "rank": "9.",
       "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
       "link": "https://github.com/alias-rahil/handwritten.js#README.md"
     },
     {
-      "rank": "10.",
-      "title": "The Death of Corporate Research Labs",
-      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+      "rank": "9.",
+      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
+      "link": "https://github.com/TimeToogo/tunshell"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
       "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Humanly Traversable Wormholes",
       "link": "https://arxiv.org/abs/2008.06618"
+    },
+    {
+      "rank": "12.",
+      "title": "Haskell Mini-Patterns Handbook",
+      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
     },
     {
       "rank": "13.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "Haskell Mini-Patterns Handbook",
-      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
+      "title": "Trump gives nod to Oracle buyout of TikTok in US",
+      "link": "https://www.bbc.com/news/business-53830533"
     },
     {
       "rank": "15.",
@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
-      "title": "Black Sky satellites return images just 58 hours after launch",
-      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
-    },
-    {
-      "rank": "17.",
       "title": "APL386 Unicode – An APL Font",
       "link": "https://abrudz.github.io/APL386/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "The Consortium for Python Data API Standards",
       "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
+      "rank": "18.",
+      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
+      "link": "https://fofpx.com/?pid=graphingcalculator"
+    },
+    {
       "rank": "19.",
-      "title": "A Lesson in Acceptance",
-      "link": "https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance"
+      "title": "Black Sky satellites return images just 58 hours after launch",
+      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Trump gives nod to Oracle buyout of TikTok in US",
-      "link": "https://www.bbc.com/news/business-53830533"
+      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
+      "link": "https://umami.is/"
     },
     {
       "rank": "22.",
-      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
-      "link": "https://umami.is/"
+      "title": "A Lesson in Acceptance",
+      "link": "https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance"
     },
     {
       "rank": "23.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
-      "link": "https://fofpx.com/?pid=graphingcalculator"
+      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
+      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
     },
     {
       "rank": "26.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
-      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
     },
     {
       "rank": "29.",
