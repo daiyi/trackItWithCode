@@ -27,28 +27,28 @@
     },
     {
       "rank": "6.",
+      "title": "Humanly Traversable Wormholes",
+      "link": "https://arxiv.org/abs/2008.06618"
+    },
+    {
+      "rank": "7.",
       "title": "The Death of Corporate Research Labs",
       "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
     },
     {
-      "rank": "7.",
-      "title": "Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors",
-      "link": "https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/"
-    },
-    {
       "rank": "8.",
-      "title": "Voxel Plotting with Gnuplot 5.4",
-      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
-    },
-    {
-      "rank": "9.",
       "title": "Black Sky satellites return images just 58 hours after launch",
       "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
     },
     {
+      "rank": "9.",
+      "title": "Voxel Plotting with Gnuplot 5.4",
+      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
+    },
+    {
       "rank": "10.",
-      "title": "Humanly Traversable Wormholes",
-      "link": "https://arxiv.org/abs/2008.06618"
+      "title": "Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors",
+      "link": "https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/"
     },
     {
       "rank": "11.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)",
-      "link": "item?id=24206381"
+      "title": "The Consortium for Python Data API Standards",
+      "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
       "rank": "13.",
-      "title": "APL386 Unicode – An APL Font",
-      "link": "https://abrudz.github.io/APL386/"
+      "title": "Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)",
+      "link": "item?id=24206381"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "The Consortium for Python Data API Standards",
-      "link": "https://data-apis.org/blog/announcing_the_consortium/"
+      "title": "APL386 Unicode – An APL Font",
+      "link": "https://abrudz.github.io/APL386/"
     },
     {
       "rank": "16.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
-      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
+      "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
+      "link": "https://github.com/pibooth/pibooth"
     },
     {
       "rank": "19.",
-      "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
-      "link": "https://github.com/pibooth/pibooth"
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
     },
     {
       "rank": "20.",
@@ -102,38 +102,38 @@
     },
     {
       "rank": "21.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
-    },
-    {
-      "rank": "22.",
       "title": "ANSI Z535 Compliant Safety Sign Generator",
       "link": "https://observatory.db.erau.edu/generators/signs/"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Lost Advanced Civilizations",
       "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "‘Oumuamua: A Hydrogen Iceberg?",
       "link": "https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Effective Airflow Development",
       "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Users as people and the participatory economy",
       "link": "https://sariazout.substack.com/p/check-your-pulse-50"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Product Activity Coefficient: A single metric to drive customer success teams",
       "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
+    },
+    {
+      "rank": "27.",
+      "title": "Modeling a Wealth Tax",
+      "link": "http://paulgraham.com/wtax.html"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Modeling a Wealth Tax",
-      "link": "http://paulgraham.com/wtax.html"
+      "title": "Canon's cloud platform has lost users' files and can't restore them",
+      "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     },
     {
       "rank": "30.",
-      "title": "The life-changing love of Paul Dirac (2015)",
-      "link": "https://theconversation.com/the-life-changing-love-of-one-of-the-20th-centurys-greatest-physicists-51229"
+      "title": "Investor revolt and legal dispute delay Filecoin plans",
+      "link": "https://www.axios.com/filecoin-blockchain-delay-3b5e6b9a-bcc8-41cf-81cf-563f6cebb2c4.html"
     }
   ],
   "metadata": {
