@@ -2,128 +2,128 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Secret Gyms and the Economics of Prohibition",
-      "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
-    },
-    {
-      "rank": "2.",
       "title": "Apple helped make 'top secret' iPod for US government",
       "link": "https://www.bbc.co.uk/news/technology-53835079"
     },
     {
+      "rank": "2.",
+      "title": "Secret Gyms and the Economics of Prohibition",
+      "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
+    },
+    {
       "rank": "3.",
-      "title": "'Coup 53' Tells the Story of 1953 Campaign by MI6 and CIA to Oust Iran's Leader",
-      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
-    },
-    {
-      "rank": "4.",
-      "title": "Fast.ai: Practical Data Ethics",
-      "link": "http://ethics.fast.ai"
-    },
-    {
-      "rank": "5.",
       "title": "Ultralight Lithium-Sulfur Batteries for Electric Airplanes",
       "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
     },
     {
+      "rank": "4.",
+      "title": "'Coup 53' Tells the Story of 1953 Campaign by MI6 and CIA to Oust Iran's Leader",
+      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
+    },
+    {
+      "rank": "5.",
+      "title": "Fast.ai: Practical Data Ethics",
+      "link": "http://ethics.fast.ai"
+    },
+    {
       "rank": "6.",
+      "title": "Remote Learning Is a Bad Joke",
+      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
+    },
+    {
+      "rank": "7.",
       "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
       "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
     },
     {
-      "rank": "7.",
-      "title": "Rust and C++ Interoperability in Chrome",
-      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
-    },
-    {
       "rank": "8.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
-    },
-    {
-      "rank": "9.",
-      "title": "Mexico moves to ban junk food sales to children, citing obesity",
-      "link": "https://www.washingtonpost.com/business/2020/08/19/mexico-kids-junk-food-ban/"
-    },
-    {
-      "rank": "10.",
-      "title": "Things the Most Successful People I Know Struggle with to Be Happy",
-      "link": "https://leowid.com/the-7-things-the-most-successful-people-i-know-struggle-with-to-be-happy/"
-    },
-    {
-      "rank": "11.",
-      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
-      "link": "https://theheadless.dev/"
-    },
-    {
-      "rank": "12.",
       "title": "What harm do minimum wages do?",
       "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
     },
     {
-      "rank": "13.",
-      "title": "Germany is beginning a 3y universal-basic-income trial with $1400/mo per person",
-      "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
-    },
-    {
-      "rank": "14.",
-      "title": "Most “mandatory requirements” in corporations are imaginary",
-      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
-    },
-    {
-      "rank": "15.",
-      "title": "AtomVM: Erlang on Microcontrollers",
-      "link": "https://github.com/bettio/AtomVM"
-    },
-    {
-      "rank": "16.",
-      "title": "UT Study: How Happy Couples Argue",
-      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
-    },
-    {
-      "rank": "17.",
-      "title": "Erlang: The New Scalable ETS Ordered_set",
-      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
-    },
-    {
-      "rank": "18.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
-    },
-    {
-      "rank": "19.",
+      "rank": "9.",
       "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
       "link": "https://arxiv.org/abs/2008.07699"
     },
     {
+      "rank": "10.",
+      "title": "Rust and C++ Interoperability in Chrome",
+      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
+    },
+    {
+      "rank": "11.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
+    },
+    {
+      "rank": "12.",
+      "title": "Mexico moves to ban junk food sales to children, citing obesity",
+      "link": "https://www.washingtonpost.com/business/2020/08/19/mexico-kids-junk-food-ban/"
+    },
+    {
+      "rank": "13.",
+      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
+      "link": "https://theheadless.dev/"
+    },
+    {
+      "rank": "14.",
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+    },
+    {
+      "rank": "15.",
+      "title": "Titan in Depth: Security in Plaintext",
+      "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
+    },
+    {
+      "rank": "16.",
+      "title": "Germany begins 3-year universal-basic-income trial",
+      "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
+    },
+    {
+      "rank": "17.",
+      "title": "Most “mandatory requirements” in corporations are imaginary",
+      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
+    },
+    {
+      "rank": "18.",
+      "title": "UT Study: How Happy Couples Argue (2019)",
+      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
+    },
+    {
+      "rank": "19.",
+      "title": "Things the Most Successful People I Know Struggle with to Be Happy",
+      "link": "https://leowid.com/the-7-things-the-most-successful-people-i-know-struggle-with-to-be-happy/"
+    },
+    {
       "rank": "20.",
-      "title": "Apple becomes first U.S. company to reach a $2T market cap",
-      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
+      "title": "Conventional Commits",
+      "link": "https://www.conventionalcommits.org/en/v1.0.0/"
     },
     {
       "rank": "21.",
+      "title": "Erlang: The New Scalable ETS Ordered_set",
+      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
+    },
+    {
+      "rank": "22.",
       "title": "Mousemacs – A mouse-driven Emacs",
       "link": "https://github.com/corvideon/mousemacs"
     },
     {
-      "rank": "22.",
-      "title": "Toddlers who use touchscreens show attention differences",
-      "link": "https://www.bath.ac.uk/announcements/toddlers-who-use-touchscreens-show-attention-differences/"
+      "rank": "23.",
+      "title": "Apple becomes first U.S. company to reach a $2T market cap",
+      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "How many pieces can a puzzle have?",
       "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Graphics Programming Projects",
       "link": "http://graphicscodex.com/projects/projects/index.html"
-    },
-    {
-      "rank": "25.",
-      "title": "GiveCampus (YC S15) hiring Sr Engineers who care about education",
-      "link": "https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Galileo's Proposed Authentication Algorithm: Part 1",
-      "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
+      "title": "Toddlers who use touchscreens show attention differences",
+      "link": "https://www.bath.ac.uk/announcements/toddlers-who-use-touchscreens-show-attention-differences/"
     },
     {
       "rank": "28.",
-      "title": "Micro frontends with Stacker",
-      "link": "https://dev.betterdoc.org/stacker/2020/06/26/micro-frontends-with-stacker.html"
+      "title": "GiveCampus (YC S15) hiring Sr Engineers who care about education",
+      "link": "https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "How to turn off Android TV's homescreen ads, 'staff picks'",
-      "link": "https://9to5google.com/2020/08/18/android-tv-homescreen-ads-turn-off-staff-picks/"
+      "title": "Galileo's Proposed Authentication Algorithm: Part 1",
+      "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
     }
   ],
   "metadata": {
