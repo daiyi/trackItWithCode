@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Zillow 2020 Urban-Suburban Market Report",
-      "link": "https://www.zillow.com/research/2020-urb-suburb-market-report-27712/"
+      "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
+      "link": "https://github.com/alias-rahil/handwritten.js#README.md"
     },
     {
       "rank": "4.",
-      "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
-      "link": "https://github.com/alias-rahil/handwritten.js#README.md"
+      "title": "Zillow 2020 Urban-Suburban Market Report",
+      "link": "https://www.zillow.com/research/2020-urb-suburb-market-report-27712/"
     },
     {
       "rank": "5.",
@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
-      "title": "Humanly Traversable Wormholes",
-      "link": "https://arxiv.org/abs/2008.06618"
-    },
-    {
-      "rank": "7.",
       "title": "The Death of Corporate Research Labs",
       "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Black Sky satellites return images just 58 hours after launch",
       "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
+    },
+    {
+      "rank": "8.",
+      "title": "Humanly Traversable Wormholes",
+      "link": "https://arxiv.org/abs/2008.06618"
     },
     {
       "rank": "9.",
@@ -47,38 +47,38 @@
     },
     {
       "rank": "10.",
-      "title": "Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors",
-      "link": "https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/"
-    },
-    {
-      "rank": "11.",
       "title": "Geographical Amusement: The rise of the cartographic board game",
       "link": "http://www.cabinetmagazine.org/kiosk/valentine_colton_13_august_2020.php"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "The Consortium for Python Data API Standards",
       "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
-      "rank": "13.",
-      "title": "Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)",
-      "link": "item?id=24206381"
-    },
-    {
-      "rank": "14.",
+      "rank": "12.",
       "title": "Haskell Mini-Patterns Handbook",
       "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
     },
     {
-      "rank": "15.",
+      "rank": "13.",
       "title": "APL386 Unicode – An APL Font",
       "link": "https://abrudz.github.io/APL386/"
     },
     {
-      "rank": "16.",
+      "rank": "14.",
+      "title": "Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors",
+      "link": "https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/"
+    },
+    {
+      "rank": "15.",
       "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
       "link": "https://github.com/Uzay-G/archivy"
+    },
+    {
+      "rank": "16.",
+      "title": "Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)",
+      "link": "item?id=24206381"
     },
     {
       "rank": "17.",
@@ -92,33 +92,33 @@
     },
     {
       "rank": "19.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
-    },
-    {
-      "rank": "20.",
       "title": "Language-Agnostic Bert Sentence Embedding",
       "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
     },
     {
-      "rank": "21.",
-      "title": "ANSI Z535 Compliant Safety Sign Generator",
-      "link": "https://observatory.db.erau.edu/generators/signs/"
+      "rank": "20.",
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Lost Advanced Civilizations",
       "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
     },
     {
+      "rank": "22.",
+      "title": "ANSI Z535 Compliant Safety Sign Generator",
+      "link": "https://observatory.db.erau.edu/generators/signs/"
+    },
+    {
       "rank": "23.",
-      "title": "‘Oumuamua: A Hydrogen Iceberg?",
-      "link": "https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/"
+      "title": "Effective Airflow Development",
+      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
     },
     {
       "rank": "24.",
-      "title": "Effective Airflow Development",
-      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
+      "title": "‘Oumuamua: A Hydrogen Iceberg?",
+      "link": "https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/"
     },
     {
       "rank": "25.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Product Activity Coefficient: A single metric to drive customer success teams",
-      "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
+      "title": "Modeling a Wealth Tax",
+      "link": "http://paulgraham.com/wtax.html"
     },
     {
       "rank": "27.",
-      "title": "Modeling a Wealth Tax",
-      "link": "http://paulgraham.com/wtax.html"
+      "title": "Product Activity Coefficient: A single metric to drive customer success teams",
+      "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
     },
     {
       "rank": "28.",
