@@ -12,8 +12,8 @@
     },
     {
       "rank": "3.",
-      "title": "Ultralight lithium-sulfur batteries for electric airplanes",
-      "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
+      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
+      "link": "item?id=24215376"
     },
     {
       "rank": "4.",
@@ -22,28 +22,28 @@
     },
     {
       "rank": "5.",
-      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
-      "link": "item?id=24215376"
-    },
-    {
-      "rank": "6.",
       "title": "Practical Data Ethics",
       "link": "http://ethics.fast.ai"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Netflix Conductor: An Open Source Workflow Orchestration Engine",
       "link": "https://netflix.github.io/conductor/"
     },
     {
+      "rank": "7.",
+      "title": "Ultralight lithium-sulfur batteries for electric airplanes",
+      "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
+    },
+    {
       "rank": "8.",
-      "title": "My kid can’t handle a virtual education, and neither can I",
-      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
+      "title": "The dual PhD problem of today’s startups",
+      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
     },
     {
       "rank": "9.",
-      "title": "Rust and C++ Interoperability in Chrome",
-      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
+      "title": "My kid can’t handle a virtual education, and neither can I",
+      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "What harm do minimum wages do?",
-      "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
+      "title": "Rust and C++ Interoperability in Chrome",
+      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
     },
     {
       "rank": "12.",
-      "title": "ReadMe (YC W15) is hiring a Head of Marketing with developer experience",
-      "link": "https://readme.com/careers#head-of-marketing"
+      "title": "Efficacy of honey for symptomatic relief in upper respiratory tract infections",
+      "link": "https://ebm.bmj.com/content/early/2020/07/28/bmjebm-2020-111336"
     },
     {
       "rank": "13.",
@@ -67,23 +67,23 @@
     },
     {
       "rank": "14.",
-      "title": "The dual PhD problem of today’s startups",
-      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
+      "title": "ReadMe (YC W15) is hiring a Head of Marketing with developer experience",
+      "link": "https://readme.com/careers#head-of-marketing"
     },
     {
       "rank": "15.",
+      "title": "What harm do minimum wages do?",
+      "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
+    },
+    {
+      "rank": "16.",
       "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
       "link": "item?id=24210098"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Deep Dive into Filecoin",
       "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
-    },
-    {
-      "rank": "17.",
-      "title": "Efficacy of honey for symptomatic relief in upper respiratory tract infections",
-      "link": "https://ebm.bmj.com/content/early/2020/07/28/bmjebm-2020-111336"
     },
     {
       "rank": "18.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Titan in Depth: Security in Plaintext",
-      "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
+      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
+      "link": "https://theheadless.dev/"
     },
     {
       "rank": "21.",
-      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
-      "link": "https://theheadless.dev/"
+      "title": "Titan in Depth: Security in Plaintext",
+      "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "Erlang: The New Scalable ETS Ordered_set",
-      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
-    },
-    {
-      "rank": "24.",
-      "title": "Mousemacs – A mouse-driven Emacs",
-      "link": "https://github.com/corvideon/mousemacs"
-    },
-    {
-      "rank": "25.",
       "title": "Ice Lake AVX-512 Downclocking",
       "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
     },
     {
-      "rank": "26.",
-      "title": "Germany begins 3-year universal-basic-income trial",
-      "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
+      "rank": "24.",
+      "title": "Erlang: The New Scalable ETS Ordered_set",
+      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
     },
     {
-      "rank": "27.",
+      "rank": "25.",
+      "title": "Mousemacs – A mouse-driven Emacs",
+      "link": "https://github.com/corvideon/mousemacs"
+    },
+    {
+      "rank": "26.",
       "title": "How many pieces can a puzzle have?",
       "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Graphics Programming Projects",
       "link": "http://graphicscodex.com/projects/projects/index.html"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Conventional Commits",
       "link": "https://www.conventionalcommits.org/en/v1.0.0/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
       "link": "item?id=24208958"
+    },
+    {
+      "rank": "30.",
+      "title": "Germany begins 3-year universal-basic-income trial",
+      "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
     }
   ],
   "metadata": {
