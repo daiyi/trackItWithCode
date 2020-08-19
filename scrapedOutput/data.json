@@ -22,28 +22,28 @@
     },
     {
       "rank": "5.",
-      "title": "Cities sue Netflix, Hulu, Disney+, claim they owe cable “franchise fees”",
-      "link": "https://arstechnica.com/tech-policy/2020/08/cities-sue-netflix-hulu-disney-claim-they-owe-cable-franchise-fees/"
-    },
-    {
-      "rank": "6.",
-      "title": "Humanly Traversable Wormholes",
-      "link": "https://arxiv.org/abs/2008.06618"
-    },
-    {
-      "rank": "7.",
-      "title": "The Death of Corporate Research Labs",
-      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
-    },
-    {
-      "rank": "8.",
       "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
       "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
     },
     {
-      "rank": "9.",
+      "rank": "6.",
+      "title": "Cities sue Netflix, Hulu, Disney+, claim they owe cable “franchise fees”",
+      "link": "https://arstechnica.com/tech-policy/2020/08/cities-sue-netflix-hulu-disney-claim-they-owe-cable-franchise-fees/"
+    },
+    {
+      "rank": "7.",
       "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
       "link": "https://github.com/TimeToogo/tunshell"
+    },
+    {
+      "rank": "8.",
+      "title": "Humanly Traversable Wormholes",
+      "link": "https://arxiv.org/abs/2008.06618"
+    },
+    {
+      "rank": "9.",
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
     },
     {
       "rank": "10.",
@@ -52,103 +52,103 @@
     },
     {
       "rank": "11.",
-      "title": "Black Sky satellites return images just 58 hours after launch",
-      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
-    },
-    {
-      "rank": "12.",
-      "title": "Voxel Plotting with Gnuplot 5.4",
-      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
-    },
-    {
-      "rank": "13.",
-      "title": "Haskell Mini-Patterns Handbook",
-      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
-    },
-    {
-      "rank": "14.",
       "title": "I’m A Teapot – HTTP status code 418",
       "link": "https://httpstatuses.com/418"
     },
     {
+      "rank": "12.",
+      "title": "Black Sky satellites return images just 58 hours after launch",
+      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
+    },
+    {
+      "rank": "13.",
+      "title": "Voxel Plotting with Gnuplot 5.4",
+      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
+    },
+    {
+      "rank": "14.",
+      "title": "Haskell Mini-Patterns Handbook",
+      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
+    },
+    {
       "rank": "15.",
+      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
+      "link": "https://fofpx.com/?pid=graphingcalculator"
+    },
+    {
+      "rank": "16.",
       "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
       "link": "https://github.com/Uzay-G/archivy"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "APL386 Unicode – An APL Font",
       "link": "https://abrudz.github.io/APL386/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "The Consortium for Python Data API Standards",
       "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
+      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
+      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
+    },
+    {
+      "rank": "20.",
       "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
       "link": "https://github.com/pibooth/pibooth"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
       "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
       "title": "Modal (YC W16) Is Hiring a Senior DevOps Engineer",
       "link": "https://jobs.lever.co/modal/4c45f9d3-e35a-468f-801a-625fb5fc7d8b"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "Umami: Self-hosted open-source alternative to Google Analytics",
       "link": "https://umami.is/"
     },
     {
-      "rank": "22.",
-      "title": "A Virginia couple that gave birth to the billable hour",
-      "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
-    },
-    {
-      "rank": "23.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
-    },
-    {
       "rank": "24.",
-      "title": "Lost Advanced Civilizations",
-      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
-    },
-    {
-      "rank": "25.",
-      "title": "Effective Airflow Development",
-      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
-    },
-    {
-      "rank": "26.",
       "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
       "link": "https://github.com/airbnb/ts-migrate"
     },
     {
+      "rank": "25.",
+      "title": "A Virginia couple that gave birth to the billable hour",
+      "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
+    },
+    {
+      "rank": "26.",
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
+    },
+    {
       "rank": "27.",
+      "title": "Lost Advanced Civilizations",
+      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
+    },
+    {
+      "rank": "28.",
+      "title": "Effective Airflow Development",
+      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
+    },
+    {
+      "rank": "29.",
       "title": "Old salt mine is the first emission-free compressed air energy facility (2019)",
       "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Language-Agnostic Bert Sentence Embedding",
       "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
-    },
-    {
-      "rank": "29.",
-      "title": "Allowing CMake functions to return(value)",
-      "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
-    },
-    {
-      "rank": "30.",
-      "title": "Users as people and the participatory economy",
-      "link": "https://sariazout.substack.com/p/check-your-pulse-50"
     }
   ],
   "metadata": {
