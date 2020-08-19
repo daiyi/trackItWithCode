@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Remote Learning Is a Bad Joke",
-      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
+      "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
+      "link": "https://arxiv.org/abs/2008.07699"
     },
     {
       "rank": "7.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
-      "title": "What harm do minimum wages do?",
-      "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
+      "title": "Rust and C++ Interoperability in Chrome",
+      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
     },
     {
       "rank": "9.",
-      "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
-      "link": "https://arxiv.org/abs/2008.07699"
+      "title": "My kid can’t handle a virtual education, and neither can I",
+      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
     },
     {
       "rank": "10.",
-      "title": "Rust and C++ Interoperability in Chrome",
-      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
+      "title": "What harm do minimum wages do?",
+      "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
     },
     {
       "rank": "11.",
@@ -77,48 +77,48 @@
     },
     {
       "rank": "16.",
-      "title": "Germany begins 3-year universal-basic-income trial",
-      "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
-    },
-    {
-      "rank": "17.",
       "title": "Most “mandatory requirements” in corporations are imaginary",
       "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
     },
     {
-      "rank": "18.",
-      "title": "UT Study: How Happy Couples Argue (2019)",
+      "rank": "17.",
+      "title": "How Happy Couples Argue: Study (2019)",
       "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
     },
     {
+      "rank": "18.",
+      "title": "Germany begins 3-year universal-basic-income trial",
+      "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
+    },
+    {
       "rank": "19.",
-      "title": "Things the Most Successful People I Know Struggle with to Be Happy",
-      "link": "https://leowid.com/the-7-things-the-most-successful-people-i-know-struggle-with-to-be-happy/"
-    },
-    {
-      "rank": "20.",
-      "title": "Conventional Commits",
-      "link": "https://www.conventionalcommits.org/en/v1.0.0/"
-    },
-    {
-      "rank": "21.",
       "title": "Erlang: The New Scalable ETS Ordered_set",
       "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
     },
     {
-      "rank": "22.",
+      "rank": "20.",
       "title": "Mousemacs – A mouse-driven Emacs",
       "link": "https://github.com/corvideon/mousemacs"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
+      "title": "Conventional Commits",
+      "link": "https://www.conventionalcommits.org/en/v1.0.0/"
+    },
+    {
+      "rank": "22.",
       "title": "Apple becomes first U.S. company to reach a $2T market cap",
       "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "How many pieces can a puzzle have?",
       "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
+    },
+    {
+      "rank": "24.",
+      "title": "Things the Most Successful People I Know Struggle with to Be Happy",
+      "link": "https://leowid.com/the-7-things-the-most-successful-people-i-know-struggle-with-to-be-happy/"
     },
     {
       "rank": "25.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Twingate: New Linux Client & Designing Remote Access for Developers",
-      "link": "https://www.twingate.com/blog/designing-remote-access-for-developers"
+      "title": "Galileo's Proposed Authentication Algorithm: Part 1",
+      "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
     },
     {
       "rank": "30.",
-      "title": "Galileo's Proposed Authentication Algorithm: Part 1",
-      "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
+      "title": "Twingate: New Linux Client & Designing Remote Access for Developers",
+      "link": "https://www.twingate.com/blog/designing-remote-access-for-developers"
     }
   ],
   "metadata": {
