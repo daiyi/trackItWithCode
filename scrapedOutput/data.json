@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Most “mandatory requirements” in corporations are imaginary",
-      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
-    },
-    {
-      "rank": "2.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "Facebook account now required to login to Oculus devices",
       "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
+    },
+    {
+      "rank": "3.",
+      "title": "Most “mandatory requirements” in corporations are imaginary",
+      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
     },
     {
       "rank": "4.",
@@ -27,43 +27,43 @@
     },
     {
       "rank": "6.",
-      "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
-      "link": "https://github.com/alias-rahil/handwritten.js#README.md"
-    },
-    {
-      "rank": "7.",
-      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
-      "link": "https://github.com/TimeToogo/tunshell"
-    },
-    {
-      "rank": "8.",
-      "title": "The Death of Corporate Research Labs",
-      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
-    },
-    {
-      "rank": "9.",
       "title": "How many pieces can a puzzle have?",
       "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
     },
     {
-      "rank": "10.",
+      "rank": "7.",
       "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
       "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
     },
     {
+      "rank": "8.",
+      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
+      "link": "https://github.com/TimeToogo/tunshell"
+    },
+    {
+      "rank": "9.",
+      "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
+      "link": "https://github.com/alias-rahil/handwritten.js#README.md"
+    },
+    {
+      "rank": "10.",
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+    },
+    {
       "rank": "11.",
+      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
+      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
+    },
+    {
+      "rank": "12.",
       "title": "Humanly Traversable Wormholes",
       "link": "https://arxiv.org/abs/2008.06618"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Senior Full Stack Engineer",
       "link": "https://apply.workable.com/jerry/j/FA1F4C0876/"
-    },
-    {
-      "rank": "13.",
-      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
-      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
     },
     {
       "rank": "14.",
@@ -82,53 +82,53 @@
     },
     {
       "rank": "17.",
-      "title": "A Lesson in Acceptance",
-      "link": "https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance"
-    },
-    {
-      "rank": "18.",
-      "title": "I’m A Teapot – HTTP status code 418",
-      "link": "https://httpstatuses.com/418"
-    },
-    {
-      "rank": "19.",
       "title": "APL386 Unicode – An APL Font",
       "link": "https://abrudz.github.io/APL386/"
     },
     {
-      "rank": "20.",
+      "rank": "18.",
       "title": "The Consortium for Python Data API Standards",
       "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
-      "rank": "21.",
-      "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
-      "link": "https://github.com/airbnb/ts-migrate"
+      "rank": "19.",
+      "title": "A Lesson in Acceptance",
+      "link": "https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance"
     },
     {
-      "rank": "22.",
-      "title": "Trump gives nod to Oracle buyout of TikTok in US",
-      "link": "https://www.bbc.com/news/business-53830533"
-    },
-    {
-      "rank": "23.",
+      "rank": "20.",
       "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
       "link": "https://github.com/pibooth/pibooth"
     },
     {
-      "rank": "24.",
+      "rank": "21.",
+      "title": "Trump gives nod to Oracle buyout of TikTok in US",
+      "link": "https://www.bbc.com/news/business-53830533"
+    },
+    {
+      "rank": "22.",
       "title": "Umami: Self-hosted open-source alternative to Google Analytics",
       "link": "https://umami.is/"
     },
     {
+      "rank": "23.",
+      "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
+      "link": "https://github.com/airbnb/ts-migrate"
+    },
+    {
+      "rank": "24.",
+      "title": "I’m A Teapot – HTTP status code 418",
+      "link": "https://httpstatuses.com/418"
+    },
+    {
       "rank": "25.",
-      "title": "Old salt mine is the first emission-free compressed air energy facility (2019)",
-      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
+      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
+      "link": "https://fofpx.com/?pid=graphingcalculator"
     },
     {
       "rank": "26.",
-      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
-      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
+      "title": "Old salt mine is the first emission-free compressed air energy facility (2019)",
+      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Effective Airflow Development",
-      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
+      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
+      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
     },
     {
       "rank": "29.",
-      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
-      "link": "https://fofpx.com/?pid=graphingcalculator"
+      "title": "Lost Advanced Civilizations",
+      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
     },
     {
       "rank": "30.",
-      "title": "Lost Advanced Civilizations",
-      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
+      "title": "Effective Airflow Development",
+      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
     }
   ],
   "metadata": {
