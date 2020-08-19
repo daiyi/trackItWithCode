@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "Voxel Plotting with Gnuplot 5.4",
-      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
-    },
-    {
-      "rank": "12.",
-      "title": "Haskell Mini-Patterns Handbook",
-      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
-    },
-    {
-      "rank": "13.",
-      "title": "Modal (YC W16) Is Hiring a Senior DevOps Engineer",
-      "link": "https://jobs.lever.co/modal/4c45f9d3-e35a-468f-801a-625fb5fc7d8b"
-    },
-    {
-      "rank": "14.",
       "title": "Black Sky satellites return images just 58 hours after launch",
       "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
     },
     {
-      "rank": "15.",
+      "rank": "12.",
+      "title": "Voxel Plotting with Gnuplot 5.4",
+      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
+    },
+    {
+      "rank": "13.",
+      "title": "Haskell Mini-Patterns Handbook",
+      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
+    },
+    {
+      "rank": "14.",
       "title": "APL386 Unicode – An APL Font",
       "link": "https://abrudz.github.io/APL386/"
+    },
+    {
+      "rank": "15.",
+      "title": "Modal (YC W16) Is Hiring a Senior DevOps Engineer",
+      "link": "https://jobs.lever.co/modal/4c45f9d3-e35a-468f-801a-625fb5fc7d8b"
     },
     {
       "rank": "16.",
@@ -87,68 +87,68 @@
     },
     {
       "rank": "18.",
+      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
+      "link": "https://github.com/TimeToogo/tunshell"
+    },
+    {
+      "rank": "19.",
       "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
       "link": "https://github.com/pibooth/pibooth"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Umami: Self-hosted open-source alternative to Google Analytics",
       "link": "https://umami.is/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
       "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
     },
     {
-      "rank": "21.",
-      "title": "Geographical Amusement: The rise of the cartographic board game",
-      "link": "http://www.cabinetmagazine.org/kiosk/valentine_colton_13_august_2020.php"
-    },
-    {
       "rank": "22.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
-    },
-    {
-      "rank": "23.",
       "title": "A Virginia couple that gave birth to the billable hour",
       "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
     },
     {
-      "rank": "24.",
-      "title": "Lost Advanced Civilizations",
-      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
+      "rank": "23.",
+      "title": "Geographical Amusement: The rise of the cartographic board game",
+      "link": "http://www.cabinetmagazine.org/kiosk/valentine_colton_13_august_2020.php"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Effective Airflow Development",
       "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
       "link": "https://github.com/airbnb/ts-migrate"
     },
     {
+      "rank": "26.",
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
+    },
+    {
       "rank": "27.",
+      "title": "Lost Advanced Civilizations",
+      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
+    },
+    {
+      "rank": "28.",
       "title": "Language-Agnostic Bert Sentence Embedding",
       "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "An old Goderich salt mine could one day save you money on your hydro bill (2019)",
       "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Allowing CMake functions to return(value)",
       "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
-    },
-    {
-      "rank": "30.",
-      "title": "Users as people and the participatory economy",
-      "link": "https://sariazout.substack.com/p/check-your-pulse-50"
     }
   ],
   "metadata": {
