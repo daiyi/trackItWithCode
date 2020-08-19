@@ -32,33 +32,33 @@
     },
     {
       "rank": "7.",
-      "title": "The dual PhD problem of today’s startups",
-      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
-    },
-    {
-      "rank": "8.",
-      "title": "Repl.it is hiring fullstack engineers to make coding more accessible",
-      "link": "https://repl.it/jobs"
-    },
-    {
-      "rank": "9.",
-      "title": "Practical Data Ethics",
-      "link": "http://ethics.fast.ai"
-    },
-    {
-      "rank": "10.",
       "title": "Implementing 'focus and reply' for Fastmail with JMAP",
       "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
     },
     {
+      "rank": "8.",
+      "title": "Practical Data Ethics",
+      "link": "http://ethics.fast.ai"
+    },
+    {
+      "rank": "9.",
+      "title": "The dual PhD problem of today’s startups",
+      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
+    },
+    {
+      "rank": "10.",
+      "title": "Repl.it is hiring fullstack engineers to make coding more accessible",
+      "link": "https://repl.it/jobs"
+    },
+    {
       "rank": "11.",
-      "title": "Everything Old Is New Again: Binary Security of WebAssembly",
-      "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
+      "title": "Airbnb announces confidential submission of draft Registration Statement",
+      "link": "https://news.airbnb.com/airbnb-announces-confidential-submission-of-draft-registration-statement/"
     },
     {
       "rank": "12.",
-      "title": "Airbnb announces confidential submission of draft Registration Statement",
-      "link": "https://news.airbnb.com/airbnb-announces-confidential-submission-of-draft-registration-statement/"
+      "title": "Everything Old Is New Again: Binary Security of WebAssembly",
+      "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
     },
     {
       "rank": "13.",
@@ -87,18 +87,18 @@
     },
     {
       "rank": "18.",
+      "title": "The Medieval University Monopoly",
+      "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
+    },
+    {
+      "rank": "19.",
       "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
       "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Elastic 7.9",
       "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
-    },
-    {
-      "rank": "20.",
-      "title": "The Medieval University Monopoly",
-      "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
     },
     {
       "rank": "21.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
-      "title": "Status as a Service (2019)",
-      "link": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service"
-    },
-    {
-      "rank": "26.",
       "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
       "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
       "link": "https://theheadless.dev/"
+    },
+    {
+      "rank": "27.",
+      "title": "Status as a Service (2019)",
+      "link": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service"
     },
     {
       "rank": "28.",
