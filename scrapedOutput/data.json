@@ -7,48 +7,48 @@
     },
     {
       "rank": "2.",
-      "title": "The antibiotic paradox: why companies can’t afford to create life-saving drugs",
-      "link": "https://www.nature.com/articles/d41586-020-02418-x"
-    },
-    {
-      "rank": "3.",
       "title": "Most “mandatory requirements” in corporations are imaginary",
       "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "AtomVM: Erlang on Microcontrollers",
       "link": "https://github.com/bettio/AtomVM"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Mousemacs – A mouse-driven Emacs",
       "link": "https://github.com/corvideon/mousemacs"
     },
     {
-      "rank": "6.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
+      "rank": "5.",
+      "title": "Micro frontends with Stacker",
+      "link": "https://dev.betterdoc.org/stacker/2020/06/26/micro-frontends-with-stacker.html"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
+      "rank": "7.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
+    },
+    {
       "rank": "8.",
+      "title": "The antibiotic paradox: why companies can’t afford to create life-saving drugs",
+      "link": "https://www.nature.com/articles/d41586-020-02418-x"
+    },
+    {
+      "rank": "9.",
       "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
       "link": "item?id=24208958"
     },
     {
-      "rank": "9.",
-      "title": "Amazon’s Project Kuiper Is More Than the Company’s Response to SpaceX",
-      "link": "https://spectrum.ieee.org/tech-talk/aerospace/satellites/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex"
-    },
-    {
       "rank": "10.",
-      "title": "Micro Front Ends with Stacker",
-      "link": "https://dev.betterdoc.org/stacker/2020/06/26/micro-frontends-with-stacker.html"
+      "title": "Graphics Programming Projects",
+      "link": "http://graphicscodex.com/projects/projects/index.html"
     },
     {
       "rank": "11.",
@@ -57,28 +57,28 @@
     },
     {
       "rank": "12.",
-      "title": "Graphics Programming Projects",
-      "link": "http://graphicscodex.com/projects/projects/index.html"
-    },
-    {
-      "rank": "13.",
-      "title": "IBM 3033 (1979) [pdf]",
-      "link": "https://usermanual.wiki/Document/GC20185943033ProcessorComplexApr79.3299975525/view"
-    },
-    {
-      "rank": "14.",
       "title": "Facebook account now required to login to Oculus devices",
       "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
     },
     {
-      "rank": "15.",
+      "rank": "13.",
       "title": "RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0",
       "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
     },
     {
-      "rank": "16.",
+      "rank": "14.",
+      "title": "IBM 3033 (1979) [pdf]",
+      "link": "https://usermanual.wiki/Document/GC20185943033ProcessorComplexApr79.3299975525/view"
+    },
+    {
+      "rank": "15.",
       "title": "How many pieces can a puzzle have?",
       "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
+    },
+    {
+      "rank": "16.",
+      "title": "Amazon’s Project Kuiper Is More Than the Company’s Response to SpaceX",
+      "link": "https://spectrum.ieee.org/tech-talk/aerospace/satellites/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "Ask HN: How to Become a Music Buff?",
-      "link": "item?id=24209025"
+      "title": "Cloudflare Workers Documentation Redesign",
+      "link": "https://developers.cloudflare.com/workers"
     },
     {
       "rank": "19.",
@@ -97,18 +97,18 @@
     },
     {
       "rank": "20.",
-      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
-      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
+      "title": "Ask HN: How to Become a Music Buff?",
+      "link": "item?id=24209025"
     },
     {
       "rank": "21.",
-      "title": "Facebook Fires Employee Who Shared Proof of Right Wing Favoritism",
-      "link": "https://sanfrancisco.cbslocal.com/2020/08/07/reports-facebook-fires-employee-who-shared-proof-of-right-wing-favoritism/"
+      "title": "California DMV Is Selling Drivers' Data to Private Investigators",
+      "link": "https://www.vice.com/en_us/article/dyzeza/california-dmv-data-private-investigators"
     },
     {
       "rank": "22.",
-      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
-      "link": "https://github.com/TimeToogo/tunshell"
+      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
+      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
-      "link": "https://umami.is/"
+      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
+      "link": "https://github.com/TimeToogo/tunshell"
     },
     {
       "rank": "25.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Mancala",
-      "link": "https://en.wikipedia.org/wiki/Mancala"
+      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
+      "link": "https://umami.is/"
     },
     {
       "rank": "27.",
-      "title": "Cloudflare Workers Documentation Redesign",
-      "link": "https://developers.cloudflare.com/workers"
+      "title": "Mancala",
+      "link": "https://en.wikipedia.org/wiki/Mancala"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Senior Full Stack Engineer",
-      "link": "https://apply.workable.com/jerry/j/FA1F4C0876/"
+      "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
+      "link": "https://github.com/alias-rahil/handwritten.js#README.md"
     }
   ],
   "metadata": {
