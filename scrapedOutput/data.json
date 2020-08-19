@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
-      "link": "item?id=24208958"
+      "title": "How many pieces can a puzzle have?",
+      "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
     },
     {
       "rank": "6.",
@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "How many pieces can a puzzle have?",
-      "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
+      "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
+      "link": "item?id=24208958"
     },
     {
       "rank": "8.",
@@ -47,8 +47,8 @@
     },
     {
       "rank": "10.",
-      "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
-      "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
+      "title": "Graphics Programming Projects",
+      "link": "http://graphicscodex.com/projects/projects/index.html"
     },
     {
       "rank": "11.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "Humanly Traversable Wormholes",
-      "link": "https://arxiv.org/abs/2008.06618"
+      "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
+      "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
     },
     {
       "rank": "14.",
-      "title": "Haskell Mini-Patterns Handbook",
-      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
+      "title": "Humanly Traversable Wormholes",
+      "link": "https://arxiv.org/abs/2008.06618"
     },
     {
       "rank": "15.",
@@ -77,18 +77,18 @@
     },
     {
       "rank": "16.",
+      "title": "Haskell Mini-Patterns Handbook",
+      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
+    },
+    {
+      "rank": "17.",
       "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
       "link": "https://github.com/airbnb/ts-migrate"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "APL386 Unicode – An APL Font",
       "link": "https://abrudz.github.io/APL386/"
-    },
-    {
-      "rank": "18.",
-      "title": "The Consortium for Python Data API Standards",
-      "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "A Lesson in Acceptance",
-      "link": "https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance"
+      "title": "The Consortium for Python Data API Standards",
+      "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
       "rank": "21.",
-      "title": "Graphics Programming Projects",
-      "link": "http://graphicscodex.com/projects/projects/index.html"
+      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
+      "link": "https://umami.is/"
     },
     {
       "rank": "22.",
@@ -112,28 +112,28 @@
     },
     {
       "rank": "23.",
-      "title": "Senior Full Stack Engineer",
-      "link": "https://apply.workable.com/jerry/j/FA1F4C0876/"
-    },
-    {
-      "rank": "24.",
-      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
-      "link": "https://umami.is/"
-    },
-    {
-      "rank": "25.",
-      "title": "Black Sky satellites return images just 58 hours after launch",
-      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
-    },
-    {
-      "rank": "26.",
       "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
       "link": "https://fofpx.com/?pid=graphingcalculator"
     },
     {
+      "rank": "24.",
+      "title": "A Lesson in Acceptance",
+      "link": "https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance"
+    },
+    {
+      "rank": "25.",
+      "title": "Senior Full Stack Engineer",
+      "link": "https://apply.workable.com/jerry/j/FA1F4C0876/"
+    },
+    {
+      "rank": "26.",
+      "title": "Black Sky satellites return images just 58 hours after launch",
+      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
+    },
+    {
       "rank": "27.",
-      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
-      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
+      "title": "Ask HN: Is a SaaS provider expected to have a trademark in every country?",
+      "link": "item?id=24195375"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Ask HN: Is a SaaS provider expected to have a trademark in every country?",
-      "link": "item?id=24195375"
+      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
+      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
     }
   ],
   "metadata": {
