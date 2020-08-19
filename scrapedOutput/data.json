@@ -7,23 +7,23 @@
     },
     {
       "rank": "2.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+      "title": "The antibiotic paradox: why companies can’t afford to create life-saving drugs",
+      "link": "https://www.nature.com/articles/d41586-020-02418-x"
     },
     {
       "rank": "3.",
-      "title": "AtomVM: Erlang on Microcontrollers",
-      "link": "https://github.com/bettio/AtomVM"
-    },
-    {
-      "rank": "4.",
       "title": "Amazon’s Project Kuiper Is More Than the Company’s Response to SpaceX",
       "link": "https://spectrum.ieee.org/tech-talk/aerospace/satellites/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex"
     },
     {
+      "rank": "4.",
+      "title": "AtomVM: Erlang on Microcontrollers",
+      "link": "https://github.com/bettio/AtomVM"
+    },
+    {
       "rank": "5.",
-      "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
-      "link": "item?id=24208958"
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
       "rank": "6.",
@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
-      "title": "The antibiotic paradox: why companies can’t afford to create life-saving drugs",
-      "link": "https://www.nature.com/articles/d41586-020-02418-x"
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
     },
     {
       "rank": "9.",
+      "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
+      "link": "item?id=24208958"
+    },
+    {
+      "rank": "10.",
       "title": "Researchers can duplicate keys from the sounds they make in locks",
       "link": "https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0",
       "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
-    },
-    {
-      "rank": "11.",
-      "title": "How many pieces can a puzzle have?",
-      "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
     },
     {
       "rank": "12.",
@@ -62,53 +62,53 @@
     },
     {
       "rank": "13.",
+      "title": "How many pieces can a puzzle have?",
+      "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
+    },
+    {
+      "rank": "14.",
       "title": "Facebook account now required to login to Oculus devices",
       "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
     },
     {
-      "rank": "14.",
-      "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
-      "link": "https://github.com/alias-rahil/handwritten.js#README.md"
-    },
-    {
       "rank": "15.",
-      "title": "I’m A Teapot – HTTP status code 418",
-      "link": "https://httpstatuses.com/418"
-    },
-    {
-      "rank": "16.",
-      "title": "Ask HN: How to Become a Music Buff?",
-      "link": "item?id=24209025"
-    },
-    {
-      "rank": "17.",
-      "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
-      "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
-    },
-    {
-      "rank": "18.",
       "title": "How can Wall Street be so healthy when Main Street isn’t?",
       "link": "https://apnews.com/6cadd78335fd98926ffb1e5d6ecb2916"
     },
     {
-      "rank": "19.",
-      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
-      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
-    },
-    {
-      "rank": "20.",
-      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
-      "link": "https://github.com/TimeToogo/tunshell"
-    },
-    {
-      "rank": "21.",
+      "rank": "16.",
       "title": "How Not to Photograph Sex Workers",
       "link": "https://fstoppers.com/documentary/how-not-photograph-sex-workers-506874"
     },
     {
+      "rank": "17.",
+      "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
+      "link": "https://github.com/alias-rahil/handwritten.js#README.md"
+    },
+    {
+      "rank": "18.",
+      "title": "I’m A Teapot – HTTP status code 418",
+      "link": "https://httpstatuses.com/418"
+    },
+    {
+      "rank": "19.",
+      "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
+      "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
+    },
+    {
+      "rank": "20.",
+      "title": "Ask HN: How to Become a Music Buff?",
+      "link": "item?id=24209025"
+    },
+    {
+      "rank": "21.",
+      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
+      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
+    },
+    {
       "rank": "22.",
-      "title": "Humanly Traversable Wormholes",
-      "link": "https://arxiv.org/abs/2008.06618"
+      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
+      "link": "https://github.com/TimeToogo/tunshell"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "Humanly Traversable Wormholes",
+      "link": "https://arxiv.org/abs/2008.06618"
+    },
+    {
+      "rank": "25.",
       "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
       "link": "https://github.com/airbnb/ts-migrate"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Voxel Plotting with Gnuplot 5.4",
       "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
     },
     {
-      "rank": "26.",
-      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
-      "link": "https://fofpx.com/?pid=graphingcalculator"
-    },
-    {
       "rank": "27.",
-      "title": "The Consortium for Python Data API Standards",
-      "link": "https://data-apis.org/blog/announcing_the_consortium/"
-    },
-    {
-      "rank": "28.",
       "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
       "link": "https://github.com/pibooth/pibooth"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Umami: Self-hosted open-source alternative to Google Analytics",
       "link": "https://umami.is/"
     },
     {
+      "rank": "29.",
+      "title": "The Consortium for Python Data API Standards",
+      "link": "https://data-apis.org/blog/announcing_the_consortium/"
+    },
+    {
       "rank": "30.",
-      "title": "Mancala",
-      "link": "https://en.wikipedia.org/wiki/Mancala"
+      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
+      "link": "https://fofpx.com/?pid=graphingcalculator"
     }
   ],
   "metadata": {
