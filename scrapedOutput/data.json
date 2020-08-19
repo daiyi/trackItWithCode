@@ -2,38 +2,38 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Toddlers who use touchscreens show attention differences",
-      "link": "https://www.bath.ac.uk/announcements/toddlers-who-use-touchscreens-show-attention-differences/"
-    },
-    {
-      "rank": "2.",
-      "title": "Show HN: theheadless.dev – open source Puppeteer and Playwright knowledge base",
-      "link": "https://theheadless.dev/"
-    },
-    {
-      "rank": "3.",
-      "title": "Apple becomes first U.S. company to reach a $2T market cap",
-      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
-    },
-    {
-      "rank": "4.",
-      "title": "Most “mandatory requirements” in corporations are imaginary",
-      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
-    },
-    {
-      "rank": "5.",
       "title": "Secret Gyms and the Economics of Prohibition",
       "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
     },
     {
+      "rank": "2.",
+      "title": "Toddlers who use touchscreens show attention differences",
+      "link": "https://www.bath.ac.uk/announcements/toddlers-who-use-touchscreens-show-attention-differences/"
+    },
+    {
+      "rank": "3.",
+      "title": "Show HN: theheadless.dev – open source Puppeteer and Playwright knowledge base",
+      "link": "https://theheadless.dev/"
+    },
+    {
+      "rank": "4.",
+      "title": "Apple becomes first U.S. company to reach a $2T market cap",
+      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
+    },
+    {
+      "rank": "5.",
+      "title": "Most “mandatory requirements” in corporations are imaginary",
+      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
+    },
+    {
       "rank": "6.",
-      "title": "AtomVM: Erlang on Microcontrollers",
-      "link": "https://github.com/bettio/AtomVM"
+      "title": "California DMV Is Selling Drivers' Data to Private Investigators",
+      "link": "https://www.vice.com/en_us/article/dyzeza/california-dmv-data-private-investigators"
     },
     {
       "rank": "7.",
-      "title": "California DMV Is Selling Drivers' Data to Private Investigators",
-      "link": "https://www.vice.com/en_us/article/dyzeza/california-dmv-data-private-investigators"
+      "title": "AtomVM: Erlang on Microcontrollers",
+      "link": "https://github.com/bettio/AtomVM"
     },
     {
       "rank": "8.",
@@ -42,43 +42,43 @@
     },
     {
       "rank": "9.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
-    },
-    {
-      "rank": "10.",
       "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
       "link": "item?id=24208958"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Graphics Programming Projects",
       "link": "http://graphicscodex.com/projects/projects/index.html"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Android TV’s homescreen ads are rolling out",
       "link": "https://9to5google.com/2020/08/18/android-tv-homescreen-ads-turn-off-staff-picks/"
     },
     {
+      "rank": "12.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
+    },
+    {
       "rank": "13.",
-      "title": "The antibiotic paradox: why companies can’t afford to create life-saving drugs",
-      "link": "https://www.nature.com/articles/d41586-020-02418-x"
-    },
-    {
-      "rank": "14.",
-      "title": "Amazon’s Project Kuiper is more than the company’s response to SpaceX",
-      "link": "https://spectrum.ieee.org/tech-talk/aerospace/satellites/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex"
-    },
-    {
-      "rank": "15.",
       "title": "Micro frontends with Stacker",
       "link": "https://dev.betterdoc.org/stacker/2020/06/26/micro-frontends-with-stacker.html"
     },
     {
+      "rank": "14.",
+      "title": "Galileo's Proposed Authentication Algorithm: Part 1",
+      "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
+    },
+    {
+      "rank": "15.",
+      "title": "The antibiotic paradox: why companies can’t afford to create life-saving drugs",
+      "link": "https://www.nature.com/articles/d41586-020-02418-x"
+    },
+    {
       "rank": "16.",
-      "title": "A Guide to the IBM 3033 Processor Complex (1979) [pdf]",
-      "link": "https://usermanual.wiki/Document/GC20185943033ProcessorComplexApr79.3299975525/view"
+      "title": "Amazon’s Project Kuiper is more than the company’s response to SpaceX",
+      "link": "https://spectrum.ieee.org/tech-talk/aerospace/satellites/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex"
     },
     {
       "rank": "17.",
@@ -92,63 +92,63 @@
     },
     {
       "rank": "19.",
-      "title": "Galileo's Proposed Authentication Algorithm: Part 1",
-      "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
+      "title": "A Guide to the IBM 3033 Processor Complex (1979) [pdf]",
+      "link": "https://usermanual.wiki/Document/GC20185943033ProcessorComplexApr79.3299975525/view"
     },
     {
       "rank": "20.",
+      "title": "Erlang: The New Scalable ETS Ordered_set",
+      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
+    },
+    {
+      "rank": "21.",
       "title": "How many pieces can a puzzle have?",
       "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
       "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0",
       "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Ask HN: Is a SaaS provider expected to have a trademark in every country?",
       "link": "item?id=24195375"
     },
     {
-      "rank": "24.",
-      "title": "Cloudflare Workers Documentation Redesign",
-      "link": "https://developers.cloudflare.com/workers"
+      "rank": "25.",
+      "title": "New and improved Workers Docs",
+      "link": "https://blog.cloudflare.com/new-and-improved-workers-docs/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Ask HN: How to Become a Music Buff?",
       "link": "item?id=24209025"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
       "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
     },
     {
-      "rank": "27.",
-      "title": "Trump gives nod to Oracle buyout of TikTok in US",
-      "link": "https://www.bbc.com/news/business-53830533"
-    },
-    {
       "rank": "28.",
-      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
-      "link": "https://github.com/TimeToogo/tunshell"
-    },
-    {
-      "rank": "29.",
       "title": "A more detailed, colorful map",
       "link": "https://blog.google/products/maps/more-detailed-colorful-map/"
     },
     {
+      "rank": "29.",
+      "title": "Trump gives nod to Oracle buyout of TikTok in US",
+      "link": "https://www.bbc.com/news/business-53830533"
+    },
+    {
       "rank": "30.",
-      "title": "Mancala",
-      "link": "https://en.wikipedia.org/wiki/Mancala"
+      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
+      "link": "https://github.com/TimeToogo/tunshell"
     }
   ],
   "metadata": {
