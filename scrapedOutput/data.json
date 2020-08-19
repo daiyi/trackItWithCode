@@ -27,23 +27,23 @@
     },
     {
       "rank": "6.",
-      "title": "The Death of Corporate Research Labs",
-      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
-    },
-    {
-      "rank": "7.",
       "title": "I use Obsidian to manage my goals, tasks, notes, & knowledge base",
       "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
     },
     {
+      "rank": "7.",
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+    },
+    {
       "rank": "8.",
-      "title": "Modal (YC W16) Is Hiring a Senior DevOps Engineer",
-      "link": "https://jobs.lever.co/modal/4c45f9d3-e35a-468f-801a-625fb5fc7d8b"
+      "title": "Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors",
+      "link": "https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/"
     },
     {
       "rank": "9.",
-      "title": "Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors",
-      "link": "https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/"
+      "title": "Modal (YC W16) Is Hiring a Senior DevOps Engineer",
+      "link": "https://jobs.lever.co/modal/4c45f9d3-e35a-468f-801a-625fb5fc7d8b"
     },
     {
       "rank": "10.",
@@ -62,23 +62,23 @@
     },
     {
       "rank": "13.",
-      "title": "Cities sue Netflix, Hulu, Disney+, claim they owe cable “franchise fees”",
-      "link": "https://arstechnica.com/tech-policy/2020/08/cities-sue-netflix-hulu-disney-claim-they-owe-cable-franchise-fees/"
-    },
-    {
-      "rank": "14.",
       "title": "APL386 Unicode – An APL Font",
       "link": "https://abrudz.github.io/APL386/"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "The Consortium for Python Data API Standards",
       "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
+      "rank": "15.",
+      "title": "Cities sue Netflix, Hulu, Disney+, claim they owe cable “franchise fees”",
+      "link": "https://arstechnica.com/tech-policy/2020/08/cities-sue-netflix-hulu-disney-claim-they-owe-cable-franchise-fees/"
+    },
+    {
       "rank": "16.",
-      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
-      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
+      "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
+      "link": "https://github.com/Uzay-G/archivy"
     },
     {
       "rank": "17.",
@@ -87,18 +87,18 @@
     },
     {
       "rank": "18.",
-      "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
-      "link": "https://github.com/Uzay-G/archivy"
+      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
+      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
     },
     {
       "rank": "19.",
-      "title": "A Virginia couple that gave birth to the billable hour",
-      "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
+      "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
+      "link": "https://github.com/pibooth/pibooth"
     },
     {
       "rank": "20.",
-      "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
-      "link": "https://github.com/pibooth/pibooth"
+      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
+      "link": "https://umami.is/"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
-      "link": "https://umami.is/"
+      "title": "A Virginia couple that gave birth to the billable hour",
+      "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
     },
     {
       "rank": "23.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "Language-Agnostic Bert Sentence Embedding",
-      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
     },
     {
       "rank": "25.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
+      "title": "Language-Agnostic Bert Sentence Embedding",
+      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
-      "link": "https://github.com/airbnb/ts-migrate"
+      "title": "Lost Advanced Civilizations",
+      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
     },
     {
       "rank": "28.",
-      "title": "Lost Advanced Civilizations",
-      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
+      "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
+      "link": "https://github.com/airbnb/ts-migrate"
     },
     {
       "rank": "29.",
