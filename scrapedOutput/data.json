@@ -12,33 +12,33 @@
     },
     {
       "rank": "3.",
-      "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
-      "link": "https://github.com/alias-rahil/handwritten.js#README.md"
-    },
-    {
-      "rank": "4.",
-      "title": "Humanly Traversable Wormholes",
-      "link": "https://arxiv.org/abs/2008.06618"
-    },
-    {
-      "rank": "5.",
-      "title": "The Death of Corporate Research Labs",
-      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
-    },
-    {
-      "rank": "6.",
-      "title": "Modelling a Wealth Tax: A Response to Paul Graham",
-      "link": "https://gist.github.com/konsbn/6bc484d58476c5c36169c7ab4ad49976"
-    },
-    {
-      "rank": "7.",
       "title": "I’m A Teapot – HTTP status code 418",
       "link": "https://httpstatuses.com/418"
     },
     {
-      "rank": "8.",
+      "rank": "4.",
+      "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
+      "link": "https://github.com/alias-rahil/handwritten.js#README.md"
+    },
+    {
+      "rank": "5.",
+      "title": "Humanly Traversable Wormholes",
+      "link": "https://arxiv.org/abs/2008.06618"
+    },
+    {
+      "rank": "6.",
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+    },
+    {
+      "rank": "7.",
       "title": "Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors",
       "link": "https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/"
+    },
+    {
+      "rank": "8.",
+      "title": "I had Covid-19, and these are the things nobody tells you",
+      "link": "https://www.latimes.com/sports/story/2020-08-12/column-bill-plaschke-covid-19-experience"
     },
     {
       "rank": "9.",
@@ -47,43 +47,43 @@
     },
     {
       "rank": "10.",
-      "title": "APL386 Unicode – An APL Font",
-      "link": "https://abrudz.github.io/APL386/"
+      "title": "I use Obsidian to manage my goals, tasks, notes, & knowledge base",
+      "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
     },
     {
       "rank": "11.",
+      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
+      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
+    },
+    {
+      "rank": "12.",
       "title": "Haskell Mini-Patterns Handbook",
       "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
     },
     {
-      "rank": "12.",
-      "title": "Black Sky satellites return images just 58 hours after launch",
-      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
+      "rank": "13.",
+      "title": "APL386 Unicode – An APL Font",
+      "link": "https://abrudz.github.io/APL386/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "The Consortium for Python Data API Standards",
       "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
+      "title": "Black Sky satellites return images just 58 hours after launch",
+      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
+    },
+    {
+      "rank": "16.",
       "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
       "link": "https://github.com/Uzay-G/archivy"
     },
     {
-      "rank": "15.",
-      "title": "I had Covid-19, and these are the things nobody tells you",
-      "link": "https://www.latimes.com/sports/story/2020-08-12/column-bill-plaschke-covid-19-experience"
-    },
-    {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Geographical Amusement: The rise of the cartographic board game",
       "link": "http://www.cabinetmagazine.org/kiosk/valentine_colton_13_august_2020.php"
-    },
-    {
-      "rank": "17.",
-      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
-      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
     },
     {
       "rank": "18.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Lost Advanced Civilizations",
-      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
     },
     {
       "rank": "21.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
+      "title": "Effective Airflow Development",
+      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
     },
     {
       "rank": "24.",
-      "title": "Effective Airflow Development",
-      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
+      "title": "A Virginia couple that gave birth to the billable hour",
+      "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
     },
     {
       "rank": "25.",
@@ -127,23 +127,23 @@
     },
     {
       "rank": "26.",
+      "title": "Lost Advanced Civilizations",
+      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
+    },
+    {
+      "rank": "27.",
       "title": "Allowing CMake functions to return(value)",
       "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
     },
     {
-      "rank": "27.",
-      "title": "A Virginia couple that gave birth to the billable hour",
-      "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
-    },
-    {
       "rank": "28.",
-      "title": "Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)",
-      "link": "item?id=24206381"
+      "title": "Users as people and the participatory economy",
+      "link": "https://sariazout.substack.com/p/check-your-pulse-50"
     },
     {
       "rank": "29.",
-      "title": "Users as people and the participatory economy",
-      "link": "https://sariazout.substack.com/p/check-your-pulse-50"
+      "title": "Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)",
+      "link": "item?id=24206381"
     },
     {
       "rank": "30.",
