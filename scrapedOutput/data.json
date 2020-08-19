@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "The Death of Corporate Research Labs",
-      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+      "title": "Humanly Traversable Wormholes",
+      "link": "https://arxiv.org/abs/2008.06618"
     },
     {
       "rank": "6.",
-      "title": "Humanly Traversable Wormholes",
-      "link": "https://arxiv.org/abs/2008.06618"
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
     },
     {
       "rank": "7.",
@@ -47,23 +47,23 @@
     },
     {
       "rank": "10.",
-      "title": "I’m A Teapot – HTTP status code 418",
-      "link": "https://httpstatuses.com/418"
-    },
-    {
-      "rank": "11.",
       "title": "Haskell Mini-Patterns Handbook",
       "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "APL386 Unicode – An APL Font",
       "link": "https://abrudz.github.io/APL386/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "The Consortium for Python Data API Standards",
       "link": "https://data-apis.org/blog/announcing_the_consortium/"
+    },
+    {
+      "rank": "13.",
+      "title": "I’m A Teapot – HTTP status code 418",
+      "link": "https://httpstatuses.com/418"
     },
     {
       "rank": "14.",
@@ -92,28 +92,28 @@
     },
     {
       "rank": "19.",
-      "title": "Effective Airflow Development",
-      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
-    },
-    {
-      "rank": "20.",
       "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
       "link": "item?id=24198114"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Language-Agnostic Bert Sentence Embedding",
       "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
     },
     {
+      "rank": "21.",
+      "title": "Effective Airflow Development",
+      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
+    },
+    {
       "rank": "22.",
-      "title": "A Virginia couple that gave birth to the billable hour",
-      "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
+      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
+      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
     },
     {
       "rank": "23.",
-      "title": "‘Oumuamua: A Hydrogen Iceberg?",
-      "link": "https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/"
+      "title": "A Virginia couple that gave birth to the billable hour",
+      "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
     },
     {
       "rank": "24.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)",
-      "link": "item?id=24206381"
+      "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
+      "link": "https://github.com/airbnb/ts-migrate"
     },
     {
       "rank": "26.",
-      "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
-      "link": "https://github.com/airbnb/ts-migrate"
+      "title": "Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)",
+      "link": "item?id=24206381"
     },
     {
       "rank": "27.",
