@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Apple helped make 'top secret' iPod for US government",
-      "link": "https://www.bbc.co.uk/news/technology-53835079"
+      "title": "Can't you just right click?",
+      "link": "https://lapcatsoftware.com/articles/unsigned.html"
     },
     {
       "rank": "2.",
-      "title": "Secret gyms and the economics of prohibition",
-      "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
-    },
-    {
-      "rank": "3.",
-      "title": "Ultralight lithium-sulfur batteries for electric airplanes",
-      "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
-    },
-    {
-      "rank": "4.",
       "title": "Airbnb announces confidential submission of draft Registration Statement",
       "link": "https://news.airbnb.com/airbnb-announces-confidential-submission-of-draft-registration-statement/"
     },
     {
+      "rank": "3.",
+      "title": "Apple helped make 'top secret' iPod for US government",
+      "link": "https://www.bbc.co.uk/news/technology-53835079"
+    },
+    {
+      "rank": "4.",
+      "title": "Secret gyms and the economics of prohibition",
+      "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
+    },
+    {
       "rank": "5.",
-      "title": "New Toyotas will upload data to AWS to help create custom insurance premiums",
-      "link": "https://www.theregister.com/2020/08/18/aws_toyota_alliance/"
+      "title": "Ultralight lithium-sulfur batteries for electric airplanes",
+      "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
     },
     {
       "rank": "6.",
@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
-      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
-      "link": "item?id=24215376"
-    },
-    {
-      "rank": "9.",
       "title": "Practical Data Ethics",
       "link": "http://ethics.fast.ai"
     },
     {
+      "rank": "9.",
+      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
+      "link": "item?id=24215376"
+    },
+    {
       "rank": "10.",
+      "title": "Ice Lake AVX-512 Downclocking",
+      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
+    },
+    {
+      "rank": "11.",
       "title": "My kid can’t handle a virtual education, and neither can I",
       "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
     },
     {
-      "rank": "11.",
-      "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
-      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
-    },
-    {
       "rank": "12.",
-      "title": "Ice Lake AVX-512 Downclocking",
-      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
+      "title": "Elastic 7.9",
+      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
     },
     {
       "rank": "13.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "Status as a Service (2019)",
-      "link": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service"
+      "title": "New Toyotas will upload data to AWS to help create custom insurance premiums",
+      "link": "https://www.theregister.com/2020/08/18/aws_toyota_alliance/"
     },
     {
       "rank": "16.",
-      "title": "Elastic 7.9",
-      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
-    },
-    {
-      "rank": "17.",
       "title": "Filecoin: Proof of Storage Systems",
       "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
     },
     {
+      "rank": "17.",
+      "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
+      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
+    },
+    {
       "rank": "18.",
-      "title": "The Medieval University Monopoly",
-      "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
+      "title": "Status as a Service (2019)",
+      "link": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service"
     },
     {
       "rank": "19.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
+      "title": "The Medieval University Monopoly",
+      "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
+    },
+    {
+      "rank": "22.",
       "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
       "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Facebook Scaled Back Voter Registration Kickoff",
       "link": "https://www.techtransparencyproject.org/articles/facebook-scaled-back-voter-registration-kickoff"
-    },
-    {
-      "rank": "23.",
-      "title": "ReadMe (YC W15) is hiring a head of marketing with developer experience",
-      "link": "https://readme.com/careers#head-of-marketing"
     },
     {
       "rank": "24.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "Titan in Depth: Security in Plaintext",
-      "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
+      "title": "ReadMe (YC W15) is hiring a head of marketing with developer experience",
+      "link": "https://readme.com/careers#head-of-marketing"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Titan in Depth: Security in Plaintext",
+      "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
+    },
+    {
+      "rank": "29.",
       "title": "Most “mandatory requirements” in corporations are imaginary",
       "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Germany begins 3-year universal-basic-income trial",
       "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
-    },
-    {
-      "rank": "30.",
-      "title": "Smooth teleoperator: The rise of the remote controller",
-      "link": "https://venturebeat.com/2020/08/17/smooth-teleoperator-the-rise-of-the-remote-controller/"
     }
   ],
   "metadata": {
