@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
-      "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
+      "title": "Humanly Traversable Wormholes",
+      "link": "https://arxiv.org/abs/2008.06618"
     },
     {
       "rank": "6.",
-      "title": "Cities sue Netflix, Hulu, Disney+, claim they owe cable “franchise fees”",
-      "link": "https://arstechnica.com/tech-policy/2020/08/cities-sue-netflix-hulu-disney-claim-they-owe-cable-franchise-fees/"
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
     },
     {
       "rank": "7.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Humanly Traversable Wormholes",
-      "link": "https://arxiv.org/abs/2008.06618"
+      "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
+      "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
     },
     {
       "rank": "9.",
-      "title": "The Death of Corporate Research Labs",
-      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+      "title": "Cities sue Netflix, Hulu, Disney+, claim they owe cable “franchise fees”",
+      "link": "https://arstechnica.com/tech-policy/2020/08/cities-sue-netflix-hulu-disney-claim-they-owe-cable-franchise-fees/"
     },
     {
       "rank": "10.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
-      "link": "https://fofpx.com/?pid=graphingcalculator"
+      "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
+      "link": "https://github.com/Uzay-G/archivy"
     },
     {
       "rank": "16.",
-      "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
-      "link": "https://github.com/Uzay-G/archivy"
+      "title": "The Consortium for Python Data API Standards",
+      "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
       "rank": "17.",
@@ -87,33 +87,33 @@
     },
     {
       "rank": "18.",
-      "title": "The Consortium for Python Data API Standards",
-      "link": "https://data-apis.org/blog/announcing_the_consortium/"
+      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
+      "link": "https://fofpx.com/?pid=graphingcalculator"
     },
     {
       "rank": "19.",
-      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
-      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
-    },
-    {
-      "rank": "20.",
-      "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
-      "link": "https://github.com/pibooth/pibooth"
-    },
-    {
-      "rank": "21.",
       "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
       "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
     },
     {
+      "rank": "20.",
+      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
+      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
+    },
+    {
+      "rank": "21.",
+      "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
+      "link": "https://github.com/pibooth/pibooth"
+    },
+    {
       "rank": "22.",
-      "title": "Modal (YC W16) Is Hiring a Senior DevOps Engineer",
-      "link": "https://jobs.lever.co/modal/4c45f9d3-e35a-468f-801a-625fb5fc7d8b"
+      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
+      "link": "https://umami.is/"
     },
     {
       "rank": "23.",
-      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
-      "link": "https://umami.is/"
+      "title": "Modal (YC W16) Is Hiring a Senior DevOps Engineer",
+      "link": "https://jobs.lever.co/modal/4c45f9d3-e35a-468f-801a-625fb5fc7d8b"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "A Virginia couple that gave birth to the billable hour",
-      "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
+      "title": "Effective Airflow Development",
+      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Lost Advanced Civilizations",
-      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
+      "title": "A Virginia couple that gave birth to the billable hour",
+      "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
     },
     {
       "rank": "28.",
-      "title": "Effective Airflow Development",
-      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
+      "title": "Lost Advanced Civilizations",
+      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
     },
     {
       "rank": "29.",
