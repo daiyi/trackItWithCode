@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Haskell Mini-Patterns Handbook",
-      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
+      "title": "I’m A Teapot – HTTP status code 418",
+      "link": "https://httpstatuses.com/418"
     },
     {
       "rank": "10.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
-      "title": "Black Sky satellites return images just 58 hours after launch",
-      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
+      "title": "Haskell Mini-Patterns Handbook",
+      "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
     },
     {
       "rank": "12.",
-      "title": "I’m A Teapot – HTTP status code 418",
-      "link": "https://httpstatuses.com/418"
+      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
+      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
     },
     {
       "rank": "13.",
-      "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
-      "link": "https://github.com/Uzay-G/archivy"
+      "title": "Black Sky satellites return images just 58 hours after launch",
+      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
     },
     {
       "rank": "14.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
-      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
+      "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
+      "link": "https://github.com/pibooth/pibooth"
     },
     {
       "rank": "17.",
-      "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
-      "link": "https://github.com/pibooth/pibooth"
+      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
+      "link": "https://umami.is/"
     },
     {
       "rank": "18.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
-      "link": "https://umami.is/"
+      "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
+      "link": "https://github.com/airbnb/ts-migrate"
     },
     {
       "rank": "20.",
@@ -102,43 +102,43 @@
     },
     {
       "rank": "21.",
-      "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
-      "link": "https://github.com/airbnb/ts-migrate"
-    },
-    {
-      "rank": "22.",
-      "title": "Lost Advanced Civilizations",
-      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
-    },
-    {
-      "rank": "23.",
-      "title": "Effective Airflow Development",
-      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
-    },
-    {
-      "rank": "24.",
       "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
       "link": "item?id=24198114"
     },
     {
-      "rank": "25.",
-      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
-      "link": "https://fofpx.com/?pid=graphingcalculator"
+      "rank": "22.",
+      "title": "Effective Airflow Development",
+      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
     },
     {
-      "rank": "26.",
+      "rank": "23.",
+      "title": "Lost Advanced Civilizations",
+      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
+    },
+    {
+      "rank": "24.",
       "title": "A Virginia couple that gave birth to the billable hour",
       "link": "https://www.ozy.com/true-and-stories/the-virginia-couple-that-gave-birth-to-the-billable-hour/60997/"
     },
     {
+      "rank": "25.",
+      "title": "Old salt mine is the first emission-free compressed air energy facility (2019)",
+      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
+    },
+    {
+      "rank": "26.",
+      "title": "Language-Agnostic Bert Sentence Embedding",
+      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
+    },
+    {
       "rank": "27.",
-      "title": "Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors",
-      "link": "https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/"
+      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
+      "link": "https://fofpx.com/?pid=graphingcalculator"
     },
     {
       "rank": "28.",
-      "title": "Old salt mine is the first emission-free compressed air energy facility (2019)",
-      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
+      "title": "Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors",
+      "link": "https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Language-Agnostic Bert Sentence Embedding",
-      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
+      "title": "Canon's cloud platform has lost users' files and can't restore them",
+      "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
     }
   ],
   "metadata": {
