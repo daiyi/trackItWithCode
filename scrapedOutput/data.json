@@ -7,28 +7,28 @@
     },
     {
       "rank": "2.",
-      "title": "Show HN: theheadless.dev – open source Puppeteer and Playwright knowledge base",
-      "link": "https://theheadless.dev/"
-    },
-    {
-      "rank": "3.",
       "title": "Amazon’s Project Kuiper Is More Than the Company’s Response to SpaceX",
       "link": "https://spectrum.ieee.org/tech-talk/aerospace/satellites/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex"
     },
     {
-      "rank": "4.",
-      "title": "AtomVM: Erlang on Microcontrollers",
-      "link": "https://github.com/bettio/AtomVM"
+      "rank": "3.",
+      "title": "Show HN: theheadless.dev – open source Puppeteer and Playwright knowledge base",
+      "link": "https://theheadless.dev/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
       "link": "item?id=24210098"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Most “mandatory requirements” in corporations are imaginary",
       "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
+    },
+    {
+      "rank": "6.",
+      "title": "AtomVM: Erlang on Microcontrollers",
+      "link": "https://github.com/bettio/AtomVM"
     },
     {
       "rank": "7.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0",
-      "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
+      "title": "Graphics Programming Projects",
+      "link": "http://graphicscodex.com/projects/projects/index.html"
     },
     {
       "rank": "12.",
-      "title": "Graphics Programming Projects",
-      "link": "http://graphicscodex.com/projects/projects/index.html"
+      "title": "RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0",
+      "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
     },
     {
       "rank": "13.",
@@ -77,48 +77,48 @@
     },
     {
       "rank": "16.",
-      "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
-      "link": "https://github.com/alias-rahil/handwritten.js#README.md"
-    },
-    {
-      "rank": "17.",
-      "title": "Ask HN: How to Become a Music Buff?",
-      "link": "item?id=24209025"
-    },
-    {
-      "rank": "18.",
       "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
       "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
     },
     {
-      "rank": "19.",
-      "title": "I’m A Teapot – HTTP status code 418",
-      "link": "https://httpstatuses.com/418"
+      "rank": "17.",
+      "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
+      "link": "https://github.com/alias-rahil/handwritten.js#README.md"
     },
     {
-      "rank": "20.",
+      "rank": "18.",
       "title": "IBM 3033 [pdf]",
       "link": "http://www.bitsavers.org/pdf/ibm/3033/GC20-1859-4_3033_ProcessorComplex_Apr79.pdf"
     },
     {
-      "rank": "21.",
+      "rank": "19.",
+      "title": "Ask HN: How to Become a Music Buff?",
+      "link": "item?id=24209025"
+    },
+    {
+      "rank": "20.",
       "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
       "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Ask HN: Is a SaaS provider expected to have a trademark in every country?",
       "link": "item?id=24195375"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
       "link": "https://github.com/TimeToogo/tunshell"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Humanly Traversable Wormholes",
       "link": "https://arxiv.org/abs/2008.06618"
+    },
+    {
+      "rank": "24.",
+      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
+      "link": "https://umami.is/"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Umami: Self-hosted open-source alternative to Google Analytics",
-      "link": "https://umami.is/"
-    },
-    {
-      "rank": "27.",
       "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
       "link": "https://fofpx.com/?pid=graphingcalculator"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
       "link": "item?id=24198114"
     },
     {
+      "rank": "28.",
+      "title": "Trump gives nod to Oracle buyout of TikTok in US",
+      "link": "https://www.bbc.com/news/business-53830533"
+    },
+    {
       "rank": "29.",
-      "title": "The Death of Corporate Research Labs",
-      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+      "title": "Mancala",
+      "link": "https://en.wikipedia.org/wiki/Mancala"
     },
     {
       "rank": "30.",
-      "title": "Mancala",
-      "link": "https://en.wikipedia.org/wiki/Mancala"
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
     }
   ],
   "metadata": {
