@@ -17,7 +17,7 @@
     },
     {
       "rank": "4.",
-      "title": "RetinaFace-tf2: state of the art face detection in TensorFlow 2.0",
+      "title": "RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0",
       "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
     },
     {
@@ -32,28 +32,28 @@
     },
     {
       "rank": "7.",
-      "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
-      "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
-    },
-    {
-      "rank": "8.",
       "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
       "link": "https://github.com/alias-rahil/handwritten.js#README.md"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
       "link": "https://github.com/TimeToogo/tunshell"
     },
     {
+      "rank": "9.",
+      "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
+      "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
+    },
+    {
       "rank": "10.",
-      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
-      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
+      "title": "Humanly Traversable Wormholes",
+      "link": "https://arxiv.org/abs/2008.06618"
     },
     {
       "rank": "11.",
-      "title": "Humanly Traversable Wormholes",
-      "link": "https://arxiv.org/abs/2008.06618"
+      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
+      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
     },
     {
       "rank": "12.",
@@ -62,38 +62,38 @@
     },
     {
       "rank": "13.",
-      "title": "Senior Full Stack Engineer",
-      "link": "https://apply.workable.com/jerry/j/FA1F4C0876/"
-    },
-    {
-      "rank": "14.",
       "title": "Trump gives nod to Oracle buyout of TikTok in US",
       "link": "https://www.bbc.com/news/business-53830533"
     },
     {
-      "rank": "15.",
-      "title": "Voxel Plotting with Gnuplot 5.4",
-      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
-    },
-    {
-      "rank": "16.",
-      "title": "APL386 Unicode – An APL Font",
-      "link": "https://abrudz.github.io/APL386/"
-    },
-    {
-      "rank": "17.",
-      "title": "The Consortium for Python Data API Standards",
-      "link": "https://data-apis.org/blog/announcing_the_consortium/"
-    },
-    {
-      "rank": "18.",
+      "rank": "14.",
       "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
       "link": "https://fofpx.com/?pid=graphingcalculator"
     },
     {
+      "rank": "15.",
+      "title": "Senior Full Stack Engineer",
+      "link": "https://apply.workable.com/jerry/j/FA1F4C0876/"
+    },
+    {
+      "rank": "16.",
+      "title": "Voxel Plotting with Gnuplot 5.4",
+      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
+    },
+    {
+      "rank": "17.",
+      "title": "A Lesson in Acceptance",
+      "link": "https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance"
+    },
+    {
+      "rank": "18.",
+      "title": "APL386 Unicode – An APL Font",
+      "link": "https://abrudz.github.io/APL386/"
+    },
+    {
       "rank": "19.",
-      "title": "Black Sky satellites return images just 58 hours after launch",
-      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
+      "title": "The Consortium for Python Data API Standards",
+      "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
       "rank": "20.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
+      "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
+      "link": "https://github.com/airbnb/ts-migrate"
+    },
+    {
+      "rank": "22.",
       "title": "Umami: Self-hosted open-source alternative to Google Analytics",
       "link": "https://umami.is/"
     },
     {
-      "rank": "22.",
-      "title": "A Lesson in Acceptance",
-      "link": "https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance"
-    },
-    {
       "rank": "23.",
-      "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
-      "link": "https://github.com/airbnb/ts-migrate"
+      "title": "Black Sky satellites return images just 58 hours after launch",
+      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
     },
     {
       "rank": "24.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
-      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
-      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
-    },
-    {
-      "rank": "26.",
       "title": "Old salt mine is the first emission-free compressed air energy facility (2019)",
       "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
       "link": "item?id=24198114"
+    },
+    {
+      "rank": "27.",
+      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
+      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
     },
     {
       "rank": "28.",
