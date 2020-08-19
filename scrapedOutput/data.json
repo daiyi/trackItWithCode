@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Netflix Conductor: Open-source workflow orchestration engine",
-      "link": "https://netflix.github.io/conductor/"
+      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
+      "link": "item?id=24215376"
     },
     {
       "rank": "6.",
-      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
-      "link": "item?id=24215376"
+      "title": "Netflix Conductor: Open-source workflow orchestration engine",
+      "link": "https://netflix.github.io/conductor/"
     },
     {
       "rank": "7.",
@@ -37,78 +37,78 @@
     },
     {
       "rank": "8.",
-      "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
-      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
-    },
-    {
-      "rank": "9.",
       "title": "The dual PhD problem of today’s startups",
       "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
     },
     {
+      "rank": "9.",
+      "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
+      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
+    },
+    {
       "rank": "10.",
-      "title": "My kid can’t handle a virtual education, and neither can I",
-      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
-    },
-    {
-      "rank": "11.",
-      "title": "Ice Lake AVX-512 Downclocking",
-      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
-    },
-    {
-      "rank": "12.",
-      "title": "Rust and C++ Interoperability in Chrome",
-      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
-    },
-    {
-      "rank": "13.",
       "title": "New Toyotas will upload data to AWS to help create custom insurance premiums",
       "link": "https://www.theregister.com/2020/08/18/aws_toyota_alliance/"
     },
     {
-      "rank": "14.",
-      "title": "Status as a Service (STaaS)",
-      "link": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service"
+      "rank": "11.",
+      "title": "My kid can’t handle a virtual education, and neither can I",
+      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
     },
     {
-      "rank": "15.",
+      "rank": "12.",
+      "title": "Ice Lake AVX-512 Downclocking",
+      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
+    },
+    {
+      "rank": "13.",
+      "title": "Rust and C++ Interoperability in Chrome",
+      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
+    },
+    {
+      "rank": "14.",
       "title": "What harm do minimum wages do?",
       "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
       "link": "https://arxiv.org/abs/2008.07699"
     },
     {
-      "rank": "17.",
-      "title": "Filecoin: Proof of Storage Systems",
-      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
-    },
-    {
-      "rank": "18.",
-      "title": "ReadMe (YC W15) is hiring a head of marketing with developer experience",
-      "link": "https://readme.com/careers#head-of-marketing"
-    },
-    {
-      "rank": "19.",
+      "rank": "16.",
       "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
       "link": "item?id=24210098"
     },
     {
+      "rank": "17.",
+      "title": "Elastic 7.9",
+      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
+    },
+    {
+      "rank": "18.",
+      "title": "Filecoin: Proof of Storage Systems",
+      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
+    },
+    {
+      "rank": "19.",
+      "title": "Status as a Service (2019)",
+      "link": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service"
+    },
+    {
       "rank": "20.",
+      "title": "ReadMe (YC W15) is hiring a head of marketing with developer experience",
+      "link": "https://readme.com/careers#head-of-marketing"
+    },
+    {
+      "rank": "21.",
       "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
       "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Facebook Scaled Back Voter Registration Kickoff",
       "link": "https://www.techtransparencyproject.org/articles/facebook-scaled-back-voter-registration-kickoff"
-    },
-    {
-      "rank": "22.",
-      "title": "Elastic 7.9",
-      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
     },
     {
       "rank": "23.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "Titan in Depth: Security in Plaintext",
-      "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
+      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
+      "link": "https://theheadless.dev/"
     },
     {
       "rank": "25.",
-      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
-      "link": "https://theheadless.dev/"
+      "title": "Titan in Depth: Security in Plaintext",
+      "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
     },
     {
       "rank": "26.",
@@ -142,7 +142,7 @@
     },
     {
       "rank": "29.",
-      "title": "Efficacy of honey for symptomatic relief in upper respiratory tract infections",
+      "title": "Effectiveness of honey for symptomatic relief in respiratory tract infections",
       "link": "https://ebm.bmj.com/content/early/2020/07/28/bmjebm-2020-111336"
     },
     {
