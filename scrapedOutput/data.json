@@ -42,48 +42,48 @@
     },
     {
       "rank": "9.",
-      "title": "Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors",
-      "link": "https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/"
-    },
-    {
-      "rank": "10.",
-      "title": "I’m A Teapot – HTTP status code 418",
-      "link": "https://httpstatuses.com/418"
-    },
-    {
-      "rank": "11.",
-      "title": "Voxel Plotting with Gnuplot 5.4",
-      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
-    },
-    {
-      "rank": "12.",
       "title": "Haskell Mini-Patterns Handbook",
       "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
     },
     {
-      "rank": "13.",
+      "rank": "10.",
+      "title": "Voxel Plotting with Gnuplot 5.4",
+      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
+    },
+    {
+      "rank": "11.",
       "title": "Black Sky satellites return images just 58 hours after launch",
       "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
     },
     {
-      "rank": "14.",
+      "rank": "12.",
+      "title": "I’m A Teapot – HTTP status code 418",
+      "link": "https://httpstatuses.com/418"
+    },
+    {
+      "rank": "13.",
       "title": "Show HN: Archivy – Self-hosted knowledge base embedded into your filesystem",
       "link": "https://github.com/Uzay-G/archivy"
     },
     {
-      "rank": "15.",
-      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
-      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
-    },
-    {
-      "rank": "16.",
+      "rank": "14.",
       "title": "APL386 Unicode – An APL Font",
       "link": "https://abrudz.github.io/APL386/"
     },
     {
-      "rank": "17.",
+      "rank": "15.",
       "title": "The Consortium for Python Data API Standards",
       "link": "https://data-apis.org/blog/announcing_the_consortium/"
+    },
+    {
+      "rank": "16.",
+      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
+      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
+    },
+    {
+      "rank": "17.",
+      "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
+      "link": "https://github.com/pibooth/pibooth"
     },
     {
       "rank": "18.",
@@ -92,38 +92,38 @@
     },
     {
       "rank": "19.",
-      "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
-      "link": "https://github.com/pibooth/pibooth"
-    },
-    {
-      "rank": "20.",
-      "title": "Cities sue Netflix, Hulu, Disney+, claim they owe cable “franchise fees”",
-      "link": "https://arstechnica.com/tech-policy/2020/08/cities-sue-netflix-hulu-disney-claim-they-owe-cable-franchise-fees/"
-    },
-    {
-      "rank": "21.",
       "title": "Umami: Self-hosted open-source alternative to Google Analytics",
       "link": "https://umami.is/"
     },
     {
-      "rank": "22.",
-      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
-      "link": "https://fofpx.com/?pid=graphingcalculator"
+      "rank": "20.",
+      "title": "A Lesson in Acceptance",
+      "link": "https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
       "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
       "link": "https://github.com/airbnb/ts-migrate"
     },
     {
-      "rank": "24.",
+      "rank": "22.",
+      "title": "Lost Advanced Civilizations",
+      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
+    },
+    {
+      "rank": "23.",
       "title": "Effective Airflow Development",
       "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
       "link": "item?id=24198114"
+    },
+    {
+      "rank": "25.",
+      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
+      "link": "https://fofpx.com/?pid=graphingcalculator"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Lost Advanced Civilizations",
-      "link": "https://www.overcomingbias.com/2020/08/lost-advanced-civilizations.html"
+      "title": "Cerebras Wafer Scale Engine Gen2 7nm 2.6T Transistors",
+      "link": "https://www.servethehome.com/cerebras-wafer-scale-engine-gen2-7nm-2-6t-transistors/"
     },
     {
       "rank": "28.",
+      "title": "Old salt mine is the first emission-free compressed air energy facility (2019)",
+      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
+    },
+    {
+      "rank": "29.",
       "title": "Modal (YC W16) Is Hiring a Senior DevOps Engineer",
       "link": "https://jobs.lever.co/modal/4c45f9d3-e35a-468f-801a-625fb5fc7d8b"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Language-Agnostic Bert Sentence Embedding",
       "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
-    },
-    {
-      "rank": "30.",
-      "title": "Old salt mine is the first emission-free compressed air energy facility (2019)",
-      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
     }
   ],
   "metadata": {
