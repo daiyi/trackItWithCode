@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Most “mandatory requirements” in corporations are imaginary",
-      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
-    },
-    {
-      "rank": "2.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
+      "rank": "2.",
+      "title": "The Anti-Capitalist Software License",
+      "link": "https://anticapitalist.software/"
+    },
+    {
       "rank": "3.",
-      "title": "RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0",
-      "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
+      "title": "Most “mandatory requirements” in corporations are imaginary",
+      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
     },
     {
       "rank": "4.",
@@ -22,33 +22,33 @@
     },
     {
       "rank": "5.",
+      "title": "RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0",
+      "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
+    },
+    {
+      "rank": "6.",
       "title": "Facebook account now required to login to Oculus devices",
       "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "How many pieces can a puzzle have?",
       "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Show HN: Handwritten.js – Convert typed text to realistic handwriting",
       "link": "https://github.com/alias-rahil/handwritten.js#README.md"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
       "link": "https://github.com/TimeToogo/tunshell"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
       "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
-    },
-    {
-      "rank": "10.",
-      "title": "Humanly Traversable Wormholes",
-      "link": "https://arxiv.org/abs/2008.06618"
     },
     {
       "rank": "11.",
@@ -57,38 +57,38 @@
     },
     {
       "rank": "12.",
+      "title": "Humanly Traversable Wormholes",
+      "link": "https://arxiv.org/abs/2008.06618"
+    },
+    {
+      "rank": "13.",
       "title": "Haskell Mini-Patterns Handbook",
       "link": "https://kowainik.github.io/posts/haskell-mini-patterns"
     },
     {
-      "rank": "13.",
-      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
-      "link": "https://fofpx.com/?pid=graphingcalculator"
-    },
-    {
       "rank": "14.",
-      "title": "Voxel Plotting with Gnuplot 5.4",
-      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
-    },
-    {
-      "rank": "15.",
-      "title": "APL386 Unicode – An APL Font",
-      "link": "https://abrudz.github.io/APL386/"
-    },
-    {
-      "rank": "16.",
       "title": "I’m A Teapot – HTTP status code 418",
       "link": "https://httpstatuses.com/418"
     },
     {
+      "rank": "15.",
+      "title": "Voxel Plotting with Gnuplot 5.4",
+      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
+    },
+    {
+      "rank": "16.",
+      "title": "APL386 Unicode – An APL Font",
+      "link": "https://abrudz.github.io/APL386/"
+    },
+    {
       "rank": "17.",
-      "title": "A Lesson in Acceptance",
-      "link": "https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance"
+      "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
+      "link": "https://fofpx.com/?pid=graphingcalculator"
     },
     {
       "rank": "18.",
-      "title": "Senior Full Stack Engineer",
-      "link": "https://apply.workable.com/jerry/j/FA1F4C0876/"
+      "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
+      "link": "https://github.com/pibooth/pibooth"
     },
     {
       "rank": "19.",
@@ -97,38 +97,38 @@
     },
     {
       "rank": "20.",
-      "title": "Ask HN: Is a SaaS provider expected to have a trademark in every country?",
-      "link": "item?id=24195375"
+      "title": "Senior Full Stack Engineer",
+      "link": "https://apply.workable.com/jerry/j/FA1F4C0876/"
     },
     {
       "rank": "21.",
-      "title": "Black Sky satellites return images just 58 hours after launch",
-      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
-    },
-    {
-      "rank": "22.",
       "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
       "link": "https://github.com/airbnb/ts-migrate"
     },
     {
-      "rank": "23.",
-      "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
-      "link": "https://github.com/pibooth/pibooth"
+      "rank": "22.",
+      "title": "A Lesson in Acceptance",
+      "link": "https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Umami: Self-hosted open-source alternative to Google Analytics",
       "link": "https://umami.is/"
     },
     {
+      "rank": "24.",
+      "title": "Black Sky satellites return images just 58 hours after launch",
+      "link": "https://techcrunch.com/2020/08/17/blackskys-latest-satellites-return-images-just-58-hours-after-spacex-launch/"
+    },
+    {
       "rank": "25.",
-      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
-      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
+      "title": "Ask HN: Is a SaaS provider expected to have a trademark in every country?",
+      "link": "item?id=24195375"
     },
     {
       "rank": "26.",
-      "title": "Old salt mine is the first emission-free compressed air energy facility (2019)",
-      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
+      "title": "Vision Experiment Resolved a Centuries-Old Philosophical Debate",
+      "link": "http://nautil.us/blog/this-vision-experiment-resolved-a-centuries_old-philosophical-debate"
     },
     {
       "rank": "27.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "The Death of Corporate Research Labs",
-      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+      "title": "Old salt mine is the first emission-free compressed air energy facility (2019)",
+      "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Effective Airflow Development",
-      "link": "https://curology.com/blog/tech/posts/effective-airflow?hn"
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
     }
   ],
   "metadata": {
