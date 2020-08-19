@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Voxel Plotting with Gnuplot 5.4",
-      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
+      "title": "The Death of Corporate Research Labs",
+      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
     },
     {
       "rank": "8.",
-      "title": "The Death of Corporate Research Labs",
-      "link": "https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html?m=1"
+      "title": "Voxel Plotting with Gnuplot 5.4",
+      "link": "https://lwn.net/SubscriberLink/828761/6d8c7ddc142a67a0/"
     },
     {
       "rank": "9.",
@@ -62,38 +62,38 @@
     },
     {
       "rank": "13.",
-      "title": "Xplain – Explaining X11 for the rest of us (2017)",
-      "link": "https://magcius.github.io/xplain/article/"
-    },
-    {
-      "rank": "14.",
-      "title": "ANSI Z535 Compliant Safety Sign Generator",
-      "link": "https://observatory.db.erau.edu/generators/signs/"
-    },
-    {
-      "rank": "15.",
       "title": "The Consortium for Python Data API Standards",
       "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
-      "rank": "16.",
-      "title": "Language-Agnostic Bert Sentence Embedding",
-      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
+      "rank": "14.",
+      "title": "Xplain – Explaining X11 for the rest of us (2017)",
+      "link": "https://magcius.github.io/xplain/article/"
     },
     {
-      "rank": "17.",
+      "rank": "15.",
+      "title": "ANSI Z535 Compliant Safety Sign Generator",
+      "link": "https://observatory.db.erau.edu/generators/signs/"
+    },
+    {
+      "rank": "16.",
       "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
       "link": "https://github.com/pibooth/pibooth"
     },
     {
+      "rank": "17.",
+      "title": "Language-Agnostic Bert Sentence Embedding",
+      "link": "https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html"
+    },
+    {
       "rank": "18.",
-      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
-      "link": "item?id=24198114"
+      "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
+      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
     },
     {
       "rank": "19.",
-      "title": "Having an alter ego can reduce anxiety, benefit confidence: research",
-      "link": "https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you"
+      "title": "Launch HN: Synth (YC S20) – Realistic, synthetic test data for your app",
+      "link": "item?id=24198114"
     },
     {
       "rank": "20.",
@@ -102,33 +102,33 @@
     },
     {
       "rank": "21.",
-      "title": "Product Activity Coefficient: A single metric to drive customer success teams",
-      "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
-    },
-    {
-      "rank": "22.",
-      "title": "Users as people and the participatory economy",
-      "link": "https://sariazout.substack.com/p/check-your-pulse-50"
-    },
-    {
-      "rank": "23.",
       "title": "‘Oumuamua: A Hydrogen Iceberg?",
       "link": "https://www.centauri-dreams.org/2020/08/18/oumuamua-a-hydrogen-iceberg/"
     },
     {
-      "rank": "24.",
-      "title": "Modeling a Wealth Tax",
-      "link": "http://paulgraham.com/wtax.html"
+      "rank": "22.",
+      "title": "Product Activity Coefficient: A single metric to drive customer success teams",
+      "link": "https://blog.getcensus.com/a-single-metric-to-drive-customer-success-teams/"
     },
     {
-      "rank": "25.",
+      "rank": "23.",
       "title": "An old Goderich salt mine could one day save you money on your hydro bill (2019)",
       "link": "https://www.cbc.ca/news/canada/london/goderich-ontario-compressed-air-energy-storage-1.5369478"
     },
     {
-      "rank": "26.",
+      "rank": "24.",
+      "title": "Users as people and the participatory economy",
+      "link": "https://sariazout.substack.com/p/check-your-pulse-50"
+    },
+    {
+      "rank": "25.",
       "title": "1-Euro Houses",
       "link": "https://1eurohouses.com/case-a-1-euro-houses/"
+    },
+    {
+      "rank": "26.",
+      "title": "Modeling a Wealth Tax",
+      "link": "http://paulgraham.com/wtax.html"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Scale AI (YC S16) is hiring engineers to build infrastructure for AI",
-      "link": "https://scale.com/careers"
-    },
-    {
-      "rank": "29.",
       "title": "Allowing CMake functions to return(value)",
       "link": "https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Canon's cloud platform has lost users' files and can't restore them",
       "link": "https://www.digitalcameraworld.com/news/canon-websites-held-to-ransom-by-hackers"
+    },
+    {
+      "rank": "30.",
+      "title": "Scale AI (YC S16) is hiring engineers to build infrastructure for AI",
+      "link": "https://scale.com/careers"
     }
   ],
   "metadata": {
