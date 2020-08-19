@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Apple becomes first U.S. company to reach a $2T market cap",
-      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
+      "title": "Apple helped make 'top secret' iPod for US government",
+      "link": "https://www.bbc.co.uk/news/technology-53835079"
     },
     {
       "rank": "3.",
-      "title": "Apple helped make 'top secret' iPod for US government",
-      "link": "https://www.bbc.co.uk/news/technology-53835079"
+      "title": "Apple becomes first U.S. company to reach a $2T market cap",
+      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
     },
     {
       "rank": "4.",
@@ -42,43 +42,43 @@
     },
     {
       "rank": "9.",
-      "title": "Galileo's Proposed Authentication Algorithm: Part 1",
-      "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
-    },
-    {
-      "rank": "10.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
-    },
-    {
-      "rank": "11.",
       "title": "Erlang: The New Scalable ETS Ordered_set",
       "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
     },
     {
+      "rank": "10.",
+      "title": "Galileo's Proposed Authentication Algorithm: Part 1",
+      "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
+    },
+    {
+      "rank": "11.",
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+    },
+    {
       "rank": "12.",
+      "title": "Things the Most Successful People I Know Struggle with to Be Happy",
+      "link": "https://leowid.com/the-7-things-the-most-successful-people-i-know-struggle-with-to-be-happy/"
+    },
+    {
+      "rank": "13.",
       "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
       "link": "item?id=24208958"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Graphics Programming Projects",
       "link": "http://graphicscodex.com/projects/projects/index.html"
     },
     {
-      "rank": "14.",
-      "title": "The Haunted House – Privacy on Google Street View",
-      "link": "https://harpers.org/archive/2020/09/the-haunted-house-google-street-view/"
-    },
-    {
       "rank": "15.",
-      "title": "GiveCampus (YC S15) hiring Sr Engineers who care about education",
-      "link": "https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7"
+      "title": "All signs point to herd immunity happening in parts of the U.S.",
+      "link": "https://realscience.community/2020/08/19/all-signs-point-to-herd-immunity-happening-in-parts-of-the-us-what-are-the-practical-implications/"
     },
     {
       "rank": "16.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
+      "title": "GiveCampus (YC S15) hiring Sr Engineers who care about education",
+      "link": "https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7"
     },
     {
       "rank": "17.",
@@ -92,63 +92,63 @@
     },
     {
       "rank": "19.",
+      "title": "The Haunted House – Privacy on Google Street View",
+      "link": "https://harpers.org/archive/2020/09/the-haunted-house-google-street-view/"
+    },
+    {
+      "rank": "20.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
+    },
+    {
+      "rank": "21.",
       "title": "Micro frontends with Stacker",
       "link": "https://dev.betterdoc.org/stacker/2020/06/26/micro-frontends-with-stacker.html"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
       "title": "The antibiotic paradox: why companies can’t afford to create life-saving drugs",
       "link": "https://www.nature.com/articles/d41586-020-02418-x"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "Facebook account now required to login to Oculus devices",
       "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
     },
     {
-      "rank": "22.",
-      "title": "California DMV Is Selling Drivers' Data to Private Investigators",
-      "link": "https://www.vice.com/en_us/article/dyzeza/california-dmv-data-private-investigators"
-    },
-    {
-      "rank": "23.",
+      "rank": "24.",
       "title": "A Guide to the IBM 3033 Processor Complex (1979) [pdf]",
       "link": "https://usermanual.wiki/Document/GC20185943033ProcessorComplexApr79.3299975525/view"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
+      "title": "California DMV Is Selling Drivers' Data to Private Investigators",
+      "link": "https://www.vice.com/en_us/article/dyzeza/california-dmv-data-private-investigators"
+    },
+    {
+      "rank": "26.",
       "title": "Amazon’s Project Kuiper is more than the company’s response to SpaceX",
       "link": "https://spectrum.ieee.org/tech-talk/aerospace/satellites/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex"
     },
     {
-      "rank": "25.",
-      "title": "New BlackBerry with physical keyboard announced",
-      "link": "https://www.businesswire.com/news/home/20200819005202/en/OnwardMobility-Announces-Agreements-BlackBerry-Foxconn-Subsidiary-FIH"
-    },
-    {
-      "rank": "26.",
+      "rank": "27.",
       "title": "How many pieces can a puzzle have?",
       "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
       "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
     },
     {
-      "rank": "28.",
-      "title": "RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0",
-      "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
-    },
-    {
       "rank": "29.",
-      "title": "Ask HN: Is a SaaS provider expected to have a trademark in every country?",
-      "link": "item?id=24195375"
+      "title": "Rust and C++ Interoperability in Chrome",
+      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
     },
     {
       "rank": "30.",
-      "title": "A more detailed, colorful map",
-      "link": "https://blog.google/products/maps/more-detailed-colorful-map/"
+      "title": "New BlackBerry with physical keyboard announced",
+      "link": "https://www.businesswire.com/news/home/20200819005202/en/OnwardMobility-Announces-Agreements-BlackBerry-Foxconn-Subsidiary-FIH"
     }
   ],
   "metadata": {
