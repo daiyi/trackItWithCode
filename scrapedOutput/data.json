@@ -27,128 +27,128 @@
     },
     {
       "rank": "6.",
+      "title": "ReadMe (YC W15) is hiring a Head of Marketing with developer experience",
+      "link": "https://readme.com/careers#head-of-marketing"
+    },
+    {
+      "rank": "7.",
       "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
       "link": "https://arxiv.org/abs/2008.07699"
     },
     {
-      "rank": "7.",
-      "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
-      "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
-    },
-    {
       "rank": "8.",
-      "title": "Rust and C++ Interoperability in Chrome",
-      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
-    },
-    {
-      "rank": "9.",
       "title": "My kid can’t handle a virtual education, and neither can I",
       "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
     },
     {
+      "rank": "9.",
+      "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
+      "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
+    },
+    {
       "rank": "10.",
+      "title": "Rust and C++ Interoperability in Chrome",
+      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
+    },
+    {
+      "rank": "11.",
       "title": "What harm do minimum wages do?",
       "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
       "link": "item?id=24210098"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Mexico moves to ban junk food sales to children, citing obesity",
       "link": "https://www.washingtonpost.com/business/2020/08/19/mexico-kids-junk-food-ban/"
     },
     {
-      "rank": "13.",
-      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
-      "link": "https://theheadless.dev/"
-    },
-    {
       "rank": "14.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
-    },
-    {
-      "rank": "15.",
       "title": "Titan in Depth: Security in Plaintext",
       "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
     },
     {
+      "rank": "15.",
+      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
+      "link": "https://theheadless.dev/"
+    },
+    {
       "rank": "16.",
-      "title": "Most “mandatory requirements” in corporations are imaginary",
-      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
       "rank": "17.",
-      "title": "How Happy Couples Argue: Study (2019)",
-      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
+      "title": "Netflix Conductor: An Open Source Workflow Orchestration Engine",
+      "link": "https://netflix.github.io/conductor/"
     },
     {
       "rank": "18.",
-      "title": "Germany begins 3-year universal-basic-income trial",
-      "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
-    },
-    {
-      "rank": "19.",
-      "title": "Erlang: The New Scalable ETS Ordered_set",
-      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
-    },
-    {
-      "rank": "20.",
-      "title": "Mousemacs – A mouse-driven Emacs",
-      "link": "https://github.com/corvideon/mousemacs"
-    },
-    {
-      "rank": "21.",
-      "title": "Conventional Commits",
-      "link": "https://www.conventionalcommits.org/en/v1.0.0/"
-    },
-    {
-      "rank": "22.",
-      "title": "Apple becomes first U.S. company to reach a $2T market cap",
-      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
-    },
-    {
-      "rank": "23.",
-      "title": "How many pieces can a puzzle have?",
-      "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
-    },
-    {
-      "rank": "24.",
       "title": "Things the Most Successful People I Know Struggle with to Be Happy",
       "link": "https://leowid.com/the-7-things-the-most-successful-people-i-know-struggle-with-to-be-happy/"
     },
     {
+      "rank": "19.",
+      "title": "Most “mandatory requirements” in corporations are imaginary",
+      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
+    },
+    {
+      "rank": "20.",
+      "title": "Germany begins 3-year universal-basic-income trial",
+      "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
+    },
+    {
+      "rank": "21.",
+      "title": "How Happy Couples Argue: Study (2019)",
+      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
+    },
+    {
+      "rank": "22.",
+      "title": "Deep Dive into Filecoin",
+      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
+    },
+    {
+      "rank": "23.",
+      "title": "Conventional Commits",
+      "link": "https://www.conventionalcommits.org/en/v1.0.0/"
+    },
+    {
+      "rank": "24.",
+      "title": "Erlang: The New Scalable ETS Ordered_set",
+      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
+    },
+    {
       "rank": "25.",
+      "title": "Mousemacs – A mouse-driven Emacs",
+      "link": "https://github.com/corvideon/mousemacs"
+    },
+    {
+      "rank": "26.",
+      "title": "Apple becomes first U.S. company to reach a $2T market cap",
+      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
+    },
+    {
+      "rank": "27.",
+      "title": "How many pieces can a puzzle have?",
+      "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
+    },
+    {
+      "rank": "28.",
       "title": "Graphics Programming Projects",
       "link": "http://graphicscodex.com/projects/projects/index.html"
     },
     {
-      "rank": "26.",
+      "rank": "29.",
       "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
       "link": "item?id=24208958"
     },
     {
-      "rank": "27.",
-      "title": "Toddlers who use touchscreens show attention differences",
-      "link": "https://www.bath.ac.uk/announcements/toddlers-who-use-touchscreens-show-attention-differences/"
-    },
-    {
-      "rank": "28.",
-      "title": "GiveCampus (YC S15) hiring Sr Engineers who care about education",
-      "link": "https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7"
-    },
-    {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Galileo's Proposed Authentication Algorithm: Part 1",
       "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
-    },
-    {
-      "rank": "30.",
-      "title": "Twingate: New Linux Client & Designing Remote Access for Developers",
-      "link": "https://www.twingate.com/blog/designing-remote-access-for-developers"
     }
   ],
   "metadata": {
