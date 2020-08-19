@@ -2,73 +2,73 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Airbnb announces confidential submission of draft Registration Statement",
+      "link": "https://news.airbnb.com/airbnb-announces-confidential-submission-of-draft-registration-statement/"
+    },
+    {
+      "rank": "2.",
       "title": "Apple helped make 'top secret' iPod for US government",
       "link": "https://www.bbc.co.uk/news/technology-53835079"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Secret gyms and the economics of prohibition",
       "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
     },
     {
-      "rank": "3.",
-      "title": "Netflix Conductor: Open-source workflow orchestration engine",
-      "link": "https://netflix.github.io/conductor/"
-    },
-    {
       "rank": "4.",
-      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
-      "link": "item?id=24215376"
-    },
-    {
-      "rank": "5.",
-      "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
-      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
-    },
-    {
-      "rank": "6.",
-      "title": "Practical Data Ethics",
-      "link": "http://ethics.fast.ai"
-    },
-    {
-      "rank": "7.",
-      "title": "The dual PhD problem of today’s startups",
-      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
-    },
-    {
-      "rank": "8.",
-      "title": "My kid can’t handle a virtual education, and neither can I",
-      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
-    },
-    {
-      "rank": "9.",
-      "title": "Efficacy of honey for symptomatic relief in upper respiratory tract infections",
-      "link": "https://ebm.bmj.com/content/early/2020/07/28/bmjebm-2020-111336"
-    },
-    {
-      "rank": "10.",
-      "title": "Rust and C++ Interoperability in Chrome",
-      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
-    },
-    {
-      "rank": "11.",
-      "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
-      "link": "https://arxiv.org/abs/2008.07699"
-    },
-    {
-      "rank": "12.",
       "title": "Ultralight lithium-sulfur batteries for electric airplanes",
       "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
     },
     {
+      "rank": "5.",
+      "title": "Netflix Conductor: Open-source workflow orchestration engine",
+      "link": "https://netflix.github.io/conductor/"
+    },
+    {
+      "rank": "6.",
+      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
+      "link": "item?id=24215376"
+    },
+    {
+      "rank": "7.",
+      "title": "Practical Data Ethics",
+      "link": "http://ethics.fast.ai"
+    },
+    {
+      "rank": "8.",
+      "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
+      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
+    },
+    {
+      "rank": "9.",
+      "title": "The dual PhD problem of today’s startups",
+      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
+    },
+    {
+      "rank": "10.",
+      "title": "My kid can’t handle a virtual education, and neither can I",
+      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
+    },
+    {
+      "rank": "11.",
+      "title": "Ice Lake AVX-512 Downclocking",
+      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
+    },
+    {
+      "rank": "12.",
+      "title": "Rust and C++ Interoperability in Chrome",
+      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
+    },
+    {
       "rank": "13.",
-      "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
-      "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
+      "title": "New Toyotas will upload data to AWS to help create custom insurance premiums",
+      "link": "https://www.theregister.com/2020/08/18/aws_toyota_alliance/"
     },
     {
       "rank": "14.",
-      "title": "Deep Dive into Filecoin",
-      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
+      "title": "Status as a Service (STaaS)",
+      "link": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service"
     },
     {
       "rank": "15.",
@@ -77,78 +77,78 @@
     },
     {
       "rank": "16.",
+      "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
+      "link": "https://arxiv.org/abs/2008.07699"
+    },
+    {
+      "rank": "17.",
+      "title": "Filecoin: Proof of Storage Systems",
+      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
+    },
+    {
+      "rank": "18.",
       "title": "ReadMe (YC W15) is hiring a head of marketing with developer experience",
       "link": "https://readme.com/careers#head-of-marketing"
     },
     {
-      "rank": "17.",
-      "title": "Ice Lake AVX-512 Downclocking",
-      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
-    },
-    {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
       "link": "item?id=24210098"
     },
     {
-      "rank": "19.",
-      "title": "Airbnb Announces Confidential Submission of Draft Registration Statement",
-      "link": "https://news.airbnb.com/airbnb-announces-confidential-submission-of-draft-registration-statement/"
-    },
-    {
       "rank": "20.",
-      "title": "How Happy Couples Argue: Study (2019)",
-      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
+      "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
+      "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
     },
     {
       "rank": "21.",
+      "title": "Facebook Scaled Back Voter Registration Kickoff",
+      "link": "https://www.techtransparencyproject.org/articles/facebook-scaled-back-voter-registration-kickoff"
+    },
+    {
+      "rank": "22.",
+      "title": "Elastic 7.9",
+      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
+    },
+    {
+      "rank": "23.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "22.",
-      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
-      "link": "https://theheadless.dev/"
-    },
-    {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Titan in Depth: Security in Plaintext",
       "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
     },
     {
-      "rank": "24.",
-      "title": "Elastic 7.9 Released",
-      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
+      "rank": "25.",
+      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
+      "link": "https://theheadless.dev/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "Agreements to bring BlackBerry 5G smartphones to market",
+      "link": "https://www.businesswire.com/news/home/20200819005202/en/OnwardMobility-Announces-Agreements-BlackBerry-Foxconn-Subsidiary-FIH"
+    },
+    {
+      "rank": "27.",
       "title": "Most “mandatory requirements” in corporations are imaginary",
       "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
     },
     {
-      "rank": "26.",
-      "title": "Erlang: The New Scalable ETS Ordered_set",
-      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
-    },
-    {
-      "rank": "27.",
-      "title": "Mousemacs – A mouse-driven Emacs",
-      "link": "https://github.com/corvideon/mousemacs"
-    },
-    {
       "rank": "28.",
-      "title": "Graphics Programming Projects",
-      "link": "http://graphicscodex.com/projects/projects/index.html"
+      "title": "Germany begins 3-year universal-basic-income trial",
+      "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
     },
     {
       "rank": "29.",
-      "title": "How many pieces can a puzzle have?",
-      "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
+      "title": "Efficacy of honey for symptomatic relief in upper respiratory tract infections",
+      "link": "https://ebm.bmj.com/content/early/2020/07/28/bmjebm-2020-111336"
     },
     {
       "rank": "30.",
-      "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
-      "link": "item?id=24208958"
+      "title": "Erlang: The New Scalable ETS Ordered_set",
+      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
     }
   ],
   "metadata": {
