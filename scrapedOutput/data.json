@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Airbnb announces confidential submission of draft Registration Statement",
-      "link": "https://news.airbnb.com/airbnb-announces-confidential-submission-of-draft-registration-statement/"
+      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
+      "link": "item?id=24215376"
     },
     {
       "rank": "7.",
@@ -37,118 +37,118 @@
     },
     {
       "rank": "8.",
+      "title": "Repl.it is hiring fullstack engineers to make coding more accessible",
+      "link": "https://repl.it/jobs"
+    },
+    {
+      "rank": "9.",
       "title": "Practical Data Ethics",
       "link": "http://ethics.fast.ai"
     },
     {
-      "rank": "9.",
-      "title": "Elastic 7.9",
-      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
-    },
-    {
       "rank": "10.",
-      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
-      "link": "item?id=24215376"
-    },
-    {
-      "rank": "11.",
-      "title": "Rust and C++ Interoperability in Chrome",
-      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
-    },
-    {
-      "rank": "12.",
-      "title": "Ice Lake AVX-512 Downclocking",
-      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
-    },
-    {
-      "rank": "13.",
-      "title": "What harm do minimum wages do?",
-      "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
-    },
-    {
-      "rank": "14.",
-      "title": "My kid can’t handle a virtual education, and neither can I",
-      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
-    },
-    {
-      "rank": "15.",
-      "title": "Filecoin: Proof of Storage Systems",
-      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
-    },
-    {
-      "rank": "16.",
-      "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
-      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
-    },
-    {
-      "rank": "17.",
-      "title": "Everything Old Is New Again: Binary Security of WebAssembly",
-      "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
-    },
-    {
-      "rank": "18.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
-    },
-    {
-      "rank": "19.",
-      "title": "The Medieval University Monopoly",
-      "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
-    },
-    {
-      "rank": "20.",
       "title": "Implementing 'focus and reply' for Fastmail with JMAP",
       "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
     },
     {
+      "rank": "11.",
+      "title": "Everything Old Is New Again: Binary Security of WebAssembly",
+      "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
+    },
+    {
+      "rank": "12.",
+      "title": "Airbnb announces confidential submission of draft Registration Statement",
+      "link": "https://news.airbnb.com/airbnb-announces-confidential-submission-of-draft-registration-statement/"
+    },
+    {
+      "rank": "13.",
+      "title": "Rust and C++ Interoperability in Chrome",
+      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
+    },
+    {
+      "rank": "14.",
+      "title": "Ice Lake AVX-512 Downclocking",
+      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
+    },
+    {
+      "rank": "15.",
+      "title": "What harm do minimum wages do?",
+      "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
+    },
+    {
+      "rank": "16.",
+      "title": "My kid can’t handle a virtual education, and neither can I",
+      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
+    },
+    {
+      "rank": "17.",
+      "title": "Filecoin: Proof of Storage Systems",
+      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
+    },
+    {
+      "rank": "18.",
+      "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
+      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
+    },
+    {
+      "rank": "19.",
+      "title": "Elastic 7.9",
+      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
+    },
+    {
+      "rank": "20.",
+      "title": "The Medieval University Monopoly",
+      "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
+    },
+    {
       "rank": "21.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
+    },
+    {
+      "rank": "22.",
+      "title": "How Happy Couples Argue: Study (2019)",
+      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
+    },
+    {
+      "rank": "23.",
       "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
       "link": "https://arxiv.org/abs/2008.07699"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "23.",
-      "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
-      "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
-    },
-    {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Status as a Service (2019)",
       "link": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
+      "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
+    },
+    {
+      "rank": "27.",
       "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
       "link": "https://theheadless.dev/"
     },
     {
-      "rank": "26.",
-      "title": "New Toyotas will upload data to AWS to help create custom insurance premiums",
-      "link": "https://www.theregister.com/2020/08/18/aws_toyota_alliance/"
+      "rank": "28.",
+      "title": "Show HN: The Wifi Block – Let your guests connect to WiFi with just a tap",
+      "link": "https://thewifiblock.com"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "Agreements to bring BlackBerry 5G smartphones to market",
       "link": "https://www.businesswire.com/news/home/20200819005202/en/OnwardMobility-Announces-Agreements-BlackBerry-Foxconn-Subsidiary-FIH"
     },
     {
-      "rank": "28.",
-      "title": "Titan in Depth: Security in Plaintext",
-      "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
-    },
-    {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Most “mandatory requirements” in corporations are imaginary",
       "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
-    },
-    {
-      "rank": "30.",
-      "title": "Show HN: The Wifi Block – Let your guests connect to WiFi with just a tap",
-      "link": "https://thewifiblock.com"
     }
   ],
   "metadata": {
