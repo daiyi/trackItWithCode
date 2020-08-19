@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "Toddlers who use touchscreens show attention differences",
-      "link": "https://www.bath.ac.uk/announcements/toddlers-who-use-touchscreens-show-attention-differences/"
+      "title": "Apple becomes first U.S. company to reach a $2T market cap",
+      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
     },
     {
       "rank": "3.",
@@ -17,8 +17,8 @@
     },
     {
       "rank": "4.",
-      "title": "Apple becomes first U.S. company to reach a $2T market cap",
-      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
+      "title": "California DMV Is Selling Drivers' Data to Private Investigators",
+      "link": "https://www.vice.com/en_us/article/dyzeza/california-dmv-data-private-investigators"
     },
     {
       "rank": "5.",
@@ -27,58 +27,58 @@
     },
     {
       "rank": "6.",
-      "title": "California DMV Is Selling Drivers' Data to Private Investigators",
-      "link": "https://www.vice.com/en_us/article/dyzeza/california-dmv-data-private-investigators"
+      "title": "Toddlers who use touchscreens show attention differences",
+      "link": "https://www.bath.ac.uk/announcements/toddlers-who-use-touchscreens-show-attention-differences/"
     },
     {
       "rank": "7.",
+      "title": "GiveCampus (YC S15) hiring Sr Engineers who care about education",
+      "link": "https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7"
+    },
+    {
+      "rank": "8.",
       "title": "AtomVM: Erlang on Microcontrollers",
       "link": "https://github.com/bettio/AtomVM"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
       "link": "item?id=24208958"
     },
     {
-      "rank": "10.",
-      "title": "Graphics Programming Projects",
-      "link": "http://graphicscodex.com/projects/projects/index.html"
-    },
-    {
       "rank": "11.",
-      "title": "Android TV’s homescreen ads are rolling out",
-      "link": "https://9to5google.com/2020/08/18/android-tv-homescreen-ads-turn-off-staff-picks/"
-    },
-    {
-      "rank": "12.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
-    },
-    {
-      "rank": "13.",
-      "title": "Micro frontends with Stacker",
-      "link": "https://dev.betterdoc.org/stacker/2020/06/26/micro-frontends-with-stacker.html"
-    },
-    {
-      "rank": "14.",
       "title": "Galileo's Proposed Authentication Algorithm: Part 1",
       "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
     },
     {
-      "rank": "15.",
+      "rank": "12.",
+      "title": "Graphics Programming Projects",
+      "link": "http://graphicscodex.com/projects/projects/index.html"
+    },
+    {
+      "rank": "13.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
+    },
+    {
+      "rank": "14.",
       "title": "The antibiotic paradox: why companies can’t afford to create life-saving drugs",
       "link": "https://www.nature.com/articles/d41586-020-02418-x"
     },
     {
+      "rank": "15.",
+      "title": "Micro frontends with Stacker",
+      "link": "https://dev.betterdoc.org/stacker/2020/06/26/micro-frontends-with-stacker.html"
+    },
+    {
       "rank": "16.",
-      "title": "Amazon’s Project Kuiper is more than the company’s response to SpaceX",
-      "link": "https://spectrum.ieee.org/tech-talk/aerospace/satellites/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex"
+      "title": "Erlang: The New Scalable ETS Ordered_set",
+      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "Facebook account now required to login to Oculus devices",
-      "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
+      "title": "Amazon’s Project Kuiper is more than the company’s response to SpaceX",
+      "link": "https://spectrum.ieee.org/tech-talk/aerospace/satellites/amazons-project-kuiper-is-more-than-the-companys-response-to-spacex"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Erlang: The New Scalable ETS Ordered_set",
-      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
+      "title": "Facebook account now required to login to Oculus devices",
+      "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
     },
     {
       "rank": "21.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "Mexico moves to ban junk food sales to children, citing obesity",
+      "link": "https://www.washingtonpost.com/business/2020/08/19/mexico-kids-junk-food-ban/"
+    },
+    {
+      "rank": "27.",
       "title": "Ask HN: How to Become a Music Buff?",
       "link": "item?id=24209025"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
       "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
     },
     {
-      "rank": "28.",
-      "title": "A more detailed, colorful map",
-      "link": "https://blog.google/products/maps/more-detailed-colorful-map/"
-    },
-    {
       "rank": "29.",
-      "title": "Trump gives nod to Oracle buyout of TikTok in US",
-      "link": "https://www.bbc.com/news/business-53830533"
+      "title": "Android TV’s homescreen ads are rolling out",
+      "link": "https://9to5google.com/2020/08/18/android-tv-homescreen-ads-turn-off-staff-picks/"
     },
     {
       "rank": "30.",
-      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
-      "link": "https://github.com/TimeToogo/tunshell"
+      "title": "A more detailed, colorful map",
+      "link": "https://blog.google/products/maps/more-detailed-colorful-map/"
     }
   ],
   "metadata": {
