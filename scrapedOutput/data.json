@@ -12,53 +12,53 @@
     },
     {
       "rank": "3.",
+      "title": "Netflix Conductor: Open-source workflow orchestration engine",
+      "link": "https://netflix.github.io/conductor/"
+    },
+    {
+      "rank": "4.",
       "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
       "link": "item?id=24215376"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
       "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Practical Data Ethics",
       "link": "http://ethics.fast.ai"
     },
     {
-      "rank": "6.",
-      "title": "Netflix Conductor: An Open Source Workflow Orchestration Engine",
-      "link": "https://netflix.github.io/conductor/"
-    },
-    {
       "rank": "7.",
-      "title": "Ultralight lithium-sulfur batteries for electric airplanes",
-      "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
-    },
-    {
-      "rank": "8.",
       "title": "The dual PhD problem of today’s startups",
       "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "My kid can’t handle a virtual education, and neither can I",
       "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
     },
     {
-      "rank": "10.",
-      "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
-      "link": "https://arxiv.org/abs/2008.07699"
+      "rank": "9.",
+      "title": "Efficacy of honey for symptomatic relief in upper respiratory tract infections",
+      "link": "https://ebm.bmj.com/content/early/2020/07/28/bmjebm-2020-111336"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Rust and C++ Interoperability in Chrome",
       "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
     },
     {
+      "rank": "11.",
+      "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
+      "link": "https://arxiv.org/abs/2008.07699"
+    },
+    {
       "rank": "12.",
-      "title": "Efficacy of honey for symptomatic relief in upper respiratory tract infections",
-      "link": "https://ebm.bmj.com/content/early/2020/07/28/bmjebm-2020-111336"
+      "title": "Ultralight lithium-sulfur batteries for electric airplanes",
+      "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
     },
     {
       "rank": "13.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "ReadMe (YC W15) is hiring a Head of Marketing with developer experience",
-      "link": "https://readme.com/careers#head-of-marketing"
+      "title": "Deep Dive into Filecoin",
+      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
     },
     {
       "rank": "15.",
@@ -77,78 +77,78 @@
     },
     {
       "rank": "16.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
+      "title": "ReadMe (YC W15) is hiring a head of marketing with developer experience",
+      "link": "https://readme.com/careers#head-of-marketing"
     },
     {
       "rank": "17.",
-      "title": "Deep Dive into Filecoin",
-      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
-    },
-    {
-      "rank": "18.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
-    },
-    {
-      "rank": "19.",
-      "title": "How Happy Couples Argue: Study (2019)",
-      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
-    },
-    {
-      "rank": "20.",
-      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
-      "link": "https://theheadless.dev/"
-    },
-    {
-      "rank": "21.",
-      "title": "Titan in Depth: Security in Plaintext",
-      "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
-    },
-    {
-      "rank": "22.",
-      "title": "Most “mandatory requirements” in corporations are imaginary",
-      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
-    },
-    {
-      "rank": "23.",
       "title": "Ice Lake AVX-512 Downclocking",
       "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
     },
     {
+      "rank": "18.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
+    },
+    {
+      "rank": "19.",
+      "title": "Airbnb Announces Confidential Submission of Draft Registration Statement",
+      "link": "https://news.airbnb.com/airbnb-announces-confidential-submission-of-draft-registration-statement/"
+    },
+    {
+      "rank": "20.",
+      "title": "How Happy Couples Argue: Study (2019)",
+      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
+    },
+    {
+      "rank": "21.",
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+    },
+    {
+      "rank": "22.",
+      "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
+      "link": "https://theheadless.dev/"
+    },
+    {
+      "rank": "23.",
+      "title": "Titan in Depth: Security in Plaintext",
+      "link": "https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext"
+    },
+    {
       "rank": "24.",
+      "title": "Elastic 7.9 Released",
+      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
+    },
+    {
+      "rank": "25.",
+      "title": "Most “mandatory requirements” in corporations are imaginary",
+      "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
+    },
+    {
+      "rank": "26.",
       "title": "Erlang: The New Scalable ETS Ordered_set",
       "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Mousemacs – A mouse-driven Emacs",
       "link": "https://github.com/corvideon/mousemacs"
     },
     {
-      "rank": "26.",
-      "title": "How many pieces can a puzzle have?",
-      "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
-    },
-    {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Graphics Programming Projects",
       "link": "http://graphicscodex.com/projects/projects/index.html"
     },
     {
-      "rank": "28.",
-      "title": "Conventional Commits",
-      "link": "https://www.conventionalcommits.org/en/v1.0.0/"
-    },
-    {
       "rank": "29.",
-      "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
-      "link": "item?id=24208958"
+      "title": "How many pieces can a puzzle have?",
+      "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
     },
     {
       "rank": "30.",
-      "title": "Germany begins 3-year universal-basic-income trial",
-      "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
+      "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
+      "link": "item?id=24208958"
     }
   ],
   "metadata": {
