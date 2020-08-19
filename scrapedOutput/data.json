@@ -17,23 +17,23 @@
     },
     {
       "rank": "4.",
-      "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
-      "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
-    },
-    {
-      "rank": "5.",
-      "title": "Things the Most Successful People I Know Struggle with to Be Happy",
-      "link": "https://leowid.com/the-7-things-the-most-successful-people-i-know-struggle-with-to-be-happy/"
-    },
-    {
-      "rank": "6.",
       "title": "Fast.ai: Practical Data Ethics",
       "link": "http://ethics.fast.ai"
     },
     {
-      "rank": "7.",
+      "rank": "5.",
+      "title": "Rust and C++ Interoperability in Chrome",
+      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
+    },
+    {
+      "rank": "6.",
       "title": "Mexico moves to ban junk food sales to children, citing obesity",
       "link": "https://www.washingtonpost.com/business/2020/08/19/mexico-kids-junk-food-ban/"
+    },
+    {
+      "rank": "7.",
+      "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
+      "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
     },
     {
       "rank": "8.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Rust and C++ Interoperability in Chrome",
-      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
+      "title": "Things the Most Successful People I Know Struggle with to Be Happy",
+      "link": "https://leowid.com/the-7-things-the-most-successful-people-i-know-struggle-with-to-be-happy/"
     },
     {
       "rank": "10.",
@@ -52,103 +52,103 @@
     },
     {
       "rank": "11.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
-    },
-    {
-      "rank": "12.",
       "title": "Most “mandatory requirements” in corporations are imaginary",
       "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
     },
     {
-      "rank": "13.",
-      "title": "Apple becomes first U.S. company to reach a $2T market cap",
-      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
+      "rank": "12.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "AtomVM: Erlang on Microcontrollers",
       "link": "https://github.com/bettio/AtomVM"
     },
     {
+      "rank": "14.",
+      "title": "Apple becomes first U.S. company to reach a $2T market cap",
+      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
+    },
+    {
       "rank": "15.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
-    },
-    {
-      "rank": "16.",
-      "title": "Erlang: The New Scalable ETS Ordered_set",
-      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
-    },
-    {
-      "rank": "17.",
       "title": "Germany is beginning a 3y universal-basic-income trial with $1400/mo per person",
       "link": "https://www.businessinsider.com/germany-begins-universal-basic-income-trial-three-years-2020-8"
     },
     {
+      "rank": "16.",
+      "title": "Mousemacs – A mouse-driven Emacs",
+      "link": "https://github.com/corvideon/mousemacs"
+    },
+    {
+      "rank": "17.",
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+    },
+    {
       "rank": "18.",
+      "title": "Erlang: The New Scalable ETS Ordered_set",
+      "link": "http://blog.erlang.org/the-new-scalable-ets-ordered_set/"
+    },
+    {
+      "rank": "19.",
       "title": "Toddlers who use touchscreens show attention differences",
       "link": "https://www.bath.ac.uk/announcements/toddlers-who-use-touchscreens-show-attention-differences/"
     },
     {
-      "rank": "19.",
-      "title": "Galileo's Proposed Authentication Algorithm: Part 1",
-      "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
-    },
-    {
       "rank": "20.",
-      "title": "Graphics Programming Projects",
-      "link": "http://graphicscodex.com/projects/projects/index.html"
-    },
-    {
-      "rank": "21.",
-      "title": "GiveCampus (YC S15) hiring Sr Engineers who care about education",
-      "link": "https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7"
-    },
-    {
-      "rank": "22.",
       "title": "UT Study: How Happy Couples Argue",
       "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
     },
     {
+      "rank": "21.",
+      "title": "Galileo's Proposed Authentication Algorithm: Part 1",
+      "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
+    },
+    {
+      "rank": "22.",
+      "title": "GiveCampus (YC S15) hiring Sr Engineers who care about education",
+      "link": "https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7"
+    },
+    {
       "rank": "23.",
+      "title": "Graphics Programming Projects",
+      "link": "http://graphicscodex.com/projects/projects/index.html"
+    },
+    {
+      "rank": "24.",
       "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
       "link": "item?id=24208958"
     },
     {
-      "rank": "24.",
-      "title": "U.S. Stocks Rise After S&P 500’s Record Close",
-      "link": "https://www.wsj.com/articles/global-stock-markets-dow-update-8-19-2020-11597829041"
-    },
-    {
       "rank": "25.",
-      "title": "The Haunted House – Privacy on Google Street View",
-      "link": "https://harpers.org/archive/2020/09/the-haunted-house-google-street-view/"
-    },
-    {
-      "rank": "26.",
-      "title": "Micro frontends with Stacker",
-      "link": "https://dev.betterdoc.org/stacker/2020/06/26/micro-frontends-with-stacker.html"
-    },
-    {
-      "rank": "27.",
-      "title": "Coding and drawing",
-      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
-    },
-    {
-      "rank": "28.",
-      "title": "Death of a Forgotten Anomaly",
-      "link": "https://resonaances.blogspot.com/2020/08/death-of-forgotten-anomaly.html?m=1"
-    },
-    {
-      "rank": "29.",
       "title": "Twingate: New Linux Client & Designing Remote Access for Developers",
       "link": "https://www.twingate.com/blog/designing-remote-access-for-developers"
     },
     {
+      "rank": "26.",
+      "title": "Death of a Forgotten Anomaly",
+      "link": "https://resonaances.blogspot.com/2020/08/death-of-forgotten-anomaly.html?m=1"
+    },
+    {
+      "rank": "27.",
+      "title": "How to turn off Android TV's homescreen ads, 'staff picks'",
+      "link": "https://9to5google.com/2020/08/18/android-tv-homescreen-ads-turn-off-staff-picks/"
+    },
+    {
+      "rank": "28.",
+      "title": "The Haunted House – Privacy on Google Street View",
+      "link": "https://harpers.org/archive/2020/09/the-haunted-house-google-street-view/"
+    },
+    {
+      "rank": "29.",
+      "title": "Micro frontends with Stacker",
+      "link": "https://dev.betterdoc.org/stacker/2020/06/26/micro-frontends-with-stacker.html"
+    },
+    {
       "rank": "30.",
-      "title": "Facebook account now required to login to Oculus devices",
-      "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
+      "title": "Coding and drawing",
+      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
     }
   ],
   "metadata": {
