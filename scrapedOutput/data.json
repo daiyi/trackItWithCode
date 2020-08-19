@@ -12,43 +12,43 @@
     },
     {
       "rank": "3.",
+      "title": "AtomVM: Erlang on Microcontrollers",
+      "link": "https://github.com/bettio/AtomVM"
+    },
+    {
+      "rank": "4.",
       "title": "Most “mandatory requirements” in corporations are imaginary",
       "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
       "link": "item?id=24208958"
     },
     {
-      "rank": "5.",
-      "title": "Researchers can duplicate keys from the sounds they make in locks",
-      "link": "https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks"
-    },
-    {
       "rank": "6.",
-      "title": "RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0",
-      "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
-    },
-    {
-      "rank": "7.",
-      "title": "How many pieces can a puzzle have?",
-      "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
-    },
-    {
-      "rank": "8.",
       "title": "Mousemacs – A mouse-driven Emacs",
       "link": "https://github.com/corvideon/mousemacs"
     },
     {
+      "rank": "7.",
+      "title": "RetinaFace: Single-stage Dense Face Localisation, implemented in TensorFlow 2.0",
+      "link": "https://github.com/StanislasBertrand/RetinaFace-tf2"
+    },
+    {
+      "rank": "8.",
+      "title": "Researchers can duplicate keys from the sounds they make in locks",
+      "link": "https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks"
+    },
+    {
       "rank": "9.",
-      "title": "Facebook account now required to login to Oculus devices",
-      "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
+      "title": "How many pieces can a puzzle have?",
+      "link": "https://gottwurfelt.com/2020/08/17/how-many-pieces-can-a-puzzle-have/"
     },
     {
       "rank": "10.",
-      "title": "AtomVM: Erlang on Microcontrollers",
-      "link": "https://github.com/bettio/AtomVM"
+      "title": "Facebook account now required to login to Oculus devices",
+      "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
     },
     {
       "rank": "11.",
@@ -62,23 +62,23 @@
     },
     {
       "rank": "13.",
-      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
-      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
-    },
-    {
-      "rank": "14.",
       "title": "Using Obsidian to manage goals, tasks, notes, and software dev knowledge base",
       "link": "https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base"
     },
     {
+      "rank": "14.",
+      "title": "I’m A Teapot – HTTP status code 418",
+      "link": "https://httpstatuses.com/418"
+    },
+    {
       "rank": "15.",
-      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
-      "link": "https://github.com/TimeToogo/tunshell"
+      "title": "On Blockchain Commit Times: How miners choose Bitcoin transactions [pdf]",
+      "link": "https://people.mpi-sws.org/~johnme/pdf/messias-sdbd-20.pdf"
     },
     {
       "rank": "16.",
-      "title": "I’m A Teapot – HTTP status code 418",
-      "link": "https://httpstatuses.com/418"
+      "title": "Show HN: Tunshell – Remote shell into ephemeral environments behind NAT/firewall",
+      "link": "https://github.com/TimeToogo/tunshell"
     },
     {
       "rank": "17.",
@@ -87,28 +87,28 @@
     },
     {
       "rank": "18.",
+      "title": "Ask HN: How to Become a Music Buff?",
+      "link": "item?id=24209025"
+    },
+    {
+      "rank": "19.",
       "title": "Ask HN: Is a SaaS provider expected to have a trademark in every country?",
       "link": "item?id=24195375"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Ts-migrate: tool to automatically migrate JavaScript projects to TS",
       "link": "https://github.com/airbnb/ts-migrate"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Show HN: An animated graphing calculator implemented in a pixel shader",
       "link": "https://fofpx.com/?pid=graphingcalculator"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "APL386 Unicode – An APL Font",
       "link": "https://abrudz.github.io/APL386/"
-    },
-    {
-      "rank": "22.",
-      "title": "The Consortium for Python Data API Standards",
-      "link": "https://data-apis.org/blog/announcing_the_consortium/"
     },
     {
       "rank": "23.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
+      "title": "The Consortium for Python Data API Standards",
+      "link": "https://data-apis.org/blog/announcing_the_consortium/"
+    },
+    {
+      "rank": "25.",
       "title": "Pibooth: A PhotoBooth application for Raspberry Pi and opencv compatible devices",
       "link": "https://github.com/pibooth/pibooth"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Umami: Self-hosted open-source alternative to Google Analytics",
       "link": "https://umami.is/"
-    },
-    {
-      "rank": "26.",
-      "title": "Ask HN: How to Become a Music Buff?",
-      "link": "item?id=24209025"
     },
     {
       "rank": "27.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Senior Full Stack Engineer",
-      "link": "https://apply.workable.com/jerry/j/FA1F4C0876/"
+      "title": "Mancala",
+      "link": "https://en.wikipedia.org/wiki/Mancala"
     },
     {
       "rank": "30.",
-      "title": "A Lesson in Acceptance",
-      "link": "https://www.oxfordamerican.org/magazine/item/1945-lesson-in-acceptance"
+      "title": "Senior Full Stack Engineer",
+      "link": "https://apply.workable.com/jerry/j/FA1F4C0876/"
     }
   ],
   "metadata": {
