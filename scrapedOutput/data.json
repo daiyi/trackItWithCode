@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Rust and C++ Interoperability in Chrome",
-      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
+      "title": "What harm do minimum wages do?",
+      "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
     },
     {
       "rank": "6.",
-      "title": "Mexico moves to ban junk food sales to children, citing obesity",
-      "link": "https://www.washingtonpost.com/business/2020/08/19/mexico-kids-junk-food-ban/"
+      "title": "Rust and C++ Interoperability in Chrome",
+      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
     },
     {
       "rank": "7.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "What harm do minimum wages do?",
-      "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
+      "title": "Ultralight Lithium-Sulfur Batteries for Electric Airplanes",
+      "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
     },
     {
       "rank": "9.",
-      "title": "Things the Most Successful People I Know Struggle with to Be Happy",
-      "link": "https://leowid.com/the-7-things-the-most-successful-people-i-know-struggle-with-to-be-happy/"
+      "title": "Mexico moves to ban junk food sales to children, citing obesity",
+      "link": "https://www.washingtonpost.com/business/2020/08/19/mexico-kids-junk-food-ban/"
     },
     {
       "rank": "10.",
@@ -52,23 +52,23 @@
     },
     {
       "rank": "11.",
+      "title": "Things the Most Successful People I Know Struggle with to Be Happy",
+      "link": "https://leowid.com/the-7-things-the-most-successful-people-i-know-struggle-with-to-be-happy/"
+    },
+    {
+      "rank": "12.",
       "title": "Most “mandatory requirements” in corporations are imaginary",
       "link": "https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
       "link": "item?id=24210098"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "AtomVM: Erlang on Microcontrollers",
       "link": "https://github.com/bettio/AtomVM"
-    },
-    {
-      "rank": "14.",
-      "title": "Apple becomes first U.S. company to reach a $2T market cap",
-      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
     },
     {
       "rank": "15.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "Mousemacs – A mouse-driven Emacs",
-      "link": "https://github.com/corvideon/mousemacs"
+      "title": "Apple becomes first U.S. company to reach a $2T market cap",
+      "link": "https://www.cnbc.com/2020/08/19/apple-reaches-2-trillion-market-cap.html"
     },
     {
       "rank": "17.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "Toddlers who use touchscreens show attention differences",
-      "link": "https://www.bath.ac.uk/announcements/toddlers-who-use-touchscreens-show-attention-differences/"
+      "title": "Mousemacs – A mouse-driven Emacs",
+      "link": "https://github.com/corvideon/mousemacs"
     },
     {
       "rank": "20.",
@@ -102,43 +102,43 @@
     },
     {
       "rank": "21.",
-      "title": "Galileo's Proposed Authentication Algorithm: Part 1",
-      "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
+      "title": "Toddlers who use touchscreens show attention differences",
+      "link": "https://www.bath.ac.uk/announcements/toddlers-who-use-touchscreens-show-attention-differences/"
     },
     {
       "rank": "22.",
-      "title": "GiveCampus (YC S15) hiring Sr Engineers who care about education",
-      "link": "https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7"
-    },
-    {
-      "rank": "23.",
       "title": "Graphics Programming Projects",
       "link": "http://graphicscodex.com/projects/projects/index.html"
     },
     {
+      "rank": "23.",
+      "title": "Galileo's Proposed Authentication Algorithm: Part 1",
+      "link": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/"
+    },
+    {
       "rank": "24.",
+      "title": "GiveCampus (YC S15) hiring Sr Engineers who care about education",
+      "link": "https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7"
+    },
+    {
+      "rank": "25.",
       "title": "Ask HN: Why is Reddit on mobile so obsessed with making me use their app?",
       "link": "item?id=24208958"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Twingate: New Linux Client & Designing Remote Access for Developers",
       "link": "https://www.twingate.com/blog/designing-remote-access-for-developers"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Death of a Forgotten Anomaly",
       "link": "https://resonaances.blogspot.com/2020/08/death-of-forgotten-anomaly.html?m=1"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "How to turn off Android TV's homescreen ads, 'staff picks'",
       "link": "https://9to5google.com/2020/08/18/android-tv-homescreen-ads-turn-off-staff-picks/"
-    },
-    {
-      "rank": "28.",
-      "title": "The Haunted House – Privacy on Google Street View",
-      "link": "https://harpers.org/archive/2020/09/the-haunted-house-google-street-view/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Coding and drawing",
-      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
+      "title": "The Haunted House – Privacy on Google Street View",
+      "link": "https://harpers.org/archive/2020/09/the-haunted-house-google-street-view/"
     }
   ],
   "metadata": {
