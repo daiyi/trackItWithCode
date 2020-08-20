@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
-      "link": "https://analysis-tools.dev"
+      "title": "Math.min(Math.max(num, min), max)",
+      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
     },
     {
       "rank": "9.",
@@ -47,53 +47,53 @@
     },
     {
       "rank": "10.",
-      "title": "Math.min(Math.max(num, min), max)",
-      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
+      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
+      "link": "https://analysis-tools.dev"
     },
     {
       "rank": "11.",
-      "title": "A deep dive into the official Docker image for Python",
-      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
-    },
-    {
-      "rank": "12.",
-      "title": "Malaria No More",
-      "link": "http://malarianomore.org"
-    },
-    {
-      "rank": "13.",
-      "title": "Big Bounce Simulations Challenge the Big Bang",
-      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
-    },
-    {
-      "rank": "14.",
       "title": "Who to ignore – bullshit filters",
       "link": "https://ernest.oppet.it/2020/08/14/who-to-ignore/"
     },
     {
+      "rank": "12.",
+      "title": "A deep dive into the official Docker image for Python",
+      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
+    },
+    {
+      "rank": "13.",
+      "title": "Satellite warfare: An arms race is brewing in orbit",
+      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
+    },
+    {
+      "rank": "14.",
+      "title": "Malaria No More",
+      "link": "http://malarianomore.org"
+    },
+    {
       "rank": "15.",
-      "title": "Plan the Sprint, Not the Project",
-      "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
+      "title": "Big Bounce Simulations Challenge the Big Bang",
+      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
     },
     {
       "rank": "16.",
-      "title": "The 212-story skyscraper in Melbourne, Australia",
-      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
-    },
-    {
-      "rank": "17.",
       "title": "Fortnite’s battle with Apple and Google could have an impact on news publishers",
       "link": "https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/"
     },
     {
+      "rank": "17.",
+      "title": "The 212-story skyscraper in Melbourne, Australia",
+      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
+    },
+    {
       "rank": "18.",
-      "title": "Reddit reports 18% reduction in hate content after banning nearly 7k subreddits",
-      "link": "https://www.theverge.com/2020/8/20/21376957/reddit-hate-speech-content-policies-subreddit-bans-reduction"
+      "title": "Plan the Sprint, Not the Project",
+      "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
     },
     {
       "rank": "19.",
-      "title": "Satellite warfare: An arms race is brewing in orbit",
-      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
+      "title": "Reddit reports 18% reduction in hate content after banning nearly 7k subreddits",
+      "link": "https://www.theverge.com/2020/8/20/21376957/reddit-hate-speech-content-policies-subreddit-bans-reduction"
     },
     {
       "rank": "20.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
+      "title": "Show HN: Say Less – An AI-powered tool to write shorter, more effective email",
+      "link": "https://sayless.email/"
+    },
+    {
+      "rank": "24.",
       "title": "Antibody tests show what parts of NYC were hit hardest",
       "link": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "The AWS Controllers for Kubernetes",
       "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
-    },
-    {
-      "rank": "25.",
-      "title": "Effect of Exercise-Related Factors on the Perception of Time",
-      "link": "https://www.frontiersin.org/articles/10.3389/fphys.2020.00770/full"
     },
     {
       "rank": "26.",
@@ -132,18 +132,18 @@
     },
     {
       "rank": "27.",
+      "title": "Effect of Exercise-Related Factors on the Perception of Time",
+      "link": "https://www.frontiersin.org/articles/10.3389/fphys.2020.00770/full"
+    },
+    {
+      "rank": "28.",
       "title": "Can't you just right click?",
       "link": "https://lapcatsoftware.com/articles/unsigned.html"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "The Language of Science",
       "link": "https://www.scientificamerican.com/article/the-language-of-science/"
-    },
-    {
-      "rank": "29.",
-      "title": "Inline CSS works better in a component world",
-      "link": "https://davnicwil.com/inline-css-works-better-in-a-component-world/"
     },
     {
       "rank": "30.",
