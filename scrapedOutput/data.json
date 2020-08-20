@@ -17,18 +17,18 @@
     },
     {
       "rank": "4.",
+      "title": "Big Bounce Simulations Challenge the Big Bang",
+      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
+    },
+    {
+      "rank": "5.",
       "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
       "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "The AWS Controllers for Kubernetes",
       "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
-    },
-    {
-      "rank": "6.",
-      "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
-      "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
     },
     {
       "rank": "7.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Implementing 'focus and reply' for Fastmail with JMAP",
-      "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
+      "title": "Porting a Golang and Rust CLI tool to D",
+      "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
     },
     {
       "rank": "10.",
-      "title": "Porting a Golang and Rust CLI tool to D",
-      "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
+      "title": "Implementing 'focus and reply' for Fastmail with JMAP",
+      "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
     },
     {
       "rank": "11.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "How the ARM32 Kernel Starts",
-      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
+      "title": "Micro-Optimizing .tar.gz Archives by Changing File Order",
+      "link": "https://justinblank.com/experiments/optimizingtar.html"
     },
     {
       "rank": "13.",
-      "title": "Micro-Optimizing .tar.gz Archives by Changing File Order",
-      "link": "https://justinblank.com/experiments/optimizingtar.html"
+      "title": "How the ARM32 Kernel Starts",
+      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
     },
     {
       "rank": "14.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
-      "title": "Mutation Testing: A Tale of Two Suites",
-      "link": "https://codeascraft.com/2020/08/17/mutation-testing-a-tale-of-two-suites/"
-    },
-    {
-      "rank": "16.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Computer Search Settles 90-Year-Old Math Problem",
       "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
+    },
+    {
+      "rank": "17.",
+      "title": "Mutation Testing: A Tale of Two Suites",
+      "link": "https://codeascraft.com/2020/08/17/mutation-testing-a-tale-of-two-suites/"
     },
     {
       "rank": "18.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "The Trouble with Quantum Mechanics (2017) [pdf]",
-      "link": "http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf"
+      "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
+      "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
+      "title": "The Trouble with Quantum Mechanics (2017) [pdf]",
+      "link": "http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf"
     },
     {
       "rank": "23.",
-      "title": "Elastic 7.9",
-      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
     },
     {
       "rank": "24.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Coding and drawing",
-      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
+      "title": "42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python",
+      "link": "https://jobs.42.engineering"
     },
     {
       "rank": "28.",
-      "title": "42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python",
-      "link": "https://jobs.42.engineering"
+      "title": "Coding and drawing",
+      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
     },
     {
       "rank": "29.",
