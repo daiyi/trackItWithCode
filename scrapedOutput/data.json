@@ -17,23 +17,23 @@
     },
     {
       "rank": "4.",
+      "title": "Artificial Intelligence is stupid and causal reasoning won't fix it",
+      "link": "https://arxiv.org/abs/2008.07371"
+    },
+    {
+      "rank": "5.",
       "title": "Implementing 'focus and reply' for Fastmail with JMAP",
       "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
       "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Secret gyms and the economics of prohibition",
       "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
-    },
-    {
-      "rank": "7.",
-      "title": "Artificial Intelligence is stupid and causal reasoning won't fix it",
-      "link": "https://arxiv.org/abs/2008.07371"
     },
     {
       "rank": "8.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Netflix Conductor: Open-source workflow orchestration engine",
-      "link": "https://netflix.github.io/conductor/"
+      "title": "The AWS Controllers for Kubernetes",
+      "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
     },
     {
       "rank": "10.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "The dual PhD problem of today’s startups",
-      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
+      "title": "Netflix Conductor: Open-source workflow orchestration engine",
+      "link": "https://netflix.github.io/conductor/"
     },
     {
       "rank": "12.",
@@ -62,48 +62,48 @@
     },
     {
       "rank": "13.",
+      "title": "The dual PhD problem of today’s startups",
+      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
+    },
+    {
+      "rank": "14.",
       "title": "Everything old is new again: binary security of WebAssembly",
       "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Practical Data Ethics",
       "link": "http://ethics.fast.ai"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "What harm do minimum wages do?",
       "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Rust and C++ Interoperability in Chrome",
       "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Use of AI to select Superstars in sports",
       "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
     },
     {
-      "rank": "18.",
-      "title": "Coding and drawing",
-      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
-    },
-    {
       "rank": "19.",
-      "title": "Sequential Consequences",
-      "link": "https://stuartsierra.com/2020/08/19/sequential-consequences"
-    },
-    {
-      "rank": "20.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Filecoin: Proof of Storage Systems",
       "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
+    },
+    {
+      "rank": "21.",
+      "title": "Coding and drawing",
+      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
     },
     {
       "rank": "22.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
+      "title": "Sequential Consequences",
+      "link": "https://stuartsierra.com/2020/08/19/sequential-consequences"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
+    },
+    {
+      "rank": "28.",
       "title": "Shakespeare’s Son Died at 11. A Novel Asks How It Shaped His Art",
       "link": "https://www.nytimes.com/2020/07/17/books/review/hamnet-maggie-ofarrell.html"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Ice Lake AVX-512 Downclocking",
       "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
     },
     {
-      "rank": "29.",
-      "title": "Ever wonder what your dog is thinking?",
-      "link": "https://pursuit.unimelb.edu.au/articles/ever-wondered-what-your-pet-is-thinking"
-    },
-    {
       "rank": "30.",
-      "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
-      "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
+      "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
+      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
     }
   ],
   "metadata": {
