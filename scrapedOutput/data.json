@@ -2,43 +2,43 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "'Three quarters of UK does grocery shopping online'",
-      "link": "https://www.bbc.co.uk/news/uk-wales-53840920"
-    },
-    {
-      "rank": "2.",
       "title": "Can't you just right click?",
       "link": "https://lapcatsoftware.com/articles/unsigned.html"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
       "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "The AWS Controllers for Kubernetes",
       "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
       "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
       "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Implementing 'focus and reply' for Fastmail with JMAP",
       "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Gmail and Google Drive Outage",
       "link": "https://www.google.com/appsstatus#hl=en&v=status"
+    },
+    {
+      "rank": "8.",
+      "title": "Three quarters of people in the UK now do at least some online grocery shopping",
+      "link": "https://www.bbc.co.uk/news/uk-wales-53840920"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "The language of science – how words evolved",
-      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
+      "title": "Micro-Optimizing .tar.gz Archives by Changing File Order",
+      "link": "https://justinblank.com/experiments/optimizingtar.html"
     },
     {
       "rank": "11.",
-      "title": "Micro-Optimizing .tar.gz Archives by Changing File Order",
-      "link": "https://justinblank.com/experiments/optimizingtar.html"
+      "title": "The Language of Science",
+      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "California bullet train contractors botched bridge project",
-      "link": "https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu"
+      "title": "Lit: The Language Interpretability Tool",
+      "link": "https://github.com/pair-code/lit/"
     },
     {
       "rank": "14.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
-      "link": "item?id=24215376"
-    },
-    {
-      "rank": "16.",
-      "title": "Everything old is new again: binary security of WebAssembly",
-      "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
-    },
-    {
-      "rank": "17.",
       "title": "Computer Search Settles 90-Year-Old Math Problem",
       "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
     },
     {
+      "rank": "16.",
+      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
+      "link": "item?id=24215376"
+    },
+    {
+      "rank": "17.",
+      "title": "Everything old is new again: binary security of WebAssembly",
+      "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
+    },
+    {
       "rank": "18.",
-      "title": "Lit: The Language Interpretability Tool",
-      "link": "https://github.com/pair-code/lit/"
+      "title": "California bullet train contractors botched bridge project",
+      "link": "https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu"
     },
     {
       "rank": "19.",
@@ -97,33 +97,33 @@
     },
     {
       "rank": "20.",
-      "title": "42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python",
-      "link": "https://jobs.42.engineering"
-    },
-    {
-      "rank": "21.",
       "title": "Apple helped make 'top secret' iPod for US government",
       "link": "https://www.bbc.co.uk/news/technology-53835079"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
       "link": "item?id=24210098"
     },
     {
-      "rank": "23.",
-      "title": "Coding and drawing",
-      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
+      "rank": "22.",
+      "title": "42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python",
+      "link": "https://jobs.42.engineering"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Elastic 7.9",
       "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "The Medieval University Monopoly",
       "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
+    },
+    {
+      "rank": "25.",
+      "title": "Coding and drawing",
+      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Use of AI to select Superstars in sports",
-      "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
+      "title": "Facebook account now required to login to Oculus devices",
+      "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
     },
     {
       "rank": "28.",
-      "title": "Facebook account now required to login to Oculus devices",
-      "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
+      "title": "Use of AI to select Superstars in sports",
+      "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
     },
     {
       "rank": "29.",
