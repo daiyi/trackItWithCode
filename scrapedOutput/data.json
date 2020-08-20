@@ -12,43 +12,43 @@
     },
     {
       "rank": "3.",
-      "title": "Moving from YouTube to PeerTube",
-      "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
-    },
-    {
-      "rank": "4.",
       "title": "The software industry is going through the “disposable plastic” crisis",
       "link": "https://lwn.net/Articles/829123/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Learn Big-O and stop hacking your way through algorithms",
       "link": "https://triplebyte.com/blog/why-you-should-learn-big-o-and-stop-hacking-your-way-through-algorithms/?ref=hnpost"
     },
     {
+      "rank": "5.",
+      "title": "Moving from YouTube to PeerTube",
+      "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
+    },
+    {
       "rank": "6.",
+      "title": "Sending SPF and DMARC passing mail as any Gmail or G Suite customer",
+      "link": "https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/"
+    },
+    {
+      "rank": "7.",
       "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
       "link": "item?id=24228826"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
       "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
       "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Former Chief Security Officer for Uber Charged with Obstruction of Justice",
       "link": "https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice"
-    },
-    {
-      "rank": "10.",
-      "title": "Writing a Game in C: Parsing S-expressions",
-      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
     },
     {
       "rank": "11.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "Archaeologist discovers rare items under the floor of Oxburgh Hall",
-      "link": "https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall"
+      "title": "Writing a Game in C: Parsing S-expressions",
+      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
     },
     {
       "rank": "13.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Sending SPF and DMARC passing mail as any Gmail or G Suite customer",
-      "link": "https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/"
+      "title": "Archaeologist discovers rare items under the floor of Oxburgh Hall",
+      "link": "https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Former Uber executive charged with paying 'hush money' to conceal breach",
-      "link": "https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach"
+      "title": "How to make a bee hotel [pdf]",
+      "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
     },
     {
       "rank": "18.",
@@ -92,28 +92,28 @@
     },
     {
       "rank": "19.",
+      "title": "Former Uber executive charged with paying 'hush money' to conceal breach",
+      "link": "https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach"
+    },
+    {
+      "rank": "20.",
       "title": "Wirecard hired actors to fool auditors",
       "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Math.min(Math.max(num, min), max)",
       "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Foiling Electric Boat",
       "link": "https://candelaspeedboat.com/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Sci-fi story coauthored by GPT-3, including in-character human/AI chats",
       "link": "https://jamesyu.org/singular/"
-    },
-    {
-      "rank": "23.",
-      "title": "Plan the Sprint, Not the Project",
-      "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
     },
     {
       "rank": "24.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "Tackling open challenges in offline reinforcement learning",
-      "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
+      "title": "Plan the Sprint, Not the Project",
+      "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Tackling open challenges in offline reinforcement learning",
+      "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
+    },
+    {
+      "rank": "29.",
       "title": "Fortnite’s battle with Apple and Google could have an impact on news publishers",
       "link": "https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
       "link": "https://analysis-tools.dev"
-    },
-    {
-      "rank": "30.",
-      "title": "S&P 500 Return Attribution: Its 1% economy",
-      "link": "https://www.putnam.com/advisor/content/perspectives/7816"
     }
   ],
   "metadata": {
