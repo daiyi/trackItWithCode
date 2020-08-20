@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
-      "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
-      "link": "item?id=24224355"
-    },
-    {
-      "rank": "17.",
       "title": "Writing a Game in C: Parsing S-expressions",
       "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
     },
     {
+      "rank": "17.",
+      "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
+      "link": "item?id=24224355"
+    },
+    {
       "rank": "18.",
-      "title": "Former Uber executive charged with paying 'hush money' to conceal breach",
-      "link": "https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach"
+      "title": "Wirecard hired actors to fool auditors",
+      "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
     },
     {
       "rank": "19.",
-      "title": "Wirecard hired actors to fool auditors",
-      "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
+      "title": "Former Uber executive charged with paying 'hush money' to conceal breach",
+      "link": "https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach"
     },
     {
       "rank": "20.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "Tackling open challenges in offline reinforcement learning",
-      "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
+      "title": "An Anecdote About ML Type Inference (1994)",
+      "link": "https://web.archive.org/web/20081006181650/http://www.usenix.org/publications/library/proceedings/vhll/full_papers/koenig.a"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "An Anecdote About ML Type Inference (1994)",
-      "link": "https://web.archive.org/web/20081006181650/http://www.usenix.org/publications/library/proceedings/vhll/full_papers/koenig.a"
+      "title": "Tackling open challenges in offline reinforcement learning",
+      "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
     }
   ],
   "metadata": {
