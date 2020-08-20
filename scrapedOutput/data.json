@@ -17,23 +17,23 @@
     },
     {
       "rank": "4.",
-      "title": "Learn Big-O and stop hacking your way through algorithms",
-      "link": "https://triplebyte.com/blog/why-you-should-learn-big-o-and-stop-hacking-your-way-through-algorithms/?ref=hnpost"
-    },
-    {
-      "rank": "5.",
       "title": "Moving from YouTube to PeerTube",
       "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Sending SPF and DMARC passing mail as any Gmail or G Suite customer",
       "link": "https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
       "link": "item?id=24228826"
+    },
+    {
+      "rank": "7.",
+      "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
+      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
     },
     {
       "rank": "8.",
@@ -42,83 +42,83 @@
     },
     {
       "rank": "9.",
-      "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
-      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
-    },
-    {
-      "rank": "10.",
       "title": "Former Chief Security Officer for Uber Charged with Obstruction of Justice",
       "link": "https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Satellite warfare: An arms race is brewing in orbit",
       "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
     },
     {
-      "rank": "12.",
-      "title": "Writing a Game in C: Parsing S-expressions",
-      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
-    },
-    {
-      "rank": "13.",
-      "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
-      "link": "https://sayless.email/"
-    },
-    {
-      "rank": "14.",
-      "title": "Citibank's $900M Blunder",
-      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
-    },
-    {
-      "rank": "15.",
+      "rank": "11.",
       "title": "Archaeologist discovers rare items under the floor of Oxburgh Hall",
       "link": "https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall"
     },
     {
-      "rank": "16.",
+      "rank": "12.",
+      "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
+      "link": "https://sayless.email/"
+    },
+    {
+      "rank": "13.",
+      "title": "Citibank's $900M Blunder",
+      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
+    },
+    {
+      "rank": "14.",
       "title": "Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine",
       "link": "https://gravitymachine.org/about/"
     },
     {
-      "rank": "17.",
+      "rank": "15.",
+      "title": "Writing a Game in C: Parsing S-expressions",
+      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
+    },
+    {
+      "rank": "16.",
       "title": "How to make a bee hotel [pdf]",
       "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
       "link": "item?id=24224355"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Former Uber executive charged with paying 'hush money' to conceal breach",
       "link": "https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Wirecard hired actors to fool auditors",
       "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Math.min(Math.max(num, min), max)",
       "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Foiling Electric Boat",
       "link": "https://candelaspeedboat.com/"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Sci-fi story coauthored by GPT-3, including in-character human/AI chats",
       "link": "https://jamesyu.org/singular/"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "A deep dive into the official Docker image for Python",
       "link": "https://pythonspeed.com/articles/official-python-docker-image/"
+    },
+    {
+      "rank": "24.",
+      "title": "Plan the Sprint, Not the Project",
+      "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Plan the Sprint, Not the Project",
-      "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
-    },
-    {
-      "rank": "27.",
       "title": "Startup mistakes: Lessons from failed startups",
       "link": "https://www.failory.com/blog/startup-mistakes"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Tackling open challenges in offline reinforcement learning",
       "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Fortnite’s battle with Apple and Google could have an impact on news publishers",
       "link": "https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
       "link": "https://analysis-tools.dev"
+    },
+    {
+      "rank": "30.",
+      "title": "An Anecdote About ML Type Inference (1994)",
+      "link": "https://web.archive.org/web/20081006181650/http://www.usenix.org/publications/library/proceedings/vhll/full_papers/koenig.a"
     }
   ],
   "metadata": {
