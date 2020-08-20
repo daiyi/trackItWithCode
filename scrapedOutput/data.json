@@ -12,68 +12,68 @@
     },
     {
       "rank": "3.",
-      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
-      "link": "https://analysis-tools.dev"
-    },
-    {
-      "rank": "4.",
       "title": "Foiling Electric Boat",
       "link": "https://candelaspeedboat.com/"
     },
     {
+      "rank": "4.",
+      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
+      "link": "https://analysis-tools.dev"
+    },
+    {
       "rank": "5.",
-      "title": "KeePassXC 2.6.1 Released",
-      "link": "https://keepassxc.org/blog/2020-08-19-2.6.1-released/"
-    },
-    {
-      "rank": "6.",
-      "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
-      "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
-    },
-    {
-      "rank": "7.",
-      "title": "2,445 IBM Employees Openly Condemned IBM for Enabling Racist Regimes",
-      "link": "http://techrights.org/2020/08/20/ibm-employees-condemn-ibm-leaders/"
-    },
-    {
-      "rank": "8.",
-      "title": "Big Bounce Simulations Challenge the Big Bang",
-      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
-    },
-    {
-      "rank": "9.",
-      "title": "The AWS Controllers for Kubernetes",
-      "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
-    },
-    {
-      "rank": "10.",
-      "title": "The Language of Science",
-      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
-    },
-    {
-      "rank": "11.",
-      "title": "Can't you just right click?",
-      "link": "https://lapcatsoftware.com/articles/unsigned.html"
-    },
-    {
-      "rank": "12.",
-      "title": "The 212-story skyscraper in Melbourne, Australia",
-      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
-    },
-    {
-      "rank": "13.",
       "title": "Fintech Wirecard hired actors to fool auditors",
       "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
     },
     {
-      "rank": "14.",
+      "rank": "6.",
+      "title": "KeePassXC 2.6.1 Released",
+      "link": "https://keepassxc.org/blog/2020-08-19-2.6.1-released/"
+    },
+    {
+      "rank": "7.",
+      "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
+      "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
+    },
+    {
+      "rank": "8.",
+      "title": "The 212-story skyscraper in Melbourne, Australia",
+      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
+    },
+    {
+      "rank": "9.",
+      "title": "Big Bounce Simulations Challenge the Big Bang",
+      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
+    },
+    {
+      "rank": "10.",
+      "title": "The AWS Controllers for Kubernetes",
+      "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
+    },
+    {
+      "rank": "11.",
       "title": "A deep dive into the official Docker image for Python",
       "link": "https://pythonspeed.com/articles/official-python-docker-image/"
     },
     {
-      "rank": "15.",
+      "rank": "12.",
+      "title": "The Language of Science",
+      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
+    },
+    {
+      "rank": "13.",
+      "title": "Can't you just right click?",
+      "link": "https://lapcatsoftware.com/articles/unsigned.html"
+    },
+    {
+      "rank": "14.",
       "title": "Analyzing Python Code with Python",
       "link": "https://rotemtam.com/2020/08/13/python-ast/"
+    },
+    {
+      "rank": "15.",
+      "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
+      "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
     },
     {
       "rank": "16.",
@@ -82,58 +82,58 @@
     },
     {
       "rank": "17.",
-      "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
-      "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
-    },
-    {
-      "rank": "18.",
       "title": "Porting a Golang and Rust CLI tool to D",
       "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "How the ARM32 Kernel Starts",
       "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
     },
     {
-      "rank": "20.",
-      "title": "The Iron Law of Wages",
-      "link": "https://en.wikipedia.org/wiki/Iron_law_of_wages"
-    },
-    {
-      "rank": "21.",
+      "rank": "19.",
       "title": "Gmail and Google Drive Outage",
       "link": "https://www.google.com/appsstatus#hl=en&v=status"
     },
     {
-      "rank": "22.",
+      "rank": "20.",
+      "title": "Iron law of wages",
+      "link": "https://en.wikipedia.org/wiki/Iron_law_of_wages"
+    },
+    {
+      "rank": "21.",
       "title": "IBM Z mainframes revived by Red Hat, AI and security",
       "link": "https://searchdatacenter.techtarget.com/news/252487632/IBM-Z-mainframes-revived-by-Red-Hat-AI-and-security"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "24.",
-      "title": "Lit: The Language Interpretability Tool",
-      "link": "https://github.com/pair-code/lit/"
+      "rank": "23.",
+      "title": "1.5m antibody tests show what parts of NYC were hit hardest",
+      "link": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "The Trouble with Quantum Mechanics (2017) [pdf]",
       "link": "http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf"
     },
     {
+      "rank": "25.",
+      "title": "2,445 IBM Employees Openly Condemned IBM for Enabling Racist Regimes",
+      "link": "http://techrights.org/2020/08/20/ibm-employees-condemn-ibm-leaders/"
+    },
+    {
       "rank": "26.",
-      "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
-      "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
+      "title": "Lit: The Language Interpretability Tool",
+      "link": "https://github.com/pair-code/lit/"
     },
     {
       "rank": "27.",
-      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
-      "link": "item?id=24215376"
+      "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
+      "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Apple helped make 'top secret' iPod for US government",
-      "link": "https://www.bbc.co.uk/news/technology-53835079"
+      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
+      "link": "item?id=24215376"
     },
     {
       "rank": "30.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
+      "title": "Apple helped make 'top secret' iPod for US government",
+      "link": "https://www.bbc.co.uk/news/technology-53835079"
     }
   ],
   "metadata": {
