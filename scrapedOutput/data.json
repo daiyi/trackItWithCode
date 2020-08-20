@@ -37,58 +37,58 @@
     },
     {
       "rank": "8.",
-      "title": "Ironclad (YC S15) Is Looking for a Demand Gen Manager",
-      "link": "https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f"
-    },
-    {
-      "rank": "9.",
       "title": "Secret gyms and the economics of prohibition",
       "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Ultralight lithium-sulfur batteries for electric airplanes",
       "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Netflix Conductor: Open-source workflow orchestration engine",
       "link": "https://netflix.github.io/conductor/"
     },
     {
-      "rank": "12.",
-      "title": "Artificial Intelligence is stupid and causal reasoning won't fix it",
-      "link": "https://arxiv.org/abs/2008.07371"
+      "rank": "11.",
+      "title": "Ironclad (YC S15) Is Looking for a Demand Gen Manager",
+      "link": "https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "The dual PhD problem of today’s startups",
       "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
       "link": "item?id=24215376"
     },
     {
+      "rank": "14.",
+      "title": "Artificial Intelligence is stupid and causal reasoning won't fix it",
+      "link": "https://arxiv.org/abs/2008.07371"
+    },
+    {
       "rank": "15.",
-      "title": "Everything old is new again: binary security of WebAssembly",
-      "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
-    },
-    {
-      "rank": "16.",
-      "title": "Practical Data Ethics",
-      "link": "http://ethics.fast.ai"
-    },
-    {
-      "rank": "17.",
       "title": "Sequential Consequences",
       "link": "https://stuartsierra.com/2020/08/19/sequential-consequences"
     },
     {
-      "rank": "18.",
+      "rank": "16.",
       "title": "Use of AI to select Superstars in sports",
       "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
+    },
+    {
+      "rank": "17.",
+      "title": "Practical Data Ethics",
+      "link": "http://ethics.fast.ai"
+    },
+    {
+      "rank": "18.",
+      "title": "Everything old is new again: binary security of WebAssembly",
+      "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
     },
     {
       "rank": "19.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "My kid can’t handle a virtual education, and neither can I",
-      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
-    },
-    {
-      "rank": "23.",
       "title": "Ice Lake AVX-512 Downclocking",
       "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
     },
     {
-      "rank": "24.",
-      "title": "Filecoin: Proof of Storage Systems",
-      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
+      "rank": "23.",
+      "title": "My kid can’t handle a virtual education, and neither can I",
+      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "How Happy Couples Argue: Study (2019)",
       "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Elastic 7.9",
       "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
     },
     {
-      "rank": "27.",
-      "title": "Coding and drawing",
-      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
-    },
-    {
-      "rank": "28.",
-      "title": "The Medieval University Monopoly",
-      "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
-    },
-    {
-      "rank": "29.",
+      "rank": "26.",
       "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
       "link": "item?id=24210098"
     },
     {
+      "rank": "27.",
+      "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
+      "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
+    },
+    {
+      "rank": "28.",
+      "title": "Coding and drawing",
+      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
+    },
+    {
+      "rank": "29.",
+      "title": "The Medieval University Monopoly",
+      "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
+    },
+    {
       "rank": "30.",
-      "title": "Shakespeare’s Son Died at 11. A Novel Asks How It Shaped His Art",
-      "link": "https://www.nytimes.com/2020/07/17/books/review/hamnet-maggie-ofarrell.html"
+      "title": "Filecoin: Proof of Storage Systems",
+      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
     }
   ],
   "metadata": {
