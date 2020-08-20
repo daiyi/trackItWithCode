@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
-      "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
+      "title": "How Shopify made storefront response times 4x faster",
+      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
     },
     {
       "rank": "3.",
-      "title": "How Shopify made storefront response times 4x faster",
-      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
+      "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
+      "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
     },
     {
       "rank": "4.",
@@ -22,58 +22,58 @@
     },
     {
       "rank": "5.",
-      "title": "Writing a Game in C: Parsing S-expressions",
-      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
-    },
-    {
-      "rank": "6.",
       "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
       "link": "item?id=24228826"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
       "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Words Matter: How Tech Media Helped Write Gig Companies into Existence",
       "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668606&utm_campaign=Johannes%20Klingebiel&utm_medium=email&utm_source=Revue%20newsletter"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Satellite warfare: An arms race is brewing in orbit",
       "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
       "link": "https://sayless.email/"
     },
     {
+      "rank": "10.",
+      "title": "Writing a Game in C: Parsing S-expressions",
+      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
+    },
+    {
       "rank": "11.",
+      "title": "Archaeologist discovers rare items under the floor of Oxburgh Hall",
+      "link": "https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall"
+    },
+    {
+      "rank": "12.",
       "title": "Citibank's $900M Blunder",
       "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine",
       "link": "https://gravitymachine.org/about/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
       "link": "item?id=24224355"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "S&P 500 Return Attribution: Its 1% economy",
       "link": "https://www.putnam.com/advisor/content/perspectives/7816"
-    },
-    {
-      "rank": "15.",
-      "title": "Math.min(Math.max(num, min), max)",
-      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
     },
     {
       "rank": "16.",
@@ -82,53 +82,53 @@
     },
     {
       "rank": "17.",
+      "title": "Math.min(Math.max(num, min), max)",
+      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
+    },
+    {
+      "rank": "18.",
       "title": "Sci-fi story coauthored by GPT-3, including in-character human/AI chats",
       "link": "https://jamesyu.org/singular/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Foiling Electric Boat",
       "link": "https://candelaspeedboat.com/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Plan the Sprint, Not the Project",
       "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "A deep dive into the official Docker image for Python",
       "link": "https://pythonspeed.com/articles/official-python-docker-image/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Tackling open challenges in offline reinforcement learning",
       "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Big Bounce Simulations Challenge the Big Bang",
       "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Startup mistakes: Lessons from failed startups",
       "link": "https://www.failory.com/blog/startup-mistakes"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
       "link": "https://analysis-tools.dev"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Fortnite’s battle with Apple and Google could have an impact on news publishers",
       "link": "https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/"
-    },
-    {
-      "rank": "26.",
-      "title": "Former Uber Security Chief Charged with Concealing Hack",
-      "link": "https://www.nytimes.com/2020/08/20/technology/joe-sullivan-uber-charged-hack.html"
     },
     {
       "rank": "27.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "The 212-story skyscraper in Melbourne, Australia",
-      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
+      "title": "Former Uber Security Chief Charged with Concealing Hack",
+      "link": "https://www.nytimes.com/2020/08/20/technology/joe-sullivan-uber-charged-hack.html"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Who to ignore – bullshit filters",
-      "link": "https://ernest.oppet.it/2020/08/14/who-to-ignore/"
+      "title": "The 212-story skyscraper in Melbourne, Australia",
+      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
     }
   ],
   "metadata": {
