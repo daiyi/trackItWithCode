@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Father bikes 105km to take his son to exam center",
-      "link": "https://translate.googleusercontent.com/translate_c?depth=1&nv=1&pto=aue&rurl=translate.google.com&sl=auto&sp=nmt4&tl=en&u=https://www.industryadda.com/%25E0%25A4%25AE%25E0%25A4%259C%25E0%25A4%25A6%25E0%25A5%2582%25E0%25A4%25B0-%25E0%25A4%25AA%25E0%25A4%25BF%25E0%25A4%25A4%25E0%25A4%25BE-%25E0%25A4%25A8%25E0%25A5%2587-%25E0%25A4%25AC%25E0%25A5%2587%25E0%25A4%259F%25E0%25A5%2587-%25E0%25A4%2595%25E0%25A5%258B-%25E0%25A4%25AA%25E0%25A4%25B0%25E0%25A5%2580%25E0%25A4%2595/&usg=ALkJrhhxisFA_C6guT_SODZrTr-RrfhB6w"
-    },
-    {
-      "rank": "2.",
       "title": "Can't you just right click?",
       "link": "https://lapcatsoftware.com/articles/unsigned.html"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "The AWS Controllers for Kubernetes",
       "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Apple helped make 'top secret' iPod for US government",
       "link": "https://www.bbc.co.uk/news/technology-53835079"
+    },
+    {
+      "rank": "4.",
+      "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
+      "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
     },
     {
       "rank": "5.",
@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
-      "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
+      "title": "Artificial Intelligence is stupid and causal reasoning won't fix it",
+      "link": "https://arxiv.org/abs/2008.07371"
     },
     {
       "rank": "7.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Artificial Intelligence is stupid and causal reasoning won't fix it",
-      "link": "https://arxiv.org/abs/2008.07371"
+      "title": "Secret gyms and the economics of prohibition",
+      "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
     },
     {
       "rank": "9.",
-      "title": "Secret gyms and the economics of prohibition",
-      "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
+      "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
+      "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
     },
     {
       "rank": "10.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "Ironclad (YC S15) Is Looking for a Demand Gen Manager",
-      "link": "https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f"
+      "title": "Madhya Pradesh man cycles 105km to ferry son to Class X exam centre",
+      "link": "https://www.theweek.in/news/india/2020/08/19/madhya-pradesh-man-cycles-105km-to-ferry-son-to-class-x-exam-centre.html"
     },
     {
       "rank": "13.",
@@ -67,28 +67,28 @@
     },
     {
       "rank": "14.",
+      "title": "Ironclad (YC S15) Is Looking for a Demand Gen Manager",
+      "link": "https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f"
+    },
+    {
+      "rank": "15.",
       "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
       "link": "item?id=24215376"
     },
     {
-      "rank": "15.",
-      "title": "Sequential Consequences",
-      "link": "https://stuartsierra.com/2020/08/19/sequential-consequences"
-    },
-    {
       "rank": "16.",
-      "title": "Practical Data Ethics",
-      "link": "http://ethics.fast.ai"
-    },
-    {
-      "rank": "17.",
       "title": "Use of AI to select Superstars in sports",
       "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Everything old is new again: binary security of WebAssembly",
       "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
+    },
+    {
+      "rank": "18.",
+      "title": "Sequential Consequences",
+      "link": "https://stuartsierra.com/2020/08/19/sequential-consequences"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+      "title": "Practical Data Ethics",
+      "link": "http://ethics.fast.ai"
     },
     {
       "rank": "21.",
-      "title": "What harm do minimum wages do?",
-      "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "How Happy Couples Argue: Study (2019)",
-      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
+      "title": "What harm do minimum wages do?",
+      "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
     },
     {
       "rank": "24.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "How Happy Couples Argue: Study (2019)",
+      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
+    },
+    {
+      "rank": "27.",
       "title": "Coding and drawing",
       "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
       "link": "item?id=24210098"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "The Medieval University Monopoly",
       "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Filecoin: Proof of Storage Systems",
       "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
-    },
-    {
-      "rank": "30.",
-      "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
-      "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
     }
   ],
   "metadata": {
