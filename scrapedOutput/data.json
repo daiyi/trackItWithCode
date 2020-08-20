@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Big Bounce Simulations Challenge the Big Bang",
-      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
+      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
+      "link": "https://analysis-tools.dev"
     },
     {
       "rank": "2.",
@@ -12,43 +12,43 @@
     },
     {
       "rank": "3.",
-      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
-      "link": "https://analysis-tools.dev"
-    },
-    {
-      "rank": "4.",
-      "title": "Can't you just right click?",
-      "link": "https://lapcatsoftware.com/articles/unsigned.html"
-    },
-    {
-      "rank": "5.",
       "title": "Foiling Electric Boat",
       "link": "https://candelaspeedboat.com/"
     },
     {
-      "rank": "6.",
+      "rank": "4.",
+      "title": "KeePassXC 2.6.1 Released",
+      "link": "https://keepassxc.org/blog/2020-08-19-2.6.1-released/"
+    },
+    {
+      "rank": "5.",
       "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
       "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
     },
     {
-      "rank": "7.",
-      "title": "Analyzing Python Code with Python",
-      "link": "https://rotemtam.com/2020/08/13/python-ast/"
+      "rank": "6.",
+      "title": "Big Bounce Simulations Challenge the Big Bang",
+      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "The AWS Controllers for Kubernetes",
       "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
     },
     {
+      "rank": "8.",
+      "title": "Can't you just right click?",
+      "link": "https://lapcatsoftware.com/articles/unsigned.html"
+    },
+    {
       "rank": "9.",
-      "title": "The Language of Science",
-      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
+      "title": "Analyzing Python Code with Python",
+      "link": "https://rotemtam.com/2020/08/13/python-ast/"
     },
     {
       "rank": "10.",
-      "title": "KeePassXC 2.6.1 Released",
-      "link": "https://keepassxc.org/blog/2020-08-19-2.6.1-released/"
+      "title": "The Language of Science",
+      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
     },
     {
       "rank": "11.",
@@ -67,88 +67,88 @@
     },
     {
       "rank": "14.",
-      "title": "The Iron Law of Wages",
-      "link": "https://en.wikipedia.org/wiki/Iron_law_of_wages"
-    },
-    {
-      "rank": "15.",
       "title": "The 212-story skyscraper in Melbourne, Australia",
       "link": "https://twitter.com/liamosaur/status/1296305262144364544"
     },
     {
+      "rank": "15.",
+      "title": "A deep dive into the official Docker image for Python",
+      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
+    },
+    {
       "rank": "16.",
+      "title": "2,445 IBM Employees Openly Condemned IBM for Enabling Racist Regimes",
+      "link": "http://techrights.org/2020/08/20/ibm-employees-condemn-ibm-leaders/"
+    },
+    {
+      "rank": "17.",
+      "title": "The Iron Law of Wages",
+      "link": "https://en.wikipedia.org/wiki/Iron_law_of_wages"
+    },
+    {
+      "rank": "18.",
       "title": "How the ARM32 Kernel Starts",
       "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
     },
     {
-      "rank": "17.",
+      "rank": "19.",
       "title": "Gmail and Google Drive Outage",
       "link": "https://www.google.com/appsstatus#hl=en&v=status"
     },
     {
-      "rank": "18.",
+      "rank": "20.",
       "title": "IBM Z mainframes revived by Red Hat, AI and security",
       "link": "https://searchdatacenter.techtarget.com/news/252487632/IBM-Z-mainframes-revived-by-Red-Hat-AI-and-security"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
       "title": "Lit: The Language Interpretability Tool",
       "link": "https://github.com/pair-code/lit/"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "The Trouble with Quantum Mechanics (2017) [pdf]",
       "link": "http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
       "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
     },
     {
-      "rank": "23.",
-      "title": "Computer Search Settles 90-Year-Old Math Problem",
-      "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
-    },
-    {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
       "link": "item?id=24215376"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "Computer Search Settles 90-Year-Old Math Problem",
+      "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
+    },
+    {
+      "rank": "27.",
       "title": "Apple helped make 'top secret' iPod for US government",
       "link": "https://www.bbc.co.uk/news/technology-53835079"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
       "link": "item?id=24210098"
     },
     {
-      "rank": "27.",
-      "title": "Mutation Testing: A Tale of Two Suites",
-      "link": "https://codeascraft.com/2020/08/17/mutation-testing-a-tale-of-two-suites/"
-    },
-    {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Facebook account now required to login to Oculus devices",
       "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Coding and drawing",
       "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
-    },
-    {
-      "rank": "30.",
-      "title": "Implementing 'focus and reply' for Fastmail with JMAP",
-      "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
     }
   ],
   "metadata": {
