@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Can't you just right click?",
-      "link": "https://lapcatsoftware.com/articles/unsigned.html"
+      "title": "'Three quarters of UK does grocery shopping online'",
+      "link": "https://www.bbc.co.uk/news/uk-wales-53840920"
     },
     {
       "rank": "2.",
-      "title": "'Three quarters of UK does grocery shopping online'",
-      "link": "https://www.bbc.co.uk/news/uk-wales-53840920"
+      "title": "Can't you just right click?",
+      "link": "https://lapcatsoftware.com/articles/unsigned.html"
     },
     {
       "rank": "3.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Micro-Optimizing .tar.gz Archives by Changing File Order",
-      "link": "https://justinblank.com/experiments/optimizingtar.html"
+      "title": "The language of science – how words evolved",
+      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
     },
     {
       "rank": "11.",
-      "title": "Netflix Conductor: Open-source workflow orchestration engine",
-      "link": "https://netflix.github.io/conductor/"
+      "title": "Micro-Optimizing .tar.gz Archives by Changing File Order",
+      "link": "https://justinblank.com/experiments/optimizingtar.html"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "The dual PhD problem of today’s startups",
-      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
+      "title": "California bullet train contractors botched bridge project",
+      "link": "https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu"
     },
     {
       "rank": "14.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "California bullet train contractors botched bridge project",
-      "link": "https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu"
+      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
+      "link": "item?id=24215376"
     },
     {
       "rank": "16.",
-      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
-      "link": "item?id=24215376"
+      "title": "Everything old is new again: binary security of WebAssembly",
+      "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
     },
     {
       "rank": "17.",
@@ -92,63 +92,63 @@
     },
     {
       "rank": "19.",
-      "title": "42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python",
-      "link": "https://jobs.42.engineering"
-    },
-    {
-      "rank": "20.",
-      "title": "Everything old is new again: binary security of WebAssembly",
-      "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
-    },
-    {
-      "rank": "21.",
       "title": "Ice Lake AVX-512 Downclocking",
       "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
     },
     {
-      "rank": "22.",
-      "title": "My kid can’t handle a virtual education, and neither can I",
-      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
+      "rank": "20.",
+      "title": "42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python",
+      "link": "https://jobs.42.engineering"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
       "title": "Apple helped make 'top secret' iPod for US government",
       "link": "https://www.bbc.co.uk/news/technology-53835079"
     },
     {
-      "rank": "24.",
-      "title": "The language of science – how words evolved",
-      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
-    },
-    {
-      "rank": "25.",
+      "rank": "22.",
       "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
       "link": "item?id=24210098"
     },
     {
-      "rank": "26.",
+      "rank": "23.",
       "title": "Coding and drawing",
       "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
     },
     {
-      "rank": "27.",
+      "rank": "24.",
       "title": "Elastic 7.9",
       "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
     },
     {
-      "rank": "28.",
+      "rank": "25.",
+      "title": "The Medieval University Monopoly",
+      "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
+    },
+    {
+      "rank": "26.",
       "title": "Secret gyms and the economics of prohibition",
       "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
       "title": "Use of AI to select Superstars in sports",
       "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
     },
     {
+      "rank": "28.",
+      "title": "Facebook account now required to login to Oculus devices",
+      "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
+    },
+    {
+      "rank": "29.",
+      "title": "Ultralight lithium-sulfur batteries for electric airplanes",
+      "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
+    },
+    {
       "rank": "30.",
-      "title": "The Medieval University Monopoly",
-      "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
+      "title": "Netflix Conductor: Open-source workflow orchestration engine",
+      "link": "https://netflix.github.io/conductor/"
     }
   ],
   "metadata": {
