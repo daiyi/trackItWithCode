@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
-      "title": "Can't you just right click?",
-      "link": "https://lapcatsoftware.com/articles/unsigned.html"
-    },
-    {
-      "rank": "3.",
       "title": "Show HN: A list of 470 static analysis tools",
       "link": "https://analysis-tools.dev"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Big Bounce Simulations Challenge the Big Bang",
       "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
+    },
+    {
+      "rank": "4.",
+      "title": "Can't you just right click?",
+      "link": "https://lapcatsoftware.com/articles/unsigned.html"
     },
     {
       "rank": "5.",
@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
-      "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
+      "title": "The Language of Science",
+      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
     },
     {
       "rank": "8.",
-      "title": "The Language of Science",
-      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
+      "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
+      "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
     },
     {
       "rank": "9.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "Gmail and Google Drive Outage",
-      "link": "https://www.google.com/appsstatus#hl=en&v=status"
+      "title": "Micro-Optimizing .tar.gz Archives by Changing File Order",
+      "link": "https://justinblank.com/experiments/optimizingtar.html"
     },
     {
       "rank": "12.",
-      "title": "Micro-Optimizing .tar.gz Archives by Changing File Order",
-      "link": "https://justinblank.com/experiments/optimizingtar.html"
+      "title": "Gmail and Google Drive Outage",
+      "link": "https://www.google.com/appsstatus#hl=en&v=status"
     },
     {
       "rank": "13.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Lit: The Language Interpretability Tool",
-      "link": "https://github.com/pair-code/lit/"
+      "title": "IBM Z mainframes revived by Red Hat, AI and security",
+      "link": "https://searchdatacenter.techtarget.com/news/252487632/IBM-Z-mainframes-revived-by-Red-Hat-AI-and-security"
     },
     {
       "rank": "15.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+      "title": "Lit: The Language Interpretability Tool",
+      "link": "https://github.com/pair-code/lit/"
     },
     {
       "rank": "16.",
@@ -82,53 +82,53 @@
     },
     {
       "rank": "17.",
-      "title": "Mutation Testing: A Tale of Two Suites",
-      "link": "https://codeascraft.com/2020/08/17/mutation-testing-a-tale-of-two-suites/"
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
       "rank": "18.",
+      "title": "Effect of Exercise-Related Factors on the Perception of Time",
+      "link": "https://www.frontiersin.org/articles/10.3389/fphys.2020.00770/full"
+    },
+    {
+      "rank": "19.",
       "title": "Everything old is new again: binary security of WebAssembly",
       "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
+      "title": "NYC desperately needs its billionaires",
+      "link": "https://nypost.com/2020/08/18/sorry-mayor-de-blasio-nyc-desperately-needs-its-billionaires/"
+    },
+    {
+      "rank": "21.",
       "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
       "link": "item?id=24215376"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
       "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
       "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
     },
     {
-      "rank": "21.",
-      "title": "Apple helped make 'top secret' iPod for US government",
-      "link": "https://www.bbc.co.uk/news/technology-53835079"
+      "rank": "23.",
+      "title": "Mutation Testing: A Tale of Two Suites",
+      "link": "https://codeascraft.com/2020/08/17/mutation-testing-a-tale-of-two-suites/"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "The Trouble with Quantum Mechanics (2017) [pdf]",
       "link": "http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf"
     },
     {
-      "rank": "23.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
-    },
-    {
-      "rank": "24.",
-      "title": "The Medieval University Monopoly",
-      "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
-    },
-    {
       "rank": "25.",
-      "title": "Secret gyms and the economics of prohibition",
-      "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
+      "title": "Apple helped make 'top secret' iPod for US government",
+      "link": "https://www.bbc.co.uk/news/technology-53835079"
     },
     {
       "rank": "26.",
-      "title": "Facebook account now required to login to Oculus devices",
-      "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Coding and drawing",
-      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
+      "title": "Facebook account now required to login to Oculus devices",
+      "link": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/"
     },
     {
       "rank": "29.",
-      "title": "California bullet train contractors botched bridge project",
-      "link": "https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu"
+      "title": "Secret gyms and the economics of prohibition",
+      "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
     },
     {
       "rank": "30.",
-      "title": "Ultralight lithium-sulfur batteries for electric airplanes",
-      "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
+      "title": "Coding and drawing",
+      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
     }
   ],
   "metadata": {
