@@ -12,68 +12,68 @@
     },
     {
       "rank": "3.",
-      "title": "Not a tinkerer: The painful, hardly instructive story how I became an engineer",
-      "link": "https://www.gabrielpickard.com/posts/im-not-a-tinkerer-the-painful-hardly-instructive-story-of-how-i-became-a-decent-engineer/"
-    },
-    {
-      "rank": "4.",
-      "title": "LA Mayor Shuts Off Power at Hollywood Hills House That Hosted Large Parties",
-      "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/904053260/los-angeles-mayor-shuts-off-power-at-hollywood-hills-house-that-hosted-large-par"
-    },
-    {
-      "rank": "5.",
       "title": "The AWS Controllers for Kubernetes",
       "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
     },
     {
-      "rank": "6.",
+      "rank": "4.",
       "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
       "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
     },
     {
-      "rank": "7.",
+      "rank": "5.",
       "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
       "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
     },
     {
-      "rank": "8.",
+      "rank": "6.",
       "title": "Implementing 'focus and reply' for Fastmail with JMAP",
       "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
     },
     {
-      "rank": "9.",
+      "rank": "7.",
       "title": "Gmail and Google Drive Outage",
       "link": "https://www.google.com/appsstatus#hl=en&v=status"
     },
     {
-      "rank": "10.",
+      "rank": "8.",
       "title": "Easily replicate/clone your Linux install",
       "link": "http://foxclone.com"
     },
     {
-      "rank": "11.",
+      "rank": "9.",
       "title": "Ultralight lithium-sulfur batteries for electric airplanes",
       "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
     },
     {
-      "rank": "12.",
+      "rank": "10.",
       "title": "Netflix Conductor: Open-source workflow orchestration engine",
       "link": "https://netflix.github.io/conductor/"
     },
     {
-      "rank": "13.",
+      "rank": "11.",
+      "title": "Porting a Golang and Rust CLI tool to D",
+      "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
+    },
+    {
+      "rank": "12.",
       "title": "Micro-Optimizing .tar.gz Archives by Changing File Order",
       "link": "https://justinblank.com/experiments/optimizingtar.html"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "How the ARM32 Kernel Starts",
       "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python",
       "link": "https://jobs.42.engineering"
+    },
+    {
+      "rank": "15.",
+      "title": "The dual PhD problem of today’s startups",
+      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
     },
     {
       "rank": "16.",
@@ -82,73 +82,73 @@
     },
     {
       "rank": "17.",
-      "title": "Porting a Golang and Rust CLI tool to D",
-      "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
-    },
-    {
-      "rank": "18.",
-      "title": "The dual PhD problem of today’s startups",
-      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
-    },
-    {
-      "rank": "19.",
-      "title": "The language of science – how words evolved",
-      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
-    },
-    {
-      "rank": "20.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "21.",
-      "title": "Computer Search Settles 90-Year-Old Math Problem",
-      "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
+      "rank": "18.",
+      "title": "The language of science – how words evolved",
+      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
     },
     {
-      "rank": "22.",
-      "title": "Inline CSS works better in a component world",
-      "link": "https://davnicwil.com/inline-css-works-better-in-a-component-world/"
-    },
-    {
-      "rank": "23.",
+      "rank": "19.",
       "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
       "link": "item?id=24215376"
     },
     {
-      "rank": "24.",
+      "rank": "20.",
+      "title": "Computer Search Settles 90-Year-Old Math Problem",
+      "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
+    },
+    {
+      "rank": "21.",
       "title": "Practical Data Ethics",
       "link": "http://ethics.fast.ai"
     },
     {
-      "rank": "25.",
+      "rank": "22.",
       "title": "Everything old is new again: binary security of WebAssembly",
       "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
     },
     {
-      "rank": "26.",
+      "rank": "23.",
       "title": "How Happy Couples Argue: Study (2019)",
       "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
     },
     {
-      "rank": "27.",
+      "rank": "24.",
       "title": "Ice Lake AVX-512 Downclocking",
       "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
     },
     {
-      "rank": "28.",
+      "rank": "25.",
       "title": "What harm do minimum wages do?",
       "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
     },
     {
-      "rank": "29.",
+      "rank": "26.",
       "title": "My kid can’t handle a virtual education, and neither can I",
       "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
     },
     {
-      "rank": "30.",
+      "rank": "27.",
       "title": "Apple helped make 'top secret' iPod for US government",
       "link": "https://www.bbc.co.uk/news/technology-53835079"
+    },
+    {
+      "rank": "28.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
+    },
+    {
+      "rank": "29.",
+      "title": "LA Mayor Shuts Off Power at Hollywood Hills House That Hosted Large Parties",
+      "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/904053260/los-angeles-mayor-shuts-off-power-at-hollywood-hills-house-that-hosted-large-par"
+    },
+    {
+      "rank": "30.",
+      "title": "Coding and drawing",
+      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
     }
   ],
   "metadata": {
