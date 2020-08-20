@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
-      "title": "California bullet train contractors botched bridge project",
-      "link": "https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu"
-    },
-    {
-      "rank": "4.",
       "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
       "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "The AWS Controllers for Kubernetes",
       "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
       "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
+    },
+    {
+      "rank": "6.",
+      "title": "LA Mayor Shuts Off Power at Hollywood Hills House That Hosted Large Parties",
+      "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/904053260/los-angeles-mayor-shuts-off-power-at-hollywood-hills-house-that-hosted-large-par"
     },
     {
       "rank": "7.",
@@ -42,48 +42,48 @@
     },
     {
       "rank": "9.",
-      "title": "42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python",
-      "link": "https://jobs.42.engineering"
-    },
-    {
-      "rank": "10.",
       "title": "Implementing 'focus and reply' for Fastmail with JMAP",
       "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
     },
     {
+      "rank": "10.",
+      "title": "California bullet train contractors botched bridge project",
+      "link": "https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu"
+    },
+    {
       "rank": "11.",
-      "title": "Ultralight lithium-sulfur batteries for electric airplanes",
-      "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
-    },
-    {
-      "rank": "12.",
-      "title": "Netflix Conductor: Open-source workflow orchestration engine",
-      "link": "https://netflix.github.io/conductor/"
-    },
-    {
-      "rank": "13.",
-      "title": "How the ARM32 Kernel Starts",
-      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
-    },
-    {
-      "rank": "14.",
-      "title": "The dual PhD problem of today’s startups",
-      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
-    },
-    {
-      "rank": "15.",
-      "title": "Micro-Optimizing .tar.gz Archives by Changing File Order",
-      "link": "https://justinblank.com/experiments/optimizingtar.html"
-    },
-    {
-      "rank": "16.",
       "title": "Easily replicate/clone your Linux install",
       "link": "http://foxclone.com"
     },
     {
+      "rank": "12.",
+      "title": "42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python",
+      "link": "https://jobs.42.engineering"
+    },
+    {
+      "rank": "13.",
+      "title": "Ultralight lithium-sulfur batteries for electric airplanes",
+      "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
+    },
+    {
+      "rank": "14.",
+      "title": "Netflix Conductor: Open-source workflow orchestration engine",
+      "link": "https://netflix.github.io/conductor/"
+    },
+    {
+      "rank": "15.",
+      "title": "How the ARM32 Kernel Starts",
+      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
+    },
+    {
+      "rank": "16.",
+      "title": "Micro-Optimizing .tar.gz Archives by Changing File Order",
+      "link": "https://justinblank.com/experiments/optimizingtar.html"
+    },
+    {
       "rank": "17.",
-      "title": "Computer Search Settles 90-Year-Old Math Problem",
-      "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
+      "title": "The dual PhD problem of today’s startups",
+      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
-      "link": "item?id=24215376"
+      "title": "The language of science – how words evolved",
+      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
     },
     {
       "rank": "20.",
-      "title": "LA Mayor Shuts Off Power at Hollywood Hills House That Hosted Large Parties",
-      "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/904053260/los-angeles-mayor-shuts-off-power-at-hollywood-hills-house-that-hosted-large-par"
+      "title": "Computer Search Settles 90-Year-Old Math Problem",
+      "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
+      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
+      "link": "item?id=24215376"
+    },
+    {
+      "rank": "23.",
       "title": "Everything old is new again: binary security of WebAssembly",
       "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Practical Data Ethics",
       "link": "http://ethics.fast.ai"
     },
     {
-      "rank": "24.",
-      "title": "Ice Lake AVX-512 Downclocking",
-      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
-    },
-    {
       "rank": "25.",
-      "title": "Use of AI to select Superstars in sports",
-      "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
-    },
-    {
-      "rank": "26.",
       "title": "How Happy Couples Argue: Study (2019)",
       "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
     },
     {
+      "rank": "26.",
+      "title": "Ice Lake AVX-512 Downclocking",
+      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
+    },
+    {
       "rank": "27.",
+      "title": "Use of AI to select Superstars in sports",
+      "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
+    },
+    {
+      "rank": "28.",
       "title": "What harm do minimum wages do?",
       "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "My kid can’t handle a virtual education, and neither can I",
       "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Apple helped make 'top secret' iPod for US government",
       "link": "https://www.bbc.co.uk/news/technology-53835079"
-    },
-    {
-      "rank": "30.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
     }
   ],
   "metadata": {
