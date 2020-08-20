@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "Fintech Wirecard hired actors to fool auditors",
-      "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
+      "title": "Fortnite’s battle with Apple and Google could have an impact on news publishers",
+      "link": "https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/"
     },
     {
       "rank": "12.",
@@ -67,43 +67,43 @@
     },
     {
       "rank": "14.",
-      "title": "1.5m antibody tests show what parts of NYC were hit hardest",
-      "link": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html"
-    },
-    {
-      "rank": "15.",
       "title": "Foiling Electric Boat",
       "link": "https://candelaspeedboat.com/"
     },
     {
-      "rank": "16.",
-      "title": "Fortnite’s battle with Apple and Google could have an impact on news publishers",
-      "link": "https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/"
-    },
-    {
-      "rank": "17.",
-      "title": "How the ARM32 Kernel Starts",
-      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
-    },
-    {
-      "rank": "18.",
+      "rank": "15.",
       "title": "Unsporting scandium (2014)",
       "link": "https://www.nature.com/articles/nchem.2090"
     },
     {
-      "rank": "19.",
+      "rank": "16.",
       "title": "Math.min(Math.max(num, min), max)",
       "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
     },
     {
+      "rank": "17.",
+      "title": "1.5m antibody tests show what parts of NYC were hit hardest",
+      "link": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html"
+    },
+    {
+      "rank": "18.",
+      "title": "How the ARM32 Kernel Starts",
+      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
+    },
+    {
+      "rank": "19.",
+      "title": "Assange, Manning and Snowden Nominated for the 2020 Nobel Peace Prize",
+      "link": "https://defend.wikileaks.org/2020/02/06/julian-assange-chelsea-manning-and-edward-snowden-nominated-for-the-2020-nobel-peace-prize/"
+    },
+    {
       "rank": "20.",
-      "title": "KeePassXC 2.6.1 Released",
-      "link": "https://keepassxc.org/blog/2020-08-19-2.6.1-released/"
+      "title": "Gmail and Google Drive Outage",
+      "link": "https://www.google.com/appsstatus#hl=en&v=status"
     },
     {
       "rank": "21.",
-      "title": "Gmail and Google Drive Outage",
-      "link": "https://www.google.com/appsstatus#hl=en&v=status"
+      "title": "The Trouble with Quantum Mechanics (2017) [pdf]",
+      "link": "http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "Assange, Manning and Snowden Nominated for the 2020 Nobel Peace Prize",
-      "link": "https://defend.wikileaks.org/2020/02/06/julian-assange-chelsea-manning-and-edward-snowden-nominated-for-the-2020-nobel-peace-prize/"
-    },
-    {
-      "rank": "24.",
-      "title": "Big Bounce Simulations Challenge the Big Bang",
-      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
-    },
-    {
-      "rank": "25.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "26.",
-      "title": "The Trouble with Quantum Mechanics (2017) [pdf]",
-      "link": "http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf"
-    },
-    {
-      "rank": "27.",
+      "rank": "24.",
       "title": "Lit: The Language Interpretability Tool",
       "link": "https://github.com/pair-code/lit/"
     },
     {
-      "rank": "28.",
+      "rank": "25.",
+      "title": "Fintech Wirecard hired actors to fool auditors",
+      "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
+    },
+    {
+      "rank": "26.",
       "title": "Computer Search Settles 90-Year-Old Math Problem",
       "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
+      "title": "Big Bounce Simulations Challenge the Big Bang",
+      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
+    },
+    {
+      "rank": "28.",
       "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
       "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
     },
     {
+      "rank": "29.",
+      "title": "Mutation Testing: A Tale of Two Suites",
+      "link": "https://codeascraft.com/2020/08/17/mutation-testing-a-tale-of-two-suites/"
+    },
+    {
       "rank": "30.",
-      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
-      "link": "item?id=24215376"
+      "title": "KeePassXC 2.6.1 Released",
+      "link": "https://keepassxc.org/blog/2020-08-19-2.6.1-released/"
     }
   ],
   "metadata": {
