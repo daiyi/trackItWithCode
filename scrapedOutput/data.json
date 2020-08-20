@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
+      "title": "How Shopify made storefront response times 4x faster",
+      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
+    },
+    {
+      "rank": "4.",
       "title": "Moving from YouTube to PeerTube",
       "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Writing a Game in C: Parsing S-expressions",
       "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
-    },
-    {
-      "rank": "5.",
-      "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
-      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
     },
     {
       "rank": "6.",
@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "How Shopify made storefront response times 4x faster",
-      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
+      "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
+      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
     },
     {
       "rank": "8.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "Wirecard hired actors to fool auditors",
-      "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
+      "title": "S&P 500 Return Attribution: Its 1% economy",
+      "link": "https://www.putnam.com/advisor/content/perspectives/7816"
     },
     {
       "rank": "15.",
@@ -77,28 +77,28 @@
     },
     {
       "rank": "16.",
+      "title": "Wirecard hired actors to fool auditors",
+      "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
+    },
+    {
+      "rank": "17.",
       "title": "Sci-fi story coauthored by GPT-3, including in-character human/AI chats",
       "link": "https://jamesyu.org/singular/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Foiling Electric Boat",
       "link": "https://candelaspeedboat.com/"
     },
     {
-      "rank": "18.",
-      "title": "S&P 500 Return Attribution: Its 1% economy",
-      "link": "https://www.putnam.com/advisor/content/perspectives/7816"
-    },
-    {
       "rank": "19.",
-      "title": "A deep dive into the official Docker image for Python",
-      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
+      "title": "Plan the Sprint, Not the Project",
+      "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
     },
     {
       "rank": "20.",
-      "title": "Plan the Sprint, Not the Project",
-      "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
+      "title": "A deep dive into the official Docker image for Python",
+      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
     },
     {
       "rank": "21.",
