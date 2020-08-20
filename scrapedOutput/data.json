@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Sci-fi story coauthored by GPT-3, including in-character human/AI chats",
-      "link": "https://jamesyu.org/singular/"
+      "title": "A civilization flourished in Sudan nearly 5K years ago. Why was it forgotten?",
+      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
     },
     {
       "rank": "4.",
-      "title": "A civilization flourished in Sudan nearly 5K years ago. Why was it forgotten?",
-      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
+      "title": "Sci-fi story coauthored by GPT-3, including in-character human/AI chats",
+      "link": "https://jamesyu.org/singular/"
     },
     {
       "rank": "5.",
@@ -42,53 +42,53 @@
     },
     {
       "rank": "9.",
-      "title": "Science Fiction Books I’ve Read (2018)",
-      "link": "https://fortelabs.co/blog/science-fiction-books-ive-read/"
-    },
-    {
-      "rank": "10.",
       "title": "Tackling Open Challenges in Offline Reinforcement Learning",
       "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Show HN: Say Less – An AI-powered tool to write shorter, more effective email",
       "link": "https://sayless.email/"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Who to ignore – bullshit filters",
       "link": "https://ernest.oppet.it/2020/08/14/who-to-ignore/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
       "link": "item?id=24224355"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Plan the Sprint, Not the Project",
       "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Foiling Electric Boat",
       "link": "https://candelaspeedboat.com/"
     },
     {
+      "rank": "15.",
+      "title": "Magnetoplasma drive could make Mars transit take 39 days?",
+      "link": "https://orbitalindex.com/archive/2020-08-19-Issue-78/#magnetoplasma-to-mars-in-39-days"
+    },
+    {
       "rank": "16.",
-      "title": "Experimental evidence supportive of the quantum DNA model",
-      "link": "https://dc.uthsc.edu/cgi/viewcontent.cgi?article=1002&context=gsmk_facpubs"
+      "title": "App stores, trust and anti-trust",
+      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/app-stores"
     },
     {
       "rank": "17.",
-      "title": "Math.min(Math.max(num, min), max)",
-      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
+      "title": "A deep dive into the official Docker image for Python",
+      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
     },
     {
       "rank": "18.",
-      "title": "A deep dive into the official Docker image for Python",
-      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
+      "title": "Math.min(Math.max(num, min), max)",
+      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
     },
     {
       "rank": "19.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Big Bounce Simulations Challenge the Big Bang",
-      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
+      "title": "Penguin’s Moonlit Maze – The Dawn of Nation-State Digital Espionage (2017) [pdf]",
+      "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180251/Penquins_Moonlit_Maze_PDF_eng.pdf"
     },
     {
       "rank": "22.",
-      "title": "App stores, trust and anti-trust",
-      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/app-stores"
+      "title": "Big Bounce Simulations Challenge the Big Bang",
+      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
     },
     {
       "rank": "23.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "Malaria No More",
-      "link": "http://malarianomore.org"
-    },
-    {
-      "rank": "26.",
       "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
       "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
     },
     {
-      "rank": "27.",
-      "title": "Magnetoplasma drive could make Mars transit take 39 days?",
-      "link": "https://orbitalindex.com/archive/2020-08-19-Issue-78/#magnetoplasma-to-mars-in-39-days"
+      "rank": "26.",
+      "title": "Malaria No More",
+      "link": "http://malarianomore.org"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Analyzing Python Code with Python",
       "link": "https://rotemtam.com/2020/08/13/python-ast/"
     },
     {
+      "rank": "28.",
+      "title": "Science Fiction Books I’ve Read (2018)",
+      "link": "https://fortelabs.co/blog/science-fiction-books-ive-read/"
+    },
+    {
       "rank": "29.",
-      "title": "The AWS Controllers for Kubernetes",
-      "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
+      "title": "Antibody tests show what parts of NYC were hit hardest",
+      "link": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html"
     },
     {
       "rank": "30.",
-      "title": "Antibody tests show what parts of NYC were hit hardest",
-      "link": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html"
+      "title": "The Language of Science",
+      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
     }
   ],
   "metadata": {
