@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
-      "title": "Porting a Golang and Rust CLI tool to D",
-      "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
-    },
-    {
-      "rank": "7.",
       "title": "Implementing 'focus and reply' for Fastmail with JMAP",
       "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Gmail and Google Drive Outage",
       "link": "https://www.google.com/appsstatus#hl=en&v=status"
+    },
+    {
+      "rank": "8.",
+      "title": "Porting a Golang and Rust CLI tool to D",
+      "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
     },
     {
       "rank": "9.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "California bullet train contractors botched bridge project",
-      "link": "https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu"
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
       "rank": "14.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+      "title": "Computer Search Settles 90-Year-Old Math Problem",
+      "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
     },
     {
       "rank": "15.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "Computer Search Settles 90-Year-Old Math Problem",
-      "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
+      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
+      "link": "item?id=24215376"
     },
     {
       "rank": "17.",
-      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
-      "link": "item?id=24215376"
+      "title": "California bullet train contractors botched bridge project",
+      "link": "https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu"
     },
     {
       "rank": "18.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
-      "title": "42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python",
-      "link": "https://jobs.42.engineering"
-    },
-    {
-      "rank": "22.",
       "title": "The Medieval University Monopoly",
       "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Secret gyms and the economics of prohibition",
       "link": "https://www.npr.org/sections/money/2020/08/11/900895704/secret-gyms-and-the-economics-of-prohibition?s=09"
+    },
+    {
+      "rank": "23.",
+      "title": "42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python",
+      "link": "https://jobs.42.engineering"
     },
     {
       "rank": "24.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "The dual PhD problem of today’s startups",
-      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
+      "title": "The Trouble with Quantum Mechanics (2017) [pdf]",
+      "link": "http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf"
     }
   ],
   "metadata": {
