@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
-      "link": "item?id=24224355"
+      "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
+      "link": "https://sayless.email/"
     },
     {
       "rank": "6.",
-      "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
-      "link": "https://sayless.email/"
+      "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
+      "link": "item?id=24224355"
     },
     {
       "rank": "7.",
@@ -42,43 +42,43 @@
     },
     {
       "rank": "9.",
-      "title": "Sci-fi story coauthored by GPT-3, including in-character human/AI chats",
-      "link": "https://jamesyu.org/singular/"
-    },
-    {
-      "rank": "10.",
-      "title": "Math.min(Math.max(num, min), max)",
-      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
-    },
-    {
-      "rank": "11.",
-      "title": "Tackling open challenges in offline reinforcement learning",
-      "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
-    },
-    {
-      "rank": "12.",
       "title": "App stores, trust and anti-trust",
       "link": "https://www.ben-evans.com/benedictevans/2020/8/18/app-stores"
     },
     {
+      "rank": "10.",
+      "title": "Sci-fi story coauthored by GPT-3, including in-character human/AI chats",
+      "link": "https://jamesyu.org/singular/"
+    },
+    {
+      "rank": "11.",
+      "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
+      "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
+    },
+    {
+      "rank": "12.",
+      "title": "Tackling open challenges in offline reinforcement learning",
+      "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
+    },
+    {
       "rank": "13.",
+      "title": "Math.min(Math.max(num, min), max)",
+      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
+    },
+    {
+      "rank": "14.",
       "title": "Foiling Electric Boat",
       "link": "https://candelaspeedboat.com/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Startup mistakes: Lessons from failed startups",
       "link": "https://www.failory.com/blog/startup-mistakes"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "A deep dive into the official Docker image for Python",
       "link": "https://pythonspeed.com/articles/official-python-docker-image/"
-    },
-    {
-      "rank": "16.",
-      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
-      "link": "https://analysis-tools.dev"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Fortnite’s battle with Apple and Google could have an impact on news publishers",
-      "link": "https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/"
+      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
+      "link": "https://analysis-tools.dev"
     },
     {
       "rank": "19.",
-      "title": "Science Fiction Books I’ve Read (2018)",
-      "link": "https://fortelabs.co/blog/science-fiction-books-ive-read/"
+      "title": "Fortnite’s battle with Apple and Google could have an impact on news publishers",
+      "link": "https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/"
     },
     {
       "rank": "20.",
@@ -102,48 +102,48 @@
     },
     {
       "rank": "21.",
+      "title": "Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine",
+      "link": "https://gravitymachine.org/about/"
+    },
+    {
+      "rank": "22.",
       "title": "The 212-story skyscraper in Melbourne, Australia",
       "link": "https://twitter.com/liamosaur/status/1296305262144364544"
     },
     {
-      "rank": "22.",
-      "title": "Penguin’s Moonlit Maze – The Dawn of Nation-State Digital Espionage (2017) [pdf]",
-      "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180251/Penquins_Moonlit_Maze_PDF_eng.pdf"
-    },
-    {
       "rank": "23.",
-      "title": "Who to ignore – bullshit filters",
-      "link": "https://ernest.oppet.it/2020/08/14/who-to-ignore/"
-    },
-    {
-      "rank": "24.",
-      "title": "Analyzing Python Code with Python",
-      "link": "https://rotemtam.com/2020/08/13/python-ast/"
-    },
-    {
-      "rank": "25.",
-      "title": "Malaria No More",
-      "link": "http://malarianomore.org"
-    },
-    {
-      "rank": "26.",
       "title": "Former Uber Security Chief Charged with Concealing Hack",
       "link": "https://www.nytimes.com/2020/08/20/technology/joe-sullivan-uber-charged-hack.html"
     },
     {
+      "rank": "24.",
+      "title": "Who to ignore – bullshit filters",
+      "link": "https://ernest.oppet.it/2020/08/14/who-to-ignore/"
+    },
+    {
+      "rank": "25.",
+      "title": "Penguin’s Moonlit Maze – The Dawn of Nation-State Digital Espionage (2017) [pdf]",
+      "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180251/Penquins_Moonlit_Maze_PDF_eng.pdf"
+    },
+    {
+      "rank": "26.",
+      "title": "Analyzing Python Code with Python",
+      "link": "https://rotemtam.com/2020/08/13/python-ast/"
+    },
+    {
       "rank": "27.",
-      "title": "Plan the Sprint, Not the Project",
-      "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
+      "title": "Malaria No More",
+      "link": "http://malarianomore.org"
     },
     {
       "rank": "28.",
-      "title": "Effect of Exercise-Related Factors on the Perception of Time",
-      "link": "https://www.frontiersin.org/articles/10.3389/fphys.2020.00770/full"
+      "title": "Antibody tests show what parts of NYC were hit hardest",
+      "link": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html"
     },
     {
       "rank": "29.",
-      "title": "Antibody tests show what parts of NYC were hit hardest",
-      "link": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html"
+      "title": "Effect of Exercise-Related Factors on the Perception of Time",
+      "link": "https://www.frontiersin.org/articles/10.3389/fphys.2020.00770/full"
     },
     {
       "rank": "30.",
