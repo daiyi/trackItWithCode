@@ -17,33 +17,33 @@
     },
     {
       "rank": "4.",
-      "title": "Amazon Braket – Amazon Web Services",
-      "link": "https://aws.amazon.com/braket/"
+      "title": "California bullet train contractors botched bridge project",
+      "link": "https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu"
     },
     {
       "rank": "5.",
-      "title": "Gmail and Google Drive Outage",
-      "link": "https://www.google.com/appsstatus#hl=en&v=status"
-    },
-    {
-      "rank": "6.",
       "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
       "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Apple helped make 'top secret' iPod for US government",
       "link": "https://www.bbc.co.uk/news/technology-53835079"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
       "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Implementing 'focus and reply' for Fastmail with JMAP",
       "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
+    },
+    {
+      "rank": "9.",
+      "title": "Gmail and Google Drive Outage",
+      "link": "https://www.google.com/appsstatus#hl=en&v=status"
     },
     {
       "rank": "10.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "The dual PhD problem of today’s startups",
-      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
+      "title": "How the ARM32 Kernel Starts",
+      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
     },
     {
       "rank": "13.",
-      "title": "How the ARM32 Kernel Starts",
-      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
+      "title": "The dual PhD problem of today’s startups",
+      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "California bullet train contractors botched bridge project",
-      "link": "https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu"
+      "title": "Use of AI to select Superstars in sports",
+      "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Use of AI to select Superstars in sports",
-      "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
+      "title": "Everything old is new again: binary security of WebAssembly",
+      "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Everything old is new again: binary security of WebAssembly",
-      "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
+      "title": "Practical Data Ethics",
+      "link": "http://ethics.fast.ai"
     },
     {
       "rank": "20.",
-      "title": "Practical Data Ethics",
-      "link": "http://ethics.fast.ai"
+      "title": "Ice Lake AVX-512 Downclocking",
+      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Ice Lake AVX-512 Downclocking",
-      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
+      "title": "How Happy Couples Argue: Study (2019)",
+      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
     },
     {
       "rank": "23.",
-      "title": "Ironclad (YC S15) Is Looking for a Demand Gen Manager",
-      "link": "https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f"
+      "title": "Phone camera-based vital signs monitoring",
+      "link": "https://www.binah.ai"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "How Happy Couples Argue: Study (2019)",
-      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
-    },
-    {
-      "rank": "26.",
       "title": "Elastic 7.9",
       "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
     },
     {
+      "rank": "26.",
+      "title": "Ironclad (YC S15) Is Looking for a Demand Gen Manager",
+      "link": "https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f"
+    },
+    {
       "rank": "27.",
-      "title": "Sequential Consequences",
-      "link": "https://stuartsierra.com/2020/08/19/sequential-consequences"
-    },
-    {
-      "rank": "28.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
-    },
-    {
-      "rank": "29.",
       "title": "Madhya Pradesh man cycles 105km to ferry son to Class X exam centre",
       "link": "https://www.theweek.in/news/india/2020/08/19/madhya-pradesh-man-cycles-105km-to-ferry-son-to-class-x-exam-centre.html"
     },
     {
-      "rank": "30.",
+      "rank": "28.",
+      "title": "Computer Search Settles 90-Year-Old Math Problem",
+      "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
+    },
+    {
+      "rank": "29.",
       "title": "Coding and drawing",
       "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
+    },
+    {
+      "rank": "30.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
     }
   ],
   "metadata": {
