@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Moving from YouTube to PeerTube",
-      "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
+      "title": "Writing a Game in C: Parsing S-expressions",
+      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
     },
     {
       "rank": "3.",
-      "title": "Writing a Game in C: Parsing S-expressions",
-      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
+      "title": "Moving from YouTube to PeerTube",
+      "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
     },
     {
       "rank": "4.",
@@ -22,48 +22,48 @@
     },
     {
       "rank": "5.",
-      "title": "Satellite warfare: An arms race is brewing in orbit",
-      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
-    },
-    {
-      "rank": "6.",
-      "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
-      "link": "https://sayless.email/"
-    },
-    {
-      "rank": "7.",
-      "title": "Citibank's $900M Blunder",
-      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
-    },
-    {
-      "rank": "8.",
-      "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
-      "link": "item?id=24224355"
-    },
-    {
-      "rank": "9.",
-      "title": "App stores, trust and anti-trust",
-      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/app-stores"
-    },
-    {
-      "rank": "10.",
-      "title": "Magnetoplasma drive could make Mars transit take 39 days?",
-      "link": "https://orbitalindex.com/archive/2020-08-19-Issue-78/#magnetoplasma-to-mars-in-39-days"
-    },
-    {
-      "rank": "11.",
-      "title": "Sci-fi story coauthored by GPT-3, including in-character human/AI chats",
-      "link": "https://jamesyu.org/singular/"
-    },
-    {
-      "rank": "12.",
       "title": "Former Uber Executive Charged with Paying 'Hush Money' to Conceal Breach",
       "link": "https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach"
     },
     {
-      "rank": "13.",
+      "rank": "6.",
+      "title": "Satellite warfare: An arms race is brewing in orbit",
+      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
+    },
+    {
+      "rank": "7.",
+      "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
+      "link": "https://sayless.email/"
+    },
+    {
+      "rank": "8.",
+      "title": "Citibank's $900M Blunder",
+      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
+    },
+    {
+      "rank": "9.",
+      "title": "Words Matter: How Tech Media Helped Write Gig Companies into Existence",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668606&utm_campaign=Johannes%20Klingebiel&utm_medium=email&utm_source=Revue%20newsletter"
+    },
+    {
+      "rank": "10.",
+      "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
+      "link": "item?id=24224355"
+    },
+    {
+      "rank": "11.",
       "title": "Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine",
       "link": "https://gravitymachine.org/about/"
+    },
+    {
+      "rank": "12.",
+      "title": "App stores, trust and anti-trust",
+      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/app-stores"
+    },
+    {
+      "rank": "13.",
+      "title": "Sci-fi story coauthored by GPT-3, including in-character human/AI chats",
+      "link": "https://jamesyu.org/singular/"
     },
     {
       "rank": "14.",
@@ -82,38 +82,38 @@
     },
     {
       "rank": "17.",
-      "title": "A deep dive into the official Docker image for Python",
-      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
-    },
-    {
-      "rank": "18.",
       "title": "Tackling open challenges in offline reinforcement learning",
       "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
     },
     {
+      "rank": "18.",
+      "title": "A deep dive into the official Docker image for Python",
+      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
+    },
+    {
       "rank": "19.",
+      "title": "Magnetoplasma drive could make Mars transit take 39 days?",
+      "link": "https://orbitalindex.com/archive/2020-08-19-Issue-78/#magnetoplasma-to-mars-in-39-days"
+    },
+    {
+      "rank": "20.",
       "title": "Startup mistakes: Lessons from failed startups",
       "link": "https://www.failory.com/blog/startup-mistakes"
     },
     {
-      "rank": "20.",
-      "title": "Big Bounce Simulations Challenge the Big Bang",
-      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
-    },
-    {
       "rank": "21.",
-      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
-      "link": "https://analysis-tools.dev"
-    },
-    {
-      "rank": "22.",
       "title": "Plan the Sprint, Not the Project",
       "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
     },
     {
+      "rank": "22.",
+      "title": "Big Bounce Simulations Challenge the Big Bang",
+      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
+    },
+    {
       "rank": "23.",
-      "title": "Words Matter: How Tech Media Helped Write Gig Companies into Existence",
-      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668606&utm_campaign=Johannes%20Klingebiel&utm_medium=email&utm_source=Revue%20newsletter"
+      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
+      "link": "https://analysis-tools.dev"
     },
     {
       "rank": "24.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Rideshare operations are being suspended in California",
-      "link": "https://www.lyft.com/blog/posts/ca-operations-update"
-    },
-    {
-      "rank": "29.",
       "title": "Who to ignore – bullshit filters",
       "link": "https://ernest.oppet.it/2020/08/14/who-to-ignore/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "IBM Z mainframes revived by Red Hat, AI and security",
       "link": "https://searchdatacenter.techtarget.com/news/252487632/IBM-Z-mainframes-revived-by-Red-Hat-AI-and-security"
+    },
+    {
+      "rank": "30.",
+      "title": "Rideshare operations are being suspended in California",
+      "link": "https://www.lyft.com/blog/posts/ca-operations-update"
     }
   ],
   "metadata": {
