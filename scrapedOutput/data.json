@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Tackling open challenges in offline reinforcement learning",
-      "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
+      "title": "Math.min(Math.max(num, min), max)",
+      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
     },
     {
       "rank": "11.",
-      "title": "Math.min(Math.max(num, min), max)",
-      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
+      "title": "Tackling open challenges in offline reinforcement learning",
+      "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
     },
     {
       "rank": "12.",
@@ -92,43 +92,43 @@
     },
     {
       "rank": "19.",
-      "title": "An Anecdote About ML Type Inference (1994)",
-      "link": "https://web.archive.org/web/20081006181650/http://www.usenix.org/publications/library/proceedings/vhll/full_papers/koenig.a"
-    },
-    {
-      "rank": "20.",
-      "title": "Penguin’s Moonlit Maze – The Dawn of Nation-State Digital Espionage (2017) [pdf]",
-      "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180251/Penquins_Moonlit_Maze_PDF_eng.pdf"
-    },
-    {
-      "rank": "21.",
-      "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
-      "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
-    },
-    {
-      "rank": "22.",
-      "title": "The 212-story skyscraper in Melbourne, Australia",
-      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
-    },
-    {
-      "rank": "23.",
       "title": "Science Fiction Books I’ve Read (2018)",
       "link": "https://fortelabs.co/blog/science-fiction-books-ive-read/"
     },
     {
-      "rank": "24.",
+      "rank": "20.",
+      "title": "An Anecdote About ML Type Inference (1994)",
+      "link": "https://web.archive.org/web/20081006181650/http://www.usenix.org/publications/library/proceedings/vhll/full_papers/koenig.a"
+    },
+    {
+      "rank": "21.",
+      "title": "The 212-story skyscraper in Melbourne, Australia",
+      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
+    },
+    {
+      "rank": "22.",
+      "title": "Penguin’s Moonlit Maze – The Dawn of Nation-State Digital Espionage (2017) [pdf]",
+      "link": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180251/Penquins_Moonlit_Maze_PDF_eng.pdf"
+    },
+    {
+      "rank": "23.",
       "title": "Who to ignore – bullshit filters",
       "link": "https://ernest.oppet.it/2020/08/14/who-to-ignore/"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Analyzing Python Code with Python",
       "link": "https://rotemtam.com/2020/08/13/python-ast/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Malaria No More",
       "link": "http://malarianomore.org"
+    },
+    {
+      "rank": "26.",
+      "title": "Former Uber Security Chief Charged with Concealing Hack",
+      "link": "https://www.nytimes.com/2020/08/20/technology/joe-sullivan-uber-charged-hack.html"
     },
     {
       "rank": "27.",
