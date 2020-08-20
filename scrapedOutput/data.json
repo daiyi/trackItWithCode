@@ -2,88 +2,88 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Today's World Mosquito Day – Malaria Kills 3000 Kids a Day",
-      "link": "http://malarianomore.org"
-    },
-    {
-      "rank": "2.",
       "title": "Moving from YouTube to PeerTube",
       "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "A civilization flourished in Sudan nearly 5K years ago. Why was it forgotten?",
       "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
     },
     {
-      "rank": "4.",
-      "title": "Notes from a Flat Earth Conference",
-      "link": "https://www.willpatrick.co.uk/articles/notes-from-a-flat-earth-conference"
-    },
-    {
-      "rank": "5.",
+      "rank": "3.",
       "title": "Startup mistakes: First-hand lessons from over eighty failed startups",
       "link": "https://www.failory.com/blog/startup-mistakes"
     },
     {
-      "rank": "6.",
-      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
-      "link": "https://analysis-tools.dev"
-    },
-    {
-      "rank": "7.",
-      "title": "A deep dive into the official Docker image for Python",
-      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
-    },
-    {
-      "rank": "8.",
-      "title": "Builders who will thrive in the new world",
-      "link": "https://wfh.substack.com/p/the-6-builders-who-will-thrive-in"
-    },
-    {
-      "rank": "9.",
-      "title": "Citibank's $900M Blunder",
-      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
-    },
-    {
-      "rank": "10.",
-      "title": "The 212-story skyscraper in Melbourne, Australia",
-      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
-    },
-    {
-      "rank": "11.",
-      "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
-      "link": "item?id=24224355"
-    },
-    {
-      "rank": "12.",
+      "rank": "4.",
       "title": "The Suspected Poisoning of Alexey Navalny, Putin’s Most Prominent Adversary",
       "link": "https://www.newyorker.com/news/our-columnists/the-suspected-poisoning-of-alexey-navalny-putins-most-prominent-adversary"
     },
     {
-      "rank": "13.",
-      "title": "Fortnite’s battle with Apple and Google could have an impact on news publishers",
-      "link": "https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/"
+      "rank": "5.",
+      "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
+      "link": "item?id=24224355"
     },
     {
-      "rank": "14.",
+      "rank": "6.",
+      "title": "Malaria No More",
+      "link": "http://malarianomore.org"
+    },
+    {
+      "rank": "7.",
+      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
+      "link": "https://analysis-tools.dev"
+    },
+    {
+      "rank": "8.",
+      "title": "A deep dive into the official Docker image for Python",
+      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
+    },
+    {
+      "rank": "9.",
+      "title": "The 212-story skyscraper in Melbourne, Australia",
+      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
+    },
+    {
+      "rank": "10.",
+      "title": "Citibank's $900M Blunder",
+      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
+    },
+    {
+      "rank": "11.",
+      "title": "Who to ignore – bullshit filters",
+      "link": "https://ernest.oppet.it/2020/08/14/who-to-ignore/"
+    },
+    {
+      "rank": "12.",
       "title": "Analyzing Python Code with Python",
       "link": "https://rotemtam.com/2020/08/13/python-ast/"
     },
     {
-      "rank": "15.",
+      "rank": "13.",
       "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
       "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
     },
     {
-      "rank": "16.",
-      "title": "1.5m antibody tests show what parts of NYC were hit hardest",
+      "rank": "14.",
+      "title": "Builders who will thrive in the new world",
+      "link": "https://wfh.substack.com/p/the-6-builders-who-will-thrive-in"
+    },
+    {
+      "rank": "15.",
+      "title": "Antibody tests show what parts of NYC were hit hardest",
       "link": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html"
     },
     {
+      "rank": "16.",
+      "title": "Plan the Sprint, Not the Project",
+      "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
+    },
+    {
       "rank": "17.",
-      "title": "Stimulus and Credit",
-      "link": "https://macrocrunch.substack.com/p/stimulus-and-credit"
+      "title": "Satellite warfare: An arms race is brewing in orbit",
+      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
     },
     {
       "rank": "18.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "The Language of Science",
-      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
+      "title": "Unsporting scandium (2014)",
+      "link": "https://www.nature.com/articles/nchem.2090"
     },
     {
       "rank": "21.",
-      "title": "Foiling Electric Boat",
-      "link": "https://candelaspeedboat.com/"
+      "title": "The Language of Science",
+      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "Unsporting scandium (2014)",
-      "link": "https://www.nature.com/articles/nchem.2090"
+      "title": "Porting a Golang and Rust CLI tool to D",
+      "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
     },
     {
       "rank": "24.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "Porting a Golang and Rust CLI tool to D",
-      "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
+      "title": "Foiling Electric Boat",
+      "link": "https://candelaspeedboat.com/"
     },
     {
       "rank": "26.",
-      "title": "Plan the Sprint, Not the Project",
-      "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
+      "title": "With $16bn in cryptocurrency, Ripple attempts a reset",
+      "link": "https://www.ft.com/content/7d9c934f-3840-4285-96a7-4bdf7fee9286"
     },
     {
       "rank": "27.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "Gmail and Google Drive Outage",
-      "link": "https://www.google.com/appsstatus#hl=en&v=status"
+      "title": "Thoughts on Rust vs. OCaml",
+      "link": "https://blog.darklang.com/first-thoughts-on-rust-vs-ocaml/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Lit: The Language Interpretability Tool",
-      "link": "https://github.com/pair-code/lit/"
+      "title": "Gmail and Google Drive Outage",
+      "link": "https://www.google.com/appsstatus#hl=en&v=status"
     }
   ],
   "metadata": {
