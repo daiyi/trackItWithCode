@@ -27,28 +27,28 @@
     },
     {
       "rank": "6.",
-      "title": "Netflix Conductor: Open-source workflow orchestration engine",
-      "link": "https://netflix.github.io/conductor/"
-    },
-    {
-      "rank": "7.",
       "title": "Ultralight lithium-sulfur batteries for electric airplanes",
       "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
     },
     {
+      "rank": "7.",
+      "title": "Netflix Conductor: Open-source workflow orchestration engine",
+      "link": "https://netflix.github.io/conductor/"
+    },
+    {
       "rank": "8.",
+      "title": "Ever wonder what your dog is thinking?",
+      "link": "https://pursuit.unimelb.edu.au/articles/ever-wondered-what-your-pet-is-thinking"
+    },
+    {
+      "rank": "9.",
       "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
       "link": "item?id=24215376"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "The dual PhD problem of today’s startups",
       "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
-    },
-    {
-      "rank": "10.",
-      "title": "Use of AI to select Superstars in sports",
-      "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
     },
     {
       "rank": "11.",
@@ -57,33 +57,33 @@
     },
     {
       "rank": "12.",
+      "title": "Use of AI to select Superstars in sports",
+      "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
+    },
+    {
+      "rank": "13.",
       "title": "Practical Data Ethics",
       "link": "http://ethics.fast.ai"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Everything old is new again: binary security of WebAssembly",
       "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
     },
     {
-      "rank": "14.",
-      "title": "Mark Zuckerberg Is Despoiling a Tiny Coastal Village. The State Invited Him",
-      "link": "https://www.wweek.com/news/2020/08/19/mark-zuckerberg-is-despoiling-a-tiny-coastal-village-and-oregons-natural-treasures-the-state-invited-him/"
+      "rank": "15.",
+      "title": "Sequential Consequences",
+      "link": "https://stuartsierra.com/2020/08/19/sequential-consequences"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "What harm do minimum wages do?",
       "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Rust and C++ Interoperability in Chrome",
       "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
-    },
-    {
-      "rank": "17.",
-      "title": "Ever wonder what your dog is thinking?",
-      "link": "https://pursuit.unimelb.edu.au/articles/ever-wondered-what-your-pet-is-thinking"
     },
     {
       "rank": "18.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
-      "title": "Sequential Consequences",
-      "link": "https://stuartsierra.com/2020/08/19/sequential-consequences"
-    },
-    {
-      "rank": "21.",
-      "title": "Ice Lake AVX-512 Downclocking",
-      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
-    },
-    {
-      "rank": "22.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "23.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
-    },
-    {
-      "rank": "24.",
+      "rank": "21.",
       "title": "The Medieval University Monopoly",
       "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
     },
     {
-      "rank": "25.",
-      "title": "How Happy Couples Argue: Study (2019)",
-      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
+      "rank": "22.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
     },
     {
-      "rank": "26.",
+      "rank": "23.",
       "title": "Shakespeare’s Son Died at 11. A Novel Asks How It Shaped His Art",
       "link": "https://www.nytimes.com/2020/07/17/books/review/hamnet-maggie-ofarrell.html"
     },
     {
-      "rank": "27.",
+      "rank": "24.",
+      "title": "How Happy Couples Argue: Study (2019)",
+      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
+    },
+    {
+      "rank": "25.",
+      "title": "Ice Lake AVX-512 Downclocking",
+      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
+    },
+    {
+      "rank": "26.",
       "title": "Filecoin: Proof of Storage Systems",
       "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
       "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Status as a Service (2019)",
       "link": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
       "link": "https://arxiv.org/abs/2008.07699"
+    },
+    {
+      "rank": "30.",
+      "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
+      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
     }
   ],
   "metadata": {
