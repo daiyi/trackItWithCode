@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "Citibank's $900M Blunder",
-      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
+      "title": "Fintech Wirecard hired actors to fool auditors",
+      "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
     },
     {
       "rank": "3.",
@@ -22,43 +22,43 @@
     },
     {
       "rank": "5.",
-      "title": "Fintech Wirecard hired actors to fool auditors",
-      "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
+      "title": "Citibank's $900M Blunder",
+      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
     },
     {
       "rank": "6.",
-      "title": "KeePassXC 2.6.1 Released",
-      "link": "https://keepassxc.org/blog/2020-08-19-2.6.1-released/"
-    },
-    {
-      "rank": "7.",
-      "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
-      "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
-    },
-    {
-      "rank": "8.",
       "title": "The 212-story skyscraper in Melbourne, Australia",
       "link": "https://twitter.com/liamosaur/status/1296305262144364544"
     },
     {
+      "rank": "7.",
+      "title": "Assange, Manning and Snowden Nominated for the 2020 Nobel Peace Prize",
+      "link": "https://defend.wikileaks.org/2020/02/06/julian-assange-chelsea-manning-and-edward-snowden-nominated-for-the-2020-nobel-peace-prize/"
+    },
+    {
+      "rank": "8.",
+      "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
+      "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
+    },
+    {
       "rank": "9.",
-      "title": "Big Bounce Simulations Challenge the Big Bang",
-      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
+      "title": "Analyzing Python Code with Python",
+      "link": "https://rotemtam.com/2020/08/13/python-ast/"
     },
     {
       "rank": "10.",
-      "title": "The AWS Controllers for Kubernetes",
-      "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
-    },
-    {
-      "rank": "11.",
       "title": "A deep dive into the official Docker image for Python",
       "link": "https://pythonspeed.com/articles/official-python-docker-image/"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "The Language of Science",
       "link": "https://www.scientificamerican.com/article/the-language-of-science/"
+    },
+    {
+      "rank": "12.",
+      "title": "The AWS Controllers for Kubernetes",
+      "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
     },
     {
       "rank": "13.",
@@ -67,63 +67,63 @@
     },
     {
       "rank": "14.",
-      "title": "Analyzing Python Code with Python",
-      "link": "https://rotemtam.com/2020/08/13/python-ast/"
+      "title": "Big Bounce Simulations Challenge the Big Bang",
+      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
     },
     {
       "rank": "15.",
-      "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
-      "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
-    },
-    {
-      "rank": "16.",
       "title": "Effect of Exercise-Related Factors on the Perception of Time",
       "link": "https://www.frontiersin.org/articles/10.3389/fphys.2020.00770/full"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Porting a Golang and Rust CLI tool to D",
       "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
     },
     {
+      "rank": "17.",
+      "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
+      "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
+    },
+    {
       "rank": "18.",
-      "title": "How the ARM32 Kernel Starts",
-      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
-    },
-    {
-      "rank": "19.",
-      "title": "Gmail and Google Drive Outage",
-      "link": "https://www.google.com/appsstatus#hl=en&v=status"
-    },
-    {
-      "rank": "20.",
-      "title": "Iron law of wages",
-      "link": "https://en.wikipedia.org/wiki/Iron_law_of_wages"
-    },
-    {
-      "rank": "21.",
-      "title": "IBM Z mainframes revived by Red Hat, AI and security",
-      "link": "https://searchdatacenter.techtarget.com/news/252487632/IBM-Z-mainframes-revived-by-Red-Hat-AI-and-security"
-    },
-    {
-      "rank": "22.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
-    },
-    {
-      "rank": "23.",
       "title": "1.5m antibody tests show what parts of NYC were hit hardest",
       "link": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html"
     },
     {
+      "rank": "19.",
+      "title": "How the ARM32 Kernel Starts",
+      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
+    },
+    {
+      "rank": "20.",
+      "title": "Math.min(Math.max(num, min), max)",
+      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
+    },
+    {
+      "rank": "21.",
+      "title": "Gmail and Google Drive Outage",
+      "link": "https://www.google.com/appsstatus#hl=en&v=status"
+    },
+    {
+      "rank": "22.",
+      "title": "KeePassXC 2.6.1 Released",
+      "link": "https://keepassxc.org/blog/2020-08-19-2.6.1-released/"
+    },
+    {
+      "rank": "23.",
+      "title": "IBM Z mainframes revived by Red Hat, AI and security",
+      "link": "https://searchdatacenter.techtarget.com/news/252487632/IBM-Z-mainframes-revived-by-Red-Hat-AI-and-security"
+    },
+    {
       "rank": "24.",
-      "title": "The Trouble with Quantum Mechanics (2017) [pdf]",
-      "link": "http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf"
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
       "rank": "25.",
-      "title": "2,445 IBM Employees Openly Condemned IBM for Enabling Racist Regimes",
-      "link": "http://techrights.org/2020/08/20/ibm-employees-condemn-ibm-leaders/"
+      "title": "The Trouble with Quantum Mechanics (2017) [pdf]",
+      "link": "http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
-      "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
+      "title": "Computer Search Settles 90-Year-Old Math Problem",
+      "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
     },
     {
       "rank": "28.",
-      "title": "Computer Search Settles 90-Year-Old Math Problem",
-      "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
+      "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
+      "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
     },
     {
       "rank": "29.",
