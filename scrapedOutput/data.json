@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Implementing 'focus and reply' for Fastmail with JMAP",
-      "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
+      "title": "Apple helped make 'top secret' iPod for US government",
+      "link": "https://www.bbc.co.uk/news/technology-53835079"
     },
     {
       "rank": "3.",
-      "title": "Apple helped make 'top secret' iPod for US government",
-      "link": "https://www.bbc.co.uk/news/technology-53835079"
+      "title": "Implementing 'focus and reply' for Fastmail with JMAP",
+      "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
     },
     {
       "rank": "4.",
@@ -27,38 +27,38 @@
     },
     {
       "rank": "6.",
-      "title": "Netflix Conductor: Open-source workflow orchestration engine",
-      "link": "https://netflix.github.io/conductor/"
-    },
-    {
-      "rank": "7.",
-      "title": "The dual PhD problem of today’s startups",
-      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
-    },
-    {
-      "rank": "8.",
       "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
       "link": "item?id=24215376"
     },
     {
-      "rank": "9.",
+      "rank": "7.",
+      "title": "Netflix Conductor: Open-source workflow orchestration engine",
+      "link": "https://netflix.github.io/conductor/"
+    },
+    {
+      "rank": "8.",
       "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
       "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
     },
     {
+      "rank": "9.",
+      "title": "University Endowment Sued for Under performing the S&P 500",
+      "link": "https://www.institutionalinvestor.com/article/b1ml4nng27k0ln/University-Endowment-Sued-for-Underperforming-the-S-amp-P-500"
+    },
+    {
       "rank": "10.",
+      "title": "The dual PhD problem of today’s startups",
+      "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
+    },
+    {
+      "rank": "11.",
       "title": "Practical Data Ethics",
       "link": "http://ethics.fast.ai"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Everything Old Is New Again: Binary Security of WebAssembly",
       "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
-    },
-    {
-      "rank": "12.",
-      "title": "University Endowment Sued for Under performing the S&P 500",
-      "link": "https://www.institutionalinvestor.com/article/b1ml4nng27k0ln/University-Endowment-Sued-for-Underperforming-the-S-amp-P-500"
     },
     {
       "rank": "13.",
@@ -82,73 +82,73 @@
     },
     {
       "rank": "17.",
-      "title": "Filecoin: Proof of Storage Systems",
-      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
-    },
-    {
-      "rank": "18.",
-      "title": "Repl.it is hiring fullstack engineers to make coding more accessible",
-      "link": "https://repl.it/jobs"
-    },
-    {
-      "rank": "19.",
-      "title": "Elastic 7.9",
-      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
-    },
-    {
-      "rank": "20.",
-      "title": "The Medieval University Monopoly",
-      "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
-    },
-    {
-      "rank": "21.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
-    },
-    {
-      "rank": "22.",
       "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
       "link": "item?id=24210098"
     },
     {
-      "rank": "23.",
-      "title": "Airbnb announces confidential submission of draft Registration Statement",
-      "link": "https://news.airbnb.com/airbnb-announces-confidential-submission-of-draft-registration-statement/"
+      "rank": "18.",
+      "title": "Elastic 7.9",
+      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
     },
     {
-      "rank": "24.",
+      "rank": "19.",
+      "title": "Shakespeare’s Son Died at 11. A Novel Asks How It Shaped His Art",
+      "link": "https://www.nytimes.com/2020/07/17/books/review/hamnet-maggie-ofarrell.html"
+    },
+    {
+      "rank": "20.",
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+    },
+    {
+      "rank": "21.",
       "title": "How to contact Google SRE by dropping a shell in Cloud SQL",
       "link": "https://offensi.com/2020/08/18/how-to-contact-google-sre-dropping-a-shell-in-cloud-sql/"
     },
     {
+      "rank": "22.",
+      "title": "Repl.it is hiring fullstack engineers to make coding more accessible",
+      "link": "https://repl.it/jobs"
+    },
+    {
+      "rank": "23.",
+      "title": "The Medieval University Monopoly",
+      "link": "https://www.historytoday.com/miscellanies/medieval-university-monopoly"
+    },
+    {
+      "rank": "24.",
+      "title": "Why I believe the US has herd immunity in some states",
+      "link": "https://realscience.community/2020/08/17/why-i-believe-the-us-has-herd-immunity-in-some-states-and-is-barreling-towards-it-as-a-country/"
+    },
+    {
       "rank": "25.",
+      "title": "How Happy Couples Argue: Study (2019)",
+      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
+    },
+    {
+      "rank": "26.",
       "title": "Evaluating TCP BBRv2 on the Dropbox edge network",
       "link": "https://arxiv.org/abs/2008.07699"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Status as a Service (2019)",
       "link": "https://www.eugenewei.com/blog/2019/2/19/status-as-a-service"
     },
     {
-      "rank": "27.",
-      "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
-      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
+      "rank": "28.",
+      "title": "Filecoin: Proof of Storage Systems",
+      "link": "https://blog.coinlist.co/deep-dive-into-filecoin/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Theheadless.dev – open source Puppeteer and Playwright knowledge base",
       "link": "https://theheadless.dev/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Breaking the D-Link DIR3060 Firmware Encryption – Recon – Part 1",
       "link": "https://0x434b.dev/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/"
-    },
-    {
-      "rank": "30.",
-      "title": "How Happy Couples Argue: Study (2019)",
-      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
     }
   ],
   "metadata": {
