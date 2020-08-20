@@ -12,28 +12,28 @@
     },
     {
       "rank": "3.",
-      "title": "Foiling Electric Boat",
-      "link": "https://candelaspeedboat.com/"
-    },
-    {
-      "rank": "4.",
       "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
       "link": "https://analysis-tools.dev"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Citibank's $900M Blunder",
       "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "The 212-story skyscraper in Melbourne, Australia",
       "link": "https://twitter.com/liamosaur/status/1296305262144364544"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Assange, Manning and Snowden Nominated for the 2020 Nobel Peace Prize",
       "link": "https://defend.wikileaks.org/2020/02/06/julian-assange-chelsea-manning-and-edward-snowden-nominated-for-the-2020-nobel-peace-prize/"
+    },
+    {
+      "rank": "7.",
+      "title": "A deep dive into the official Docker image for Python",
+      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
     },
     {
       "rank": "8.",
@@ -47,33 +47,33 @@
     },
     {
       "rank": "10.",
-      "title": "A deep dive into the official Docker image for Python",
-      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
+      "title": "Foiling Electric Boat",
+      "link": "https://candelaspeedboat.com/"
     },
     {
       "rank": "11.",
+      "title": "Math.min(Math.max(num, min), max)",
+      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
+    },
+    {
+      "rank": "12.",
       "title": "The Language of Science",
       "link": "https://www.scientificamerican.com/article/the-language-of-science/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "The AWS Controllers for Kubernetes",
       "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
     },
     {
-      "rank": "13.",
-      "title": "Can't you just right click?",
-      "link": "https://lapcatsoftware.com/articles/unsigned.html"
-    },
-    {
       "rank": "14.",
-      "title": "Big Bounce Simulations Challenge the Big Bang",
-      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
+      "title": "Effect of Exercise-Related Factors on the Perception of Time",
+      "link": "https://www.frontiersin.org/articles/10.3389/fphys.2020.00770/full"
     },
     {
       "rank": "15.",
-      "title": "Effect of Exercise-Related Factors on the Perception of Time",
-      "link": "https://www.frontiersin.org/articles/10.3389/fphys.2020.00770/full"
+      "title": "Can't you just right click?",
+      "link": "https://lapcatsoftware.com/articles/unsigned.html"
     },
     {
       "rank": "16.",
@@ -82,23 +82,23 @@
     },
     {
       "rank": "17.",
-      "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
-      "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
+      "title": "Big Bounce Simulations Challenge the Big Bang",
+      "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
     },
     {
       "rank": "18.",
+      "title": "Unsporting Scandium",
+      "link": "https://www.nature.com/articles/nchem.2090"
+    },
+    {
+      "rank": "19.",
       "title": "1.5m antibody tests show what parts of NYC were hit hardest",
       "link": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "How the ARM32 Kernel Starts",
       "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
-    },
-    {
-      "rank": "20.",
-      "title": "Math.min(Math.max(num, min), max)",
-      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
     },
     {
       "rank": "21.",
@@ -107,28 +107,28 @@
     },
     {
       "rank": "22.",
-      "title": "KeePassXC 2.6.1 Released",
-      "link": "https://keepassxc.org/blog/2020-08-19-2.6.1-released/"
-    },
-    {
-      "rank": "23.",
       "title": "IBM Z mainframes revived by Red Hat, AI and security",
       "link": "https://searchdatacenter.techtarget.com/news/252487632/IBM-Z-mainframes-revived-by-Red-Hat-AI-and-security"
     },
     {
+      "rank": "23.",
+      "title": "KeePassXC 2.6.1 Released",
+      "link": "https://keepassxc.org/blog/2020-08-19-2.6.1-released/"
+    },
+    {
       "rank": "24.",
+      "title": "Lit: The Language Interpretability Tool",
+      "link": "https://github.com/pair-code/lit/"
+    },
+    {
+      "rank": "25.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "The Trouble with Quantum Mechanics (2017) [pdf]",
       "link": "http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf"
-    },
-    {
-      "rank": "26.",
-      "title": "Lit: The Language Interpretability Tool",
-      "link": "https://github.com/pair-code/lit/"
     },
     {
       "rank": "27.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
-      "link": "item?id=24215376"
+      "title": "A math problem stumped experts for 50 years. This grad student solved it in days",
+      "link": "https://www.bostonglobe.com/2020/08/20/magazine/math-problem-stumped-experts-50-years-this-grad-student-maine-solved-it-days/"
     },
     {
       "rank": "30.",
-      "title": "Apple helped make 'top secret' iPod for US government",
-      "link": "https://www.bbc.co.uk/news/technology-53835079"
+      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
+      "link": "item?id=24215376"
     }
   ],
   "metadata": {
