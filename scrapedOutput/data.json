@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
+      "title": "California bullet train contractors botched bridge project",
+      "link": "https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu"
+    },
+    {
+      "rank": "3.",
       "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
       "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "The AWS Controllers for Kubernetes",
       "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
-    },
-    {
-      "rank": "4.",
-      "title": "California bullet train contractors botched bridge project",
-      "link": "https://www.latimes.com/california/story/2020-08-10/california-bullet-train-bridge-snafu"
     },
     {
       "rank": "5.",
@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Apple helped make 'top secret' iPod for US government",
-      "link": "https://www.bbc.co.uk/news/technology-53835079"
+      "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
+      "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
     },
     {
       "rank": "7.",
-      "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
-      "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
+      "title": "Apple helped make 'top secret' iPod for US government",
+      "link": "https://www.bbc.co.uk/news/technology-53835079"
     },
     {
       "rank": "8.",
@@ -67,38 +67,38 @@
     },
     {
       "rank": "14.",
+      "title": "Phone camera-based vital signs monitoring",
+      "link": "https://www.binah.ai"
+    },
+    {
+      "rank": "15.",
       "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
       "link": "item?id=24215376"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Use of AI to select Superstars in sports",
       "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
     },
     {
-      "rank": "16.",
-      "title": "Rust and C++ Interoperability in Chrome",
-      "link": "https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability"
+      "rank": "17.",
+      "title": "Amazon Braket – Amazon Web Services",
+      "link": "https://aws.amazon.com/braket/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Everything old is new again: binary security of WebAssembly",
       "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Practical Data Ethics",
       "link": "http://ethics.fast.ai"
-    },
-    {
-      "rank": "20.",
-      "title": "Ice Lake AVX-512 Downclocking",
-      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
+      "title": "Ice Lake AVX-512 Downclocking",
+      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
+    },
+    {
+      "rank": "23.",
       "title": "How Happy Couples Argue: Study (2019)",
       "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
     },
     {
-      "rank": "23.",
-      "title": "Phone camera-based vital signs monitoring",
-      "link": "https://www.binah.ai"
-    },
-    {
       "rank": "24.",
-      "title": "My kid can’t handle a virtual education, and neither can I",
-      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
-    },
-    {
-      "rank": "25.",
-      "title": "Elastic 7.9",
-      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
-    },
-    {
-      "rank": "26.",
       "title": "Ironclad (YC S15) Is Looking for a Demand Gen Manager",
       "link": "https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f"
     },
     {
-      "rank": "27.",
+      "rank": "25.",
+      "title": "My kid can’t handle a virtual education, and neither can I",
+      "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
+    },
+    {
+      "rank": "26.",
       "title": "Madhya Pradesh man cycles 105km to ferry son to Class X exam centre",
       "link": "https://www.theweek.in/news/india/2020/08/19/madhya-pradesh-man-cycles-105km-to-ferry-son-to-class-x-exam-centre.html"
     },
     {
-      "rank": "28.",
-      "title": "Computer Search Settles 90-Year-Old Math Problem",
-      "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
+      "rank": "27.",
+      "title": "Elastic 7.9",
+      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Coding and drawing",
       "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
       "link": "item?id=24210098"
+    },
+    {
+      "rank": "30.",
+      "title": "Sequential Consequences",
+      "link": "https://stuartsierra.com/2020/08/19/sequential-consequences"
     }
   ],
   "metadata": {
