@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
-      "title": "Implementing 'focus and reply' for Fastmail with JMAP",
-      "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
-    },
-    {
-      "rank": "9.",
       "title": "Gmail and Google Drive Outage",
       "link": "https://www.google.com/appsstatus#hl=en&v=status"
     },
     {
+      "rank": "9.",
+      "title": "Implementing 'focus and reply' for Fastmail with JMAP",
+      "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
+    },
+    {
       "rank": "10.",
+      "title": "How the ARM32 Kernel Starts",
+      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
+    },
+    {
+      "rank": "11.",
       "title": "Ultralight lithium-sulfur batteries for electric airplanes",
       "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Netflix Conductor: Open-source workflow orchestration engine",
       "link": "https://netflix.github.io/conductor/"
-    },
-    {
-      "rank": "12.",
-      "title": "How the ARM32 Kernel Starts",
-      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
     },
     {
       "rank": "13.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Phone camera-based vital signs monitoring",
-      "link": "https://www.binah.ai"
+      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
+      "link": "item?id=24215376"
     },
     {
       "rank": "15.",
-      "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
-      "link": "item?id=24215376"
+      "title": "Phone camera-based vital signs monitoring",
+      "link": "https://www.binah.ai"
     },
     {
       "rank": "16.",
@@ -82,28 +82,28 @@
     },
     {
       "rank": "17.",
-      "title": "Amazon Braket – Amazon Web Services",
-      "link": "https://aws.amazon.com/braket/"
-    },
-    {
-      "rank": "18.",
       "title": "Everything old is new again: binary security of WebAssembly",
       "link": "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Open Problems in Robotics",
       "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Practical Data Ethics",
       "link": "http://ethics.fast.ai"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "What harm do minimum wages do?",
       "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
+    },
+    {
+      "rank": "21.",
+      "title": "Computer Search Settles 90-Year-Old Math Problem",
+      "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
     },
     {
       "rank": "22.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "Ironclad (YC S15) Is Looking for a Demand Gen Manager",
-      "link": "https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f"
+      "title": "Amazon Braket – Amazon Web Services",
+      "link": "https://aws.amazon.com/braket/"
     },
     {
       "rank": "25.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Madhya Pradesh man cycles 105km to ferry son to Class X exam centre",
-      "link": "https://www.theweek.in/news/india/2020/08/19/madhya-pradesh-man-cycles-105km-to-ferry-son-to-class-x-exam-centre.html"
+      "title": "Ironclad (YC S15) Is Looking for a Demand Gen Manager",
+      "link": "https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f"
     },
     {
       "rank": "27.",
-      "title": "Elastic 7.9",
-      "link": "https://www.elastic.co/blog/whats-new-in-elastic-7-9-0-free-workplace-search-engine-endpoint-security"
+      "title": "Madhya Pradesh man cycles 105km to ferry son to Class X exam centre",
+      "link": "https://www.theweek.in/news/india/2020/08/19/madhya-pradesh-man-cycles-105km-to-ferry-son-to-class-x-exam-centre.html"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
-      "link": "item?id=24210098"
+      "title": "Sequential Consequences",
+      "link": "https://stuartsierra.com/2020/08/19/sequential-consequences"
     },
     {
       "rank": "30.",
-      "title": "Sequential Consequences",
-      "link": "https://stuartsierra.com/2020/08/19/sequential-consequences"
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
     }
   ],
   "metadata": {
