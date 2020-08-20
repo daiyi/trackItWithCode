@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Former Uber Executive Charged with Paying 'Hush Money' to Conceal Breach",
+      "link": "https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach"
+    },
+    {
+      "rank": "2.",
       "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
       "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Moving from YouTube to PeerTube",
       "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Writing a Game in C: Parsing S-expressions",
       "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
-    },
-    {
-      "rank": "4.",
-      "title": "Former Uber Executive Charged with Paying 'Hush Money' to Conceal Breach",
-      "link": "https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach"
     },
     {
       "rank": "5.",
@@ -27,118 +27,118 @@
     },
     {
       "rank": "6.",
-      "title": "Satellite warfare: An arms race is brewing in orbit",
-      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
+      "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
+      "link": "item?id=24228826"
     },
     {
       "rank": "7.",
+      "title": "How Shopify made storefront response times 4x faster",
+      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
+    },
+    {
+      "rank": "8.",
       "title": "Words Matter: How Tech Media Helped Write Gig Companies into Existence",
       "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668606&utm_campaign=Johannes%20Klingebiel&utm_medium=email&utm_source=Revue%20newsletter"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
+      "title": "Satellite warfare: An arms race is brewing in orbit",
+      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
+    },
+    {
+      "rank": "10.",
       "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
       "link": "https://sayless.email/"
     },
     {
-      "rank": "9.",
+      "rank": "11.",
       "title": "Citibank's $900M Blunder",
       "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
     },
     {
-      "rank": "10.",
-      "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
-      "link": "item?id=24224355"
-    },
-    {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine",
       "link": "https://gravitymachine.org/about/"
     },
     {
-      "rank": "12.",
-      "title": "Sci-fi story coauthored by GPT-3, including in-character human/AI chats",
-      "link": "https://jamesyu.org/singular/"
+      "rank": "13.",
+      "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
+      "link": "item?id=24224355"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Wirecard hired actors to fool auditors",
       "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Math.min(Math.max(num, min), max)",
       "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
+      "title": "Sci-fi story coauthored by GPT-3, including in-character human/AI chats",
+      "link": "https://jamesyu.org/singular/"
+    },
+    {
+      "rank": "17.",
       "title": "Foiling Electric Boat",
       "link": "https://candelaspeedboat.com/"
     },
     {
-      "rank": "16.",
+      "rank": "18.",
+      "title": "S&P 500 Return Attribution: Its 1% economy",
+      "link": "https://www.putnam.com/advisor/content/perspectives/7816"
+    },
+    {
+      "rank": "19.",
       "title": "A deep dive into the official Docker image for Python",
       "link": "https://pythonspeed.com/articles/official-python-docker-image/"
     },
     {
-      "rank": "17.",
-      "title": "Tackling open challenges in offline reinforcement learning",
-      "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
-    },
-    {
-      "rank": "18.",
+      "rank": "20.",
       "title": "Plan the Sprint, Not the Project",
       "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
+      "title": "Tackling open challenges in offline reinforcement learning",
+      "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
+    },
+    {
+      "rank": "22.",
       "title": "Big Bounce Simulations Challenge the Big Bang",
       "link": "https://www.quantamagazine.org/big-bounce-simulations-challenge-the-big-bang-20200804/"
     },
     {
-      "rank": "20.",
+      "rank": "23.",
       "title": "Startup mistakes: Lessons from failed startups",
       "link": "https://www.failory.com/blog/startup-mistakes"
     },
     {
-      "rank": "21.",
+      "rank": "24.",
       "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
       "link": "https://analysis-tools.dev"
     },
     {
-      "rank": "22.",
-      "title": "Former Uber Security Chief Charged with Concealing Hack",
-      "link": "https://www.nytimes.com/2020/08/20/technology/joe-sullivan-uber-charged-hack.html"
-    },
-    {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Fortnite’s battle with Apple and Google could have an impact on news publishers",
       "link": "https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/"
     },
     {
-      "rank": "24.",
-      "title": "App stores, trust and anti-trust",
-      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/app-stores"
+      "rank": "26.",
+      "title": "Former Uber Security Chief Charged with Concealing Hack",
+      "link": "https://www.nytimes.com/2020/08/20/technology/joe-sullivan-uber-charged-hack.html"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "An Anecdote About ML Type Inference (1994)",
       "link": "https://web.archive.org/web/20081006181650/http://www.usenix.org/publications/library/proceedings/vhll/full_papers/koenig.a"
     },
     {
-      "rank": "26.",
-      "title": "Magnetoplasma drive could make Mars transit take 39 days?",
-      "link": "https://orbitalindex.com/archive/2020-08-19-Issue-78/#magnetoplasma-to-mars-in-39-days"
-    },
-    {
-      "rank": "27.",
+      "rank": "28.",
       "title": "The 212-story skyscraper in Melbourne, Australia",
       "link": "https://twitter.com/liamosaur/status/1296305262144364544"
-    },
-    {
-      "rank": "28.",
-      "title": "S&P 500 Return Attribution: Its 1% economy",
-      "link": "https://www.putnam.com/advisor/content/perspectives/7816"
     },
     {
       "rank": "29.",
