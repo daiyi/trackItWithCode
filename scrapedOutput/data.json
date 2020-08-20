@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
-      "title": "Implementing 'focus and reply' for Fastmail with JMAP",
-      "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
-    },
-    {
-      "rank": "9.",
       "title": "Gmail and Google Drive Outage",
       "link": "https://www.google.com/appsstatus#hl=en&v=status"
     },
     {
-      "rank": "10.",
-      "title": "How the ARM32 Kernel Starts",
-      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
+      "rank": "9.",
+      "title": "Implementing 'focus and reply' for Fastmail with JMAP",
+      "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Ultralight lithium-sulfur batteries for electric airplanes",
       "link": "https://spectrum.ieee.org/aerospace/aviation/with-ultralight-lithiumsulfur-batteries-electric-airplanes-could-finally-take-off"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Netflix Conductor: Open-source workflow orchestration engine",
       "link": "https://netflix.github.io/conductor/"
+    },
+    {
+      "rank": "12.",
+      "title": "How the ARM32 Kernel Starts",
+      "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
     },
     {
       "rank": "13.",
@@ -67,23 +67,23 @@
     },
     {
       "rank": "14.",
-      "title": "Phone camera-based vital signs monitoring",
-      "link": "https://www.binah.ai"
+      "title": "Easily replicate/clone your Linux install",
+      "link": "http://foxclone.com"
     },
     {
       "rank": "15.",
-      "title": "Amazon Braket – Amazon Web Services",
-      "link": "https://aws.amazon.com/braket/"
-    },
-    {
-      "rank": "16.",
       "title": "Computer Search Settles 90-Year-Old Math Problem",
       "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
       "link": "item?id=24215376"
+    },
+    {
+      "rank": "17.",
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
       "rank": "18.",
@@ -97,28 +97,28 @@
     },
     {
       "rank": "20.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
-    },
-    {
-      "rank": "21.",
       "title": "Use of AI to select Superstars in sports",
       "link": "https://thinkml.ai/artificial-intelligence-in-cricket-is-a-significant-prediction-strategy-for-players-luck-assessment/"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "What harm do minimum wages do?",
       "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
     },
     {
+      "rank": "22.",
+      "title": "Micro-Optimizing .tar.gz Archives by Changing File Order",
+      "link": "https://justinblank.com/experiments/optimizingtar.html"
+    },
+    {
       "rank": "23.",
-      "title": "Ice Lake AVX-512 Downclocking",
-      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
+      "title": "How Happy Couples Argue: Study (2019)",
+      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
     },
     {
       "rank": "24.",
-      "title": "How Happy Couples Argue: Study (2019)",
-      "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
+      "title": "Ice Lake AVX-512 Downclocking",
+      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
     },
     {
       "rank": "25.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Ironclad (YC S15) Is Looking for a Demand Gen Manager",
-      "link": "https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f"
+      "title": "Coding and drawing",
+      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
     },
     {
       "rank": "27.",
-      "title": "Coding and drawing",
-      "link": "https://statmodeling.stat.columbia.edu/2020/08/08/coding-and-drawing/"
+      "title": "'Coup 53' tells the story of 1953 campaign by MI6 and CIA to oust Iran's leader",
+      "link": "https://www.npr.org/2020/08/18/903505983/coup-53-tells-the-true-story-of-the-cia-s-campaign-to-oust-iran-s-leader"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Madhya Pradesh man cycles 105km to ferry son to Class X exam centre",
-      "link": "https://www.theweek.in/news/india/2020/08/19/madhya-pradesh-man-cycles-105km-to-ferry-son-to-class-x-exam-centre.html"
+      "title": "Ironclad (YC S15) Is Looking for a Demand Gen Manager",
+      "link": "https://jobs.lever.co/ironcladapp/87a32c65-fdc1-4525-9ff4-47a9c4979d6f"
     },
     {
       "rank": "30.",
-      "title": "Sequential Consequences",
-      "link": "https://stuartsierra.com/2020/08/19/sequential-consequences"
+      "title": "Porting a Golang and Rust CLI tool to D",
+      "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
     }
   ],
   "metadata": {
