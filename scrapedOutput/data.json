@@ -32,23 +32,23 @@
     },
     {
       "rank": "7.",
-      "title": "42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python",
-      "link": "https://jobs.42.engineering"
-    },
-    {
-      "rank": "8.",
       "title": "Though forests burn, trees retake farmland globally as agroforestry advances",
       "link": "https://news.mongabay.com/2020/08/though-forests-burn-agroforestry-advances-as-trees-retake-farmland-globally/"
     },
     {
+      "rank": "8.",
+      "title": "Gmail and Google Drive Outage",
+      "link": "https://www.google.com/appsstatus#hl=en&v=status"
+    },
+    {
       "rank": "9.",
-      "title": "Implementing 'focus and reply' for Fastmail with JMAP",
-      "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
+      "title": "42 (YC W14) Is Hiring Software Engineers (Remote) – JavaScript/Python",
+      "link": "https://jobs.42.engineering"
     },
     {
       "rank": "10.",
-      "title": "Gmail and Google Drive Outage",
-      "link": "https://www.google.com/appsstatus#hl=en&v=status"
+      "title": "Implementing 'focus and reply' for Fastmail with JMAP",
+      "link": "https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/"
     },
     {
       "rank": "11.",
@@ -57,53 +57,53 @@
     },
     {
       "rank": "12.",
-      "title": "Fortnite developer Epic takes aim at Apple",
-      "link": "https://www.npr.org/2020/08/13/902328255/fortnite-uses-apples-own-1984-ad-against-it-in-dispute-over-payments"
-    },
-    {
-      "rank": "13.",
       "title": "Netflix Conductor: Open-source workflow orchestration engine",
       "link": "https://netflix.github.io/conductor/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "How the ARM32 Kernel Starts",
       "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
     },
     {
-      "rank": "15.",
-      "title": "Easily replicate/clone your Linux install",
-      "link": "http://foxclone.com"
-    },
-    {
-      "rank": "16.",
+      "rank": "14.",
       "title": "The dual PhD problem of today’s startups",
       "link": "https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/"
     },
     {
-      "rank": "17.",
-      "title": "Porting a Golang and Rust CLI tool to D",
-      "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
-    },
-    {
-      "rank": "18.",
-      "title": "LA Mayor Shuts Off Power at Hollywood Hills House That Hosted Large Parties",
-      "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/904053260/los-angeles-mayor-shuts-off-power-at-hollywood-hills-house-that-hosted-large-par"
-    },
-    {
-      "rank": "19.",
+      "rank": "15.",
       "title": "Micro-Optimizing .tar.gz Archives by Changing File Order",
       "link": "https://justinblank.com/experiments/optimizingtar.html"
     },
     {
-      "rank": "20.",
+      "rank": "16.",
+      "title": "Easily replicate/clone your Linux install",
+      "link": "http://foxclone.com"
+    },
+    {
+      "rank": "17.",
       "title": "Computer Search Settles 90-Year-Old Math Problem",
       "link": "https://www.quantamagazine.org/computer-search-settles-90-year-old-math-problem-20200819/"
     },
     {
-      "rank": "21.",
+      "rank": "18.",
+      "title": "Porting a Golang and Rust CLI tool to D",
+      "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
+    },
+    {
+      "rank": "19.",
       "title": "Launch HN: Epihub (YC S20) – Shopify for teaching online",
       "link": "item?id=24215376"
+    },
+    {
+      "rank": "20.",
+      "title": "LA Mayor Shuts Off Power at Hollywood Hills House That Hosted Large Parties",
+      "link": "https://www.npr.org/sections/coronavirus-live-updates/2020/08/19/904053260/los-angeles-mayor-shuts-off-power-at-hollywood-hills-house-that-hosted-large-par"
+    },
+    {
+      "rank": "21.",
+      "title": "Open Problems in Robotics",
+      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
     },
     {
       "rank": "22.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "Open Problems in Robotics",
-      "link": "https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/"
+      "title": "Practical Data Ethics",
+      "link": "http://ethics.fast.ai"
     },
     {
       "rank": "24.",
-      "title": "Practical Data Ethics",
-      "link": "http://ethics.fast.ai"
+      "title": "Ice Lake AVX-512 Downclocking",
+      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Ice Lake AVX-512 Downclocking",
-      "link": "https://travisdowns.github.io/blog/2020/08/19/icl-avx512-freq.html"
-    },
-    {
-      "rank": "27.",
       "title": "How Happy Couples Argue: Study (2019)",
       "link": "https://news.utk.edu/2019/09/16/new-research-sheds-light-on-how-happy-couples-argue/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "What harm do minimum wages do?",
       "link": "https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "My kid can’t handle a virtual education, and neither can I",
       "link": "https://www.theatlantic.com/ideas/archive/2020/08/kindergartener-virtual-education/615316/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Apple helped make 'top secret' iPod for US government",
       "link": "https://www.bbc.co.uk/news/technology-53835079"
+    },
+    {
+      "rank": "30.",
+      "title": "Launch HN: Quell (YC S20) – Immersive gaming and combat workout",
+      "link": "item?id=24210098"
     }
   ],
   "metadata": {
