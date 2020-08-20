@@ -2,53 +2,53 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Rideshare operations are being suspended in California",
+      "link": "https://www.lyft.com/blog/posts/ca-operations-update"
+    },
+    {
+      "rank": "2.",
       "title": "Moving from YouTube to PeerTube",
       "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
     },
     {
-      "rank": "2.",
-      "title": "A civilization flourished in Sudan nearly 5K years ago. Why was it forgotten?",
-      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
-    },
-    {
       "rank": "3.",
-      "title": "Startup mistakes: First-hand lessons from over eighty failed startups",
-      "link": "https://www.failory.com/blog/startup-mistakes"
-    },
-    {
-      "rank": "4.",
-      "title": "Satellite warfare: An arms race is brewing in orbit",
-      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
-    },
-    {
-      "rank": "5.",
-      "title": "Citibank's $900M Blunder",
-      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
-    },
-    {
-      "rank": "6.",
-      "title": "The Suspected Poisoning of Alexey Navalny, Putin’s Most Prominent Adversary",
-      "link": "https://www.newyorker.com/news/our-columnists/the-suspected-poisoning-of-alexey-navalny-putins-most-prominent-adversary"
-    },
-    {
-      "rank": "7.",
-      "title": "Tackling Open Challenges in Offline Reinforcement Learning",
-      "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
-    },
-    {
-      "rank": "8.",
-      "title": "Science Fiction Books I’ve Read (2018)",
-      "link": "https://fortelabs.co/blog/science-fiction-books-ive-read/"
-    },
-    {
-      "rank": "9.",
       "title": "Sci-fi story coauthored by GPT-3, including in-character human/AI chats",
       "link": "https://jamesyu.org/singular/"
     },
     {
+      "rank": "4.",
+      "title": "A civilization flourished in Sudan nearly 5K years ago. Why was it forgotten?",
+      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
+    },
+    {
+      "rank": "5.",
+      "title": "Startup mistakes: First-hand lessons from over eighty failed startups",
+      "link": "https://www.failory.com/blog/startup-mistakes"
+    },
+    {
+      "rank": "6.",
+      "title": "Satellite warfare: An arms race is brewing in orbit",
+      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
+    },
+    {
+      "rank": "7.",
+      "title": "Citibank's $900M Blunder",
+      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
+    },
+    {
+      "rank": "8.",
+      "title": "The Suspected Poisoning of Alexey Navalny, Putin’s Most Prominent Adversary",
+      "link": "https://www.newyorker.com/news/our-columnists/the-suspected-poisoning-of-alexey-navalny-putins-most-prominent-adversary"
+    },
+    {
+      "rank": "9.",
+      "title": "Science Fiction Books I’ve Read (2018)",
+      "link": "https://fortelabs.co/blog/science-fiction-books-ive-read/"
+    },
+    {
       "rank": "10.",
-      "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
-      "link": "item?id=24224355"
+      "title": "Tackling Open Challenges in Offline Reinforcement Learning",
+      "link": "https://ai.googleblog.com/2020/08/tackling-open-challenges-in-offline.html"
     },
     {
       "rank": "11.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "Experimental evidence supportive of the quantum DNA model",
-      "link": "https://dc.uthsc.edu/cgi/viewcontent.cgi?article=1002&context=gsmk_facpubs"
+      "title": "Launch HN: Hubble (YC S20) – Monitor data quality inside data warehouses",
+      "link": "item?id=24224355"
     },
     {
       "rank": "14.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
-      "link": "https://analysis-tools.dev"
+      "title": "Experimental evidence supportive of the quantum DNA model",
+      "link": "https://dc.uthsc.edu/cgi/viewcontent.cgi?article=1002&context=gsmk_facpubs"
     },
     {
       "rank": "17.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "App stores, trust and anti-trust",
-      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/app-stores"
+      "title": "Fortnite’s battle with Apple and Google could have an impact on news publishers",
+      "link": "https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/"
     },
     {
       "rank": "20.",
-      "title": "Fortnite’s battle with Apple and Google could have an impact on news publishers",
-      "link": "https://www.niemanlab.org/2020/08/fortnites-battle-with-apple-and-google-could-have-an-impact-on-news-publishers-too/"
+      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
+      "link": "https://analysis-tools.dev"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "Malaria No More",
-      "link": "http://malarianomore.org"
+      "title": "App stores, trust and anti-trust",
+      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/app-stores"
     },
     {
       "rank": "23.",
-      "title": "The 212-story skyscraper in Melbourne, Australia",
-      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
-    },
-    {
-      "rank": "24.",
       "title": "An Anecdote About ML Type Inference (1994)",
       "link": "https://web.archive.org/web/20081006181650/http://www.usenix.org/publications/library/proceedings/vhll/full_papers/koenig.a"
     },
     {
+      "rank": "24.",
+      "title": "The 212-story skyscraper in Melbourne, Australia",
+      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
+    },
+    {
       "rank": "25.",
+      "title": "Malaria No More",
+      "link": "http://malarianomore.org"
+    },
+    {
+      "rank": "26.",
       "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
       "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
+      "title": "Magnetoplasma drive could make Mars transit take 39 days?",
+      "link": "https://orbitalindex.com/archive/2020-08-19-Issue-78/#magnetoplasma-to-mars-in-39-days"
+    },
+    {
+      "rank": "28.",
       "title": "Analyzing Python Code with Python",
       "link": "https://rotemtam.com/2020/08/13/python-ast/"
     },
     {
-      "rank": "27.",
-      "title": "Antibody tests show what parts of NYC were hit hardest",
-      "link": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html"
-    },
-    {
-      "rank": "28.",
+      "rank": "29.",
       "title": "The AWS Controllers for Kubernetes",
       "link": "https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/"
     },
     {
-      "rank": "29.",
-      "title": "KeePassXC 2.6.1",
-      "link": "https://keepassxc.org/blog/2020-08-19-2.6.1-released/"
-    },
-    {
       "rank": "30.",
-      "title": "The Language of Science",
-      "link": "https://www.scientificamerican.com/article/the-language-of-science/"
+      "title": "Antibody tests show what parts of NYC were hit hardest",
+      "link": "https://www.nytimes.com/2020/08/19/nyregion/new-york-city-antibody-test.html"
     }
   ],
   "metadata": {
