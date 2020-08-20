@@ -7,53 +7,53 @@
     },
     {
       "rank": "2.",
-      "title": "A civilization flourished in Sudan nearly 5K years ago. Why was it forgotten?",
-      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
-    },
-    {
-      "rank": "3.",
       "title": "Today's World Mosquito Day – Malaria Kills 3000 Kids a Day",
       "link": "http://malarianomore.org"
     },
     {
+      "rank": "3.",
+      "title": "A civilization flourished in Sudan nearly 5K years ago. Why was it forgotten?",
+      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
+    },
+    {
       "rank": "4.",
-      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
-      "link": "https://analysis-tools.dev"
-    },
-    {
-      "rank": "5.",
-      "title": "The 212-story skyscraper in Melbourne, Australia",
-      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
-    },
-    {
-      "rank": "6.",
-      "title": "Citibank's $900M Blunder",
-      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
-    },
-    {
-      "rank": "7.",
-      "title": "A deep dive into the official Docker image for Python",
-      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
-    },
-    {
-      "rank": "8.",
       "title": "Notes from a Flat Earth Conference",
       "link": "https://www.willpatrick.co.uk/articles/notes-from-a-flat-earth-conference"
     },
     {
+      "rank": "5.",
+      "title": "Show HN: Compare Analysis Tools For Python, Ruby, C, PHP, Go",
+      "link": "https://analysis-tools.dev"
+    },
+    {
+      "rank": "6.",
+      "title": "A deep dive into the official Docker image for Python",
+      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
+    },
+    {
+      "rank": "7.",
+      "title": "The 212-story skyscraper in Melbourne, Australia",
+      "link": "https://twitter.com/liamosaur/status/1296305262144364544"
+    },
+    {
+      "rank": "8.",
+      "title": "Citibank's $900M Blunder",
+      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
+    },
+    {
       "rank": "9.",
-      "title": "Analyzing Python Code with Python",
-      "link": "https://rotemtam.com/2020/08/13/python-ast/"
+      "title": "Builders who will thrive in the new world",
+      "link": "https://wfh.substack.com/p/the-6-builders-who-will-thrive-in"
     },
     {
       "rank": "10.",
-      "title": "Trump's favorite tech company could win TikTok",
-      "link": "https://www.axios.com/how-trumps-favorite-tech-company-could-win-tiktok-7a42b950-e0a5-446d-b49e-21edd083d116.html"
+      "title": "Startup mistakes: First-hand lessons from over eighty failed startups",
+      "link": "https://www.failory.com/blog/startup-mistakes"
     },
     {
       "rank": "11.",
-      "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
-      "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
+      "title": "Analyzing Python Code with Python",
+      "link": "https://rotemtam.com/2020/08/13/python-ast/"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "Builders who will thrive in the new world",
-      "link": "https://wfh.substack.com/p/the-6-builders-who-will-thrive-in"
+      "title": "Showing a sunrise/sunset realtime 24/7 with the use of unsecured CCTV cameras",
+      "link": "https://driesdepoorter.be/24h-sunrise-sunset/"
     },
     {
       "rank": "14.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Plan the Sprint, Not the Project",
-      "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
+      "title": "Unsporting scandium (2014)",
+      "link": "https://www.nature.com/articles/nchem.2090"
     },
     {
       "rank": "18.",
@@ -92,23 +92,23 @@
     },
     {
       "rank": "19.",
+      "title": "Smooth teleoperator: The rise of the remote controller",
+      "link": "https://venturebeat.com/2020/08/17/smooth-teleoperator-the-rise-of-the-remote-controller/"
+    },
+    {
+      "rank": "20.",
       "title": "Can't you just right click?",
       "link": "https://lapcatsoftware.com/articles/unsigned.html"
     },
     {
-      "rank": "20.",
-      "title": "Porting a Golang and Rust CLI tool to D",
-      "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
-    },
-    {
       "rank": "21.",
-      "title": "Unsporting scandium (2014)",
-      "link": "https://www.nature.com/articles/nchem.2090"
+      "title": "Plan the Sprint, Not the Project",
+      "link": "https://critter.blog/2020/08/20/plan-the-sprint-not-the-project/"
     },
     {
       "rank": "22.",
-      "title": "Smooth teleoperator: The rise of the remote controller",
-      "link": "https://venturebeat.com/2020/08/17/smooth-teleoperator-the-rise-of-the-remote-controller/"
+      "title": "Porting a Golang and Rust CLI tool to D",
+      "link": "https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
     },
     {
       "rank": "23.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
-      "title": "Startup Mistakes: First-Hand Lessons from 80 Failed Startups",
-      "link": "https://www.failory.com/blog/startup-mistakes"
-    },
-    {
-      "rank": "25.",
       "title": "How the ARM32 Kernel Starts",
       "link": "https://people.kernel.org/linusw/how-the-arm32-kernel-starts"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Assange, Manning and Snowden Nominated for the 2020 Nobel Peace Prize",
       "link": "https://defend.wikileaks.org/2020/02/06/julian-assange-chelsea-manning-and-edward-snowden-nominated-for-the-2020-nobel-peace-prize/"
+    },
+    {
+      "rank": "26.",
+      "title": "The Suspected Poisoning of Alexey Navalny, Putin’s Most Prominent Adversary",
+      "link": "https://www.newyorker.com/news/our-columnists/the-suspected-poisoning-of-alexey-navalny-putins-most-prominent-adversary"
     },
     {
       "rank": "27.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "The Trouble with Quantum Mechanics (2017) [pdf]",
-      "link": "http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf"
+      "title": "Lit: The Language Interpretability Tool",
+      "link": "https://github.com/pair-code/lit/"
     },
     {
       "rank": "29.",
-      "title": "Lit: The Language Interpretability Tool",
-      "link": "https://github.com/pair-code/lit/"
+      "title": "The Trouble with Quantum Mechanics (2017) [pdf]",
+      "link": "http://quantum.phys.unm.edu/466-17/QuantumMechanicsWeinberg.pdf"
     },
     {
       "rank": "30.",
