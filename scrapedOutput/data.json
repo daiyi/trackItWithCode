@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
-      "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
+      "title": "Michigan college is tracking its students with a flawed app",
+      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
     },
     {
       "rank": "5.",
-      "title": "Michigan college is tracking its students with a flawed app",
-      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
+      "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
+      "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
     },
     {
       "rank": "6.",
@@ -32,33 +32,33 @@
     },
     {
       "rank": "7.",
-      "title": "Why Did Mozilla Remove XUL Add-Ons?",
-      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
-    },
-    {
-      "rank": "8.",
-      "title": "How Shopify reduced storefront response times with a rewrite",
-      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
-    },
-    {
-      "rank": "9.",
       "title": "Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs",
       "link": "https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b"
     },
     {
+      "rank": "8.",
+      "title": "Why Did Mozilla Remove XUL Add-Ons?",
+      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
+    },
+    {
+      "rank": "9.",
+      "title": "Does Parkinson’s Begin in the Gut?",
+      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
+    },
+    {
       "rank": "10.",
+      "title": "How Shopify reduced storefront response times with a rewrite",
+      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
+    },
+    {
+      "rank": "11.",
       "title": "The universe has made almost all the stars it will ever make",
       "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Sending SPF and DMARC passing mail as any Gmail or G Suite customer",
       "link": "https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/"
-    },
-    {
-      "rank": "12.",
-      "title": "Does Parkinson’s Begin in the Gut?",
-      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
     },
     {
       "rank": "13.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Elena Programming Language",
-      "link": "https://elena-lang.github.io/"
+      "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
+      "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
     },
     {
       "rank": "16.",
-      "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
-      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
+      "title": "Elena Programming Language",
+      "link": "https://elena-lang.github.io/"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
-      "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
+      "title": "Parsing S-expressions in C (2019)",
+      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
     },
     {
       "rank": "19.",
@@ -97,28 +97,28 @@
     },
     {
       "rank": "20.",
-      "title": "Parsing S-expressions in C (2019)",
-      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
-    },
-    {
-      "rank": "21.",
       "title": "“Cold Tube” cooling system uses half the energy of an air conditioner",
       "link": "https://newatlas.com/energy/cold-tube-cooling-air-conditioner/"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
       "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Satellite warfare: An arms race is brewing in orbit",
       "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "How to make a bee hotel [pdf]",
       "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
+    },
+    {
+      "rank": "24.",
+      "title": "Image Shows Chinese Submarine Entering Mysterious Cave at S. China Sea Base",
+      "link": "https://www.thedrive.com/the-war-zone/35837/image-shows-chinese-submarine-entering-mysterious-cave-facility-at-south-china-sea-base?"
     },
     {
       "rank": "25.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Image Shows Chinese Submarine Entering Mysterious Cave at S. China Sea Base",
-      "link": "https://www.thedrive.com/the-war-zone/35837/image-shows-chinese-submarine-entering-mysterious-cave-facility-at-south-china-sea-base?"
-    },
-    {
-      "rank": "28.",
       "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
       "link": "https://sayless.email/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "From farm to factory: the unstoppable rise of American chicken",
       "link": "https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine",
       "link": "https://gravitymachine.org/about/"
+    },
+    {
+      "rank": "30.",
+      "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
+      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
     }
   ],
   "metadata": {
