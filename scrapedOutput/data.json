@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Lightroom app update wipes users' photos and presets, Adobe says not recoverable",
-      "link": "https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/"
+      "title": "Former Zoox employees sue, alleging rival offer was better than Amazon's",
+      "link": "https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB"
     },
     {
       "rank": "4.",
-      "title": "Former Zoox employees sue, alleging rival offer was better than Amazon's",
-      "link": "https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB"
+      "title": "Lightroom app update wipes users' photos and presets, Adobe says not recoverable",
+      "link": "https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/"
     },
     {
       "rank": "5.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
-      "title": "ScholarMe (YC S19) Is Hiring a Front End Engineer – Toronto/Remote",
-      "link": "https://www.notion.so/scholarme/Senior-Frontend-Engineer-ScholarMe-YC-S19-23253664b6cb4eddb32ae9eafc5a661d"
-    },
-    {
-      "rank": "9.",
       "title": "Sending SPF and DMARC passing mail as any Gmail or G Suite customer",
       "link": "https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Moving from YouTube to PeerTube",
       "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
+    },
+    {
+      "rank": "10.",
+      "title": "ScholarMe (YC S19) Is Hiring a Front End Engineer – Toronto/Remote",
+      "link": "https://www.notion.so/scholarme/Senior-Frontend-Engineer-ScholarMe-YC-S19-23253664b6cb4eddb32ae9eafc5a661d"
     },
     {
       "rank": "11.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "Former Chief Security Officer for Uber Charged with Obstruction of Justice",
-      "link": "https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice"
+      "title": "Elena Programming Language",
+      "link": "https://elena-lang.github.io/"
     },
     {
       "rank": "14.",
-      "title": "Elena Programming Language",
-      "link": "https://elena-lang.github.io/"
+      "title": "Former Chief Security Officer for Uber Charged with Obstruction of Justice",
+      "link": "https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice"
     },
     {
       "rank": "15.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
-      "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
+      "title": "Parsing S-expressions in C (2019)",
+      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
     },
     {
       "rank": "18.",
-      "title": "Parsing S-expressions in C (2019)",
-      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
+      "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
+      "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Satellite warfare: An arms race is brewing in orbit",
-      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
+      "title": "Citibank's $900M Blunder",
+      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
     },
     {
       "rank": "21.",
-      "title": "Citibank's $900M Blunder",
-      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
+      "title": "Satellite warfare: An arms race is brewing in orbit",
+      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
     },
     {
       "rank": "22.",
@@ -117,23 +117,23 @@
     },
     {
       "rank": "24.",
-      "title": "Why a Slack Backlash Is Inevitable",
-      "link": "https://bigtechnology.substack.com/p/why-a-slack-backlash-is-inevitable"
-    },
-    {
-      "rank": "25.",
       "title": "Wirecard hired actors to fool auditors",
       "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
     },
     {
+      "rank": "25.",
+      "title": "Why a Slack Backlash Is Inevitable",
+      "link": "https://bigtechnology.substack.com/p/why-a-slack-backlash-is-inevitable"
+    },
+    {
       "rank": "26.",
-      "title": "“Cold Tube” cooling system uses half the energy of an air conditioner",
-      "link": "https://newatlas.com/energy/cold-tube-cooling-air-conditioner/"
+      "title": "Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine",
+      "link": "https://gravitymachine.org/about/"
     },
     {
       "rank": "27.",
-      "title": "Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine",
-      "link": "https://gravitymachine.org/about/"
+      "title": "“Cold Tube” cooling system uses half the energy of an air conditioner",
+      "link": "https://newatlas.com/energy/cold-tube-cooling-air-conditioner/"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Archaeologist discovers rare items under the floor of Oxburgh Hall",
-      "link": "https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall"
+      "title": "A deep dive into the official Docker image for Python",
+      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
     }
   ],
   "metadata": {
