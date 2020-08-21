@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "'It’s a Telegram revolution’: Messaging app proves crucial to Belarus protests",
-      "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
-    },
-    {
-      "rank": "2.",
       "title": "Why efficiency is dangerous and slowing down makes life better",
       "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "RustConf 2020 Links",
       "link": "https://github.com/poteto/rustconf-2020"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Hotel in Tokyo installs flight simulator in room (2019)",
       "link": "https://www.businesstraveller.com/business-travel/2019/07/31/hotel-in-tokyo-installs-flight-simulator-in-room/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "TypeScript 4.0",
       "link": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html"
+    },
+    {
+      "rank": "5.",
+      "title": "Fast.ai releases new deep learning course",
+      "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
     },
     {
       "rank": "6.",
@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "Fast.ai releases new deep learning course",
-      "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
+      "title": "'It’s a Telegram revolution’: Messaging app proves crucial to Belarus protests",
+      "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
       "rank": "8.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Show HN: Discover shared videos and live broadcasts from Reddit",
-      "link": "https://redditvids.com/"
+      "title": "But I was helping the compiler",
+      "link": "https://pankajraghav.com/2020/08/16/RVO.html"
     },
     {
       "rank": "11.",
-      "title": "But I was helping the compiler",
-      "link": "https://pankajraghav.com/2020/08/16/RVO.html"
+      "title": "Show HN: Discover shared videos and live broadcasts from Reddit",
+      "link": "https://redditvids.com/"
     },
     {
       "rank": "12.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Ammonia as a Fuel for Compression Ignition Engines",
-      "link": "https://www.ammoniaenergy.org/articles/review-of-ammonia-as-a-ci-fuel-published/"
+      "title": "ReMarkable MicroSD",
+      "link": "http://www.davisr.me/projects/remarkable-microsd/"
     },
     {
       "rank": "16.",
-      "title": "ReMarkable MicroSD",
-      "link": "http://www.davisr.me/projects/remarkable-microsd/"
+      "title": "Ammonia as a Fuel for Compression Ignition Engines",
+      "link": "https://www.ammoniaenergy.org/articles/review-of-ammonia-as-a-ci-fuel-published/"
     },
     {
       "rank": "17.",
@@ -92,18 +92,18 @@
     },
     {
       "rank": "19.",
-      "title": "New Story (YC Nonprofit S15) Is Hiring a Digital Marketer",
-      "link": "https://newstorycharity.org/careers/digital-marketer"
-    },
-    {
-      "rank": "20.",
       "title": "Chromium's Impact on Root DNS Traffic",
       "link": "https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "AI ‘pilot’ beats top F-16 fighter pilot in DARPA’s simulated aerial dogfight",
       "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
+    },
+    {
+      "rank": "21.",
+      "title": "New Story (YC Nonprofit S15) Is Hiring a Digital Marketer",
+      "link": "https://newstorycharity.org/careers/digital-marketer"
     },
     {
       "rank": "22.",
