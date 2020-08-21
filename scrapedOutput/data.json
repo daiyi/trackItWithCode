@@ -97,33 +97,33 @@
     },
     {
       "rank": "20.",
+      "title": "How the Boeing 737 Max Disaster Looks to a Software Developer (2019)",
+      "link": "https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer"
+    },
+    {
+      "rank": "21.",
       "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
       "link": "item?id=24228826"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Why Did Mozilla Remove XUL Add-Ons?",
       "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
       "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
       "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Does Parkinson’s Begin in the Gut? (2018)",
       "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
-    },
-    {
-      "rank": "25.",
-      "title": "How the Boeing 737 Max Disaster Looks to a Software Developer",
-      "link": "https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "How I got the French Tech Visa to start up in France",
-      "link": "https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/"
+      "title": "Elena Programming Language",
+      "link": "https://elena-lang.github.io/"
     },
     {
       "rank": "28.",
-      "title": "Elena Programming Language",
-      "link": "https://elena-lang.github.io/"
+      "title": "The Golden Age of computer user groups",
+      "link": "https://arstechnica.com/information-technology/2020/08/the-golden-age-of-computer-user-groups/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "The Golden Age of computer user groups",
-      "link": "https://arstechnica.com/information-technology/2020/08/the-golden-age-of-computer-user-groups/"
+      "title": "How I got the French Tech Visa to start up in France",
+      "link": "https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/"
     }
   ],
   "metadata": {
