@@ -17,23 +17,23 @@
     },
     {
       "rank": "4.",
-      "title": "RustConf 2020 Links",
-      "link": "https://github.com/poteto/rustconf-2020"
-    },
-    {
-      "rank": "5.",
       "title": "An Update on MDN Web Docs",
       "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
     },
     {
+      "rank": "5.",
+      "title": "RustConf 2020 Links",
+      "link": "https://github.com/poteto/rustconf-2020"
+    },
+    {
       "rank": "6.",
-      "title": "Volunteers spot almost 100 cold brown dwarfs near our sun",
-      "link": "https://www.space.com/citizen-scientists-discover-95-brown-dwarfs.html"
+      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
+      "link": "item?id=24237818"
     },
     {
       "rank": "7.",
-      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
-      "link": "item?id=24237818"
+      "title": "Volunteers spot almost 100 cold brown dwarfs near our sun",
+      "link": "https://www.space.com/citizen-scientists-discover-95-brown-dwarfs.html"
     },
     {
       "rank": "8.",
@@ -47,8 +47,8 @@
     },
     {
       "rank": "10.",
-      "title": "Port 5432 is open: introducing the Splitgraph Data Delivery Network",
-      "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
+      "title": "Thompson, Ritchie and Kernighan admit that Unix was a prank",
+      "link": "http://www.stokely.com/lighter.side/unix.prank.html"
     },
     {
       "rank": "11.",
@@ -57,43 +57,43 @@
     },
     {
       "rank": "12.",
+      "title": "Port 5432 is open: introducing the Splitgraph Data Delivery Network",
+      "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
+    },
+    {
+      "rank": "13.",
       "title": "But I was helping the compiler",
       "link": "https://pankajraghav.com/2020/08/16/RVO.html"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "University of Utah pays $457k to ransomware gang",
       "link": "https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Leaked S-1 screenshots show Palantir losing $579M in 2019",
       "link": "https://techcrunch.com/2020/08/21/leaked-s-1-screenshots-show-palantir-losing-579m-in-2019/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "‘Electric mud’ teems with new, mysterious bacteria",
       "link": "https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria"
     },
     {
-      "rank": "16.",
-      "title": "Show HN: Discover shared videos and live broadcasts from Reddit",
-      "link": "https://redditvids.com/"
-    },
-    {
       "rank": "17.",
-      "title": "ReMarkable MicroSD",
-      "link": "http://www.davisr.me/projects/remarkable-microsd/"
-    },
-    {
-      "rank": "18.",
       "title": "Myths About Failure",
       "link": "https://greylock.com/reid-hoffman-myths-about-failure/"
     },
     {
+      "rank": "18.",
+      "title": "ReMarkable MicroSD",
+      "link": "http://www.davisr.me/projects/remarkable-microsd/"
+    },
+    {
       "rank": "19.",
-      "title": "Ammonia as a Fuel for Compression Ignition Engines",
-      "link": "https://www.ammoniaenergy.org/articles/review-of-ammonia-as-a-ci-fuel-published/"
+      "title": "Show HN: Discover shared videos and live broadcasts from Reddit",
+      "link": "https://redditvids.com/"
     },
     {
       "rank": "20.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Chromium's Impact on Root DNS Traffic",
-      "link": "https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/"
+      "title": "Ammonia as a Fuel for Compression Ignition Engines",
+      "link": "https://www.ammoniaenergy.org/articles/review-of-ammonia-as-a-ci-fuel-published/"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Thompson, Ritchie and Kernighan admit that Unix was a prank",
-      "link": "http://www.stokely.com/lighter.side/unix.prank.html"
-    },
-    {
-      "rank": "25.",
       "title": "Exploding stars may have caused mass extinction on Earth, study shows",
       "link": "https://phys.org/news/2020-08-stars-mass-extinction-earth.html"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "RSSHub: Everything Is RSSible",
       "link": "https://github.com/DIYgod/RSSHub"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "New Story (YC Nonprofit S15) Is Hiring a Digital Marketer",
       "link": "https://newstorycharity.org/careers/digital-marketer"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Ride Through a German Village on ‘The Flying Train’ in Clear Footage from 1902",
       "link": "https://www.thisiscolossal.com/2020/08/the-flying-train-moma/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "GCC x86 Performance Hints (2012)",
       "link": "https://software.intel.com/content/www/us/en/develop/blogs/gcc-x86-performance-hints.html"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "How I got the French Tech Visa to start my company in France",
       "link": "https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/"
+    },
+    {
+      "rank": "30.",
+      "title": "Breaking Samsung Firmware, or Turning Your S8/S9/S10 into a DIY “Proxmark”",
+      "link": "https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/"
     }
   ],
   "metadata": {
