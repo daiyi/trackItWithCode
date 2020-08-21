@@ -17,103 +17,103 @@
     },
     {
       "rank": "4.",
-      "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
-      "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
-    },
-    {
-      "rank": "5.",
-      "title": "Why Did Mozilla Remove XUL Add-Ons?",
-      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
-    },
-    {
-      "rank": "6.",
-      "title": "How Shopify reduced storefront response times with a rewrite",
-      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
-    },
-    {
-      "rank": "7.",
-      "title": "Sending SPF and DMARC passing mail as any Gmail or G Suite customer",
-      "link": "https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/"
-    },
-    {
-      "rank": "8.",
-      "title": "Moving from YouTube to PeerTube",
-      "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
-    },
-    {
-      "rank": "9.",
-      "title": "The Universe Has Made Almost All the Stars It Will Ever Make",
-      "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
-    },
-    {
-      "rank": "10.",
       "title": "Former Zoox employees sue, alleging rival offer was better than Amazon's",
       "link": "https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB"
     },
     {
+      "rank": "5.",
+      "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
+      "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
+    },
+    {
+      "rank": "6.",
+      "title": "Why Did Mozilla Remove XUL Add-Ons?",
+      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
+    },
+    {
+      "rank": "7.",
+      "title": "How Shopify reduced storefront response times with a rewrite",
+      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
+    },
+    {
+      "rank": "8.",
+      "title": "ScholarMe (YC S19) Is Hiring a Front End Engineer – Toronto/Remote",
+      "link": "https://www.notion.so/scholarme/Senior-Frontend-Engineer-ScholarMe-YC-S19-23253664b6cb4eddb32ae9eafc5a661d"
+    },
+    {
+      "rank": "9.",
+      "title": "Sending SPF and DMARC passing mail as any Gmail or G Suite customer",
+      "link": "https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/"
+    },
+    {
+      "rank": "10.",
+      "title": "Moving from YouTube to PeerTube",
+      "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
+    },
+    {
       "rank": "11.",
-      "title": "Elena Programming Language",
-      "link": "https://elena-lang.github.io/"
+      "title": "The Universe Has Made Almost All the Stars It Will Ever Make",
+      "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
     },
     {
       "rank": "12.",
+      "title": "Michigan college is tracking its students with a flawed app",
+      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
+    },
+    {
+      "rank": "13.",
       "title": "Former Chief Security Officer for Uber Charged with Obstruction of Justice",
       "link": "https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
+      "title": "Elena Programming Language",
+      "link": "https://elena-lang.github.io/"
+    },
+    {
+      "rank": "15.",
       "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
       "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
     },
     {
-      "rank": "14.",
+      "rank": "16.",
       "title": "The software industry is going through the “disposable plastic” crisis",
       "link": "https://lwn.net/Articles/829123/"
     },
     {
-      "rank": "15.",
-      "title": "Parsing S-expressions in C (2019)",
-      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
-    },
-    {
-      "rank": "16.",
-      "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
-      "link": "item?id=24228826"
-    },
-    {
       "rank": "17.",
-      "title": "Satellite warfare: An arms race is brewing in orbit",
-      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
-    },
-    {
-      "rank": "18.",
-      "title": "Citibank's $900M Blunder",
-      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
-    },
-    {
-      "rank": "19.",
-      "title": "How to make a bee hotel [pdf]",
-      "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
-    },
-    {
-      "rank": "20.",
       "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
       "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
     },
     {
+      "rank": "18.",
+      "title": "Parsing S-expressions in C (2019)",
+      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
+    },
+    {
+      "rank": "19.",
+      "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
+      "link": "item?id=24228826"
+    },
+    {
+      "rank": "20.",
+      "title": "Satellite warfare: An arms race is brewing in orbit",
+      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
+    },
+    {
       "rank": "21.",
-      "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
-      "link": "https://sayless.email/"
+      "title": "Citibank's $900M Blunder",
+      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
     },
     {
       "rank": "22.",
-      "title": "Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine",
-      "link": "https://gravitymachine.org/about/"
+      "title": "How to make a bee hotel [pdf]",
+      "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
     },
     {
       "rank": "23.",
-      "title": "Wirecard hired actors to fool auditors",
-      "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
+      "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
+      "link": "https://sayless.email/"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "Math.min(Math.max(num, min), max)",
-      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
+      "title": "Wirecard hired actors to fool auditors",
+      "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine",
+      "link": "https://gravitymachine.org/about/"
+    },
+    {
+      "rank": "28.",
+      "title": "Math.min(Math.max(num, min), max)",
+      "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
+    },
+    {
+      "rank": "29.",
       "title": "Foiling Electric Boat",
       "link": "https://candelaspeedboat.com/"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Archaeologist discovers rare items under the floor of Oxburgh Hall",
       "link": "https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall"
-    },
-    {
-      "rank": "29.",
-      "title": "A deep dive into the official Docker image for Python",
-      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
-    },
-    {
-      "rank": "30.",
-      "title": "Taplytics (YC W14) Is Hiring Senior Engineers and Senior CSMs in Toronto",
-      "link": "https://taplytics.com/careers/"
     }
   ],
   "metadata": {
