@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "Why Did a Hedge Fund Manager Worth $700M Take a $630k Job Managing an Oil Fund?",
-      "link": "https://www.institutionalinvestor.com/article/b1mr3g654h58lp/Why-Did-a-Hedge-Fund-Manager-Worth-700-Million-Take-a-630-000-a-Year-Job-Managing-an-Oil-Fund"
+      "title": "Lightroom app update wipes users' photos and presets, Adobe says not recoverable",
+      "link": "https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/"
     },
     {
       "rank": "3.",
@@ -17,37 +17,37 @@
     },
     {
       "rank": "4.",
-      "title": "Lightroom app update wipes users' photos and presets, Adobe says not recoverable",
-      "link": "https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/"
-    },
-    {
-      "rank": "5.",
-      "title": "Why Did Mozilla Remove XUL Add-Ons?",
-      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
-    },
-    {
-      "rank": "6.",
       "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
       "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
     },
     {
-      "rank": "7.",
+      "rank": "5.",
       "title": "Michigan college is tracking its students with a flawed app",
       "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
     },
     {
-      "rank": "8.",
+      "rank": "6.",
       "title": "Chromium's Impact on Root DNS Traffic",
       "link": "https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/"
     },
     {
-      "rank": "9.",
+      "rank": "7.",
+      "title": "Why Did Mozilla Remove XUL Add-Ons?",
+      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
+    },
+    {
+      "rank": "8.",
       "title": "How Shopify reduced storefront response times with a rewrite",
       "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
     },
     {
+      "rank": "9.",
+      "title": "Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs",
+      "link": "https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b"
+    },
+    {
       "rank": "10.",
-      "title": "The Universe Has Made Almost All the Stars It Will Ever Make",
+      "title": "The universe has made almost all the stars it will ever make",
       "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
     },
     {
@@ -57,28 +57,28 @@
     },
     {
       "rank": "12.",
+      "title": "Does Parkinson’s Begin in the Gut?",
+      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
+    },
+    {
+      "rank": "13.",
+      "title": "Former Uber executive charged with paying 'hush money' to conceal breach",
+      "link": "https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach"
+    },
+    {
+      "rank": "14.",
       "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
       "link": "item?id=24228826"
     },
     {
-      "rank": "13.",
-      "title": "Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs",
-      "link": "https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b"
-    },
-    {
-      "rank": "14.",
-      "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
-      "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
-    },
-    {
       "rank": "15.",
-      "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
-      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
+      "title": "Elena Programming Language",
+      "link": "https://elena-lang.github.io/"
     },
     {
       "rank": "16.",
-      "title": "Former Chief Security Officer for Uber Charged with Obstruction of Justice",
-      "link": "https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice"
+      "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
+      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
     },
     {
       "rank": "17.",
@@ -87,38 +87,38 @@
     },
     {
       "rank": "18.",
-      "title": "Elena Programming Language",
-      "link": "https://elena-lang.github.io/"
+      "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
+      "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
     },
     {
       "rank": "19.",
+      "title": "Why did a hedge fund manager worth $700M take a $630k job managing an oil fund?",
+      "link": "https://www.institutionalinvestor.com/article/b1mr3g654h58lp/Why-Did-a-Hedge-Fund-Manager-Worth-700-Million-Take-a-630-000-a-Year-Job-Managing-an-Oil-Fund"
+    },
+    {
+      "rank": "20.",
       "title": "Parsing S-expressions in C (2019)",
       "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "“Cold Tube” cooling system uses half the energy of an air conditioner",
       "link": "https://newatlas.com/energy/cold-tube-cooling-air-conditioner/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
+      "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
+      "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
+    },
+    {
+      "rank": "23.",
       "title": "Satellite warfare: An arms race is brewing in orbit",
       "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
     },
     {
-      "rank": "22.",
-      "title": "ScholarMe (YC S19) Is Hiring a Front End Engineer – Toronto/Remote",
-      "link": "https://www.notion.so/scholarme/Senior-Frontend-Engineer-ScholarMe-YC-S19-23253664b6cb4eddb32ae9eafc5a661d"
-    },
-    {
-      "rank": "23.",
+      "rank": "24.",
       "title": "How to make a bee hotel [pdf]",
       "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
-    },
-    {
-      "rank": "24.",
-      "title": "Does Parkinson’s Begin in the Gut?",
-      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
-      "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
+      "title": "ScholarMe (YC S19) Is Hiring a Front End Engineer – Toronto/Remote",
+      "link": "https://www.notion.so/scholarme/Senior-Frontend-Engineer-ScholarMe-YC-S19-23253664b6cb4eddb32ae9eafc5a661d"
     },
     {
       "rank": "27.",
+      "title": "Image Shows Chinese Submarine Entering Mysterious Cave at S. China Sea Base",
+      "link": "https://www.thedrive.com/the-war-zone/35837/image-shows-chinese-submarine-entering-mysterious-cave-facility-at-south-china-sea-base?"
+    },
+    {
+      "rank": "28.",
       "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
       "link": "https://sayless.email/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "From farm to factory: the unstoppable rise of American chicken",
       "link": "https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine",
       "link": "https://gravitymachine.org/about/"
-    },
-    {
-      "rank": "30.",
-      "title": "Archaeologist discovers rare items under the floor of Oxburgh Hall",
-      "link": "https://www.nationaltrust.org.uk/oxburgh-hall/news/archaeologist-discovers-rare-items-under-the-floor-of-oxburgh-hall"
     }
   ],
   "metadata": {
