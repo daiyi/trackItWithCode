@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Port 5432 is open: introducing the Splitgraph Data Delivery Network",
-      "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
-    },
-    {
-      "rank": "2.",
       "title": "'It’s a Telegram revolution’: Messaging app proves crucial to Belarus protests",
       "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
+      "rank": "2.",
+      "title": "Port 5432 is open: introducing the Splitgraph Data Delivery Network",
+      "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
+    },
+    {
       "rank": "3.",
-      "title": "Show HN: Discover shared videos and live broadcasts from Reddit",
-      "link": "https://redditvids.com/"
+      "title": "PHP 8.0.0beta2 Released",
+      "link": "https://www.php.net/index.php#id2020-08-21-1"
     },
     {
       "rank": "4.",
-      "title": "PHP 8.0.0beta2 Released",
-      "link": "https://www.php.net/index.php#id2020-08-21-1"
+      "title": "Show HN: Discover shared videos and live broadcasts from Reddit",
+      "link": "https://redditvids.com/"
     },
     {
       "rank": "5.",
@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "ReMarkable MicroSD",
-      "link": "http://www.davisr.me/projects/remarkable-microsd/"
+      "title": "Leaked S-1 screenshots show Palantir losing $579M in 2019",
+      "link": "https://techcrunch.com/2020/08/21/leaked-s-1-screenshots-show-palantir-losing-579m-in-2019/"
     },
     {
       "rank": "7.",
-      "title": "Leaked S-1 screenshots show Palantir losing $579M in 2019",
-      "link": "https://techcrunch.com/2020/08/21/leaked-s-1-screenshots-show-palantir-losing-579m-in-2019/"
+      "title": "ReMarkable MicroSD",
+      "link": "http://www.davisr.me/projects/remarkable-microsd/"
     },
     {
       "rank": "8.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Why Did Mozilla Remove XUL Add-Ons?",
-      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
+      "title": "AI ‘pilot’ beats top F-16 fighter pilot in DARPA’s simulated aerial dogfight",
+      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     },
     {
       "rank": "16.",
-      "title": "AI ‘pilot’ beats top F-16 fighter pilot in DARPA’s simulated aerial dogfight",
-      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
+      "title": "Why Did Mozilla Remove XUL Add-Ons?",
+      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
     },
     {
       "rank": "17.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs",
-      "link": "https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b"
+      "title": "Lightroom app update wipes users' photos and presets, Adobe says not recoverable",
+      "link": "https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Lightroom app update wipes users' photos and presets, Adobe says not recoverable",
-      "link": "https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/"
-    },
-    {
-      "rank": "25.",
       "title": "ARX, Arthur and RISC OS (2012)",
       "link": "http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "The Native-American Origins of Gumbo",
       "link": "https://www.atlasobscura.com/articles/native-american-gumbo"
     },
     {
-      "rank": "27.",
-      "title": "We [OkayCupid] decided against GraphQL for local state management",
-      "link": "https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/"
+      "rank": "26.",
+      "title": "Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs",
+      "link": "https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
       "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
       "link": "item?id=24228826"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
       "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
+    },
+    {
+      "rank": "30.",
+      "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
+      "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
     }
   ],
   "metadata": {
