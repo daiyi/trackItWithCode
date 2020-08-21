@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "F (2006)",
-      "link": "http://www.nsl.com/k/f/f.htm"
+      "title": "Telegram messaging app proves crucial to Belarus protests",
+      "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
       "rank": "2.",
-      "title": "Telegram messaging app proves crucial to Belarus protests",
-      "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
+      "title": "F (2006)",
+      "link": "http://www.nsl.com/k/f/f.htm"
     },
     {
       "rank": "3.",
@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "An Update on MDN Web Docs",
-      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
+      "title": "Corsair Gaming S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm"
     },
     {
       "rank": "6.",
-      "title": "Corsair Gaming S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm"
+      "title": "An Update on MDN Web Docs",
+      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
     },
     {
       "rank": "7.",
@@ -72,28 +72,28 @@
     },
     {
       "rank": "15.",
+      "title": "Stereotype accuracy: One of the largest, most replicable effects in psychology [pdf]",
+      "link": "https://www.gwern.net/docs/psychology/2016-jussim.pdf"
+    },
+    {
+      "rank": "16.",
       "title": "Intel Xe-HP Graphics: Early Samples Offer 42 TFLOPs of FP32 Performance",
       "link": "https://www.anandtech.com/show/16018/intel-xe-hp-graphics-early-samples-offer-42-tflops-of-fp32-performance"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "The Splitgraph Data Delivery Network – query over 40k public datasets",
       "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "University of Utah pays $457k to ransomware gang",
       "link": "https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Placeholder – Offline Coarse Geocoder Backed by SQLite",
       "link": "https://github.com/pelias/placeholder"
-    },
-    {
-      "rank": "19.",
-      "title": "Why we decided against GraphQL for local state management",
-      "link": "https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "‘Electric mud’ teems with new, mysterious bacteria",
-      "link": "https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria"
+      "title": "Why we decided against GraphQL for local state management",
+      "link": "https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/"
     },
     {
       "rank": "22.",
-      "title": "Myths About Failure",
-      "link": "https://greylock.com/reid-hoffman-myths-about-failure/"
+      "title": "‘Electric mud’ teems with new, mysterious bacteria",
+      "link": "https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Trinity Cube (2015)",
-      "link": "https://www.paglen.com/index.php?l=work&s=fukushima"
+      "title": "Myths About Failure",
+      "link": "https://greylock.com/reid-hoffman-myths-about-failure/"
     },
     {
       "rank": "25.",
-      "title": "Game Programming Patterns: Event Queue (2014)",
-      "link": "https://gameprogrammingpatterns.com/event-queue.html"
-    },
-    {
-      "rank": "26.",
       "title": "Graphene: Fast, Strong, Cheap, and Impossible to Use (2014)",
       "link": "https://www.newyorker.com/magazine/2014/12/22/material-question"
     },
     {
-      "rank": "27.",
-      "title": "Leaked S-1 screenshots show Palantir losing $579M in 2019",
-      "link": "https://techcrunch.com/2020/08/21/leaked-s-1-screenshots-show-palantir-losing-579m-in-2019/"
+      "rank": "26.",
+      "title": "Game Programming Patterns: Event Queue (2014)",
+      "link": "https://gameprogrammingpatterns.com/event-queue.html"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Apple responds to Epic Games lawsuit, says CEO asked for special treatment",
       "link": "https://www.cnbc.com/2020/08/21/apple-says-epic-games-ceo-wanted-a-side-deal-for-fortnite.html"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "AI slays top F-16 pilot in DARPA dogfight simulation",
       "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     },
     {
+      "rank": "29.",
+      "title": "Leaked S-1 screenshots show Palantir losing $579M in 2019",
+      "link": "https://techcrunch.com/2020/08/21/leaked-s-1-screenshots-show-palantir-losing-579m-in-2019/"
+    },
+    {
       "rank": "30.",
-      "title": "But I was helping the compiler",
-      "link": "https://pankajraghav.com/2020/08/16/RVO.html"
+      "title": "Trinity Cube (2015)",
+      "link": "https://www.paglen.com/index.php?l=work&s=fukushima"
     }
   ],
   "metadata": {
