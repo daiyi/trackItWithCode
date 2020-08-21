@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Efficiency is dangerous and slowing down makes life better",
-      "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
+      "title": "Fast.ai releases new deep learning course",
+      "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
     },
     {
       "rank": "4.",
-      "title": "Fast.ai releases new deep learning course",
-      "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
+      "title": "Efficiency is dangerous and slowing down makes life better",
+      "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
     },
     {
       "rank": "5.",
@@ -27,23 +27,23 @@
     },
     {
       "rank": "6.",
-      "title": "An Update on MDN Web Docs",
-      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
-    },
-    {
-      "rank": "7.",
       "title": "Corsair Gaming S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm"
     },
     {
+      "rank": "7.",
+      "title": "An Update on MDN Web Docs",
+      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
+    },
+    {
       "rank": "8.",
-      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
-      "link": "item?id=24237818"
+      "title": "Trust Models",
+      "link": "https://vitalik.ca/general/2020/08/20/trust.html"
     },
     {
       "rank": "9.",
-      "title": "Trust Models",
-      "link": "https://vitalik.ca/general/2020/08/20/trust.html"
+      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
+      "link": "item?id=24237818"
     },
     {
       "rank": "10.",
@@ -57,43 +57,43 @@
     },
     {
       "rank": "12.",
+      "title": "The Purpose of Technology",
+      "link": "https://balajis.com/the-purpose-of-technology/"
+    },
+    {
+      "rank": "13.",
       "title": "Linux from Scratch",
       "link": "http://www.linuxfromscratch.org/lfs/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
+      "title": "How the world’s largest garbage dump evolved into a green oasis",
+      "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
+    },
+    {
+      "rank": "15.",
       "title": "The Splitgraph Data Delivery Network – query over 40k public datasets",
       "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
     },
     {
-      "rank": "14.",
+      "rank": "16.",
       "title": "University of Utah pays $457k to ransomware gang",
       "link": "https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/"
     },
     {
-      "rank": "15.",
+      "rank": "17.",
       "title": "Placeholder – Offline Coarse Geocoder Backed by SQLite",
       "link": "https://github.com/pelias/placeholder"
     },
     {
-      "rank": "16.",
-      "title": "Myths About Failure",
-      "link": "https://greylock.com/reid-hoffman-myths-about-failure/"
-    },
-    {
-      "rank": "17.",
+      "rank": "18.",
       "title": "ReMarkable MicroSD (2019)",
       "link": "http://www.davisr.me/projects/remarkable-microsd/"
     },
     {
-      "rank": "18.",
-      "title": "Graphene: Fast, Strong, Cheap, and Impossible to Use (2014)",
-      "link": "https://www.newyorker.com/magazine/2014/12/22/material-question"
-    },
-    {
       "rank": "19.",
-      "title": "But I was helping the compiler",
-      "link": "https://pankajraghav.com/2020/08/16/RVO.html"
+      "title": "Myths About Failure",
+      "link": "https://greylock.com/reid-hoffman-myths-about-failure/"
     },
     {
       "rank": "20.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "The Purpose of Technology",
-      "link": "https://balajis.com/the-purpose-of-technology/"
+      "title": "Graphene: Fast, Strong, Cheap, and Impossible to Use (2014)",
+      "link": "https://www.newyorker.com/magazine/2014/12/22/material-question"
     },
     {
       "rank": "23.",
-      "title": "Intel Xe-HP Graphics: Early Samples Offer 42 TFLOPs of FP32 Performance",
-      "link": "https://www.anandtech.com/show/16018/intel-xe-hp-graphics-early-samples-offer-42-tflops-of-fp32-performance"
-    },
-    {
-      "rank": "24.",
-      "title": "Leaked S-1 screenshots show Palantir losing $579M in 2019",
-      "link": "https://techcrunch.com/2020/08/21/leaked-s-1-screenshots-show-palantir-losing-579m-in-2019/"
-    },
-    {
-      "rank": "25.",
-      "title": "Game Programming Patterns: Event Queue (2014)",
-      "link": "https://gameprogrammingpatterns.com/event-queue.html"
-    },
-    {
-      "rank": "26.",
       "title": "Lori Loughlin and husband sentenced in college bribery scandal",
       "link": "https://www.axios.com/lori-loughlin-husband-sentenced-college-bribery-scandal-17611534-00ff-4d25-9d88-de62725dec71.html"
     },
     {
+      "rank": "24.",
+      "title": "Game Programming Patterns: Event Queue (2014)",
+      "link": "https://gameprogrammingpatterns.com/event-queue.html"
+    },
+    {
+      "rank": "25.",
+      "title": "Leaked S-1 screenshots show Palantir losing $579M in 2019",
+      "link": "https://techcrunch.com/2020/08/21/leaked-s-1-screenshots-show-palantir-losing-579m-in-2019/"
+    },
+    {
+      "rank": "26.",
+      "title": "But I was helping the compiler",
+      "link": "https://pankajraghav.com/2020/08/16/RVO.html"
+    },
+    {
       "rank": "27.",
-      "title": "Apple responds to Epic Games lawsuit, says CEO asked for special treatment",
-      "link": "https://www.cnbc.com/2020/08/21/apple-says-epic-games-ceo-wanted-a-side-deal-for-fortnite.html"
-    },
-    {
-      "rank": "28.",
-      "title": "Braess' Paradox and the Price of Anarchy (2019)",
-      "link": "http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html"
-    },
-    {
-      "rank": "29.",
       "title": "AI slays top F-16 pilot in DARPA dogfight simulation",
       "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     },
     {
+      "rank": "28.",
+      "title": "Intel Xe-HP Graphics: Early Samples Offer 42 TFLOPs of FP32 Performance",
+      "link": "https://www.anandtech.com/show/16018/intel-xe-hp-graphics-early-samples-offer-42-tflops-of-fp32-performance"
+    },
+    {
+      "rank": "29.",
+      "title": "Braess' Paradox and the Price of Anarchy (2019)",
+      "link": "http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html"
+    },
+    {
       "rank": "30.",
-      "title": "Ammonia as a fuel for compression ignition engines",
-      "link": "https://www.ammoniaenergy.org/articles/review-of-ammonia-as-a-ci-fuel-published/"
+      "title": "Show HN: Discover shared videos and live broadcasts from Reddit",
+      "link": "https://redditvids.com/"
     }
   ],
   "metadata": {
