@@ -17,33 +17,33 @@
     },
     {
       "rank": "4.",
-      "title": "Does Parkinson’s Begin in the Gut?",
-      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
-    },
-    {
-      "rank": "5.",
-      "title": "Michigan college is tracking its students with a flawed app",
-      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
-    },
-    {
-      "rank": "6.",
-      "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
-      "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
-    },
-    {
-      "rank": "7.",
       "title": "Chromium's Impact on Root DNS Traffic",
       "link": "https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/"
     },
     {
+      "rank": "5.",
+      "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
+      "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
+    },
+    {
+      "rank": "6.",
+      "title": "Michigan college is tracking its students with a flawed app",
+      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
+    },
+    {
+      "rank": "7.",
+      "title": "Substack (YC W18) is hiring to build a better business model for writing",
+      "link": "https://substack.com/jobs"
+    },
+    {
       "rank": "8.",
-      "title": "Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs",
-      "link": "https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b"
+      "title": "Does Parkinson’s Begin in the Gut?",
+      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
     },
     {
       "rank": "9.",
-      "title": "Why Did Mozilla Remove XUL Add-Ons?",
-      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
+      "title": "Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs",
+      "link": "https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "The universe has made almost all the stars it will ever make",
-      "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
+      "title": "Why Did Mozilla Remove XUL Add-Ons?",
+      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
     },
     {
       "rank": "12.",
-      "title": "The Native-American Origins of Gumbo",
-      "link": "https://www.atlasobscura.com/articles/native-american-gumbo"
+      "title": "The universe has made almost all the stars it will ever make",
+      "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
     },
     {
       "rank": "13.",
@@ -72,73 +72,73 @@
     },
     {
       "rank": "15.",
+      "title": "The Native-American Origins of Gumbo",
+      "link": "https://www.atlasobscura.com/articles/native-american-gumbo"
+    },
+    {
+      "rank": "16.",
       "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
       "link": "item?id=24228826"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Elena Programming Language",
       "link": "https://elena-lang.github.io/"
     },
     {
-      "rank": "17.",
-      "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
-      "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
-    },
-    {
       "rank": "18.",
-      "title": "The software industry is going through the “disposable plastic” crisis",
-      "link": "https://lwn.net/Articles/829123/"
-    },
-    {
-      "rank": "19.",
-      "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
-      "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
-    },
-    {
-      "rank": "20.",
       "title": "RSSHub: Everything Is RSSible",
       "link": "https://github.com/DIYgod/RSSHub"
     },
     {
-      "rank": "21.",
+      "rank": "19.",
       "title": "Breaking Samsung Firmware, or Turning Your S8/S9/S10 into a DIY “Proxmark”",
       "link": "https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/"
     },
     {
-      "rank": "22.",
-      "title": "“Cold Tube” cooling system uses half the energy of an air conditioner",
-      "link": "https://newatlas.com/energy/cold-tube-cooling-air-conditioner/"
+      "rank": "20.",
+      "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
+      "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
     },
     {
-      "rank": "23.",
-      "title": "Parsing S-expressions in C (2019)",
-      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
-    },
-    {
-      "rank": "24.",
-      "title": "Satellite warfare: An arms race is brewing in orbit",
-      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
-    },
-    {
-      "rank": "25.",
-      "title": "Image Shows Chinese Submarine Entering Mysterious Cave at S. China Sea Base",
-      "link": "https://www.thedrive.com/the-war-zone/35837/image-shows-chinese-submarine-entering-mysterious-cave-facility-at-south-china-sea-base?"
-    },
-    {
-      "rank": "26.",
-      "title": "How to make a bee hotel [pdf]",
-      "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
-    },
-    {
-      "rank": "27.",
+      "rank": "21.",
       "title": "The Golden Age of computer user groups",
       "link": "https://arstechnica.com/information-technology/2020/08/the-golden-age-of-computer-user-groups/"
     },
     {
+      "rank": "22.",
+      "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
+      "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
+    },
+    {
+      "rank": "23.",
+      "title": "“Cold Tube” cooling system uses half the energy of an air conditioner",
+      "link": "https://newatlas.com/energy/cold-tube-cooling-air-conditioner/"
+    },
+    {
+      "rank": "24.",
+      "title": "The software industry is going through the “disposable plastic” crisis",
+      "link": "https://lwn.net/Articles/829123/"
+    },
+    {
+      "rank": "25.",
+      "title": "Parsing S-expressions in C (2019)",
+      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
+    },
+    {
+      "rank": "26.",
+      "title": "Satellite warfare: An arms race is brewing in orbit",
+      "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
+    },
+    {
+      "rank": "27.",
+      "title": "Image Shows Chinese Submarine Entering Mysterious Cave at S. China Sea Base",
+      "link": "https://www.thedrive.com/the-war-zone/35837/image-shows-chinese-submarine-entering-mysterious-cave-facility-at-south-china-sea-base?"
+    },
+    {
       "rank": "28.",
-      "title": "Why did a hedge fund manager worth $700M take a $630k job managing an oil fund?",
-      "link": "https://www.institutionalinvestor.com/article/b1mr3g654h58lp/Why-Did-a-Hedge-Fund-Manager-Worth-700-Million-Take-a-630-000-a-Year-Job-Managing-an-Oil-Fund"
+      "title": "How to make a bee hotel [pdf]",
+      "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
-      "link": "https://sayless.email/"
+      "title": "Why did a hedge fund manager worth $700M take a $630k job managing an oil fund?",
+      "link": "https://www.institutionalinvestor.com/article/b1mr3g654h58lp/Why-Did-a-Hedge-Fund-Manager-Worth-700-Million-Take-a-630-000-a-Year-Job-Managing-an-Oil-Fund"
     }
   ],
   "metadata": {
