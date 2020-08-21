@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
-      "title": "Event Queue (Game Programming Patterns)",
-      "link": "https://gameprogrammingpatterns.com/event-queue.html"
-    },
-    {
-      "rank": "8.",
       "title": "RSSHub: Everything Is RSSible",
       "link": "https://github.com/DIYgod/RSSHub"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "‘Electric mud’ teems with new, mysterious bacteria",
       "link": "https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria"
+    },
+    {
+      "rank": "9.",
+      "title": "Event Queue (Game Programming Patterns)",
+      "link": "https://gameprogrammingpatterns.com/event-queue.html"
     },
     {
       "rank": "10.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
-      "title": "Reckoning with Our Mistakes",
-      "link": "https://www.scientificamerican.com/article/reckoning-with-our-mistakes/"
-    },
-    {
-      "rank": "19.",
-      "title": "How the Boeing 737 Max Disaster Looks to a Software Developer",
-      "link": "https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer"
-    },
-    {
-      "rank": "20.",
       "title": "Why Did Mozilla Remove XUL Add-Ons?",
       "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
     },
     {
-      "rank": "21.",
+      "rank": "19.",
+      "title": "Reckoning with Our Mistakes",
+      "link": "https://www.scientificamerican.com/article/reckoning-with-our-mistakes/"
+    },
+    {
+      "rank": "20.",
       "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
       "link": "item?id=24228826"
+    },
+    {
+      "rank": "21.",
+      "title": "On the Delaware, a Promising New Era in Cleanup of an Urban River",
+      "link": "https://e360.yale.edu/features/on-the-delaware-a-promising-new-era-in-cleanup-of-an-urban-river"
     },
     {
       "rank": "22.",
@@ -112,33 +112,33 @@
     },
     {
       "rank": "23.",
-      "title": "Michigan college is tracking its students with a flawed app",
-      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
-    },
-    {
-      "rank": "24.",
       "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
       "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Does Parkinson’s Begin in the Gut?",
       "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
       "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
     },
     {
+      "rank": "26.",
+      "title": "How to make a bee hotel [pdf]",
+      "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
+    },
+    {
       "rank": "27.",
-      "title": "On the Delaware, a Promising New Era in Cleanup of an Urban River",
-      "link": "https://e360.yale.edu/features/on-the-delaware-a-promising-new-era-in-cleanup-of-an-urban-river"
+      "title": "Elena Programming Language",
+      "link": "https://elena-lang.github.io/"
     },
     {
       "rank": "28.",
-      "title": "How to make a bee hotel [pdf]",
-      "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
+      "title": "Michigan college is tracking its students with a flawed app",
+      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Elena Programming Language",
-      "link": "https://elena-lang.github.io/"
+      "title": "AI Slays Top F-16 Pilot in DARPA Dogfight Simulation",
+      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     }
   ],
   "metadata": {
