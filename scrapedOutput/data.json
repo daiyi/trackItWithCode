@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Does Parkinson’s Begin in the Gut?",
-      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
+      "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
+      "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
     },
     {
       "rank": "8.",
-      "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
-      "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
+      "title": "How I got the French Tech Visa to start up in France",
+      "link": "https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/"
     },
     {
       "rank": "9.",
@@ -47,33 +47,33 @@
     },
     {
       "rank": "10.",
-      "title": "How I got the French Tech Visa to start up in France",
-      "link": "https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/"
-    },
-    {
-      "rank": "11.",
       "title": "Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs",
       "link": "https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b"
     },
     {
+      "rank": "11.",
+      "title": "ARX, Arthur and RISC OS (2012)",
+      "link": "http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/"
+    },
+    {
       "rank": "12.",
-      "title": "Why Did Mozilla Remove XUL Add-Ons?",
-      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
-    },
-    {
-      "rank": "13.",
-      "title": "Former Zoox employees sue, alleging rival offer was better than Amazon's",
-      "link": "https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB"
-    },
-    {
-      "rank": "14.",
       "title": "How Shopify reduced storefront response times with a rewrite",
       "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
     },
     {
+      "rank": "13.",
+      "title": "Why Did Mozilla Remove XUL Add-Ons?",
+      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
+    },
+    {
+      "rank": "14.",
+      "title": "Former Zoox employees sue, alleging rival offer was better than Amazon's",
+      "link": "https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB"
+    },
+    {
       "rank": "15.",
-      "title": "ARX, Arthur and RISC OS (2012)",
-      "link": "http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/"
+      "title": "Event Queue (Game Programming Patterns)",
+      "link": "https://gameprogrammingpatterns.com/event-queue.html"
     },
     {
       "rank": "16.",
@@ -82,58 +82,58 @@
     },
     {
       "rank": "17.",
-      "title": "Michigan college is tracking its students with a flawed app",
-      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
-    },
-    {
-      "rank": "18.",
       "title": "Former Uber executive charged with paying 'hush money' to conceal breach",
       "link": "https://www.npr.org/2020/08/20/904113981/former-uber-executive-charged-with-paying-hush-money-to-conceal-massive-breach"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Sending SPF and DMARC passing mail as any Gmail or G Suite customer",
       "link": "https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/"
     },
     {
+      "rank": "19.",
+      "title": "On the Delaware, a Promising New Era in Cleanup of an Urban River",
+      "link": "https://e360.yale.edu/features/on-the-delaware-a-promising-new-era-in-cleanup-of-an-urban-river"
+    },
+    {
       "rank": "20.",
-      "title": "Event Queue (Game Programming Patterns)",
-      "link": "https://gameprogrammingpatterns.com/event-queue.html"
+      "title": "Michigan college is tracking its students with a flawed app",
+      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
     },
     {
       "rank": "21.",
-      "title": "The Native-American Origins of Gumbo",
-      "link": "https://www.atlasobscura.com/articles/native-american-gumbo"
-    },
-    {
-      "rank": "22.",
       "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
       "link": "item?id=24228826"
     },
     {
+      "rank": "22.",
+      "title": "The Native-American Origins of Gumbo",
+      "link": "https://www.atlasobscura.com/articles/native-american-gumbo"
+    },
+    {
       "rank": "23.",
+      "title": "Does Parkinson’s Begin in the Gut?",
+      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
+    },
+    {
+      "rank": "24.",
       "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
       "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
     },
     {
-      "rank": "24.",
-      "title": "Substack (YC W18) is hiring to build a better business model for writing",
-      "link": "https://substack.com/jobs"
-    },
-    {
       "rank": "25.",
-      "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
-      "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
-    },
-    {
-      "rank": "26.",
       "title": "“Cold Tube” cooling system uses half the energy of an air conditioner",
       "link": "https://newatlas.com/energy/cold-tube-cooling-air-conditioner/"
     },
     {
+      "rank": "26.",
+      "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
+      "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
+    },
+    {
       "rank": "27.",
-      "title": "Elena Programming Language",
-      "link": "https://elena-lang.github.io/"
+      "title": "Substack (YC W18) is hiring to build a better business model for writing",
+      "link": "https://substack.com/jobs"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "How to make a bee hotel [pdf]",
-      "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
+      "title": "Elena Programming Language",
+      "link": "https://elena-lang.github.io/"
     },
     {
       "rank": "30.",
-      "title": "Parsing S-expressions in C (2019)",
-      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
+      "title": "How to make a bee hotel [pdf]",
+      "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
     }
   ],
   "metadata": {
