@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Placeholder – Offline Coarse Geocoder Backed by SQLite",
-      "link": "https://github.com/pelias/placeholder"
+      "title": "Port 5432 is open: introducing the Splitgraph Data Delivery Network",
+      "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
     },
     {
       "rank": "11.",
-      "title": "Port 5432 is open: introducing the Splitgraph Data Delivery Network",
-      "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
+      "title": "Placeholder – Offline Coarse Geocoder Backed by SQLite",
+      "link": "https://github.com/pelias/placeholder"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "‘Electric mud’ teems with new, mysterious bacteria",
-      "link": "https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria"
+      "title": "University of Utah pays $457k to ransomware gang",
+      "link": "https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "University of Utah pays $457k to ransomware gang",
-      "link": "https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/"
+      "title": "‘Electric mud’ teems with new, mysterious bacteria",
+      "link": "https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria"
     },
     {
       "rank": "16.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "New Story (YC Nonprofit S15) Is Hiring a Digital Marketer",
-      "link": "https://newstorycharity.org/careers/digital-marketer"
+      "title": "Thompson, Ritchie and Kernighan admit that Unix was a prank",
+      "link": "http://www.stokely.com/lighter.side/unix.prank.html"
     },
     {
       "rank": "25.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "New Story (YC Nonprofit S15) Is Hiring a Digital Marketer",
+      "link": "https://newstorycharity.org/careers/digital-marketer"
+    },
+    {
+      "rank": "28.",
       "title": "Ride Through a German Village on ‘The Flying Train’ in Clear Footage from 1902",
       "link": "https://www.thisiscolossal.com/2020/08/the-flying-train-moma/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "GCC x86 Performance Hints (2012)",
       "link": "https://software.intel.com/content/www/us/en/develop/blogs/gcc-x86-performance-hints.html"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "How I got the French Tech Visa to start my company in France",
       "link": "https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/"
-    },
-    {
-      "rank": "30.",
-      "title": "Breaking Samsung Firmware, or Turning Your S8/S9/S10 into a DIY “Proxmark”",
-      "link": "https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/"
     }
   ],
   "metadata": {
