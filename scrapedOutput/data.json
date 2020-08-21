@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Does Parkinson’s Begin in the Gut?",
-      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
+      "title": "Michigan college is tracking its students with a flawed app",
+      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
     },
     {
       "rank": "5.",
-      "title": "Michigan college is tracking its students with a flawed app",
-      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
+      "title": "Does Parkinson’s Begin in the Gut?",
+      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
     },
     {
       "rank": "6.",
@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Why Did Mozilla Remove XUL Add-Ons?",
-      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
+      "title": "Chromium's Impact on Root DNS Traffic",
+      "link": "https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/"
     },
     {
       "rank": "8.",
-      "title": "Chromium's Impact on Root DNS Traffic",
-      "link": "https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/"
+      "title": "Why Did Mozilla Remove XUL Add-Ons?",
+      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
     },
     {
       "rank": "9.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
-      "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
+      "title": "Elena Programming Language",
+      "link": "https://elena-lang.github.io/"
     },
     {
       "rank": "16.",
-      "title": "Elena Programming Language",
-      "link": "https://elena-lang.github.io/"
+      "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
+      "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
     },
     {
       "rank": "17.",
@@ -87,18 +87,18 @@
     },
     {
       "rank": "18.",
-      "title": "Parsing S-expressions in C (2019)",
-      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
-    },
-    {
-      "rank": "19.",
       "title": "“Cold Tube” cooling system uses half the energy of an air conditioner",
       "link": "https://newatlas.com/energy/cold-tube-cooling-air-conditioner/"
     },
     {
+      "rank": "19.",
+      "title": "The Golden Age of computer user groups",
+      "link": "https://arstechnica.com/information-technology/2020/08/the-golden-age-of-computer-user-groups/"
+    },
+    {
       "rank": "20.",
-      "title": "Image Shows Chinese Submarine Entering Mysterious Cave at S. China Sea Base",
-      "link": "https://www.thedrive.com/the-war-zone/35837/image-shows-chinese-submarine-entering-mysterious-cave-facility-at-south-china-sea-base?"
+      "title": "Parsing S-expressions in C (2019)",
+      "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
+      "title": "Image Shows Chinese Submarine Entering Mysterious Cave at S. China Sea Base",
+      "link": "https://www.thedrive.com/the-war-zone/35837/image-shows-chinese-submarine-entering-mysterious-cave-facility-at-south-china-sea-base?"
+    },
+    {
+      "rank": "23.",
       "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
       "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Satellite warfare: An arms race is brewing in orbit",
       "link": "https://www.economist.com/science-and-technology/2020/08/15/an-arms-race-is-brewing-in-orbit"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "How to make a bee hotel [pdf]",
       "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Moving from YouTube to PeerTube",
       "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
       "link": "https://sayless.email/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "ScholarMe (YC S19) Is Hiring a Front End Engineer – Toronto/Remote",
       "link": "https://www.notion.so/scholarme/Senior-Frontend-Engineer-ScholarMe-YC-S19-23253664b6cb4eddb32ae9eafc5a661d"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "From farm to factory: the unstoppable rise of American chicken",
       "link": "https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine",
       "link": "https://gravitymachine.org/about/"
-    },
-    {
-      "rank": "30.",
-      "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
-      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
     }
   ],
   "metadata": {
