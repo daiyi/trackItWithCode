@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "ReMarkable MicroSD",
-      "link": "http://www.davisr.me/projects/remarkable-microsd/"
+      "title": "‘Electric mud’ teems with new, mysterious bacteria",
+      "link": "https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria"
     },
     {
       "rank": "3.",
-      "title": "‘Electric mud’ teems with new, mysterious bacteria",
-      "link": "https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria"
+      "title": "ReMarkable MicroSD",
+      "link": "http://www.davisr.me/projects/remarkable-microsd/"
     },
     {
       "rank": "4.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "On the Delaware, a Promising New Era in Cleanup of an Urban River",
-      "link": "https://e360.yale.edu/features/on-the-delaware-a-promising-new-era-in-cleanup-of-an-urban-river"
+      "title": "AI ‘pilot’ beats top F-16 fighter pilot in DARPA’s simulated aerial dogfight",
+      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     },
     {
       "rank": "16.",
@@ -82,33 +82,33 @@
     },
     {
       "rank": "17.",
+      "title": "On the Delaware, a Promising New Era in Cleanup of an Urban River",
+      "link": "https://e360.yale.edu/features/on-the-delaware-a-promising-new-era-in-cleanup-of-an-urban-river"
+    },
+    {
+      "rank": "18.",
       "title": "The universe has made almost all the stars it will ever make",
       "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
     },
     {
-      "rank": "18.",
-      "title": "How the pandemic might play out in 2021 and beyond",
-      "link": "https://www.nature.com/articles/d41586-020-02278-5"
-    },
-    {
       "rank": "19.",
-      "title": "Former Zoox employees sue, alleging rival offer was better than Amazon's",
-      "link": "https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB"
-    },
-    {
-      "rank": "20.",
       "title": "How the Boeing 737 Max Disaster Looks to a Software Developer (2019)",
       "link": "https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
       "link": "item?id=24228826"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Why Did Mozilla Remove XUL Add-Ons?",
       "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
+    },
+    {
+      "rank": "22.",
+      "title": "Former Zoox employees sue, alleging rival offer was better than Amazon's",
+      "link": "https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB"
     },
     {
       "rank": "23.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
+      "title": "The Golden Age of computer user groups",
+      "link": "https://arstechnica.com/information-technology/2020/08/the-golden-age-of-computer-user-groups/"
+    },
+    {
+      "rank": "27.",
       "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
       "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Elena Programming Language",
       "link": "https://elena-lang.github.io/"
-    },
-    {
-      "rank": "28.",
-      "title": "The Golden Age of computer user groups",
-      "link": "https://arstechnica.com/information-technology/2020/08/the-golden-age-of-computer-user-groups/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "How I got the French Tech Visa to start up in France",
-      "link": "https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/"
+      "title": "How Shopify reduced storefront response times with a rewrite",
+      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
     }
   ],
   "metadata": {
