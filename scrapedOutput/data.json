@@ -37,48 +37,48 @@
     },
     {
       "rank": "8.",
+      "title": "Linux from Scratch",
+      "link": "http://www.linuxfromscratch.org/lfs/"
+    },
+    {
+      "rank": "9.",
       "title": "Intel Xe-HP Graphics: Early Samples Offer 42 TFLOPs of FP32 Performance",
       "link": "https://www.anandtech.com/show/16018/intel-xe-hp-graphics-early-samples-offer-42-tflops-of-fp32-performance"
     },
     {
-      "rank": "9.",
-      "title": "The Splitgraph Data Delivery Network – query over 40k public datasets",
-      "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
-    },
-    {
       "rank": "10.",
-      "title": "Placeholder – Offline Coarse Geocoder Backed by SQLite",
-      "link": "https://github.com/pelias/placeholder"
-    },
-    {
-      "rank": "11.",
       "title": "Graphene: Fast, Strong, Cheap, and Impossible to Use (2014)",
       "link": "https://www.newyorker.com/magazine/2014/12/22/material-question"
     },
     {
+      "rank": "11.",
+      "title": "The Splitgraph Data Delivery Network – query over 40k public datasets",
+      "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
+    },
+    {
       "rank": "12.",
+      "title": "Placeholder – Offline Coarse Geocoder Backed by SQLite",
+      "link": "https://github.com/pelias/placeholder"
+    },
+    {
+      "rank": "13.",
       "title": "Myths About Failure",
       "link": "https://greylock.com/reid-hoffman-myths-about-failure/"
     },
     {
-      "rank": "13.",
-      "title": "ARX, Arthur and RISC OS (2012)",
-      "link": "http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/"
-    },
-    {
       "rank": "14.",
-      "title": "But I was helping the compiler",
-      "link": "https://pankajraghav.com/2020/08/16/RVO.html"
-    },
-    {
-      "rank": "15.",
       "title": "University of Utah pays $457k to ransomware gang",
       "link": "https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/"
     },
     {
+      "rank": "15.",
+      "title": "But I was helping the compiler",
+      "link": "https://pankajraghav.com/2020/08/16/RVO.html"
+    },
+    {
       "rank": "16.",
-      "title": "Braess' Paradox and the Price of Anarchy",
-      "link": "http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html"
+      "title": "ARX, Arthur and RISC OS (2012)",
+      "link": "http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/"
     },
     {
       "rank": "17.",
@@ -97,23 +97,23 @@
     },
     {
       "rank": "20.",
+      "title": "Braess' Paradox and the Price of Anarchy",
+      "link": "http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html"
+    },
+    {
+      "rank": "21.",
       "title": "Show HN: Discover shared videos and live broadcasts from Reddit",
       "link": "https://redditvids.com/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Game Programming Patterns: Event Queue (2014)",
       "link": "https://gameprogrammingpatterns.com/event-queue.html"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Hotel in Tokyo installs flight simulator in room (2019)",
       "link": "https://www.businesstraveller.com/business-travel/2019/07/31/hotel-in-tokyo-installs-flight-simulator-in-room/"
-    },
-    {
-      "rank": "23.",
-      "title": "Why we decided against GraphQL for local state management",
-      "link": "https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/"
     },
     {
       "rank": "24.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "Linux from Scratch",
-      "link": "http://www.linuxfromscratch.org/lfs/"
+      "title": "Why we decided against GraphQL for local state management",
+      "link": "https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/"
     },
     {
       "rank": "27.",
