@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "New academic journal only publishes 'unsurprising' research rejected by others",
-      "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765"
+      "title": "ReMarkable MicroSD",
+      "link": "http://www.davisr.me/projects/remarkable-microsd/"
     },
     {
       "rank": "2.",
-      "title": "ReMarkable MicroSD",
-      "link": "http://www.davisr.me/projects/remarkable-microsd/"
+      "title": "New academic journal only publishes 'unsurprising' research rejected by others",
+      "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765"
     },
     {
       "rank": "3.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
+      "title": "RSSHub: Everything Is RSSible",
+      "link": "https://github.com/DIYgod/RSSHub"
+    },
+    {
+      "rank": "8.",
       "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
       "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "How I got the French Tech Visa to start up in France",
       "link": "https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/"
-    },
-    {
-      "rank": "9.",
-      "title": "RSSHub: Everything Is RSSible",
-      "link": "https://github.com/DIYgod/RSSHub"
     },
     {
       "rank": "10.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "ARX, Arthur and RISC OS (2012)",
-      "link": "http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/"
+      "title": "Event Queue (Game Programming Patterns)",
+      "link": "https://gameprogrammingpatterns.com/event-queue.html"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "Why Did Mozilla Remove XUL Add-Ons?",
-      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
+      "title": "ARX, Arthur and RISC OS (2012)",
+      "link": "http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Event Queue (Game Programming Patterns)",
-      "link": "https://gameprogrammingpatterns.com/event-queue.html"
+      "title": "Why Did Mozilla Remove XUL Add-Ons?",
+      "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
     },
     {
       "rank": "16.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
-      "link": "item?id=24228826"
+      "title": "The Native-American Origins of Gumbo",
+      "link": "https://www.atlasobscura.com/articles/native-american-gumbo"
     },
     {
       "rank": "22.",
-      "title": "The Native-American Origins of Gumbo",
-      "link": "https://www.atlasobscura.com/articles/native-american-gumbo"
+      "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
+      "link": "item?id=24228826"
     },
     {
       "rank": "23.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "Substack (YC W18) is hiring to build a better business model for writing",
-      "link": "https://substack.com/jobs"
+      "title": "Elena Programming Language",
+      "link": "https://elena-lang.github.io/"
     },
     {
       "rank": "28.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "Elena Programming Language",
-      "link": "https://elena-lang.github.io/"
+      "title": "Substack (YC W18) is hiring to build a better business model for writing",
+      "link": "https://substack.com/jobs"
     },
     {
       "rank": "30.",
