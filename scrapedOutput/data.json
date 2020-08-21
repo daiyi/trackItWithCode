@@ -17,7 +17,7 @@
     },
     {
       "rank": "4.",
-      "title": "GCC x86 Performance Hints",
+      "title": "GCC x86 Performance Hints (2012)",
       "link": "https://software.intel.com/content/www/us/en/develop/blogs/gcc-x86-performance-hints.html"
     },
     {
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "How the pandemic might play out in 2021 and beyond",
-      "link": "https://www.nature.com/articles/d41586-020-02278-5"
+      "title": "The universe has made almost all the stars it will ever make",
+      "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
     },
     {
       "rank": "18.",
-      "title": "The universe has made almost all the stars it will ever make",
-      "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
+      "title": "How the pandemic might play out in 2021 and beyond",
+      "link": "https://www.nature.com/articles/d41586-020-02278-5"
     },
     {
       "rank": "19.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "How I got the French Tech Visa to start up in France",
-      "link": "https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/"
+      "title": "Does Parkinson’s Begin in the Gut? (2018)",
+      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
     },
     {
       "rank": "25.",
-      "title": "Does Parkinson’s Begin in the Gut?",
-      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
+      "title": "How the Boeing 737 Max Disaster Looks to a Software Developer",
+      "link": "https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "How I got the French Tech Visa to start up in France",
+      "link": "https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/"
+    },
+    {
+      "rank": "28.",
       "title": "Elena Programming Language",
       "link": "https://elena-lang.github.io/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Moving from YouTube to PeerTube",
       "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
     },
     {
-      "rank": "29.",
-      "title": "How Shopify reduced storefront response times with a rewrite",
-      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
-    },
-    {
       "rank": "30.",
-      "title": "How the Boeing 737 Max Disaster Looks to a Software Developer",
-      "link": "https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer"
+      "title": "The Golden Age of computer user groups",
+      "link": "https://arstechnica.com/information-technology/2020/08/the-golden-age-of-computer-user-groups/"
     }
   ],
   "metadata": {
