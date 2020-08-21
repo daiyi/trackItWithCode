@@ -52,33 +52,33 @@
     },
     {
       "rank": "11.",
-      "title": "How Shopify reduced storefront response times with a rewrite",
-      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
-    },
-    {
-      "rank": "12.",
       "title": "ARX, Arthur and RISC OS (2012)",
       "link": "http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/"
     },
     {
-      "rank": "13.",
-      "title": "Former Zoox employees sue, alleging rival offer was better than Amazon's",
-      "link": "https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB"
+      "rank": "12.",
+      "title": "How Shopify reduced storefront response times with a rewrite",
+      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "The universe has made almost all the stars it will ever make",
       "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
     },
     {
+      "rank": "14.",
+      "title": "Former Zoox employees sue, alleging rival offer was better than Amazon's",
+      "link": "https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB"
+    },
+    {
       "rank": "15.",
-      "title": "The Native-American Origins of Gumbo",
-      "link": "https://www.atlasobscura.com/articles/native-american-gumbo"
+      "title": "Sending SPF and DMARC passing mail as any Gmail or G Suite customer",
+      "link": "https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/"
     },
     {
       "rank": "16.",
-      "title": "Sending SPF and DMARC passing mail as any Gmail or G Suite customer",
-      "link": "https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/"
+      "title": "The Native-American Origins of Gumbo",
+      "link": "https://www.atlasobscura.com/articles/native-american-gumbo"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "How the Boeing 737 Max Disaster Looks to a Software Developer",
-      "link": "https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer"
+      "title": "Michigan college is tracking its students with a flawed app",
+      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Michigan college is tracking its students with a flawed app",
-      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
+      "title": "How the Boeing 737 Max Disaster Looks to a Software Developer",
+      "link": "https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer"
     },
     {
       "rank": "21.",
@@ -107,28 +107,28 @@
     },
     {
       "rank": "22.",
-      "title": "Does Parkinson’s Begin in the Gut?",
-      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
-    },
-    {
-      "rank": "23.",
       "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
       "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
     },
     {
+      "rank": "23.",
+      "title": "Does Parkinson’s Begin in the Gut?",
+      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
+    },
+    {
       "rank": "24.",
+      "title": "“Cold Tube” cooling system uses half the energy of an air conditioner",
+      "link": "https://newatlas.com/energy/cold-tube-cooling-air-conditioner/"
+    },
+    {
+      "rank": "25.",
       "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
       "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
       "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
-    },
-    {
-      "rank": "26.",
-      "title": "“Cold Tube” cooling system uses half the energy of an air conditioner",
-      "link": "https://newatlas.com/energy/cold-tube-cooling-air-conditioner/"
     },
     {
       "rank": "27.",
