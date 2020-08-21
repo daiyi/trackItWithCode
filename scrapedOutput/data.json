@@ -22,48 +22,48 @@
     },
     {
       "rank": "5.",
-      "title": "Lightroom app update wipes users' photos and presets, Adobe says not recoverable",
-      "link": "https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/"
-    },
-    {
-      "rank": "6.",
       "title": "Game Programming Patterns: Event Queue",
       "link": "https://gameprogrammingpatterns.com/event-queue.html"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Chromium's Impact on Root DNS Traffic",
       "link": "https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Exploding stars may have caused mass extinction on Earth, study shows",
       "link": "https://phys.org/news/2020-08-stars-mass-extinction-earth.html"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "RSSHub: Everything Is RSSible",
       "link": "https://github.com/DIYgod/RSSHub"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Breaking Samsung Firmware, or Turning Your S8/S9/S10 into a DIY “Proxmark”",
       "link": "https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Reckoning with Our Mistakes",
       "link": "https://www.scientificamerican.com/article/reckoning-with-our-mistakes/"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "New academic journal only publishes 'unsurprising' research rejected by others",
       "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "ARX, Arthur and RISC OS (2012)",
       "link": "http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/"
+    },
+    {
+      "rank": "13.",
+      "title": "AI ‘pilot’ beats top F-16 fighter pilot in DARPA’s simulated aerial dogfight",
+      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "AI ‘pilot’ beats top F-16 fighter pilot in DARPA’s simulated aerial dogfight",
-      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
+      "title": "Lightroom app update wipes users' photos and presets, Adobe says not recoverable",
+      "link": "https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/"
     },
     {
       "rank": "16.",
@@ -82,73 +82,73 @@
     },
     {
       "rank": "17.",
-      "title": "On the Delaware, a Promising New Era in Cleanup of an Urban River",
-      "link": "https://e360.yale.edu/features/on-the-delaware-a-promising-new-era-in-cleanup-of-an-urban-river"
-    },
-    {
-      "rank": "18.",
       "title": "The universe has made almost all the stars it will ever make",
       "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "How the Boeing 737 Max Disaster Looks to a Software Developer (2019)",
       "link": "https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer"
     },
     {
+      "rank": "19.",
+      "title": "On the Delaware, a Promising New Era in Cleanup of an Urban River",
+      "link": "https://e360.yale.edu/features/on-the-delaware-a-promising-new-era-in-cleanup-of-an-urban-river"
+    },
+    {
       "rank": "20.",
+      "title": "FBI release a report on Russian Linux Malware called Drovorub [pdf]",
+      "link": "https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF"
+    },
+    {
+      "rank": "21.",
       "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
       "link": "item?id=24228826"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Why Did Mozilla Remove XUL Add-Ons?",
       "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
     },
     {
-      "rank": "22.",
-      "title": "Former Zoox employees sue, alleging rival offer was better than Amazon's",
-      "link": "https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB"
-    },
-    {
       "rank": "23.",
-      "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
-      "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
-    },
-    {
-      "rank": "24.",
       "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
       "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
     },
     {
-      "rank": "25.",
-      "title": "Does Parkinson’s Begin in the Gut? (2018)",
-      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
+      "rank": "24.",
+      "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
+      "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "The Golden Age of computer user groups",
       "link": "https://arstechnica.com/information-technology/2020/08/the-golden-age-of-computer-user-groups/"
     },
     {
-      "rank": "27.",
-      "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
-      "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
+      "rank": "26.",
+      "title": "Does Parkinson’s Begin in the Gut? (2018)",
+      "link": "https://www.scientificamerican.com/article/does-parkinsons-begin-in-the-gut/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Elena Programming Language",
       "link": "https://elena-lang.github.io/"
     },
     {
+      "rank": "28.",
+      "title": "Former Zoox employees sue, alleging rival offer was better than Amazon's",
+      "link": "https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB"
+    },
+    {
       "rank": "29.",
-      "title": "Moving from YouTube to PeerTube",
-      "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
+      "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
+      "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
     },
     {
       "rank": "30.",
-      "title": "How Shopify reduced storefront response times with a rewrite",
-      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
+      "title": "Moving from YouTube to PeerTube",
+      "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
     }
   ],
   "metadata": {
