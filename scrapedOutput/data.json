@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "New academic journal only publishes 'unsurprising' research rejected by others",
-      "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765"
+      "title": "‘Electric mud’ teems with new, mysterious bacteria",
+      "link": "https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria"
     },
     {
       "rank": "4.",
-      "title": "‘Electric mud’ teems with new, mysterious bacteria",
-      "link": "https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria"
+      "title": "GCC x86 Performance Hints",
+      "link": "https://software.intel.com/content/www/us/en/develop/blogs/gcc-x86-performance-hints.html"
     },
     {
       "rank": "5.",
@@ -42,28 +42,28 @@
     },
     {
       "rank": "9.",
-      "title": "Breaking Samsung Firmware, or Turning Your S8/S9/S10 into a DIY “Proxmark”",
-      "link": "https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/"
-    },
-    {
-      "rank": "10.",
       "title": "RSSHub: Everything Is RSSible",
       "link": "https://github.com/DIYgod/RSSHub"
     },
     {
+      "rank": "10.",
+      "title": "Breaking Samsung Firmware, or Turning Your S8/S9/S10 into a DIY “Proxmark”",
+      "link": "https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/"
+    },
+    {
       "rank": "11.",
-      "title": "Product-led Growth",
-      "link": "https://posthog.com/blog/product-led-growth"
+      "title": "Reckoning with Our Mistakes",
+      "link": "https://www.scientificamerican.com/article/reckoning-with-our-mistakes/"
     },
     {
       "rank": "12.",
-      "title": "ARX, Arthur and RISC OS (2012)",
-      "link": "http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/"
+      "title": "New academic journal only publishes 'unsurprising' research rejected by others",
+      "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765"
     },
     {
       "rank": "13.",
-      "title": "Reckoning with Our Mistakes",
-      "link": "https://www.scientificamerican.com/article/reckoning-with-our-mistakes/"
+      "title": "ARX, Arthur and RISC OS (2012)",
+      "link": "http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/"
     },
     {
       "rank": "14.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "The universe has made almost all the stars it will ever make",
-      "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
+      "title": "On the Delaware, a Promising New Era in Cleanup of an Urban River",
+      "link": "https://e360.yale.edu/features/on-the-delaware-a-promising-new-era-in-cleanup-of-an-urban-river"
     },
     {
       "rank": "16.",
-      "title": "AI Slays Top F-16 Pilot in DARPA Dogfight Simulation",
-      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
-    },
-    {
-      "rank": "17.",
       "title": "The Native-American Origins of Gumbo",
       "link": "https://www.atlasobscura.com/articles/native-american-gumbo"
     },
     {
+      "rank": "17.",
+      "title": "How the pandemic might play out in 2021 and beyond",
+      "link": "https://www.nature.com/articles/d41586-020-02278-5"
+    },
+    {
       "rank": "18.",
-      "title": "On the Delaware, a Promising New Era in Cleanup of an Urban River",
-      "link": "https://e360.yale.edu/features/on-the-delaware-a-promising-new-era-in-cleanup-of-an-urban-river"
+      "title": "The universe has made almost all the stars it will ever make",
+      "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "How the pandemic might play out in 2021 and beyond",
-      "link": "https://www.nature.com/articles/d41586-020-02278-5"
+      "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
+      "link": "item?id=24228826"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
-      "link": "item?id=24228826"
+      "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
+      "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
-      "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
+      "title": "How I got the French Tech Visa to start up in France",
+      "link": "https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "How I got the French Tech Visa to start up in France",
-      "link": "https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/"
-    },
-    {
-      "rank": "27.",
       "title": "Back to the Future: Unix Wildcards Gone Wild (2014)",
       "link": "https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt"
     },
     {
-      "rank": "28.",
-      "title": "The software industry is going through the “disposable plastic” crisis",
-      "link": "https://lwn.net/Articles/829123/"
+      "rank": "27.",
+      "title": "Elena Programming Language",
+      "link": "https://elena-lang.github.io/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Moving from YouTube to PeerTube",
       "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
     },
     {
+      "rank": "29.",
+      "title": "How Shopify reduced storefront response times with a rewrite",
+      "link": "https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite"
+    },
+    {
       "rank": "30.",
-      "title": "Elena Programming Language",
-      "link": "https://elena-lang.github.io/"
+      "title": "How the Boeing 737 Max Disaster Looks to a Software Developer",
+      "link": "https://spectrum.ieee.org/aerospace/aviation/how-the-boeing-737-max-disaster-looks-to-a-software-developer"
     }
   ],
   "metadata": {
