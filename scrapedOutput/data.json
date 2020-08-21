@@ -2,33 +2,33 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Big Basin as we know it is gone",
-      "link": "https://sempervirens.org/wildfires-in-big-basin-redwoods-state-park/"
-    },
-    {
-      "rank": "2.",
       "title": "New academic journal only publishes 'unsurprising' research rejected by others",
       "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "Former Zoox employees sue, alleging rival offer was better than Amazon's",
       "link": "https://www.reuters.com/article/us-zoox-lawsuit-idUSKBN25G2TB"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Lightroom app update wipes users' photos and presets, Adobe says not recoverable",
       "link": "https://petapixel.com/2020/08/20/lightroom-app-update-wipes-users-photos-and-presets-adobe-says-they-are-not-recoverable/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
       "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Why Did Mozilla Remove XUL Add-Ons?",
       "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
+    },
+    {
+      "rank": "6.",
+      "title": "Michigan college is tracking its students with a flawed app",
+      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
     },
     {
       "rank": "7.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
-      "title": "ScholarMe (YC S19) Is Hiring a Front End Engineer – Toronto/Remote",
-      "link": "https://www.notion.so/scholarme/Senior-Frontend-Engineer-ScholarMe-YC-S19-23253664b6cb4eddb32ae9eafc5a661d"
-    },
-    {
-      "rank": "11.",
       "title": "The Universe Has Made Almost All the Stars It Will Ever Make",
       "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
     },
     {
+      "rank": "11.",
+      "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
+      "link": "item?id=24228826"
+    },
+    {
       "rank": "12.",
-      "title": "Michigan college is tracking its students with a flawed app",
-      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
+      "title": "ScholarMe (YC S19) Is Hiring a Front End Engineer – Toronto/Remote",
+      "link": "https://www.notion.so/scholarme/Senior-Frontend-Engineer-ScholarMe-YC-S19-23253664b6cb4eddb32ae9eafc5a661d"
     },
     {
       "rank": "13.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Former Chief Security Officer for Uber Charged with Obstruction of Justice",
-      "link": "https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice"
+      "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
+      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
     },
     {
       "rank": "15.",
-      "title": "The Kush civilization flourished in Sudan nearly 5K years ago",
-      "link": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
+      "title": "Former Chief Security Officer for Uber Charged with Obstruction of Justice",
+      "link": "https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice"
     },
     {
       "rank": "16.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "Launch HN: GitDuck (YC S20) – Zoom for developers with real-time code sharing",
-      "link": "item?id=24228826"
+      "title": "“Cold Tube” cooling system uses half the energy of an air conditioner",
+      "link": "https://newatlas.com/energy/cold-tube-cooling-air-conditioner/"
     },
     {
       "rank": "20.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
+      "title": "From farm to factory: the unstoppable rise of American chicken",
+      "link": "https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken"
+    },
+    {
+      "rank": "24.",
       "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
       "link": "https://sayless.email/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Wirecard hired actors to fool auditors",
       "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
-    },
-    {
-      "rank": "25.",
-      "title": "Why a Slack Backlash Is Inevitable",
-      "link": "https://bigtechnology.substack.com/p/why-a-slack-backlash-is-inevitable"
     },
     {
       "rank": "26.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "“Cold Tube” cooling system uses half the energy of an air conditioner",
-      "link": "https://newatlas.com/energy/cold-tube-cooling-air-conditioner/"
+      "title": "Wildfires in Big Basin Redwoods State Park",
+      "link": "https://sempervirens.org/wildfires-in-big-basin-redwoods-state-park/"
     },
     {
       "rank": "28.",
