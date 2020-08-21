@@ -17,23 +17,23 @@
     },
     {
       "rank": "4.",
-      "title": "Michigan college is tracking its students with a flawed app",
-      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
-    },
-    {
-      "rank": "5.",
       "title": "Why Did Mozilla Remove XUL Add-Ons?",
       "link": "https://yoric.github.io/post/why-did-mozilla-remove-xul-addons/"
     },
     {
+      "rank": "5.",
+      "title": "Michigan college is tracking its students with a flawed app",
+      "link": "https://techcrunch.com/2020/08/19/coronavirus-albion-security-flaws-app/"
+    },
+    {
       "rank": "6.",
-      "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
-      "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
+      "title": "Why Did a Hedge Fund Manager Worth $700M Take a $630k Job Managing an Oil Fund?",
+      "link": "https://www.institutionalinvestor.com/article/b1mr3g654h58lp/Why-Did-a-Hedge-Fund-Manager-Worth-700-Million-Take-a-630-000-a-Year-Job-Managing-an-Oil-Fund"
     },
     {
       "rank": "7.",
-      "title": "Why Did a Hedge Fund Manager Worth $700M Take a $630k Job Managing an Oil Fund?",
-      "link": "https://www.institutionalinvestor.com/article/b1mr3g654h58lp/Why-Did-a-Hedge-Fund-Manager-Worth-700-Million-Take-a-630-000-a-Year-Job-Managing-an-Oil-Fund"
+      "title": "Uber and Lyft shutdown in California averted as judge grants emergency stay",
+      "link": "https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees"
     },
     {
       "rank": "8.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Sending SPF and DMARC passing mail as any Gmail or G Suite customer",
-      "link": "https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/"
+      "title": "The Universe Has Made Almost All the Stars It Will Ever Make",
+      "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
     },
     {
       "rank": "10.",
-      "title": "The Universe Has Made Almost All the Stars It Will Ever Make",
-      "link": "http://nautil.us/issue/89/the-dark-side/the-universe-has-made-almost-all-the-stars-it-will-ever-make"
+      "title": "Sending SPF and DMARC passing mail as any Gmail or G Suite customer",
+      "link": "https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/"
     },
     {
       "rank": "11.",
@@ -77,28 +77,28 @@
     },
     {
       "rank": "16.",
+      "title": "Chromium's Impact on Root DNS Traffic",
+      "link": "https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/"
+    },
+    {
+      "rank": "17.",
       "title": "Parsing S-expressions in C (2019)",
       "link": "https://benpaulhanna.com/writing-a-game-in-c-parsing-s-expressions.html"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "The software industry is going through the “disposable plastic” crisis",
       "link": "https://lwn.net/Articles/829123/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "ScholarMe (YC S19) Is Hiring a Front End Engineer – Toronto/Remote",
       "link": "https://www.notion.so/scholarme/Senior-Frontend-Engineer-ScholarMe-YC-S19-23253664b6cb4eddb32ae9eafc5a661d"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "“Cold Tube” cooling system uses half the energy of an air conditioner",
       "link": "https://newatlas.com/energy/cold-tube-cooling-air-conditioner/"
-    },
-    {
-      "rank": "20.",
-      "title": "Citibank's $900M Blunder",
-      "link": "https://finshots.in/archive/citibank-billion-dollar-blunder/"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "Chromium's Impact on Root DNS Traffic",
-      "link": "https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/"
-    },
-    {
-      "rank": "23.",
       "title": "Coherent: Unix variant for DOS compatible PCs (1994) [pdf]",
       "link": "https://www.autometer.de/unix4fun/coherent/ftp/manuals/COHERENT-4.2.pdf"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "How to make a bee hotel [pdf]",
       "link": "https://www.foxleas.com/uploads/files/Bee%20Hotel%20page%20V4%20Nov%202015.pdf"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Moving from YouTube to PeerTube",
       "link": "https://battlepenguin.com/tech/moving-from-youtube-to-peertube/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Show HN: Say Less – AI summarization tool in the Gmail compose window",
       "link": "https://sayless.email/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "From farm to factory: the unstoppable rise of American chicken",
       "link": "https://www.theguardian.com/environment/2020/aug/17/from-farm-to-factory-the-unstoppable-rise-of-american-chicken"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Wirecard hired actors to fool auditors",
       "link": "https://www.manager-magazin.de/unternehmen/wirecard-jan-marsalek-soll-wirtschaftspruefer-ey-mit-schauspielern-getaeuscht-haben-a-00000000-0002-0001-0000-000172590382"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Scale-Free Vertical Tracking Microscopy, a.k.a. Gravity Machine",
       "link": "https://gravitymachine.org/about/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Math.min(Math.max(num, min), max)",
       "link": "https://twitter.com/jaffathecake/status/1296382880030044160"
+    },
+    {
+      "rank": "30.",
+      "title": "A deep dive into the official Docker image for Python",
+      "link": "https://pythonspeed.com/articles/official-python-docker-image/"
     }
   ],
   "metadata": {
