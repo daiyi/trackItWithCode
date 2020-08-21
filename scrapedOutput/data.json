@@ -2,33 +2,33 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "No Hello",
+      "link": "https://www.nohello.com/"
+    },
+    {
+      "rank": "2.",
       "title": "Telegram messaging app proves crucial to Belarus protests",
       "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "F (2006)",
       "link": "http://www.nsl.com/k/f/f.htm"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Fast.ai releases new deep learning course",
       "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Efficiency is dangerous and slowing down makes life better",
       "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Over three billion people worldwide now play video games, study reports",
       "link": "https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/"
-    },
-    {
-      "rank": "6.",
-      "title": "Corsair Gaming S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm"
     },
     {
       "rank": "7.",
@@ -37,33 +37,33 @@
     },
     {
       "rank": "8.",
+      "title": "Corsair Gaming S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm"
+    },
+    {
+      "rank": "9.",
       "title": "TikTok to challenge U.S. order banning transactions with the video app",
       "link": "https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Trust Models",
       "link": "https://vitalik.ca/general/2020/08/20/trust.html"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
       "link": "item?id=24237818"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "How the world’s largest garbage dump evolved into a green oasis",
       "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
     },
     {
-      "rank": "12.",
-      "title": "An Update on MDN Web Docs",
-      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
-    },
-    {
       "rank": "13.",
-      "title": "Volunteers spot almost 100 cold brown dwarfs near our sun",
-      "link": "https://www.space.com/citizen-scientists-discover-95-brown-dwarfs.html"
+      "title": "Stereotype accuracy: One of the largest, most replicable effects in psychology [pdf]",
+      "link": "https://www.gwern.net/docs/psychology/2016-jussim.pdf"
     },
     {
       "rank": "14.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "No Hello",
-      "link": "https://www.nohello.com/"
+      "title": "Volunteers spot almost 100 cold brown dwarfs near our sun",
+      "link": "https://www.space.com/citizen-scientists-discover-95-brown-dwarfs.html"
     },
     {
       "rank": "16.",
-      "title": "Stereotype accuracy: One of the largest, most replicable effects in psychology [pdf]",
-      "link": "https://www.gwern.net/docs/psychology/2016-jussim.pdf"
+      "title": "An Update on MDN Web Docs",
+      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
     },
     {
       "rank": "17.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Implementing Traceroute in Go – Blog",
-      "link": "https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/"
+      "title": "The Splitgraph Data Delivery Network – query over 40k public datasets",
+      "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
     },
     {
       "rank": "20.",
-      "title": "The Splitgraph Data Delivery Network – query over 40k public datasets",
-      "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
+      "title": "University of Utah pays $457k to ransomware gang",
+      "link": "https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/"
     },
     {
       "rank": "21.",
@@ -107,18 +107,18 @@
     },
     {
       "rank": "22.",
-      "title": "University of Utah pays $457k to ransomware gang",
-      "link": "https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/"
+      "title": "Implementing Traceroute in Go – Blog",
+      "link": "https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/"
     },
     {
       "rank": "23.",
-      "title": "How anti-trust laws are used to stop independent contractors from organizing",
-      "link": "https://docs.house.gov/meetings/JU/JU05/20191029/110152/HHRG-116-JU05-Wstate-PaulS-20191029-SD002.pdf"
+      "title": "Lori Loughlin and husband sentenced in college bribery scandal",
+      "link": "https://www.axios.com/lori-loughlin-husband-sentenced-college-bribery-scandal-17611534-00ff-4d25-9d88-de62725dec71.html"
     },
     {
       "rank": "24.",
-      "title": "Lori Loughlin and husband sentenced in college bribery scandal",
-      "link": "https://www.axios.com/lori-loughlin-husband-sentenced-college-bribery-scandal-17611534-00ff-4d25-9d88-de62725dec71.html"
+      "title": "How anti-trust laws are used to stop independent contractors from organizing",
+      "link": "https://docs.house.gov/meetings/JU/JU05/20191029/110152/HHRG-116-JU05-Wstate-PaulS-20191029-SD002.pdf"
     },
     {
       "rank": "25.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Facebook Braces Itself for Trump to Cast Doubt on Election Results",
-      "link": "https://electionlawblog.org/?p=114329"
-    },
-    {
-      "rank": "28.",
       "title": "‘Electric mud’ teems with new, mysterious bacteria",
       "link": "https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Myths About Failure",
       "link": "https://greylock.com/reid-hoffman-myths-about-failure/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "ARX, Arthur and RISC OS (2012)",
       "link": "http://www.rougol.jellybaby.net/meetings/2012/PaulFellows/"
+    },
+    {
+      "rank": "30.",
+      "title": "Game Programming Patterns: Event Queue (2014)",
+      "link": "https://gameprogrammingpatterns.com/event-queue.html"
     }
   ],
   "metadata": {
