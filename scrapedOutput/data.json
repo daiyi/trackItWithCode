@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
-      "title": "RustConf 2020 Links",
-      "link": "https://github.com/poteto/rustconf-2020"
-    },
-    {
-      "rank": "4.",
       "title": "Fast.ai releases new deep learning course",
       "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
     },
     {
+      "rank": "4.",
+      "title": "RustConf 2020 Links",
+      "link": "https://github.com/poteto/rustconf-2020"
+    },
+    {
       "rank": "5.",
-      "title": "Hotel in Tokyo installs flight simulator in room (2019)",
-      "link": "https://www.businesstraveller.com/business-travel/2019/07/31/hotel-in-tokyo-installs-flight-simulator-in-room/"
+      "title": "An Update on MDN Web Docs",
+      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
     },
     {
       "rank": "6.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
-      "title": "An Update on MDN Web Docs",
-      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
+      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
+      "link": "item?id=24237818"
     },
     {
       "rank": "8.",
-      "title": "Intel Xe-HP Graphics: Early Samples Offer 42 TFLOPs of FP32 Performance",
-      "link": "https://www.anandtech.com/show/16018/intel-xe-hp-graphics-early-samples-offer-42-tflops-of-fp32-performance"
+      "title": "Hotel in Tokyo installs flight simulator in room (2019)",
+      "link": "https://www.businesstraveller.com/business-travel/2019/07/31/hotel-in-tokyo-installs-flight-simulator-in-room/"
     },
     {
       "rank": "9.",
-      "title": "Port 5432 is open: introducing the Splitgraph Data Delivery Network",
-      "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
+      "title": "Intel Xe-HP Graphics: Early Samples Offer 42 TFLOPs of FP32 Performance",
+      "link": "https://www.anandtech.com/show/16018/intel-xe-hp-graphics-early-samples-offer-42-tflops-of-fp32-performance"
     },
     {
       "rank": "10.",
@@ -52,103 +52,103 @@
     },
     {
       "rank": "11.",
+      "title": "Port 5432 is open: introducing the Splitgraph Data Delivery Network",
+      "link": "https://www.splitgraph.com/blog/data-delivery-network-launch"
+    },
+    {
+      "rank": "12.",
       "title": "But I was helping the compiler",
       "link": "https://pankajraghav.com/2020/08/16/RVO.html"
     },
     {
-      "rank": "12.",
-      "title": "Show HN: Discover shared videos and live broadcasts from Reddit",
-      "link": "https://redditvids.com/"
-    },
-    {
       "rank": "13.",
-      "title": "Leaked S-1 screenshots show Palantir losing $579M in 2019",
-      "link": "https://techcrunch.com/2020/08/21/leaked-s-1-screenshots-show-palantir-losing-579m-in-2019/"
-    },
-    {
-      "rank": "14.",
       "title": "‘Electric mud’ teems with new, mysterious bacteria",
       "link": "https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria"
     },
     {
+      "rank": "14.",
+      "title": "Leaked S-1 screenshots show Palantir losing $579M in 2019",
+      "link": "https://techcrunch.com/2020/08/21/leaked-s-1-screenshots-show-palantir-losing-579m-in-2019/"
+    },
+    {
       "rank": "15.",
-      "title": "ReMarkable MicroSD",
-      "link": "http://www.davisr.me/projects/remarkable-microsd/"
-    },
-    {
-      "rank": "16.",
-      "title": "Ammonia as a Fuel for Compression Ignition Engines",
-      "link": "https://www.ammoniaenergy.org/articles/review-of-ammonia-as-a-ci-fuel-published/"
-    },
-    {
-      "rank": "17.",
       "title": "University of Utah pays $457k to ransomware gang",
       "link": "https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/"
     },
     {
+      "rank": "16.",
+      "title": "Show HN: Discover shared videos and live broadcasts from Reddit",
+      "link": "https://redditvids.com/"
+    },
+    {
+      "rank": "17.",
+      "title": "ReMarkable MicroSD",
+      "link": "http://www.davisr.me/projects/remarkable-microsd/"
+    },
+    {
       "rank": "18.",
-      "title": "Game Programming Patterns: Event Queue",
-      "link": "https://gameprogrammingpatterns.com/event-queue.html"
-    },
-    {
-      "rank": "19.",
-      "title": "Chromium's Impact on Root DNS Traffic",
-      "link": "https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/"
-    },
-    {
-      "rank": "20.",
       "title": "Myths About Failure",
       "link": "https://greylock.com/reid-hoffman-myths-about-failure/"
     },
     {
+      "rank": "19.",
+      "title": "Ammonia as a Fuel for Compression Ignition Engines",
+      "link": "https://www.ammoniaenergy.org/articles/review-of-ammonia-as-a-ci-fuel-published/"
+    },
+    {
+      "rank": "20.",
+      "title": "Game Programming Patterns: Event Queue",
+      "link": "https://gameprogrammingpatterns.com/event-queue.html"
+    },
+    {
       "rank": "21.",
+      "title": "Why we decided against GraphQL for local state management",
+      "link": "https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/"
+    },
+    {
+      "rank": "22.",
+      "title": "Chromium's Impact on Root DNS Traffic",
+      "link": "https://blog.apnic.net/2020/08/21/chromiums-impact-on-root-dns-traffic/"
+    },
+    {
+      "rank": "23.",
       "title": "AI ‘pilot’ beats top F-16 fighter pilot in DARPA’s simulated aerial dogfight",
       "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "New Story (YC Nonprofit S15) Is Hiring a Digital Marketer",
       "link": "https://newstorycharity.org/careers/digital-marketer"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Exploding stars may have caused mass extinction on Earth, study shows",
       "link": "https://phys.org/news/2020-08-stars-mass-extinction-earth.html"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "RSSHub: Everything Is RSSible",
       "link": "https://github.com/DIYgod/RSSHub"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Ride Through a German Village on ‘The Flying Train’ in Clear Footage from 1902",
       "link": "https://www.thisiscolossal.com/2020/08/the-flying-train-moma/"
     },
     {
-      "rank": "26.",
-      "title": "‘DiceKeys’ creates a master password for life with one roll",
-      "link": "https://www.wired.com/story/dicekeys-cryptography/"
-    },
-    {
-      "rank": "27.",
+      "rank": "28.",
       "title": "GCC x86 Performance Hints (2012)",
       "link": "https://software.intel.com/content/www/us/en/develop/blogs/gcc-x86-performance-hints.html"
     },
     {
-      "rank": "28.",
-      "title": "Breaking Samsung Firmware, or Turning Your S8/S9/S10 into a DIY “Proxmark”",
-      "link": "https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/"
-    },
-    {
       "rank": "29.",
-      "title": "Neuroimaging results altered by varying analysis pipelines",
-      "link": "https://www.nature.com/articles/d41586-020-01282-z"
+      "title": "How I got the French Tech Visa to start my company in France",
+      "link": "https://christianpetroske.com/how-i-got-the-french-tech-visa-to-start-my-company-in-france/"
     },
     {
       "rank": "30.",
-      "title": "FBI release a report on Russian Linux Malware called Drovorub [pdf]",
-      "link": "https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF"
+      "title": "Breaking Samsung Firmware, or Turning Your S8/S9/S10 into a DIY “Proxmark”",
+      "link": "https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/"
     }
   ],
   "metadata": {
