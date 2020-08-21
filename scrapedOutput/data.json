@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Telegram messaging app proves crucial to Belarus protests",
+      "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
+    },
+    {
+      "rank": "2.",
       "title": "Why efficiency is dangerous and slowing down makes life better",
       "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "RustConf 2020 Links",
       "link": "https://github.com/poteto/rustconf-2020"
     },
     {
-      "rank": "3.",
-      "title": "Hotel in Tokyo installs flight simulator in room (2019)",
-      "link": "https://www.businesstraveller.com/business-travel/2019/07/31/hotel-in-tokyo-installs-flight-simulator-in-room/"
-    },
-    {
       "rank": "4.",
-      "title": "TypeScript 4.0",
-      "link": "https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html"
+      "title": "Fast.ai releases new deep learning course",
+      "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
     },
     {
       "rank": "5.",
-      "title": "Fast.ai releases new deep learning course",
-      "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
+      "title": "Hotel in Tokyo installs flight simulator in room (2019)",
+      "link": "https://www.businesstraveller.com/business-travel/2019/07/31/hotel-in-tokyo-installs-flight-simulator-in-room/"
     },
     {
       "rank": "6.",
@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "'It’s a Telegram revolution’: Messaging app proves crucial to Belarus protests",
-      "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
+      "title": "An Update on MDN Web Docs",
+      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
     },
     {
       "rank": "8.",
@@ -47,28 +47,28 @@
     },
     {
       "rank": "10.",
+      "title": "Placeholder – Offline Coarse Geocoder Backed by SQLite",
+      "link": "https://github.com/pelias/placeholder"
+    },
+    {
+      "rank": "11.",
       "title": "But I was helping the compiler",
       "link": "https://pankajraghav.com/2020/08/16/RVO.html"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Show HN: Discover shared videos and live broadcasts from Reddit",
       "link": "https://redditvids.com/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Leaked S-1 screenshots show Palantir losing $579M in 2019",
       "link": "https://techcrunch.com/2020/08/21/leaked-s-1-screenshots-show-palantir-losing-579m-in-2019/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "‘Electric mud’ teems with new, mysterious bacteria",
       "link": "https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria"
-    },
-    {
-      "rank": "14.",
-      "title": "Placeholder – Offline Coarse Geocoder Backed by SQLite",
-      "link": "https://github.com/pelias/placeholder"
     },
     {
       "rank": "15.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Game Programming Patterns: Event Queue",
-      "link": "https://gameprogrammingpatterns.com/event-queue.html"
+      "title": "University of Utah pays $457k to ransomware gang",
+      "link": "https://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/"
     },
     {
       "rank": "18.",
-      "title": "‘DiceKeys’ Creates a Master Password for Life with One Roll",
-      "link": "https://www.wired.com/story/dicekeys-cryptography/"
+      "title": "Game Programming Patterns: Event Queue",
+      "link": "https://gameprogrammingpatterns.com/event-queue.html"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
+      "title": "Myths About Failure",
+      "link": "https://greylock.com/reid-hoffman-myths-about-failure/"
+    },
+    {
+      "rank": "21.",
       "title": "AI ‘pilot’ beats top F-16 fighter pilot in DARPA’s simulated aerial dogfight",
       "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "New Story (YC Nonprofit S15) Is Hiring a Digital Marketer",
       "link": "https://newstorycharity.org/careers/digital-marketer"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Exploding stars may have caused mass extinction on Earth, study shows",
       "link": "https://phys.org/news/2020-08-stars-mass-extinction-earth.html"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "RSSHub: Everything Is RSSible",
       "link": "https://github.com/DIYgod/RSSHub"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Ride Through a German Village on ‘The Flying Train’ in Clear Footage from 1902",
       "link": "https://www.thisiscolossal.com/2020/08/the-flying-train-moma/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "‘DiceKeys’ creates a master password for life with one roll",
+      "link": "https://www.wired.com/story/dicekeys-cryptography/"
+    },
+    {
+      "rank": "27.",
       "title": "GCC x86 Performance Hints (2012)",
       "link": "https://software.intel.com/content/www/us/en/develop/blogs/gcc-x86-performance-hints.html"
     },
     {
-      "rank": "26.",
-      "title": "Neuroimaging results altered by varying analysis pipelines",
-      "link": "https://www.nature.com/articles/d41586-020-01282-z"
-    },
-    {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Breaking Samsung Firmware, or Turning Your S8/S9/S10 into a DIY “Proxmark”",
       "link": "https://www.pentestpartners.com/security-blog/breaking-samsung-firmware-or-turning-your-s8-s9-s10-into-a-diy-proxmark/"
     },
     {
-      "rank": "28.",
-      "title": "FBI release a report on Russian Linux Malware called Drovorub [pdf]",
-      "link": "https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF"
-    },
-    {
       "rank": "29.",
-      "title": "Reckoning with Our Mistakes",
-      "link": "https://www.scientificamerican.com/article/reckoning-with-our-mistakes/"
+      "title": "Neuroimaging results altered by varying analysis pipelines",
+      "link": "https://www.nature.com/articles/d41586-020-01282-z"
     },
     {
       "rank": "30.",
-      "title": "New academic journal only publishes 'unsurprising' research rejected by others",
-      "link": "https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765"
+      "title": "FBI release a report on Russian Linux Malware called Drovorub [pdf]",
+      "link": "https://media.defense.gov/2020/Aug/13/2002476465/-1/-1/0/CSA_DROVORUB_RUSSIAN_GRU_MALWARE_AUG_2020.PDF"
     }
   ],
   "metadata": {
