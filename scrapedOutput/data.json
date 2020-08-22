@@ -12,28 +12,28 @@
     },
     {
       "rank": "3.",
-      "title": "Help Make the 19th Century Searchable",
-      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
-    },
-    {
-      "rank": "4.",
       "title": "Code for The Economist's Election Model for 2020",
       "link": "https://github.com/TheEconomist/us-potus-model"
     },
     {
+      "rank": "4.",
+      "title": "Help Make the 19th Century Searchable",
+      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
+    },
+    {
       "rank": "5.",
+      "title": "A New Bootable USB Solution",
+      "link": "https://www.ventoy.net/"
+    },
+    {
+      "rank": "6.",
       "title": "Over three billion people worldwide now play video games, study reports",
       "link": "https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Moreutils – Unix tools that nobody thought to write (2012)",
       "link": "https://joeyh.name/code/moreutils/"
-    },
-    {
-      "rank": "7.",
-      "title": "A New Bootable USB Solution",
-      "link": "https://www.ventoy.net/"
     },
     {
       "rank": "8.",
@@ -52,38 +52,38 @@
     },
     {
       "rank": "11.",
-      "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
-      "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
-    },
-    {
-      "rank": "12.",
-      "title": "Understanding Memory Fragmentation in Haskell",
-      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
-    },
-    {
-      "rank": "13.",
-      "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
-      "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
-    },
-    {
-      "rank": "14.",
       "title": "The Atomic Tank?",
       "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
     },
     {
+      "rank": "12.",
+      "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
+      "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
+    },
+    {
+      "rank": "13.",
+      "title": "Understanding Memory Fragmentation in Haskell",
+      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
+    },
+    {
+      "rank": "14.",
+      "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
+      "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
+    },
+    {
       "rank": "15.",
+      "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
+      "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
+    },
+    {
+      "rank": "16.",
       "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
       "link": "https://github.com/samsonmking/epaper.js"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Telegram messaging app proves crucial to Belarus protests",
       "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
-    },
-    {
-      "rank": "17.",
-      "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
-      "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
     },
     {
       "rank": "18.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
-      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
-    },
-    {
-      "rank": "24.",
       "title": "Efficiency is dangerous and slowing down makes life better",
       "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Fast.ai releases new deep learning course",
       "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
     },
     {
+      "rank": "25.",
+      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
+      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
+    },
+    {
       "rank": "26.",
+      "title": "Anti-Piracy Outfit Hires VPN Expert to Help Track Down the Pirate Bay",
+      "link": "https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/"
+    },
+    {
+      "rank": "27.",
       "title": "Trust Models",
       "link": "https://vitalik.ca/general/2020/08/20/trust.html"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Corsair Gaming S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "What it means to be a developer is changing",
       "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Activists find camera inside box on power pole near union organizer’s home",
       "link": "https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/"
-    },
-    {
-      "rank": "30.",
-      "title": "AI slays top F-16 pilot in DARPA dogfight simulation",
-      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     }
   ],
   "metadata": {
