@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Understanding Memory Fragmentation in Haskell",
-      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
+      "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
+      "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
     },
     {
       "rank": "8.",
-      "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
-      "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
+      "title": "Understanding Memory Fragmentation in Haskell",
+      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
     },
     {
       "rank": "9.",
@@ -52,103 +52,103 @@
     },
     {
       "rank": "11.",
+      "title": "Unicode in, Zawgyi out: Modernity finally catches up in Myanmar's digital world",
+      "link": "https://www.japantimes.co.jp/news/2019/09/27/business/tech/unicode-in-zawgyi-out-myanmar/"
+    },
+    {
+      "rank": "12.",
       "title": "An Update on MDN Web Docs",
       "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Telegram messaging app proves crucial to Belarus protests",
       "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
-      "rank": "13.",
-      "title": "What it means to be a developer is changing",
-      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
-    },
-    {
       "rank": "14.",
-      "title": "F (2006)",
-      "link": "http://www.nsl.com/k/f/f.htm"
-    },
-    {
-      "rank": "15.",
-      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
-      "link": "item?id=24237818"
-    },
-    {
-      "rank": "16.",
-      "title": "TikTok to challenge U.S. order banning transactions with the video app",
-      "link": "https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG"
-    },
-    {
-      "rank": "17.",
-      "title": "How the world’s largest garbage dump evolved into a green oasis",
-      "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
-    },
-    {
-      "rank": "18.",
       "title": "A New Bootable USB Solution",
       "link": "https://www.ventoy.net/"
     },
     {
+      "rank": "15.",
+      "title": "F (2006)",
+      "link": "http://www.nsl.com/k/f/f.htm"
+    },
+    {
+      "rank": "16.",
+      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
+      "link": "item?id=24237818"
+    },
+    {
+      "rank": "17.",
+      "title": "TikTok to challenge U.S. order banning transactions with the video app",
+      "link": "https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG"
+    },
+    {
+      "rank": "18.",
+      "title": "What it means to be a developer is changing",
+      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
+    },
+    {
       "rank": "19.",
+      "title": "How the world’s largest garbage dump evolved into a green oasis",
+      "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
+    },
+    {
+      "rank": "20.",
+      "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
+      "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
+    },
+    {
+      "rank": "21.",
       "title": "Trust Models",
       "link": "https://vitalik.ca/general/2020/08/20/trust.html"
     },
     {
-      "rank": "20.",
-      "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
-      "link": "https://github.com/samsonmking/epaper.js"
-    },
-    {
-      "rank": "21.",
-      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
-      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
-    },
-    {
       "rank": "22.",
-      "title": "Efficiency is dangerous and slowing down makes life better",
-      "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
-    },
-    {
-      "rank": "23.",
       "title": "Turning the Raspberry Pi 4 into a Mini Server",
       "link": "https://n-o-d-e.net/node_mini_server3.html"
     },
     {
+      "rank": "23.",
+      "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
+      "link": "https://github.com/samsonmking/epaper.js"
+    },
+    {
       "rank": "24.",
+      "title": "Code for The Economist's Election Model for 2020",
+      "link": "https://github.com/TheEconomist/us-potus-model"
+    },
+    {
+      "rank": "25.",
+      "title": "Efficiency is dangerous and slowing down makes life better",
+      "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
+    },
+    {
+      "rank": "26.",
+      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
+      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
+    },
+    {
+      "rank": "27.",
       "title": "Corsair Gaming S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm"
     },
     {
-      "rank": "25.",
+      "rank": "28.",
       "title": "Show HN: Codemap – Codebase Visualizer for JavaScript, TypeScript, and Python",
       "link": "https://codemap.app"
     },
     {
-      "rank": "26.",
-      "title": "New Particle Collision Math May Offer Quantum Clues",
-      "link": "https://www.quantamagazine.org/new-particle-collision-math-may-offer-quantum-clues-20200820/"
-    },
-    {
-      "rank": "27.",
-      "title": "The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)",
-      "link": "http://www.drgeorgepc.com/Tsunami1958LituyaB.html"
-    },
-    {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Activists find camera inside box on power pole near union organizer’s home",
       "link": "https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/"
     },
     {
-      "rank": "29.",
-      "title": "Marvell Details ThunderX3 CPUs",
-      "link": "https://www.anandtech.com/print/15995/hot-chips-2020-marvell-details-thunderx3"
-    },
-    {
       "rank": "30.",
-      "title": "AI slays top F-16 pilot in DARPA dogfight simulation",
-      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
+      "title": "The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)",
+      "link": "http://www.drgeorgepc.com/Tsunami1958LituyaB.html"
     }
   ],
   "metadata": {
