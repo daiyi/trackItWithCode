@@ -12,58 +12,58 @@
     },
     {
       "rank": "3.",
-      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
-      "link": "https://github.com/google/autocxx"
-    },
-    {
-      "rank": "4.",
-      "title": "Cloudflare Package Repository Mirrors",
-      "link": "https://cloudflaremirrors.com/"
-    },
-    {
-      "rank": "5.",
       "title": "Mystery of Interstellar Visitor 'Oumuamua Gets Trickier",
       "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
     },
     {
+      "rank": "4.",
+      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
+      "link": "https://github.com/google/autocxx"
+    },
+    {
+      "rank": "5.",
+      "title": "Cloudflare Package Repository Mirrors",
+      "link": "https://cloudflaremirrors.com/"
+    },
+    {
       "rank": "6.",
-      "title": "Help Make the 19th Century Searchable",
-      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
-    },
-    {
-      "rank": "7.",
-      "title": "Dropshipping: Hustlers making millions from goods they never handle",
-      "link": "https://www.bbc.com/news/technology-53759932"
-    },
-    {
-      "rank": "8.",
       "title": "A New Bootable USB Solution",
       "link": "https://www.ventoy.net/"
     },
     {
-      "rank": "9.",
-      "title": "Nasal vaccine against Covid-19 prevents infection in mice",
-      "link": "https://medicine.wustl.edu/news/nasal-vaccine-against-covid-19-prevents-infection-in-mice/"
+      "rank": "7.",
+      "title": "Help Make the 19th Century Searchable",
+      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
-      "rank": "10.",
+      "rank": "8.",
+      "title": "Dropshipping: Hustlers making millions from goods they never handle",
+      "link": "https://www.bbc.com/news/technology-53759932"
+    },
+    {
+      "rank": "9.",
       "title": "Moreutils – Unix tools that nobody thought to write (2012)",
       "link": "https://joeyh.name/code/moreutils/"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "The Atomic Tank? (2018)",
       "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
     },
     {
+      "rank": "11.",
+      "title": "Nasal vaccine against Covid-19 prevents infection in mice",
+      "link": "https://medicine.wustl.edu/news/nasal-vaccine-against-covid-19-prevents-infection-in-mice/"
+    },
+    {
       "rank": "12.",
-      "title": "Systems and Constraints",
-      "link": "https://www.mercatus.org/bridge/commentary/systems-and-constraints"
+      "title": "Anti-Piracy Outfit Hires VPN Expert to Help Track Down the Pirate Bay",
+      "link": "https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/"
     },
     {
       "rank": "13.",
-      "title": "Anti-Piracy Outfit Hires VPN Expert to Help Track Down the Pirate Bay",
-      "link": "https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/"
+      "title": "Systems and Constraints",
+      "link": "https://www.mercatus.org/bridge/commentary/systems-and-constraints"
     },
     {
       "rank": "14.",
@@ -72,28 +72,28 @@
     },
     {
       "rank": "15.",
-      "title": "Show HN: Phuslu/Log – Structured Logging for Humans",
-      "link": "https://github.com/phuslu/log"
-    },
-    {
-      "rank": "16.",
       "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
       "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
     },
     {
+      "rank": "16.",
+      "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
+      "link": "https://github.com/samsonmking/epaper.js"
+    },
+    {
       "rank": "17.",
+      "title": "Show HN: Phuslu/Log – Structured Logging for Humans",
+      "link": "https://github.com/phuslu/log"
+    },
+    {
+      "rank": "18.",
       "title": "On Ethics in Software with the Authors of “The Pragmatic Programmer”",
       "link": "https://gotopia.tech/bookclub/episodes/pragmatic-programmer-in-2020"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "AngelCAD v1.4",
       "link": "https://github.com/arnholm/angelcad/releases/tag/v1.4-00"
-    },
-    {
-      "rank": "19.",
-      "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
-      "link": "https://github.com/samsonmking/epaper.js"
     },
     {
       "rank": "20.",
@@ -137,7 +137,7 @@
     },
     {
       "rank": "28.",
-      "title": "Fast.ai releases new deep learning course",
+      "title": "Fast.ai releases new deep learning course, libraries, and book",
       "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
     },
     {
