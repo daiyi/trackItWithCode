@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "A Text-Based Desktop Environment",
-      "link": "https://vtm.netxs.online/"
-    },
-    {
-      "rank": "2.",
       "title": "Build tools around workflows, not workflows around tools",
       "link": "https://thesephist.com/posts/tools/"
     },
     {
+      "rank": "2.",
+      "title": "A Text-Based Desktop Environment",
+      "link": "https://vtm.netxs.online/"
+    },
+    {
       "rank": "3.",
+      "title": "OpenAI's GPT-3 language generator has no idea what it’s talking about",
+      "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
+    },
+    {
+      "rank": "4.",
       "title": "Mystery of Interstellar Visitor 'Oumuamua Gets Trickier",
       "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "macOS Security and Privacy Guide",
       "link": "https://github.com/drduh/macOS-Security-and-Privacy-Guide"
-    },
-    {
-      "rank": "5.",
-      "title": "OpenAI's GPT-3 language generator has no idea what it’s talking about",
-      "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
     },
     {
       "rank": "6.",
@@ -42,28 +42,28 @@
     },
     {
       "rank": "9.",
+      "title": "A Bit about U-Boot, the Allwinner A64 SoC, and How to Update It on a Pine Phone",
+      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
+    },
+    {
+      "rank": "10.",
       "title": "Help Make the 19th Century Searchable",
       "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Dropshipping: Hustlers making millions from goods they never handle",
       "link": "https://www.bbc.com/news/technology-53759932"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Systems and Constraints",
       "link": "https://www.mercatus.org/bridge/commentary/systems-and-constraints"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "The Atomic Tank? (2018)",
       "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
-    },
-    {
-      "rank": "13.",
-      "title": "Moreutils – Unix tools that nobody thought to write (2012)",
-      "link": "https://joeyh.name/code/moreutils/"
     },
     {
       "rank": "14.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
+      "title": "Moreutils – Unix tools that nobody thought to write (2012)",
+      "link": "https://joeyh.name/code/moreutils/"
+    },
+    {
+      "rank": "16.",
       "title": "Code for The Economist's Election Model for 2020",
       "link": "https://github.com/TheEconomist/us-potus-model"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "AngelCAD v1.4",
       "link": "https://github.com/arnholm/angelcad/releases/tag/v1.4-00"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Anti-Piracy Outfit Hires VPN Expert to Help Track Down the Pirate Bay",
       "link": "https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/"
-    },
-    {
-      "rank": "18.",
-      "title": "Show HN: Phuslu/Log – Structured Logging for Humans",
-      "link": "https://github.com/phuslu/log"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
-      "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
+      "title": "Show HN: Phuslu/Log – Structured Logging for Humans",
+      "link": "https://github.com/phuslu/log"
     },
     {
       "rank": "21.",
-      "title": "On Ethics in Software with the Authors of “The Pragmatic Programmer”",
-      "link": "https://gotopia.tech/bookclub/episodes/pragmatic-programmer-in-2020"
+      "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
+      "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
     },
     {
       "rank": "22.",
@@ -117,23 +117,23 @@
     },
     {
       "rank": "24.",
+      "title": "On Ethics in Software with the Authors of “The Pragmatic Programmer”",
+      "link": "https://gotopia.tech/bookclub/episodes/pragmatic-programmer-in-2020"
+    },
+    {
+      "rank": "25.",
       "title": "Telegram messaging app proves crucial to Belarus protests",
       "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Ammonia as a fuel for compression ignition engines",
       "link": "https://www.ammoniaenergy.org/articles/review-of-ammonia-as-a-ci-fuel-published/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Understanding Memory Fragmentation in Haskell",
       "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
-    },
-    {
-      "rank": "27.",
-      "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
-      "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Efficiency is dangerous and slowing down makes life better",
-      "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
+      "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
+      "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
     },
     {
       "rank": "30.",
-      "title": "Fast.ai releases new deep learning course, libraries, and book",
-      "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
+      "title": "Rogue planets could outnumber the stars",
+      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
     }
   ],
   "metadata": {
