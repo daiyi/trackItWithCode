@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Moreutils – Unix tools that nobody thought to write (2012)",
-      "link": "https://joeyh.name/code/moreutils/"
+      "title": "macOS Security and Privacy Guide",
+      "link": "https://github.com/drduh/macOS-Security-and-Privacy-Guide"
     },
     {
       "rank": "2.",
@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Over three billion people worldwide now play video games, study reports",
-      "link": "https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/"
+      "title": "Moreutils – Unix tools that nobody thought to write (2012)",
+      "link": "https://joeyh.name/code/moreutils/"
     },
     {
       "rank": "4.",
-      "title": "Help Make the 19th Century Searchable",
-      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
+      "title": "Over three billion people worldwide now play video games, study reports",
+      "link": "https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/"
     },
     {
       "rank": "5.",
@@ -27,33 +27,33 @@
     },
     {
       "rank": "6.",
-      "title": "Show HN: A Twitter bot I made that posts real-time deforestation data",
-      "link": "https://twitter.com/ForestsWar"
+      "title": "Help Make the 19th Century Searchable",
+      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
       "rank": "7.",
-      "title": "Matrix – An open network for secure, decentralized communication",
-      "link": "https://matrix.org/"
-    },
-    {
-      "rank": "8.",
       "title": "WordPressiOS Locked by App Store",
       "link": "https://twitter.com/photomatt/status/1296879217297113088"
     },
     {
+      "rank": "8.",
+      "title": "Matrix – An open network for secure, decentralized communication",
+      "link": "https://matrix.org/"
+    },
+    {
       "rank": "9.",
+      "title": "Show HN: A Twitter bot I made that posts real-time deforestation data",
+      "link": "https://twitter.com/ForestsWar"
+    },
+    {
+      "rank": "10.",
       "title": "Unicode in, Zawgyi out: Modernity finally catches up in Myanmar's digital world",
       "link": "https://www.japantimes.co.jp/news/2019/09/27/business/tech/unicode-in-zawgyi-out-myanmar/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
       "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
-    },
-    {
-      "rank": "11.",
-      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
-      "link": "https://github.com/google/autocxx"
     },
     {
       "rank": "12.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "Understanding Memory Fragmentation in Haskell",
-      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
+      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
+      "link": "https://github.com/google/autocxx"
     },
     {
       "rank": "14.",
-      "title": "Telegram messaging app proves crucial to Belarus protests",
-      "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
+      "title": "Understanding Memory Fragmentation in Haskell",
+      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
     },
     {
       "rank": "15.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
-      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
-      "link": "item?id=24237818"
+      "title": "Telegram messaging app proves crucial to Belarus protests",
+      "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
       "rank": "18.",
-      "title": "How the world’s largest garbage dump evolved into a green oasis",
-      "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
+      "title": "The Atomic Tank?",
+      "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
     },
     {
       "rank": "19.",
-      "title": "F (2006)",
-      "link": "http://www.nsl.com/k/f/f.htm"
+      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
+      "link": "item?id=24237818"
     },
     {
       "rank": "20.",
@@ -102,53 +102,53 @@
     },
     {
       "rank": "21.",
+      "title": "How the world’s largest garbage dump evolved into a green oasis",
+      "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
+    },
+    {
+      "rank": "22.",
+      "title": "F (2006)",
+      "link": "http://www.nsl.com/k/f/f.htm"
+    },
+    {
+      "rank": "23.",
       "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
       "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "Efficiency is dangerous and slowing down makes life better",
       "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Fast.ai releases new deep learning course",
       "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "Trust Models",
       "link": "https://vitalik.ca/general/2020/08/20/trust.html"
     },
     {
-      "rank": "25.",
-      "title": "Corsair Gaming S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm"
-    },
-    {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
       "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
     },
     {
-      "rank": "27.",
-      "title": "What it means to be a developer is changing",
-      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
+      "rank": "28.",
+      "title": "Corsair Gaming S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Activists find camera inside box on power pole near union organizer’s home",
       "link": "https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/"
     },
     {
-      "rank": "29.",
-      "title": "AI slays top F-16 pilot in DARPA dogfight simulation",
-      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
-    },
-    {
       "rank": "30.",
-      "title": "The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)",
-      "link": "http://www.drgeorgepc.com/Tsunami1958LituyaB.html"
+      "title": "What it means to be a developer is changing",
+      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
     }
   ],
   "metadata": {
