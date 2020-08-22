@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "Understanding Memory Fragmentation in Haskell",
-      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
+      "title": "Marvell Details ThunderX3 CPUs",
+      "link": "https://www.anandtech.com/print/15995/hot-chips-2020-marvell-details-thunderx3"
     },
     {
       "rank": "8.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Marvell Details ThunderX3 CPUs",
-      "link": "https://www.anandtech.com/print/15995/hot-chips-2020-marvell-details-thunderx3"
+      "title": "Understanding Memory Fragmentation in Haskell",
+      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
     },
     {
       "rank": "10.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "How Josh Kaufman Does Research",
-      "link": "https://superorganizers.substack.com/p/how-josh-kaufman-does-research"
+      "title": "How anti-trust laws are used to stop independent contractors from organizing",
+      "link": "https://docs.house.gov/meetings/JU/JU05/20191029/110152/HHRG-116-JU05-Wstate-PaulS-20191029-SD002.pdf"
     },
     {
       "rank": "15.",
@@ -77,38 +77,38 @@
     },
     {
       "rank": "16.",
-      "title": "An Update on MDN Web Docs",
-      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
-    },
-    {
-      "rank": "17.",
-      "title": "How anti-trust laws are used to stop independent contractors from organizing",
-      "link": "https://docs.house.gov/meetings/JU/JU05/20191029/110152/HHRG-116-JU05-Wstate-PaulS-20191029-SD002.pdf"
-    },
-    {
-      "rank": "18.",
-      "title": "Volunteers spot almost 100 cold brown dwarfs near our sun",
-      "link": "https://www.space.com/citizen-scientists-discover-95-brown-dwarfs.html"
-    },
-    {
-      "rank": "19.",
       "title": "TikTok to challenge U.S. order banning transactions with the video app",
       "link": "https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG"
     },
     {
-      "rank": "20.",
-      "title": "Can You Help Us Make the 19th Century Searchable?",
-      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
+      "rank": "17.",
+      "title": "Volunteers spot almost 100 cold brown dwarfs near our sun",
+      "link": "https://www.space.com/citizen-scientists-discover-95-brown-dwarfs.html"
     },
     {
-      "rank": "21.",
+      "rank": "18.",
+      "title": "How Josh Kaufman Does Research",
+      "link": "https://superorganizers.substack.com/p/how-josh-kaufman-does-research"
+    },
+    {
+      "rank": "19.",
+      "title": "An Update on MDN Web Docs",
+      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
+    },
+    {
+      "rank": "20.",
       "title": "How the world’s largest garbage dump evolved into a green oasis",
       "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Trust Models",
       "link": "https://vitalik.ca/general/2020/08/20/trust.html"
+    },
+    {
+      "rank": "22.",
+      "title": "Can You Help Us Make the 19th Century Searchable?",
+      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
       "rank": "23.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
-      "link": "https://github.com/samsonmking/epaper.js"
+      "title": "What it means to be a developer is changing",
+      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
     },
     {
       "rank": "26.",
@@ -132,18 +132,18 @@
     },
     {
       "rank": "27.",
+      "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
+      "link": "https://github.com/samsonmking/epaper.js"
+    },
+    {
+      "rank": "28.",
       "title": "Blockchain, the Solution for Almost Nothing",
       "link": "https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/84495599980-95473476"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)",
       "link": "http://www.drgeorgepc.com/Tsunami1958LituyaB.html"
-    },
-    {
-      "rank": "29.",
-      "title": "What it means to be a developer is changing",
-      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
     },
     {
       "rank": "30.",
