@@ -17,33 +17,33 @@
     },
     {
       "rank": "4.",
-      "title": "Partying like it’s 1999 – Initial public offerings are back in Silicon Valley",
-      "link": "https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley"
-    },
-    {
-      "rank": "5.",
-      "title": "Future of DeepSpeech / STT after recent changes at Mozilla",
-      "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
-    },
-    {
-      "rank": "6.",
       "title": "Zero G: Some German mobile users still waiting for a signal",
       "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
     },
     {
-      "rank": "7.",
-      "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
-      "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
+      "rank": "5.",
+      "title": "Partying like it’s 1999 – Initial public offerings are back in Silicon Valley",
+      "link": "https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley"
     },
     {
-      "rank": "8.",
+      "rank": "6.",
+      "title": "Future of DeepSpeech / STT after recent changes at Mozilla",
+      "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
+    },
+    {
+      "rank": "7.",
       "title": "Uber and Lyft competitors ready if service is suspended in California",
       "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
       "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
+    },
+    {
+      "rank": "9.",
+      "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
+      "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
-      "link": "https://www.npmjs.com/package/aws-cost-saver"
+      "title": "Today is Earth Overshoot Day – (08/22)",
+      "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
     },
     {
       "rank": "12.",
-      "title": "Today is Earth Overshoot Day – (08/22)",
-      "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
+      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
+      "link": "https://www.npmjs.com/package/aws-cost-saver"
     },
     {
       "rank": "13.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
-      "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
+      "title": "How two British orthodontists became celebrities to incels",
+      "link": "https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html"
     },
     {
       "rank": "15.",
-      "title": "How two British orthodontists became celebrities to incels",
-      "link": "https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html"
+      "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
+      "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
-      "link": "https://github.com/google/autocxx"
+      "title": "Backbone Cabal",
+      "link": "https://en.wikipedia.org/wiki/Backbone_cabal"
     },
     {
       "rank": "18.",
-      "title": "Backbone Cabal",
-      "link": "https://en.wikipedia.org/wiki/Backbone_cabal"
+      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
+      "link": "https://github.com/google/autocxx"
     },
     {
       "rank": "19.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "AngelCAD: Script-based 3D solid modeller",
-      "link": "https://arnholm.github.io/angelcad-docs/"
+      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
+      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
     },
     {
       "rank": "22.",
-      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
-      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
+      "title": "AngelCAD: Script-based 3D solid modeller",
+      "link": "https://arnholm.github.io/angelcad-docs/"
     },
     {
       "rank": "23.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Microsoft Flight Simulator maps entire globe with AI",
-      "link": "https://www.bbc.com/news/av/technology-53811956"
-    },
-    {
-      "rank": "29.",
       "title": "Show HN: Codemap – Codebase Visualizer for JavaScript, TypeScript, and Python",
       "link": "https://codemap.app"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Unity Joins the Blender Development Fund as a Patron Member",
       "link": "https://www.blender.org/press/unity-joins-the-blender-development-fund-as-a-patron-member/"
+    },
+    {
+      "rank": "30.",
+      "title": "macOS Security and Privacy Guide",
+      "link": "https://github.com/drduh/macOS-Security-and-Privacy-Guide"
     }
   ],
   "metadata": {
