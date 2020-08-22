@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
-      "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
+      "title": "Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay"
+      "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
+      "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
     },
     {
       "rank": "11.",
-      "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
-      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
+      "title": "Two Way Mirror Improves Video Conferencing",
+      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
-      "title": "Two Way Mirror Improves Video Conferencing",
-      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
+      "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
+      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
     },
     {
       "rank": "14.",
-      "title": "Today is Earth Overshoot Day – (08/22)",
-      "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
+      "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
+      "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
     },
     {
       "rank": "15.",
-      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
-      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
+      "title": "Today is Earth Overshoot Day – (08/22)",
+      "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
     },
     {
       "rank": "16.",
@@ -92,63 +92,63 @@
     },
     {
       "rank": "19.",
-      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
-      "link": "https://www.npmjs.com/package/aws-cost-saver"
-    },
-    {
-      "rank": "20.",
       "title": "Backbone Cabal",
       "link": "https://en.wikipedia.org/wiki/Backbone_cabal"
     },
     {
+      "rank": "20.",
+      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
+      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
+    },
+    {
       "rank": "21.",
-      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
-      "link": "https://github.com/google/autocxx"
+      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
+      "link": "https://www.npmjs.com/package/aws-cost-saver"
     },
     {
       "rank": "22.",
+      "title": "Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]",
+      "link": "https://www.youtube.com/watch?v=iaSaWfw07Sw"
+    },
+    {
+      "rank": "23.",
       "title": "College Notebook of Isaac Newton",
       "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
+      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
+      "link": "https://github.com/google/autocxx"
+    },
+    {
+      "rank": "25.",
       "title": "AngelCAD: Script-based 3D solid modeller",
       "link": "https://arnholm.github.io/angelcad-docs/"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
       "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "GPT-3 has no idea what it’s talking about",
       "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Braess' Paradox and the Price of Anarchy (2019)",
       "link": "http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "Bletchley Park Trust to undergo organisational restructure",
       "link": "https://bletchleypark.org.uk/news/bletchley-park-trust-to-undergo-organisational-restructure"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "United Nuclear Scientific Equipment and Supplies",
       "link": "https://unitednuclear.com/"
-    },
-    {
-      "rank": "29.",
-      "title": "Unity Joins the Blender Development Fund as a Patron Member",
-      "link": "https://www.blender.org/press/unity-joins-the-blender-development-fund-as-a-patron-member/"
-    },
-    {
-      "rank": "30.",
-      "title": "Systems and Constraints",
-      "link": "https://www.mercatus.org/bridge/commentary/systems-and-constraints"
     }
   ],
   "metadata": {
