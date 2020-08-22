@@ -32,38 +32,38 @@
     },
     {
       "rank": "7.",
-      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
-      "link": "https://www.npmjs.com/package/aws-cost-saver"
+      "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
+      "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
     },
     {
       "rank": "8.",
-      "title": "Rogue planets could outnumber the stars",
-      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
-    },
-    {
-      "rank": "9.",
       "title": "How two British orthodontists became celebrities to incels",
       "link": "https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Uber and Lyft competitors ready if service is suspended in California",
       "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Today is Earth Overshoot Day – (08/22)",
       "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
     },
     {
+      "rank": "11.",
+      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
+      "link": "https://www.npmjs.com/package/aws-cost-saver"
+    },
+    {
       "rank": "12.",
-      "title": "Stef's Free Online Smalltalk Books",
-      "link": "http://stephane.ducasse.free.fr/FreeBooks.html"
+      "title": "Rogue planets could outnumber the stars",
+      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
     },
     {
       "rank": "13.",
-      "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
-      "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
+      "title": "Stef's Free Online Smalltalk Books",
+      "link": "http://stephane.ducasse.free.fr/FreeBooks.html"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
-      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
+      "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
+      "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
     },
     {
       "rank": "16.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "The Student-Blaming Has Begun",
-      "link": "https://www.chronicle.com/article/the-student-blaming-has-begun"
+      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
+      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
     },
     {
       "rank": "20.",
@@ -102,23 +102,23 @@
     },
     {
       "rank": "21.",
+      "title": "The Student-Blaming Has Begun",
+      "link": "https://www.chronicle.com/article/the-student-blaming-has-begun"
+    },
+    {
+      "rank": "22.",
       "title": "Braess' Paradox and the Price of Anarchy (2019)",
       "link": "http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Microsoft Flight Simulator maps entire globe with AI",
       "link": "https://www.bbc.com/news/av/technology-53811956"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "United Nuclear Scientific Equipment and Supplies",
       "link": "https://unitednuclear.com/"
-    },
-    {
-      "rank": "24.",
-      "title": "Code for The Economist's election model for 2020",
-      "link": "https://github.com/TheEconomist/us-potus-model"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "Code for The Economist's election model for 2020",
+      "link": "https://github.com/TheEconomist/us-potus-model"
+    },
+    {
+      "rank": "27.",
       "title": "Bletchley Park Trust to undergo organisational restructure",
       "link": "https://bletchleypark.org.uk/news/bletchley-park-trust-to-undergo-organisational-restructure"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Unity Joins the Blender Development Fund as a Patron Member",
       "link": "https://www.blender.org/press/unity-joins-the-blender-development-fund-as-a-patron-member/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Show HN: Codemap – Codebase Visualizer for JavaScript, TypeScript, and Python",
       "link": "https://codemap.app"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Systems and Constraints",
       "link": "https://www.mercatus.org/bridge/commentary/systems-and-constraints"
-    },
-    {
-      "rank": "30.",
-      "title": "macOS Security and Privacy Guide",
-      "link": "https://github.com/drduh/macOS-Security-and-Privacy-Guide"
     }
   ],
   "metadata": {
