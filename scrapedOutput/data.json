@@ -12,43 +12,43 @@
     },
     {
       "rank": "3.",
+      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
+      "link": "https://github.com/google/autocxx"
+    },
+    {
+      "rank": "4.",
       "title": "Moreutils – Unix tools that nobody thought to write (2012)",
       "link": "https://joeyh.name/code/moreutils/"
     },
     {
-      "rank": "4.",
-      "title": "Over three billion people worldwide now play video games, study reports",
-      "link": "https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/"
-    },
-    {
       "rank": "5.",
-      "title": "A New Bootable USB Solution",
-      "link": "https://www.ventoy.net/"
-    },
-    {
-      "rank": "6.",
       "title": "Help Make the 19th Century Searchable",
       "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
+      "rank": "6.",
+      "title": "Over three billion people worldwide now play video games, study reports",
+      "link": "https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/"
+    },
+    {
       "rank": "7.",
-      "title": "WordPressiOS Locked by App Store",
-      "link": "https://twitter.com/photomatt/status/1296879217297113088"
+      "title": "A New Bootable USB Solution",
+      "link": "https://www.ventoy.net/"
     },
     {
       "rank": "8.",
-      "title": "Matrix – An open network for secure, decentralized communication",
-      "link": "https://matrix.org/"
-    },
-    {
-      "rank": "9.",
       "title": "Show HN: A Twitter bot I made that posts real-time deforestation data",
       "link": "https://twitter.com/ForestsWar"
     },
     {
+      "rank": "9.",
+      "title": "WordPressiOS Locked by App Store",
+      "link": "https://twitter.com/photomatt/status/1296879217297113088"
+    },
+    {
       "rank": "10.",
-      "title": "Unicode in, Zawgyi out: Modernity finally catches up in Myanmar's digital world",
-      "link": "https://www.japantimes.co.jp/news/2019/09/27/business/tech/unicode-in-zawgyi-out-myanmar/"
+      "title": "Matrix – An open network for secure, decentralized communication",
+      "link": "https://matrix.org/"
     },
     {
       "rank": "11.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
-      "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
-      "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
+      "title": "The Atomic Tank?",
+      "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
     },
     {
       "rank": "13.",
-      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
-      "link": "https://github.com/google/autocxx"
+      "title": "Understanding Memory Fragmentation in Haskell",
+      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
     },
     {
       "rank": "14.",
-      "title": "Understanding Memory Fragmentation in Haskell",
-      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
+      "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
+      "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
     },
     {
       "rank": "15.",
@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
-      "title": "College Notebook by Isaac Newton",
-      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
-    },
-    {
-      "rank": "17.",
       "title": "Telegram messaging app proves crucial to Belarus protests",
       "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
+      "rank": "17.",
+      "title": "College Notebook by Isaac Newton",
+      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
+    },
+    {
       "rank": "18.",
-      "title": "The Atomic Tank?",
-      "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
+      "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
+      "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
     },
     {
       "rank": "19.",
-      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
-      "link": "item?id=24237818"
+      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
+      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
     },
     {
       "rank": "20.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "How the world’s largest garbage dump evolved into a green oasis",
-      "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
+      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
+      "link": "item?id=24237818"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
-      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
+      "title": "How the world’s largest garbage dump evolved into a green oasis",
+      "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
     },
     {
       "rank": "24.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
-      "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
-    },
-    {
-      "rank": "28.",
       "title": "Corsair Gaming S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Activists find camera inside box on power pole near union organizer’s home",
       "link": "https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "What it means to be a developer is changing",
       "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
+    },
+    {
+      "rank": "30.",
+      "title": "AI slays top F-16 pilot in DARPA dogfight simulation",
+      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     }
   ],
   "metadata": {
