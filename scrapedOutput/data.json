@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Turning the Raspberry Pi 4 into a Mini Server",
-      "link": "https://n-o-d-e.net/node_mini_server3.html"
+      "title": "moreutils – Unix tools that nobody thought to write",
+      "link": "https://joeyh.name/code/moreutils/"
     },
     {
       "rank": "2.",
@@ -47,8 +47,8 @@
     },
     {
       "rank": "10.",
-      "title": "moreutils – Unix tools that nobody thought to write",
-      "link": "https://joeyh.name/code/moreutils/"
+      "title": "Can You Help Us Make the 19th Century Searchable?",
+      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
       "rank": "11.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
-      "title": "Can You Help Us Make the 19th Century Searchable?",
-      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
-    },
-    {
-      "rank": "13.",
       "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
       "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Telegram messaging app proves crucial to Belarus protests",
       "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
+    },
+    {
+      "rank": "14.",
+      "title": "Turning the Raspberry Pi 4 into a Mini Server",
+      "link": "https://n-o-d-e.net/node_mini_server3.html"
     },
     {
       "rank": "15.",
@@ -77,28 +77,28 @@
     },
     {
       "rank": "16.",
-      "title": "How anti-trust laws are used to stop independent contractors from organizing",
-      "link": "https://docs.house.gov/meetings/JU/JU05/20191029/110152/HHRG-116-JU05-Wstate-PaulS-20191029-SD002.pdf"
-    },
-    {
-      "rank": "17.",
-      "title": "TikTok to challenge U.S. order banning transactions with the video app",
-      "link": "https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG"
-    },
-    {
-      "rank": "18.",
-      "title": "How Josh Kaufman Does Research",
-      "link": "https://superorganizers.substack.com/p/how-josh-kaufman-does-research"
-    },
-    {
-      "rank": "19.",
       "title": "An Update on MDN Web Docs",
       "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
     },
     {
-      "rank": "20.",
+      "rank": "17.",
+      "title": "How anti-trust laws are used to stop independent contractors from organizing",
+      "link": "https://docs.house.gov/meetings/JU/JU05/20191029/110152/HHRG-116-JU05-Wstate-PaulS-20191029-SD002.pdf"
+    },
+    {
+      "rank": "18.",
+      "title": "TikTok to challenge U.S. order banning transactions with the video app",
+      "link": "https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG"
+    },
+    {
+      "rank": "19.",
       "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
       "link": "item?id=24237818"
+    },
+    {
+      "rank": "20.",
+      "title": "How Josh Kaufman Does Research",
+      "link": "https://superorganizers.substack.com/p/how-josh-kaufman-does-research"
     },
     {
       "rank": "21.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "New Particle Collision Math May Offer Quantum Clues",
-      "link": "https://www.quantamagazine.org/new-particle-collision-math-may-offer-quantum-clues-20200820/"
+      "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
+      "link": "https://github.com/samsonmking/epaper.js"
     },
     {
       "rank": "24.",
-      "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
-      "link": "https://github.com/samsonmking/epaper.js"
+      "title": "New Particle Collision Math May Offer Quantum Clues",
+      "link": "https://www.quantamagazine.org/new-particle-collision-math-may-offer-quantum-clues-20200820/"
     },
     {
       "rank": "25.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "What it means to be a developer is changing",
-      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
+      "title": "The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)",
+      "link": "http://www.drgeorgepc.com/Tsunami1958LituyaB.html"
     },
     {
       "rank": "28.",
-      "title": "The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)",
-      "link": "http://www.drgeorgepc.com/Tsunami1958LituyaB.html"
+      "title": "What it means to be a developer is changing",
+      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
     },
     {
       "rank": "29.",
