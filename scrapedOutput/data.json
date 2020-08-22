@@ -17,38 +17,38 @@
     },
     {
       "rank": "4.",
-      "title": "Show HN: A Twitter bot I made that posts real-time deforestation data",
-      "link": "https://twitter.com/ForestsWar"
-    },
-    {
-      "rank": "5.",
       "title": "Help Make the 19th Century Searchable",
       "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
+      "rank": "5.",
+      "title": "Show HN: A Twitter bot I made that posts real-time deforestation data",
+      "link": "https://twitter.com/ForestsWar"
+    },
+    {
       "rank": "6.",
+      "title": "Code for The Economist's Election Model for 2020",
+      "link": "https://github.com/TheEconomist/us-potus-model"
+    },
+    {
+      "rank": "7.",
       "title": "WordPressiOS Locked by App Store",
       "link": "https://twitter.com/photomatt/status/1296879217297113088"
     },
     {
-      "rank": "7.",
-      "title": "Matrix – An open network for secure, decentralized communication",
-      "link": "https://matrix.org/"
-    },
-    {
       "rank": "8.",
-      "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
-      "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
-    },
-    {
-      "rank": "9.",
       "title": "A New Bootable USB Solution",
       "link": "https://www.ventoy.net/"
     },
     {
+      "rank": "9.",
+      "title": "Matrix – An open network for secure, decentralized communication",
+      "link": "https://matrix.org/"
+    },
+    {
       "rank": "10.",
-      "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
-      "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
+      "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
+      "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
     },
     {
       "rank": "11.",
@@ -57,48 +57,48 @@
     },
     {
       "rank": "12.",
+      "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
+      "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
+    },
+    {
+      "rank": "13.",
       "title": "Understanding Memory Fragmentation in Haskell",
       "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
     },
     {
-      "rank": "13.",
-      "title": "Code for The Economist's Election Model for 2020",
-      "link": "https://github.com/TheEconomist/us-potus-model"
+      "rank": "14.",
+      "title": "Unicode in, Zawgyi out: Modernity finally catches up in Myanmar's digital world",
+      "link": "https://www.japantimes.co.jp/news/2019/09/27/business/tech/unicode-in-zawgyi-out-myanmar/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Telegram messaging app proves crucial to Belarus protests",
       "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
+      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
+      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
+    },
+    {
+      "rank": "17.",
       "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
       "link": "https://github.com/samsonmking/epaper.js"
     },
     {
-      "rank": "16.",
-      "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
-      "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
-    },
-    {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
       "link": "item?id=24237818"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "F (2006)",
       "link": "http://www.nsl.com/k/f/f.htm"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "TikTok to challenge U.S. order banning transactions with the video app",
       "link": "https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG"
-    },
-    {
-      "rank": "20.",
-      "title": "What it means to be a developer is changing",
-      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
     },
     {
       "rank": "21.",
@@ -107,18 +107,18 @@
     },
     {
       "rank": "22.",
-      "title": "Unicode in, Zawgyi out: Modernity finally catches up in Myanmar's digital world",
-      "link": "https://www.japantimes.co.jp/news/2019/09/27/business/tech/unicode-in-zawgyi-out-myanmar/"
-    },
-    {
-      "rank": "23.",
       "title": "Trust Models",
       "link": "https://vitalik.ca/general/2020/08/20/trust.html"
     },
     {
+      "rank": "23.",
+      "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
+      "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
+    },
+    {
       "rank": "24.",
-      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
-      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
+      "title": "What it means to be a developer is changing",
+      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
     },
     {
       "rank": "25.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Show HN: Codemap – Codebase Visualizer for JavaScript, TypeScript, and Python",
-      "link": "https://codemap.app"
+      "title": "AI slays top F-16 pilot in DARPA dogfight simulation",
+      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     },
     {
       "rank": "30.",
-      "title": "AI slays top F-16 pilot in DARPA dogfight simulation",
-      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
+      "title": "Show HN: Codemap – Codebase Visualizer for JavaScript, TypeScript, and Python",
+      "link": "https://codemap.app"
     }
   ],
   "metadata": {
