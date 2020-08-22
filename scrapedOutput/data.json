@@ -27,43 +27,43 @@
     },
     {
       "rank": "6.",
-      "title": "WordPressiOS Locked by App Store",
-      "link": "https://twitter.com/photomatt/status/1296879217297113088"
-    },
-    {
-      "rank": "7.",
-      "title": "Unicode in, Zawgyi out: Modernity finally catches up in Myanmar's digital world",
-      "link": "https://www.japantimes.co.jp/news/2019/09/27/business/tech/unicode-in-zawgyi-out-myanmar/"
-    },
-    {
-      "rank": "8.",
       "title": "Show HN: A Twitter bot I made that posts real-time deforestation data",
       "link": "https://twitter.com/ForestsWar"
     },
     {
-      "rank": "9.",
+      "rank": "7.",
       "title": "Matrix – An open network for secure, decentralized communication",
       "link": "https://matrix.org/"
     },
     {
-      "rank": "10.",
-      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
-      "link": "https://github.com/google/autocxx"
+      "rank": "8.",
+      "title": "WordPressiOS Locked by App Store",
+      "link": "https://twitter.com/photomatt/status/1296879217297113088"
     },
     {
-      "rank": "11.",
+      "rank": "9.",
+      "title": "Unicode in, Zawgyi out: Modernity finally catches up in Myanmar's digital world",
+      "link": "https://www.japantimes.co.jp/news/2019/09/27/business/tech/unicode-in-zawgyi-out-myanmar/"
+    },
+    {
+      "rank": "10.",
       "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
       "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
     },
     {
+      "rank": "11.",
+      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
+      "link": "https://github.com/google/autocxx"
+    },
+    {
       "rank": "12.",
-      "title": "Understanding Memory Fragmentation in Haskell",
-      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
+      "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
+      "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
     },
     {
       "rank": "13.",
-      "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
-      "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
+      "title": "Understanding Memory Fragmentation in Haskell",
+      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
     },
     {
       "rank": "14.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
-      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
+      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
+      "link": "item?id=24237818"
     },
     {
       "rank": "18.",
-      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
-      "link": "item?id=24237818"
+      "title": "How the world’s largest garbage dump evolved into a green oasis",
+      "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
     },
     {
       "rank": "19.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "How the world’s largest garbage dump evolved into a green oasis",
-      "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
+      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
+      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
     },
     {
       "rank": "22.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "What it means to be a developer is changing",
+      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
+    },
+    {
+      "rank": "28.",
       "title": "Activists find camera inside box on power pole near union organizer’s home",
       "link": "https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "AI slays top F-16 pilot in DARPA dogfight simulation",
       "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)",
       "link": "http://www.drgeorgepc.com/Tsunami1958LituyaB.html"
-    },
-    {
-      "rank": "30.",
-      "title": "When the Internet Stopped in Belarus",
-      "link": "https://vicki.substack.com/p/when-the-internet-stopped-in-belarus"
     }
   ],
   "metadata": {
