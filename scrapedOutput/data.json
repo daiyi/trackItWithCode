@@ -12,63 +12,63 @@
     },
     {
       "rank": "3.",
-      "title": "Fast.ai releases new deep learning course",
-      "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
-    },
-    {
-      "rank": "4.",
       "title": "Over three billion people worldwide now play video games, study reports",
       "link": "https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Help Make the 19th Century Searchable",
       "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Show HN: A Twitter bot I made that posts real-time deforestation data",
       "link": "https://twitter.com/ForestsWar"
     },
     {
-      "rank": "7.",
-      "title": "WordPressiOS Locked by App Store",
-      "link": "https://twitter.com/photomatt/status/1296879217297113088"
-    },
-    {
-      "rank": "8.",
-      "title": "A New Bootable USB Solution",
-      "link": "https://www.ventoy.net/"
-    },
-    {
-      "rank": "9.",
+      "rank": "6.",
       "title": "Unicode in, Zawgyi out: Modernity finally catches up in Myanmar's digital world",
       "link": "https://www.japantimes.co.jp/news/2019/09/27/business/tech/unicode-in-zawgyi-out-myanmar/"
     },
     {
-      "rank": "10.",
+      "rank": "7.",
+      "title": "A New Bootable USB Solution",
+      "link": "https://www.ventoy.net/"
+    },
+    {
+      "rank": "8.",
+      "title": "WordPressiOS Locked by App Store",
+      "link": "https://twitter.com/photomatt/status/1296879217297113088"
+    },
+    {
+      "rank": "9.",
       "title": "Matrix – An open network for secure, decentralized communication",
       "link": "https://matrix.org/"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
       "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "An Update on MDN Web Docs",
       "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
       "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Understanding Memory Fragmentation in Haskell",
       "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
+    },
+    {
+      "rank": "14.",
+      "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
+      "link": "https://github.com/samsonmking/epaper.js"
     },
     {
       "rank": "15.",
@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
-      "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
-      "link": "https://github.com/samsonmking/epaper.js"
+      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
+      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
     },
     {
       "rank": "17.",
+      "title": "What it means to be a developer is changing",
+      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
+    },
+    {
+      "rank": "18.",
       "title": "College Notebook by Isaac Newton",
       "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
       "link": "item?id=24237818"
-    },
-    {
-      "rank": "19.",
-      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
-      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
     },
     {
       "rank": "20.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "What it means to be a developer is changing",
-      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
+      "title": "Efficiency is dangerous and slowing down makes life better",
+      "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
     },
     {
       "rank": "25.",
-      "title": "Efficiency is dangerous and slowing down makes life better",
-      "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
+      "title": "Fast.ai releases new deep learning course",
+      "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
     },
     {
       "rank": "26.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "When the Internet Stopped in Belarus",
-      "link": "https://vicki.substack.com/p/when-the-internet-stopped-in-belarus"
+      "title": "The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)",
+      "link": "http://www.drgeorgepc.com/Tsunami1958LituyaB.html"
     },
     {
       "rank": "30.",
-      "title": "The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)",
-      "link": "http://www.drgeorgepc.com/Tsunami1958LituyaB.html"
+      "title": "When the Internet Stopped in Belarus",
+      "link": "https://vicki.substack.com/p/when-the-internet-stopped-in-belarus"
     }
   ],
   "metadata": {
