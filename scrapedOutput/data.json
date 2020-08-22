@@ -7,63 +7,63 @@
     },
     {
       "rank": "2.",
-      "title": "Dropshipping: The hustlers making millions from goods they never handle",
-      "link": "https://www.bbc.com/news/technology-53759932"
-    },
-    {
-      "rank": "3.",
       "title": "macOS Security and Privacy Guide",
       "link": "https://github.com/drduh/macOS-Security-and-Privacy-Guide"
     },
     {
-      "rank": "4.",
-      "title": "Nasal vaccine against Covid-19 prevents infection in mice",
-      "link": "https://medicine.wustl.edu/news/nasal-vaccine-against-covid-19-prevents-infection-in-mice/"
-    },
-    {
-      "rank": "5.",
+      "rank": "3.",
       "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
       "link": "https://github.com/google/autocxx"
     },
     {
-      "rank": "6.",
+      "rank": "4.",
       "title": "Cloudflare Package Repository Mirrors",
       "link": "https://cloudflaremirrors.com/"
     },
     {
-      "rank": "7.",
+      "rank": "5.",
       "title": "Mystery of Interstellar Visitor 'Oumuamua Gets Trickier",
       "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
     },
     {
-      "rank": "8.",
+      "rank": "6.",
       "title": "Help Make the 19th Century Searchable",
       "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
-      "rank": "9.",
+      "rank": "7.",
+      "title": "Dropshipping: Hustlers making millions from goods they never handle",
+      "link": "https://www.bbc.com/news/technology-53759932"
+    },
+    {
+      "rank": "8.",
       "title": "A New Bootable USB Solution",
       "link": "https://www.ventoy.net/"
     },
     {
-      "rank": "10.",
-      "title": "The Atomic Tank?",
-      "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
+      "rank": "9.",
+      "title": "Nasal vaccine against Covid-19 prevents infection in mice",
+      "link": "https://medicine.wustl.edu/news/nasal-vaccine-against-covid-19-prevents-infection-in-mice/"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Moreutils – Unix tools that nobody thought to write (2012)",
       "link": "https://joeyh.name/code/moreutils/"
     },
     {
+      "rank": "11.",
+      "title": "The Atomic Tank? (2018)",
+      "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
+    },
+    {
       "rank": "12.",
-      "title": "Anti-Piracy Outfit Hires VPN Expert to Help Track Down the Pirate Bay",
-      "link": "https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/"
+      "title": "Systems and Constraints",
+      "link": "https://www.mercatus.org/bridge/commentary/systems-and-constraints"
     },
     {
       "rank": "13.",
-      "title": "Ask HN: What non-obvious tech/market may take off in the next few years?",
-      "link": "item?id=24243598"
+      "title": "Anti-Piracy Outfit Hires VPN Expert to Help Track Down the Pirate Bay",
+      "link": "https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/"
     },
     {
       "rank": "14.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "Systems and Constraints",
-      "link": "https://www.mercatus.org/bridge/commentary/systems-and-constraints"
-    },
-    {
-      "rank": "16.",
       "title": "Show HN: Phuslu/Log – Structured Logging for Humans",
       "link": "https://github.com/phuslu/log"
     },
     {
+      "rank": "16.",
+      "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
+      "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
+    },
+    {
       "rank": "17.",
-      "title": "AngelCAD v1.4",
-      "link": "https://github.com/arnholm/angelcad/releases/tag/v1.4-00"
+      "title": "On Ethics in Software with the Authors of “The Pragmatic Programmer”",
+      "link": "https://gotopia.tech/bookclub/episodes/pragmatic-programmer-in-2020"
     },
     {
       "rank": "18.",
-      "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
-      "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
+      "title": "AngelCAD v1.4",
+      "link": "https://github.com/arnholm/angelcad/releases/tag/v1.4-00"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
-      "title": "On Ethics in Software with the Authors of “The Pragmatic Programmer”",
-      "link": "https://gotopia.tech/bookclub/episodes/pragmatic-programmer-in-2020"
-    },
-    {
-      "rank": "21.",
       "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
       "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Telegram messaging app proves crucial to Belarus protests",
       "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Understanding Memory Fragmentation in Haskell",
       "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
     },
     {
-      "rank": "24.",
-      "title": "Show HN: A Twitter bot I made that posts real-time deforestation data",
-      "link": "https://twitter.com/ForestsWar"
-    },
-    {
-      "rank": "25.",
+      "rank": "23.",
       "title": "College Notebook by Isaac Newton",
       "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
-      "rank": "26.",
+      "rank": "24.",
       "title": "Ammonia as a fuel for compression ignition engines",
       "link": "https://www.ammoniaenergy.org/articles/review-of-ammonia-as-a-ci-fuel-published/"
     },
     {
-      "rank": "27.",
+      "rank": "25.",
       "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
       "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
     },
     {
-      "rank": "28.",
-      "title": "How the world’s largest garbage dump evolved into a green oasis",
-      "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
+      "rank": "26.",
+      "title": "Show HN: A Twitter bot I made that posts real-time deforestation data",
+      "link": "https://twitter.com/ForestsWar"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
       "title": "Efficiency is dangerous and slowing down makes life better",
       "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
     },
     {
-      "rank": "30.",
+      "rank": "28.",
       "title": "Fast.ai releases new deep learning course",
       "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
+    },
+    {
+      "rank": "29.",
+      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
+      "link": "item?id=24237818"
+    },
+    {
+      "rank": "30.",
+      "title": "Over three billion people worldwide now play video games, study reports",
+      "link": "https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/"
     }
   ],
   "metadata": {
