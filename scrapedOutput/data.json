@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "OpenAI's GPT-3 language generator has no idea what it’s talking about",
-      "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
+      "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
+      "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
     },
     {
       "rank": "10.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
-      "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
+      "title": "OpenAI's GPT-3 language generator has no idea what it’s talking about",
+      "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
     },
     {
       "rank": "12.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "Bletchley Park Trust to undergo organisational restructure",
-      "link": "https://bletchleypark.org.uk/news/bletchley-park-trust-to-undergo-organisational-restructure"
+      "title": "Help Make the 19th Century Searchable",
+      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
       "rank": "14.",
-      "title": "Help Make the 19th Century Searchable",
-      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
+      "title": "Bletchley Park Trust to undergo organisational restructure",
+      "link": "https://bletchleypark.org.uk/news/bletchley-park-trust-to-undergo-organisational-restructure"
     },
     {
       "rank": "15.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
-      "title": "Show HN: 1-1 virtual coffees with top tech talent sourced from Twitter",
-      "link": "https://www.getcuppa.io/"
-    },
-    {
-      "rank": "22.",
       "title": "AngelCAD v1.4",
       "link": "https://github.com/arnholm/angelcad/releases/tag/v1.4-00"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Dropshipping: Hustlers making millions from goods they never handle",
       "link": "https://www.bbc.com/news/technology-53759932"
+    },
+    {
+      "rank": "23.",
+      "title": "Show HN: 1-1 virtual coffees with top tech talent sourced from Twitter",
+      "link": "https://www.getcuppa.io/"
     },
     {
       "rank": "24.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "College Notebook by Isaac Newton",
-      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
+      "title": "Children’s role in spread of virus bigger than thought",
+      "link": "https://www.news.harvard.edu/gazette/story/2020/08/looking-at-children-as-the-silent-spreaders-of-sars-cov-2/"
     },
     {
       "rank": "26.",
-      "title": "Children’s role in spread of virus bigger than thought",
-      "link": "https://www.news.harvard.edu/gazette/story/2020/08/looking-at-children-as-the-silent-spreaders-of-sars-cov-2/"
+      "title": "College Notebook by Isaac Newton",
+      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
       "rank": "27.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Nasal vaccine against Covid-19 prevents infection in mice",
-      "link": "https://medicine.wustl.edu/news/nasal-vaccine-against-covid-19-prevents-infection-in-mice/"
+      "title": "Telegram messaging app proves crucial to Belarus protests",
+      "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
       "rank": "30.",
-      "title": "Telegram messaging app proves crucial to Belarus protests",
-      "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
+      "title": "Nasal vaccine against Covid-19 prevents infection in mice",
+      "link": "https://medicine.wustl.edu/news/nasal-vaccine-against-covid-19-prevents-infection-in-mice/"
     }
   ],
   "metadata": {
