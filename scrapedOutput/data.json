@@ -2,53 +2,53 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Blockchain, the Solution for Almost Nothing",
-      "link": "https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/84495599980-95473476"
-    },
-    {
-      "rank": "2.",
-      "title": "DotNet Core Benchmarks Consistently Beat JVM",
-      "link": "https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/csharp.html"
-    },
-    {
-      "rank": "3.",
       "title": "Telegram messaging app proves crucial to Belarus protests",
       "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
-      "rank": "4.",
+      "rank": "2.",
       "title": "Fast.ai releases new deep learning course",
       "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
     },
     {
-      "rank": "5.",
+      "rank": "3.",
       "title": "Efficiency is dangerous and slowing down makes life better",
       "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
     },
     {
-      "rank": "6.",
+      "rank": "4.",
       "title": "Over three billion people worldwide now play video games, study reports",
       "link": "https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/"
     },
     {
-      "rank": "7.",
+      "rank": "5.",
       "title": "WordPressiOS Locked by App Store",
       "link": "https://twitter.com/photomatt/status/1296879217297113088"
     },
     {
-      "rank": "8.",
+      "rank": "6.",
+      "title": "Turning the Raspberry Pi 4 into a Mini Server",
+      "link": "https://n-o-d-e.net/node_mini_server3.html"
+    },
+    {
+      "rank": "7.",
       "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
       "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
       "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
     },
     {
+      "rank": "9.",
+      "title": "Understanding Memory Fragmentation in Haskell",
+      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
+    },
+    {
       "rank": "10.",
-      "title": "Activists find camera inside box on power pole near union organizer’s home",
-      "link": "https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/"
+      "title": "Ride through Wuppertal on ‘the flying train’ in clear footage from 1902",
+      "link": "https://www.thisiscolossal.com/2020/08/the-flying-train-moma/"
     },
     {
       "rank": "11.",
@@ -57,33 +57,33 @@
     },
     {
       "rank": "12.",
-      "title": "Understanding Memory Fragmentation in Haskell",
-      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
-    },
-    {
-      "rank": "13.",
-      "title": "Ride through Wuppertal on ‘the flying train’ in clear footage from 1902",
-      "link": "https://www.thisiscolossal.com/2020/08/the-flying-train-moma/"
-    },
-    {
-      "rank": "14.",
       "title": "An Update on MDN Web Docs",
       "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
     },
     {
-      "rank": "15.",
-      "title": "New Particle Collision Math May Offer Quantum Clues",
-      "link": "https://www.quantamagazine.org/new-particle-collision-math-may-offer-quantum-clues-20200820/"
+      "rank": "13.",
+      "title": "Marvell Details ThunderX3 CPUs",
+      "link": "https://www.anandtech.com/print/15995/hot-chips-2020-marvell-details-thunderx3"
     },
     {
-      "rank": "16.",
+      "rank": "14.",
       "title": "TikTok to challenge U.S. order banning transactions with the video app",
       "link": "https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG"
     },
     {
-      "rank": "17.",
+      "rank": "15.",
       "title": "Volunteers spot almost 100 cold brown dwarfs near our sun",
       "link": "https://www.space.com/citizen-scientists-discover-95-brown-dwarfs.html"
+    },
+    {
+      "rank": "16.",
+      "title": "New Particle Collision Math May Offer Quantum Clues",
+      "link": "https://www.quantamagazine.org/new-particle-collision-math-may-offer-quantum-clues-20200820/"
+    },
+    {
+      "rank": "17.",
+      "title": "Matrix – An open network for secure, decentralized communication",
+      "link": "https://matrix.org/"
     },
     {
       "rank": "18.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
-      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
-      "link": "item?id=24237818"
+      "title": "Blockchain, the Solution for Almost Nothing",
+      "link": "https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/84495599980-95473476"
     },
     {
       "rank": "22.",
-      "title": "Matrix – An open network for secure, decentralized communication",
-      "link": "https://matrix.org/"
+      "title": "Activists find camera inside box on power pole near union organizer’s home",
+      "link": "https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/"
     },
     {
       "rank": "23.",
-      "title": "Turning the Raspberry Pi 4 into a Mini Server",
-      "link": "https://n-o-d-e.net/node_mini_server3.html"
+      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
+      "link": "item?id=24237818"
     },
     {
       "rank": "24.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Flexport Is Still Hiring",
-      "link": "https://www.flexport.com/careers"
-    },
-    {
-      "rank": "29.",
       "title": "No Hello (2013)",
       "link": "https://www.nohello.com/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Implementing Traceroute in Go – Blog",
       "link": "https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/"
+    },
+    {
+      "rank": "30.",
+      "title": "Flexport Is Still Hiring",
+      "link": "https://www.flexport.com/careers"
     }
   ],
   "metadata": {
