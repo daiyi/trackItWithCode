@@ -32,83 +32,83 @@
     },
     {
       "rank": "7.",
-      "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
-      "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
-    },
-    {
-      "rank": "8.",
-      "title": "Stef's Free Online Smalltalk Books",
-      "link": "http://stephane.ducasse.free.fr/FreeBooks.html"
-    },
-    {
-      "rank": "9.",
-      "title": "Uber and Lyft competitors ready if service is suspended in California",
-      "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
-    },
-    {
-      "rank": "10.",
-      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
-      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
-    },
-    {
-      "rank": "11.",
-      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
-      "link": "https://github.com/google/autocxx"
-    },
-    {
-      "rank": "12.",
-      "title": "GPT-3 has no idea what it’s talking about",
-      "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
-    },
-    {
-      "rank": "13.",
-      "title": "Braess' Paradox and the Price of Anarchy (2019)",
-      "link": "http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html"
-    },
-    {
-      "rank": "14.",
-      "title": "College Notebook of Isaac Newton",
-      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
-    },
-    {
-      "rank": "15.",
-      "title": "AngelCAD: Script-based 3D solid modeller",
-      "link": "https://arnholm.github.io/angelcad-docs/"
-    },
-    {
-      "rank": "16.",
-      "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
-      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
-    },
-    {
-      "rank": "17.",
-      "title": "The Student-Blaming Has Begun",
-      "link": "https://www.chronicle.com/article/the-student-blaming-has-begun"
-    },
-    {
-      "rank": "18.",
       "title": "Partying like it’s 1999 – Initial public offerings are back in Silicon Valley",
       "link": "https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley"
     },
     {
-      "rank": "19.",
+      "rank": "8.",
+      "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
+      "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
+    },
+    {
+      "rank": "9.",
+      "title": "Stef's Free Online Smalltalk Books",
+      "link": "http://stephane.ducasse.free.fr/FreeBooks.html"
+    },
+    {
+      "rank": "10.",
       "title": "How two British orthodontists became celebrities to incels",
       "link": "https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html"
     },
     {
-      "rank": "20.",
+      "rank": "11.",
+      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
+      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
+    },
+    {
+      "rank": "12.",
       "title": "Today is Earth Overshoot Day – (08/22)",
       "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
     },
     {
+      "rank": "13.",
+      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
+      "link": "https://github.com/google/autocxx"
+    },
+    {
+      "rank": "14.",
+      "title": "GPT-3 has no idea what it’s talking about",
+      "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
+    },
+    {
+      "rank": "15.",
+      "title": "College Notebook of Isaac Newton",
+      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
+    },
+    {
+      "rank": "16.",
+      "title": "AngelCAD: Script-based 3D solid modeller",
+      "link": "https://arnholm.github.io/angelcad-docs/"
+    },
+    {
+      "rank": "17.",
+      "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
+      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
+    },
+    {
+      "rank": "18.",
+      "title": "The Student-Blaming Has Begun",
+      "link": "https://www.chronicle.com/article/the-student-blaming-has-begun"
+    },
+    {
+      "rank": "19.",
+      "title": "Braess' Paradox and the Price of Anarchy (2019)",
+      "link": "http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html"
+    },
+    {
+      "rank": "20.",
+      "title": "Microsoft Flight Simulator maps entire globe with AI",
+      "link": "https://www.bbc.com/news/av/technology-53811956"
+    },
+    {
       "rank": "21.",
-      "title": "Help Make the 19th Century Searchable",
-      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
+      "title": "Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay"
     },
     {
       "rank": "22.",
-      "title": "Microsoft Flight Simulator maps entire globe with AI",
-      "link": "https://www.bbc.com/news/av/technology-53811956"
+      "title": "United Nuclear Scientific Equipment and Supplies",
+      "link": "https://unitednuclear.com/"
     },
     {
       "rank": "23.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "United Nuclear Scientific Equipment and Supplies",
-      "link": "https://unitednuclear.com/"
+      "title": "Bletchley Park Trust to undergo organisational restructure",
+      "link": "https://bletchleypark.org.uk/news/bletchley-park-trust-to-undergo-organisational-restructure"
     },
     {
       "rank": "25.",
-      "title": "Bletchley Park Trust to undergo organisational restructure",
-      "link": "https://bletchleypark.org.uk/news/bletchley-park-trust-to-undergo-organisational-restructure"
+      "title": "How NAT Traversal Works",
+      "link": "https://tailscale.com/blog/how-nat-traversal-works/"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Systems and Constraints",
-      "link": "https://www.mercatus.org/bridge/commentary/systems-and-constraints"
+      "title": "macOS Security and Privacy Guide",
+      "link": "https://github.com/drduh/macOS-Security-and-Privacy-Guide"
     },
     {
       "rank": "28.",
-      "title": "macOS Security and Privacy Guide",
-      "link": "https://github.com/drduh/macOS-Security-and-Privacy-Guide"
+      "title": "Systems and Constraints",
+      "link": "https://www.mercatus.org/bridge/commentary/systems-and-constraints"
     },
     {
       "rank": "29.",
