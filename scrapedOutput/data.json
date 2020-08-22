@@ -7,28 +7,28 @@
     },
     {
       "rank": "2.",
-      "title": "Code for The Economist's Election Model for 2020",
-      "link": "https://github.com/TheEconomist/us-potus-model"
-    },
-    {
-      "rank": "3.",
       "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
       "link": "https://github.com/google/autocxx"
     },
     {
-      "rank": "4.",
-      "title": "Moreutils – Unix tools that nobody thought to write (2012)",
-      "link": "https://joeyh.name/code/moreutils/"
-    },
-    {
-      "rank": "5.",
+      "rank": "3.",
       "title": "Help Make the 19th Century Searchable",
       "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
-      "rank": "6.",
+      "rank": "4.",
+      "title": "Code for The Economist's Election Model for 2020",
+      "link": "https://github.com/TheEconomist/us-potus-model"
+    },
+    {
+      "rank": "5.",
       "title": "Over three billion people worldwide now play video games, study reports",
       "link": "https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/"
+    },
+    {
+      "rank": "6.",
+      "title": "Moreutils – Unix tools that nobody thought to write (2012)",
+      "link": "https://joeyh.name/code/moreutils/"
     },
     {
       "rank": "7.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "WordPressiOS Locked by App Store",
-      "link": "https://twitter.com/photomatt/status/1296879217297113088"
+      "title": "Matrix – An open network for secure, decentralized communication",
+      "link": "https://matrix.org/"
     },
     {
       "rank": "10.",
-      "title": "Matrix – An open network for secure, decentralized communication",
-      "link": "https://matrix.org/"
+      "title": "WordPressiOS Locked by App Store",
+      "link": "https://twitter.com/photomatt/status/1296879217297113088"
     },
     {
       "rank": "11.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
-      "title": "The Atomic Tank?",
-      "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
-    },
-    {
-      "rank": "13.",
       "title": "Understanding Memory Fragmentation in Haskell",
       "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
       "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
+    },
+    {
+      "rank": "14.",
+      "title": "The Atomic Tank?",
+      "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
     },
     {
       "rank": "15.",
@@ -82,28 +82,28 @@
     },
     {
       "rank": "17.",
-      "title": "College Notebook by Isaac Newton",
-      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
-    },
-    {
-      "rank": "18.",
       "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
       "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
     },
     {
-      "rank": "19.",
-      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
-      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
+      "rank": "18.",
+      "title": "College Notebook by Isaac Newton",
+      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "TikTok to challenge U.S. order banning transactions with the video app",
       "link": "https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
       "link": "item?id=24237818"
+    },
+    {
+      "rank": "21.",
+      "title": "How the world’s largest garbage dump evolved into a green oasis",
+      "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "How the world’s largest garbage dump evolved into a green oasis",
-      "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
+      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
+      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
     },
     {
       "rank": "24.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "Activists find camera inside box on power pole near union organizer’s home",
-      "link": "https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/"
+      "title": "What it means to be a developer is changing",
+      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
     },
     {
       "rank": "29.",
-      "title": "What it means to be a developer is changing",
-      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
+      "title": "Activists find camera inside box on power pole near union organizer’s home",
+      "link": "https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/"
     },
     {
       "rank": "30.",
