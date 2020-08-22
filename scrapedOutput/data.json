@@ -22,33 +22,33 @@
     },
     {
       "rank": "5.",
-      "title": "Rogue planets could outnumber the stars",
-      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
-    },
-    {
-      "rank": "6.",
       "title": "Microsoft Flight Simulator maps entire globe with AI",
       "link": "https://www.bbc.com/news/av/technology-53811956"
     },
     {
+      "rank": "6.",
+      "title": "Rogue planets could outnumber the stars",
+      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
+    },
+    {
       "rank": "7.",
+      "title": "Mozilla to put DeepSpeech project on hold",
+      "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
+    },
+    {
+      "rank": "8.",
       "title": "Uber and Lyft competitors ready if service is suspended in California",
       "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
       "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Stef's Free Online Smalltalk Books",
       "link": "http://stephane.ducasse.free.fr/FreeBooks.html"
-    },
-    {
-      "rank": "10.",
-      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
-      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
     },
     {
       "rank": "11.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
+      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
+      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
+    },
+    {
+      "rank": "13.",
       "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
       "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Braess' Paradox and the Price of Anarchy (2019)",
       "link": "http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html"
-    },
-    {
-      "rank": "14.",
-      "title": "Mozilla to put DeepSpeech project on hold",
-      "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
     },
     {
       "rank": "15.",
@@ -82,58 +82,58 @@
     },
     {
       "rank": "17.",
-      "title": "A New Bootable USB Solution",
-      "link": "https://www.ventoy.net/"
+      "title": "AngelCAD: Script-based 3D solid modeller",
+      "link": "https://arnholm.github.io/angelcad-docs/"
     },
     {
       "rank": "18.",
+      "title": "Ventoy: A new bootable USB solution",
+      "link": "https://www.ventoy.net/"
+    },
+    {
+      "rank": "19.",
       "title": "Help Make the 19th Century Searchable",
       "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
-      "rank": "19.",
-      "title": "Code for The Economist's Election Model for 2020",
+      "rank": "20.",
+      "title": "Code for The Economist's election model for 2020",
       "link": "https://github.com/TheEconomist/us-potus-model"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Bletchley Park Trust to undergo organisational restructure",
       "link": "https://bletchleypark.org.uk/news/bletchley-park-trust-to-undergo-organisational-restructure"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
+      "title": "The Student-Blaming Has Begun",
+      "link": "https://www.chronicle.com/article/the-student-blaming-has-begun"
+    },
+    {
+      "rank": "23.",
       "title": "United Nuclear Scientific Equipment and Supplies",
       "link": "https://unitednuclear.com/"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "Unity Joins the Blender Development Fund as a Patron Member",
       "link": "https://www.blender.org/press/unity-joins-the-blender-development-fund-as-a-patron-member/"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Turning the Raspberry Pi 4 into a Mini Server",
       "link": "https://n-o-d-e.net/node_mini_server3.html"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "Systems and Constraints",
       "link": "https://www.mercatus.org/bridge/commentary/systems-and-constraints"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "macOS Security and Privacy Guide",
       "link": "https://github.com/drduh/macOS-Security-and-Privacy-Guide"
-    },
-    {
-      "rank": "26.",
-      "title": "AngelCAD v1.4",
-      "link": "https://github.com/arnholm/angelcad/releases/tag/v1.4-00"
-    },
-    {
-      "rank": "27.",
-      "title": "Moreutils – Unix tools that nobody thought to write (2012)",
-      "link": "https://joeyh.name/code/moreutils/"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "The Atomic Tank? (2018)",
-      "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
+      "title": "Moreutils – Unix tools that nobody thought to write (2012)",
+      "link": "https://joeyh.name/code/moreutils/"
     },
     {
       "rank": "30.",
-      "title": "Finding Linux Compatible Printers",
-      "link": "https://haydenjames.io/finding-linux-compatible-printers/"
+      "title": "The Atomic Tank? (2018)",
+      "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
     }
   ],
   "metadata": {
