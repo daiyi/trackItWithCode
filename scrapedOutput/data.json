@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "moreutils – Unix tools that nobody thought to write",
+      "title": "Moreutils – Unix tools that nobody thought to write (2012)",
       "link": "https://joeyh.name/code/moreutils/"
     },
     {
       "rank": "2.",
-      "title": "Fast.ai releases new deep learning course",
-      "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
+      "title": "Efficiency is dangerous and slowing down makes life better",
+      "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
     },
     {
       "rank": "3.",
-      "title": "Efficiency is dangerous and slowing down makes life better",
-      "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
+      "title": "Fast.ai releases new deep learning course",
+      "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
     },
     {
       "rank": "4.",
@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
-      "title": "Marvell Details ThunderX3 CPUs",
-      "link": "https://www.anandtech.com/print/15995/hot-chips-2020-marvell-details-thunderx3"
-    },
-    {
-      "rank": "7.",
       "title": "WordPressiOS Locked by App Store",
       "link": "https://twitter.com/photomatt/status/1296879217297113088"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Understanding Memory Fragmentation in Haskell",
       "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
+    },
+    {
+      "rank": "8.",
+      "title": "Help Make the 19th Century Searchable",
+      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
       "rank": "9.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
-      "title": "Can You Help Us Make the 19th Century Searchable?",
-      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
-    },
-    {
-      "rank": "11.",
       "title": "Matrix – An open network for secure, decentralized communication",
       "link": "https://matrix.org/"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
       "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
+    },
+    {
+      "rank": "12.",
+      "title": "An Update on MDN Web Docs",
+      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
     },
     {
       "rank": "13.",
@@ -67,63 +67,63 @@
     },
     {
       "rank": "14.",
-      "title": "Turning the Raspberry Pi 4 into a Mini Server",
-      "link": "https://n-o-d-e.net/node_mini_server3.html"
-    },
-    {
-      "rank": "15.",
       "title": "F (2006)",
       "link": "http://www.nsl.com/k/f/f.htm"
     },
     {
-      "rank": "16.",
-      "title": "An Update on MDN Web Docs",
-      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
-    },
-    {
-      "rank": "17.",
-      "title": "How anti-trust laws are used to stop independent contractors from organizing",
-      "link": "https://docs.house.gov/meetings/JU/JU05/20191029/110152/HHRG-116-JU05-Wstate-PaulS-20191029-SD002.pdf"
-    },
-    {
-      "rank": "18.",
+      "rank": "15.",
       "title": "TikTok to challenge U.S. order banning transactions with the video app",
       "link": "https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG"
     },
     {
-      "rank": "19.",
+      "rank": "16.",
       "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
       "link": "item?id=24237818"
     },
     {
-      "rank": "20.",
-      "title": "How Josh Kaufman Does Research",
-      "link": "https://superorganizers.substack.com/p/how-josh-kaufman-does-research"
+      "rank": "17.",
+      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
+      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
     },
     {
-      "rank": "21.",
+      "rank": "18.",
       "title": "Trust Models",
       "link": "https://vitalik.ca/general/2020/08/20/trust.html"
     },
     {
-      "rank": "22.",
+      "rank": "19.",
       "title": "How the world’s largest garbage dump evolved into a green oasis",
       "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
     },
     {
-      "rank": "23.",
+      "rank": "20.",
+      "title": "Turning the Raspberry Pi 4 into a Mini Server",
+      "link": "https://n-o-d-e.net/node_mini_server3.html"
+    },
+    {
+      "rank": "21.",
       "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
       "link": "https://github.com/samsonmking/epaper.js"
     },
     {
-      "rank": "24.",
+      "rank": "22.",
       "title": "New Particle Collision Math May Offer Quantum Clues",
       "link": "https://www.quantamagazine.org/new-particle-collision-math-may-offer-quantum-clues-20200820/"
     },
     {
-      "rank": "25.",
+      "rank": "23.",
       "title": "Corsair Gaming S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm"
+    },
+    {
+      "rank": "24.",
+      "title": "What it means to be a developer is changing",
+      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
+    },
+    {
+      "rank": "25.",
+      "title": "A New Bootable USB Solution",
+      "link": "https://www.ventoy.net/"
     },
     {
       "rank": "26.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "What it means to be a developer is changing",
-      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
+      "title": "Marvell Details ThunderX3 CPUs",
+      "link": "https://www.anandtech.com/print/15995/hot-chips-2020-marvell-details-thunderx3"
     },
     {
       "rank": "29.",
-      "title": "Blockchain, the Solution for Almost Nothing",
-      "link": "https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/84495599980-95473476"
+      "title": "Pedot can make our bodies play nice with implanted electronics",
+      "link": "https://www.freethink.com/articles/cyborgs"
     },
     {
       "rank": "30.",
-      "title": "Pedot can make our bodies play nice with implanted electronics",
-      "link": "https://www.freethink.com/articles/cyborgs"
+      "title": "AI slays top F-16 pilot in DARPA dogfight simulation",
+      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     }
   ],
   "metadata": {
