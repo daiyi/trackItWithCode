@@ -12,58 +12,58 @@
     },
     {
       "rank": "3.",
-      "title": "A Text-Based Desktop Environment",
-      "link": "https://vtm.netxs.online/"
-    },
-    {
-      "rank": "4.",
       "title": "Microsoft Flight Simulator Maps Entire Globe with AI",
       "link": "https://www.bbc.com/news/av/technology-53811956"
     },
     {
-      "rank": "5.",
-      "title": "Mystery of Interstellar Visitor 'Oumuamua Gets Trickier",
-      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
+      "rank": "4.",
+      "title": "A Text-Based Desktop Environment",
+      "link": "https://vtm.netxs.online/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Unity Joins the Blender Development Fund as a Patron Member",
       "link": "https://www.blender.org/press/unity-joins-the-blender-development-fund-as-a-patron-member/"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Tiny CLI to save AWS costs in development environments when you're sleep",
       "link": "https://www.npmjs.com/package/aws-cost-saver"
     },
     {
-      "rank": "8.",
-      "title": "Rogue planets could outnumber the stars",
-      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
+      "rank": "7.",
+      "title": "Mystery of Interstellar Visitor 'Oumuamua Gets Trickier",
+      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "macOS Security and Privacy Guide",
       "link": "https://github.com/drduh/macOS-Security-and-Privacy-Guide"
     },
     {
-      "rank": "10.",
-      "title": "A Bit about U-Boot, the Allwinner A64 SoC, and How to Update It on a Pine Phone",
-      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
+      "rank": "9.",
+      "title": "Rogue planets could outnumber the stars",
+      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
       "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
     },
     {
+      "rank": "11.",
+      "title": "A Bit about U-Boot, the Allwinner A64 SoC, and How to Update It on a Pine Phone",
+      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
+    },
+    {
       "rank": "12.",
-      "title": "Braess' Paradox and the Price of Anarchy (2019)",
-      "link": "http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html"
+      "title": "Stef's Free Online Smalltalk Books",
+      "link": "http://stephane.ducasse.free.fr/FreeBooks.html"
     },
     {
       "rank": "13.",
-      "title": "Stef's Free Online Smalltalk Books",
-      "link": "http://stephane.ducasse.free.fr/FreeBooks.html"
+      "title": "Braess' Paradox and the Price of Anarchy (2019)",
+      "link": "http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html"
     },
     {
       "rank": "14.",
@@ -77,18 +77,18 @@
     },
     {
       "rank": "16.",
+      "title": "Uber and Lyft competitors prepare to grab market share in California",
+      "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
+    },
+    {
+      "rank": "17.",
       "title": "A New Bootable USB Solution",
       "link": "https://www.ventoy.net/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Help Make the 19th Century Searchable",
       "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
-    },
-    {
-      "rank": "18.",
-      "title": "United Nuclear Scientific Equipment and Supplies",
-      "link": "https://unitednuclear.com/"
     },
     {
       "rank": "19.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "Today is Earth Overshoot Day – (08/22)",
-      "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
+      "title": "United Nuclear Scientific Equipment and Supplies",
+      "link": "https://unitednuclear.com/"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "AngelCAD v1.4",
-      "link": "https://github.com/arnholm/angelcad/releases/tag/v1.4-00"
+      "title": "Today is Earth Overshoot Day – (08/22)",
+      "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "AngelCAD v1.4",
+      "link": "https://github.com/arnholm/angelcad/releases/tag/v1.4-00"
+    },
+    {
+      "rank": "26.",
       "title": "Turning the Raspberry Pi 4 into a Mini Server",
       "link": "https://n-o-d-e.net/node_mini_server3.html"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "The Atomic Tank? (2018)",
       "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Moreutils – Unix tools that nobody thought to write (2012)",
       "link": "https://joeyh.name/code/moreutils/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "College Notebook by Isaac Newton",
       "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Finding Linux Compatible Printers",
       "link": "https://haydenjames.io/finding-linux-compatible-printers/"
-    },
-    {
-      "rank": "30.",
-      "title": "Show HN: Phuslu/Log – Structured Logging for Humans",
-      "link": "https://github.com/phuslu/log"
     }
   ],
   "metadata": {
