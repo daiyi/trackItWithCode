@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "WordPressiOS Locked by App Store",
-      "link": "https://twitter.com/photomatt/status/1296879217297113088"
+      "title": "Show HN: A Twitter bot I made that posts real-time deforestation data",
+      "link": "https://twitter.com/ForestsWar"
     },
     {
       "rank": "7.",
@@ -37,43 +37,43 @@
     },
     {
       "rank": "8.",
+      "title": "WordPressiOS Locked by App Store",
+      "link": "https://twitter.com/photomatt/status/1296879217297113088"
+    },
+    {
+      "rank": "9.",
       "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
       "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
     },
     {
-      "rank": "9.",
-      "title": "Show HN: A Twitter bot I made that posts real-time deforestation data",
-      "link": "https://twitter.com/ForestsWar"
-    },
-    {
       "rank": "10.",
-      "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
-      "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
-    },
-    {
-      "rank": "11.",
       "title": "Understanding Memory Fragmentation in Haskell",
       "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
     },
     {
+      "rank": "11.",
+      "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
+      "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
+    },
+    {
       "rank": "12.",
-      "title": "F (2006)",
-      "link": "http://www.nsl.com/k/f/f.htm"
-    },
-    {
-      "rank": "13.",
-      "title": "An Update on MDN Web Docs",
-      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
-    },
-    {
-      "rank": "14.",
       "title": "Matrix – An open network for secure, decentralized communication",
       "link": "https://matrix.org/"
     },
     {
-      "rank": "15.",
+      "rank": "13.",
+      "title": "F (2006)",
+      "link": "http://www.nsl.com/k/f/f.htm"
+    },
+    {
+      "rank": "14.",
       "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
       "link": "item?id=24237818"
+    },
+    {
+      "rank": "15.",
+      "title": "An Update on MDN Web Docs",
+      "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
     },
     {
       "rank": "16.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "Activists find camera inside box on power pole near union organizer’s home",
-      "link": "https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/"
-    },
-    {
-      "rank": "23.",
       "title": "Corsair Gaming S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm"
     },
     {
-      "rank": "24.",
-      "title": "Blockchain, the Solution for Almost Nothing",
-      "link": "https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/84495599980-95473476"
-    },
-    {
-      "rank": "25.",
+      "rank": "23.",
       "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
       "link": "https://github.com/samsonmking/epaper.js"
     },
     {
+      "rank": "24.",
+      "title": "Activists find camera inside box on power pole near union organizer’s home",
+      "link": "https://www.fox13memphis.com/news/local/activists-find-camera-inside-mysterious-box-power-pole-near-union-organizers-home/5WCLOAMMBRGYBEJDGH6C74ITBU/"
+    },
+    {
+      "rank": "25.",
+      "title": "Can You Help Us Make the 19th Century Searchable?",
+      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
+    },
+    {
       "rank": "26.",
-      "title": "Pedot can make our bodies play nice with implanted electronics",
-      "link": "https://www.freethink.com/articles/cyborgs"
+      "title": "Blockchain, the Solution for Almost Nothing",
+      "link": "https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/84495599980-95473476"
     },
     {
       "rank": "27.",
+      "title": "What it means to be a developer is changing",
+      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
+    },
+    {
+      "rank": "28.",
       "title": "The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)",
       "link": "http://www.drgeorgepc.com/Tsunami1958LituyaB.html"
     },
     {
-      "rank": "28.",
-      "title": "No Hello (2013)",
-      "link": "https://www.nohello.com/"
-    },
-    {
       "rank": "29.",
-      "title": "Myths About Failure",
-      "link": "https://greylock.com/reid-hoffman-myths-about-failure/"
+      "title": "Pedot can make our bodies play nice with implanted electronics",
+      "link": "https://www.freethink.com/articles/cyborgs"
     },
     {
       "rank": "30.",
-      "title": "Linux from Scratch",
-      "link": "http://www.linuxfromscratch.org/lfs/"
+      "title": "No Hello (2013)",
+      "link": "https://www.nohello.com/"
     }
   ],
   "metadata": {
