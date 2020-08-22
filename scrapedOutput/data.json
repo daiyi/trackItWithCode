@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
+      "title": "The cost of 1GB of mobile data in 228 countries (Feb 2020)",
+      "link": "https://www.cable.co.uk/mobiles/worldwide-data-pricing/"
+    },
+    {
+      "rank": "4.",
       "title": "Build tools around workflows, not workflows around tools",
       "link": "https://thesephist.com/posts/tools/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Partying like it’s 1999 – Initial public offerings are back in Silicon Valley",
       "link": "https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley"
-    },
-    {
-      "rank": "5.",
-      "title": "VTM: A Text-Based Desktop Environment",
-      "link": "https://vtm.netxs.online/"
     },
     {
       "rank": "6.",
@@ -32,118 +32,118 @@
     },
     {
       "rank": "7.",
-      "title": "Future of DeepSpeech / STT after recent changes at Mozilla",
-      "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
+      "title": "VTM: A Text-Based Desktop Environment",
+      "link": "https://vtm.netxs.online/"
     },
     {
       "rank": "8.",
-      "title": "Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay"
-    },
-    {
-      "rank": "9.",
       "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
       "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
     },
     {
+      "rank": "9.",
+      "title": "Future of DeepSpeech / STT after recent changes at Mozilla",
+      "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
+    },
+    {
       "rank": "10.",
+      "title": "Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay"
+    },
+    {
+      "rank": "11.",
       "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
       "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Uber and Lyft competitors ready if service is suspended in California",
       "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
     },
     {
-      "rank": "12.",
-      "title": "Today is Earth Overshoot Day – (08/22)",
-      "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
-    },
-    {
       "rank": "13.",
-      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
-      "link": "https://www.npmjs.com/package/aws-cost-saver"
-    },
-    {
-      "rank": "14.",
       "title": "Two Way Mirror Improves Video Conferencing",
       "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
     },
     {
+      "rank": "14.",
+      "title": "Today is Earth Overshoot Day – (08/22)",
+      "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
+    },
+    {
       "rank": "15.",
+      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
+      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
+    },
+    {
+      "rank": "16.",
       "title": "Rogue planets could outnumber the stars",
       "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Stef's Free Online Smalltalk Books",
       "link": "http://stephane.ducasse.free.fr/FreeBooks.html"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
       "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
+      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
+      "link": "https://www.npmjs.com/package/aws-cost-saver"
+    },
+    {
+      "rank": "20.",
       "title": "Backbone Cabal",
       "link": "https://en.wikipedia.org/wiki/Backbone_cabal"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
       "link": "https://github.com/google/autocxx"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
       "title": "College Notebook of Isaac Newton",
       "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
-      "rank": "21.",
-      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
-      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
-    },
-    {
-      "rank": "22.",
+      "rank": "23.",
       "title": "AngelCAD: Script-based 3D solid modeller",
       "link": "https://arnholm.github.io/angelcad-docs/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
+      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
+      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
+    },
+    {
+      "rank": "25.",
       "title": "GPT-3 has no idea what it’s talking about",
       "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "Braess' Paradox and the Price of Anarchy (2019)",
       "link": "http://cadlag.org/posts/braess-paradox-and-the-price-of-anarchy.html"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Bletchley Park Trust to undergo organisational restructure",
       "link": "https://bletchleypark.org.uk/news/bletchley-park-trust-to-undergo-organisational-restructure"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "United Nuclear Scientific Equipment and Supplies",
       "link": "https://unitednuclear.com/"
     },
     {
-      "rank": "27.",
-      "title": "How two British orthodontists became celebrities to incels",
-      "link": "https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html"
-    },
-    {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Unity Joins the Blender Development Fund as a Patron Member",
       "link": "https://www.blender.org/press/unity-joins-the-blender-development-fund-as-a-patron-member/"
-    },
-    {
-      "rank": "29.",
-      "title": "macOS Security and Privacy Guide",
-      "link": "https://github.com/drduh/macOS-Security-and-Privacy-Guide"
     },
     {
       "rank": "30.",
