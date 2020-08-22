@@ -32,43 +32,43 @@
     },
     {
       "rank": "7.",
-      "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
-      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
-    },
-    {
-      "rank": "8.",
       "title": "Uber and Lyft competitors ready if service is suspended in California",
       "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
     },
     {
+      "rank": "8.",
+      "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
+      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
+    },
+    {
       "rank": "9.",
-      "title": "How two British orthodontists became celebrities to incels",
-      "link": "https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html"
+      "title": "Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay"
     },
     {
       "rank": "10.",
+      "title": "Zero G: Some German mobile users still waiting for a signal",
+      "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
+    },
+    {
+      "rank": "11.",
       "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
       "link": "https://www.npmjs.com/package/aws-cost-saver"
     },
     {
-      "rank": "11.",
-      "title": "Rogue planets could outnumber the stars",
-      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
+      "rank": "12.",
+      "title": "How two British orthodontists became celebrities to incels",
+      "link": "https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Today is Earth Overshoot Day – (08/22)",
       "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
     },
     {
-      "rank": "13.",
-      "title": "Stef's Free Online Smalltalk Books",
-      "link": "http://stephane.ducasse.free.fr/FreeBooks.html"
-    },
-    {
       "rank": "14.",
-      "title": "Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay"
+      "title": "Rogue planets could outnumber the stars",
+      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
     },
     {
       "rank": "15.",
@@ -77,38 +77,38 @@
     },
     {
       "rank": "16.",
-      "title": "Zero G: Some German mobile users still waiting for a signal",
-      "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
+      "title": "Stef's Free Online Smalltalk Books",
+      "link": "http://stephane.ducasse.free.fr/FreeBooks.html"
     },
     {
       "rank": "17.",
+      "title": "Backbone Cabal",
+      "link": "https://en.wikipedia.org/wiki/Backbone_cabal"
+    },
+    {
+      "rank": "18.",
       "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
       "link": "https://github.com/google/autocxx"
     },
     {
-      "rank": "18.",
-      "title": "Microsoft Flight Simulator maps entire globe with AI",
-      "link": "https://www.bbc.com/news/av/technology-53811956"
+      "rank": "19.",
+      "title": "College Notebook of Isaac Newton",
+      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "GPT-3 has no idea what it’s talking about",
       "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
     },
     {
-      "rank": "20.",
-      "title": "The Student-Blaming Has Begun",
-      "link": "https://www.chronicle.com/article/the-student-blaming-has-begun"
-    },
-    {
       "rank": "21.",
-      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
-      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
+      "title": "AngelCAD: Script-based 3D solid modeller",
+      "link": "https://arnholm.github.io/angelcad-docs/"
     },
     {
       "rank": "22.",
-      "title": "AngelCAD: Script-based 3D solid modeller",
-      "link": "https://arnholm.github.io/angelcad-docs/"
+      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
+      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
     },
     {
       "rank": "23.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
-      "title": "United Nuclear Scientific Equipment and Supplies",
-      "link": "https://unitednuclear.com/"
-    },
-    {
-      "rank": "25.",
       "title": "How NAT Traversal Works",
       "link": "https://tailscale.com/blog/how-nat-traversal-works/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Code for The Economist's election model for 2020",
       "link": "https://github.com/TheEconomist/us-potus-model"
+    },
+    {
+      "rank": "26.",
+      "title": "United Nuclear Scientific Equipment and Supplies",
+      "link": "https://unitednuclear.com/"
     },
     {
       "rank": "27.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "Unity Joins the Blender Development Fund as a Patron Member",
-      "link": "https://www.blender.org/press/unity-joins-the-blender-development-fund-as-a-patron-member/"
+      "title": "Microsoft Flight Simulator maps entire globe with AI",
+      "link": "https://www.bbc.com/news/av/technology-53811956"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "macOS Security and Privacy Guide",
-      "link": "https://github.com/drduh/macOS-Security-and-Privacy-Guide"
+      "title": "Unity Joins the Blender Development Fund as a Patron Member",
+      "link": "https://www.blender.org/press/unity-joins-the-blender-development-fund-as-a-patron-member/"
     }
   ],
   "metadata": {
