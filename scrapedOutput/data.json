@@ -12,58 +12,58 @@
     },
     {
       "rank": "3.",
-      "title": "macOS Security and Privacy Guide",
-      "link": "https://github.com/drduh/macOS-Security-and-Privacy-Guide"
-    },
-    {
-      "rank": "4.",
       "title": "Mystery of Interstellar Visitor 'Oumuamua Gets Trickier",
       "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
     },
     {
+      "rank": "4.",
+      "title": "macOS Security and Privacy Guide",
+      "link": "https://github.com/drduh/macOS-Security-and-Privacy-Guide"
+    },
+    {
       "rank": "5.",
+      "title": "OpenAI's GPT-3 language generator has no idea what it’s talking about",
+      "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
+    },
+    {
+      "rank": "6.",
       "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
       "link": "https://github.com/google/autocxx"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Cloudflare Package Repository Mirrors",
       "link": "https://cloudflaremirrors.com/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "A New Bootable USB Solution",
       "link": "https://www.ventoy.net/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Help Make the 19th Century Searchable",
       "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Dropshipping: Hustlers making millions from goods they never handle",
       "link": "https://www.bbc.com/news/technology-53759932"
     },
     {
-      "rank": "10.",
-      "title": "Moreutils – Unix tools that nobody thought to write (2012)",
-      "link": "https://joeyh.name/code/moreutils/"
+      "rank": "11.",
+      "title": "Systems and Constraints",
+      "link": "https://www.mercatus.org/bridge/commentary/systems-and-constraints"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "The Atomic Tank? (2018)",
       "link": "https://mydailykona.blogspot.com/2018/01/the-atomic-tank.html"
     },
     {
-      "rank": "12.",
-      "title": "Code for The Economist's Election Model for 2020",
-      "link": "https://github.com/TheEconomist/us-potus-model"
-    },
-    {
       "rank": "13.",
-      "title": "Systems and Constraints",
-      "link": "https://www.mercatus.org/bridge/commentary/systems-and-constraints"
+      "title": "Moreutils – Unix tools that nobody thought to write (2012)",
+      "link": "https://joeyh.name/code/moreutils/"
     },
     {
       "rank": "14.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "Anti-Piracy Outfit Hires VPN Expert to Help Track Down the Pirate Bay",
-      "link": "https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/"
+      "title": "Code for The Economist's Election Model for 2020",
+      "link": "https://github.com/TheEconomist/us-potus-model"
     },
     {
       "rank": "16.",
-      "title": "Show HN: Phuslu/Log – Structured Logging for Humans",
-      "link": "https://github.com/phuslu/log"
-    },
-    {
-      "rank": "17.",
       "title": "AngelCAD v1.4",
       "link": "https://github.com/arnholm/angelcad/releases/tag/v1.4-00"
     },
     {
+      "rank": "17.",
+      "title": "Anti-Piracy Outfit Hires VPN Expert to Help Track Down the Pirate Bay",
+      "link": "https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/"
+    },
+    {
       "rank": "18.",
-      "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
-      "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
+      "title": "Show HN: Phuslu/Log – Structured Logging for Humans",
+      "link": "https://github.com/phuslu/log"
     },
     {
       "rank": "19.",
@@ -97,28 +97,28 @@
     },
     {
       "rank": "20.",
-      "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
-      "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
+      "title": "WireGuard support in Mikrotik RouterOS v7.1beta2",
+      "link": "https://forum.mikrotik.com/viewtopic.php?f=1&t=165248"
     },
     {
       "rank": "21.",
-      "title": "College Notebook by Isaac Newton",
-      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
-    },
-    {
-      "rank": "22.",
       "title": "On Ethics in Software with the Authors of “The Pragmatic Programmer”",
       "link": "https://gotopia.tech/bookclub/episodes/pragmatic-programmer-in-2020"
     },
     {
+      "rank": "22.",
+      "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
+      "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
+    },
+    {
       "rank": "23.",
-      "title": "Telegram messaging app proves crucial to Belarus protests",
-      "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
+      "title": "College Notebook by Isaac Newton",
+      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
       "rank": "24.",
-      "title": "Understanding Memory Fragmentation in Haskell",
-      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
+      "title": "Telegram messaging app proves crucial to Belarus protests",
+      "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "Understanding Memory Fragmentation in Haskell",
+      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
+    },
+    {
+      "rank": "27.",
       "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
       "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Show HN: A Twitter bot I made that posts real-time deforestation data",
       "link": "https://twitter.com/ForestsWar"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Efficiency is dangerous and slowing down makes life better",
       "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Fast.ai releases new deep learning course, libraries, and book",
       "link": "https://www.fast.ai/2020/08/21/fastai2-launch/"
-    },
-    {
-      "rank": "30.",
-      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
-      "link": "item?id=24237818"
     }
   ],
   "metadata": {
