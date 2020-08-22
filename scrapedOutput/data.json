@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
-      "title": "Help Make the 19th Century Searchable",
-      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
-    },
-    {
-      "rank": "4.",
       "title": "Over three billion people worldwide now play video games, study reports",
       "link": "https://nintendosmash.com/over-three-billion-people-worldwide-now-play-video-games-study-reports/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Show HN: A Twitter bot I made that posts real-time deforestation data",
       "link": "https://twitter.com/ForestsWar"
+    },
+    {
+      "rank": "5.",
+      "title": "Help Make the 19th Century Searchable",
+      "link": "https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/"
     },
     {
       "rank": "6.",
@@ -42,48 +42,48 @@
     },
     {
       "rank": "9.",
-      "title": "Understanding Memory Fragmentation in Haskell",
-      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
-    },
-    {
-      "rank": "10.",
       "title": "A New Bootable USB Solution",
       "link": "https://www.ventoy.net/"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Bread, How Did They Make It? Part IV: Markets, Merchants and the Tax Man",
       "link": "https://acoup.blog/2020/08/21/collections-bread-how-did-they-make-it-part-iv-markets-and-non-farmers/"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "An Update on MDN Web Docs",
       "link": "https://hacks.mozilla.org/2020/08/an-update-on-mdn-web-docs/"
     },
     {
+      "rank": "12.",
+      "title": "Understanding Memory Fragmentation in Haskell",
+      "link": "https://www.well-typed.com/blog/2020/08/memory-fragmentation/"
+    },
+    {
       "rank": "13.",
+      "title": "Code for The Economist's Election Model for 2020",
+      "link": "https://github.com/TheEconomist/us-potus-model"
+    },
+    {
+      "rank": "14.",
       "title": "Telegram messaging app proves crucial to Belarus protests",
       "link": "https://www.latimes.com/world-nation/story/2020-08-21/telegram-messaging-app-crucial-belarus-protests"
     },
     {
-      "rank": "14.",
-      "title": "Unicode in, Zawgyi out: Modernity finally catches up in Myanmar's digital world",
-      "link": "https://www.japantimes.co.jp/news/2019/09/27/business/tech/unicode-in-zawgyi-out-myanmar/"
-    },
-    {
       "rank": "15.",
-      "title": "What it means to be a developer is changing",
-      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
-    },
-    {
-      "rank": "16.",
       "title": "Show HN: ePaper.js – Easily create an ePaper display using JavaScript and HTML",
       "link": "https://github.com/samsonmking/epaper.js"
     },
     {
+      "rank": "16.",
+      "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
+      "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
+    },
+    {
       "rank": "17.",
-      "title": "TikTok to challenge U.S. order banning transactions with the video app",
-      "link": "https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG"
+      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
+      "link": "item?id=24237818"
     },
     {
       "rank": "18.",
@@ -92,43 +92,43 @@
     },
     {
       "rank": "19.",
-      "title": "Launch HN: Plum Mail (YC S20) – Email alternative for group conversations",
-      "link": "item?id=24237818"
+      "title": "TikTok to challenge U.S. order banning transactions with the video app",
+      "link": "https://www.reuters.com/article/us-usa-tiktok-trump-exclusive/exclusive-tiktok-to-challenge-u-s-order-banning-transactions-with-the-video-app-idUSKBN25H2QG"
     },
     {
       "rank": "20.",
+      "title": "What it means to be a developer is changing",
+      "link": "https://vicki.substack.com/p/taking-the-shine-off-the-apple-and"
+    },
+    {
+      "rank": "21.",
       "title": "How the world’s largest garbage dump evolved into a green oasis",
       "link": "https://www.nytimes.com/2020/08/14/nyregion/freshkills-garbage-dump-nyc.html"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
+      "title": "Unicode in, Zawgyi out: Modernity finally catches up in Myanmar's digital world",
+      "link": "https://www.japantimes.co.jp/news/2019/09/27/business/tech/unicode-in-zawgyi-out-myanmar/"
+    },
+    {
+      "rank": "23.",
       "title": "Trust Models",
       "link": "https://vitalik.ca/general/2020/08/20/trust.html"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
+      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
+      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
+    },
+    {
+      "rank": "25.",
       "title": "Efficiency is dangerous and slowing down makes life better",
       "link": "https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better"
     },
     {
-      "rank": "23.",
-      "title": "Promised Land: Religious Ideology and Solarpunk Science Fiction",
-      "link": "http://thenewmodality.com/promised-land-religious-ideology-and-solarpunk-science-fiction/"
-    },
-    {
-      "rank": "24.",
+      "rank": "26.",
       "title": "Corsair Gaming S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1743759/000119312520227100/d507744ds1.htm"
-    },
-    {
-      "rank": "25.",
-      "title": "Code for The Economist's Election Model for 2020",
-      "link": "https://github.com/TheEconomist/us-potus-model"
-    },
-    {
-      "rank": "26.",
-      "title": "The Latest Project to Preserve Pompeii Reveals New Treasures",
-      "link": "https://www.wsj.com/articles/the-latest-project-to-preserve-pompeii-reveals-new-treasures-11597837940"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Show HN: Codemap – Codebase Visualizer for JavaScript, TypeScript, and Python",
-      "link": "https://codemap.app"
-    },
-    {
-      "rank": "29.",
       "title": "The Mega-Tsunami of July 9, 1958 in Lituya Bay, Alaska (1999)",
       "link": "http://www.drgeorgepc.com/Tsunami1958LituyaB.html"
     },
     {
+      "rank": "29.",
+      "title": "Show HN: Codemap – Codebase Visualizer for JavaScript, TypeScript, and Python",
+      "link": "https://codemap.app"
+    },
+    {
       "rank": "30.",
-      "title": "Turning the Raspberry Pi 4 into a Mini Server",
-      "link": "https://n-o-d-e.net/node_mini_server3.html"
+      "title": "AI slays top F-16 pilot in DARPA dogfight simulation",
+      "link": "https://breakingdefense.com/2020/08/ai-slays-top-f-16-pilot-in-darpa-dogfight-simulation/"
     }
   ],
   "metadata": {
