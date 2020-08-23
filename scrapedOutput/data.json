@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
+      "title": "Python Hash Tables: understanding dictionaries",
+      "link": "http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/"
+    },
+    {
+      "rank": "7.",
       "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
       "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "VTM: A Text-Based Desktop Environment",
       "link": "https://vtm.netxs.online/"
-    },
-    {
-      "rank": "8.",
-      "title": "Future of DeepSpeech / STT after recent changes at Mozilla",
-      "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
     },
     {
       "rank": "9.",
@@ -47,33 +47,33 @@
     },
     {
       "rank": "10.",
+      "title": "Future of DeepSpeech / STT after recent changes at Mozilla",
+      "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
+    },
+    {
+      "rank": "11.",
       "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
       "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
     },
     {
-      "rank": "11.",
-      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
-      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
+      "rank": "12.",
+      "title": "Partying like it’s 1999 – Initial public offerings are back in Silicon Valley",
+      "link": "https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Uber and Lyft competitors ready if service is suspended in California",
       "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
     },
     {
-      "rank": "13.",
-      "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
-      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
-    },
-    {
       "rank": "14.",
-      "title": "Zero G: Some German mobile users still waiting for a signal",
-      "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
+      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
+      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
     },
     {
       "rank": "15.",
-      "title": "Atmospheric Water Harvesting",
-      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
+      "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
+      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
     },
     {
       "rank": "16.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Partying like it’s 1999 – Initial public offerings are back in Silicon Valley",
-      "link": "https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley"
+      "title": "Atmospheric Water Harvesting",
+      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
     },
     {
       "rank": "19.",
-      "title": "Rogue planets could outnumber the stars",
-      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
+      "title": "Zero G: Some German mobile users still waiting for a signal",
+      "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
     },
     {
       "rank": "20.",
@@ -102,48 +102,48 @@
     },
     {
       "rank": "21.",
-      "title": "Backbone Cabal",
-      "link": "https://en.wikipedia.org/wiki/Backbone_cabal"
-    },
-    {
-      "rank": "22.",
       "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
       "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
     },
     {
-      "rank": "23.",
-      "title": "Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay"
-    },
-    {
-      "rank": "24.",
-      "title": "College Notebook of Isaac Newton",
-      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
-    },
-    {
-      "rank": "25.",
+      "rank": "22.",
       "title": "Searx instances",
       "link": "https://searx.space/"
     },
     {
-      "rank": "26.",
+      "rank": "23.",
+      "title": "College Notebook of Isaac Newton",
+      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
+    },
+    {
+      "rank": "24.",
+      "title": "Rogue planets could outnumber the stars",
+      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
+    },
+    {
+      "rank": "25.",
       "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
       "link": "https://www.npmjs.com/package/aws-cost-saver"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Founder Grants: Fund a startup without giving up equity",
       "link": "https://www.foundergrants.com/"
     },
     {
+      "rank": "27.",
+      "title": "Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]",
+      "link": "https://www.youtube.com/watch?v=iaSaWfw07Sw"
+    },
+    {
       "rank": "28.",
-      "title": "How two British orthodontists became celebrities to incels",
-      "link": "https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html"
+      "title": "Jeff Bezos convinced 22 investors to back his new company Amazon in 1994 (2018)",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/2143375/1994-he-convinced-22-family-and-friends-each-pay"
     },
     {
       "rank": "29.",
-      "title": "Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]",
-      "link": "https://www.youtube.com/watch?v=iaSaWfw07Sw"
+      "title": "How two British orthodontists became celebrities to incels",
+      "link": "https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html"
     },
     {
       "rank": "30.",
