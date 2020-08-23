@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
+      "title": "MGA Entertainment: The privately-owned toy company doing billions in revenue",
+      "link": "https://julieyoung.substack.com/p/insane-companies-no-one-talks-about"
+    },
+    {
+      "rank": "7.",
       "title": "Python Hash Tables: understanding dictionaries",
       "link": "http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
       "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
-    },
-    {
-      "rank": "8.",
-      "title": "MGA Entertainment: The privately-owned toy company doing billions in revenue",
-      "link": "https://julieyoung.substack.com/p/insane-companies-no-one-talks-about"
     },
     {
       "rank": "9.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "Partying like it’s 1999 – Initial public offerings are back in Silicon Valley",
-      "link": "https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley"
+      "title": "Uber and Lyft competitors ready if service is suspended in California",
+      "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
     },
     {
       "rank": "12.",
-      "title": "Uber and Lyft competitors ready if service is suspended in California",
-      "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
+      "title": "Partying like it’s 1999 – Initial public offerings are back in Silicon Valley",
+      "link": "https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley"
     },
     {
       "rank": "13.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
-      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
+      "title": "Two Way Mirror Improves Video Conferencing",
+      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
     },
     {
       "rank": "15.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "Two Way Mirror Improves Video Conferencing",
-      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
+      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
+      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Searx instances",
-      "link": "https://searx.space/"
+      "title": "Atmospheric Water Harvesting",
+      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
     },
     {
       "rank": "19.",
-      "title": "Atmospheric Water Harvesting",
-      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
+      "title": "Searx instances",
+      "link": "https://searx.space/"
     },
     {
       "rank": "20.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
-      "title": "Rogue planets could outnumber the stars",
-      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
-    },
-    {
-      "rank": "24.",
       "title": "Stef's Free Online Smalltalk Books",
       "link": "http://stephane.ducasse.free.fr/FreeBooks.html"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "VTM: A Text-Based Desktop Environment",
       "link": "https://vtm.netxs.online/"
+    },
+    {
+      "rank": "25.",
+      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
+      "link": "https://www.npmjs.com/package/aws-cost-saver"
     },
     {
       "rank": "26.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
-      "link": "https://www.npmjs.com/package/aws-cost-saver"
+      "title": "Rogue planets could outnumber the stars",
+      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Backbone Cabal",
-      "link": "https://en.wikipedia.org/wiki/Backbone_cabal"
+      "title": "GPT-3 has no idea what it’s talking about",
+      "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
     }
   ],
   "metadata": {
