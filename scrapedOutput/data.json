@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Persisting as a solo founder",
-      "link": "https://vishnu.tech/posts/persistence/"
+      "title": "Mark Zuckerberg Stoked Washington’s Fears About TikTok",
+      "link": "https://www.wsj.com/articles/facebook-ceo-mark-zuckerberg-stoked-washingtons-fears-about-tiktok-11598223133"
     },
     {
       "rank": "3.",
-      "title": "Mark Zuckerberg Stoked Washington’s Fears About TikTok",
-      "link": "https://www.wsj.com/articles/facebook-ceo-mark-zuckerberg-stoked-washingtons-fears-about-tiktok-11598223133"
+      "title": "Persisting as a solo founder",
+      "link": "https://vishnu.tech/posts/persistence/"
     },
     {
       "rank": "4.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
+      "title": "PHP Built-In Web Server",
+      "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
+    },
+    {
+      "rank": "9.",
       "title": "Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W",
       "link": "https://github.com/lukicdarkoo/rpi-wifi"
     },
     {
-      "rank": "9.",
-      "title": "The demise of the second-hand bookshop",
-      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
-    },
-    {
       "rank": "10.",
-      "title": "Never run ‘python’ in your downloads folder",
-      "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
+      "title": "Teletext Bad Apple",
+      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
     },
     {
       "rank": "11.",
@@ -57,48 +57,48 @@
     },
     {
       "rank": "12.",
+      "title": "The demise of the second-hand bookshop",
+      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
+    },
+    {
+      "rank": "13.",
+      "title": "Never run ‘python’ in your downloads folder",
+      "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
+    },
+    {
+      "rank": "14.",
       "title": "Implement an emulator for a fantasy CPU in JavaScript",
       "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
     },
     {
-      "rank": "13.",
-      "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
-      "link": "item?id=24252408"
-    },
-    {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Semi-transparent solar panels allow concurrent production of crops and power",
       "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
+      "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
+      "link": "item?id=24252408"
+    },
+    {
+      "rank": "17.",
       "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
       "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
     },
     {
-      "rank": "16.",
-      "title": "Teletext Bad Apple",
-      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
-    },
-    {
-      "rank": "17.",
+      "rank": "18.",
       "title": "How to Leave Work at Work",
       "link": "https://hbr.org/2020/02/how-to-leave-work-at-work"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
       "link": "https://github.com/nsfw-filter/nsfw-filter"
     },
     {
-      "rank": "19.",
-      "title": "PHP Built-In Web Server",
-      "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
-    },
-    {
       "rank": "20.",
-      "title": "Bliss: A language for systems programming (1971) [pdf]",
-      "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
+      "title": "YTS torrent tracker part of new anti-piracy scheme",
+      "link": "https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/"
     },
     {
       "rank": "21.",
@@ -107,18 +107,18 @@
     },
     {
       "rank": "22.",
-      "title": "YTS torrent tracker part of new anti-piracy scheme",
-      "link": "https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/"
+      "title": "Bliss: A language for systems programming (1971) [pdf]",
+      "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
     },
     {
       "rank": "23.",
-      "title": "Earth has lost 28 trillion tonnes of ice in less than 30 years",
-      "link": "https://www.theguardian.com/environment/2020/aug/23/earth-lost-28-trillion-tonnes-ice-30-years-global-warming"
+      "title": "Paragon submits 27k-line NTFS driver to Linux kernel",
+      "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
     },
     {
       "rank": "24.",
-      "title": "Paragon submits 27k-line NTFS driver to Linux kernel",
-      "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
+      "title": "Microsoft Statement in Support of Epic [pdf]",
+      "link": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/21810025/statement_support_microsoft.pdf"
     },
     {
       "rank": "25.",
@@ -127,23 +127,23 @@
     },
     {
       "rank": "26.",
+      "title": "Earth has lost 28 trillion tonnes of ice in less than 30 years",
+      "link": "https://www.theguardian.com/environment/2020/aug/23/earth-lost-28-trillion-tonnes-ice-30-years-global-warming"
+    },
+    {
+      "rank": "27.",
       "title": "Chromium devs want the browser to talk to devices, computers directly",
       "link": "https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/"
     },
     {
-      "rank": "27.",
-      "title": "Microsoft Statement in Support of Epic [pdf]",
-      "link": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/21810025/statement_support_microsoft.pdf"
-    },
-    {
       "rank": "28.",
-      "title": "The Disaster Poet",
-      "link": "https://www.laphamsquarterly.org/roundtable/disaster-poet"
+      "title": "Congratulations for reaching a million, Gordon Linoff",
+      "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
     },
     {
       "rank": "29.",
-      "title": "Congratulations for reaching a million, Gordon Linoff",
-      "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
+      "title": "The Disaster Poet",
+      "link": "https://www.laphamsquarterly.org/roundtable/disaster-poet"
     },
     {
       "rank": "30.",
