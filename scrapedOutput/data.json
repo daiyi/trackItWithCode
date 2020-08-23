@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W",
+      "link": "https://github.com/lukicdarkoo/rpi-wifi"
+    },
+    {
+      "rank": "2.",
       "title": "The cost of 1GB of mobile data in 228 countries (Feb 2020)",
       "link": "https://www.cable.co.uk/mobiles/worldwide-data-pricing/"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Show HN: Using Rust to write shell-script like tasks",
       "link": "https://github.com/rust-shell-script/rust_cmd_lib"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Rosatom releases previously classified documentary video of Tsar Bomba nuke test",
       "link": "https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test"
-    },
-    {
-      "rank": "4.",
-      "title": "Cory Doctorow on “Contact Tracing”",
-      "link": "https://threadreaderapp.com/thread/1296248163653660672.html"
     },
     {
       "rank": "5.",
@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War",
-      "link": "https://worldofspectrum.net/features/warajevo/Story.html"
+      "title": "The $8M Heist from the Carnegie Library",
+      "link": "https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/"
     },
     {
       "rank": "8.",
-      "title": "The $8M Heist from the Carnegie Library",
-      "link": "https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/"
+      "title": "Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War",
+      "link": "https://worldofspectrum.net/features/warajevo/Story.html"
     },
     {
       "rank": "9.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
+      "title": "Cory Doctorow on “Contact Tracing”",
+      "link": "https://threadreaderapp.com/thread/1296248163653660672.html"
+    },
+    {
+      "rank": "12.",
       "title": "Two Way Mirror Improves Video Conferencing",
       "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Apple takes Prepear logo trademark fight to Canada",
       "link": "https://appleinsider.com/articles/20/08/22/apple-takes-prepear-logo-trademark-fight-to-canada"
-    },
-    {
-      "rank": "13.",
-      "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
-      "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
-      "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
+      "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
+      "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Python Hash Tables: understanding dictionaries",
-      "link": "http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/"
+      "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
+      "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
     },
     {
       "rank": "18.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "Zero G: Some German mobile users still waiting for a signal",
-      "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
+      "title": "The French Army Is Building Renaissance-Style Fortresses in Africa",
+      "link": "https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa"
     },
     {
       "rank": "20.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "The French Army Is Building Renaissance-Style Fortresses in Africa",
-      "link": "https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa"
+      "title": "How Facebook quietly pressures its independent fact-checkers",
+      "link": "https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings"
     },
     {
       "rank": "22.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "How Facebook quietly pressures its independent fact-checkers",
-      "link": "https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings"
+      "title": "Python Hash Tables: understanding dictionaries",
+      "link": "http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/"
     },
     {
       "rank": "25.",
