@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "The $8M Heist from the Carnegie Library",
-      "link": "https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/"
+      "title": "Blockchain, the Solution for Almost Nothing",
+      "link": "https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86649455475-f933fe63"
     },
     {
       "rank": "7.",
-      "title": "Build tools around workflows, not workflows around tools",
-      "link": "https://thesephist.com/posts/tools/"
+      "title": "The $8M Heist from the Carnegie Library",
+      "link": "https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/"
     },
     {
       "rank": "8.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
-      "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
+      "title": "Two Way Mirror Improves Video Conferencing",
+      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
     },
     {
       "rank": "10.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "Two Way Mirror Improves Video Conferencing",
-      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
+      "title": "Scalable Bitmaps (2013)",
+      "link": "https://ericportis.com/posts/2013/scalables/"
     },
     {
       "rank": "12.",
@@ -67,78 +67,78 @@
     },
     {
       "rank": "14.",
+      "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
+      "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
+    },
+    {
+      "rank": "15.",
       "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
       "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Today is Earth Overshoot Day – (08/22)",
       "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Zero G: Some German mobile users still waiting for a signal",
       "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Ketamine that's injected during arrests draws new scrutiny",
       "link": "https://abcnews.go.com/Health/wireStory/ketamine-injected-arrests-draws-scrutiny-72542386?cid=clicksource_4380645_8_heads_posts_card_hed"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
+      "title": "Build tools around workflows, not workflows around tools",
+      "link": "https://thesephist.com/posts/tools/"
+    },
+    {
+      "rank": "20.",
       "title": "Python Hash Tables: understanding dictionaries",
       "link": "http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/"
     },
     {
-      "rank": "19.",
-      "title": "Searx instances",
-      "link": "https://searx.space/"
-    },
-    {
-      "rank": "20.",
+      "rank": "21.",
       "title": "College Notebook of Isaac Newton",
       "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
+      "title": "Searx instances",
+      "link": "https://searx.space/"
+    },
+    {
+      "rank": "23.",
       "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
       "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "Atmospheric Water Harvesting",
       "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Stef's Free Online Smalltalk Books",
       "link": "http://stephane.ducasse.free.fr/FreeBooks.html"
     },
     {
-      "rank": "24.",
-      "title": "Rogue planets could outnumber the stars",
-      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
-    },
-    {
-      "rank": "25.",
-      "title": "Scalable Bitmaps (2013)",
-      "link": "https://ericportis.com/posts/2013/scalables/"
-    },
-    {
       "rank": "26.",
-      "title": "Blockchain, the Solution for Almost Nothing",
-      "link": "https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86649455475-f933fe63"
-    },
-    {
-      "rank": "27.",
       "title": "VTM: A Text-Based Desktop Environment",
       "link": "https://vtm.netxs.online/"
     },
     {
+      "rank": "27.",
+      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
+      "link": "https://www.npmjs.com/package/aws-cost-saver"
+    },
+    {
       "rank": "28.",
-      "title": "Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]",
-      "link": "https://www.youtube.com/watch?v=iaSaWfw07Sw"
+      "title": "Chromium devs want the browser to talk to devices directly via TCP,UDP",
+      "link": "https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets?"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
-      "link": "https://www.npmjs.com/package/aws-cost-saver"
+      "title": "Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]",
+      "link": "https://www.youtube.com/watch?v=iaSaWfw07Sw"
     }
   ],
   "metadata": {
