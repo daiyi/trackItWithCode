@@ -17,28 +17,28 @@
     },
     {
       "rank": "4.",
-      "title": "Degoogle: Cutting Google out of your life",
-      "link": "https://degoogle.jmoore.dev/"
-    },
-    {
-      "rank": "5.",
       "title": "Ketamine that's injected during arrests draws new scrutiny",
       "link": "https://abcnews.go.com/Health/wireStory/ketamine-injected-arrests-draws-scrutiny-72542386?cid=clicksource_4380645_8_heads_posts_card_hed"
     },
     {
-      "rank": "6.",
-      "title": "American Express to Acquire Kabbage",
-      "link": "https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage"
+      "rank": "5.",
+      "title": "Degoogle: Cutting Google out of your life",
+      "link": "https://degoogle.jmoore.dev/"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "The cost of 1GB of mobile data in 228 countries (Feb 2020)",
       "link": "https://www.cable.co.uk/mobiles/worldwide-data-pricing/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War",
       "link": "https://worldofspectrum.net/features/warajevo/Story.html"
+    },
+    {
+      "rank": "8.",
+      "title": "American Express to Acquire Kabbage",
+      "link": "https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage"
     },
     {
       "rank": "9.",
@@ -52,48 +52,48 @@
     },
     {
       "rank": "11.",
+      "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
+      "link": "https://github.com/nsfw-filter/nsfw-filter"
+    },
+    {
+      "rank": "12.",
       "title": "The $8M Heist from the Carnegie Library",
       "link": "https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]",
       "link": "http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Apple takes Prepear logo trademark fight to Canada",
       "link": "https://appleinsider.com/articles/20/08/22/apple-takes-prepear-logo-trademark-fight-to-canada"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "The French Army Is Building Renaissance-Style Fortresses in Africa",
       "link": "https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Rosatom releases previously classified documentary video of Tsar Bomba nuke test",
       "link": "https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
       "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "College Notebook of Isaac Newton",
       "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Data from Chernobyl and Fukushima provide answers about the risks of nuclear",
       "link": "https://medium.com/generation-atomic/for-the-first-time-world-learns-truth-about-risk-of-nuclear-6b7e97d435df"
-    },
-    {
-      "rank": "19.",
-      "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
-      "link": "https://github.com/nsfw-filter/nsfw-filter"
     },
     {
       "rank": "20.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "Office Life at the Pentagon Is Disconcertingly Retrograde",
+      "link": "https://www.wired.com/story/opinion-office-life-at-the-pentagon-is-disconcertingly-retrograde/"
+    },
+    {
+      "rank": "25.",
       "title": "VTM: A Text-Based Desktop Environment",
       "link": "https://vtm.netxs.online/"
     },
     {
-      "rank": "25.",
-      "title": "AngelCAD: Script-based 3D solid modeller",
-      "link": "https://arnholm.github.io/angelcad-docs/"
-    },
-    {
       "rank": "26.",
-      "title": "Debian Janitor: 60k Lintian Issues Automatically Fixed",
-      "link": "https://www.jelmer.uk/janitor-update-3.html"
-    },
-    {
-      "rank": "27.",
-      "title": "On the problems with automated contact tracing",
-      "link": "https://twitter.com/doctorow/status/1296248163653660672"
-    },
-    {
-      "rank": "28.",
       "title": "How Facebook quietly pressures its independent fact-checkers",
       "link": "https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings"
     },
     {
+      "rank": "27.",
+      "title": "AngelCAD: Script-based 3D solid modeller",
+      "link": "https://arnholm.github.io/angelcad-docs/"
+    },
+    {
+      "rank": "28.",
+      "title": "Debian Janitor: 60k Lintian Issues Automatically Fixed",
+      "link": "https://www.jelmer.uk/janitor-update-3.html"
+    },
+    {
       "rank": "29.",
-      "title": "Atmospheric Water Harvesting",
-      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
+      "title": "On the problems with automated contact tracing",
+      "link": "https://twitter.com/doctorow/status/1296248163653660672"
     },
     {
       "rank": "30.",
-      "title": "Two Way Mirror Improves Video Conferencing",
-      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
+      "title": "Atmospheric Water Harvesting",
+      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
     }
   ],
   "metadata": {
