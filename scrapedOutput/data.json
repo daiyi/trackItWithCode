@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
-      "link": "https://github.com/nsfw-filter/nsfw-filter"
+      "title": "Build Your Own FPGA",
+      "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
     },
     {
       "rank": "6.",
@@ -32,28 +32,28 @@
     },
     {
       "rank": "7.",
-      "title": "Launch HN: Depict.ai (YC S20) - Product recommendations for any e-commerce store",
-      "link": "item?id=24252408"
+      "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
+      "link": "https://github.com/nsfw-filter/nsfw-filter"
     },
     {
       "rank": "8.",
-      "title": "Ketamine that's injected during arrests draws new scrutiny",
-      "link": "https://abcnews.go.com/Health/wireStory/ketamine-injected-arrests-draws-scrutiny-72542386?cid=clicksource_4380645_8_heads_posts_card_hed"
-    },
-    {
-      "rank": "9.",
-      "title": "Show HN: Using Rust to write shell-script like tasks",
-      "link": "https://github.com/rust-shell-script/rust_cmd_lib"
-    },
-    {
-      "rank": "10.",
       "title": "Songwhip – Share a music link to every platform",
       "link": "https://songwhip.com"
     },
     {
+      "rank": "9.",
+      "title": "Launch HN: Depict.ai (YC S20) - Product recommendations for any e-commerce store",
+      "link": "item?id=24252408"
+    },
+    {
+      "rank": "10.",
+      "title": "Solar Panels Are Starting to Die, Leaving Behind Toxic Trash",
+      "link": "https://www.wired.com/story/solar-panels-are-starting-to-die-leaving-behind-toxic-trash/#intcid=_wired-homepage-right-rail_4d17aa85-7a00-4b58-9d0b-817df0d99ef5_popular4-1"
+    },
+    {
       "rank": "11.",
-      "title": "Estimating unobserved SARS-CoV-2 infections in the United States",
-      "link": "https://www.pnas.org/content/early/2020/08/20/2005476117"
+      "title": "Ketamine that's injected during arrests draws new scrutiny",
+      "link": "https://abcnews.go.com/Health/wireStory/ketamine-injected-arrests-draws-scrutiny-72542386?cid=clicksource_4380645_8_heads_posts_card_hed"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
+      "title": "Show HN: Using Rust to write shell-script like tasks",
+      "link": "https://github.com/rust-shell-script/rust_cmd_lib"
+    },
+    {
+      "rank": "14.",
       "title": "How to Leave Work at Work",
       "link": "https://hbr.org/2020/02/how-to-leave-work-at-work"
     },
     {
-      "rank": "14.",
-      "title": "Build Your Own FPGA",
-      "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
-    },
-    {
       "rank": "15.",
-      "title": "US Border Patrol Says They Can Create Central Repository Of Traveler Emails",
-      "link": "https://viewfromthewing.com/us-border-patrol-says-they-can-create-central-repository-of-traveler-emails-keep-them-for-75-years/"
+      "title": "Estimating unobserved SARS-CoV-2 infections in the United States",
+      "link": "https://www.pnas.org/content/early/2020/08/20/2005476117"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "The cost of 1GB of mobile data in 228 countries (Feb 2020)",
-      "link": "https://www.cable.co.uk/mobiles/worldwide-data-pricing/"
+      "title": "Writing a simple Python to C compiler: hello, fibonacci",
+      "link": "https://notes.eatonphil.com/writing-a-simple-python-compiler.html"
     },
     {
       "rank": "18.",
-      "title": "Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon",
-      "link": "https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon"
+      "title": "Gordon Linoff reached a million points on StackOverflow",
+      "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
     },
     {
       "rank": "19.",
@@ -97,43 +97,43 @@
     },
     {
       "rank": "20.",
+      "title": "The cost of 1GB of mobile data in 228 countries (Feb 2020)",
+      "link": "https://www.cable.co.uk/mobiles/worldwide-data-pricing/"
+    },
+    {
+      "rank": "21.",
+      "title": "US Border Patrol Says They Can Create Central Repository Of Traveler Emails",
+      "link": "https://viewfromthewing.com/us-border-patrol-says-they-can-create-central-repository-of-traveler-emails-keep-them-for-75-years/"
+    },
+    {
+      "rank": "22.",
       "title": "American Express to Acquire Kabbage",
       "link": "https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage"
     },
     {
-      "rank": "21.",
-      "title": "YTS Torrent Tracker Part Of Brand New Anti-Piracy Scheme",
-      "link": "https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/"
-    },
-    {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Chromium devs want the browser to talk to devices, computers directly",
       "link": "https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
+      "title": "YTS Torrent Tracker Part Of Brand New Anti-Piracy Scheme",
+      "link": "https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/"
+    },
+    {
+      "rank": "25.",
       "title": "Ask HN: How to do cross platform GUI?",
       "link": "item?id=24242412"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "Data from Chernobyl and Fukushima provide answers about the risks of nuclear",
       "link": "https://medium.com/generation-atomic/for-the-first-time-world-learns-truth-about-risk-of-nuclear-6b7e97d435df"
     },
     {
-      "rank": "25.",
-      "title": "Writing a simple Python to C compiler: hello, fibonacci",
-      "link": "https://notes.eatonphil.com/writing-a-simple-python-compiler.html"
-    },
-    {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]",
       "link": "http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf"
-    },
-    {
-      "rank": "27.",
-      "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
-      "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Rosatom releases previously classified documentary video of Tsar Bomba nuke test",
-      "link": "https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test"
+      "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
+      "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
     },
     {
       "rank": "30.",
-      "title": "College Notebook of Isaac Newton",
-      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
+      "title": "Rosatom releases previously classified documentary video of Tsar Bomba nuke test",
+      "link": "https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test"
     }
   ],
   "metadata": {
