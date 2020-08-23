@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
-      "title": "Partying like it’s 1999 – Initial public offerings are back in Silicon Valley",
-      "link": "https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley"
-    },
-    {
-      "rank": "9.",
-      "title": "Zero G: Some German mobile users still waiting for a signal",
-      "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
-    },
-    {
-      "rank": "10.",
       "title": "Future of DeepSpeech / STT after recent changes at Mozilla",
       "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
     },
     {
-      "rank": "11.",
+      "rank": "9.",
       "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
       "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
+    },
+    {
+      "rank": "10.",
+      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
+      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
+    },
+    {
+      "rank": "11.",
+      "title": "Partying like it’s 1999 – Initial public offerings are back in Silicon Valley",
+      "link": "https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley"
     },
     {
       "rank": "12.",
@@ -62,23 +62,23 @@
     },
     {
       "rank": "13.",
-      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
-      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
-    },
-    {
-      "rank": "14.",
       "title": "Uber and Lyft competitors ready if service is suspended in California",
       "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
     },
     {
+      "rank": "14.",
+      "title": "Zero G: Some German mobile users still waiting for a signal",
+      "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
+    },
+    {
       "rank": "15.",
-      "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
-      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
+      "title": "Debian Janitor: 60k Lintian Issues Automatically Fixed",
+      "link": "https://www.jelmer.uk/janitor-update-3.html"
     },
     {
       "rank": "16.",
-      "title": "Today is Earth Overshoot Day – (08/22)",
-      "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
+      "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
+      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "Debian Janitor: 60k Lintian Issues Automatically Fixed",
-      "link": "https://www.jelmer.uk/janitor-update-3.html"
+      "title": "Today is Earth Overshoot Day – (08/22)",
+      "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
+      "title": "Atmospheric Water Harvesting",
+      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
+    },
+    {
+      "rank": "21.",
       "title": "Stef's Free Online Smalltalk Books",
       "link": "http://stephane.ducasse.free.fr/FreeBooks.html"
     },
     {
-      "rank": "21.",
-      "title": "Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]",
-      "link": "https://www.youtube.com/watch?v=iaSaWfw07Sw"
-    },
-    {
       "rank": "22.",
-      "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
-      "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
-    },
-    {
-      "rank": "23.",
       "title": "Backbone Cabal",
       "link": "https://en.wikipedia.org/wiki/Backbone_cabal"
     },
     {
+      "rank": "23.",
+      "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
+      "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
+    },
+    {
       "rank": "24.",
-      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
-      "link": "https://www.npmjs.com/package/aws-cost-saver"
-    },
-    {
-      "rank": "25.",
-      "title": "College Notebook of Isaac Newton",
-      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
-    },
-    {
-      "rank": "26.",
       "title": "Searx instances",
       "link": "https://searx.space/"
     },
     {
+      "rank": "25.",
+      "title": "Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]",
+      "link": "https://www.youtube.com/watch?v=iaSaWfw07Sw"
+    },
+    {
+      "rank": "26.",
+      "title": "College Notebook of Isaac Newton",
+      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
+    },
+    {
       "rank": "27.",
+      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
+      "link": "https://www.npmjs.com/package/aws-cost-saver"
+    },
+    {
+      "rank": "28.",
       "title": "How two British orthodontists became celebrities to incels",
       "link": "https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html"
     },
     {
-      "rank": "28.",
-      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
-      "link": "https://github.com/google/autocxx"
-    },
-    {
       "rank": "29.",
-      "title": "GPT-3 has no idea what it’s talking about",
-      "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
+      "title": "Founder Grants: Fund a startup without giving up equity",
+      "link": "https://www.foundergrants.com/"
     },
     {
       "rank": "30.",
-      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
-      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
+      "title": "GPT-3 has no idea what it’s talking about",
+      "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
     }
   ],
   "metadata": {
