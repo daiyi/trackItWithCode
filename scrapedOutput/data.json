@@ -17,43 +17,43 @@
     },
     {
       "rank": "4.",
-      "title": "Build tools around workflows, not workflows around tools",
-      "link": "https://thesephist.com/posts/tools/"
-    },
-    {
-      "rank": "5.",
-      "title": "VTM: A Text-Based Desktop Environment",
-      "link": "https://vtm.netxs.online/"
-    },
-    {
-      "rank": "6.",
-      "title": "Partying like it’s 1999 – Initial public offerings are back in Silicon Valley",
-      "link": "https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley"
-    },
-    {
-      "rank": "7.",
-      "title": "Zero G: Some German mobile users still waiting for a signal",
-      "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
-    },
-    {
-      "rank": "8.",
-      "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
-      "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
-    },
-    {
-      "rank": "9.",
-      "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
-      "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
-    },
-    {
-      "rank": "10.",
       "title": "The $8M Heist from the Carnegie Library",
       "link": "https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/"
     },
     {
-      "rank": "11.",
+      "rank": "5.",
+      "title": "Build tools around workflows, not workflows around tools",
+      "link": "https://thesephist.com/posts/tools/"
+    },
+    {
+      "rank": "6.",
+      "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
+      "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
+    },
+    {
+      "rank": "7.",
+      "title": "VTM: A Text-Based Desktop Environment",
+      "link": "https://vtm.netxs.online/"
+    },
+    {
+      "rank": "8.",
+      "title": "Partying like it’s 1999 – Initial public offerings are back in Silicon Valley",
+      "link": "https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley"
+    },
+    {
+      "rank": "9.",
+      "title": "Zero G: Some German mobile users still waiting for a signal",
+      "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
+    },
+    {
+      "rank": "10.",
       "title": "Future of DeepSpeech / STT after recent changes at Mozilla",
       "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
+    },
+    {
+      "rank": "11.",
+      "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
+      "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
     },
     {
       "rank": "12.",
@@ -62,28 +62,28 @@
     },
     {
       "rank": "13.",
-      "title": "Uber and Lyft competitors ready if service is suspended in California",
-      "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
-    },
-    {
-      "rank": "14.",
-      "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
-      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
-    },
-    {
-      "rank": "15.",
       "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
       "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
     },
     {
+      "rank": "14.",
+      "title": "Uber and Lyft competitors ready if service is suspended in California",
+      "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
+    },
+    {
+      "rank": "15.",
+      "title": "Mystery of interstellar visitor 'Oumuamua gets trickier",
+      "link": "https://www.scientificamerican.com/article/mystery-of-interstellar-visitor-oumuamua-gets-trickier/"
+    },
+    {
       "rank": "16.",
-      "title": "Two Way Mirror Improves Video Conferencing",
-      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
+      "title": "Today is Earth Overshoot Day – (08/22)",
+      "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
     },
     {
       "rank": "17.",
-      "title": "Today is Earth Overshoot Day – (08/22)",
-      "link": "https://www.overshootday.org/newsroom/past-earth-overshoot-days/"
+      "title": "Two Way Mirror Improves Video Conferencing",
+      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
     },
     {
       "rank": "18.",
@@ -102,53 +102,53 @@
     },
     {
       "rank": "21.",
-      "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
-      "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
-    },
-    {
-      "rank": "22.",
-      "title": "Backbone Cabal",
-      "link": "https://en.wikipedia.org/wiki/Backbone_cabal"
-    },
-    {
-      "rank": "23.",
-      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
-      "link": "https://www.npmjs.com/package/aws-cost-saver"
-    },
-    {
-      "rank": "24.",
-      "title": "College Notebook of Isaac Newton",
-      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
-    },
-    {
-      "rank": "25.",
-      "title": "How two British orthodontists became celebrities to incels",
-      "link": "https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html"
-    },
-    {
-      "rank": "26.",
       "title": "Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]",
       "link": "https://www.youtube.com/watch?v=iaSaWfw07Sw"
     },
     {
-      "rank": "27.",
-      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
-      "link": "https://github.com/google/autocxx"
+      "rank": "22.",
+      "title": "Pilo: Raspberry Pi-Powered Lights-Out Remote Server Management",
+      "link": "https://zach.bloomqu.ist/blog/2020/08/pilo-raspberry-pi-lights-out-management.html"
     },
     {
-      "rank": "28.",
+      "rank": "23.",
+      "title": "Backbone Cabal",
+      "link": "https://en.wikipedia.org/wiki/Backbone_cabal"
+    },
+    {
+      "rank": "24.",
+      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
+      "link": "https://www.npmjs.com/package/aws-cost-saver"
+    },
+    {
+      "rank": "25.",
+      "title": "College Notebook of Isaac Newton",
+      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
+    },
+    {
+      "rank": "26.",
       "title": "Searx instances",
       "link": "https://searx.space/"
     },
     {
+      "rank": "27.",
+      "title": "How two British orthodontists became celebrities to incels",
+      "link": "https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html"
+    },
+    {
+      "rank": "28.",
+      "title": "AutoCXX: Safely call C++ from Rust with auto generated bindings",
+      "link": "https://github.com/google/autocxx"
+    },
+    {
       "rank": "29.",
-      "title": "For the First Time, World Learns Truth About Risk of Nuclear",
-      "link": "https://medium.com/generation-atomic/for-the-first-time-world-learns-truth-about-risk-of-nuclear-6b7e97d435df"
+      "title": "GPT-3 has no idea what it’s talking about",
+      "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
     },
     {
       "rank": "30.",
-      "title": "GPT-3 has no idea what it’s talking about",
-      "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
+      "title": "How to update U-Boot for PostmarketOS on the Pine Phone",
+      "link": "https://bloggerbust.ca/post/how-to-update-uboot-for-postmarketos-on-the-pinephone/"
     }
   ],
   "metadata": {
