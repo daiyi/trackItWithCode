@@ -97,38 +97,38 @@
     },
     {
       "rank": "20.",
-      "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
-      "link": "https://github.com/nsfw-filter/nsfw-filter"
-    },
-    {
-      "rank": "21.",
       "title": "Ask HN: How to do cross platform GUI?",
       "link": "item?id=24242412"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Build tools around workflows, not workflows around tools",
       "link": "https://thesephist.com/posts/tools/"
     },
     {
-      "rank": "23.",
-      "title": "VTM: A Text-Based Desktop Environment",
-      "link": "https://vtm.netxs.online/"
+      "rank": "22.",
+      "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
+      "link": "https://github.com/nsfw-filter/nsfw-filter"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "How Facebook quietly pressures its independent fact-checkers",
       "link": "https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings"
     },
     {
+      "rank": "24.",
+      "title": "VTM: A Text-Based Desktop Environment",
+      "link": "https://vtm.netxs.online/"
+    },
+    {
       "rank": "25.",
-      "title": "Python Hash Tables: understanding dictionaries",
-      "link": "http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/"
+      "title": "Atmospheric Water Harvesting",
+      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
     },
     {
       "rank": "26.",
-      "title": "Atmospheric Water Harvesting",
-      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
+      "title": "Python Hash Tables: understanding dictionaries",
+      "link": "http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/"
     },
     {
       "rank": "27.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "On the problems with automated contact tracing",
-      "link": "https://twitter.com/doctorow/status/1296248163653660672"
+      "title": "Never Run ‘Python’ in Your Downloads Folder",
+      "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
     },
     {
       "rank": "30.",
-      "title": "Two Way Mirror Improves Video Conferencing",
-      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
+      "title": "On the problems with automated contact tracing",
+      "link": "https://twitter.com/doctorow/status/1296248163653660672"
     }
   ],
   "metadata": {
