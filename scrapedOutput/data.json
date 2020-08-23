@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon",
-      "link": "https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon"
+      "title": "The $8M Heist from the Carnegie Library",
+      "link": "https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/"
     },
     {
       "rank": "6.",
-      "title": "The $8M Heist from the Carnegie Library",
-      "link": "https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/"
+      "title": "Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon",
+      "link": "https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon"
     },
     {
       "rank": "7.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Two Way Mirror Improves Video Conferencing",
-      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
+      "title": "PocketSuite is hiring (engineering, product, customer success, marketing)",
+      "link": "https://angel.co/company/pocketsuite"
     },
     {
       "rank": "9.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
+      "title": "Two Way Mirror Improves Video Conferencing",
+      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
+    },
+    {
+      "rank": "12.",
       "title": "Future of DeepSpeech / STT after recent changes at Mozilla",
       "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Scalable Bitmaps (2013)",
       "link": "https://ericportis.com/posts/2013/scalables/"
-    },
-    {
-      "rank": "13.",
-      "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
-      "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
     },
     {
       "rank": "14.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
+      "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
+      "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
+    },
+    {
+      "rank": "16.",
       "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
       "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
     },
     {
-      "rank": "16.",
-      "title": "College Notebook of Isaac Newton",
-      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
-    },
-    {
       "rank": "17.",
-      "title": "Build tools around workflows, not workflows around tools",
-      "link": "https://thesephist.com/posts/tools/"
+      "title": "Ask HN: How to do cross platform GUI?",
+      "link": "item?id=24242412"
     },
     {
       "rank": "18.",
-      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
-      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
+      "title": "College Notebook of Isaac Newton",
+      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
+      "title": "Build tools around workflows, not workflows around tools",
+      "link": "https://thesephist.com/posts/tools/"
+    },
+    {
+      "rank": "21.",
       "title": "Zero G: Some German mobile users still waiting for a signal",
       "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
+      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
+      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
+    },
+    {
+      "rank": "23.",
       "title": "Python Hash Tables: understanding dictionaries",
       "link": "http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/"
     },
     {
-      "rank": "22.",
-      "title": "California’s Wildfire Policy Backfired (2019)",
-      "link": "https://www.motherjones.com/environment/2019/11/californias-wildfire-controlled-prescribed-burns-native-americans/"
-    },
-    {
-      "rank": "23.",
-      "title": "Atmospheric Water Harvesting",
-      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
-    },
-    {
       "rank": "24.",
-      "title": "VTM: A Text-Based Desktop Environment",
-      "link": "https://vtm.netxs.online/"
-    },
-    {
-      "rank": "25.",
-      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
-      "link": "https://www.npmjs.com/package/aws-cost-saver"
-    },
-    {
-      "rank": "26.",
-      "title": "AngelCAD: Script-based 3D solid modeller",
-      "link": "https://arnholm.github.io/angelcad-docs/"
-    },
-    {
-      "rank": "27.",
       "title": "How Facebook quietly pressures its independent fact-checkers",
       "link": "https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings"
     },
     {
+      "rank": "25.",
+      "title": "VTM: A Text-Based Desktop Environment",
+      "link": "https://vtm.netxs.online/"
+    },
+    {
+      "rank": "26.",
+      "title": "Atmospheric Water Harvesting",
+      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
+    },
+    {
+      "rank": "27.",
+      "title": "California’s Wildfire Policy Backfired (2019)",
+      "link": "https://www.motherjones.com/environment/2019/11/californias-wildfire-controlled-prescribed-burns-native-americans/"
+    },
+    {
       "rank": "28.",
-      "title": "How two British orthodontists became celebrities to incels",
-      "link": "https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html"
+      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
+      "link": "https://www.npmjs.com/package/aws-cost-saver"
     },
     {
       "rank": "29.",
-      "title": "Don't Name Classes After Patterns. Mostly",
-      "link": "https://sender.cloudy.email/campaigns/paxjhchaiasjoifsiw/webversion/jdnapfbdgjegdqmdeduwc"
+      "title": "AngelCAD: Script-based 3D solid modeller",
+      "link": "https://arnholm.github.io/angelcad-docs/"
     },
     {
       "rank": "30.",
-      "title": "Pod Cars of the Past and Future: The Morgantown PRT (2016) [video]",
-      "link": "https://www.youtube.com/watch?v=iaSaWfw07Sw"
+      "title": "The French Army Is Building Renaissance-Style Fortresses in Africa",
+      "link": "https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa"
     }
   ],
   "metadata": {
