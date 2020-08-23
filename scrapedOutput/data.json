@@ -37,43 +37,43 @@
     },
     {
       "rank": "8.",
-      "title": "Two Way Mirror Improves Video Conferencing",
-      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
-    },
-    {
-      "rank": "9.",
-      "title": "Future of DeepSpeech / STT after recent changes at Mozilla",
-      "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
-    },
-    {
-      "rank": "10.",
-      "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
-      "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
-    },
-    {
-      "rank": "11.",
-      "title": "Scalable Bitmaps (2013)",
-      "link": "https://ericportis.com/posts/2013/scalables/"
-    },
-    {
-      "rank": "12.",
-      "title": "Uber and Lyft competitors ready if service is suspended in California",
-      "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
-    },
-    {
-      "rank": "13.",
       "title": "MGA Entertainment: A privately-owned toy company doing billions in revenue",
       "link": "https://julieyoung.substack.com/p/insane-companies-no-one-talks-about"
     },
     {
+      "rank": "9.",
+      "title": "Two Way Mirror Improves Video Conferencing",
+      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
+    },
+    {
+      "rank": "10.",
+      "title": "Future of DeepSpeech / STT after recent changes at Mozilla",
+      "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
+    },
+    {
+      "rank": "11.",
+      "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
+      "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
+    },
+    {
+      "rank": "12.",
+      "title": "Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War",
+      "link": "https://worldofspectrum.net/features/warajevo/Story.html"
+    },
+    {
+      "rank": "13.",
+      "title": "Scalable Bitmaps (2013)",
+      "link": "https://ericportis.com/posts/2013/scalables/"
+    },
+    {
       "rank": "14.",
-      "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
-      "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
+      "title": "Uber and Lyft competitors ready if service is suspended in California",
+      "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
     },
     {
       "rank": "15.",
-      "title": "Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War",
-      "link": "https://worldofspectrum.net/features/warajevo/Story.html"
+      "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
+      "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
-      "title": "Build tools around workflows, not workflows around tools",
-      "link": "https://thesephist.com/posts/tools/"
-    },
-    {
-      "rank": "18.",
       "title": "College Notebook of Isaac Newton",
       "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
+      "rank": "18.",
+      "title": "Build tools around workflows, not workflows around tools",
+      "link": "https://thesephist.com/posts/tools/"
+    },
+    {
       "rank": "19.",
-      "title": "California’s Wildfire Policy Backfired (2019)",
-      "link": "https://www.motherjones.com/environment/2019/11/californias-wildfire-controlled-prescribed-burns-native-americans/"
+      "title": "Searx instances",
+      "link": "https://searx.space/"
     },
     {
       "rank": "20.",
@@ -102,23 +102,23 @@
     },
     {
       "rank": "21.",
-      "title": "Searx instances",
-      "link": "https://searx.space/"
-    },
-    {
-      "rank": "22.",
       "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
       "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
     },
     {
+      "rank": "22.",
+      "title": "California’s Wildfire Policy Backfired (2019)",
+      "link": "https://www.motherjones.com/environment/2019/11/californias-wildfire-controlled-prescribed-burns-native-americans/"
+    },
+    {
       "rank": "23.",
-      "title": "Python Hash Tables: understanding dictionaries",
-      "link": "http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/"
+      "title": "Atmospheric Water Harvesting",
+      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
     },
     {
       "rank": "24.",
-      "title": "Cannonball Record Broken: 25 Hours, 39 Minutes from NYC to LA",
-      "link": "https://www.roadandtrack.com/car-culture/a33656042/cannonball-record-broken-25-hours-39-minutes-from-nyc-to-la/"
+      "title": "Python Hash Tables: understanding dictionaries",
+      "link": "http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/"
     },
     {
       "rank": "25.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "Atmospheric Water Harvesting",
-      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
+      "title": "How Facebook quietly pressures its independent fact-checkers",
+      "link": "https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings"
     },
     {
       "rank": "27.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "Don't Name Classes After Patterns. Mostly",
-      "link": "https://sender.cloudy.email/campaigns/paxjhchaiasjoifsiw/webversion/jdnapfbdgjegdqmdeduwc"
+      "title": "AngelCAD: Script-based 3D solid modeller",
+      "link": "https://arnholm.github.io/angelcad-docs/"
     },
     {
       "rank": "29.",
-      "title": "AngelCAD: Script-based 3D solid modeller",
-      "link": "https://arnholm.github.io/angelcad-docs/"
+      "title": "Don't Name Classes After Patterns. Mostly",
+      "link": "https://sender.cloudy.email/campaigns/paxjhchaiasjoifsiw/webversion/jdnapfbdgjegdqmdeduwc"
     },
     {
       "rank": "30.",
