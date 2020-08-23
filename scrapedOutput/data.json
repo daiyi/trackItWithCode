@@ -62,23 +62,23 @@
     },
     {
       "rank": "13.",
+      "title": "Two Way Mirror Improves Video Conferencing",
+      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
+    },
+    {
+      "rank": "14.",
       "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
       "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
       "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Partying like it’s 1999 – Initial public offerings are back in Silicon Valley",
       "link": "https://www.economist.com/business/2020/08/22/initial-public-offerings-are-back-in-silicon-valley"
-    },
-    {
-      "rank": "16.",
-      "title": "Two Way Mirror Improves Video Conferencing",
-      "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
     },
     {
       "rank": "17.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "VTM: A Text-Based Desktop Environment",
-      "link": "https://vtm.netxs.online/"
+      "title": "Rogue planets could outnumber the stars",
+      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
     },
     {
       "rank": "25.",
-      "title": "Rogue planets could outnumber the stars",
-      "link": "https://phys.org/news/2020-08-rogue-planets-outnumber-stars.html"
+      "title": "VTM: A Text-Based Desktop Environment",
+      "link": "https://vtm.netxs.online/"
     },
     {
       "rank": "26.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Zero G: Some German mobile users still waiting for a signal",
-      "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
+      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
+      "link": "https://www.npmjs.com/package/aws-cost-saver"
     },
     {
       "rank": "30.",
-      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
-      "link": "https://www.npmjs.com/package/aws-cost-saver"
+      "title": "GPT-3 has no idea what it’s talking about",
+      "link": "https://www.technologyreview.com/2020/08/22/1007539/gpt3-openai-language-generator-artificial-intelligence-ai-opinion/"
     }
   ],
   "metadata": {
