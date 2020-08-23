@@ -2,123 +2,123 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Bare Metal Rust Generics",
-      "link": "https://www.ecorax.net/as-above-so-below-1/"
-    },
-    {
-      "rank": "2.",
-      "title": "Realtime California Air Quality",
-      "link": "https://www.purpleair.com/map?opt=1/i/mAQI/a10/cC4#7.22/37.494/-120.928"
-    },
-    {
-      "rank": "3.",
       "title": "Persisting as a solo founder",
       "link": "https://vishnu.tech/posts/persistence/"
     },
     {
-      "rank": "4.",
-      "title": "Build Your Own FPGA",
+      "rank": "2.",
+      "title": "Build Your Own FPGA (2012)",
       "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
     },
     {
-      "rank": "5.",
-      "title": "Gordon Linoff reached a million points on StackOverflow",
+      "rank": "3.",
+      "title": "Congratulations for reaching a million, Gordon Linoff",
       "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
     },
     {
-      "rank": "6.",
-      "title": "Finding vulnerable Twitter accounts with expired domains",
-      "link": "https://zainamro.com/hacks/finding-vulnerable-twitter-accounts"
+      "rank": "4.",
+      "title": "Realtime California Air Quality",
+      "link": "https://www.purpleair.com/map?opt=1/i/mAQI/a10/cC4#7.22/37.494/-120.928"
     },
     {
-      "rank": "7.",
-      "title": "The Open-Office Trap (2014)",
-      "link": "https://www.newyorker.com/business/currency/the-open-office-trap"
-    },
-    {
-      "rank": "8.",
-      "title": "Semi-transparent solar panels allow concurrent production of crops and power",
-      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
-    },
-    {
-      "rank": "9.",
-      "title": "The demise of the second-hand bookshop",
-      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
-    },
-    {
-      "rank": "10.",
-      "title": "Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W",
-      "link": "https://github.com/lukicdarkoo/rpi-wifi"
-    },
-    {
-      "rank": "11.",
+      "rank": "5.",
       "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
       "link": "item?id=24252408"
     },
     {
-      "rank": "12.",
-      "title": "Solar Panels Are Starting to Die, Leaving Behind Toxic Trash",
-      "link": "https://www.wired.com/story/solar-panels-are-starting-to-die-leaving-behind-toxic-trash/#intcid=_wired-homepage-right-rail_4d17aa85-7a00-4b58-9d0b-817df0d99ef5_popular4-1"
+      "rank": "6.",
+      "title": "Bare Metal Rust Generics",
+      "link": "https://www.ecorax.net/as-above-so-below-1/"
     },
     {
-      "rank": "13.",
-      "title": "Paragon submits 27k NTFS driver to Linux kernel",
-      "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
+      "rank": "7.",
+      "title": "The demise of the second-hand bookshop",
+      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
     },
     {
-      "rank": "14.",
-      "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
-      "link": "https://github.com/nsfw-filter/nsfw-filter"
+      "rank": "8.",
+      "title": "Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W",
+      "link": "https://github.com/lukicdarkoo/rpi-wifi"
     },
     {
-      "rank": "15.",
+      "rank": "9.",
+      "title": "Semi-transparent solar panels allow concurrent production of crops and power",
+      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
+    },
+    {
+      "rank": "10.",
       "title": "Songwhip – Share a music link to every platform",
       "link": "https://songwhip.com"
     },
     {
-      "rank": "16.",
+      "rank": "11.",
+      "title": "Finding vulnerable Twitter accounts with expired domains",
+      "link": "https://zainamro.com/hacks/finding-vulnerable-twitter-accounts"
+    },
+    {
+      "rank": "12.",
+      "title": "Paragon submits 27k NTFS driver to Linux kernel",
+      "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
+    },
+    {
+      "rank": "13.",
+      "title": "Never run ‘python’ in your downloads folder",
+      "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
+    },
+    {
+      "rank": "14.",
       "title": "My Fourier Epicycles",
       "link": "https://www.myfourierepicycles.com/"
     },
     {
-      "rank": "17.",
+      "rank": "15.",
+      "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
+      "link": "https://github.com/nsfw-filter/nsfw-filter"
+    },
+    {
+      "rank": "16.",
       "title": "How to Leave Work at Work",
       "link": "https://hbr.org/2020/02/how-to-leave-work-at-work"
     },
     {
+      "rank": "17.",
+      "title": "Solar panels are starting to die, leaving behind toxic trash",
+      "link": "https://www.wired.com/story/solar-panels-are-starting-to-die-leaving-behind-toxic-trash/"
+    },
+    {
       "rank": "18.",
-      "title": "Is Cheese Bad for You? The Evidence Says No – With Some Exceptions",
-      "link": "https://blog.insidetracker.com/cheese-bad-healthy-evidence"
-    },
-    {
-      "rank": "19.",
-      "title": "Best Ways to Fetch Financial Data for Algo Trading",
-      "link": "https://github.com/rbhatia46/Fetching-Financial-Data"
-    },
-    {
-      "rank": "20.",
       "title": "Implement an emulator for a fantasy CPU in JavaScript",
       "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
     },
     {
-      "rank": "21.",
+      "rank": "19.",
+      "title": "Ways to fetch financial data for algo trading",
+      "link": "https://github.com/rbhatia46/Fetching-Financial-Data"
+    },
+    {
+      "rank": "20.",
       "title": "Show HN: Boook.link – Share a book with links to all stores",
       "link": "https://boook.link"
     },
     {
+      "rank": "21.",
+      "title": "Loot Boxes in Online Games and Their Effect on Consumers [pdf]",
+      "link": "https://www.europarl.europa.eu/RegData/etudes/ATAG/2020/652732/IPOL_ATA(2020)652732_EN.pdf"
+    },
+    {
       "rank": "22.",
-      "title": "Show HN: Using Rust to write shell-script like tasks",
-      "link": "https://github.com/rust-shell-script/rust_cmd_lib"
+      "title": "Chromium devs want the browser to talk to devices, computers directly",
+      "link": "https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/"
     },
     {
       "rank": "23.",
-      "title": "Writing a simple Python to C compiler: hello, fibonacci",
-      "link": "https://notes.eatonphil.com/writing-a-simple-python-compiler.html"
+      "title": "Teletext Bad Apple",
+      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
     },
     {
       "rank": "24.",
-      "title": "How to delete all your files",
-      "link": "https://www.reddit.com/r/linux/comments/if1krd/how_to_delete_all_your_files/"
+      "title": "Writing a simple Python to C compiler: hello, fibonacci",
+      "link": "https://notes.eatonphil.com/writing-a-simple-python-compiler.html"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Chromium devs want the browser to talk to devices, computers directly",
-      "link": "https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/"
+      "title": "How to delete all your files",
+      "link": "https://www.reddit.com/r/linux/comments/if1krd/how_to_delete_all_your_files/"
     },
     {
       "rank": "27.",
+      "title": "The Open-Office Trap (2014)",
+      "link": "https://www.newyorker.com/business/currency/the-open-office-trap"
+    },
+    {
+      "rank": "28.",
+      "title": "Oral History of Sophie Wilson (2012) [pdf]",
+      "link": "http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf"
+    },
+    {
+      "rank": "29.",
       "title": "The cost of 1GB of mobile data in 228 countries (Feb 2020)",
       "link": "https://www.cable.co.uk/mobiles/worldwide-data-pricing/"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
       "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
-    },
-    {
-      "rank": "29.",
-      "title": "American Express to Acquire Kabbage",
-      "link": "https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage"
-    },
-    {
-      "rank": "30.",
-      "title": "Belgian experts 'shocked' as AstraZeneca seeks liability waiver for vaccine",
-      "link": "https://www.brusselstimes.com/belgium/127905/coronavirus-belgian-experts-shocked-as-astrazeneca-seeks-liability-waiver-for-vaccine/"
     }
   ],
   "metadata": {
