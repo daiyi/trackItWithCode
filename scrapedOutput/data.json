@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
-      "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
-      "link": "item?id=24252408"
-    },
-    {
-      "rank": "10.",
-      "title": "Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W",
-      "link": "https://github.com/lukicdarkoo/rpi-wifi"
-    },
-    {
-      "rank": "11.",
       "title": "Implement an emulator for a fantasy CPU in JavaScript",
       "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
     },
     {
+      "rank": "10.",
+      "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
+      "link": "item?id=24252408"
+    },
+    {
+      "rank": "11.",
+      "title": "Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W",
+      "link": "https://github.com/lukicdarkoo/rpi-wifi"
+    },
+    {
       "rank": "12.",
-      "title": "Paragon submits 27k NTFS driver to Linux kernel",
-      "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
+      "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
+      "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
     },
     {
       "rank": "13.",
@@ -67,48 +67,48 @@
     },
     {
       "rank": "14.",
-      "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
-      "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
-    },
-    {
-      "rank": "15.",
-      "title": "My Fourier Epicycles",
-      "link": "https://www.myfourierepicycles.com/"
-    },
-    {
-      "rank": "16.",
       "title": "Never run ‘python’ in your downloads folder",
       "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
     },
     {
-      "rank": "17.",
-      "title": "Teletext Bad Apple",
-      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
+      "rank": "15.",
+      "title": "Paragon submits 27k NTFS driver to Linux kernel",
+      "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
     },
     {
-      "rank": "18.",
+      "rank": "16.",
+      "title": "My Fourier Epicycles",
+      "link": "https://www.myfourierepicycles.com/"
+    },
+    {
+      "rank": "17.",
       "title": "YTS torrent tracker part of new anti-piracy scheme",
       "link": "https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Semi-transparent solar panels allow concurrent production of crops and power",
       "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
     },
     {
-      "rank": "20.",
-      "title": "Bliss: A language for systems programming (1971) [pdf]",
-      "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
+      "rank": "19.",
+      "title": "Teletext Bad Apple",
+      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
       "link": "https://github.com/nsfw-filter/nsfw-filter"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Show HN: Boook.link – Share a book with links to all stores",
       "link": "https://boook.link"
+    },
+    {
+      "rank": "22.",
+      "title": "Bliss: A language for systems programming (1971) [pdf]",
+      "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
     },
     {
       "rank": "23.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Realtime California Air Quality",
-      "link": "https://www.purpleair.com/map?opt=1/i/mAQI/a10/cC4#7.22/37.494/-120.928"
+      "title": "How to delete all your files",
+      "link": "https://www.reddit.com/r/linux/comments/if1krd/how_to_delete_all_your_files/"
     },
     {
       "rank": "28.",
-      "title": "How to delete all your files",
-      "link": "https://www.reddit.com/r/linux/comments/if1krd/how_to_delete_all_your_files/"
+      "title": "Realtime California Air Quality",
+      "link": "https://www.purpleair.com/map?opt=1/i/mAQI/a10/cC4#7.22/37.494/-120.928"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Loot boxes in online games and their effect on consumers [pdf]",
-      "link": "https://www.europarl.europa.eu/RegData/etudes/ATAG/2020/652732/IPOL_ATA(2020)652732_EN.pdf"
+      "title": "Oral History of Sophie Wilson (2012) [pdf]",
+      "link": "http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf"
     }
   ],
   "metadata": {
