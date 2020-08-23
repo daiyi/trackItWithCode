@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
-      "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
-      "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
-    },
-    {
-      "rank": "10.",
       "title": "Semi-transparent solar panels allow concurrent production of crops and power",
       "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Paragon submits 27k NTFS driver to Linux kernel",
       "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Never run ‘python’ in your downloads folder",
       "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
+    },
+    {
+      "rank": "12.",
+      "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
+      "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
     },
     {
       "rank": "13.",
@@ -72,33 +72,33 @@
     },
     {
       "rank": "15.",
-      "title": "Citigroup clerical error of $900M; a beneficiary refuses to hand back $175M",
-      "link": "https://en.mercopress.com/2020/08/19/citigroup-with-a-record-clerical-error-of-us-900-million-a-beneficiary-refuses-to-hand-back-us-175-million"
-    },
-    {
-      "rank": "16.",
       "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
       "link": "https://github.com/nsfw-filter/nsfw-filter"
     },
     {
-      "rank": "17.",
-      "title": "Teletext Bad Apple",
-      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
-    },
-    {
-      "rank": "18.",
+      "rank": "16.",
       "title": "Show HN: Boook.link – Share a book with links to all stores",
       "link": "https://boook.link"
     },
     {
-      "rank": "19.",
+      "rank": "17.",
       "title": "How to Leave Work at Work",
       "link": "https://hbr.org/2020/02/how-to-leave-work-at-work"
     },
     {
-      "rank": "20.",
+      "rank": "18.",
+      "title": "Teletext Bad Apple",
+      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
+    },
+    {
+      "rank": "19.",
       "title": "Congratulations for reaching a million, Gordon Linoff",
       "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
+    },
+    {
+      "rank": "20.",
+      "title": "Chromium devs want the browser to talk to devices, computers directly",
+      "link": "https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "Chromium devs want the browser to talk to devices, computers directly",
-      "link": "https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/"
-    },
-    {
-      "rank": "23.",
       "title": "All about Woad",
       "link": "http://www.woad.org.uk"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Loot boxes in online games and their effect on consumers [pdf]",
       "link": "https://www.europarl.europa.eu/RegData/etudes/ATAG/2020/652732/IPOL_ATA(2020)652732_EN.pdf"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Realtime California Air Quality",
       "link": "https://www.purpleair.com/map?opt=1/i/mAQI/a10/cC4#7.22/37.494/-120.928"
     },
     {
-      "rank": "26.",
-      "title": "Writing a simple Python to C compiler: hello, fibonacci",
-      "link": "https://notes.eatonphil.com/writing-a-simple-python-compiler.html"
-    },
-    {
-      "rank": "27.",
+      "rank": "25.",
       "title": "How to delete all your files",
       "link": "https://www.reddit.com/r/linux/comments/if1krd/how_to_delete_all_your_files/"
     },
     {
-      "rank": "28.",
+      "rank": "26.",
       "title": "Facebook is pressuring its independent fact-checkers to change their rulings",
       "link": "https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
       "title": "US Border Patrol says they can create central repository of traveler emails",
       "link": "https://viewfromthewing.com/us-border-patrol-says-they-can-create-central-repository-of-traveler-emails-keep-them-for-75-years/"
     },
     {
-      "rank": "30.",
+      "rank": "28.",
       "title": "Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War",
       "link": "https://worldofspectrum.net/features/warajevo/Story.html"
+    },
+    {
+      "rank": "29.",
+      "title": "Citigroup clerical error of $900M; a beneficiary refuses to hand back $175M",
+      "link": "https://en.mercopress.com/2020/08/19/citigroup-with-a-record-clerical-error-of-us-900-million-a-beneficiary-refuses-to-hand-back-us-175-million"
+    },
+    {
+      "rank": "30.",
+      "title": "Writing a simple Python to C compiler: hello, fibonacci",
+      "link": "https://notes.eatonphil.com/writing-a-simple-python-compiler.html"
     }
   ],
   "metadata": {
