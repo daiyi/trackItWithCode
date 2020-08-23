@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
+      "title": "Semi-Transparent Solar Panels Allow Concurrent Production of Crops and Power",
+      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
+    },
+    {
+      "rank": "4.",
       "title": "Show HN: Using Rust to write shell-script like tasks",
       "link": "https://github.com/rust-shell-script/rust_cmd_lib"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Ketamine that's injected during arrests draws new scrutiny",
       "link": "https://abcnews.go.com/Health/wireStory/ketamine-injected-arrests-draws-scrutiny-72542386?cid=clicksource_4380645_8_heads_posts_card_hed"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Degoogle: Cutting Google out of your life",
       "link": "https://degoogle.jmoore.dev/"
-    },
-    {
-      "rank": "6.",
-      "title": "Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War",
-      "link": "https://worldofspectrum.net/features/warajevo/Story.html"
     },
     {
       "rank": "7.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "MGA Entertainment: A privately-owned toy company doing billions in revenue",
-      "link": "https://julieyoung.substack.com/p/insane-companies-no-one-talks-about"
+      "title": "American Express to Acquire Kabbage",
+      "link": "https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage"
     },
     {
       "rank": "9.",
@@ -47,33 +47,33 @@
     },
     {
       "rank": "10.",
-      "title": "American Express to Acquire Kabbage",
-      "link": "https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage"
-    },
-    {
-      "rank": "11.",
-      "title": "The French Army Is Building Renaissance-Style Fortresses in Africa",
-      "link": "https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa"
-    },
-    {
-      "rank": "12.",
       "title": "YTS Torrent Tracker Part Of Brand New Anti-Piracy Scheme",
       "link": "https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/"
     },
     {
+      "rank": "11.",
+      "title": "Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War",
+      "link": "https://worldofspectrum.net/features/warajevo/Story.html"
+    },
+    {
+      "rank": "12.",
+      "title": "The French Army Is Building Renaissance-Style Fortresses in Africa",
+      "link": "https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa"
+    },
+    {
       "rank": "13.",
+      "title": "MGA Entertainment: A privately-owned toy company doing billions in revenue",
+      "link": "https://julieyoung.substack.com/p/insane-companies-no-one-talks-about"
+    },
+    {
+      "rank": "14.",
       "title": "Apple takes Prepear logo trademark fight to Canada",
       "link": "https://appleinsider.com/articles/20/08/22/apple-takes-prepear-logo-trademark-fight-to-canada"
     },
     {
-      "rank": "14.",
-      "title": "Office Life at the Pentagon Is Disconcertingly Retrograde",
-      "link": "https://www.wired.com/story/opinion-office-life-at-the-pentagon-is-disconcertingly-retrograde/"
-    },
-    {
       "rank": "15.",
-      "title": "The $8M Heist from the Carnegie Library",
-      "link": "https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/"
+      "title": "Ask HN: How to do cross platform GUI?",
+      "link": "item?id=24242412"
     },
     {
       "rank": "16.",
@@ -82,23 +82,23 @@
     },
     {
       "rank": "17.",
-      "title": "Rosatom releases previously classified documentary video of Tsar Bomba nuke test",
-      "link": "https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test"
-    },
-    {
-      "rank": "18.",
       "title": "Data from Chernobyl and Fukushima provide answers about the risks of nuclear",
       "link": "https://medium.com/generation-atomic/for-the-first-time-world-learns-truth-about-risk-of-nuclear-6b7e97d435df"
     },
     {
+      "rank": "18.",
+      "title": "Rosatom releases previously classified documentary video of Tsar Bomba nuke test",
+      "link": "https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test"
+    },
+    {
       "rank": "19.",
-      "title": "Ask HN: How to do cross platform GUI?",
-      "link": "item?id=24242412"
+      "title": "College Notebook of Isaac Newton",
+      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     },
     {
       "rank": "20.",
-      "title": "College Notebook of Isaac Newton",
-      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
+      "title": "Build tools around workflows, not workflows around tools",
+      "link": "https://thesephist.com/posts/tools/"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Build tools around workflows, not workflows around tools",
-      "link": "https://thesephist.com/posts/tools/"
+      "title": "Never Run ‘Python’ in Your Downloads Folder",
+      "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Never Run ‘Python’ in Your Downloads Folder",
-      "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
-    },
-    {
-      "rank": "25.",
       "title": "VTM: A Text-Based Desktop Environment",
       "link": "https://vtm.netxs.online/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Python Hash Tables: understanding dictionaries",
       "link": "http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/"
     },
     {
-      "rank": "27.",
-      "title": "Atmospheric Water Harvesting",
-      "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
-    },
-    {
-      "rank": "28.",
+      "rank": "26.",
       "title": "AngelCAD: Script-based 3D solid modeller",
       "link": "https://arnholm.github.io/angelcad-docs/"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
       "title": "Debian Janitor: 60k Lintian Issues Automatically Fixed",
       "link": "https://www.jelmer.uk/janitor-update-3.html"
     },
     {
-      "rank": "30.",
+      "rank": "28.",
       "title": "On the problems with automated contact tracing",
       "link": "https://twitter.com/doctorow/status/1296248163653660672"
+    },
+    {
+      "rank": "29.",
+      "title": "The $8M Heist from the Carnegie Library",
+      "link": "https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/"
+    },
+    {
+      "rank": "30.",
+      "title": "Office Life at the Pentagon Is Disconcertingly Retrograde",
+      "link": "https://www.wired.com/story/opinion-office-life-at-the-pentagon-is-disconcertingly-retrograde/"
     }
   ],
   "metadata": {
