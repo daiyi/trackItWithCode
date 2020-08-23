@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Songwhip – Share a music link to every platform",
-      "link": "https://songwhip.com"
+      "title": "The demise of the second-hand bookshop",
+      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
     },
     {
       "rank": "5.",
-      "title": "The demise of the second-hand bookshop",
-      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
+      "title": "Songwhip – Share a music link to every platform",
+      "link": "https://songwhip.com"
     },
     {
       "rank": "6.",
@@ -42,63 +42,63 @@
     },
     {
       "rank": "9.",
-      "title": "Semi-transparent solar panels allow concurrent production of crops and power",
-      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
-    },
-    {
-      "rank": "10.",
-      "title": "Paragon submits 27k NTFS driver to Linux kernel",
-      "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
-    },
-    {
-      "rank": "11.",
       "title": "Never run ‘python’ in your downloads folder",
       "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
     },
     {
-      "rank": "12.",
-      "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
-      "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
-    },
-    {
-      "rank": "13.",
+      "rank": "10.",
       "title": "My Fourier Epicycles",
       "link": "https://www.myfourierepicycles.com/"
     },
     {
+      "rank": "11.",
+      "title": "Semi-transparent solar panels allow concurrent production of crops and power",
+      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
+    },
+    {
+      "rank": "12.",
+      "title": "Paragon submits 27k NTFS driver to Linux kernel",
+      "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
+    },
+    {
+      "rank": "13.",
+      "title": "All about Woad",
+      "link": "http://www.woad.org.uk"
+    },
+    {
       "rank": "14.",
+      "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
+      "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
+    },
+    {
+      "rank": "15.",
       "title": "YTS torrent tracker part of new anti-piracy scheme",
       "link": "https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
       "link": "https://github.com/nsfw-filter/nsfw-filter"
     },
     {
-      "rank": "16.",
-      "title": "Show HN: Boook.link – Share a book with links to all stores",
-      "link": "https://boook.link"
-    },
-    {
       "rank": "17.",
-      "title": "How to Leave Work at Work",
-      "link": "https://hbr.org/2020/02/how-to-leave-work-at-work"
-    },
-    {
-      "rank": "18.",
       "title": "Teletext Bad Apple",
       "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
     },
     {
+      "rank": "18.",
+      "title": "How to Leave Work at Work",
+      "link": "https://hbr.org/2020/02/how-to-leave-work-at-work"
+    },
+    {
       "rank": "19.",
-      "title": "Congratulations for reaching a million, Gordon Linoff",
-      "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
+      "title": "Show HN: Boook.link – Share a book with links to all stores",
+      "link": "https://boook.link"
     },
     {
       "rank": "20.",
-      "title": "Chromium devs want the browser to talk to devices, computers directly",
-      "link": "https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/"
+      "title": "Real Airbus pilot tries Microsoft Flight Simulator [video]",
+      "link": "https://www.youtube.com/watch?v=jchxsSdBRLo"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "All about Woad",
-      "link": "http://www.woad.org.uk"
+      "title": "Congratulations for reaching a million, Gordon Linoff",
+      "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
     },
     {
       "rank": "23.",
+      "title": "Chromium devs want the browser to talk to devices, computers directly",
+      "link": "https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/"
+    },
+    {
+      "rank": "24.",
       "title": "Loot boxes in online games and their effect on consumers [pdf]",
       "link": "https://www.europarl.europa.eu/RegData/etudes/ATAG/2020/652732/IPOL_ATA(2020)652732_EN.pdf"
     },
     {
-      "rank": "24.",
-      "title": "Realtime California Air Quality",
-      "link": "https://www.purpleair.com/map?opt=1/i/mAQI/a10/cC4#7.22/37.494/-120.928"
-    },
-    {
       "rank": "25.",
-      "title": "How to delete all your files",
-      "link": "https://www.reddit.com/r/linux/comments/if1krd/how_to_delete_all_your_files/"
-    },
-    {
-      "rank": "26.",
-      "title": "Facebook is pressuring its independent fact-checkers to change their rulings",
-      "link": "https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings"
-    },
-    {
-      "rank": "27.",
-      "title": "US Border Patrol says they can create central repository of traveler emails",
-      "link": "https://viewfromthewing.com/us-border-patrol-says-they-can-create-central-repository-of-traveler-emails-keep-them-for-75-years/"
-    },
-    {
-      "rank": "28.",
-      "title": "Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War",
-      "link": "https://worldofspectrum.net/features/warajevo/Story.html"
-    },
-    {
-      "rank": "29.",
       "title": "Citigroup clerical error of $900M; a beneficiary refuses to hand back $175M",
       "link": "https://en.mercopress.com/2020/08/19/citigroup-with-a-record-clerical-error-of-us-900-million-a-beneficiary-refuses-to-hand-back-us-175-million"
     },
     {
+      "rank": "26.",
+      "title": "Realtime California Air Quality",
+      "link": "https://www.purpleair.com/map?opt=1/i/mAQI/a10/cC4#7.22/37.494/-120.928"
+    },
+    {
+      "rank": "27.",
+      "title": "How to delete all your files",
+      "link": "https://www.reddit.com/r/linux/comments/if1krd/how_to_delete_all_your_files/"
+    },
+    {
+      "rank": "28.",
+      "title": "Facebook is pressuring its independent fact-checkers to change their rulings",
+      "link": "https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings"
+    },
+    {
+      "rank": "29.",
+      "title": "Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War",
+      "link": "https://worldofspectrum.net/features/warajevo/Story.html"
+    },
+    {
       "rank": "30.",
-      "title": "Writing a simple Python to C compiler: hello, fibonacci",
-      "link": "https://notes.eatonphil.com/writing-a-simple-python-compiler.html"
+      "title": "US Border Patrol says they can create central repository of traveler emails",
+      "link": "https://viewfromthewing.com/us-border-patrol-says-they-can-create-central-repository-of-traveler-emails-keep-them-for-75-years/"
     }
   ],
   "metadata": {
