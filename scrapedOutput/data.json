@@ -42,18 +42,18 @@
     },
     {
       "rank": "9.",
+      "title": "American Express to Acquire Kabbage",
+      "link": "https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage"
+    },
+    {
+      "rank": "10.",
       "title": "Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon",
       "link": "https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "The $8M Heist from the Carnegie Library",
       "link": "https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/"
-    },
-    {
-      "rank": "11.",
-      "title": "American Express to Acquire Kabbage",
-      "link": "https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage"
     },
     {
       "rank": "12.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]",
-      "link": "http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf"
+      "title": "Debian Janitor: 60k Lintian Issues Automatically Fixed",
+      "link": "https://www.jelmer.uk/janitor-update-3.html"
     },
     {
       "rank": "14.",
-      "title": "Debian Janitor: 60k Lintian Issues Automatically Fixed",
-      "link": "https://www.jelmer.uk/janitor-update-3.html"
+      "title": "Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]",
+      "link": "http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf"
     },
     {
       "rank": "15.",
@@ -77,18 +77,18 @@
     },
     {
       "rank": "16.",
+      "title": "The French Army Is Building Renaissance-Style Fortresses in Africa",
+      "link": "https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa"
+    },
+    {
+      "rank": "17.",
       "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
       "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "College Notebook of Isaac Newton",
       "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
-    },
-    {
-      "rank": "18.",
-      "title": "The French Army Is Building Renaissance-Style Fortresses in Africa",
-      "link": "https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa"
     },
     {
       "rank": "19.",
@@ -97,18 +97,18 @@
     },
     {
       "rank": "20.",
+      "title": "Data from Chernobyl and Fukushima provide answers about the risks of nuclear",
+      "link": "https://medium.com/generation-atomic/for-the-first-time-world-learns-truth-about-risk-of-nuclear-6b7e97d435df"
+    },
+    {
+      "rank": "21.",
       "title": "Build tools around workflows, not workflows around tools",
       "link": "https://thesephist.com/posts/tools/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Searx instances",
       "link": "https://searx.space/"
-    },
-    {
-      "rank": "22.",
-      "title": "VTM: A Text-Based Desktop Environment",
-      "link": "https://vtm.netxs.online/"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "How Facebook quietly pressures its independent fact-checkers",
-      "link": "https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings"
+      "title": "VTM: A Text-Based Desktop Environment",
+      "link": "https://vtm.netxs.online/"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "How Facebook quietly pressures its independent fact-checkers",
+      "link": "https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings"
+    },
+    {
+      "rank": "27.",
       "title": "AngelCAD: Script-based 3D solid modeller",
       "link": "https://arnholm.github.io/angelcad-docs/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Atmospheric Water Harvesting",
       "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Two Way Mirror Improves Video Conferencing",
       "link": "https://hackaday.com/2020/05/29/two-way-mirror-improves-video-conferencing/"
     },
     {
-      "rank": "29.",
-      "title": "Scalable Bitmaps (2013)",
-      "link": "https://ericportis.com/posts/2013/scalables/"
-    },
-    {
       "rank": "30.",
-      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
-      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
+      "title": "PocketSuite is hiring (engineering, product, customer success, marketing)",
+      "link": "https://angel.co/company/pocketsuite"
     }
   ],
   "metadata": {
