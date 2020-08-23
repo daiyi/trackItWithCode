@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Build Your Own FPGA (2012)",
-      "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
+      "title": "New nitrogen products are in the air",
+      "link": "https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air"
     },
     {
       "rank": "3.",
-      "title": "New nitrogen products are in the air",
-      "link": "https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air"
+      "title": "Build Your Own FPGA (2012)",
+      "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
     },
     {
       "rank": "4.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
-      "title": "The demise of the second-hand bookshop",
-      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
-    },
-    {
-      "rank": "8.",
       "title": "Songwhip – Share a music link to every platform",
       "link": "https://songwhip.com"
     },
     {
+      "rank": "8.",
+      "title": "The demise of the second-hand bookshop",
+      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
+    },
+    {
       "rank": "9.",
-      "title": "Implement an emulator for a fantasy CPU in JavaScript",
-      "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
+      "title": "Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W",
+      "link": "https://github.com/lukicdarkoo/rpi-wifi"
     },
     {
       "rank": "10.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W",
-      "link": "https://github.com/lukicdarkoo/rpi-wifi"
+      "title": "Implement an emulator for a fantasy CPU in JavaScript",
+      "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
     },
     {
       "rank": "12.",
@@ -62,58 +62,58 @@
     },
     {
       "rank": "13.",
-      "title": "Bare Metal Rust Generics",
-      "link": "https://www.ecorax.net/as-above-so-below-1/"
-    },
-    {
-      "rank": "14.",
       "title": "Never run ‘python’ in your downloads folder",
       "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Paragon submits 27k NTFS driver to Linux kernel",
       "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "My Fourier Epicycles",
       "link": "https://www.myfourierepicycles.com/"
     },
     {
-      "rank": "17.",
-      "title": "YTS torrent tracker part of new anti-piracy scheme",
-      "link": "https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/"
-    },
-    {
-      "rank": "18.",
+      "rank": "16.",
       "title": "Semi-transparent solar panels allow concurrent production of crops and power",
       "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
     },
     {
-      "rank": "19.",
+      "rank": "17.",
       "title": "Teletext Bad Apple",
       "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
     },
     {
-      "rank": "20.",
+      "rank": "18.",
       "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
       "link": "https://github.com/nsfw-filter/nsfw-filter"
     },
     {
+      "rank": "19.",
+      "title": "Bare Metal Rust Generics",
+      "link": "https://www.ecorax.net/as-above-so-below-1/"
+    },
+    {
+      "rank": "20.",
+      "title": "How to Leave Work at Work",
+      "link": "https://hbr.org/2020/02/how-to-leave-work-at-work"
+    },
+    {
       "rank": "21.",
+      "title": "YTS torrent tracker part of new anti-piracy scheme",
+      "link": "https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/"
+    },
+    {
+      "rank": "22.",
       "title": "Show HN: Boook.link – Share a book with links to all stores",
       "link": "https://boook.link"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Bliss: A language for systems programming (1971) [pdf]",
       "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
-    },
-    {
-      "rank": "23.",
-      "title": "How to Leave Work at Work",
-      "link": "https://hbr.org/2020/02/how-to-leave-work-at-work"
     },
     {
       "rank": "24.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "Citigroup clerical error of $900M; a beneficiary refuses to hand back $175M",
-      "link": "https://en.mercopress.com/2020/08/19/citigroup-with-a-record-clerical-error-of-us-900-million-a-beneficiary-refuses-to-hand-back-us-175-million"
+      "title": "Earth has lost 28 trillion tonnes of ice in less than 30 years",
+      "link": "https://www.theguardian.com/environment/2020/aug/23/earth-lost-28-trillion-tonnes-ice-30-years-global-warming"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Realtime California Air Quality",
-      "link": "https://www.purpleair.com/map?opt=1/i/mAQI/a10/cC4#7.22/37.494/-120.928"
-    },
-    {
-      "rank": "29.",
       "title": "Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War",
       "link": "https://worldofspectrum.net/features/warajevo/Story.html"
     },
     {
+      "rank": "29.",
+      "title": "Realtime California Air Quality",
+      "link": "https://www.purpleair.com/map?opt=1/i/mAQI/a10/cC4#7.22/37.494/-120.928"
+    },
+    {
       "rank": "30.",
-      "title": "Oral History of Sophie Wilson (2012) [pdf]",
-      "link": "http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf"
+      "title": "US Border Patrol says they can create central repository of traveler emails",
+      "link": "https://viewfromthewing.com/us-border-patrol-says-they-can-create-central-repository-of-traveler-emails-keep-them-for-75-years/"
     }
   ],
   "metadata": {
