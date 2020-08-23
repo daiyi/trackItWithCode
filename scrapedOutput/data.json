@@ -27,88 +27,88 @@
     },
     {
       "rank": "6.",
-      "title": "The demise of the second-hand bookshop",
-      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
-    },
-    {
-      "rank": "7.",
-      "title": "Songwhip – Share a music link to every platform",
-      "link": "https://songwhip.com"
-    },
-    {
-      "rank": "8.",
-      "title": "Implement an emulator for a fantasy CPU in JavaScript",
-      "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
-    },
-    {
-      "rank": "9.",
-      "title": "Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W",
-      "link": "https://github.com/lukicdarkoo/rpi-wifi"
-    },
-    {
-      "rank": "10.",
-      "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
-      "link": "item?id=24252408"
-    },
-    {
-      "rank": "11.",
-      "title": "Bare Metal Rust Generics",
-      "link": "https://www.ecorax.net/as-above-so-below-1/"
-    },
-    {
-      "rank": "12.",
-      "title": "Never run ‘python’ in your downloads folder",
-      "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
-    },
-    {
-      "rank": "13.",
       "title": "Airbus pilot tries Microsoft Flight Simulator [video]",
       "link": "https://www.youtube.com/watch?v=jchxsSdBRLo"
     },
     {
-      "rank": "14.",
+      "rank": "7.",
+      "title": "The demise of the second-hand bookshop",
+      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
+    },
+    {
+      "rank": "8.",
+      "title": "Songwhip – Share a music link to every platform",
+      "link": "https://songwhip.com"
+    },
+    {
+      "rank": "9.",
+      "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
+      "link": "item?id=24252408"
+    },
+    {
+      "rank": "10.",
+      "title": "Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W",
+      "link": "https://github.com/lukicdarkoo/rpi-wifi"
+    },
+    {
+      "rank": "11.",
+      "title": "Implement an emulator for a fantasy CPU in JavaScript",
+      "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
+    },
+    {
+      "rank": "12.",
       "title": "Paragon submits 27k NTFS driver to Linux kernel",
       "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
     },
     {
-      "rank": "15.",
-      "title": "Semi-transparent solar panels allow concurrent production of crops and power",
-      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
+      "rank": "13.",
+      "title": "Bare Metal Rust Generics",
+      "link": "https://www.ecorax.net/as-above-so-below-1/"
     },
     {
-      "rank": "16.",
-      "title": "My Fourier Epicycles",
-      "link": "https://www.myfourierepicycles.com/"
-    },
-    {
-      "rank": "17.",
-      "title": "Bliss: A language for systems programming (1971) [pdf]",
-      "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
-    },
-    {
-      "rank": "18.",
+      "rank": "14.",
       "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
       "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
     },
     {
-      "rank": "19.",
-      "title": "YTS torrent tracker part of new anti-piracy scheme",
-      "link": "https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/"
+      "rank": "15.",
+      "title": "My Fourier Epicycles",
+      "link": "https://www.myfourierepicycles.com/"
     },
     {
-      "rank": "20.",
+      "rank": "16.",
+      "title": "Never run ‘python’ in your downloads folder",
+      "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
+    },
+    {
+      "rank": "17.",
       "title": "Teletext Bad Apple",
       "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
     },
     {
+      "rank": "18.",
+      "title": "YTS torrent tracker part of new anti-piracy scheme",
+      "link": "https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/"
+    },
+    {
+      "rank": "19.",
+      "title": "Semi-transparent solar panels allow concurrent production of crops and power",
+      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
+    },
+    {
+      "rank": "20.",
+      "title": "Bliss: A language for systems programming (1971) [pdf]",
+      "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
+    },
+    {
       "rank": "21.",
-      "title": "Show HN: Boook.link – Share a book with links to all stores",
-      "link": "https://boook.link"
+      "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
+      "link": "https://github.com/nsfw-filter/nsfw-filter"
     },
     {
       "rank": "22.",
-      "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
-      "link": "https://github.com/nsfw-filter/nsfw-filter"
+      "title": "Show HN: Boook.link – Share a book with links to all stores",
+      "link": "https://boook.link"
     },
     {
       "rank": "23.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
-      "title": "Congratulations for reaching a million, Gordon Linoff",
-      "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
-    },
-    {
-      "rank": "25.",
       "title": "Chromium devs want the browser to talk to devices, computers directly",
       "link": "https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/"
     },
     {
+      "rank": "25.",
+      "title": "Congratulations for reaching a million, Gordon Linoff",
+      "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
+    },
+    {
       "rank": "26.",
-      "title": "How to delete all your files",
-      "link": "https://www.reddit.com/r/linux/comments/if1krd/how_to_delete_all_your_files/"
+      "title": "Citigroup clerical error of $900M; a beneficiary refuses to hand back $175M",
+      "link": "https://en.mercopress.com/2020/08/19/citigroup-with-a-record-clerical-error-of-us-900-million-a-beneficiary-refuses-to-hand-back-us-175-million"
     },
     {
       "rank": "27.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "Citigroup clerical error of $900M; a beneficiary refuses to hand back $175M",
-      "link": "https://en.mercopress.com/2020/08/19/citigroup-with-a-record-clerical-error-of-us-900-million-a-beneficiary-refuses-to-hand-back-us-175-million"
+      "title": "How to delete all your files",
+      "link": "https://www.reddit.com/r/linux/comments/if1krd/how_to_delete_all_your_files/"
     },
     {
       "rank": "29.",
