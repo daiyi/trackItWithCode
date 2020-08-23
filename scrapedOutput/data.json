@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Degoogle: Cutting Google out of your life",
-      "link": "https://degoogle.jmoore.dev/"
-    },
-    {
-      "rank": "2.",
       "title": "Show HN: Using Rust to write shell-script like tasks",
       "link": "https://github.com/rust-shell-script/rust_cmd_lib"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "The cost of 1GB of mobile data in 228 countries (Feb 2020)",
       "link": "https://www.cable.co.uk/mobiles/worldwide-data-pricing/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Rosatom releases previously classified documentary video of Tsar Bomba nuke test",
       "link": "https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test"
+    },
+    {
+      "rank": "4.",
+      "title": "Degoogle: Cutting Google out of your life",
+      "link": "https://degoogle.jmoore.dev/"
     },
     {
       "rank": "5.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "MGA Entertainment: A privately-owned toy company doing billions in revenue",
-      "link": "https://julieyoung.substack.com/p/insane-companies-no-one-talks-about"
+      "title": "Apple takes Prepear logo trademark fight to Canada",
+      "link": "https://appleinsider.com/articles/20/08/22/apple-takes-prepear-logo-trademark-fight-to-canada"
     },
     {
       "rank": "10.",
@@ -52,38 +52,38 @@
     },
     {
       "rank": "11.",
-      "title": "PocketSuite is hiring (engineering, product, customer success, marketing)",
-      "link": "https://angel.co/company/pocketsuite"
+      "title": "MGA Entertainment: A privately-owned toy company doing billions in revenue",
+      "link": "https://julieyoung.substack.com/p/insane-companies-no-one-talks-about"
     },
     {
       "rank": "12.",
-      "title": "Apple at War with All Fruit",
-      "link": "https://appleinsider.com/articles/20/08/22/apple-takes-prepear-logo-trademark-fight-to-canada"
+      "title": "Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]",
+      "link": "http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf"
     },
     {
       "rank": "13.",
-      "title": "Future of DeepSpeech / STT after recent changes at Mozilla",
-      "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
-    },
-    {
-      "rank": "14.",
-      "title": "Uber and Lyft competitors ready if service is suspended in California",
-      "link": "https://www.cnbc.com/2020/08/19/uber-and-lyft-competitors-prepare-to-grab-market-share-in-california.html"
-    },
-    {
-      "rank": "15.",
       "title": "Scalable Bitmaps (2013)",
       "link": "https://ericportis.com/posts/2013/scalables/"
     },
     {
-      "rank": "16.",
+      "rank": "14.",
+      "title": "PocketSuite is hiring (engineering, product, customer success, marketing)",
+      "link": "https://angel.co/company/pocketsuite"
+    },
+    {
+      "rank": "15.",
       "title": "Apple apologizes to WordPress, won’t force the free app to add purchases",
       "link": "https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Reverse-engineering the 8086's Arithmetic/Logic Unit from die photos",
       "link": "http://www.righto.com/2020/08/reverse-engineering-8086s.html"
+    },
+    {
+      "rank": "17.",
+      "title": "Python Hash Tables: understanding dictionaries",
+      "link": "http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/"
     },
     {
       "rank": "18.",
@@ -92,58 +92,58 @@
     },
     {
       "rank": "19.",
-      "title": "Zero G: Some German mobile users still waiting for a signal",
-      "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
-    },
-    {
-      "rank": "20.",
-      "title": "Build tools around workflows, not workflows around tools",
-      "link": "https://thesephist.com/posts/tools/"
-    },
-    {
-      "rank": "21.",
-      "title": "Python Hash Tables: understanding dictionaries",
-      "link": "http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/"
-    },
-    {
-      "rank": "22.",
-      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
-      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
-    },
-    {
-      "rank": "23.",
       "title": "How Facebook quietly pressures its independent fact-checkers",
       "link": "https://www.fastcompany.com/90538655/facebook-is-quietly-pressuring-its-independent-fact-checkers-to-change-their-rulings"
     },
     {
-      "rank": "24.",
+      "rank": "20.",
+      "title": "Zero G: Some German mobile users still waiting for a signal",
+      "link": "https://apnews.com/1a29c754044d8f2a593911368e86d028"
+    },
+    {
+      "rank": "21.",
+      "title": "Build tools around workflows, not workflows around tools",
+      "link": "https://thesephist.com/posts/tools/"
+    },
+    {
+      "rank": "22.",
       "title": "Searx instances",
       "link": "https://searx.space/"
     },
     {
-      "rank": "25.",
+      "rank": "23.",
       "title": "VTM: A Text-Based Desktop Environment",
       "link": "https://vtm.netxs.online/"
     },
     {
-      "rank": "26.",
-      "title": "Show HN: Tiny CLI to save AWS costs in dev environments when you're sleeping",
-      "link": "https://www.npmjs.com/package/aws-cost-saver"
-    },
-    {
-      "rank": "27.",
+      "rank": "24.",
       "title": "Atmospheric Water Harvesting",
       "link": "https://www.chemistryworld.com/features/atmospheric-water-harvesting/4011929.article#/"
     },
     {
-      "rank": "28.",
+      "rank": "25.",
+      "title": "RPCS3 Inside Look: A Deep-Dive into Hardware and Performance Scaling",
+      "link": "https://rpcs3.net/blog/2020/08/21/hardware-performance-scaling/"
+    },
+    {
+      "rank": "26.",
+      "title": "AngelCAD: Script-based 3D solid modeller",
+      "link": "https://arnholm.github.io/angelcad-docs/"
+    },
+    {
+      "rank": "27.",
       "title": "California’s Wildfire Policy Backfired (2019)",
       "link": "https://www.motherjones.com/environment/2019/11/californias-wildfire-controlled-prescribed-burns-native-americans/"
     },
     {
+      "rank": "28.",
+      "title": "Don't Name Classes After Patterns. Mostly",
+      "link": "https://sender.cloudy.email/campaigns/paxjhchaiasjoifsiw/webversion/jdnapfbdgjegdqmdeduwc"
+    },
+    {
       "rank": "29.",
-      "title": "AngelCAD: Script-based 3D solid modeller",
-      "link": "https://arnholm.github.io/angelcad-docs/"
+      "title": "Future of DeepSpeech / STT after recent changes at Mozilla",
+      "link": "https://discourse.mozilla.org/t/future-of-deepspeech-stt-after-recent-changes-at-mozilla/66191"
     },
     {
       "rank": "30.",
