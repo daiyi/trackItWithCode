@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
-      "link": "https://github.com/nsfw-filter/nsfw-filter"
+      "title": "The demise of the second-hand bookshop",
+      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
     },
     {
       "rank": "5.",
-      "title": "The demise of the second-hand bookshop",
-      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
+      "title": "Chrome, Firefox extension that blocks NSFW images using TensorFlow JS",
+      "link": "https://github.com/nsfw-filter/nsfw-filter"
     },
     {
       "rank": "6.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
-      "title": "Songwhip – Share a music link to every platform",
-      "link": "https://songwhip.com"
-    },
-    {
-      "rank": "9.",
       "title": "Ketamine that's injected during arrests draws new scrutiny",
       "link": "https://abcnews.go.com/Health/wireStory/ketamine-injected-arrests-draws-scrutiny-72542386?cid=clicksource_4380645_8_heads_posts_card_hed"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Show HN: Using Rust to write shell-script like tasks",
       "link": "https://github.com/rust-shell-script/rust_cmd_lib"
+    },
+    {
+      "rank": "10.",
+      "title": "Songwhip – Share a music link to every platform",
+      "link": "https://songwhip.com"
     },
     {
       "rank": "11.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "US Border Patrol Says They Can Create Central Repository Of Traveler Emails",
-      "link": "https://viewfromthewing.com/us-border-patrol-says-they-can-create-central-repository-of-traveler-emails-keep-them-for-75-years/"
+      "title": "Paragon submits 27k NTFS driver to Linux kernel",
+      "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
     },
     {
       "rank": "13.",
@@ -67,43 +67,43 @@
     },
     {
       "rank": "14.",
-      "title": "Paragon submits 27k NTFS driver to Linux kernel",
-      "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
+      "title": "Build Your Own FPGA",
+      "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
     },
     {
       "rank": "15.",
+      "title": "US Border Patrol Says They Can Create Central Repository Of Traveler Emails",
+      "link": "https://viewfromthewing.com/us-border-patrol-says-they-can-create-central-repository-of-traveler-emails-keep-them-for-75-years/"
+    },
+    {
+      "rank": "16.",
       "title": "Degoogle: Cutting Google out of your life",
       "link": "https://degoogle.jmoore.dev/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "The cost of 1GB of mobile data in 228 countries (Feb 2020)",
       "link": "https://www.cable.co.uk/mobiles/worldwide-data-pricing/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Fallen Boulder Reveals 313M-Year-Old Fossil Footprints at Grand Canyon",
       "link": "https://www.npr.org/2020/08/21/904943006/fallen-boulder-reveals-313-million-year-old-fossil-footprints-at-grand-canyon"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "The French Army Is Building Renaissance-Style Fortresses in Africa",
       "link": "https://www.thedrive.com/the-war-zone/35863/the-french-army-is-building-renaissance-style-fortresses-in-africa"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "American Express to Acquire Kabbage",
       "link": "https://www.businesswire.com/news/home/20200817005350/en/American-Express-Acquire-Kabbage"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "YTS Torrent Tracker Part Of Brand New Anti-Piracy Scheme",
       "link": "https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/"
-    },
-    {
-      "rank": "21.",
-      "title": "Data from Chernobyl and Fukushima provide answers about the risks of nuclear",
-      "link": "https://medium.com/generation-atomic/for-the-first-time-world-learns-truth-about-risk-of-nuclear-6b7e97d435df"
     },
     {
       "rank": "22.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "Data from Chernobyl and Fukushima provide answers about the risks of nuclear",
+      "link": "https://medium.com/generation-atomic/for-the-first-time-world-learns-truth-about-risk-of-nuclear-6b7e97d435df"
+    },
+    {
+      "rank": "25.",
+      "title": "Writing a simple Python to C compiler: hello, fibonacci",
+      "link": "https://notes.eatonphil.com/writing-a-simple-python-compiler.html"
+    },
+    {
+      "rank": "26.",
       "title": "Oral History of Sophie Wilson 2012 Computer History Museum Fellow [pdf]",
       "link": "http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf"
     },
     {
-      "rank": "25.",
-      "title": "Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War",
-      "link": "https://worldofspectrum.net/features/warajevo/Story.html"
-    },
-    {
-      "rank": "26.",
-      "title": "Rosatom releases previously classified documentary video of Tsar Bomba nuke test",
-      "link": "https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test"
-    },
-    {
       "rank": "27.",
-      "title": "College Notebook of Isaac Newton",
-      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
-    },
-    {
-      "rank": "28.",
       "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
       "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
     },
     {
+      "rank": "28.",
+      "title": "Development of Warajevo: ZX Spectrum Emulator Made During the Bosnian War",
+      "link": "https://worldofspectrum.net/features/warajevo/Story.html"
+    },
+    {
       "rank": "29.",
-      "title": "Apple takes Prepear logo trademark fight to Canada",
-      "link": "https://appleinsider.com/articles/20/08/22/apple-takes-prepear-logo-trademark-fight-to-canada"
+      "title": "Rosatom releases previously classified documentary video of Tsar Bomba nuke test",
+      "link": "https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test"
     },
     {
       "rank": "30.",
-      "title": "Build tools around workflows, not workflows around tools",
-      "link": "https://thesephist.com/posts/tools/"
+      "title": "College Notebook of Isaac Newton",
+      "link": "http://cudl.lib.cam.ac.uk/view/MS-ADD-04000/"
     }
   ],
   "metadata": {
