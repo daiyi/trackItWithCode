@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
-      "title": "Challenge to scientists: does your ten-year-old code still run?",
-      "link": "https://www.nature.com/articles/d41586-020-02462-7"
-    },
-    {
-      "rank": "3.",
       "title": "Vitamin D, part 2: Shannon's story",
       "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
     },
     {
+      "rank": "3.",
+      "title": "Being OK with Not Being Extraordinary",
+      "link": "https://www.tiffanymatthe.com/not-extraordinary"
+    },
+    {
       "rank": "4.",
-      "title": "Emacs xwidget-webkit enhancement suite",
-      "link": "https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev"
+      "title": "Challenge to scientists: does your ten-year-old code still run?",
+      "link": "https://www.nature.com/articles/d41586-020-02462-7"
     },
     {
       "rank": "5.",
@@ -27,128 +27,128 @@
     },
     {
       "rank": "6.",
-      "title": "Ubuntu Philosophy",
-      "link": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
+      "title": "Emacs xwidget-webkit enhancement suite",
+      "link": "https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev"
     },
     {
       "rank": "7.",
-      "title": "A tale of webpage speed, or throwing away React",
-      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
-    },
-    {
-      "rank": "8.",
-      "title": "Being OK with Not Being Extraordinary",
-      "link": "https://www.tiffanymatthe.com/not-extraordinary"
-    },
-    {
-      "rank": "9.",
       "title": "Show HN: InstaNote – notes in a simple chat interface",
       "link": "https://www.instanote.io/"
     },
     {
+      "rank": "8.",
+      "title": "Applying tech frameworks to biotech: key differences",
+      "link": "https://www.celinehh.com/tech-vs-biotech"
+    },
+    {
+      "rank": "9.",
+      "title": "Ubuntu Philosophy",
+      "link": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
+    },
+    {
       "rank": "10.",
-      "title": "Why facial recognition has led to false arrests",
-      "link": "http://nautil.us/issue/89/the-dark-side/the-bias-in-the-machine"
-    },
-    {
-      "rank": "11.",
-      "title": "Pachyderm Raises $16M Series B and is hiring for all engineering roles",
-      "link": "https://jobs.lever.co/pachyderm/"
-    },
-    {
-      "rank": "12.",
-      "title": "Scaling Services with Shard Manager",
-      "link": "https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/"
-    },
-    {
-      "rank": "13.",
-      "title": "Automotive Grade Linux",
-      "link": "https://www.automotivelinux.org/"
-    },
-    {
-      "rank": "14.",
-      "title": "Increasing wind turbine rotor blade visibility reduces avian fatalities",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.6592"
-    },
-    {
-      "rank": "15.",
-      "title": "Minotaur: A pythonic, asynchronous, inotify interface",
-      "link": "https://github.com/giannitedesco/minotaur"
-    },
-    {
-      "rank": "16.",
-      "title": "αcτµαlly pδrταblε εxεcµταblε",
-      "link": "https://justine.storage.googleapis.com/ape.html"
-    },
-    {
-      "rank": "17.",
-      "title": "Show HN: My notes on Working with Go",
-      "link": "https://github.com/betty200744/ultimate-go"
-    },
-    {
-      "rank": "18.",
-      "title": "Kali Linux 2020.3",
-      "link": "https://www.kali.org/news/kali-2020-3-release/"
-    },
-    {
-      "rank": "19.",
       "title": "Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis",
       "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
     },
     {
+      "rank": "11.",
+      "title": "Scaling Services with Shard Manager",
+      "link": "https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/"
+    },
+    {
+      "rank": "12.",
+      "title": "A tale of webpage speed, or throwing away React",
+      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
+    },
+    {
+      "rank": "13.",
+      "title": "Pachyderm Raises $16M Series B and is hiring for all engineering roles",
+      "link": "https://jobs.lever.co/pachyderm/"
+    },
+    {
+      "rank": "14.",
+      "title": "Why facial recognition has led to false arrests",
+      "link": "http://nautil.us/issue/89/the-dark-side/the-bias-in-the-machine"
+    },
+    {
+      "rank": "15.",
+      "title": "Automotive Grade Linux",
+      "link": "https://www.automotivelinux.org/"
+    },
+    {
+      "rank": "16.",
+      "title": "Increasing wind turbine rotor blade visibility reduces avian fatalities",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.6592"
+    },
+    {
+      "rank": "17.",
+      "title": "Kali Linux 2020.3",
+      "link": "https://www.kali.org/news/kali-2020-3-release/"
+    },
+    {
+      "rank": "18.",
+      "title": "Show HN: My notes on Working with Go",
+      "link": "https://github.com/betty200744/ultimate-go"
+    },
+    {
+      "rank": "19.",
+      "title": "Minotaur: A pythonic, asynchronous, inotify interface",
+      "link": "https://github.com/giannitedesco/minotaur"
+    },
+    {
       "rank": "20.",
-      "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
-      "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
+      "title": "αcτµαlly pδrταblε εxεcµταblε",
+      "link": "https://justine.storage.googleapis.com/ape.html"
     },
     {
       "rank": "21.",
-      "title": "Free Expression of Professors and Its Prudential Limits",
-      "link": "https://conversableeconomist.blogspot.com/2020/08/free-expression-of-professors-and-its.html"
+      "title": "Emotional Resilience and Burnout in Leadership",
+      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
     },
     {
       "rank": "22.",
-      "title": "Solaris 10 Zones on Illumos Tribblix",
-      "link": "https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html"
-    },
-    {
-      "rank": "23.",
-      "title": "Why Every City Feels the Same Now",
-      "link": "https://www.theatlantic.com/technology/archive/2020/08/why-every-city-feels-same-now/615556/"
-    },
-    {
-      "rank": "24.",
-      "title": "Bletchley Park: New crisis for code-breaking hub",
-      "link": "https://www.bbc.co.uk/news/technology-53888151"
-    },
-    {
-      "rank": "25.",
-      "title": "Zoom Partial Outages",
-      "link": "https://status.zoom.us/"
-    },
-    {
-      "rank": "26.",
-      "title": "Pieter Levels Makes $600k a Year from Nomad List and Remote OK",
-      "link": "https://www.nocsdegree.com/pieter-levels-learn-coding/"
-    },
-    {
-      "rank": "27.",
       "title": "A Seed Stage Mental Framework to Limit Failure as a Startup Founder",
       "link": "https://thevalley.substack.com/p/fail-sucks-a-seed-stage-mental-framework"
     },
     {
+      "rank": "23.",
+      "title": "Solaris 10 Zones on Illumos Tribblix",
+      "link": "https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html"
+    },
+    {
+      "rank": "24.",
+      "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
+      "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
+    },
+    {
+      "rank": "25.",
+      "title": "Bletchley Park: New crisis for code-breaking hub",
+      "link": "https://www.bbc.co.uk/news/technology-53888151"
+    },
+    {
+      "rank": "26.",
+      "title": "Making money building Shopify micro-SaaS apps",
+      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
+    },
+    {
+      "rank": "27.",
+      "title": "Zoom Partial Outages",
+      "link": "https://status.zoom.us/"
+    },
+    {
       "rank": "28.",
-      "title": "A Mechanist's Guide to the Coronavirus Genome",
-      "link": "https://csvoss.com/a-mechanists-guide-to-the-coronavirus-genome"
+      "title": "Why Every City Feels the Same Now",
+      "link": "https://www.theatlantic.com/technology/archive/2020/08/why-every-city-feels-same-now/615556/"
     },
     {
       "rank": "29.",
-      "title": "Why You Will Marry the Wrong Person (2016)",
-      "link": "https://www.nytimes.com/2016/05/29/opinion/sunday/why-you-will-marry-the-wrong-person.html"
+      "title": "Pieter Levels Makes $600k a Year from Nomad List and Remote OK",
+      "link": "https://www.nocsdegree.com/pieter-levels-learn-coding/"
     },
     {
       "rank": "30.",
-      "title": "A Simple Scheme Compiler (1997)",
-      "link": "https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271"
+      "title": "Why You Will Marry the Wrong Person (2016)",
+      "link": "https://www.nytimes.com/2016/05/29/opinion/sunday/why-you-will-marry-the-wrong-person.html"
     }
   ],
   "metadata": {
