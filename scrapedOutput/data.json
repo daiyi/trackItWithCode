@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Microsoft backs Epic in court filing",
-      "link": "https://www.bbc.com/news/technology-53888087"
-    },
-    {
-      "rank": "2.",
       "title": "Being OK with Not Being Extraordinary",
       "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
-      "rank": "3.",
-      "title": "Jensen Huang’s Vision for Data Center Dominance Will Destroy the Arm Ecosystem",
-      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+      "rank": "2.",
+      "title": "Don't ask to ask, just ask",
+      "link": "https://dontasktoask.com/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "JFrog S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1800667/000119312520228195/d841831ds1.htm"
     },
     {
+      "rank": "4.",
+      "title": "Jensen Huang’s Vision for Data Center Dominance Will Destroy the Arm Ecosystem",
+      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+    },
+    {
       "rank": "5.",
-      "title": "Don't ask to ask, just ask",
-      "link": "https://dontasktoask.com/"
+      "title": "Unity Software Inc S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
     },
     {
       "rank": "6.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
-      "title": "Unity Software Inc S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
+      "title": "Docker to rate limit image pulls",
+      "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
     },
     {
       "rank": "8.",
-      "title": "Sumo Logic S-1 SEC",
-      "link": "https://sec.report/Document/0001193125-20-227201/"
+      "title": "How I helped fix Canadaʼs Covid Alert app",
+      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
     },
     {
       "rank": "9.",
-      "title": "Kodable is hiring a Game Designer to help us teach millions of kids to code",
-      "link": "https://angel.co/company/kodable/jobs/925512-senior-game-designer"
+      "title": "Sumo Logic S-1 SEC",
+      "link": "https://www.sec.gov/Archives/edgar/data/1643269/000119312520227201/d821436ds1.htm"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "How I helped fix Canadaʼs Covid Alert app",
-      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+      "title": "Emotional Resilience and Burnout in Leadership",
+      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
     },
     {
       "rank": "12.",
-      "title": "Emotional Resilience and Burnout in Leadership",
-      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
+      "title": "Kodable is hiring a Game Designer to help us teach millions of kids to code",
+      "link": "https://angel.co/company/kodable/jobs/925512-senior-game-designer"
     },
     {
       "rank": "13.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "TikTok Inc. vs. U.S. Department of Commerce",
-      "link": "https://www.courtlistener.com/docket/17472173/1/tiktok-inc-v-us-department-of-commerce/"
+      "title": "Making money building Shopify micro-SaaS apps",
+      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
     },
     {
       "rank": "15.",
@@ -77,43 +77,43 @@
     },
     {
       "rank": "16.",
-      "title": "Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis",
-      "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
-    },
-    {
-      "rank": "17.",
       "title": "Automotive Grade Linux",
       "link": "https://www.automotivelinux.org/"
     },
     {
-      "rank": "18.",
-      "title": "Making money building Shopify micro-SaaS apps",
-      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
+      "rank": "17.",
+      "title": "Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis",
+      "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Head of Danish intelligence suspended after whistleblowers hand over information",
       "link": "https://www.bbc.com/news/world-europe-53889612"
     },
     {
+      "rank": "19.",
+      "title": "TikTok Inc. vs. U.S. Department of Commerce",
+      "link": "https://www.courtlistener.com/docket/17472173/1/tiktok-inc-v-us-department-of-commerce/"
+    },
+    {
       "rank": "20.",
-      "title": "IBM 5160",
-      "link": "https://www.forsure.dev/-/2020/05/19/640-kilobytes-of-ram-and-why-i-bought-an-ibm-5160/"
-    },
-    {
-      "rank": "21.",
-      "title": "Show HN: Mys – an attempt to create a statically typed Python-like language",
-      "link": "https://github.com/eerimoq/mys"
-    },
-    {
-      "rank": "22.",
       "title": "αcτµαlly pδrταblε εxεcµταblε",
       "link": "https://justine.storage.googleapis.com/ape.html"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
       "title": "Emacs xwidget-webkit enhancement suite",
       "link": "https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev"
+    },
+    {
+      "rank": "22.",
+      "title": "Top colleges should select randomly from a pool of ‘good enough’ (2005)",
+      "link": "https://www.chronicle.com/article/top-colleges-should-select-randomly-from-a-pool-of-good-enough/"
+    },
+    {
+      "rank": "23.",
+      "title": "Show HN: Mys – an attempt to create a statically typed Python-like language",
+      "link": "https://github.com/eerimoq/mys"
     },
     {
       "rank": "24.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
-      "title": "Increasing wind turbine rotor blade visibility reduces avian fatalities",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.6592"
+      "title": "Writing a Test Case Generator for a Programming Language",
+      "link": "http://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
     },
     {
       "rank": "27.",
-      "title": "Ubuntu Philosophy",
-      "link": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
+      "title": "Microsoft backs Epic in court filing",
+      "link": "https://www.bbc.com/news/technology-53888087"
     },
     {
       "rank": "28.",
-      "title": "Kali Linux 2020.3",
-      "link": "https://www.kali.org/news/kali-2020-3-release/"
+      "title": "Ubuntu Philosophy",
+      "link": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Show HN: My notes on Working with Go",
-      "link": "https://github.com/betty200744/ultimate-go"
+      "title": "Kali Linux 2020.3",
+      "link": "https://www.kali.org/news/kali-2020-3-release/"
     }
   ],
   "metadata": {
