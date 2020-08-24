@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W",
-      "link": "https://github.com/lukicdarkoo/rpi-wifi"
+      "title": "Teletext Bad Apple",
+      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
     },
     {
       "rank": "10.",
-      "title": "Teletext Bad Apple",
-      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
+      "title": "Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W",
+      "link": "https://github.com/lukicdarkoo/rpi-wifi"
     },
     {
       "rank": "11.",
@@ -57,33 +57,33 @@
     },
     {
       "rank": "12.",
-      "title": "All about Woad",
-      "link": "http://www.woad.org.uk"
-    },
-    {
-      "rank": "13.",
       "title": "Implement an emulator for a fantasy CPU in JavaScript",
       "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
     },
     {
-      "rank": "14.",
-      "title": "Paragon submits 27k-line NTFS driver to Linux kernel",
-      "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
+      "rank": "13.",
+      "title": "All about Woad",
+      "link": "http://www.woad.org.uk"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
       "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "How to Leave Work at Work",
       "link": "https://hbr.org/2020/02/how-to-leave-work-at-work"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
       "link": "item?id=24252408"
+    },
+    {
+      "rank": "17.",
+      "title": "Paragon submits 27k-line NTFS driver to Linux kernel",
+      "link": "https://www.theregister.com/2020/08/18/paragon_tries_to_contribute_ntfs/"
     },
     {
       "rank": "18.",
@@ -102,48 +102,48 @@
     },
     {
       "rank": "21.",
-      "title": "CMDR-DOS: Commodore DOS on FAT32",
-      "link": "https://www.pagetable.com/?p=1421"
-    },
-    {
-      "rank": "22.",
       "title": "Bliss: A language for systems programming (1971) [pdf]",
       "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
     },
     {
-      "rank": "23.",
-      "title": "Chromium devs want the browser to talk to devices, computers directly",
-      "link": "https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/"
+      "rank": "22.",
+      "title": "CMDR-DOS: Commodore DOS on FAT32",
+      "link": "https://www.pagetable.com/?p=1421"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Mark Zuckerberg Stoked Washington’s Fears About TikTok",
       "link": "https://www.wsj.com/articles/facebook-ceo-mark-zuckerberg-stoked-washingtons-fears-about-tiktok-11598223133"
     },
     {
+      "rank": "24.",
+      "title": "Chromium devs want the browser to talk to devices, computers directly",
+      "link": "https://www.theregister.com/2020/08/22/chromium_devs_raw_sockets/"
+    },
+    {
       "rank": "25.",
-      "title": "Bare Metal Rust Generics",
-      "link": "https://www.ecorax.net/as-above-so-below-1/"
-    },
-    {
-      "rank": "26.",
-      "title": "Congratulations for reaching a million, Gordon Linoff",
-      "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
-    },
-    {
-      "rank": "27.",
-      "title": "The Disaster Poet",
-      "link": "https://www.laphamsquarterly.org/roundtable/disaster-poet"
-    },
-    {
-      "rank": "28.",
       "title": "PHP Built-In Web Server",
       "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
     },
     {
+      "rank": "26.",
+      "title": "Bare Metal Rust Generics",
+      "link": "https://www.ecorax.net/as-above-so-below-1/"
+    },
+    {
+      "rank": "27.",
+      "title": "Congratulations for reaching a million, Gordon Linoff",
+      "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
+    },
+    {
+      "rank": "28.",
+      "title": "Mozilla's Speech-to-Text Engine Is at Risk Following Layoffs",
+      "link": "https://www.phoronix.com/scan.php?page=news_item&px=DeepSpeech-At-Risk"
+    },
+    {
       "rank": "29.",
-      "title": "How to delete all your files",
-      "link": "https://www.reddit.com/r/linux/comments/if1krd/how_to_delete_all_your_files/"
+      "title": "The Disaster Poet",
+      "link": "https://www.laphamsquarterly.org/roundtable/disaster-poet"
     },
     {
       "rank": "30.",
