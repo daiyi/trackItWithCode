@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "A tale of webpage speed, or throwing away React",
-      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
+      "title": "Kali Linux 2020.3",
+      "link": "https://www.kali.org/news/kali-2020-3-release/"
     },
     {
       "rank": "6.",
-      "title": "Kali Linux 2020.3",
-      "link": "https://www.kali.org/news/kali-2020-3-release/"
+      "title": "A tale of webpage speed, or throwing away React",
+      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
     },
     {
       "rank": "7.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Solaris 10 Zones on Illumos Tribblix",
-      "link": "https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html"
+      "title": "Why facial recognition has led to false arrests",
+      "link": "http://nautil.us/issue/89/the-dark-side/the-bias-in-the-machine"
     },
     {
       "rank": "9.",
-      "title": "Why Every City Feels the Same Now",
-      "link": "https://www.theatlantic.com/technology/archive/2020/08/why-every-city-feels-same-now/615556/"
+      "title": "Solaris 10 Zones on Illumos Tribblix",
+      "link": "https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html"
     },
     {
       "rank": "10.",
@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "Why facial recognition has led to false arrests",
-      "link": "http://nautil.us/issue/89/the-dark-side/the-bias-in-the-machine"
+      "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
+      "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
     },
     {
       "rank": "12.",
+      "title": "Why You Will Marry the Wrong Person",
+      "link": "https://www.nytimes.com/2016/05/29/opinion/sunday/why-you-will-marry-the-wrong-person.html"
+    },
+    {
+      "rank": "13.",
       "title": "Streaming Is Laying Bare How Big ISPs and Big Tech Work Together Against Users",
       "link": "https://www.eff.org/deeplinks/2020/06/streaming-laying-bare-how-big-isps-big-tech-and-big-media-work-together-against"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Mechanical Turing Machine in Wood",
       "link": "https://www.youtube.com/watch?v=vo8izCKHiF0"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Women Crowdfunded Radium For Marie Curie",
       "link": "https://www.smithsonianmag.com/smart-news/when-women-crowdfunded-radium-marie-curie-180963305/"
-    },
-    {
-      "rank": "15.",
-      "title": "Pieter Levels Makes $600k a Year from Nomad List and Remote OK",
-      "link": "https://www.nocsdegree.com/pieter-levels-learn-coding/"
     },
     {
       "rank": "16.",
@@ -82,53 +82,53 @@
     },
     {
       "rank": "17.",
-      "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
-      "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
+      "title": "Pieter Levels Makes $600k a Year from Nomad List and Remote OK",
+      "link": "https://www.nocsdegree.com/pieter-levels-learn-coding/"
     },
     {
       "rank": "18.",
+      "title": "Palantir, Tech’s Next Big IPO, Lost $580M in 2019",
+      "link": "https://www.nytimes.com/2020/08/21/technology/palantir-ipo-580-million-loss.html"
+    },
+    {
+      "rank": "19.",
       "title": "Building resilient services at Prime Video with chaos engineering",
       "link": "https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/"
     },
     {
-      "rank": "19.",
-      "title": "Why You Will Marry the Wrong Person",
-      "link": "https://www.nytimes.com/2016/05/29/opinion/sunday/why-you-will-marry-the-wrong-person.html"
-    },
-    {
       "rank": "20.",
-      "title": "Btrfs Coming to Fedora 33",
-      "link": "https://fedoramagazine.org/btrfs-coming-to-fedora-33/"
-    },
-    {
-      "rank": "21.",
       "title": "Spinning black hole powers jet by magnetic flux",
       "link": "https://phys.org/news/2020-08-black-hole-powers-jet-magnetic.html"
     },
     {
-      "rank": "22.",
-      "title": "Network Coding in P2P Networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
+      "rank": "21.",
+      "title": "Btrfs Coming to Fedora 33",
+      "link": "https://fedoramagazine.org/btrfs-coming-to-fedora-33/"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Cryptography Dispatches: Registries Considered Harmful",
       "link": "https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/"
     },
     {
+      "rank": "23.",
+      "title": "A Do-It-Yourself paper digital computer (1959)",
+      "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
+    },
+    {
       "rank": "24.",
-      "title": "CMDR-DOS: Commodore DOS on FAT32",
-      "link": "https://www.pagetable.com/?p=1421"
+      "title": "Network Coding in P2P Networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
     },
     {
       "rank": "25.",
-      "title": "Patrick Collison's Questions",
-      "link": "https://patrickcollison.com/questions"
+      "title": "70% Reduction in Avian Fatalities via Wind Turbines by Painting 1 Blade Black",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.6592"
     },
     {
       "rank": "26.",
-      "title": "A Do-It-Yourself paper digital computer (1959)",
-      "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
+      "title": "Patrick Collison's Questions",
+      "link": "https://patrickcollison.com/questions"
     },
     {
       "rank": "27.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "Persisting as a solo founder",
-      "link": "https://vishnu.tech/posts/persistence/"
+      "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
+      "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
     },
     {
       "rank": "29.",
-      "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
-      "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
+      "title": "Persisting as a solo founder",
+      "link": "https://vishnu.tech/posts/persistence/"
     },
     {
       "rank": "30.",
