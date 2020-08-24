@@ -17,28 +17,28 @@
     },
     {
       "rank": "4.",
-      "title": "A step towards new nitrogen products",
-      "link": "https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air"
-    },
-    {
-      "rank": "5.",
       "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
       "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
     },
     {
-      "rank": "6.",
-      "title": "Build Your Own FPGA (2012)",
-      "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
+      "rank": "5.",
+      "title": "A step towards new nitrogen products",
+      "link": "https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Patrick Collison's Questions",
       "link": "https://patrickcollison.com/questions"
     },
     {
+      "rank": "7.",
+      "title": "Staking Claims with Scheduled Tweets",
+      "link": "https://shkspr.mobi/blog/2020/08/staking-claims-with-scheduled-tweets/"
+    },
+    {
       "rank": "8.",
-      "title": "Network Coding in P2P Networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
+      "title": "A Clean Start for the Web",
+      "link": "https://macwright.com/2020/08/22/clean-starts-for-the-web.html"
     },
     {
       "rank": "9.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
-      "title": "A Clean Start for the Web",
-      "link": "https://macwright.com/2020/08/22/clean-starts-for-the-web.html"
+      "title": "Network Coding in P2P Networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
     },
     {
       "rank": "11.",
-      "title": "Staking Claims with Scheduled Tweets",
-      "link": "https://shkspr.mobi/blog/2020/08/staking-claims-with-scheduled-tweets/"
+      "title": "Songwhip – Share a music link to every platform",
+      "link": "https://songwhip.com"
     },
     {
       "rank": "12.",
-      "title": "Songwhip – Share a music link to every platform",
-      "link": "https://songwhip.com"
+      "title": "PHP Built-In Web Server",
+      "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
     },
     {
       "rank": "13.",
@@ -77,43 +77,43 @@
     },
     {
       "rank": "16.",
-      "title": "Bliss: A language for systems programming (1971) [pdf]",
-      "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
-    },
-    {
-      "rank": "17.",
       "title": "Height Modernization: Recalibrating where the U.S. physically sits on the planet",
       "link": "https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html"
     },
     {
+      "rank": "17.",
+      "title": "Universal basic income seems to improve employment and well-being",
+      "link": "https://www.newscientist.com/article/2242937-universal-basic-income-seems-to-improve-employment-and-well-being/#Echobox=1598028651"
+    },
+    {
       "rank": "18.",
-      "title": "PHP Built-In Web Server",
-      "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
+      "title": "Bliss: A language for systems programming (1971) [pdf]",
+      "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
     },
     {
       "rank": "19.",
-      "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
-      "link": "item?id=24252408"
-    },
-    {
-      "rank": "20.",
       "title": "Teletext Bad Apple",
       "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
     },
     {
+      "rank": "20.",
+      "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
+      "link": "item?id=24252408"
+    },
+    {
       "rank": "21.",
+      "title": "Ten countries kept out Covid, but did they win?",
+      "link": "https://www.bbc.com/news/world-asia-53831063"
+    },
+    {
+      "rank": "22.",
       "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
       "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Mozilla's Speech-to-Text Engine Is at Risk Following Layoffs",
       "link": "https://www.phoronix.com/scan.php?page=news_item&px=DeepSpeech-At-Risk"
-    },
-    {
-      "rank": "23.",
-      "title": "Show HN: Boook.link – Share a book with links to all stores",
-      "link": "https://boook.link"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "Show HN: Boook.link – Share a book with links to all stores",
+      "link": "https://boook.link"
+    },
+    {
+      "rank": "26.",
       "title": "All about Woad",
       "link": "http://www.woad.org.uk"
     },
     {
-      "rank": "26.",
-      "title": "Never run ‘python’ in your downloads folder",
-      "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
+      "rank": "27.",
+      "title": "Build Your Own FPGA (2012)",
+      "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Some Ugly Code Can Get Nvidia's Linux Driver Working with Accelerated XWayland",
       "link": "https://www.phoronix.com/scan.php?page=news_item&px=GLX-Delay-Accel-NV-XWayland"
     },
     {
-      "rank": "28.",
-      "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
-      "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
-    },
-    {
       "rank": "29.",
-      "title": "Ten countries kept out Covid, but did they win?",
-      "link": "https://www.bbc.com/news/world-asia-53831063"
+      "title": "Never run ‘python’ in your downloads folder",
+      "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
     },
     {
       "rank": "30.",
-      "title": "Bare Metal Rust Generics",
-      "link": "https://www.ecorax.net/as-above-so-below-1/"
+      "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
+      "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
     }
   ],
   "metadata": {
