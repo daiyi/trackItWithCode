@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "A tale of webpage speed, or throwing away React",
-      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
+      "title": "Kali Linux 2020.3",
+      "link": "https://www.kali.org/news/kali-2020-3-release/"
     },
     {
       "rank": "5.",
-      "title": "Kali Linux 2020.3",
-      "link": "https://www.kali.org/news/kali-2020-3-release/"
+      "title": "A tale of webpage speed, or throwing away React",
+      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
     },
     {
       "rank": "6.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Building resilient services at Prime Video with chaos engineering",
-      "link": "https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/"
+      "title": "Why I'm Putting All My Savings into Bitcoin (2011)",
+      "link": "https://falkvinge.net/2011/05/29/why-im-putting-all-my-savings-into-bitcoin/"
     },
     {
       "rank": "13.",
-      "title": "Why I'm Putting All My Savings into Bitcoin (2011)",
-      "link": "https://falkvinge.net/2011/05/29/why-im-putting-all-my-savings-into-bitcoin/"
+      "title": "Building resilient services at Prime Video with chaos engineering",
+      "link": "https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/"
     },
     {
       "rank": "14.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "Cryptography Dispatches: Registries Considered Harmful",
-      "link": "https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/"
+      "title": "A step towards new nitrogen products",
+      "link": "https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air"
     },
     {
       "rank": "17.",
-      "title": "A step towards new nitrogen products",
-      "link": "https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air"
+      "title": "Cryptography Dispatches: Registries Considered Harmful",
+      "link": "https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/"
     },
     {
       "rank": "18.",
@@ -92,43 +92,43 @@
     },
     {
       "rank": "19.",
+      "title": "Mechanical Turing Machine in Wood",
+      "link": "https://www.youtube.com/watch?v=vo8izCKHiF0"
+    },
+    {
+      "rank": "20.",
       "title": "Network Coding in P2P Networks",
       "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "CMDR-DOS: Commodore DOS on FAT32",
       "link": "https://www.pagetable.com/?p=1421"
     },
     {
-      "rank": "21.",
-      "title": "A Do-It-Yourself paper digital computer (1959)",
-      "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
-    },
-    {
       "rank": "22.",
-      "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
-      "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
-    },
-    {
-      "rank": "23.",
       "title": "Patrick Collison's Questions",
       "link": "https://patrickcollison.com/questions"
     },
     {
+      "rank": "23.",
+      "title": "A Do-It-Yourself paper digital computer (1959)",
+      "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
+    },
+    {
       "rank": "24.",
+      "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
+      "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
+    },
+    {
+      "rank": "25.",
       "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
       "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Height Modernization: Recalibrating where the U.S. physically sits on the planet",
       "link": "https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html"
-    },
-    {
-      "rank": "26.",
-      "title": "Mechanical Turing Machine in Wood",
-      "link": "https://www.youtube.com/watch?v=vo8izCKHiF0"
     },
     {
       "rank": "27.",
