@@ -47,48 +47,48 @@
     },
     {
       "rank": "10.",
-      "title": "Nuclear Reactor Development History",
-      "link": "https://whatisnuclear.com/reactor_history.html"
-    },
-    {
-      "rank": "11.",
-      "title": "A tale of webpage speed, or throwing away React",
-      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
-    },
-    {
-      "rank": "12.",
-      "title": "Making money building Shopify micro-SaaS apps",
-      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
-    },
-    {
-      "rank": "13.",
-      "title": "Kodable is hiring a Game Designer to help us teach millions of kids to code",
-      "link": "https://angel.co/company/kodable/jobs/925512-senior-game-designer"
-    },
-    {
-      "rank": "14.",
-      "title": "Show HN: InstaNote – notes in a simple chat interface",
-      "link": "https://www.instanote.io/"
-    },
-    {
-      "rank": "15.",
       "title": "A Mechanist's Guide to the Coronavirus Genome",
       "link": "https://csvoss.com/a-mechanists-guide-to-the-coronavirus-genome"
     },
     {
+      "rank": "11.",
+      "title": "Making money building Shopify micro-SaaS apps",
+      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
+    },
+    {
+      "rank": "12.",
+      "title": "A tale of webpage speed, or throwing away React",
+      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
+    },
+    {
+      "rank": "13.",
+      "title": "Nuclear Reactor Development History",
+      "link": "https://whatisnuclear.com/reactor_history.html"
+    },
+    {
+      "rank": "14.",
+      "title": "Kodable is hiring a Game Designer to help us teach millions of kids to code",
+      "link": "https://angel.co/company/kodable/jobs/925512-senior-game-designer"
+    },
+    {
+      "rank": "15.",
+      "title": "Show HN: InstaNote – notes in a simple chat interface",
+      "link": "https://www.instanote.io/"
+    },
+    {
       "rank": "16.",
-      "title": "TikTok Inc. vs. U.S. Department of Commerce",
-      "link": "https://www.courtlistener.com/docket/17472173/1/tiktok-inc-v-us-department-of-commerce/"
+      "title": "Don't ask to ask, just ask",
+      "link": "https://dontasktoask.com/"
     },
     {
       "rank": "17.",
-      "title": "Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis",
-      "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
+      "title": "Automotive Grade Linux",
+      "link": "https://www.automotivelinux.org/"
     },
     {
       "rank": "18.",
-      "title": "Automotive Grade Linux",
-      "link": "https://www.automotivelinux.org/"
+      "title": "Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis",
+      "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Head of Danish intelligence suspended after whistleblowers hand over information",
-      "link": "https://www.bbc.com/news/world-europe-53889612"
+      "title": "TikTok Inc. vs. U.S. Department of Commerce",
+      "link": "https://www.courtlistener.com/docket/17472173/1/tiktok-inc-v-us-department-of-commerce/"
     },
     {
       "rank": "21.",
-      "title": "Don't ask to ask, just ask",
-      "link": "https://dontasktoask.com/"
+      "title": "Head of Danish intelligence suspended after whistleblowers hand over information",
+      "link": "https://www.bbc.com/news/world-europe-53889612"
     },
     {
       "rank": "22.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "Writing a Test Case Generator for a Programming Language",
-      "link": "http://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
+      "title": "Medieval DNA suggests Columbus didn’t trigger syphilis epidemic in Europe",
+      "link": "https://www.sciencemag.org/news/2020/08/medieval-dna-suggests-columbus-didn-t-trigger-syphilis-epidemic-europe"
     },
     {
       "rank": "26.",
-      "title": "Show HN: ThePenTool – Library of design assets",
-      "link": "https://thepentool.co"
-    },
-    {
-      "rank": "27.",
-      "title": "Show HN: Mys – an attempt to create a statically typed Python-like language",
-      "link": "https://github.com/eerimoq/mys"
-    },
-    {
-      "rank": "28.",
       "title": "TriFinger: An Open-Source Robot for Learning Dexterity",
       "link": "https://sites.google.com/view/trifinger"
     },
     {
+      "rank": "27.",
+      "title": "Writing a Test Case Generator for a Programming Language",
+      "link": "http://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
+    },
+    {
+      "rank": "28.",
+      "title": "Show HN: Mys – an attempt to create a statically typed Python-like language",
+      "link": "https://github.com/eerimoq/mys"
+    },
+    {
       "rank": "29.",
-      "title": "Sumo Logic S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1643269/000119312520227201/d821436ds1.htm"
+      "title": "Show HN: ThePenTool – Library of design assets",
+      "link": "https://thepentool.co"
     },
     {
       "rank": "30.",
-      "title": "UberEats could be underpaying delivery drivers on 21% of trips",
-      "link": "https://www.businessinsider.com/uber-eats-driver-who-scraped-data-alleges-wage-theft-report-2020-8"
+      "title": "Sumo Logic S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1643269/000119312520227201/d821436ds1.htm"
     }
   ],
   "metadata": {
