@@ -7,23 +7,23 @@
     },
     {
       "rank": "2.",
+      "title": "A Simple Scheme Compiler",
+      "link": "https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271"
+    },
+    {
+      "rank": "3.",
       "title": "A step towards new nitrogen products",
       "link": "https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air"
     },
     {
-      "rank": "3.",
-      "title": "Why is it ok to divide by 0.0?",
-      "link": "https://wordsandbuttons.online/why_is_it_ok_to_divide_by_0_0.html"
-    },
-    {
       "rank": "4.",
-      "title": "What coronavirus will do to our offices and homes",
-      "link": "https://www.bbc.co.uk/news/resources/idt-dc2d6e2d-3ab4-42de-8d03-bb7eda5fff8e"
+      "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
+      "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
     },
     {
       "rank": "5.",
-      "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
-      "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
+      "title": "What coronavirus will do to our offices and homes",
+      "link": "https://www.bbc.co.uk/news/resources/idt-dc2d6e2d-3ab4-42de-8d03-bb7eda5fff8e"
     },
     {
       "rank": "6.",
@@ -32,23 +32,23 @@
     },
     {
       "rank": "7.",
+      "title": "Building resilient services at Prime Video with chaos engineering",
+      "link": "https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/"
+    },
+    {
+      "rank": "8.",
       "title": "Patrick Collison's Questions",
       "link": "https://patrickcollison.com/questions"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Network Coding in P2P Networks",
       "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "CMDR-DOS: Commodore DOS on FAT32",
       "link": "https://www.pagetable.com/?p=1421"
-    },
-    {
-      "rank": "10.",
-      "title": "The demise of the second-hand bookshop",
-      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
     },
     {
       "rank": "11.",
@@ -57,23 +57,23 @@
     },
     {
       "rank": "12.",
-      "title": "Semi-transparent solar panels allow concurrent production of crops and power",
-      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
+      "title": "The demise of the second-hand bookshop",
+      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
     },
     {
       "rank": "13.",
-      "title": "Songwhip – Share a music link to every platform",
-      "link": "https://songwhip.com"
+      "title": "Height Modernization: Recalibrating where the U.S. physically sits on the planet",
+      "link": "https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html"
     },
     {
       "rank": "14.",
-      "title": "How to Leave Work at Work",
-      "link": "https://hbr.org/2020/02/how-to-leave-work-at-work"
+      "title": "Finding vulnerable Twitter accounts with expired domains",
+      "link": "https://zainamro.com/hacks/finding-vulnerable-twitter-accounts"
     },
     {
       "rank": "15.",
-      "title": "Finding vulnerable Twitter accounts with expired domains",
-      "link": "https://zainamro.com/hacks/finding-vulnerable-twitter-accounts"
+      "title": "Songwhip – Share a music link to every platform",
+      "link": "https://songwhip.com"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
-      "title": "Height Modernization: Recalibrating where the U.S. physically sits on the planet",
-      "link": "https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html"
-    },
-    {
-      "rank": "18.",
       "title": "Persisting as a solo founder",
       "link": "https://vishnu.tech/posts/persistence/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Implement an emulator for a fantasy CPU in JavaScript",
       "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
+    },
+    {
+      "rank": "19.",
+      "title": "Bliss: A language for systems programming (1971) [pdf]",
+      "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
     },
     {
       "rank": "20.",
@@ -102,28 +102,28 @@
     },
     {
       "rank": "21.",
-      "title": "Bliss: A language for systems programming (1971) [pdf]",
-      "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
-    },
-    {
-      "rank": "22.",
       "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
       "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Teletext Bad Apple",
       "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Mozilla's Speech-to-Text Engine Is at Risk Following Layoffs",
       "link": "https://www.phoronix.com/scan.php?page=news_item&px=DeepSpeech-At-Risk"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
       "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
+    },
+    {
+      "rank": "25.",
+      "title": "A Clean Start for the Web",
+      "link": "https://macwright.com/2020/08/22/clean-starts-for-the-web.html"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "A Clean Start for the Web",
-      "link": "https://macwright.com/2020/08/22/clean-starts-for-the-web.html"
-    },
-    {
-      "rank": "28.",
       "title": "Show HN: Boook.link – Share a book with links to all stores",
       "link": "https://boook.link"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Bare Metal Rust Generics",
       "link": "https://www.ecorax.net/as-above-so-below-1/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Never run ‘python’ in your downloads folder",
       "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
+    },
+    {
+      "rank": "30.",
+      "title": "Congratulations for reaching a million, Gordon Linoff",
+      "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
     }
   ],
   "metadata": {
