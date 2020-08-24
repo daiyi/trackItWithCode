@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
-      "title": "Kali Linux 2020.3",
-      "link": "https://www.kali.org/news/kali-2020-3-release/"
-    },
-    {
-      "rank": "4.",
       "title": "Emacs xwidget-webkit enhancement suite",
       "link": "https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "A tale of webpage speed, or throwing away React",
       "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
+    },
+    {
+      "rank": "5.",
+      "title": "Kali Linux 2020.3",
+      "link": "https://www.kali.org/news/kali-2020-3-release/"
     },
     {
       "rank": "6.",
@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Pieter Levels Makes $600k a Year from Nomad List and Remote OK",
-      "link": "https://www.nocsdegree.com/pieter-levels-learn-coding/"
+      "title": "Solaris 10 Zones on Illumos Tribblix",
+      "link": "https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html"
     },
     {
       "rank": "8.",
-      "title": "Solaris 10 Zones on Illumos Tribblix",
-      "link": "https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html"
+      "title": "Pieter Levels Makes $600k a Year from Nomad List and Remote OK",
+      "link": "https://www.nocsdegree.com/pieter-levels-learn-coding/"
     },
     {
       "rank": "9.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Cryptography Dispatches: Registries Considered Harmful",
-      "link": "https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/"
+      "title": "Btrfs Coming to Fedora 33",
+      "link": "https://fedoramagazine.org/btrfs-coming-to-fedora-33/"
     },
     {
       "rank": "16.",
-      "title": "Btrfs Coming to Fedora 33",
-      "link": "https://fedoramagazine.org/btrfs-coming-to-fedora-33/"
+      "title": "Cryptography Dispatches: Registries Considered Harmful",
+      "link": "https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/"
     },
     {
       "rank": "17.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
-      "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
+      "title": "Network Coding in P2P Networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
     },
     {
       "rank": "20.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Network Coding in P2P Networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
+      "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
+      "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
     },
     {
       "rank": "23.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "Mechanical Turing Machine in Wood",
+      "link": "https://www.youtube.com/watch?v=vo8izCKHiF0"
+    },
+    {
+      "rank": "27.",
       "title": "Persisting as a solo founder",
       "link": "https://vishnu.tech/posts/persistence/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Staking Claims with Scheduled Tweets",
       "link": "https://shkspr.mobi/blog/2020/08/staking-claims-with-scheduled-tweets/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Bliss: A language for systems programming (1971) [pdf]",
       "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
       "link": "item?id=24252408"
-    },
-    {
-      "rank": "30.",
-      "title": "Mozilla's Speech-to-Text Engine Is at Risk Following Layoffs",
-      "link": "https://www.phoronix.com/scan.php?page=news_item&px=DeepSpeech-At-Risk"
     }
   ],
   "metadata": {
