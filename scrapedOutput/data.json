@@ -27,23 +27,23 @@
     },
     {
       "rank": "6.",
-      "title": "Building resilient services at Prime Video with chaos engineering",
-      "link": "https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/"
-    },
-    {
-      "rank": "7.",
       "title": "Streaming Is Laying Bare How Big ISPs and Big Tech Work Together Against Users",
       "link": "https://www.eff.org/deeplinks/2020/06/streaming-laying-bare-how-big-isps-big-tech-and-big-media-work-together-against"
     },
     {
+      "rank": "7.",
+      "title": "Building resilient services at Prime Video with chaos engineering",
+      "link": "https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/"
+    },
+    {
       "rank": "8.",
-      "title": "Btrfs Coming to Fedora 33",
-      "link": "https://fedoramagazine.org/btrfs-coming-to-fedora-33/"
+      "title": "Top Colleges Should Select Randomly from a Pool of ‘Good Enough’",
+      "link": "https://www.chronicle.com/article/top-colleges-should-select-randomly-from-a-pool-of-good-enough/"
     },
     {
       "rank": "9.",
-      "title": "Top Colleges Should Select Randomly from a Pool of ‘Good Enough’",
-      "link": "https://www.chronicle.com/article/top-colleges-should-select-randomly-from-a-pool-of-good-enough/"
+      "title": "Btrfs Coming to Fedora 33",
+      "link": "https://fedoramagazine.org/btrfs-coming-to-fedora-33/"
     },
     {
       "rank": "10.",
@@ -57,48 +57,48 @@
     },
     {
       "rank": "12.",
-      "title": "Universal basic income seems to improve employment and well-being",
-      "link": "https://www.newscientist.com/article/2242937-universal-basic-income-seems-to-improve-employment-and-well-being/#Echobox=1598028651"
-    },
-    {
-      "rank": "13.",
       "title": "CMDR-DOS: Commodore DOS on FAT32",
       "link": "https://www.pagetable.com/?p=1421"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "PHP Built-In Web Server",
       "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
     },
     {
-      "rank": "15.",
-      "title": "A Do-It-Yourself paper digital computer (1959)",
-      "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
-    },
-    {
-      "rank": "16.",
-      "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
-      "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
-    },
-    {
-      "rank": "17.",
+      "rank": "14.",
       "title": "Network Coding in P2P Networks",
       "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
     },
     {
-      "rank": "18.",
+      "rank": "15.",
+      "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
+      "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
+    },
+    {
+      "rank": "16.",
+      "title": "A Do-It-Yourself paper digital computer (1959)",
+      "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
+    },
+    {
+      "rank": "17.",
       "title": "Staking Claims with Scheduled Tweets",
       "link": "https://shkspr.mobi/blog/2020/08/staking-claims-with-scheduled-tweets/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Implement an emulator for a fantasy CPU in JavaScript",
       "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Persisting as a solo founder",
       "link": "https://vishnu.tech/posts/persistence/"
+    },
+    {
+      "rank": "20.",
+      "title": "Universal basic income seems to improve employment and well-being",
+      "link": "https://www.newscientist.com/article/2242937-universal-basic-income-seems-to-improve-employment-and-well-being/#Echobox=1598028651"
     },
     {
       "rank": "21.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
-      "link": "item?id=24252408"
+      "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
+      "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
     },
     {
       "rank": "25.",
-      "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
-      "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
+      "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
+      "link": "item?id=24252408"
     },
     {
       "rank": "26.",
