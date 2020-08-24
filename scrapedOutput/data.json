@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "A Simple Scheme Compiler",
-      "link": "https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271"
+      "title": "Building resilient services at Prime Video with chaos engineering",
+      "link": "https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/"
     },
     {
       "rank": "3.",
-      "title": "Building resilient services at Prime Video with chaos engineering",
-      "link": "https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/"
+      "title": "A Simple Scheme Compiler",
+      "link": "https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271"
     },
     {
       "rank": "4.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Network Coding in P2P Networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
+      "title": "PHP Built-In Web Server",
+      "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
     },
     {
       "rank": "9.",
-      "title": "PHP Built-In Web Server",
-      "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
+      "title": "Network Coding in P2P Networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
     },
     {
       "rank": "10.",
@@ -52,23 +52,23 @@
     },
     {
       "rank": "11.",
-      "title": "The demise of the second-hand bookshop",
-      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
-    },
-    {
-      "rank": "12.",
       "title": "Songwhip – Share a music link to every platform",
       "link": "https://songwhip.com"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Height Modernization: Recalibrating where the U.S. physically sits on the planet",
       "link": "https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "My Fourier Epicycles",
       "link": "https://www.myfourierepicycles.com/"
+    },
+    {
+      "rank": "14.",
+      "title": "A Clean Start for the Web",
+      "link": "https://macwright.com/2020/08/22/clean-starts-for-the-web.html"
     },
     {
       "rank": "15.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "A Clean Start for the Web",
-      "link": "https://macwright.com/2020/08/22/clean-starts-for-the-web.html"
+      "title": "2020: An Isolation Odyssey",
+      "link": "http://lydiacambron.com/index.php/project/2020-an-isolation-odyssey/"
     },
     {
       "rank": "19.",
@@ -132,18 +132,18 @@
     },
     {
       "rank": "27.",
+      "title": "Some Ugly Code Can Get Nvidia's Linux Driver Working with Accelerated XWayland",
+      "link": "https://www.phoronix.com/scan.php?page=news_item&px=GLX-Delay-Accel-NV-XWayland"
+    },
+    {
+      "rank": "28.",
       "title": "Never run ‘python’ in your downloads folder",
       "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Bare Metal Rust Generics",
       "link": "https://www.ecorax.net/as-above-so-below-1/"
-    },
-    {
-      "rank": "29.",
-      "title": "Some Ugly Code Can Get Nvidia's Linux Driver Working with Accelerated XWayland",
-      "link": "https://www.phoronix.com/scan.php?page=news_item&px=GLX-Delay-Accel-NV-XWayland"
     },
     {
       "rank": "30.",
