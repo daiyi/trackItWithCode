@@ -12,138 +12,138 @@
     },
     {
       "rank": "3.",
-      "title": "Challenge to scientists: does your ten-year-old code still run?",
-      "link": "https://www.nature.com/articles/d41586-020-02462-7"
-    },
-    {
-      "rank": "4.",
-      "title": "Sumo Logic S-1 SEC",
-      "link": "https://sec.report/Document/0001193125-20-227201/"
-    },
-    {
-      "rank": "5.",
-      "title": "Vitamin D, part 2: Shannon's story",
-      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
-    },
-    {
-      "rank": "6.",
-      "title": "Unity Software Inc S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
-    },
-    {
-      "rank": "7.",
-      "title": "Kodable is hiring a Game Designer to help us teach millions of kids to code",
-      "link": "https://angel.co/company/kodable/jobs/925512-senior-game-designer"
-    },
-    {
-      "rank": "8.",
-      "title": "Head of Danish intelligence suspended after whistleblowers hand over information",
-      "link": "https://www.bbc.com/news/world-europe-53889612"
-    },
-    {
-      "rank": "9.",
-      "title": "Don't ask to ask, just ask",
-      "link": "https://dontasktoask.com/"
-    },
-    {
-      "rank": "10.",
-      "title": "Emotional Resilience and Burnout in Leadership",
-      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
-    },
-    {
-      "rank": "11.",
-      "title": "TikTok Inc. vs. U.S. Department of Commerce",
-      "link": "https://www.courtlistener.com/docket/17472173/1/tiktok-inc-v-us-department-of-commerce/"
-    },
-    {
-      "rank": "12.",
-      "title": "Show HN: InstaNote – notes in a simple chat interface",
-      "link": "https://www.instanote.io/"
-    },
-    {
-      "rank": "13.",
-      "title": "How I helped fix Canadaʼs Covid Alert app",
-      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
-    },
-    {
-      "rank": "14.",
-      "title": "Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis",
-      "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
-    },
-    {
-      "rank": "15.",
-      "title": "Making money building Shopify micro-SaaS apps",
-      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
-    },
-    {
-      "rank": "16.",
-      "title": "Automotive Grade Linux",
-      "link": "https://www.automotivelinux.org/"
-    },
-    {
-      "rank": "17.",
-      "title": "Applying tech frameworks to biotech: key differences",
-      "link": "https://www.celinehh.com/tech-vs-biotech"
-    },
-    {
-      "rank": "18.",
       "title": "Jensen Huang’s Vision for Data Center Dominance Will Destroy the Arm Ecosystem",
       "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
     },
     {
+      "rank": "4.",
+      "title": "JFrog S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1800667/000119312520228195/d841831ds1.htm"
+    },
+    {
+      "rank": "5.",
+      "title": "Don't ask to ask, just ask",
+      "link": "https://dontasktoask.com/"
+    },
+    {
+      "rank": "6.",
+      "title": "Challenge to scientists: does your ten-year-old code still run?",
+      "link": "https://www.nature.com/articles/d41586-020-02462-7"
+    },
+    {
+      "rank": "7.",
+      "title": "Unity Software Inc S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
+    },
+    {
+      "rank": "8.",
+      "title": "Sumo Logic S-1 SEC",
+      "link": "https://sec.report/Document/0001193125-20-227201/"
+    },
+    {
+      "rank": "9.",
+      "title": "Kodable is hiring a Game Designer to help us teach millions of kids to code",
+      "link": "https://angel.co/company/kodable/jobs/925512-senior-game-designer"
+    },
+    {
+      "rank": "10.",
+      "title": "Vitamin D, part 2: Shannon's story",
+      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
+    },
+    {
+      "rank": "11.",
+      "title": "How I helped fix Canadaʼs Covid Alert app",
+      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+    },
+    {
+      "rank": "12.",
+      "title": "Emotional Resilience and Burnout in Leadership",
+      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
+    },
+    {
+      "rank": "13.",
+      "title": "Show HN: InstaNote – notes in a simple chat interface",
+      "link": "https://www.instanote.io/"
+    },
+    {
+      "rank": "14.",
+      "title": "TikTok Inc. vs. U.S. Department of Commerce",
+      "link": "https://www.courtlistener.com/docket/17472173/1/tiktok-inc-v-us-department-of-commerce/"
+    },
+    {
+      "rank": "15.",
+      "title": "Applying tech frameworks to biotech: key differences",
+      "link": "https://www.celinehh.com/tech-vs-biotech"
+    },
+    {
+      "rank": "16.",
+      "title": "Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis",
+      "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
+    },
+    {
+      "rank": "17.",
+      "title": "Automotive Grade Linux",
+      "link": "https://www.automotivelinux.org/"
+    },
+    {
+      "rank": "18.",
+      "title": "Making money building Shopify micro-SaaS apps",
+      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
+    },
+    {
       "rank": "19.",
-      "title": "TriFinger: An Open-Source Robot for Learning Dexterity",
-      "link": "https://sites.google.com/view/trifinger"
+      "title": "Head of Danish intelligence suspended after whistleblowers hand over information",
+      "link": "https://www.bbc.com/news/world-europe-53889612"
     },
     {
       "rank": "20.",
-      "title": "αcτµαlly pδrταblε εxεcµταblε",
-      "link": "https://justine.storage.googleapis.com/ape.html"
-    },
-    {
-      "rank": "21.",
-      "title": "Emacs xwidget-webkit enhancement suite",
-      "link": "https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev"
-    },
-    {
-      "rank": "22.",
       "title": "IBM 5160",
       "link": "https://www.forsure.dev/-/2020/05/19/640-kilobytes-of-ram-and-why-i-bought-an-ibm-5160/"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
       "title": "Show HN: Mys – an attempt to create a statically typed Python-like language",
       "link": "https://github.com/eerimoq/mys"
     },
     {
+      "rank": "22.",
+      "title": "αcτµαlly pδrταblε εxεcµταblε",
+      "link": "https://justine.storage.googleapis.com/ape.html"
+    },
+    {
+      "rank": "23.",
+      "title": "Emacs xwidget-webkit enhancement suite",
+      "link": "https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev"
+    },
+    {
       "rank": "24.",
+      "title": "TriFinger: An Open-Source Robot for Learning Dexterity",
+      "link": "https://sites.google.com/view/trifinger"
+    },
+    {
+      "rank": "25.",
       "title": "UberEats could be underpaying delivery drivers on 21% of trips",
       "link": "https://www.businessinsider.com/uber-eats-driver-who-scraped-data-alleges-wage-theft-report-2020-8"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Increasing wind turbine rotor blade visibility reduces avian fatalities",
       "link": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.6592"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Ubuntu Philosophy",
       "link": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Kali Linux 2020.3",
       "link": "https://www.kali.org/news/kali-2020-3-release/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "A Seed Stage Mental Framework to Limit Failure as a Startup Founder",
       "link": "https://thevalley.substack.com/p/fail-sucks-a-seed-stage-mental-framework"
-    },
-    {
-      "rank": "29.",
-      "title": "Scaling Services with Shard Manager",
-      "link": "https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/"
     },
     {
       "rank": "30.",
