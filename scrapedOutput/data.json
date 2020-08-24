@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Vitamin D, part 2: Shannon's story",
-      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
+      "title": "Sumo Logic S-1 SEC",
+      "link": "https://sec.report/Document/0001193125-20-227201/"
     },
     {
       "rank": "6.",
-      "title": "Sumo Logic S-1 SEC",
-      "link": "https://sec.report/Document/0001193125-20-227201/"
+      "title": "Vitamin D, part 2: Shannon's story",
+      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
     },
     {
       "rank": "7.",
@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
-      "title": "Emotional Resilience and Burnout in Leadership",
-      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
+      "title": "How I helped fix Canadaʼs Covid Alert app",
+      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
     },
     {
       "rank": "9.",
-      "title": "Show HN: InstaNote – notes in a simple chat interface",
-      "link": "https://www.instanote.io/"
-    },
-    {
-      "rank": "10.",
       "title": "IBM 5160",
       "link": "https://www.forsure.dev/-/2020/05/19/640-kilobytes-of-ram-and-why-i-bought-an-ibm-5160/"
     },
     {
+      "rank": "10.",
+      "title": "Emotional Resilience and Burnout in Leadership",
+      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
+    },
+    {
       "rank": "11.",
-      "title": "Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis",
-      "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
+      "title": "Show HN: InstaNote – notes in a simple chat interface",
+      "link": "https://www.instanote.io/"
     },
     {
       "rank": "12.",
-      "title": "Automotive Grade Linux",
-      "link": "https://www.automotivelinux.org/"
+      "title": "Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis",
+      "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
     },
     {
       "rank": "13.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "TriFinger: An Open-Source Robot for Learning Dexterity",
-      "link": "https://sites.google.com/view/trifinger"
+      "title": "Automotive Grade Linux",
+      "link": "https://www.automotivelinux.org/"
     },
     {
       "rank": "15.",
-      "title": "How I helped fix Canadaʼs Covid Alert app",
-      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+      "title": "Making money building Shopify micro-SaaS apps",
+      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Making money building Shopify micro-SaaS apps",
-      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
+      "title": "TriFinger: An Open-Source Robot for Learning Dexterity",
+      "link": "https://sites.google.com/view/trifinger"
     },
     {
       "rank": "18.",
@@ -97,28 +97,28 @@
     },
     {
       "rank": "20.",
-      "title": "Ubuntu Philosophy",
-      "link": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
-    },
-    {
-      "rank": "21.",
       "title": "Increasing wind turbine rotor blade visibility reduces avian fatalities",
       "link": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.6592"
     },
     {
-      "rank": "22.",
-      "title": "Scaling Services with Shard Manager",
-      "link": "https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/"
+      "rank": "21.",
+      "title": "Ubuntu Philosophy",
+      "link": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Kali Linux 2020.3",
       "link": "https://www.kali.org/news/kali-2020-3-release/"
     },
     {
+      "rank": "23.",
+      "title": "A Seed Stage Mental Framework to Limit Failure as a Startup Founder",
+      "link": "https://thevalley.substack.com/p/fail-sucks-a-seed-stage-mental-framework"
+    },
+    {
       "rank": "24.",
-      "title": "Why facial recognition has led to false arrests",
-      "link": "http://nautil.us/issue/89/the-dark-side/the-bias-in-the-machine"
+      "title": "Scaling Services with Shard Manager",
+      "link": "https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/"
     },
     {
       "rank": "25.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "A Seed Stage Mental Framework to Limit Failure as a Startup Founder",
-      "link": "https://thevalley.substack.com/p/fail-sucks-a-seed-stage-mental-framework"
-    },
-    {
-      "rank": "28.",
-      "title": "Pachyderm Raises $16M Series B and is hiring for all engineering roles",
-      "link": "https://jobs.lever.co/pachyderm/"
-    },
-    {
-      "rank": "29.",
       "title": "Minotaur: A pythonic, asynchronous, inotify interface",
       "link": "https://github.com/giannitedesco/minotaur"
     },
     {
+      "rank": "28.",
+      "title": "Why facial recognition has led to false arrests",
+      "link": "http://nautil.us/issue/89/the-dark-side/the-bias-in-the-machine"
+    },
+    {
+      "rank": "29.",
+      "title": "Pachyderm Raises $16M Series B and is hiring for all engineering roles",
+      "link": "https://jobs.lever.co/pachyderm/"
+    },
+    {
       "rank": "30.",
-      "title": "Docker to rate limit image pulls",
-      "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
+      "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
+      "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
     }
   ],
   "metadata": {
