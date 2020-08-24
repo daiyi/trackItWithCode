@@ -17,18 +17,18 @@
     },
     {
       "rank": "4.",
-      "title": "Show HN: My notes on Working with Go",
-      "link": "https://github.com/betty200744/ultimate-go"
+      "title": "Emacs xwidget-webkit enhancement suite",
+      "link": "https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev"
     },
     {
       "rank": "5.",
-      "title": "Solaris 10 Zones on Illumos Tribblix",
-      "link": "https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html"
+      "title": "A tale of webpage speed, or throwing away React",
+      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
     },
     {
       "rank": "6.",
-      "title": "A tale of webpage speed, or throwing away React",
-      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
+      "title": "Show HN: My notes on Working with Go",
+      "link": "https://github.com/betty200744/ultimate-go"
     },
     {
       "rank": "7.",
@@ -37,118 +37,118 @@
     },
     {
       "rank": "8.",
+      "title": "Solaris 10 Zones on Illumos Tribblix",
+      "link": "https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html"
+    },
+    {
+      "rank": "9.",
       "title": "A Simple Scheme Compiler (1997)",
       "link": "https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Women Crowdfunded Radium For Marie Curie",
       "link": "https://www.smithsonianmag.com/smart-news/when-women-crowdfunded-radium-marie-curie-180963305/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Streaming Is Laying Bare How Big ISPs and Big Tech Work Together Against Users",
       "link": "https://www.eff.org/deeplinks/2020/06/streaming-laying-bare-how-big-isps-big-tech-and-big-media-work-together-against"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Building resilient services at Prime Video with chaos engineering",
       "link": "https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/"
     },
     {
-      "rank": "12.",
-      "title": "Cryptography Dispatches: Registries Considered Harmful",
-      "link": "https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/"
-    },
-    {
       "rank": "13.",
-      "title": "Btrfs Coming to Fedora 33",
-      "link": "https://fedoramagazine.org/btrfs-coming-to-fedora-33/"
+      "title": "Why I'm Putting All My Savings into Bitcoin (2011)",
+      "link": "https://falkvinge.net/2011/05/29/why-im-putting-all-my-savings-into-bitcoin/"
     },
     {
       "rank": "14.",
-      "title": "A step towards new nitrogen products",
-      "link": "https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air"
-    },
-    {
-      "rank": "15.",
-      "title": "PHP Built-In Web Server",
-      "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
-    },
-    {
-      "rank": "16.",
-      "title": "A Do-It-Yourself paper digital computer (1959)",
-      "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
-    },
-    {
-      "rank": "17.",
-      "title": "CMDR-DOS: Commodore DOS on FAT32",
-      "link": "https://www.pagetable.com/?p=1421"
-    },
-    {
-      "rank": "18.",
-      "title": "Network Coding in P2P Networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
-    },
-    {
-      "rank": "19.",
-      "title": "Patrick Collison's Questions",
-      "link": "https://patrickcollison.com/questions"
-    },
-    {
-      "rank": "20.",
-      "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
-      "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
-    },
-    {
-      "rank": "21.",
-      "title": "Height Modernization: Recalibrating where the U.S. physically sits on the planet",
-      "link": "https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html"
-    },
-    {
-      "rank": "22.",
-      "title": "Staking Claims with Scheduled Tweets",
-      "link": "https://shkspr.mobi/blog/2020/08/staking-claims-with-scheduled-tweets/"
-    },
-    {
-      "rank": "23.",
-      "title": "Persisting as a solo founder",
-      "link": "https://vishnu.tech/posts/persistence/"
-    },
-    {
-      "rank": "24.",
       "title": "Spinning black hole powers jet by magnetic flux",
       "link": "https://phys.org/news/2020-08-black-hole-powers-jet-magnetic.html"
     },
     {
+      "rank": "15.",
+      "title": "Cryptography Dispatches: Registries Considered Harmful",
+      "link": "https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/"
+    },
+    {
+      "rank": "16.",
+      "title": "Btrfs Coming to Fedora 33",
+      "link": "https://fedoramagazine.org/btrfs-coming-to-fedora-33/"
+    },
+    {
+      "rank": "17.",
+      "title": "A step towards new nitrogen products",
+      "link": "https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air"
+    },
+    {
+      "rank": "18.",
+      "title": "PHP Built-In Web Server",
+      "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
+    },
+    {
+      "rank": "19.",
+      "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
+      "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
+    },
+    {
+      "rank": "20.",
+      "title": "CMDR-DOS: Commodore DOS on FAT32",
+      "link": "https://www.pagetable.com/?p=1421"
+    },
+    {
+      "rank": "21.",
+      "title": "A Do-It-Yourself paper digital computer (1959)",
+      "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
+    },
+    {
+      "rank": "22.",
+      "title": "Network Coding in P2P Networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
+    },
+    {
+      "rank": "23.",
+      "title": "Patrick Collison's Questions",
+      "link": "https://patrickcollison.com/questions"
+    },
+    {
+      "rank": "24.",
+      "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
+      "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
+    },
+    {
       "rank": "25.",
+      "title": "Height Modernization: Recalibrating where the U.S. physically sits on the planet",
+      "link": "https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html"
+    },
+    {
+      "rank": "26.",
+      "title": "Persisting as a solo founder",
+      "link": "https://vishnu.tech/posts/persistence/"
+    },
+    {
+      "rank": "27.",
+      "title": "Staking Claims with Scheduled Tweets",
+      "link": "https://shkspr.mobi/blog/2020/08/staking-claims-with-scheduled-tweets/"
+    },
+    {
+      "rank": "28.",
       "title": "Bliss: A language for systems programming (1971) [pdf]",
       "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
     },
     {
-      "rank": "26.",
+      "rank": "29.",
       "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
       "link": "item?id=24252408"
     },
     {
-      "rank": "27.",
-      "title": "All about Woad",
-      "link": "http://www.woad.org.uk"
-    },
-    {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Mozilla's Speech-to-Text Engine Is at Risk Following Layoffs",
       "link": "https://www.phoronix.com/scan.php?page=news_item&px=DeepSpeech-At-Risk"
-    },
-    {
-      "rank": "29.",
-      "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
-      "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
-    },
-    {
-      "rank": "30.",
-      "title": "Build Your Own FPGA (2012)",
-      "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
     }
   ],
   "metadata": {
