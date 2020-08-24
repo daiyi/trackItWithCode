@@ -12,53 +12,53 @@
     },
     {
       "rank": "3.",
-      "title": "Docker to rate limit image pulls",
-      "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
-    },
-    {
-      "rank": "4.",
-      "title": "Vitamin D, part 2: Shannon's story",
-      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
-    },
-    {
-      "rank": "5.",
       "title": "Challenge to scientists: does your ten-year-old code still run?",
       "link": "https://www.nature.com/articles/d41586-020-02462-7"
     },
     {
-      "rank": "6.",
+      "rank": "4.",
       "title": "Unity Software Inc S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
     },
     {
-      "rank": "7.",
+      "rank": "5.",
       "title": "Sumo Logic S-1 SEC",
       "link": "https://sec.report/Document/0001193125-20-227201/"
     },
     {
-      "rank": "8.",
+      "rank": "6.",
+      "title": "Vitamin D, part 2: Shannon's story",
+      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
+    },
+    {
+      "rank": "7.",
       "title": "Emotional Resilience and Burnout in Leadership",
       "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Show HN: InstaNote – notes in a simple chat interface",
       "link": "https://www.instanote.io/"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Head of Danish intelligence suspended after whistleblowers hand over information",
       "link": "https://www.bbc.com/news/world-europe-53889612"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis",
       "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Applying tech frameworks to biotech: key differences",
       "link": "https://www.celinehh.com/tech-vs-biotech"
+    },
+    {
+      "rank": "12.",
+      "title": "Automotive Grade Linux",
+      "link": "https://www.automotivelinux.org/"
     },
     {
       "rank": "13.",
@@ -67,28 +67,28 @@
     },
     {
       "rank": "14.",
-      "title": "Making money building Shopify micro-SaaS apps",
-      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
-    },
-    {
-      "rank": "15.",
       "title": "Emacs xwidget-webkit enhancement suite",
       "link": "https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev"
     },
     {
+      "rank": "15.",
+      "title": "Making money building Shopify micro-SaaS apps",
+      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
+    },
+    {
       "rank": "16.",
+      "title": "IBM 5160",
+      "link": "https://www.forsure.dev/-/2020/05/19/640-kilobytes-of-ram-and-why-i-bought-an-ibm-5160/"
+    },
+    {
+      "rank": "17.",
       "title": "UberEats could be underpaying delivery drivers on 21% of trips",
       "link": "https://www.businessinsider.com/uber-eats-driver-who-scraped-data-alleges-wage-theft-report-2020-8"
     },
     {
-      "rank": "17.",
-      "title": "Ubuntu Philosophy",
-      "link": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
-    },
-    {
       "rank": "18.",
-      "title": "Why facial recognition has led to false arrests",
-      "link": "http://nautil.us/issue/89/the-dark-side/the-bias-in-the-machine"
+      "title": "Docker to rate limit image pulls",
+      "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Scaling Services with Shard Manager",
-      "link": "https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/"
+      "title": "Ubuntu Philosophy",
+      "link": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "IBM 5160",
-      "link": "https://www.forsure.dev/-/2020/05/19/640-kilobytes-of-ram-and-why-i-bought-an-ibm-5160/"
+      "title": "Why facial recognition has led to false arrests",
+      "link": "http://nautil.us/issue/89/the-dark-side/the-bias-in-the-machine"
     },
     {
       "rank": "23.",
-      "title": "Automotive Grade Linux",
-      "link": "https://www.automotivelinux.org/"
+      "title": "Scaling Services with Shard Manager",
+      "link": "https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/"
     },
     {
       "rank": "24.",
-      "title": "Writing a Test Case Generator for a Programming Language",
-      "link": "http://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
+      "title": "How I helped fix Canadaʼs Covid Alert app",
+      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
     },
     {
       "rank": "25.",
-      "title": "Pachyderm Raises $16M Series B and is hiring for all engineering roles",
-      "link": "https://jobs.lever.co/pachyderm/"
-    },
-    {
-      "rank": "26.",
-      "title": "A Seed Stage Mental Framework to Limit Failure as a Startup Founder",
-      "link": "https://thevalley.substack.com/p/fail-sucks-a-seed-stage-mental-framework"
-    },
-    {
-      "rank": "27.",
-      "title": "A tale of webpage speed, or throwing away React",
-      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
-    },
-    {
-      "rank": "28.",
-      "title": "Minotaur: A pythonic, asynchronous, inotify interface",
-      "link": "https://github.com/giannitedesco/minotaur"
-    },
-    {
-      "rank": "29.",
       "title": "Kali Linux 2020.3",
       "link": "https://www.kali.org/news/kali-2020-3-release/"
     },
     {
+      "rank": "26.",
+      "title": "Pachyderm Raises $16M Series B and is hiring for all engineering roles",
+      "link": "https://jobs.lever.co/pachyderm/"
+    },
+    {
+      "rank": "27.",
+      "title": "A Seed Stage Mental Framework to Limit Failure as a Startup Founder",
+      "link": "https://thevalley.substack.com/p/fail-sucks-a-seed-stage-mental-framework"
+    },
+    {
+      "rank": "28.",
+      "title": "A tale of webpage speed, or throwing away React",
+      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
+    },
+    {
+      "rank": "29.",
+      "title": "Minotaur: A pythonic, asynchronous, inotify interface",
+      "link": "https://github.com/giannitedesco/minotaur"
+    },
+    {
       "rank": "30.",
-      "title": "Lidar startup Luminar to go public via $3.4B SPAC merger",
-      "link": "https://techcrunch.com/2020/08/24/lidar-startup-luminar-to-go-public-via-3-4-billion-spac-merger/"
+      "title": "Writing a Test Case Generator for a Programming Language",
+      "link": "http://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
     }
   ],
   "metadata": {
