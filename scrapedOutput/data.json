@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "The robotics revolution is here, and it's changing how we live",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+      "title": "Docker to rate limit image pulls",
+      "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
     },
     {
       "rank": "7.",
-      "title": "Docker to rate limit image pulls",
-      "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
+      "title": "The robotics revolution is here, and it's changing how we live",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
     },
     {
       "rank": "8.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
-      "title": "Sinai is hiring a senior back-end engineer to build our decarbonization platform",
-      "link": "https://angel.co/company/sinai-technologies/jobs/925213-senior-backend-software-engineer"
-    },
-    {
-      "rank": "11.",
       "title": "Challenge to scientists: does your ten-year-old code still run?",
       "link": "https://www.nature.com/articles/d41586-020-02462-7"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "The Computer Chronicles (1983 – 2002)",
       "link": "https://archive.org/details/Computer_Chronicles"
+    },
+    {
+      "rank": "12.",
+      "title": "Sinai is hiring a senior back-end engineer to build our decarbonization platform",
+      "link": "https://angel.co/company/sinai-technologies/jobs/925213-senior-backend-software-engineer"
     },
     {
       "rank": "13.",
@@ -72,53 +72,53 @@
     },
     {
       "rank": "15.",
-      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
-      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
-    },
-    {
-      "rank": "16.",
       "title": "How I helped fix Canadaʼs Covid Alert app",
       "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
       "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
     },
     {
-      "rank": "18.",
-      "title": "Emotional resilience and burnout in leadership",
-      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
+      "rank": "17.",
+      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
+      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "JavaScript Generators, Meet XPath",
       "link": "https://jack.wrenn.fyi/blog/xpath-for-2020/"
     },
     {
-      "rank": "20.",
-      "title": "Top colleges should select randomly from a pool of ‘good enough’ (2005)",
-      "link": "https://www.chronicle.com/article/top-colleges-should-select-randomly-from-a-pool-of-good-enough/"
+      "rank": "19.",
+      "title": "Emotional resilience and burnout in leadership",
+      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Making money building Shopify micro-SaaS apps",
       "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "A tale of webpage speed, or throwing away React",
       "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
     },
     {
+      "rank": "22.",
+      "title": "Top colleges should select randomly from a pool of ‘good enough’ (2005)",
+      "link": "https://www.chronicle.com/article/top-colleges-should-select-randomly-from-a-pool-of-good-enough/"
+    },
+    {
       "rank": "23.",
-      "title": "Show HN: Vigyaa Anonymous – A safe place to write and read anonymously",
-      "link": "http://Vigyaa.io"
+      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
+      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
     },
     {
       "rank": "24.",
-      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
-      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
+      "title": "Show HN: Vigyaa Anonymous – A safe place to write and read anonymously",
+      "link": "http://Vigyaa.io"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Automotive Grade Linux",
-      "link": "https://www.automotivelinux.org/"
-    },
-    {
-      "rank": "27.",
       "title": "Facebook agrees to pay France €106M in back taxes",
       "link": "https://www.bbc.co.uk/news/business-53894959"
     },
     {
+      "rank": "27.",
+      "title": "Automotive Grade Linux",
+      "link": "https://www.automotivelinux.org/"
+    },
+    {
       "rank": "28.",
+      "title": "Apparatus with Magnets",
+      "link": "https://www.notion.so/Apparatus-with-Magnets-Intro-2e32af5b59b64a45b3b203408374a56e"
+    },
+    {
+      "rank": "29.",
       "title": "αcτµαlly pδrταblε εxεcµταblε",
       "link": "https://justine.storage.googleapis.com/ape.html"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Remains of 17th century bishop support Neolithic emergence of tuberculosis",
       "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
-    },
-    {
-      "rank": "30.",
-      "title": "Apparatus with Magnets",
-      "link": "https://www.notion.so/Apparatus-with-Magnets-Intro-2e32af5b59b64a45b3b203408374a56e"
     }
   ],
   "metadata": {
