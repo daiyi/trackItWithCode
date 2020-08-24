@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Streaming Is Laying Bare How Big ISPs and Big Tech Work Together Against Users",
-      "link": "https://www.eff.org/deeplinks/2020/06/streaming-laying-bare-how-big-isps-big-tech-and-big-media-work-together-against"
+      "title": "Pieter Levels Makes $600k a Year from Nomad List and Remote OK",
+      "link": "https://www.nocsdegree.com/pieter-levels-learn-coding/"
     },
     {
       "rank": "10.",
-      "title": "Pieter Levels Makes $600k a Year from Nomad List and Remote OK",
-      "link": "https://www.nocsdegree.com/pieter-levels-learn-coding/"
+      "title": "Streaming Is Laying Bare How Big ISPs and Big Tech Work Together Against Users",
+      "link": "https://www.eff.org/deeplinks/2020/06/streaming-laying-bare-how-big-isps-big-tech-and-big-media-work-together-against"
     },
     {
       "rank": "11.",
@@ -67,23 +67,23 @@
     },
     {
       "rank": "14.",
-      "title": "A Do-It-Yourself paper digital computer (1959)",
-      "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
-    },
-    {
-      "rank": "15.",
       "title": "PHP Built-In Web Server",
       "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
     },
     {
+      "rank": "15.",
+      "title": "A Do-It-Yourself paper digital computer (1959)",
+      "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
+    },
+    {
       "rank": "16.",
-      "title": "Patrick Collison's Questions",
-      "link": "https://patrickcollison.com/questions"
+      "title": "Network Coding in P2P Networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
     },
     {
       "rank": "17.",
-      "title": "Network Coding in P2P Networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
+      "title": "Patrick Collison's Questions",
+      "link": "https://patrickcollison.com/questions"
     },
     {
       "rank": "18.",
@@ -97,18 +97,18 @@
     },
     {
       "rank": "20.",
-      "title": "Spinning black hole powers jet by magnetic flux",
-      "link": "https://phys.org/news/2020-08-black-hole-powers-jet-magnetic.html"
-    },
-    {
-      "rank": "21.",
       "title": "Height Modernization: Recalibrating where the U.S. physically sits on the planet",
       "link": "https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
       "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
+    },
+    {
+      "rank": "22.",
+      "title": "Spinning black hole powers jet by magnetic flux",
+      "link": "https://phys.org/news/2020-08-black-hole-powers-jet-magnetic.html"
     },
     {
       "rank": "23.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Btrfs Coming to Fedora 33",
+      "link": "https://fedoramagazine.org/btrfs-coming-to-fedora-33/"
+    },
+    {
+      "rank": "29.",
       "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
       "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Build Your Own FPGA (2012)",
       "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
-    },
-    {
-      "rank": "30.",
-      "title": "Never run ‘python’ in your downloads folder",
-      "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
     }
   ],
   "metadata": {
