@@ -17,43 +17,43 @@
     },
     {
       "rank": "4.",
+      "title": "Universal basic income seems to improve employment and well-being",
+      "link": "https://www.newscientist.com/article/2242937-universal-basic-income-seems-to-improve-employment-and-well-being/#Echobox=1598028651"
+    },
+    {
+      "rank": "5.",
+      "title": "When Women Crowdfunded Radium for Marie Curie",
+      "link": "https://www.smithsonianmag.com/smart-news/when-women-crowdfunded-radium-marie-curie-180963305/"
+    },
+    {
+      "rank": "6.",
       "title": "Staking Claims with Scheduled Tweets",
       "link": "https://shkspr.mobi/blog/2020/08/staking-claims-with-scheduled-tweets/"
     },
     {
-      "rank": "5.",
+      "rank": "7.",
       "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
       "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
     },
     {
-      "rank": "6.",
+      "rank": "8.",
       "title": "A step towards new nitrogen products",
       "link": "https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air"
     },
     {
-      "rank": "7.",
+      "rank": "9.",
       "title": "Patrick Collison's Questions",
       "link": "https://patrickcollison.com/questions"
     },
     {
-      "rank": "8.",
-      "title": "A Clean Start for the Web",
-      "link": "https://macwright.com/2020/08/22/clean-starts-for-the-web.html"
-    },
-    {
-      "rank": "9.",
+      "rank": "10.",
       "title": "CMDR-DOS: Commodore DOS on FAT32",
       "link": "https://www.pagetable.com/?p=1421"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Network Coding in P2P Networks",
       "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
-    },
-    {
-      "rank": "11.",
-      "title": "Songwhip – Share a music link to every platform",
-      "link": "https://songwhip.com"
     },
     {
       "rank": "12.",
@@ -62,38 +62,38 @@
     },
     {
       "rank": "13.",
-      "title": "Implement an emulator for a fantasy CPU in JavaScript",
-      "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
-    },
-    {
-      "rank": "14.",
       "title": "Persisting as a solo founder",
       "link": "https://vishnu.tech/posts/persistence/"
     },
     {
-      "rank": "15.",
-      "title": "My Fourier Epicycles",
-      "link": "https://www.myfourierepicycles.com/"
+      "rank": "14.",
+      "title": "Implement an emulator for a fantasy CPU in JavaScript",
+      "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Height Modernization: Recalibrating where the U.S. physically sits on the planet",
       "link": "https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Bliss: A language for systems programming (1971) [pdf]",
       "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
     },
     {
+      "rank": "17.",
+      "title": "A Clean Start for the Web",
+      "link": "https://macwright.com/2020/08/22/clean-starts-for-the-web.html"
+    },
+    {
       "rank": "18.",
-      "title": "Teletext Bad Apple",
-      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
+      "title": "A Do-It-Yourself paper digital computer (1959)",
+      "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
     },
     {
       "rank": "19.",
-      "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
-      "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
+      "title": "Teletext Bad Apple",
+      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
     },
     {
       "rank": "20.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "Universal basic income seems to improve employment and well-being",
-      "link": "https://www.newscientist.com/article/2242937-universal-basic-income-seems-to-improve-employment-and-well-being/#Echobox=1598028651"
+      "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
+      "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
     },
     {
       "rank": "22.",
@@ -112,38 +112,38 @@
     },
     {
       "rank": "23.",
+      "title": "Streaming Is Laying Bare How Big ISPs and Big Tech Work Together Against Users",
+      "link": "https://www.eff.org/deeplinks/2020/06/streaming-laying-bare-how-big-isps-big-tech-and-big-media-work-together-against"
+    },
+    {
+      "rank": "24.",
       "title": "Mozilla's Speech-to-Text Engine Is at Risk Following Layoffs",
       "link": "https://www.phoronix.com/scan.php?page=news_item&px=DeepSpeech-At-Risk"
     },
     {
-      "rank": "24.",
-      "title": "Show HN: Boook.link – Share a book with links to all stores",
-      "link": "https://boook.link"
-    },
-    {
       "rank": "25.",
-      "title": "Principal Component Analysis",
-      "link": "https://leimao.github.io/article/Principal-Component-Analysis/"
-    },
-    {
-      "rank": "26.",
-      "title": "Build Your Own FPGA (2012)",
-      "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
-    },
-    {
-      "rank": "27.",
       "title": "All about Woad",
       "link": "http://www.woad.org.uk"
     },
     {
+      "rank": "26.",
+      "title": "Show HN: Boook.link – Share a book with links to all stores",
+      "link": "https://boook.link"
+    },
+    {
+      "rank": "27.",
+      "title": "Principal Component Analysis",
+      "link": "https://leimao.github.io/article/Principal-Component-Analysis/"
+    },
+    {
       "rank": "28.",
-      "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
-      "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
+      "title": "Build Your Own FPGA (2012)",
+      "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
     },
     {
       "rank": "29.",
-      "title": "A Tech Star Blackmailed",
-      "link": "https://www.nytimes.com/2020/08/21/world/middleeast/Iran-technology-arrest-spy.html"
+      "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
+      "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
     },
     {
       "rank": "30.",
