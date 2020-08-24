@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
-      "title": "Vitamin D, part 2: Shannon's story",
-      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
-    },
-    {
-      "rank": "3.",
       "title": "TikTok Inc. vs. U.S. Department of Commerce",
       "link": "https://www.courtlistener.com/docket/17472173/1/tiktok-inc-v-us-department-of-commerce/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Unity Software Inc S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
+    },
+    {
+      "rank": "4.",
+      "title": "Vitamin D, part 2: Shannon's story",
+      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
     },
     {
       "rank": "5.",
@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
+      "title": "Docker to rate limit image pulls",
+      "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
+    },
+    {
+      "rank": "7.",
       "title": "Sumo Logic S-1 SEC",
       "link": "https://sec.report/Document/0001193125-20-227201/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Emotional Resilience and Burnout in Leadership",
       "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
-    },
-    {
-      "rank": "8.",
-      "title": "Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis",
-      "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
     },
     {
       "rank": "9.",
@@ -47,43 +47,43 @@
     },
     {
       "rank": "10.",
-      "title": "Applying tech frameworks to biotech: key differences",
-      "link": "https://www.celinehh.com/tech-vs-biotech"
+      "title": "Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis",
+      "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
     },
     {
       "rank": "11.",
-      "title": "Emacs xwidget-webkit enhancement suite",
-      "link": "https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev"
-    },
-    {
-      "rank": "12.",
-      "title": "UberEats could be underpaying delivery drivers on 21% of trips",
-      "link": "https://www.businessinsider.com/uber-eats-driver-who-scraped-data-alleges-wage-theft-report-2020-8"
-    },
-    {
-      "rank": "13.",
-      "title": "Making money building Shopify micro-SaaS apps",
-      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
-    },
-    {
-      "rank": "14.",
-      "title": "Ubuntu Philosophy",
-      "link": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
-    },
-    {
-      "rank": "15.",
-      "title": "Why Uber's business model is doomed",
-      "link": "https://www.theguardian.com/commentisfree/2020/aug/24/gig-economy-uber-lyft-insecurity-crisis"
-    },
-    {
-      "rank": "16.",
       "title": "Head of Danish intelligence suspended after whistleblowers hand over information",
       "link": "https://www.bbc.com/news/world-europe-53889612"
     },
     {
-      "rank": "17.",
+      "rank": "12.",
+      "title": "Applying tech frameworks to biotech: key differences",
+      "link": "https://www.celinehh.com/tech-vs-biotech"
+    },
+    {
+      "rank": "13.",
       "title": "TriFinger: An Open-Source Robot for Learning Dexterity",
       "link": "https://sites.google.com/view/trifinger"
+    },
+    {
+      "rank": "14.",
+      "title": "Making money building Shopify micro-SaaS apps",
+      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
+    },
+    {
+      "rank": "15.",
+      "title": "Emacs xwidget-webkit enhancement suite",
+      "link": "https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev"
+    },
+    {
+      "rank": "16.",
+      "title": "UberEats could be underpaying delivery drivers on 21% of trips",
+      "link": "https://www.businessinsider.com/uber-eats-driver-who-scraped-data-alleges-wage-theft-report-2020-8"
+    },
+    {
+      "rank": "17.",
+      "title": "Ubuntu Philosophy",
+      "link": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
     },
     {
       "rank": "18.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Pachyderm Raises $16M Series B and is hiring for all engineering roles",
-      "link": "https://jobs.lever.co/pachyderm/"
+      "title": "Writing a Test Case Generator for a Programming Language",
+      "link": "http://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
     },
     {
       "rank": "21.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "Minotaur: A pythonic, asynchronous, inotify interface",
-      "link": "https://github.com/giannitedesco/minotaur"
+      "title": "Pachyderm Raises $16M Series B and is hiring for all engineering roles",
+      "link": "https://jobs.lever.co/pachyderm/"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "Minotaur: A pythonic, asynchronous, inotify interface",
+      "link": "https://github.com/giannitedesco/minotaur"
+    },
+    {
+      "rank": "26.",
       "title": "Kali Linux 2020.3",
       "link": "https://www.kali.org/news/kali-2020-3-release/"
     },
     {
-      "rank": "26.",
-      "title": "A Seed Stage Mental Framework to Limit Failure as a Startup Founder",
-      "link": "https://thevalley.substack.com/p/fail-sucks-a-seed-stage-mental-framework"
+      "rank": "27.",
+      "title": "Show HN: Mys – an attempt to create a strongly typed Python-like language",
+      "link": "https://github.com/eerimoq/mys"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Show HN: My notes on Working with Go",
       "link": "https://github.com/betty200744/ultimate-go"
     },
     {
-      "rank": "28.",
-      "title": "Solaris 10 Zones on Illumos Tribblix",
-      "link": "https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html"
-    },
-    {
       "rank": "29.",
-      "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
-      "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
+      "title": "A Seed Stage Mental Framework to Limit Failure as a Startup Founder",
+      "link": "https://thevalley.substack.com/p/fail-sucks-a-seed-stage-mental-framework"
     },
     {
       "rank": "30.",
-      "title": "Why Every City Feels the Same Now",
-      "link": "https://www.theatlantic.com/technology/archive/2020/08/why-every-city-feels-same-now/615556/"
+      "title": "Lidar startup Luminar to go public via $3.4B SPAC merger",
+      "link": "https://techcrunch.com/2020/08/24/lidar-startup-luminar-to-go-public-via-3-4-billion-spac-merger/"
     }
   ],
   "metadata": {
