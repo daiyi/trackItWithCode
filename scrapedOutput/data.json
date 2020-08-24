@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "αcτµαlly pδrταblε εxεcµταblε",
-      "link": "https://justine.storage.googleapis.com/ape.html"
-    },
-    {
-      "rank": "2.",
-      "title": "Kali Linux 2020.3",
-      "link": "https://www.kali.org/news/kali-2020-3-release/"
-    },
-    {
-      "rank": "3.",
       "title": "A tale of webpage speed, or throwing away React",
       "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
     },
     {
+      "rank": "2.",
+      "title": "αcτµαlly pδrταblε εxεcµταblε",
+      "link": "https://justine.storage.googleapis.com/ape.html"
+    },
+    {
+      "rank": "3.",
+      "title": "Kali Linux 2020.3",
+      "link": "https://www.kali.org/news/kali-2020-3-release/"
+    },
+    {
       "rank": "4.",
-      "title": "Women Crowdfunded Radium For Marie Curie",
-      "link": "https://www.smithsonianmag.com/smart-news/when-women-crowdfunded-radium-marie-curie-180963305/"
+      "title": "Show HN: My notes on Working with Go",
+      "link": "https://github.com/betty200744/ultimate-go"
     },
     {
       "rank": "5.",
-      "title": "Show HN: My notes on Working with Go",
-      "link": "https://github.com/betty200744/ultimate-go"
+      "title": "Women Crowdfunded Radium For Marie Curie",
+      "link": "https://www.smithsonianmag.com/smart-news/when-women-crowdfunded-radium-marie-curie-180963305/"
     },
     {
       "rank": "6.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "A Do-It-Yourself paper digital computer (1959)",
-      "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
+      "title": "Btrfs Coming to Fedora 33",
+      "link": "https://fedoramagazine.org/btrfs-coming-to-fedora-33/"
     },
     {
       "rank": "11.",
-      "title": "Btrfs Coming to Fedora 33",
-      "link": "https://fedoramagazine.org/btrfs-coming-to-fedora-33/"
+      "title": "A Do-It-Yourself paper digital computer (1959)",
+      "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
+      "title": "PHP Built-In Web Server",
+      "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
+    },
+    {
+      "rank": "14.",
       "title": "Cryptography Dispatches: Registries Considered Harmful",
       "link": "https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Patrick Collison's Questions",
       "link": "https://patrickcollison.com/questions"
-    },
-    {
-      "rank": "15.",
-      "title": "PHP Built-In Web Server",
-      "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
-      "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
+      "title": "Staking Claims with Scheduled Tweets",
+      "link": "https://shkspr.mobi/blog/2020/08/staking-claims-with-scheduled-tweets/"
     },
     {
       "rank": "18.",
@@ -92,18 +92,18 @@
     },
     {
       "rank": "19.",
-      "title": "Staking Claims with Scheduled Tweets",
-      "link": "https://shkspr.mobi/blog/2020/08/staking-claims-with-scheduled-tweets/"
+      "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
+      "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
     },
     {
       "rank": "20.",
-      "title": "Height Modernization: Recalibrating where the U.S. physically sits on the planet",
-      "link": "https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html"
+      "title": "Persisting as a solo founder",
+      "link": "https://vishnu.tech/posts/persistence/"
     },
     {
       "rank": "21.",
-      "title": "Persisting as a solo founder",
-      "link": "https://vishnu.tech/posts/persistence/"
+      "title": "Height Modernization: Recalibrating where the U.S. physically sits on the planet",
+      "link": "https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html"
     },
     {
       "rank": "22.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "The Linux Foundation in 2020 Helps Serial GPL Violators Get Away with It",
-      "link": "http://techrights.org/2020/08/24/microsoft-loves-linux-foundation/"
+      "title": "All about Woad",
+      "link": "http://www.woad.org.uk"
     },
     {
       "rank": "25.",
-      "title": "All about Woad",
-      "link": "http://www.woad.org.uk"
+      "title": "The Linux Foundation in 2020 Helps Serial GPL Violators Get Away with It",
+      "link": "http://techrights.org/2020/08/24/microsoft-loves-linux-foundation/"
     },
     {
       "rank": "26.",
@@ -132,18 +132,18 @@
     },
     {
       "rank": "27.",
-      "title": "Top Colleges Should Select Randomly from a Pool of ‘Good Enough’",
-      "link": "https://www.chronicle.com/article/top-colleges-should-select-randomly-from-a-pool-of-good-enough/"
-    },
-    {
-      "rank": "28.",
       "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
       "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Build Your Own FPGA (2012)",
       "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
+    },
+    {
+      "rank": "29.",
+      "title": "Top Colleges Should Select Randomly from a Pool of ‘Good Enough’",
+      "link": "https://www.chronicle.com/article/top-colleges-should-select-randomly-from-a-pool-of-good-enough/"
     },
     {
       "rank": "30.",
