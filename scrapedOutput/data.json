@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Network Coding in P2P Networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
+      "title": "Build Your Own FPGA (2012)",
+      "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
     },
     {
       "rank": "5.",
-      "title": "Build Your Own FPGA (2012)",
-      "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
+      "title": "Network Coding in P2P Networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
     },
     {
       "rank": "6.",
@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Semi-transparent solar panels allow concurrent production of crops and power",
-      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
+      "title": "The demise of the second-hand bookshop",
+      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
     },
     {
       "rank": "8.",
-      "title": "The demise of the second-hand bookshop",
-      "link": "https://thecritic.co.uk/the-demise-of-the-second-hand-bookshop/"
+      "title": "Semi-transparent solar panels allow concurrent production of crops and power",
+      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
     },
     {
       "rank": "9.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "Teletext Bad Apple",
-      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
+      "title": "How to Leave Work at Work",
+      "link": "https://hbr.org/2020/02/how-to-leave-work-at-work"
     },
     {
       "rank": "12.",
-      "title": "How to Leave Work at Work",
-      "link": "https://hbr.org/2020/02/how-to-leave-work-at-work"
+      "title": "Teletext Bad Apple",
+      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
     },
     {
       "rank": "13.",
@@ -77,18 +77,18 @@
     },
     {
       "rank": "16.",
+      "title": "Implement an emulator for a fantasy CPU in JavaScript",
+      "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
+    },
+    {
+      "rank": "17.",
       "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
       "link": "item?id=24252408"
     },
     {
-      "rank": "17.",
-      "title": "Patrick Collison's Questions",
-      "link": "https://patrickcollison.com/questions"
-    },
-    {
       "rank": "18.",
-      "title": "Implement an emulator for a fantasy CPU in JavaScript",
-      "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
+      "title": "Bliss: A language for systems programming (1971) [pdf]",
+      "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
     },
     {
       "rank": "19.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Bliss: A language for systems programming (1971) [pdf]",
-      "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
+      "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
+      "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
     },
     {
       "rank": "22.",
-      "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
-      "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
+      "title": "Patrick Collison's Questions",
+      "link": "https://patrickcollison.com/questions"
     },
     {
       "rank": "23.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
+      "title": "Show HN: Boook.link – Share a book with links to all stores",
+      "link": "https://boook.link"
+    },
+    {
+      "rank": "25.",
       "title": "Mark Zuckerberg Stoked Washington’s Fears About TikTok",
       "link": "https://www.wsj.com/articles/facebook-ceo-mark-zuckerberg-stoked-washingtons-fears-about-tiktok-11598223133"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Bare Metal Rust Generics",
       "link": "https://www.ecorax.net/as-above-so-below-1/"
-    },
-    {
-      "rank": "26.",
-      "title": "Show HN: Boook.link – Share a book with links to all stores",
-      "link": "https://boook.link"
     },
     {
       "rank": "27.",
