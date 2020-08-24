@@ -7,23 +7,23 @@
     },
     {
       "rank": "2.",
-      "title": "Persisting as a solo founder",
-      "link": "https://vishnu.tech/posts/persistence/"
-    },
-    {
-      "rank": "3.",
       "title": "A step towards new nitrogen products",
       "link": "https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Build Your Own FPGA (2012)",
       "link": "http://blog.notdot.net/2012/10/Build-your-own-FPGA"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Network Coding in P2P Networks",
       "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
+    },
+    {
+      "rank": "5.",
+      "title": "Semi-transparent solar panels allow concurrent production of crops and power",
+      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
     },
     {
       "rank": "6.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Semi-transparent solar panels allow concurrent production of crops and power",
-      "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189"
+      "title": "Songwhip – Share a music link to every platform",
+      "link": "https://songwhip.com"
     },
     {
       "rank": "9.",
@@ -47,8 +47,8 @@
     },
     {
       "rank": "10.",
-      "title": "Songwhip – Share a music link to every platform",
-      "link": "https://songwhip.com"
+      "title": "Finding vulnerable Twitter accounts with expired domains",
+      "link": "https://zainamro.com/hacks/finding-vulnerable-twitter-accounts"
     },
     {
       "rank": "11.",
@@ -57,43 +57,43 @@
     },
     {
       "rank": "12.",
-      "title": "Teletext Bad Apple",
-      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
-    },
-    {
-      "rank": "13.",
-      "title": "Finding vulnerable Twitter accounts with expired domains",
-      "link": "https://zainamro.com/hacks/finding-vulnerable-twitter-accounts"
-    },
-    {
-      "rank": "14.",
       "title": "My Fourier Epicycles",
       "link": "https://www.myfourierepicycles.com/"
     },
     {
-      "rank": "15.",
-      "title": "YTS torrent tracker part of new anti-piracy scheme",
-      "link": "https://torrentfreak.com/yts-torrent-giant-is-part-of-a-bizarre-brand-new-anti-piracy-scheme-200823/"
+      "rank": "13.",
+      "title": "Teletext Bad Apple",
+      "link": "https://bitshifters.github.io/posts/prods/bs-badapple.html"
     },
     {
-      "rank": "16.",
+      "rank": "14.",
+      "title": "Persisting as a solo founder",
+      "link": "https://vishnu.tech/posts/persistence/"
+    },
+    {
+      "rank": "15.",
       "title": "Implement an emulator for a fantasy CPU in JavaScript",
       "link": "https://dev.to/codeguppy/implement-an-emulator-for-a-fantasy-cpu-in-javascript-3617"
     },
     {
-      "rank": "17.",
-      "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
-      "link": "item?id=24252408"
+      "rank": "16.",
+      "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
+      "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Bliss: A language for systems programming (1971) [pdf]",
       "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
     },
     {
+      "rank": "18.",
+      "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
+      "link": "item?id=24252408"
+    },
+    {
       "rank": "19.",
-      "title": "Natural language benchmarks don’t measure AI models’ general knowledge well",
-      "link": "https://venturebeat.com/2020/08/12/natural-language-benchmarks-dont-measure-ai-models-general-knowledge-well-research-shows/"
+      "title": "When June Jordan and Buckminster Fuller Tried to Redesign Harlem",
+      "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
-      "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
+      "title": "Patrick Collison's Questions",
+      "link": "https://patrickcollison.com/questions"
     },
     {
       "rank": "22.",
-      "title": "Patrick Collison's Questions",
-      "link": "https://patrickcollison.com/questions"
+      "title": "Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74",
+      "link": "https://www.nytimes.com/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html"
     },
     {
       "rank": "23.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "Mark Zuckerberg Stoked Washington’s Fears About TikTok",
-      "link": "https://www.wsj.com/articles/facebook-ceo-mark-zuckerberg-stoked-washingtons-fears-about-tiktok-11598223133"
+      "title": "Bare Metal Rust Generics",
+      "link": "https://www.ecorax.net/as-above-so-below-1/"
     },
     {
       "rank": "26.",
-      "title": "Bare Metal Rust Generics",
-      "link": "https://www.ecorax.net/as-above-so-below-1/"
+      "title": "Mark Zuckerberg Stoked Washington’s Fears About TikTok",
+      "link": "https://www.wsj.com/articles/facebook-ceo-mark-zuckerberg-stoked-washingtons-fears-about-tiktok-11598223133"
     },
     {
       "rank": "27.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "Congratulations for reaching a million, Gordon Linoff",
-      "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
+      "title": "Never run ‘python’ in your downloads folder",
+      "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
     },
     {
       "rank": "29.",
-      "title": "Never run ‘python’ in your downloads folder",
-      "link": "https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html"
+      "title": "Congratulations for reaching a million, Gordon Linoff",
+      "link": "https://meta.stackoverflow.com/questions/400506/congratulations-for-reaching-a-million-gordon-linoff"
     },
     {
       "rank": "30.",
