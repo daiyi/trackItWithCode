@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Kali Linux 2020.3",
-      "link": "https://www.kali.org/news/kali-2020-3-release/"
+      "title": "A tale of webpage speed, or throwing away React",
+      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
     },
     {
       "rank": "5.",
-      "title": "A tale of webpage speed, or throwing away React",
-      "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
+      "title": "Kali Linux 2020.3",
+      "link": "https://www.kali.org/news/kali-2020-3-release/"
     },
     {
       "rank": "6.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Pieter Levels Makes $600k a Year from Nomad List and Remote OK",
-      "link": "https://www.nocsdegree.com/pieter-levels-learn-coding/"
+      "title": "Warming Greenland ice sheet passes point of no return",
+      "link": "https://www.sciencedaily.com/releases/2020/08/200813123550.htm"
     },
     {
       "rank": "9.",
@@ -52,103 +52,103 @@
     },
     {
       "rank": "11.",
-      "title": "Streaming Is Laying Bare How Big ISPs and Big Tech Work Together Against Users",
-      "link": "https://www.eff.org/deeplinks/2020/06/streaming-laying-bare-how-big-isps-big-tech-and-big-media-work-together-against"
-    },
-    {
-      "rank": "12.",
       "title": "Why I'm Putting All My Savings into Bitcoin (2011)",
       "link": "https://falkvinge.net/2011/05/29/why-im-putting-all-my-savings-into-bitcoin/"
     },
     {
+      "rank": "12.",
+      "title": "Streaming Is Laying Bare How Big ISPs and Big Tech Work Together Against Users",
+      "link": "https://www.eff.org/deeplinks/2020/06/streaming-laying-bare-how-big-isps-big-tech-and-big-media-work-together-against"
+    },
+    {
       "rank": "13.",
+      "title": "Pieter Levels Makes $600k a Year from Nomad List and Remote OK",
+      "link": "https://www.nocsdegree.com/pieter-levels-learn-coding/"
+    },
+    {
+      "rank": "14.",
       "title": "Building resilient services at Prime Video with chaos engineering",
       "link": "https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
+      "title": "Why Every City Feels the Same Now",
+      "link": "https://www.theatlantic.com/technology/archive/2020/08/why-every-city-feels-same-now/615556/"
+    },
+    {
+      "rank": "16.",
       "title": "Spinning black hole powers jet by magnetic flux",
       "link": "https://phys.org/news/2020-08-black-hole-powers-jet-magnetic.html"
     },
     {
-      "rank": "15.",
+      "rank": "17.",
       "title": "Btrfs Coming to Fedora 33",
       "link": "https://fedoramagazine.org/btrfs-coming-to-fedora-33/"
     },
     {
-      "rank": "16.",
-      "title": "A step towards new nitrogen products",
-      "link": "https://news.yale.edu/2020/08/12/new-nitrogen-products-are-air"
-    },
-    {
-      "rank": "17.",
-      "title": "Cryptography Dispatches: Registries Considered Harmful",
-      "link": "https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/"
-    },
-    {
       "rank": "18.",
-      "title": "PHP Built-In Web Server",
-      "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
-    },
-    {
-      "rank": "19.",
       "title": "Mechanical Turing Machine in Wood",
       "link": "https://www.youtube.com/watch?v=vo8izCKHiF0"
     },
     {
+      "rank": "19.",
+      "title": "PHP Built-In Web Server",
+      "link": "https://www.php.net/manual/en/features.commandline.webserver.php"
+    },
+    {
       "rank": "20.",
+      "title": "Cryptography Dispatches: Registries Considered Harmful",
+      "link": "https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/"
+    },
+    {
+      "rank": "21.",
+      "title": "Why You Will Marry the Wrong Person",
+      "link": "https://www.nytimes.com/2016/05/29/opinion/sunday/why-you-will-marry-the-wrong-person.html"
+    },
+    {
+      "rank": "22.",
+      "title": "Researchers discover the microbiome's role in attacking cancerous tumors",
+      "link": "https://www.sciencedaily.com/releases/2020/08/200813144920.htm"
+    },
+    {
+      "rank": "23.",
       "title": "Network Coding in P2P Networks",
       "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
     },
     {
-      "rank": "21.",
+      "rank": "24.",
       "title": "CMDR-DOS: Commodore DOS on FAT32",
       "link": "https://www.pagetable.com/?p=1421"
     },
     {
-      "rank": "22.",
+      "rank": "25.",
       "title": "Patrick Collison's Questions",
       "link": "https://patrickcollison.com/questions"
     },
     {
-      "rank": "23.",
+      "rank": "26.",
       "title": "A Do-It-Yourself paper digital computer (1959)",
       "link": "https://longstreet.typepad.com/thesciencebookstore/2010/11/a-do-it-yourself-paper-digital-computer-1959.html"
     },
     {
-      "rank": "24.",
-      "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
-      "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
-    },
-    {
-      "rank": "25.",
+      "rank": "27.",
       "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
       "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
+      "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
+      "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
+    },
+    {
+      "rank": "29.",
       "title": "Height Modernization: Recalibrating where the U.S. physically sits on the planet",
       "link": "https://www.nytimes.com/2020/05/22/science/maps-elevation-geodetic-survey.html"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "Persisting as a solo founder",
       "link": "https://vishnu.tech/posts/persistence/"
-    },
-    {
-      "rank": "28.",
-      "title": "Staking Claims with Scheduled Tweets",
-      "link": "https://shkspr.mobi/blog/2020/08/staking-claims-with-scheduled-tweets/"
-    },
-    {
-      "rank": "29.",
-      "title": "Bliss: A language for systems programming (1971) [pdf]",
-      "link": "https://www2.cs.arizona.edu/classes/cs520/spring06/bliss.pdf"
-    },
-    {
-      "rank": "30.",
-      "title": "Launch HN: Depict.ai (YC S20) – Product recommendations for any e-commerce store",
-      "link": "item?id=24252408"
     }
   ],
   "metadata": {
