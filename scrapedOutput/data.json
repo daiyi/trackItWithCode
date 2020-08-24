@@ -22,33 +22,33 @@
     },
     {
       "rank": "5.",
+      "title": "Bletchley Park: New crisis for code-breaking hub",
+      "link": "https://www.bbc.co.uk/news/technology-53888151"
+    },
+    {
+      "rank": "6.",
       "title": "A tale of webpage speed, or throwing away React",
       "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
     },
     {
-      "rank": "6.",
-      "title": "αcτµαlly pδrταblε εxεcµταblε",
-      "link": "https://justine.storage.googleapis.com/ape.html"
-    },
-    {
       "rank": "7.",
-      "title": "Kali Linux 2020.3",
-      "link": "https://www.kali.org/news/kali-2020-3-release/"
-    },
-    {
-      "rank": "8.",
       "title": "Why facial recognition has led to false arrests",
       "link": "http://nautil.us/issue/89/the-dark-side/the-bias-in-the-machine"
     },
     {
+      "rank": "8.",
+      "title": "αcτµαlly pδrταblε εxεcµταblε",
+      "link": "https://justine.storage.googleapis.com/ape.html"
+    },
+    {
       "rank": "9.",
-      "title": "Show HN: My notes on Working with Go",
-      "link": "https://github.com/betty200744/ultimate-go"
+      "title": "Kali Linux 2020.3",
+      "link": "https://www.kali.org/news/kali-2020-3-release/"
     },
     {
       "rank": "10.",
-      "title": "Minotaur: A pythonic, asynchronous, inotify interface",
-      "link": "https://github.com/giannitedesco/minotaur"
+      "title": "Show HN: My notes on Working with Go",
+      "link": "https://github.com/betty200744/ultimate-go"
     },
     {
       "rank": "11.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "Solaris 10 Zones on Illumos Tribblix",
-      "link": "https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html"
+      "title": "Free Expression of Professors and Its Prudential Limits",
+      "link": "https://conversableeconomist.blogspot.com/2020/08/free-expression-of-professors-and-its.html"
     },
     {
       "rank": "13.",
@@ -67,28 +67,28 @@
     },
     {
       "rank": "14.",
-      "title": "Pieter Levels Makes $600k a Year from Nomad List and Remote OK",
-      "link": "https://www.nocsdegree.com/pieter-levels-learn-coding/"
+      "title": "Minotaur: A pythonic, asynchronous, inotify interface",
+      "link": "https://github.com/giannitedesco/minotaur"
     },
     {
       "rank": "15.",
-      "title": "Bletchley Park: New crisis for code-breaking hub",
-      "link": "https://www.bbc.co.uk/news/technology-53888151"
+      "title": "Solaris 10 Zones on Illumos Tribblix",
+      "link": "https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html"
     },
     {
       "rank": "16.",
-      "title": "A Simple Scheme Compiler (1997)",
-      "link": "https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271"
-    },
-    {
-      "rank": "17.",
       "title": "70% Reduction in Avian Fatalities via Wind Turbines by Painting 1 Blade Black",
       "link": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.6592"
     },
     {
+      "rank": "17.",
+      "title": "Pieter Levels Makes $600k a Year from Nomad List and Remote OK",
+      "link": "https://www.nocsdegree.com/pieter-levels-learn-coding/"
+    },
+    {
       "rank": "18.",
-      "title": "Mechanical Turing Machine in Wood",
-      "link": "https://www.youtube.com/watch?v=vo8izCKHiF0"
+      "title": "A Simple Scheme Compiler (1997)",
+      "link": "https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271"
     },
     {
       "rank": "19.",
@@ -97,28 +97,28 @@
     },
     {
       "rank": "20.",
-      "title": "Women Crowdfunded Radium For Marie Curie",
-      "link": "https://www.smithsonianmag.com/smart-news/when-women-crowdfunded-radium-marie-curie-180963305/"
-    },
-    {
-      "rank": "21.",
       "title": "Researchers discover the microbiome's role in attacking cancerous tumors",
       "link": "https://www.sciencedaily.com/releases/2020/08/200813144920.htm"
     },
     {
+      "rank": "21.",
+      "title": "Mechanical Turing Machine in Wood",
+      "link": "https://www.youtube.com/watch?v=vo8izCKHiF0"
+    },
+    {
       "rank": "22.",
+      "title": "Women Crowdfunded Radium For Marie Curie",
+      "link": "https://www.smithsonianmag.com/smart-news/when-women-crowdfunded-radium-marie-curie-180963305/"
+    },
+    {
+      "rank": "23.",
       "title": "Complaint tablet to Ea-nasir (1750 B.C)",
       "link": "https://en.wikipedia.org/wiki/Complaint_tablet_to_Ea-nasir"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Building resilient services at Prime Video with chaos engineering",
       "link": "https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/"
-    },
-    {
-      "rank": "24.",
-      "title": "Spinning black hole powers jet by magnetic flux",
-      "link": "https://phys.org/news/2020-08-black-hole-powers-jet-magnetic.html"
     },
     {
       "rank": "25.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
+      "title": "Spinning black hole powers jet by magnetic flux",
+      "link": "https://phys.org/news/2020-08-black-hole-powers-jet-magnetic.html"
+    },
+    {
+      "rank": "27.",
       "title": "Btrfs Coming to Fedora 33",
       "link": "https://fedoramagazine.org/btrfs-coming-to-fedora-33/"
     },
     {
-      "rank": "27.",
-      "title": "Network Coding in P2P Networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks"
-    },
-    {
       "rank": "28.",
-      "title": "Cryptography Dispatches: Registries Considered Harmful",
-      "link": "https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/"
+      "title": "Show HN: kubectl-flame – Effortless profiling on Kubernetes",
+      "link": "https://github.com/VerizonMedia/kubectl-flame"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "June Jordan and Buckminster Fuller Tried to Redesign Harlem",
-      "link": "https://www.newyorker.com/culture/culture-desk/when-june-jordan-and-buckminster-fuller-tried-to-redesign-harlem"
+      "title": "Cryptography Dispatches: Registries Considered Harmful",
+      "link": "https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/"
     }
   ],
   "metadata": {
