@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Automotive Grade Linux",
-      "link": "https://www.automotivelinux.org/"
+      "title": "Ubuntu Philosophy",
+      "link": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
     },
     {
       "rank": "4.",
-      "title": "αcτµαlly pδrταblε εxεcµταblε",
-      "link": "https://justine.storage.googleapis.com/ape.html"
+      "title": "Automotive Grade Linux",
+      "link": "https://www.automotivelinux.org/"
     },
     {
       "rank": "5.",
@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Kali Linux 2020.3",
-      "link": "https://www.kali.org/news/kali-2020-3-release/"
+      "title": "αcτµαlly pδrταblε εxεcµταblε",
+      "link": "https://justine.storage.googleapis.com/ape.html"
     },
     {
       "rank": "7.",
-      "title": "Ubuntu Philosophy",
-      "link": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
+      "title": "Kali Linux 2020.3",
+      "link": "https://www.kali.org/news/kali-2020-3-release/"
     },
     {
       "rank": "8.",
@@ -47,48 +47,48 @@
     },
     {
       "rank": "10.",
+      "title": "Minotaur: A pythonic, asynchronous, inotify interface",
+      "link": "https://github.com/giannitedesco/minotaur"
+    },
+    {
+      "rank": "11.",
       "title": "Challenge to scientists: does your ten-year-old code still run?",
       "link": "https://www.nature.com/articles/d41586-020-02462-7"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Solaris 10 Zones on Illumos Tribblix",
       "link": "https://ptribble.blogspot.com/2020/08/solaris-10-zones-on-tribblix.html"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Remembering what you Read: Zettelkasten vs. P.A.R.A",
       "link": "https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Pieter Levels Makes $600k a Year from Nomad List and Remote OK",
       "link": "https://www.nocsdegree.com/pieter-levels-learn-coding/"
     },
     {
-      "rank": "14.",
-      "title": "A Simple Scheme Compiler (1997)",
-      "link": "https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271"
-    },
-    {
       "rank": "15.",
-      "title": "Mechanical Turing Machine in Wood",
-      "link": "https://www.youtube.com/watch?v=vo8izCKHiF0"
-    },
-    {
-      "rank": "16.",
       "title": "Bletchley Park: New crisis for code-breaking hub",
       "link": "https://www.bbc.co.uk/news/technology-53888151"
     },
     {
+      "rank": "16.",
+      "title": "A Simple Scheme Compiler (1997)",
+      "link": "https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271"
+    },
+    {
       "rank": "17.",
-      "title": "Complaint tablet to Ea-nasir (1750 B.C)",
-      "link": "https://en.wikipedia.org/wiki/Complaint_tablet_to_Ea-nasir"
+      "title": "70% Reduction in Avian Fatalities via Wind Turbines by Painting 1 Blade Black",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.6592"
     },
     {
       "rank": "18.",
-      "title": "70% Reduction in Avian Fatalities via Wind Turbines by Painting 1 Blade Black",
-      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.6592"
+      "title": "Mechanical Turing Machine in Wood",
+      "link": "https://www.youtube.com/watch?v=vo8izCKHiF0"
     },
     {
       "rank": "19.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Building resilient services at Prime Video with chaos engineering",
-      "link": "https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/"
+      "title": "Complaint tablet to Ea-nasir (1750 B.C)",
+      "link": "https://en.wikipedia.org/wiki/Complaint_tablet_to_Ea-nasir"
     },
     {
       "rank": "23.",
-      "title": "Why You Will Marry the Wrong Person",
-      "link": "https://www.nytimes.com/2016/05/29/opinion/sunday/why-you-will-marry-the-wrong-person.html"
+      "title": "Building resilient services at Prime Video with chaos engineering",
+      "link": "https://aws.amazon.com/blogs/opensource/building-resilient-services-at-prime-video-with-chaos-engineering/"
     },
     {
       "rank": "24.",
