@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Snowflake S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1640147/000162828020013010/snowflakes-1.htm"
-    },
-    {
-      "rank": "2.",
       "title": "Asana S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "Being OK with not being extraordinary",
       "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
       "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+    },
+    {
+      "rank": "4.",
+      "title": "Unity Software Inc S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
     },
     {
       "rank": "5.",
@@ -27,128 +27,128 @@
     },
     {
       "rank": "6.",
-      "title": "Unity Software Inc S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
-    },
-    {
-      "rank": "7.",
       "title": "Challenge to scientists: does your ten-year-old code still run?",
       "link": "https://www.nature.com/articles/d41586-020-02462-7"
     },
     {
-      "rank": "8.",
-      "title": "How I helped fix Canadaʼs Covid Alert app",
-      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
-    },
-    {
-      "rank": "9.",
-      "title": "Nuclear Reactor Development History",
-      "link": "https://whatisnuclear.com/reactor_history.html"
-    },
-    {
-      "rank": "10.",
-      "title": "JFrog S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1800667/000119312520228195/d841831ds1.htm"
-    },
-    {
-      "rank": "11.",
+      "rank": "7.",
       "title": "Vitamin D, part 2: Shannon's story",
       "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
     },
     {
-      "rank": "12.",
+      "rank": "8.",
+      "title": "Nuclear Reactor Development History",
+      "link": "https://whatisnuclear.com/reactor_history.html"
+    },
+    {
+      "rank": "9.",
+      "title": "Snowflake S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1640147/000162828020013010/snowflakes-1.htm"
+    },
+    {
+      "rank": "10.",
+      "title": "How I helped fix Canadaʼs Covid Alert app",
+      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+    },
+    {
+      "rank": "11.",
       "title": "Emotional Resilience and Burnout in Leadership",
       "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
     },
     {
-      "rank": "13.",
-      "title": "A Mechanist's Guide to the Coronavirus Genome",
-      "link": "https://csvoss.com/a-mechanists-guide-to-the-coronavirus-genome"
-    },
-    {
-      "rank": "14.",
+      "rank": "12.",
       "title": "Making money building Shopify micro-SaaS apps",
       "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
     },
     {
-      "rank": "15.",
+      "rank": "13.",
+      "title": "JFrog S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1800667/000119312520228195/d841831ds1.htm"
+    },
+    {
+      "rank": "14.",
       "title": "A tale of webpage speed, or throwing away React",
       "link": "https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/"
     },
     {
-      "rank": "16.",
-      "title": "Ask HN: There are 5 S-1 posts on the front page, what explains the rush?",
-      "link": "item?id=24265456"
-    },
-    {
-      "rank": "17.",
-      "title": "Show HN: InstaNote – notes in a simple chat interface",
-      "link": "https://www.instanote.io/"
-    },
-    {
-      "rank": "18.",
-      "title": "Don't ask to ask, just ask",
-      "link": "https://dontasktoask.com/"
-    },
-    {
-      "rank": "19.",
-      "title": "Kodable is hiring a Game Designer to help us teach millions of kids to code",
-      "link": "https://angel.co/company/kodable/jobs/925512-senior-game-designer"
-    },
-    {
-      "rank": "20.",
+      "rank": "15.",
       "title": "Automotive Grade Linux",
       "link": "https://www.automotivelinux.org/"
     },
     {
-      "rank": "21.",
+      "rank": "16.",
+      "title": "Show HN: InstaNote – notes in a simple chat interface",
+      "link": "https://www.instanote.io/"
+    },
+    {
+      "rank": "17.",
+      "title": "JavaScript Generators, Meet XPath",
+      "link": "https://jack.wrenn.fyi/blog/xpath-for-2020/"
+    },
+    {
+      "rank": "18.",
       "title": "Remains of 17th Century Bishop Support Neolithic Emergence of Tuberculosis",
       "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
     },
     {
-      "rank": "22.",
+      "rank": "19.",
       "title": "Top colleges should select randomly from a pool of ‘good enough’ (2005)",
       "link": "https://www.chronicle.com/article/top-colleges-should-select-randomly-from-a-pool-of-good-enough/"
     },
     {
+      "rank": "20.",
+      "title": "Kodable is hiring a Game Designer to help us teach millions of kids to code",
+      "link": "https://angel.co/company/kodable/jobs/925512-senior-game-designer"
+    },
+    {
+      "rank": "21.",
+      "title": "Don't ask to ask, just ask",
+      "link": "https://dontasktoask.com/"
+    },
+    {
+      "rank": "22.",
+      "title": "Origins of Venmo (2014)",
+      "link": "https://kortina.nyc/essays/origins-of-venmo/"
+    },
+    {
       "rank": "23.",
+      "title": "The Disaster Poet",
+      "link": "https://www.laphamsquarterly.org/roundtable/disaster-poet"
+    },
+    {
+      "rank": "24.",
+      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
+      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
+    },
+    {
+      "rank": "25.",
+      "title": "My startup/idea validation process",
+      "link": "https://neilcocker.com/2020/08/22/my-startup-validation-process/"
+    },
+    {
+      "rank": "26.",
       "title": "αcτµαlly pδrταblε εxεcµταblε",
       "link": "https://justine.storage.googleapis.com/ape.html"
     },
     {
-      "rank": "24.",
-      "title": "TikTok Inc. vs. U.S. Department of Commerce",
-      "link": "https://www.courtlistener.com/docket/17472173/1/tiktok-inc-v-us-department-of-commerce/"
-    },
-    {
-      "rank": "25.",
-      "title": "Applying tech frameworks to biotech: key differences",
-      "link": "https://www.celinehh.com/tech-vs-biotech"
-    },
-    {
-      "rank": "26.",
-      "title": "Emacs xwidget-webkit enhancement suite",
-      "link": "https://github.com/BlueFlo0d/xwwp/tree/xwwp-ace-dev"
-    },
-    {
       "rank": "27.",
+      "title": "The Computer Chronicles (1983 – 2002)",
+      "link": "https://archive.org/details/Computer_Chronicles"
+    },
+    {
+      "rank": "28.",
+      "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
+      "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
+    },
+    {
+      "rank": "29.",
       "title": "Medieval DNA suggests Columbus didn’t trigger syphilis epidemic in Europe",
       "link": "https://www.sciencemag.org/news/2020/08/medieval-dna-suggests-columbus-didn-t-trigger-syphilis-epidemic-europe"
     },
     {
-      "rank": "28.",
-      "title": "Writing a Test Case Generator for a Programming Language",
-      "link": "http://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
-    },
-    {
-      "rank": "29.",
-      "title": "TriFinger: An Open-Source Robot for Learning Dexterity",
-      "link": "https://sites.google.com/view/trifinger"
-    },
-    {
       "rank": "30.",
-      "title": "Sumo Logic S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1643269/000119312520227201/d821436ds1.htm"
+      "title": "Applying tech frameworks to biotech: key differences",
+      "link": "https://www.celinehh.com/tech-vs-biotech"
     }
   ],
   "metadata": {
