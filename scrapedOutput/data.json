@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Jaron Lanier on social media",
-      "link": "https://www.gq.com/story/jaron-lanier-tech-oracle-profile"
+      "title": "Docker to rate limit image pulls",
+      "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
     },
     {
       "rank": "6.",
-      "title": "Docker to rate limit image pulls",
-      "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
+      "title": "Jaron Lanier on social media",
+      "link": "https://www.gq.com/story/jaron-lanier-tech-oracle-profile"
     },
     {
       "rank": "7.",
@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
-      "title": "High bitrate video streaming with GStreamer RTP",
-      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
-    },
-    {
-      "rank": "9.",
       "title": "The robotics revolution is here, and it's changing how we live",
       "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
     },
     {
+      "rank": "9.",
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
+    },
+    {
       "rank": "10.",
+      "title": "High bitrate video streaming with GStreamer RTP",
+      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
+    },
+    {
+      "rank": "11.",
       "title": "Challenge to scientists: does your ten-year-old code still run?",
       "link": "https://www.nature.com/articles/d41586-020-02462-7"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Nuclear Reactor Development History",
       "link": "https://whatisnuclear.com/reactor_history.html"
-    },
-    {
-      "rank": "12.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
     },
     {
       "rank": "13.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
-      "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
+      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
+      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
     },
     {
       "rank": "15.",
-      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
-      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
+      "title": "Journal 2.0: Mental Space for What Matters",
+      "link": "https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Facebook agrees to pay France €106M in back taxes",
-      "link": "https://www.bbc.co.uk/news/business-53894959"
+      "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
+      "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Emotional resilience and burnout in leadership",
-      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
+      "title": "Facebook agrees to pay France €106M in back taxes",
+      "link": "https://www.bbc.co.uk/news/business-53894959"
     },
     {
       "rank": "20.",
-      "title": "Journal 2.0: Mental Space for What Matters",
-      "link": "https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a"
+      "title": "‘CSS X’",
+      "link": "https://www.w3.org/blog/2020/03/css-x/"
     },
     {
       "rank": "21.",
@@ -107,38 +107,38 @@
     },
     {
       "rank": "22.",
-      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
-      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+      "title": "Emotional resilience and burnout in leadership",
+      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
     },
     {
       "rank": "23.",
-      "title": "The Computer Chronicles (1983 – 2002)",
-      "link": "https://archive.org/details/Computer_Chronicles"
-    },
-    {
-      "rank": "24.",
-      "title": "Sinai is hiring a senior back-end engineer to build our decarbonization platform",
-      "link": "https://angel.co/company/sinai-technologies/jobs/925213-senior-backend-software-engineer"
-    },
-    {
-      "rank": "25.",
       "title": "Vitamin D, part 2: Shannon's story",
       "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
     },
     {
-      "rank": "26.",
+      "rank": "24.",
+      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
+      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+    },
+    {
+      "rank": "25.",
       "title": "αcτµαlly pδrταblε εxεcµταblε",
       "link": "https://justine.storage.googleapis.com/ape.html"
     },
     {
+      "rank": "26.",
+      "title": "Sinai is hiring a senior back-end engineer to build our decarbonization platform",
+      "link": "https://angel.co/company/sinai-technologies/jobs/925213-senior-backend-software-engineer"
+    },
+    {
       "rank": "27.",
-      "title": "JavaScript Generators, Meet XPath",
-      "link": "https://jack.wrenn.fyi/blog/xpath-for-2020/"
+      "title": "The Computer Chronicles (1983 – 2002)",
+      "link": "https://archive.org/details/Computer_Chronicles"
     },
     {
       "rank": "28.",
-      "title": "Automotive Grade Linux",
-      "link": "https://www.automotivelinux.org/"
+      "title": "JavaScript Generators, Meet XPath",
+      "link": "https://jack.wrenn.fyi/blog/xpath-for-2020/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Remains of 17th century bishop support Neolithic emergence of tuberculosis",
-      "link": "https://www.shh.mpg.de/1825450/neolithic-emergence-of-tuberculosis"
+      "title": "Developers are fleeing the Unreal Engine",
+      "link": "https://www.theverge.com/2020/8/24/21399434/epic-vs-apple-lawsuit-fortnite-app-store-monopoly-challenge"
     }
   ],
   "metadata": {
