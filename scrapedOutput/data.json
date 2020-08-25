@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Firefox 80",
-      "link": "https://www.mozilla.org/en-US/firefox/80.0/releasenotes/"
+      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
+      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
     },
     {
       "rank": "3.",
-      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
-      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
+      "title": "Firefox 80",
+      "link": "https://www.mozilla.org/en-US/firefox/80.0/releasenotes/"
     },
     {
       "rank": "4.",
@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
-      "title": "Searching for 'VK' shows only a single result on DuckduckGo. Why?",
-      "link": "https://duckduckgo.com/?q=vk"
-    },
-    {
-      "rank": "9.",
-      "title": "Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer",
-      "link": "https://www.reverielabs.com/careers"
-    },
-    {
-      "rank": "10.",
       "title": "AWS Controllers for Kubernetes (ACK)",
       "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
+      "rank": "9.",
+      "title": "Searching for 'VK' shows only a single result on DuckduckGo. Why?",
+      "link": "https://duckduckgo.com/?q=vk"
+    },
+    {
+      "rank": "10.",
+      "title": "Optimal Peanut Butter and Banana Sandwiches",
+      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
+    },
+    {
       "rank": "11.",
-      "title": "How to Write in Plain English",
-      "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
+      "title": "Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer",
+      "link": "https://www.reverielabs.com/careers"
     },
     {
       "rank": "12.",
-      "title": "Optimal Peanut Butter and Banana Sandwiches",
-      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
+      "title": "How to Write in Plain English",
+      "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
     },
     {
       "rank": "13.",
@@ -67,33 +67,33 @@
     },
     {
       "rank": "14.",
-      "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
-      "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
-    },
-    {
-      "rank": "15.",
-      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
-      "link": "https://github.com/model-zoo/shift-ctrl-f"
-    },
-    {
-      "rank": "16.",
       "title": "Ventoy makes making bootable USB drives easy",
       "link": "https://github.com/ventoy/Ventoy"
     },
     {
+      "rank": "15.",
+      "title": "Syllabus for Eric's PhD Students",
+      "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
+    },
+    {
+      "rank": "16.",
+      "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
+      "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
+    },
+    {
       "rank": "17.",
+      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
+      "link": "https://github.com/model-zoo/shift-ctrl-f"
+    },
+    {
+      "rank": "18.",
       "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
       "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Medieval DNA suggests Columbus didn’t trigger syphilis epidemic in Europe",
       "link": "https://www.sciencemag.org/news/2020/08/medieval-dna-suggests-columbus-didn-t-trigger-syphilis-epidemic-europe"
-    },
-    {
-      "rank": "19.",
-      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
-      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
     },
     {
       "rank": "20.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Amazon now delivers nearly 2/3 of its own packages",
-      "link": "https://www.cnbc.com/2020/08/13/amazon-is-delivering-nearly-two-thirds-of-its-own-packages.html"
+      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
+      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "What the interns have wrought, 2020 edition",
-      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2020/"
+      "title": "Show HN: PuffinBASIC – A cross-platform modern BASIC interpreter written in Java",
+      "link": "item?id=24265387"
     },
     {
       "rank": "25.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
-      "link": "https://github.com/hyscale/hyscale"
+      "title": "Animal behavior during a solar eclipse",
+      "link": "https://readwildness.com/23/poli-eclipse"
     },
     {
       "rank": "27.",
-      "title": "Show HN: PuffinBASIC – A cross-platform modern BASIC interpreter written in Java",
-      "link": "item?id=24265387"
+      "title": "What the interns have wrought, 2020 edition",
+      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2020/"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Animal behavior during a solar eclipse",
-      "link": "https://readwildness.com/23/poli-eclipse"
+      "title": "Show HN: Will It CORS? – an automatic CORS explainer",
+      "link": "http://willitcors.com"
     },
     {
       "rank": "30.",
-      "title": "Unpopular Opinion – Data Scientists Should Be More End-to-End",
-      "link": "https://eugeneyan.com/writing/end-to-end-data-science/?mkt_tok=eyJpIjoiWmpBNVlURTRNRE00WXpjMiIsInQiOiJockxCUXB1YmRPOGxvNm40UDhwdEk2dlI0UHhRY0NzTmdDV3ZnbFl4d3p6WGNZRU56Qmh1S2VNXC9zbmR2RUJrTjk4bW1DeVNUVHdBQW50aHdEOXhLd3VPVDRnbmRWOWdiSFFQVTVmaFZwZ3o3N0tLMk9Xdk9sYXBPc0I3Y1FhREoifQ%3D%3D"
+      "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
+      "link": "https://github.com/hyscale/hyscale"
     }
   ],
   "metadata": {
