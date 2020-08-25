@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "Kindle collects a surprisingly large amount of data",
-      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
+      "title": "Why hockey companies are putting holes in sticks",
+      "link": "https://mailchi.mp/theprepared/the-prepared-4ydgzm58vl"
     },
     {
       "rank": "8.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Chrome just got faster with Profile Guided Optimization",
-      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
+      "title": "Kindle collects a surprisingly large amount of data",
+      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
     },
     {
       "rank": "10.",
@@ -52,103 +52,103 @@
     },
     {
       "rank": "11.",
-      "title": "Why hockey companies are putting holes in sticks",
-      "link": "https://mailchi.mp/theprepared/the-prepared-4ydgzm58vl"
+      "title": "Chrome just got faster with Profile Guided Optimization",
+      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
     },
     {
       "rank": "12.",
-      "title": "AWS Controllers for Kubernetes (ACK)",
-      "link": "https://github.com/aws/aws-controllers-k8s"
-    },
-    {
-      "rank": "13.",
-      "title": "Ventoy makes making bootable USB drives easy",
-      "link": "https://github.com/ventoy/Ventoy"
-    },
-    {
-      "rank": "14.",
-      "title": "Topicctl – an easier way to manage Kafka topics",
-      "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
-    },
-    {
-      "rank": "15.",
-      "title": "A new botnet is covertly targeting millions of servers",
-      "link": "https://www.wired.com/story/a-new-botnet-is-covertly-targeting-millions-of-servers/"
-    },
-    {
-      "rank": "16.",
-      "title": "How to Write in Plain English",
-      "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
-    },
-    {
-      "rank": "17.",
       "title": "WebBundles Harmful to Content Blocking, Security Tools, and the Open Web",
       "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
     },
     {
+      "rank": "13.",
+      "title": "AWS Controllers for Kubernetes (ACK)",
+      "link": "https://github.com/aws/aws-controllers-k8s"
+    },
+    {
+      "rank": "14.",
+      "title": "Ventoy makes making bootable USB drives easy",
+      "link": "https://github.com/ventoy/Ventoy"
+    },
+    {
+      "rank": "15.",
+      "title": "A Chrome feature is creating enormous load on global root DNS servers",
+      "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
+    },
+    {
+      "rank": "16.",
+      "title": "A new botnet is covertly targeting millions of servers",
+      "link": "https://www.wired.com/story/a-new-botnet-is-covertly-targeting-millions-of-servers/"
+    },
+    {
+      "rank": "17.",
+      "title": "How to Write in Plain English",
+      "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
+    },
+    {
       "rank": "18.",
+      "title": "Topicctl – an easier way to manage Kafka topics",
+      "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
+    },
+    {
+      "rank": "19.",
       "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
       "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
-      "rank": "19.",
-      "title": "Origins of Venmo (2014)",
-      "link": "https://kortina.nyc/essays/origins-of-venmo/"
-    },
-    {
       "rank": "20.",
-      "title": "Medieval DNA suggests Columbus didn’t trigger syphilis epidemic in Europe",
-      "link": "https://www.sciencemag.org/news/2020/08/medieval-dna-suggests-columbus-didn-t-trigger-syphilis-epidemic-europe"
-    },
-    {
-      "rank": "21.",
-      "title": "Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer",
-      "link": "https://www.reverielabs.com/careers"
-    },
-    {
-      "rank": "22.",
-      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
-      "link": "https://github.com/model-zoo/shift-ctrl-f"
-    },
-    {
-      "rank": "23.",
       "title": "A Tuna's Worth",
       "link": "https://www.hakaimagazine.com/features/a-tunas-worth/"
     },
     {
+      "rank": "21.",
+      "title": "Origins of Venmo (2014)",
+      "link": "https://kortina.nyc/essays/origins-of-venmo/"
+    },
+    {
+      "rank": "22.",
+      "title": "Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer",
+      "link": "https://www.reverielabs.com/careers"
+    },
+    {
+      "rank": "23.",
+      "title": "Medieval DNA suggests Columbus didn’t trigger syphilis epidemic in Europe",
+      "link": "https://www.sciencemag.org/news/2020/08/medieval-dna-suggests-columbus-didn-t-trigger-syphilis-epidemic-europe"
+    },
+    {
       "rank": "24.",
-      "title": "Keeping CALM: When Distributed Consistency Is Easy",
-      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+      "title": "Going Public Circa 2020; Door #3: The SPAC",
+      "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
     },
     {
       "rank": "25.",
+      "title": "Secure Modular Runtimes",
+      "link": "https://guybedford.com/secure-modular-runtimes.html"
+    },
+    {
+      "rank": "26.",
+      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
+      "link": "https://github.com/model-zoo/shift-ctrl-f"
+    },
+    {
+      "rank": "27.",
       "title": "Amazon is delivering nearly two-thirds of its own packages",
       "link": "https://www.cnbc.com/2020/08/13/amazon-is-delivering-nearly-two-thirds-of-its-own-packages.html"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
+      "title": "Keeping CALM: When Distributed Consistency Is Easy",
+      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+    },
+    {
+      "rank": "29.",
       "title": "Searching for 'VK' shows only a single result on DuckduckGo. Why?",
       "link": "https://duckduckgo.com/?q=vk"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "The fate of antiques and heirlooms in a disposable age",
       "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
-    },
-    {
-      "rank": "28.",
-      "title": "A Nubian Kingdom Rises",
-      "link": "https://www.archaeology.org/issues/393-2009/features/8919-sudan-kerma-nubian-kingdom"
-    },
-    {
-      "rank": "29.",
-      "title": "Scots language Wikipedia is edited primarily by someone who doesn't know Scots",
-      "link": "https://www.reddit.com/r/linguistics/comments/igbbh2/the_scots_language_wikipedia_is_edited_primarily/"
-    },
-    {
-      "rank": "30.",
-      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
-      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
     }
   ],
   "metadata": {
