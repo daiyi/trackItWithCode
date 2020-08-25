@@ -12,68 +12,68 @@
     },
     {
       "rank": "3.",
-      "title": "What Is the Small Web?",
-      "link": "https://ar.al/2020/08/07/what-is-the-small-web/"
-    },
-    {
-      "rank": "4.",
       "title": "How to Write in Plain English",
       "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "OpenZFS Merged to FreeBSD",
       "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
     },
     {
-      "rank": "6.",
-      "title": "Expert: A Major Hurricane Hitting Houston Would Be “America’s Chernobyl”",
+      "rank": "5.",
+      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
       "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Asana S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "rc.d belongs in libexec, not etc",
       "link": "https://jmmv.dev/2020/08/rcd-libexec-etc.html"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "The wildest insurance fraud scheme in Texas",
       "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
       "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
     },
     {
-      "rank": "11.",
-      "title": "US home construction surges 22.6%, third monthly increase",
-      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
-    },
-    {
-      "rank": "12.",
+      "rank": "10.",
       "title": "GCD and the magic of subtraction",
       "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
     },
     {
-      "rank": "13.",
+      "rank": "11.",
+      "title": "What Is the Small Web?",
+      "link": "https://ar.al/2020/08/07/what-is-the-small-web/"
+    },
+    {
+      "rank": "12.",
       "title": "Docker to rate limit image pulls",
       "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "One Year of Nushell",
       "link": "https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "The Renaissance of the Shell?",
       "link": "https://effective-shell.com/docs/part-1-transitioning-to-the-shell/6-the-renaissance-of-the-shell/"
+    },
+    {
+      "rank": "15.",
+      "title": "US home construction surges 22.6%, third monthly increase",
+      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
     },
     {
       "rank": "16.",
@@ -87,33 +87,33 @@
     },
     {
       "rank": "18.",
+      "title": "The Everyday Inspiration for Anna Karenina",
+      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
+    },
+    {
+      "rank": "19.",
       "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
       "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
+      "title": "Court Order Prevents Apple from Blocking Epic Games’ Unreal Engine",
+      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
+    },
+    {
+      "rank": "21.",
       "title": "Being OK with not being extraordinary",
       "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
-      "rank": "20.",
-      "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
-      "link": "https://github.com/leontrolski/dnjs"
-    },
-    {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Writing an SSDP Directory in Elixir",
       "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
     },
     {
-      "rank": "22.",
-      "title": "BPF Portability and CO-Re (Compile Once Run Everywhere)",
-      "link": "https://facebookmicrosites.github.io/bpf/blog/2020/02/19/bpf-portability-and-co-re.html"
-    },
-    {
       "rank": "23.",
-      "title": "Nuclear Reactor Development History",
-      "link": "https://whatisnuclear.com/reactor_history.html"
+      "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
+      "link": "https://github.com/leontrolski/dnjs"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "How I helped fix Canadaʼs Covid Alert app",
-      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+      "title": "BPF Portability and CO-Re (Compile Once Run Everywhere)",
+      "link": "https://facebookmicrosites.github.io/bpf/blog/2020/02/19/bpf-portability-and-co-re.html"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Court Order Prevents Apple from Blocking Epic Games’ Unreal Engine",
-      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
+      "title": "Nuclear Reactor Development History",
+      "link": "https://whatisnuclear.com/reactor_history.html"
     },
     {
       "rank": "28.",
+      "title": "How I helped fix Canadaʼs Covid Alert app",
+      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+    },
+    {
+      "rank": "29.",
       "title": "EBS Storage Improvements",
       "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
       "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
-    },
-    {
-      "rank": "30.",
-      "title": "‘CSS X’",
-      "link": "https://www.w3.org/blog/2020/03/css-x/"
     }
   ],
   "metadata": {
