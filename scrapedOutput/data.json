@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)",
-      "link": "https://recruiterflow.com/caper/jobs#menu"
+      "title": "The robotics revolution is here, and it's changing how we live",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
     },
     {
       "rank": "10.",
-      "title": "The robotics revolution is here, and it's changing how we live",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+      "title": "Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)",
+      "link": "https://recruiterflow.com/caper/jobs#menu"
     },
     {
       "rank": "11.",
@@ -57,23 +57,23 @@
     },
     {
       "rank": "12.",
-      "title": "Computability in Linear Algebra (2004)",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0304397504004086"
-    },
-    {
-      "rank": "13.",
       "title": "High bitrate video streaming with GStreamer RTP",
       "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Nuclear Reactor Development History",
       "link": "https://whatisnuclear.com/reactor_history.html"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Challenge to scientists: does your ten-year-old code still run?",
       "link": "https://www.nature.com/articles/d41586-020-02462-7"
+    },
+    {
+      "rank": "15.",
+      "title": "Computability in Linear Algebra (2004)",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304397504004086"
     },
     {
       "rank": "16.",
@@ -87,18 +87,18 @@
     },
     {
       "rank": "18.",
-      "title": "Jaron Lanier on social media",
-      "link": "https://www.gq.com/story/jaron-lanier-tech-oracle-profile"
-    },
-    {
-      "rank": "19.",
       "title": "Top colleges should select randomly from a pool of ‘good enough’ (2005)",
       "link": "https://www.chronicle.com/article/top-colleges-should-select-randomly-from-a-pool-of-good-enough/"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
       "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
+    },
+    {
+      "rank": "20.",
+      "title": "Jaron Lanier on social media",
+      "link": "https://www.gq.com/story/jaron-lanier-tech-oracle-profile"
     },
     {
       "rank": "21.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
-      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+      "title": "Vitamin D, part 2: Shannon's story",
+      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
     },
     {
       "rank": "27.",
-      "title": "Vitamin D, part 2: Shannon's story",
-      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
+      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
+      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "The Computer Chronicles (1983 – 2002)",
-      "link": "https://archive.org/details/Computer_Chronicles"
+      "title": "JavaScript Generators, Meet XPath",
+      "link": "https://jack.wrenn.fyi/blog/xpath-for-2020/"
     }
   ],
   "metadata": {
