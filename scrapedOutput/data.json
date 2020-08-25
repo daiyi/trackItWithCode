@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "A Chrome feature is creating enormous load on global root DNS servers",
-      "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
+      "title": "Alberta government gives green light to Calgary-Edmonton Hyperloop project",
+      "link": "https://www.theglobeandmail.com/canada/alberta/article-alberta-government-gives-green-light-to-hyperloop-project/"
     },
     {
       "rank": "7.",
-      "title": "Keeping CALM: When Distributed Consistency Is Easy",
-      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+      "title": "A Chrome feature is creating enormous load on global root DNS servers",
+      "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
     },
     {
       "rank": "8.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Mux (YC W16) is hiring devs that want to help others build video (remote ok!)",
-      "link": "https://mux.com/jobs?hnj=17"
+      "title": "Keeping CALM: When Distributed Consistency Is Easy",
+      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
     },
     {
       "rank": "10.",
@@ -52,23 +52,23 @@
     },
     {
       "rank": "11.",
-      "title": "Alberta government gives green light to Calgary-Edmonton Hyperloop project",
-      "link": "https://www.theglobeandmail.com/canada/alberta/article-alberta-government-gives-green-light-to-hyperloop-project/"
+      "title": "Mux (YC W16) is hiring devs that want to help others build video (remote ok!)",
+      "link": "https://mux.com/jobs?hnj=17"
     },
     {
       "rank": "12.",
-      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
-      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
-    },
-    {
-      "rank": "13.",
       "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
       "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
     },
     {
+      "rank": "13.",
+      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
+    },
+    {
       "rank": "14.",
-      "title": "Japan facing credit card number shortage",
-      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
+      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
+      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
     },
     {
       "rank": "15.",
@@ -77,48 +77,48 @@
     },
     {
       "rank": "16.",
-      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
-    },
-    {
-      "rank": "17.",
-      "title": "Palantir S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm"
-    },
-    {
-      "rank": "18.",
       "title": "Optimal Peanut Butter and Banana Sandwiches",
       "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
     },
     {
-      "rank": "19.",
+      "rank": "17.",
+      "title": "Cat vs. panel heater: which is better?",
+      "link": "https://www.oneroof.co.nz/news/38319"
+    },
+    {
+      "rank": "18.",
       "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
       "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
     },
     {
-      "rank": "20.",
-      "title": "Incident updates, interruptions and the 30 minute window",
-      "link": "https://www.unixdaemon.net/sysadmin/incident-updates-and-interruptions/"
+      "rank": "19.",
+      "title": "Tipe raises $2.1M seed round to build a customizable CMS for developers",
+      "link": "https://tipe.io/blog/tipe-raises-seed"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Amazon drops Linux support for generating Kindle ebooks",
       "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "AWS Controllers for Kubernetes",
       "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
+      "rank": "22.",
+      "title": "Incident updates, interruptions and the 30 minute window",
+      "link": "https://www.unixdaemon.net/sysadmin/incident-updates-and-interruptions/"
+    },
+    {
       "rank": "23.",
-      "title": "Topicctl – an easier way to manage Kafka topics",
-      "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
+      "title": "Palantir S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm"
     },
     {
       "rank": "24.",
-      "title": "Tipe raises $2.1M seed round to build a customizable CMS for developers",
-      "link": "https://tipe.io/blog/tipe-raises-seed"
+      "title": "Topicctl – an easier way to manage Kafka topics",
+      "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
     },
     {
       "rank": "25.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Firefox Android Build that caused issues is working as intended",
-      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
+      "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
+      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
       "rank": "27.",
-      "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
-      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
+      "title": "Firefox Android Build that caused issues is working as intended",
+      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Chrome just got faster with Profile Guided Optimization",
-      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
+      "title": "The longest train ride in the world",
+      "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
     },
     {
       "rank": "30.",
-      "title": "Amazon is delivering nearly two-thirds of its own packages",
-      "link": "https://www.cnbc.com/2020/08/13/amazon-is-delivering-nearly-two-thirds-of-its-own-packages.html"
+      "title": "Japan facing credit card number shortage",
+      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
     }
   ],
   "metadata": {
