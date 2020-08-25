@@ -32,23 +32,23 @@
     },
     {
       "rank": "7.",
-      "title": "The wildest insurance fraud scheme in Texas",
-      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
-    },
-    {
-      "rank": "8.",
       "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
       "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
     },
     {
+      "rank": "8.",
+      "title": "The wildest insurance fraud scheme in Texas",
+      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
+    },
+    {
       "rank": "9.",
-      "title": "DIY Single-Chip 2D Retro Game Console",
-      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
+      "title": "GCD and the magic of subtraction",
+      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
     },
     {
       "rank": "10.",
-      "title": "GCD and the magic of subtraction",
-      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
+      "title": "DIY Single-Chip 2D Retro Game Console",
+      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
       "rank": "11.",
@@ -82,38 +82,38 @@
     },
     {
       "rank": "17.",
-      "title": "The robotics revolution is here, and it's changing how we live",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
-    },
-    {
-      "rank": "18.",
-      "title": "The Everyday Inspiration for Anna Karenina",
-      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
-    },
-    {
-      "rank": "19.",
       "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
       "link": "https://github.com/leontrolski/dnjs"
     },
     {
-      "rank": "20.",
+      "rank": "18.",
+      "title": "The robotics revolution is here, and it's changing how we live",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+    },
+    {
+      "rank": "19.",
       "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
       "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
     },
     {
+      "rank": "20.",
+      "title": "The GemRB project celebrates 20 year anniversary with a new release",
+      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
+    },
+    {
       "rank": "21.",
+      "title": "The Everyday Inspiration for Anna Karenina",
+      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
+    },
+    {
+      "rank": "22.",
       "title": "Being OK with not being extraordinary",
       "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Writing an SSDP Directory in Elixir",
       "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
-    },
-    {
-      "rank": "23.",
-      "title": "rc.d belongs in libexec, not etc",
-      "link": "https://jmmv.dev/2020/08/rcd-libexec-etc.html"
     },
     {
       "rank": "24.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "rc.d belongs in libexec, not etc",
+      "link": "https://jmmv.dev/2020/08/rcd-libexec-etc.html"
+    },
+    {
+      "rank": "29.",
       "title": "BPF Portability and CO-Re (Compile Once Run Everywhere)",
       "link": "https://facebookmicrosites.github.io/bpf/blog/2020/02/19/bpf-portability-and-co-re.html"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "EBS Storage Improvements",
       "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
-    },
-    {
-      "rank": "30.",
-      "title": "‘CSS X’",
-      "link": "https://www.w3.org/blog/2020/03/css-x/"
     }
   ],
   "metadata": {
