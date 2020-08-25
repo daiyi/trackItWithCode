@@ -22,38 +22,38 @@
     },
     {
       "rank": "5.",
-      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
-      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
-    },
-    {
-      "rank": "6.",
       "title": "OpenZFS Merged to FreeBSD",
       "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
     },
     {
+      "rank": "6.",
+      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
+      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
+    },
+    {
       "rank": "7.",
+      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
+      "link": "https://www.bbc.com/news/world-europe-53875370"
+    },
+    {
+      "rank": "8.",
       "title": "Asana S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "The wildest insurance fraud scheme in Texas",
       "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "DIY Single-Chip 2D Retro Game Console",
       "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
       "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
-    },
-    {
-      "rank": "11.",
-      "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
-      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
       "rank": "12.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
-      "link": "https://www.bbc.com/news/world-europe-53875370"
+      "title": "Managing Teams Through Interfaces",
+      "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
     },
     {
       "rank": "17.",
-      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
-      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
+      "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
+      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
       "rank": "18.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "Quotes from Moral Mazes (2019)",
-      "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
+      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
+      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
     },
     {
       "rank": "20.",
@@ -102,28 +102,28 @@
     },
     {
       "rank": "21.",
+      "title": "Quotes from Moral Mazes (2019)",
+      "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
+    },
+    {
+      "rank": "22.",
       "title": "The Everyday Inspiration for Anna Karenina",
       "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Writing an SSDP Directory in Elixir",
       "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Nuclear Reactor Development History",
       "link": "https://whatisnuclear.com/reactor_history.html"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
       "link": "https://github.com/leontrolski/dnjs"
-    },
-    {
-      "rank": "25.",
-      "title": "US home construction surges 22.6%, third monthly increase",
-      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
     },
     {
       "rank": "26.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "EBS Storage Improvements",
-      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
-    },
-    {
-      "rank": "29.",
       "title": "Clover: An all-in-one notebook",
       "link": "https://cloverapp.co/"
     },
     {
+      "rank": "29.",
+      "title": "EBS Storage Improvements",
+      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
+    },
+    {
       "rank": "30.",
-      "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
-      "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
+      "title": "US home construction surges 22.6%, third monthly increase",
+      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
     }
   ],
   "metadata": {
