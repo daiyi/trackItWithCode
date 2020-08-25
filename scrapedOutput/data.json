@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Slack Investigating an Ongoing Outage",
+      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
+    },
+    {
+      "rank": "2.",
       "title": "How to Write in Plain English",
       "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
       "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
-    },
-    {
-      "rank": "3.",
-      "title": "Slack Investigating an Ongoing Outage",
-      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
     },
     {
       "rank": "4.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "DIY Single-Chip 2D Retro Game Console",
-      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
+      "title": "The wildest insurance fraud scheme in Texas",
+      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
     },
     {
       "rank": "9.",
-      "title": "The wildest insurance fraud scheme in Texas",
-      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
+      "title": "DIY Single-Chip 2D Retro Game Console",
+      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
       "rank": "10.",
@@ -57,28 +57,28 @@
     },
     {
       "rank": "12.",
-      "title": "GCD and the magic of subtraction",
-      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
-    },
-    {
-      "rank": "13.",
-      "title": "The GemRB project celebrates 20 year anniversary with a new release",
-      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
-    },
-    {
-      "rank": "14.",
-      "title": "One Year of Nushell",
-      "link": "https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
-    },
-    {
-      "rank": "15.",
       "title": "The Renaissance of the Shell?",
       "link": "https://effective-shell.com/docs/part-1-transitioning-to-the-shell/6-the-renaissance-of-the-shell/"
     },
     {
+      "rank": "13.",
+      "title": "GCD and the magic of subtraction",
+      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
+    },
+    {
+      "rank": "14.",
+      "title": "The GemRB project celebrates 20 year anniversary with a new release",
+      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
+    },
+    {
+      "rank": "15.",
+      "title": "One Year of Nushell",
+      "link": "https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
+    },
+    {
       "rank": "16.",
-      "title": "Chinese-Made Smartphones Are Stealing Money from People Around the World",
-      "link": "https://www.buzzfeednews.com/article/craigsilverman/cheap-chinese-smartphones-malware"
+      "title": "Quotes from Moral Mazes (2019)",
+      "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
     },
     {
       "rank": "17.",
@@ -92,63 +92,63 @@
     },
     {
       "rank": "19.",
-      "title": "Being OK with not being extraordinary",
-      "link": "https://www.tiffanymatthe.com/not-extraordinary"
-    },
-    {
-      "rank": "20.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
-    },
-    {
-      "rank": "21.",
-      "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
-      "link": "https://github.com/leontrolski/dnjs"
-    },
-    {
-      "rank": "22.",
       "title": "The Everyday Inspiration for Anna Karenina",
       "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
     },
     {
-      "rank": "23.",
-      "title": "Quotes from Moral Mazes (2019)",
-      "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
+      "rank": "20.",
+      "title": "Being OK with not being extraordinary",
+      "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
-      "rank": "24.",
+      "rank": "21.",
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
+    },
+    {
+      "rank": "22.",
+      "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
+      "link": "https://github.com/leontrolski/dnjs"
+    },
+    {
+      "rank": "23.",
       "title": "Nuclear Reactor Development History",
       "link": "https://whatisnuclear.com/reactor_history.html"
     },
     {
-      "rank": "25.",
-      "title": "Clover: An all-in-one notebook",
-      "link": "https://cloverapp.co/"
-    },
-    {
-      "rank": "26.",
+      "rank": "24.",
       "title": "US home construction surges 22.6%, third monthly increase",
       "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
     },
     {
-      "rank": "27.",
+      "rank": "25.",
       "title": "How I helped fix Canadaʼs Covid Alert app",
       "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
     },
     {
-      "rank": "28.",
-      "title": "High bitrate video streaming with GStreamer RTP",
-      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
+      "rank": "26.",
+      "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
+      "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
+      "title": "Clover: An all-in-one notebook",
+      "link": "https://cloverapp.co/"
+    },
+    {
+      "rank": "28.",
       "title": "EBS Storage Improvements",
       "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
     },
     {
+      "rank": "29.",
+      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
+      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+    },
+    {
       "rank": "30.",
-      "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
-      "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
+      "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
+      "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
     }
   ],
   "metadata": {
