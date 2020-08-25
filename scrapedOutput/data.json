@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
+      "title": "Signifier – a Brutalist response to 17th century typefaces",
+      "link": "https://klim.co.nz/blog/signifier-design-information/"
+    },
+    {
+      "rank": "8.",
       "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
       "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     },
     {
-      "rank": "8.",
-      "title": "A Chrome feature is creating enormous load on global root DNS servers",
-      "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
-    },
-    {
       "rank": "9.",
-      "title": "Signifier – a Brutalist response to 17th century typefaces",
-      "link": "https://klim.co.nz/blog/signifier-design-information/"
+      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
+      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
     },
     {
       "rank": "10.",
@@ -57,28 +57,28 @@
     },
     {
       "rank": "12.",
-      "title": "Mux (YC W16) is hiring devs that want to help others build video (remote ok!)",
-      "link": "https://mux.com/jobs?hnj=17"
-    },
-    {
-      "rank": "13.",
       "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
       "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
     },
     {
+      "rank": "13.",
+      "title": "Kindle collects a surprisingly large amount of data",
+      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
+    },
+    {
       "rank": "14.",
+      "title": "Mux (YC W16) is hiring devs that want to help others build video (remote ok!)",
+      "link": "https://mux.com/jobs?hnj=17"
+    },
+    {
+      "rank": "15.",
       "title": "WebBundles harmful to content blocking, security tools, and the open web",
       "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
     },
     {
-      "rank": "15.",
-      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
-      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
-    },
-    {
       "rank": "16.",
-      "title": "Kindle collects a surprisingly large amount of data",
-      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
+      "title": "A Chrome feature is creating enormous load on global root DNS servers",
+      "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
     },
     {
       "rank": "17.",
@@ -87,28 +87,28 @@
     },
     {
       "rank": "18.",
-      "title": "Incident updates, interruptions and the 30 minute window",
-      "link": "https://www.unixdaemon.net/sysadmin/incident-updates-and-interruptions/"
-    },
-    {
-      "rank": "19.",
       "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
       "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "The longest train ride in the world",
       "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
     },
     {
+      "rank": "20.",
+      "title": "Incident updates, interruptions and the 30 minute window",
+      "link": "https://www.unixdaemon.net/sysadmin/incident-updates-and-interruptions/"
+    },
+    {
       "rank": "21.",
-      "title": "Tipe raises $2.1M seed round to build a customizable CMS for developers",
-      "link": "https://tipe.io/blog/tipe-raises-seed"
+      "title": "Stone structures in Saudi Arabia may be among oldest monuments in world",
+      "link": "https://www.livescience.com/mysterious-stone-structures-saudi-arabia-oldest.html"
     },
     {
       "rank": "22.",
-      "title": "Amazon drops Linux support for generating Kindle ebooks",
-      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
+      "title": "Tipe raises $2.1M seed round to build a customizable CMS for developers",
+      "link": "https://tipe.io/blog/tipe-raises-seed"
     },
     {
       "rank": "23.",
@@ -117,28 +117,28 @@
     },
     {
       "rank": "24.",
+      "title": "Amazon drops Linux support for generating Kindle ebooks",
+      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
+    },
+    {
+      "rank": "25.",
+      "title": "Palantir S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm"
+    },
+    {
+      "rank": "26.",
       "title": "Topicctl – an easier way to manage Kafka topics",
       "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
     },
     {
-      "rank": "25.",
-      "title": "Stone structures in Saudi Arabia may be among oldest monuments in world",
-      "link": "https://www.livescience.com/mysterious-stone-structures-saudi-arabia-oldest.html"
-    },
-    {
-      "rank": "26.",
-      "title": "Japan facing credit card number shortage",
-      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
-    },
-    {
       "rank": "27.",
-      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
-      "link": "https://github.com/model-zoo/shift-ctrl-f"
+      "title": "Three Ways to Hack a Printed Circuit Board",
+      "link": "https://spectrum.ieee.org/computing/hardware/three-ways-to-hack-a-printed-circuit-board"
     },
     {
       "rank": "28.",
-      "title": "Three Ways to Hack a Printed Circuit Board",
-      "link": "https://spectrum.ieee.org/computing/hardware/three-ways-to-hack-a-printed-circuit-board"
+      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
+      "link": "https://github.com/model-zoo/shift-ctrl-f"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Palantir S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm"
+      "title": "Japan facing credit card number shortage",
+      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
     }
   ],
   "metadata": {
