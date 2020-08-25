@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
-      "link": "https://github.com/open-sdr/openwifi"
+      "title": "Africa declared free of wild polio",
+      "link": "https://www.bbc.com/news/world-africa-53887947"
     },
     {
       "rank": "2.",
-      "title": "Africa declared free of wild polio",
-      "link": "https://www.bbc.com/news/world-africa-53887947"
+      "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
+      "link": "https://github.com/open-sdr/openwifi"
     },
     {
       "rank": "3.",
@@ -22,43 +22,43 @@
     },
     {
       "rank": "5.",
-      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
-      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
-    },
-    {
-      "rank": "6.",
       "title": "Global Mass Surveillance – The Fourteen Eyes",
       "link": "https://www.privacytools.io/providers/#ukusa"
     },
     {
+      "rank": "6.",
+      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
+      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
+    },
+    {
       "rank": "7.",
+      "title": "A Chrome feature is creating enormous load on global root DNS servers",
+      "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
+    },
+    {
+      "rank": "8.",
       "title": "Why hockey companies are putting holes in sticks",
       "link": "https://mailchi.mp/theprepared/the-prepared-4ydgzm58vl"
     },
     {
-      "rank": "8.",
-      "title": "Amazon drops Linux support for generating Kindle ebooks",
-      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
+      "rank": "9.",
+      "title": "WebBundles Harmful to Content Blocking, Security Tools, and the Open Web",
+      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Kindle collects a surprisingly large amount of data",
       "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Optimal Peanut Butter and Banana Sandwiches",
       "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
     },
     {
-      "rank": "11.",
-      "title": "Chrome just got faster with Profile Guided Optimization",
-      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
-    },
-    {
       "rank": "12.",
-      "title": "WebBundles Harmful to Content Blocking, Security Tools, and the Open Web",
-      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
+      "title": "Amazon drops Linux support for generating Kindle ebooks",
+      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
     },
     {
       "rank": "13.",
@@ -72,63 +72,63 @@
     },
     {
       "rank": "15.",
-      "title": "A Chrome feature is creating enormous load on global root DNS servers",
-      "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
+      "title": "Chrome just got faster with Profile Guided Optimization",
+      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
     },
     {
       "rank": "16.",
+      "title": "Japan facing credit card number shortage",
+      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
+    },
+    {
+      "rank": "17.",
+      "title": "Keeping CALM: When Distributed Consistency Is Easy",
+      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+    },
+    {
+      "rank": "18.",
       "title": "A new botnet is covertly targeting millions of servers",
       "link": "https://www.wired.com/story/a-new-botnet-is-covertly-targeting-millions-of-servers/"
     },
     {
-      "rank": "17.",
-      "title": "How to Write in Plain English",
-      "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
-    },
-    {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Topicctl – an easier way to manage Kafka topics",
       "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
       "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
-      "rank": "20.",
-      "title": "A Tuna's Worth",
-      "link": "https://www.hakaimagazine.com/features/a-tunas-worth/"
-    },
-    {
       "rank": "21.",
-      "title": "Origins of Venmo (2014)",
-      "link": "https://kortina.nyc/essays/origins-of-venmo/"
-    },
-    {
-      "rank": "22.",
-      "title": "Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer",
-      "link": "https://www.reverielabs.com/careers"
-    },
-    {
-      "rank": "23.",
-      "title": "Medieval DNA suggests Columbus didn’t trigger syphilis epidemic in Europe",
-      "link": "https://www.sciencemag.org/news/2020/08/medieval-dna-suggests-columbus-didn-t-trigger-syphilis-epidemic-europe"
-    },
-    {
-      "rank": "24.",
-      "title": "Going Public Circa 2020; Door #3: The SPAC",
-      "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
-    },
-    {
-      "rank": "25.",
       "title": "Secure Modular Runtimes",
       "link": "https://guybedford.com/secure-modular-runtimes.html"
     },
     {
+      "rank": "22.",
+      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
+      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
+    },
+    {
+      "rank": "23.",
+      "title": "Firefox Android Build that caused issues is working as intended",
+      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
+    },
+    {
+      "rank": "24.",
+      "title": "Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer",
+      "link": "https://www.reverielabs.com/careers"
+    },
+    {
+      "rank": "25.",
+      "title": "Origins of Venmo (2014)",
+      "link": "https://kortina.nyc/essays/origins-of-venmo/"
+    },
+    {
       "rank": "26.",
-      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
-      "link": "https://github.com/model-zoo/shift-ctrl-f"
+      "title": "A Tuna's Worth",
+      "link": "https://www.hakaimagazine.com/features/a-tunas-worth/"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Keeping CALM: When Distributed Consistency Is Easy",
-      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+      "title": "Medieval DNA suggests Columbus didn’t trigger syphilis epidemic in Europe",
+      "link": "https://www.sciencemag.org/news/2020/08/medieval-dna-suggests-columbus-didn-t-trigger-syphilis-epidemic-europe"
     },
     {
       "rank": "29.",
-      "title": "Searching for 'VK' shows only a single result on DuckduckGo. Why?",
-      "link": "https://duckduckgo.com/?q=vk"
+      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
+      "link": "https://github.com/model-zoo/shift-ctrl-f"
     },
     {
       "rank": "30.",
-      "title": "The fate of antiques and heirlooms in a disposable age",
-      "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
+      "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
+      "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
     }
   ],
   "metadata": {
