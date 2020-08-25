@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Kindle collects a surprisingly large amount of data",
-      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
+      "title": "Africa declared free of wild polio in 'milestone'",
+      "link": "https://www.bbc.com/news/world-africa-53887947"
     },
     {
       "rank": "7.",
-      "title": "Chrome just got faster with Profile Guided Optimization",
-      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
+      "title": "Kindle collects a surprisingly large amount of data",
+      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
     },
     {
       "rank": "8.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Africa declared free of wild polio in 'milestone'",
-      "link": "https://www.bbc.com/news/world-africa-53887947"
+      "title": "Chrome just got faster with Profile Guided Optimization",
+      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
     },
     {
       "rank": "10.",
@@ -57,28 +57,28 @@
     },
     {
       "rank": "12.",
-      "title": "Searching for 'VK' shows only a single result on DuckduckGo. Why?",
-      "link": "https://duckduckgo.com/?q=vk"
-    },
-    {
-      "rank": "13.",
       "title": "A new botnet is covertly targeting millions of servers",
       "link": "https://www.wired.com/story/a-new-botnet-is-covertly-targeting-millions-of-servers/"
     },
     {
-      "rank": "14.",
-      "title": "Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer",
-      "link": "https://www.reverielabs.com/careers"
-    },
-    {
-      "rank": "15.",
+      "rank": "13.",
       "title": "How to Write in Plain English",
       "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
     },
     {
+      "rank": "14.",
+      "title": "Ventoy makes making bootable USB drives easy",
+      "link": "https://github.com/ventoy/Ventoy"
+    },
+    {
+      "rank": "15.",
+      "title": "A Nubian Kingdom Rises",
+      "link": "https://www.archaeology.org/issues/393-2009/features/8919-sudan-kerma-nubian-kingdom"
+    },
+    {
       "rank": "16.",
-      "title": "Topicctl – an easier way to manage Kafka topics",
-      "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
+      "title": "Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer",
+      "link": "https://www.reverielabs.com/careers"
     },
     {
       "rank": "17.",
@@ -87,68 +87,68 @@
     },
     {
       "rank": "18.",
-      "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
-      "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
-    },
-    {
-      "rank": "19.",
-      "title": "Ventoy makes making bootable USB drives easy",
-      "link": "https://github.com/ventoy/Ventoy"
-    },
-    {
-      "rank": "20.",
       "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
       "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
-      "rank": "21.",
+      "rank": "19.",
+      "title": "Topicctl – an easier way to manage Kafka topics",
+      "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
+    },
+    {
+      "rank": "20.",
       "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
       "link": "https://github.com/model-zoo/shift-ctrl-f"
     },
     {
+      "rank": "21.",
+      "title": "Searching for 'VK' shows only a single result on DuckduckGo. Why?",
+      "link": "https://duckduckgo.com/?q=vk"
+    },
+    {
       "rank": "22.",
-      "title": "Scots language Wikipedia is edited primarily by someone who doesn't know Scots",
-      "link": "https://www.reddit.com/r/linguistics/comments/igbbh2/the_scots_language_wikipedia_is_edited_primarily/"
+      "title": "The fate of antiques and heirlooms in a disposable age",
+      "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
     },
     {
       "rank": "23.",
-      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
-      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
-    },
-    {
-      "rank": "24.",
-      "title": "The Mathematical Structure of Particle Collisions Comes into View",
-      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
-    },
-    {
-      "rank": "25.",
-      "title": "Show HN: PuffinBASIC – A cross-platform modern BASIC interpreter written in Java",
-      "link": "item?id=24265387"
-    },
-    {
-      "rank": "26.",
-      "title": "Boston Dynamics' Handle Robot Recreated with Raspberry Pi",
-      "link": "https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/"
-    },
-    {
-      "rank": "27.",
       "title": "Amazon is delivering nearly two-thirds of its own packages",
       "link": "https://www.cnbc.com/2020/08/13/amazon-is-delivering-nearly-two-thirds-of-its-own-packages.html"
     },
     {
+      "rank": "24.",
+      "title": "Scots language Wikipedia is edited primarily by someone who doesn't know Scots",
+      "link": "https://www.reddit.com/r/linguistics/comments/igbbh2/the_scots_language_wikipedia_is_edited_primarily/"
+    },
+    {
+      "rank": "25.",
+      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
+      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
+    },
+    {
+      "rank": "26.",
+      "title": "The Mathematical Structure of Particle Collisions Comes into View",
+      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
+    },
+    {
+      "rank": "27.",
+      "title": "Show HN: PuffinBASIC – A cross-platform modern BASIC interpreter written in Java",
+      "link": "item?id=24265387"
+    },
+    {
       "rank": "28.",
+      "title": "Boston Dynamics' Handle Robot Recreated with Raspberry Pi",
+      "link": "https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/"
+    },
+    {
+      "rank": "29.",
       "title": "Animal behavior during a solar eclipse",
       "link": "https://readwildness.com/23/poli-eclipse"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Show HN: Will It CORS? – an automatic CORS explainer",
       "link": "http://willitcors.com"
-    },
-    {
-      "rank": "30.",
-      "title": "Standard Space Habitats",
-      "link": "https://halcanary.org/vv/2020/07/14/3017/"
     }
   ],
   "metadata": {
