@@ -62,93 +62,93 @@
     },
     {
       "rank": "13.",
-      "title": "DIY Single-Chip 2D Retro Game Console",
-      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
-    },
-    {
-      "rank": "14.",
-      "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
-      "link": "https://www.gbatteries.com/roles/project-manager-technical"
-    },
-    {
-      "rank": "15.",
       "title": "Mental Model: Second Order Thinking",
       "link": "https://models.substack.com/p/second-order-thinking"
     },
     {
-      "rank": "16.",
-      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
-      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
+      "rank": "14.",
+      "title": "DIY Single-Chip 2D Retro Game Console",
+      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
-      "rank": "17.",
-      "title": "Please read the paper before you comment",
-      "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
-    },
-    {
-      "rank": "18.",
+      "rank": "15.",
       "title": "Boston Dynamics' Handle Robot Recreated with Raspberry Pi",
       "link": "https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/"
     },
     {
+      "rank": "16.",
+      "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
+      "link": "https://www.gbatteries.com/roles/project-manager-technical"
+    },
+    {
+      "rank": "17.",
+      "title": "Firefox 80",
+      "link": "https://www.mozilla.org/en-US/firefox/80.0/releasenotes/"
+    },
+    {
+      "rank": "18.",
+      "title": "Please read the paper before you comment",
+      "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
+    },
+    {
       "rank": "19.",
-      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
-      "link": "https://www.bbc.com/news/world-europe-53875370"
+      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
+      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
     },
     {
       "rank": "20.",
-      "title": "The GemRB project celebrates 20 year anniversary with a new release",
-      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
-    },
-    {
-      "rank": "21.",
       "title": "My startup validation process",
       "link": "https://neilcocker.com/2020/08/22/my-startup-validation-process/"
     },
     {
-      "rank": "22.",
-      "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
-      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
-    },
-    {
-      "rank": "23.",
-      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
-      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
-    },
-    {
-      "rank": "24.",
-      "title": "GCD and the magic of subtraction",
-      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
-    },
-    {
-      "rank": "25.",
-      "title": "Managing Teams Through Interfaces",
-      "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
-    },
-    {
-      "rank": "26.",
+      "rank": "21.",
       "title": "Respawn point: The inevitable reincarnation of the corporate office",
       "link": "https://arstechnica.com/information-technology/2020/08/work-from-home-03-the-office/"
     },
     {
-      "rank": "27.",
+      "rank": "22.",
+      "title": "The GemRB project celebrates 20 year anniversary with a new release",
+      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
+    },
+    {
+      "rank": "23.",
+      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
+      "link": "https://www.bbc.com/news/world-europe-53875370"
+    },
+    {
+      "rank": "24.",
       "title": "Security researcher discloses Safari bug after Apple delays patch",
       "link": "https://www.zdnet.com/article/security-researcher-discloses-safari-bug-after-apple-delays-patch/"
     },
     {
+      "rank": "25.",
+      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
+      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
+    },
+    {
+      "rank": "26.",
+      "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
+      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
+    },
+    {
+      "rank": "27.",
+      "title": "GCD and the magic of subtraction",
+      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
+    },
+    {
       "rank": "28.",
+      "title": "Managing Teams Through Interfaces",
+      "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
+    },
+    {
+      "rank": "29.",
       "title": "The fate of antiques and heirlooms in a disposable age",
       "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "SourMint Malicious SDK",
       "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
-    },
-    {
-      "rank": "30.",
-      "title": "Being OK with not being extraordinary",
-      "link": "https://www.tiffanymatthe.com/not-extraordinary"
     }
   ],
   "metadata": {
