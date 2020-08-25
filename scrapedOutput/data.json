@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
-      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
+      "title": "OpenZFS Merged to FreeBSD",
+      "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
     },
     {
       "rank": "5.",
-      "title": "OpenZFS Merged to FreeBSD",
-      "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
+      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
+      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
     },
     {
       "rank": "6.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "What Is the Small Web?",
-      "link": "https://ar.al/2020/08/07/what-is-the-small-web/"
+      "title": "The Renaissance of the Shell?",
+      "link": "https://effective-shell.com/docs/part-1-transitioning-to-the-shell/6-the-renaissance-of-the-shell/"
     },
     {
       "rank": "10.",
@@ -57,63 +57,63 @@
     },
     {
       "rank": "12.",
-      "title": "The Renaissance of the Shell?",
-      "link": "https://effective-shell.com/docs/part-1-transitioning-to-the-shell/6-the-renaissance-of-the-shell/"
+      "title": "What Is the Small Web?",
+      "link": "https://ar.al/2020/08/07/what-is-the-small-web/"
     },
     {
       "rank": "13.",
-      "title": "US home construction surges 22.6%, third monthly increase",
-      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
-    },
-    {
-      "rank": "14.",
-      "title": "The Everyday Inspiration for Anna Karenina",
-      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
-    },
-    {
-      "rank": "15.",
-      "title": "Clover: An all-in-one notebook",
-      "link": "https://cloverapp.co/"
-    },
-    {
-      "rank": "16.",
-      "title": "Court Order Prevents Apple from Blocking Epic Games’ Unreal Engine",
-      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
-    },
-    {
-      "rank": "17.",
-      "title": "The robotics revolution is here, and it's changing how we live",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
-    },
-    {
-      "rank": "18.",
       "title": "DIY Single-Chip 2D Retro Game Console",
       "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
+      "rank": "14.",
+      "title": "Court Order Prevents Apple from Blocking Epic Games’ Unreal Engine",
+      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
+    },
+    {
+      "rank": "15.",
+      "title": "US home construction surges 22.6%, third monthly increase",
+      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
+    },
+    {
+      "rank": "16.",
+      "title": "Clover: An all-in-one notebook",
+      "link": "https://cloverapp.co/"
+    },
+    {
+      "rank": "17.",
+      "title": "The Everyday Inspiration for Anna Karenina",
+      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
+    },
+    {
+      "rank": "18.",
+      "title": "The robotics revolution is here, and it's changing how we live",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+    },
+    {
       "rank": "19.",
-      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
-      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
-    },
-    {
-      "rank": "20.",
-      "title": "Being OK with not being extraordinary",
-      "link": "https://www.tiffanymatthe.com/not-extraordinary"
-    },
-    {
-      "rank": "21.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
-    },
-    {
-      "rank": "22.",
       "title": "rc.d belongs in libexec, not etc",
       "link": "https://jmmv.dev/2020/08/rcd-libexec-etc.html"
     },
     {
-      "rank": "23.",
+      "rank": "20.",
+      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
+      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
+    },
+    {
+      "rank": "21.",
       "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
       "link": "https://github.com/leontrolski/dnjs"
+    },
+    {
+      "rank": "22.",
+      "title": "Being OK with not being extraordinary",
+      "link": "https://www.tiffanymatthe.com/not-extraordinary"
+    },
+    {
+      "rank": "23.",
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
     },
     {
       "rank": "24.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "BPF Portability and CO-Re (Compile Once Run Everywhere)",
-      "link": "https://facebookmicrosites.github.io/bpf/blog/2020/02/19/bpf-portability-and-co-re.html"
-    },
-    {
-      "rank": "27.",
       "title": "How I helped fix Canadaʼs Covid Alert app",
       "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
     },
     {
-      "rank": "28.",
-      "title": "BuildZoom (better way to build custom homes) is hiring a principal engineer",
-      "link": "https://jobs.lever.co/buildzoom"
+      "rank": "27.",
+      "title": "BPF Portability and CO-Re (Compile Once Run Everywhere)",
+      "link": "https://facebookmicrosites.github.io/bpf/blog/2020/02/19/bpf-portability-and-co-re.html"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
       "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "EBS Storage Improvements",
       "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
+    },
+    {
+      "rank": "30.",
+      "title": "‘CSS X’",
+      "link": "https://www.w3.org/blog/2020/03/css-x/"
     }
   ],
   "metadata": {
