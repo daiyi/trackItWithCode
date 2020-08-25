@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "‘CSS X’",
-      "link": "https://www.w3.org/blog/2020/03/css-x/"
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
     },
     {
       "rank": "9.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
+      "title": "‘CSS X’",
+      "link": "https://www.w3.org/blog/2020/03/css-x/"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "High bitrate video streaming with GStreamer RTP",
-      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
+      "title": "Nuclear Reactor Development History",
+      "link": "https://whatisnuclear.com/reactor_history.html"
     },
     {
       "rank": "12.",
-      "title": "Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)",
-      "link": "https://recruiterflow.com/caper/jobs#menu"
+      "title": "High bitrate video streaming with GStreamer RTP",
+      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
     },
     {
       "rank": "13.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "Nuclear Reactor Development History",
-      "link": "https://whatisnuclear.com/reactor_history.html"
+      "title": "Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)",
+      "link": "https://recruiterflow.com/caper/jobs#menu"
     },
     {
       "rank": "15.",
@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
-      "title": "Computability in Linear Algebra (2004)",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0304397504004086"
-    },
-    {
-      "rank": "17.",
       "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
       "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
     },
     {
+      "rank": "17.",
+      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
+      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+    },
+    {
       "rank": "18.",
-      "title": "Jaron Lanier on social media",
-      "link": "https://www.gq.com/story/jaron-lanier-tech-oracle-profile"
+      "title": "Clover: The all-in-one notebook for creatives",
+      "link": "https://cloverapp.co/"
     },
     {
       "rank": "19.",
-      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
-      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+      "title": "Jaron Lanier on social media",
+      "link": "https://www.gq.com/story/jaron-lanier-tech-oracle-profile"
     },
     {
       "rank": "20.",
@@ -107,23 +107,23 @@
     },
     {
       "rank": "22.",
-      "title": "How I helped fix Canadaʼs Covid Alert app",
-      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+      "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
+      "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
     },
     {
       "rank": "23.",
-      "title": "Emotional resilience and burnout in leadership",
-      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
-    },
-    {
-      "rank": "24.",
       "title": "Making money building Shopify micro-SaaS apps",
       "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
     },
     {
+      "rank": "24.",
+      "title": "Computability in Linear Algebra (2004)",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304397504004086"
+    },
+    {
       "rank": "25.",
-      "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
-      "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
+      "title": "Emotional resilience and burnout in leadership",
+      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "How I helped fix Canadaʼs Covid Alert app",
+      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+    },
+    {
+      "rank": "28.",
       "title": "αcτµαlly pδrταblε εxεcµταblε",
       "link": "https://justine.storage.googleapis.com/ape.html"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Apparatus with Magnets",
       "link": "https://www.notion.so/Apparatus-with-Magnets-Intro-2e32af5b59b64a45b3b203408374a56e"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "JavaScript Generators, Meet XPath",
       "link": "https://jack.wrenn.fyi/blog/xpath-for-2020/"
-    },
-    {
-      "rank": "30.",
-      "title": "The Computer Chronicles (1983 – 2002)",
-      "link": "https://archive.org/details/Computer_Chronicles"
     }
   ],
   "metadata": {
