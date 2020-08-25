@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
-      "title": "The wildest insurance fraud scheme in Texas",
-      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
-    },
-    {
-      "rank": "8.",
       "title": "DIY Single-Chip 2D Retro Game Console",
       "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
       "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
+    },
+    {
+      "rank": "9.",
+      "title": "The wildest insurance fraud scheme in Texas",
+      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
     },
     {
       "rank": "10.",
@@ -57,28 +57,28 @@
     },
     {
       "rank": "12.",
+      "title": "The GemRB project celebrates 20 year anniversary with a new release",
+      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
+    },
+    {
+      "rank": "13.",
       "title": "The Renaissance of the Shell?",
       "link": "https://effective-shell.com/docs/part-1-transitioning-to-the-shell/6-the-renaissance-of-the-shell/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "One Year of Nushell",
       "link": "https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
     },
     {
-      "rank": "14.",
-      "title": "US home construction surges 22.6%, third monthly increase",
-      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
-    },
-    {
       "rank": "15.",
-      "title": "Clover: An all-in-one notebook",
-      "link": "https://cloverapp.co/"
+      "title": "The robotics revolution is here, and it's changing how we live",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
     },
     {
       "rank": "16.",
-      "title": "The robotics revolution is here, and it's changing how we live",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+      "title": "Clover: An all-in-one notebook",
+      "link": "https://cloverapp.co/"
     },
     {
       "rank": "17.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
-      "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
-      "link": "https://github.com/leontrolski/dnjs"
-    },
-    {
-      "rank": "19.",
       "title": "Being OK with not being extraordinary",
       "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
+      "rank": "19.",
+      "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
+      "link": "https://github.com/leontrolski/dnjs"
+    },
+    {
       "rank": "20.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
+      "title": "US home construction surges 22.6%, third monthly increase",
+      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
     },
     {
       "rank": "21.",
-      "title": "What Is the Small Web?",
-      "link": "https://ar.al/2020/08/07/what-is-the-small-web/"
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
     },
     {
       "rank": "22.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
-      "title": "The Everyday Inspiration for Anna Karenina",
-      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
-    },
-    {
-      "rank": "25.",
       "title": "How I helped fix Canadaʼs Covid Alert app",
       "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
     },
     {
+      "rank": "25.",
+      "title": "The Everyday Inspiration for Anna Karenina",
+      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
+    },
+    {
       "rank": "26.",
-      "title": "The GemRB project celebrates 20 year anniversary with a new release",
-      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
+      "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
+      "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
     },
     {
       "rank": "27.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
-      "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
+      "title": "What Is the Small Web?",
+      "link": "https://ar.al/2020/08/07/what-is-the-small-web/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "‘CSS X’",
-      "link": "https://www.w3.org/blog/2020/03/css-x/"
+      "title": "Chinese-Made Smartphones Are Stealing Money from People Around the World",
+      "link": "https://www.buzzfeednews.com/article/craigsilverman/cheap-chinese-smartphones-malware"
     }
   ],
   "metadata": {
