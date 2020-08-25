@@ -12,33 +12,33 @@
     },
     {
       "rank": "3.",
+      "title": "Slack Investigating an Ongoing Outage",
+      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
+    },
+    {
+      "rank": "4.",
       "title": "Please read the paper before you comment",
       "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
       "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "OpenZFS Merged to FreeBSD",
       "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Asana S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "DIY Single-Chip 2D Retro Game Console",
       "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
-    },
-    {
-      "rank": "8.",
-      "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
-      "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
     },
     {
       "rank": "9.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
-      "title": "Court Order Prevents Apple from Blocking Epic Games’ Unreal Engine",
-      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
+      "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
+      "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
     },
     {
       "rank": "11.",
-      "title": "GCD and the magic of subtraction",
-      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
+      "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
+      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
       "rank": "12.",
-      "title": "The Renaissance of the Shell?",
-      "link": "https://effective-shell.com/docs/part-1-transitioning-to-the-shell/6-the-renaissance-of-the-shell/"
+      "title": "GCD and the magic of subtraction",
+      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
     },
     {
       "rank": "13.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "The robotics revolution is here, and it's changing how we live",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+      "title": "The Renaissance of the Shell?",
+      "link": "https://effective-shell.com/docs/part-1-transitioning-to-the-shell/6-the-renaissance-of-the-shell/"
     },
     {
       "rank": "16.",
-      "title": "Clover: An all-in-one notebook",
-      "link": "https://cloverapp.co/"
+      "title": "Chinese-Made Smartphones Are Stealing Money from People Around the World",
+      "link": "https://www.buzzfeednews.com/article/craigsilverman/cheap-chinese-smartphones-malware"
     },
     {
       "rank": "17.",
@@ -87,68 +87,68 @@
     },
     {
       "rank": "18.",
+      "title": "The robotics revolution is here, and it's changing how we live",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+    },
+    {
+      "rank": "19.",
       "title": "Being OK with not being extraordinary",
       "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
-      "rank": "19.",
-      "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
-      "link": "https://github.com/leontrolski/dnjs"
-    },
-    {
       "rank": "20.",
-      "title": "Quotes from Moral Mazes (2019)",
-      "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
-    },
-    {
-      "rank": "21.",
       "title": "Writing an SSDP Directory in Elixir",
       "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
     },
     {
+      "rank": "21.",
+      "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
+      "link": "https://github.com/leontrolski/dnjs"
+    },
+    {
       "rank": "22.",
-      "title": "US home construction surges 22.6%, third monthly increase",
-      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
-    },
-    {
-      "rank": "23.",
-      "title": "Nuclear Reactor Development History",
-      "link": "https://whatisnuclear.com/reactor_history.html"
-    },
-    {
-      "rank": "24.",
-      "title": "How I helped fix Canadaʼs Covid Alert app",
-      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
-    },
-    {
-      "rank": "25.",
-      "title": "High bitrate video streaming with GStreamer RTP",
-      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
-    },
-    {
-      "rank": "26.",
-      "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
-      "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
-    },
-    {
-      "rank": "27.",
-      "title": "EBS Storage Improvements",
-      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
-    },
-    {
-      "rank": "28.",
       "title": "The Everyday Inspiration for Anna Karenina",
       "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
     },
     {
+      "rank": "23.",
+      "title": "Quotes from Moral Mazes (2019)",
+      "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
+    },
+    {
+      "rank": "24.",
+      "title": "Nuclear Reactor Development History",
+      "link": "https://whatisnuclear.com/reactor_history.html"
+    },
+    {
+      "rank": "25.",
+      "title": "Clover: An all-in-one notebook",
+      "link": "https://cloverapp.co/"
+    },
+    {
+      "rank": "26.",
+      "title": "US home construction surges 22.6%, third monthly increase",
+      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
+    },
+    {
+      "rank": "27.",
+      "title": "How I helped fix Canadaʼs Covid Alert app",
+      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+    },
+    {
+      "rank": "28.",
+      "title": "High bitrate video streaming with GStreamer RTP",
+      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
+    },
+    {
       "rank": "29.",
-      "title": "Chinese-Made Smartphones Are Stealing Money from People Around the World",
-      "link": "https://www.buzzfeednews.com/article/craigsilverman/cheap-chinese-smartphones-malware"
+      "title": "EBS Storage Improvements",
+      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
     },
     {
       "rank": "30.",
-      "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
-      "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
+      "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
+      "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
     }
   ],
   "metadata": {
