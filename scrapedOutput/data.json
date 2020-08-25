@@ -2,43 +2,43 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Amazon drops Linux support for generating Kindle ebooks",
-      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
-    },
-    {
-      "rank": "2.",
       "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
       "link": "https://github.com/open-sdr/openwifi"
     },
     {
-      "rank": "3.",
-      "title": "Africa declared free of wild polio in 'milestone'",
+      "rank": "2.",
+      "title": "Africa declared free of wild polio",
       "link": "https://www.bbc.com/news/world-africa-53887947"
     },
     {
-      "rank": "4.",
-      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
-      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
-    },
-    {
-      "rank": "5.",
+      "rank": "3.",
       "title": "Syllabus for Eric's PhD Students",
       "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
     },
     {
-      "rank": "6.",
+      "rank": "4.",
       "title": "Signifier – a Brutalist response to 17th century typefaces",
       "link": "https://klim.co.nz/blog/signifier-design-information/"
     },
     {
-      "rank": "7.",
+      "rank": "5.",
+      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
+      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
+    },
+    {
+      "rank": "6.",
       "title": "Global Mass Surveillance – The Fourteen Eyes",
       "link": "https://www.privacytools.io/providers/#ukusa"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Kindle collects a surprisingly large amount of data",
       "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
+    },
+    {
+      "rank": "8.",
+      "title": "Amazon drops Linux support for generating Kindle ebooks",
+      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
     },
     {
       "rank": "9.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "AWS Controllers for Kubernetes (ACK)",
-      "link": "https://github.com/aws/aws-controllers-k8s"
+      "title": "Why hockey companies are putting holes in sticks",
+      "link": "https://mailchi.mp/theprepared/the-prepared-4ydgzm58vl"
     },
     {
       "rank": "12.",
-      "title": "Why hockey companies are putting holes in sticks",
-      "link": "https://mailchi.mp/theprepared/the-prepared-4ydgzm58vl"
+      "title": "AWS Controllers for Kubernetes (ACK)",
+      "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
       "rank": "13.",
@@ -67,43 +67,43 @@
     },
     {
       "rank": "14.",
-      "title": "A new botnet is covertly targeting millions of servers",
-      "link": "https://www.wired.com/story/a-new-botnet-is-covertly-targeting-millions-of-servers/"
-    },
-    {
-      "rank": "15.",
-      "title": "How to Write in Plain English",
-      "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
-    },
-    {
-      "rank": "16.",
       "title": "Topicctl – an easier way to manage Kafka topics",
       "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
     },
     {
+      "rank": "15.",
+      "title": "A new botnet is covertly targeting millions of servers",
+      "link": "https://www.wired.com/story/a-new-botnet-is-covertly-targeting-millions-of-servers/"
+    },
+    {
+      "rank": "16.",
+      "title": "How to Write in Plain English",
+      "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
+    },
+    {
       "rank": "17.",
+      "title": "WebBundles Harmful to Content Blocking, Security Tools, and the Open Web",
+      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
+    },
+    {
+      "rank": "18.",
       "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
       "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
+      "title": "Origins of Venmo (2014)",
+      "link": "https://kortina.nyc/essays/origins-of-venmo/"
+    },
+    {
+      "rank": "20.",
       "title": "Medieval DNA suggests Columbus didn’t trigger syphilis epidemic in Europe",
       "link": "https://www.sciencemag.org/news/2020/08/medieval-dna-suggests-columbus-didn-t-trigger-syphilis-epidemic-europe"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer",
       "link": "https://www.reverielabs.com/careers"
-    },
-    {
-      "rank": "20.",
-      "title": "Amazon is delivering nearly two-thirds of its own packages",
-      "link": "https://www.cnbc.com/2020/08/13/amazon-is-delivering-nearly-two-thirds-of-its-own-packages.html"
-    },
-    {
-      "rank": "21.",
-      "title": "A Nubian Kingdom Rises",
-      "link": "https://www.archaeology.org/issues/393-2009/features/8919-sudan-kerma-nubian-kingdom"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "The fate of antiques and heirlooms in a disposable age",
-      "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
+      "title": "A Tuna's Worth",
+      "link": "https://www.hakaimagazine.com/features/a-tunas-worth/"
     },
     {
       "rank": "24.",
+      "title": "Keeping CALM: When Distributed Consistency Is Easy",
+      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+    },
+    {
+      "rank": "25.",
+      "title": "Amazon is delivering nearly two-thirds of its own packages",
+      "link": "https://www.cnbc.com/2020/08/13/amazon-is-delivering-nearly-two-thirds-of-its-own-packages.html"
+    },
+    {
+      "rank": "26.",
       "title": "Searching for 'VK' shows only a single result on DuckduckGo. Why?",
       "link": "https://duckduckgo.com/?q=vk"
     },
     {
-      "rank": "25.",
-      "title": "WebBundles Harmful to Content Blocking, Security Tools, and the Open Web",
-      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
+      "rank": "27.",
+      "title": "The fate of antiques and heirlooms in a disposable age",
+      "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
+      "title": "A Nubian Kingdom Rises",
+      "link": "https://www.archaeology.org/issues/393-2009/features/8919-sudan-kerma-nubian-kingdom"
+    },
+    {
+      "rank": "29.",
       "title": "Scots language Wikipedia is edited primarily by someone who doesn't know Scots",
       "link": "https://www.reddit.com/r/linguistics/comments/igbbh2/the_scots_language_wikipedia_is_edited_primarily/"
     },
     {
-      "rank": "27.",
-      "title": "Firefox 80",
-      "link": "https://www.mozilla.org/en-US/firefox/80.0/releasenotes/"
-    },
-    {
-      "rank": "28.",
-      "title": "The Mathematical Structure of Particle Collisions Comes into View",
-      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
-    },
-    {
-      "rank": "29.",
+      "rank": "30.",
       "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
       "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
-    },
-    {
-      "rank": "30.",
-      "title": "Show HN: PuffinBASIC – A cross-platform modern BASIC interpreter written in Java",
-      "link": "item?id=24265387"
     }
   ],
   "metadata": {
