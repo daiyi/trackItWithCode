@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
-      "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
+      "title": "How to Write in Plain English",
+      "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
     },
     {
       "rank": "2.",
-      "title": "How to Write in Plain English",
-      "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
+      "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
+      "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
     },
     {
       "rank": "3.",
@@ -32,33 +32,33 @@
     },
     {
       "rank": "7.",
-      "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
-      "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
-    },
-    {
-      "rank": "8.",
       "title": "The wildest insurance fraud scheme in Texas",
       "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "DIY Single-Chip 2D Retro Game Console",
       "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
+      "rank": "9.",
+      "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
+      "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
+    },
+    {
       "rank": "10.",
+      "title": "Court Order Prevents Apple from Blocking Epic Games’ Unreal Engine",
+      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
+    },
+    {
+      "rank": "11.",
       "title": "GCD and the magic of subtraction",
       "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "The Renaissance of the Shell?",
       "link": "https://effective-shell.com/docs/part-1-transitioning-to-the-shell/6-the-renaissance-of-the-shell/"
-    },
-    {
-      "rank": "12.",
-      "title": "Court Order Prevents Apple from Blocking Epic Games’ Unreal Engine",
-      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
       "rank": "13.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Clover: An all-in-one notebook",
-      "link": "https://cloverapp.co/"
+      "title": "US home construction surges 22.6%, third monthly increase",
+      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
     },
     {
       "rank": "15.",
-      "title": "US home construction surges 22.6%, third monthly increase",
-      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
+      "title": "Clover: An all-in-one notebook",
+      "link": "https://cloverapp.co/"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
-      "link": "https://github.com/leontrolski/dnjs"
+      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
+      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
     },
     {
       "rank": "18.",
-      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
-      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
+      "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
+      "link": "https://github.com/leontrolski/dnjs"
     },
     {
       "rank": "19.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "The Everyday Inspiration for Anna Karenina",
-      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
+      "title": "What Is the Small Web?",
+      "link": "https://ar.al/2020/08/07/what-is-the-small-web/"
     },
     {
       "rank": "22.",
-      "title": "The GemRB project celebrates 20 year anniversary with a new release",
-      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
+      "title": "Nuclear Reactor Development History",
+      "link": "https://whatisnuclear.com/reactor_history.html"
     },
     {
       "rank": "23.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
-      "title": "Nuclear Reactor Development History",
-      "link": "https://whatisnuclear.com/reactor_history.html"
+      "title": "The Everyday Inspiration for Anna Karenina",
+      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
     },
     {
       "rank": "25.",
-      "title": "What Is the Small Web?",
-      "link": "https://ar.al/2020/08/07/what-is-the-small-web/"
+      "title": "How I helped fix Canadaʼs Covid Alert app",
+      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
     },
     {
       "rank": "26.",
-      "title": "How I helped fix Canadaʼs Covid Alert app",
-      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+      "title": "The GemRB project celebrates 20 year anniversary with a new release",
+      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
     },
     {
       "rank": "27.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "BPF Portability and CO-Re (Compile Once Run Everywhere)",
-      "link": "https://facebookmicrosites.github.io/bpf/blog/2020/02/19/bpf-portability-and-co-re.html"
+      "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
+      "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
     },
     {
       "rank": "30.",
