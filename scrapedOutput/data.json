@@ -22,33 +22,33 @@
     },
     {
       "rank": "5.",
-      "title": "Syllabus for Eric's PhD Students",
-      "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
-    },
-    {
-      "rank": "6.",
       "title": "Creating a Common Lisp implementation, part 1 [video]",
       "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
     },
     {
+      "rank": "6.",
+      "title": "Syllabus for Eric's PhD Students",
+      "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
+    },
+    {
       "rank": "7.",
-      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
+      "title": "Japan facing credit card number shortage",
+      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
     },
     {
       "rank": "8.",
-      "title": "Signifier – a Brutalist response to 17th century typefaces",
-      "link": "https://klim.co.nz/blog/signifier-design-information/"
-    },
-    {
-      "rank": "9.",
       "title": "A Chrome feature is creating enormous load on global root DNS servers",
       "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
     },
     {
+      "rank": "9.",
+      "title": "WebBundles harmful to content blocking, security tools, and the open web",
+      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
+    },
+    {
       "rank": "10.",
-      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
-      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
+      "title": "Signifier – a Brutalist response to 17th century typefaces",
+      "link": "https://klim.co.nz/blog/signifier-design-information/"
     },
     {
       "rank": "11.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
-      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
+      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     },
     {
       "rank": "13.",
@@ -67,18 +67,18 @@
     },
     {
       "rank": "14.",
-      "title": "WebBundles harmful to content blocking, security tools, and the open web",
-      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
+      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
+      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
     },
     {
       "rank": "15.",
-      "title": "Optimal Peanut Butter and Banana Sandwiches",
-      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
+      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
+      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
     },
     {
       "rank": "16.",
-      "title": "The longest train ride in the world",
-      "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
+      "title": "Optimal Peanut Butter and Banana Sandwiches",
+      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "Mux (YC W16) is hiring devs that want to help others build video (remote ok!)",
-      "link": "https://mux.com/jobs?hnj=17"
+      "title": "The longest train ride in the world",
+      "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
     },
     {
       "rank": "19.",
@@ -97,18 +97,18 @@
     },
     {
       "rank": "20.",
+      "title": "Mux (YC W16) is hiring devs that want to help others build video (remote ok!)",
+      "link": "https://mux.com/jobs?hnj=17"
+    },
+    {
+      "rank": "21.",
       "title": "Tipe raises $2.1M seed round to build a customizable CMS for developers",
       "link": "https://tipe.io/blog/tipe-raises-seed"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "AWS Controllers for Kubernetes",
       "link": "https://github.com/aws/aws-controllers-k8s"
-    },
-    {
-      "rank": "22.",
-      "title": "Show HN: Seamless head tracking for games using the TrueDepth camera (iOS)",
-      "link": "http://www.inflightassistant.com/smoothtrack/index.html"
     },
     {
       "rank": "23.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
-      "title": "Incident updates, interruptions and the 30 minute window",
-      "link": "https://www.unixdaemon.net/sysadmin/incident-updates-and-interruptions/"
+      "title": "Show HN: Seamless head tracking for games using the TrueDepth camera (iOS)",
+      "link": "http://www.inflightassistant.com/smoothtrack/index.html"
     },
     {
       "rank": "25.",
-      "title": "Palantir S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm"
+      "title": "Amazon drops Linux support for generating Kindle ebooks",
+      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
     },
     {
       "rank": "26.",
-      "title": "Amazon drops Linux support for generating Kindle ebooks",
-      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
+      "title": "Incident updates, interruptions and the 30 minute window",
+      "link": "https://www.unixdaemon.net/sysadmin/incident-updates-and-interruptions/"
     },
     {
       "rank": "27.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
-      "link": "https://github.com/model-zoo/shift-ctrl-f"
+      "title": "Palantir S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm"
     },
     {
       "rank": "29.",
-      "title": "Firefox Android Build that caused issues is working as intended",
-      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
+      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
+      "link": "https://github.com/model-zoo/shift-ctrl-f"
     },
     {
       "rank": "30.",
