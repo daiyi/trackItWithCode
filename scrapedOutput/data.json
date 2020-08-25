@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Being OK with not being extraordinary",
-      "link": "https://www.tiffanymatthe.com/not-extraordinary"
+      "title": "rc.d belongs in libexec, not etc",
+      "link": "https://jmmv.dev/2020/08/rcd-libexec-etc.html"
     },
     {
       "rank": "5.",
-      "title": "rc.d belongs in libexec, not etc",
-      "link": "https://jmmv.dev/2020/08/rcd-libexec-etc.html"
+      "title": "Being OK with not being extraordinary",
+      "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
       "rank": "6.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
+      "title": "GCD and the magic of subtraction",
+      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
+    },
+    {
+      "rank": "8.",
       "title": "The wildest insurance fraud scheme in Texas",
       "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "One Year of Nushell",
       "link": "https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
-    },
-    {
-      "rank": "9.",
-      "title": "GCD and the magic of subtraction",
-      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
     },
     {
       "rank": "10.",
@@ -67,23 +67,23 @@
     },
     {
       "rank": "14.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
-    },
-    {
-      "rank": "15.",
       "title": "Nuclear Reactor Development History",
       "link": "https://whatisnuclear.com/reactor_history.html"
     },
     {
+      "rank": "15.",
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
+    },
+    {
       "rank": "16.",
-      "title": "‘CSS X’",
-      "link": "https://www.w3.org/blog/2020/03/css-x/"
+      "title": "Vitamin D, part 2: Shannon's story",
+      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
     },
     {
       "rank": "17.",
-      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
-      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
+      "title": "EBS Storage Improvements",
+      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Vitamin D, part 2: Shannon's story",
-      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
+      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
+      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
     },
     {
       "rank": "20.",
-      "title": "EBS Storage Improvements",
-      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
+      "title": "‘CSS X’",
+      "link": "https://www.w3.org/blog/2020/03/css-x/"
     },
     {
       "rank": "21.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
-      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
-      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+      "title": "Emotional resilience and burnout in leadership",
+      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
     },
     {
       "rank": "24.",
-      "title": "αcτµαlly pδrταblε εxεcµταblε",
-      "link": "https://justine.storage.googleapis.com/ape.html"
+      "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
+      "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
     },
     {
       "rank": "25.",
-      "title": "Emotional resilience and burnout in leadership",
-      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
+      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
+      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "How I helped fix Canadaʼs Covid Alert app",
-      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
-    },
-    {
-      "rank": "28.",
-      "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
-      "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
-    },
-    {
-      "rank": "29.",
       "title": "Show HN: Mys – an attempt to create a statically typed Python-like language",
       "link": "https://github.com/eerimoq/mys"
     },
     {
-      "rank": "30.",
+      "rank": "28.",
+      "title": "How I helped fix Canadaʼs Covid Alert app",
+      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+    },
+    {
+      "rank": "29.",
       "title": "Jaron Lanier on social media",
       "link": "https://www.gq.com/story/jaron-lanier-tech-oracle-profile"
+    },
+    {
+      "rank": "30.",
+      "title": "Journal 2.0: Mental Space for What Matters",
+      "link": "https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a"
     }
   ],
   "metadata": {
