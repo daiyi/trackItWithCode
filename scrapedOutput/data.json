@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
-      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
-    },
-    {
-      "rank": "2.",
       "title": "User's Kindle eBook collection revoked by Amazon (2012)",
       "link": "https://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "What the Jane Street interns have wrought, 2020",
       "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2020/"
+    },
+    {
+      "rank": "3.",
+      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
+      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
     },
     {
       "rank": "4.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
-      "link": "https://www.gbatteries.com/roles/project-manager-technical"
+      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
+      "link": "https://www.bbc.com/news/world-europe-53875370"
     },
     {
       "rank": "13.",
-      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
-      "link": "https://www.bbc.com/news/world-europe-53875370"
+      "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
+      "link": "https://www.gbatteries.com/roles/project-manager-technical"
     },
     {
       "rank": "14.",
@@ -87,38 +87,38 @@
     },
     {
       "rank": "18.",
-      "title": "The GemRB project celebrates 20 year anniversary with a new release",
-      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
-    },
-    {
-      "rank": "19.",
       "title": "Mental Model: Second Order Thinking",
       "link": "https://models.substack.com/p/second-order-thinking"
     },
     {
+      "rank": "19.",
+      "title": "The GemRB project celebrates 20 year anniversary with a new release",
+      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
+    },
+    {
       "rank": "20.",
-      "title": "Managing Teams Through Interfaces",
-      "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
+      "title": "Show HN: Will It CORS? – an automatic CORS explainer",
+      "link": "http://willitcors.com"
     },
     {
       "rank": "21.",
-      "title": "GCD and the magic of subtraction",
-      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
-    },
-    {
-      "rank": "22.",
-      "title": "SourMint Malicious SDK",
-      "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
-    },
-    {
-      "rank": "23.",
       "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
       "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
+      "rank": "22.",
+      "title": "Managing Teams Through Interfaces",
+      "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
+    },
+    {
+      "rank": "23.",
+      "title": "GCD and the magic of subtraction",
+      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
+    },
+    {
       "rank": "24.",
-      "title": "Show HN: Will It CORS? – an automatic CORS explainer",
-      "link": "http://willitcors.com"
+      "title": "SourMint Malicious SDK",
+      "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
     },
     {
       "rank": "25.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "EBS Storage Improvements",
-      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
+      "title": "The Mathematical Structure of Particle Collisions Comes into View",
+      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
     },
     {
       "rank": "28.",
-      "title": "US home construction surges 22.6%, third monthly increase",
-      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
+      "title": "EBS Storage Improvements",
+      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
-      "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
+      "title": "US home construction surges 22.6%, third monthly increase",
+      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
     }
   ],
   "metadata": {
