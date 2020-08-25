@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Kindle Collects a Surprisingly Large Amount of Data",
-      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
+      "title": "Searching for 'VK' shows only a single result on DuckduckGo. Why?",
+      "link": "https://duckduckgo.com/?q=vk"
     },
     {
       "rank": "3.",
-      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
-      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
+      "title": "Kindle Collects a Surprisingly Large Amount of Data",
+      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
     },
     {
       "rank": "4.",
@@ -22,23 +22,23 @@
     },
     {
       "rank": "5.",
+      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
+      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
+    },
+    {
+      "rank": "6.",
       "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
       "link": "https://hyscale.github.io"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
       "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "User's Kindle eBook collection revoked by Amazon (2012)",
       "link": "https://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/"
-    },
-    {
-      "rank": "8.",
-      "title": "Please read the paper before you comment",
-      "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
     },
     {
       "rank": "9.",
@@ -57,58 +57,58 @@
     },
     {
       "rank": "12.",
-      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
-      "link": "https://www.bbc.com/news/world-europe-53875370"
-    },
-    {
-      "rank": "13.",
-      "title": "DIY Single-Chip 2D Retro Game Console",
-      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
-    },
-    {
-      "rank": "14.",
-      "title": "Mental Model: Second Order Thinking",
-      "link": "https://models.substack.com/p/second-order-thinking"
-    },
-    {
-      "rank": "15.",
       "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
       "link": "https://www.gbatteries.com/roles/project-manager-technical"
     },
     {
-      "rank": "16.",
-      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
-      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
+      "rank": "13.",
+      "title": "The Mathematical Structure of Particle Collisions Comes into View",
+      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
     },
     {
-      "rank": "17.",
-      "title": "The GemRB project celebrates 20 year anniversary with a new release",
-      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
+      "rank": "14.",
+      "title": "DIY Single-Chip 2D Retro Game Console",
+      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
-      "rank": "18.",
-      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
-      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
-    },
-    {
-      "rank": "19.",
+      "rank": "15.",
       "title": "Show HN: Will It CORS? – an automatic CORS explainer",
       "link": "http://willitcors.com"
     },
     {
+      "rank": "16.",
+      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
+      "link": "https://www.bbc.com/news/world-europe-53875370"
+    },
+    {
+      "rank": "17.",
+      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
+      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
+    },
+    {
+      "rank": "18.",
+      "title": "Please read the paper before you comment",
+      "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
+    },
+    {
+      "rank": "19.",
+      "title": "Mental Model: Second Order Thinking",
+      "link": "https://models.substack.com/p/second-order-thinking"
+    },
+    {
       "rank": "20.",
+      "title": "The GemRB project celebrates 20 year anniversary with a new release",
+      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
+    },
+    {
+      "rank": "21.",
       "title": "My startup validation process",
       "link": "https://neilcocker.com/2020/08/22/my-startup-validation-process/"
     },
     {
-      "rank": "21.",
-      "title": "Respawn point: The inevitable reincarnation of the corporate office",
-      "link": "https://arstechnica.com/information-technology/2020/08/work-from-home-03-the-office/"
-    },
-    {
       "rank": "22.",
-      "title": "GCD and the magic of subtraction",
-      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
+      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
+      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "GCD and the magic of subtraction",
+      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
+    },
+    {
+      "rank": "25.",
       "title": "Managing Teams Through Interfaces",
       "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "Respawn point: The inevitable reincarnation of the corporate office",
+      "link": "https://arstechnica.com/information-technology/2020/08/work-from-home-03-the-office/"
+    },
+    {
+      "rank": "27.",
+      "title": "The fate of antiques and heirlooms in a disposable age",
+      "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
+    },
+    {
+      "rank": "28.",
+      "title": "Boston Dynamics' Handle Robot Recreated with Raspberry Pi",
+      "link": "https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/"
+    },
+    {
+      "rank": "29.",
       "title": "SourMint Malicious SDK",
       "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
     },
     {
-      "rank": "26.",
-      "title": "The Mathematical Structure of Particle Collisions Comes into View",
-      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
-    },
-    {
-      "rank": "27.",
-      "title": "EBS Storage Improvements",
-      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
-    },
-    {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Being OK with not being extraordinary",
       "link": "https://www.tiffanymatthe.com/not-extraordinary"
-    },
-    {
-      "rank": "29.",
-      "title": "Asana S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
-    },
-    {
-      "rank": "30.",
-      "title": "The fate of antiques and heirlooms in a disposable age",
-      "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
     }
   ],
   "metadata": {
