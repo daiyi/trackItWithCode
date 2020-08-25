@@ -62,93 +62,93 @@
     },
     {
       "rank": "13.",
-      "title": "Managing Teams Through Interfaces",
-      "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
-    },
-    {
-      "rank": "14.",
-      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
-      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
-    },
-    {
-      "rank": "15.",
-      "title": "Asana S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
-    },
-    {
-      "rank": "16.",
       "title": "Clover: An all-in-one notebook",
       "link": "https://cloverapp.co/"
     },
     {
+      "rank": "14.",
+      "title": "Managing Teams Through Interfaces",
+      "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
+    },
+    {
+      "rank": "15.",
+      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
+      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
+    },
+    {
+      "rank": "16.",
+      "title": "Asana S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
+    },
+    {
       "rank": "17.",
+      "title": "Why it's so hard to find dumbbells in the US",
+      "link": "https://www.vox.com/the-goods/21396116/dumbbell-set-shortage-nordictrack-bowflex"
+    },
+    {
+      "rank": "18.",
       "title": "Being OK with not being extraordinary",
       "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Quotes from Moral Mazes (2019)",
       "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "The robotics revolution is here, and it's changing how we live",
       "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
     },
     {
-      "rank": "20.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
-    },
-    {
       "rank": "21.",
-      "title": "Nuclear Reactor Development History",
-      "link": "https://whatisnuclear.com/reactor_history.html"
-    },
-    {
-      "rank": "22.",
       "title": "EBS Storage Improvements",
       "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
     },
     {
+      "rank": "22.",
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
+    },
+    {
       "rank": "23.",
+      "title": "Nuclear Reactor Development History",
+      "link": "https://whatisnuclear.com/reactor_history.html"
+    },
+    {
+      "rank": "24.",
       "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
       "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "The Everyday Inspiration for Anna Karenina",
       "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
       "link": "https://github.com/leontrolski/dnjs"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "US home construction surges 22.6%, third monthly increase",
       "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
       "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
       "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "‘CSS X’",
       "link": "https://www.w3.org/blog/2020/03/css-x/"
-    },
-    {
-      "rank": "30.",
-      "title": "High bitrate video streaming with GStreamer RTP",
-      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
     }
   ],
   "metadata": {
