@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "The wildest insurance fraud scheme in Texas",
-      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
+      "title": "GCD and the magic of subtraction",
+      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
     },
     {
       "rank": "7.",
-      "title": "GCD and the magic of subtraction",
-      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
+      "title": "The wildest insurance fraud scheme in Texas",
+      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
     },
     {
       "rank": "8.",
@@ -62,28 +62,28 @@
     },
     {
       "rank": "13.",
-      "title": "The robotics revolution is here, and it's changing how we live",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
-    },
-    {
-      "rank": "14.",
-      "title": "EBS Storage Improvements",
-      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
-    },
-    {
-      "rank": "15.",
       "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
       "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
     },
     {
+      "rank": "14.",
+      "title": "The robotics revolution is here, and it's changing how we live",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+    },
+    {
+      "rank": "15.",
+      "title": "Vitamin D, part 2: Shannon's story",
+      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
+    },
+    {
       "rank": "16.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
+      "title": "EBS Storage Improvements",
+      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
     },
     {
       "rank": "17.",
-      "title": "Vitamin D, part 2: Shannon's story",
-      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
     },
     {
       "rank": "18.",
@@ -92,43 +92,43 @@
     },
     {
       "rank": "19.",
-      "title": "High bitrate video streaming with GStreamer RTP",
-      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
-    },
-    {
-      "rank": "20.",
       "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
       "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
     },
     {
+      "rank": "20.",
+      "title": "High bitrate video streaming with GStreamer RTP",
+      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
+    },
+    {
       "rank": "21.",
+      "title": "Operation Rosehub (Mad Gadget) (2017)",
+      "link": "https://opensource.googleblog.com/2017/03/operation-rosehub.html"
+    },
+    {
+      "rank": "22.",
       "title": "Making money building Shopify micro-SaaS apps",
       "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "‘CSS X’",
       "link": "https://www.w3.org/blog/2020/03/css-x/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
       "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Emotional resilience and burnout in leadership",
       "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
       "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
-    },
-    {
-      "rank": "26.",
-      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
-      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
     },
     {
       "rank": "27.",
