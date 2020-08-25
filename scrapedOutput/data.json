@@ -22,28 +22,28 @@
     },
     {
       "rank": "5.",
-      "title": "Chrome just got faster with Profile Guided Optimization",
-      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
-    },
-    {
-      "rank": "6.",
-      "title": "Low-dose Hydroxychloroquine Therapy and Mortality in Hospitalized Patients",
-      "link": "http://www.sciencedirect.com/science/article/pii/S0924857920303423"
-    },
-    {
-      "rank": "7.",
-      "title": "How to Write in Plain English",
-      "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
-    },
-    {
-      "rank": "8.",
       "title": "AWS Controllers for Kubernetes (ACK)",
       "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
+      "rank": "6.",
+      "title": "Chrome just got faster with Profile Guided Optimization",
+      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
+    },
+    {
+      "rank": "7.",
+      "title": "Low-dose Hydroxychloroquine Therapy and Mortality in Hospitalized Patients",
+      "link": "http://www.sciencedirect.com/science/article/pii/S0924857920303423"
+    },
+    {
+      "rank": "8.",
+      "title": "How to Write in Plain English",
+      "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
+    },
+    {
       "rank": "9.",
-      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
-      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
+      "title": "Global Mass Surveillance – The Fourteen Eyes",
+      "link": "https://www.privacytools.io/providers/#ukusa"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
-      "link": "https://hyscale.github.io"
+      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
+      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
     },
     {
       "rank": "12.",
-      "title": "Global Mass Surveillance – The Fourteen Eyes",
-      "link": "https://www.privacytools.io/providers/#ukusa"
+      "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
+      "link": "https://hyscale.github.io"
     },
     {
       "rank": "13.",
@@ -67,58 +67,58 @@
     },
     {
       "rank": "14.",
-      "title": "The Mathematical Structure of Particle Collisions Comes into View",
-      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
-    },
-    {
-      "rank": "15.",
       "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
       "link": "https://github.com/model-zoo/shift-ctrl-f"
     },
     {
+      "rank": "15.",
+      "title": "The Mathematical Structure of Particle Collisions Comes into View",
+      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
+    },
+    {
       "rank": "16.",
-      "title": "Respawn point: The inevitable reincarnation of the corporate office",
-      "link": "https://arstechnica.com/information-technology/2020/08/work-from-home-03-the-office/"
-    },
-    {
-      "rank": "17.",
-      "title": "Standard Space Habitats",
-      "link": "https://halcanary.org/vv/2020/07/14/3017/"
-    },
-    {
-      "rank": "18.",
-      "title": "Boston Dynamics' Handle Robot Recreated with Raspberry Pi",
-      "link": "https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/"
-    },
-    {
-      "rank": "19.",
       "title": "Animal behavior during a solar eclipse",
       "link": "https://readwildness.com/23/poli-eclipse"
     },
     {
-      "rank": "20.",
+      "rank": "17.",
+      "title": "Boston Dynamics' Handle Robot Recreated with Raspberry Pi",
+      "link": "https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/"
+    },
+    {
+      "rank": "18.",
+      "title": "Respawn point: The inevitable reincarnation of the corporate office",
+      "link": "https://arstechnica.com/information-technology/2020/08/work-from-home-03-the-office/"
+    },
+    {
+      "rank": "19.",
       "title": "The wildest insurance fraud scheme in Texas",
       "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Mental Model: Second Order Thinking",
       "link": "https://models.substack.com/p/second-order-thinking"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "DIY Single-Chip 2D Retro Game Console",
       "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
+      "rank": "22.",
+      "title": "Standard Space Habitats",
+      "link": "https://halcanary.org/vv/2020/07/14/3017/"
+    },
+    {
       "rank": "23.",
-      "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
-      "link": "https://www.gbatteries.com/roles/project-manager-technical"
+      "title": "Show HN: Will It CORS? – an automatic CORS explainer",
+      "link": "http://willitcors.com"
     },
     {
       "rank": "24.",
-      "title": "Show HN: Will It CORS? – an automatic CORS explainer",
-      "link": "http://willitcors.com"
+      "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
+      "link": "https://www.gbatteries.com/roles/project-manager-technical"
     },
     {
       "rank": "25.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
+      "title": "The fate of antiques and heirlooms in a disposable age",
+      "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
+    },
+    {
+      "rank": "27.",
       "title": "My startup validation process",
       "link": "https://neilcocker.com/2020/08/22/my-startup-validation-process/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
       "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
-    },
-    {
-      "rank": "28.",
-      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
-      "link": "https://www.bbc.com/news/world-europe-53875370"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "The fate of antiques and heirlooms in a disposable age",
-      "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
+      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
+      "link": "https://www.bbc.com/news/world-europe-53875370"
     }
   ],
   "metadata": {
