@@ -17,38 +17,38 @@
     },
     {
       "rank": "4.",
-      "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
-      "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
-    },
-    {
-      "rank": "5.",
       "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
       "link": "https://hyscale.github.io"
     },
     {
-      "rank": "6.",
-      "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
-      "link": "https://www.gbatteries.com/roles/project-manager-technical"
+      "rank": "5.",
+      "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
+      "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Please read the paper before you comment",
       "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "OpenZFS Merged to FreeBSD",
       "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
     },
     {
+      "rank": "8.",
+      "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
+      "link": "https://www.gbatteries.com/roles/project-manager-technical"
+    },
+    {
       "rank": "9.",
-      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
-      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
+      "title": "The wildest insurance fraud scheme in Texas",
+      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
     },
     {
       "rank": "10.",
-      "title": "The wildest insurance fraud scheme in Texas",
-      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
+      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
+      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
     },
     {
       "rank": "11.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
-      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
+      "title": "Animal behavior during a solar eclipse",
+      "link": "https://readwildness.com/23/poli-eclipse"
     },
     {
       "rank": "13.",
@@ -67,63 +67,63 @@
     },
     {
       "rank": "14.",
-      "title": "SourMint Malicious SDK",
-      "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
+      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
+      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
     },
     {
       "rank": "15.",
-      "title": "The GemRB project celebrates 20 year anniversary with a new release",
-      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
-    },
-    {
-      "rank": "16.",
       "title": "My startup validation process",
       "link": "https://neilcocker.com/2020/08/22/my-startup-validation-process/"
     },
     {
+      "rank": "16.",
+      "title": "SourMint Malicious SDK",
+      "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
+    },
+    {
       "rank": "17.",
+      "title": "The GemRB project celebrates 20 year anniversary with a new release",
+      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
+    },
+    {
+      "rank": "18.",
       "title": "GCD and the magic of subtraction",
       "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
       "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Managing Teams Through Interfaces",
       "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Asana S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Being OK with not being extraordinary",
       "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
-      "rank": "22.",
-      "title": "The Everyday Inspiration for Anna Karenina",
-      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
-    },
-    {
       "rank": "23.",
-      "title": "Quotes from Moral Mazes (2019)",
-      "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
-    },
-    {
-      "rank": "24.",
       "title": "EBS Storage Improvements",
       "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
     },
     {
+      "rank": "24.",
+      "title": "The Everyday Inspiration for Anna Karenina",
+      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
+    },
+    {
       "rank": "25.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
+      "title": "US home construction surges 22.6%, third monthly increase",
+      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "US home construction surges 22.6%, third monthly increase",
-      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
+      "title": "Clover: An all-in-one notebook",
+      "link": "https://cloverapp.co/"
     },
     {
       "rank": "28.",
-      "title": "Clover: An all-in-one notebook",
-      "link": "https://cloverapp.co/"
+      "title": "Show HN: Will It CORS? – an automatic CORS explainer",
+      "link": "http://willitcors.com"
     },
     {
       "rank": "29.",
