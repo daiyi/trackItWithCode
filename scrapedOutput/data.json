@@ -7,68 +7,68 @@
     },
     {
       "rank": "2.",
+      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
+      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
+    },
+    {
+      "rank": "3.",
       "title": "How to Write in Plain English",
       "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
       "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Please read the paper before you comment",
       "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "OpenZFS Merged to FreeBSD",
       "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
     },
     {
-      "rank": "6.",
-      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
-      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
-    },
-    {
       "rank": "7.",
-      "title": "The wildest insurance fraud scheme in Texas",
-      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
-    },
-    {
-      "rank": "8.",
-      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
-      "link": "https://www.bbc.com/news/world-europe-53875370"
-    },
-    {
-      "rank": "9.",
-      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
-      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
-    },
-    {
-      "rank": "10.",
-      "title": "SourMint Malicious SDK",
-      "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
-    },
-    {
-      "rank": "11.",
       "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
       "link": "https://hyscale.github.io"
     },
     {
+      "rank": "8.",
+      "title": "The wildest insurance fraud scheme in Texas",
+      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
+    },
+    {
+      "rank": "9.",
+      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
+      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
+    },
+    {
+      "rank": "10.",
+      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
+      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
+    },
+    {
+      "rank": "11.",
+      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
+      "link": "https://www.bbc.com/news/world-europe-53875370"
+    },
+    {
       "rank": "12.",
+      "title": "SourMint Malicious SDK",
+      "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
+    },
+    {
+      "rank": "13.",
       "title": "DIY Single-Chip 2D Retro Game Console",
       "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Managing Teams Through Interfaces",
       "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
-    },
-    {
-      "rank": "14.",
-      "title": "GCD and the magic of subtraction",
-      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
     },
     {
       "rank": "15.",
@@ -77,78 +77,78 @@
     },
     {
       "rank": "16.",
+      "title": "GCD and the magic of subtraction",
+      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
+    },
+    {
+      "rank": "17.",
       "title": "My startup validation process",
       "link": "https://neilcocker.com/2020/08/22/my-startup-validation-process/"
     },
     {
-      "rank": "17.",
-      "title": "Quotes from Moral Mazes (2019)",
-      "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
+      "rank": "18.",
+      "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
+      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Asana S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Being OK with not being extraordinary",
       "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
-      "rank": "20.",
-      "title": "Clover: An all-in-one notebook",
-      "link": "https://cloverapp.co/"
-    },
-    {
       "rank": "21.",
-      "title": "EBS Storage Improvements",
-      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
+      "title": "Quotes from Moral Mazes (2019)",
+      "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
     },
     {
       "rank": "22.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
-    },
-    {
-      "rank": "23.",
-      "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
-      "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
-    },
-    {
-      "rank": "24.",
-      "title": "US home construction surges 22.6%, third monthly increase",
-      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
-    },
-    {
-      "rank": "25.",
       "title": "The Everyday Inspiration for Anna Karenina",
       "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
     },
     {
+      "rank": "23.",
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
+    },
+    {
+      "rank": "24.",
+      "title": "EBS Storage Improvements",
+      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
+    },
+    {
+      "rank": "25.",
+      "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
+      "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
+    },
+    {
       "rank": "26.",
-      "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
-      "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
+      "title": "US home construction surges 22.6%, third monthly increase",
+      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
     },
     {
       "rank": "27.",
+      "title": "Clover: An all-in-one notebook",
+      "link": "https://cloverapp.co/"
+    },
+    {
+      "rank": "28.",
       "title": "Docker to rate limit image pulls",
       "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "High bitrate video streaming with GStreamer RTP",
       "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "One Year of Nushell",
       "link": "https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
-    },
-    {
-      "rank": "30.",
-      "title": "Jaron Lanier on social media",
-      "link": "https://www.gq.com/story/jaron-lanier-tech-oracle-profile"
     }
   ],
   "metadata": {
