@@ -22,58 +22,58 @@
     },
     {
       "rank": "5.",
-      "title": "Please read the paper before you comment",
-      "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
-    },
-    {
-      "rank": "6.",
-      "title": "OpenZFS Merged to FreeBSD",
-      "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
-    },
-    {
-      "rank": "7.",
       "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
       "link": "https://hyscale.github.io"
     },
     {
+      "rank": "6.",
+      "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
+      "link": "https://www.gbatteries.com/roles/project-manager-technical"
+    },
+    {
+      "rank": "7.",
+      "title": "Please read the paper before you comment",
+      "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
+    },
+    {
       "rank": "8.",
+      "title": "OpenZFS Merged to FreeBSD",
+      "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
+    },
+    {
+      "rank": "9.",
       "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
       "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "The wildest insurance fraud scheme in Texas",
       "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
     },
     {
-      "rank": "10.",
-      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
-      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
-    },
-    {
       "rank": "11.",
-      "title": "DIY Single-Chip 2D Retro Game Console",
-      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
-    },
-    {
-      "rank": "12.",
-      "title": "SourMint Malicious SDK",
-      "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
-    },
-    {
-      "rank": "13.",
       "title": "Coronavirus: Germany puts on crowded concerts to study risks",
       "link": "https://www.bbc.com/news/world-europe-53875370"
     },
     {
+      "rank": "12.",
+      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
+      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
+    },
+    {
+      "rank": "13.",
+      "title": "DIY Single-Chip 2D Retro Game Console",
+      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
+    },
+    {
       "rank": "14.",
-      "title": "The GemRB project celebrates 20 year anniversary with a new release",
-      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
+      "title": "SourMint Malicious SDK",
+      "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
     },
     {
       "rank": "15.",
-      "title": "GCD and the magic of subtraction",
-      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
+      "title": "The GemRB project celebrates 20 year anniversary with a new release",
+      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Managing Teams Through Interfaces",
-      "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
+      "title": "GCD and the magic of subtraction",
+      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
     },
     {
       "rank": "18.",
@@ -92,28 +92,28 @@
     },
     {
       "rank": "19.",
+      "title": "Managing Teams Through Interfaces",
+      "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
+    },
+    {
+      "rank": "20.",
       "title": "Asana S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Being OK with not being extraordinary",
       "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "The Everyday Inspiration for Anna Karenina",
       "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Quotes from Moral Mazes (2019)",
       "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
-    },
-    {
-      "rank": "23.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
     },
     {
       "rank": "24.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
-      "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
     },
     {
       "rank": "26.",
-      "title": "Clover: An all-in-one notebook",
-      "link": "https://cloverapp.co/"
+      "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
+      "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Clover: An all-in-one notebook",
+      "link": "https://cloverapp.co/"
+    },
+    {
+      "rank": "29.",
       "title": "Docker to rate limit image pulls",
       "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "High bitrate video streaming with GStreamer RTP",
       "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
-    },
-    {
-      "rank": "30.",
-      "title": "One Year of Nushell",
-      "link": "https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
     }
   ],
   "metadata": {
