@@ -7,38 +7,38 @@
     },
     {
       "rank": "2.",
+      "title": "Kindle Collects a Surprisingly Large Amount of Data",
+      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
+    },
+    {
+      "rank": "3.",
       "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
       "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Please read the paper before you comment",
       "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "OpenZFS Merged to FreeBSD",
       "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
+      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
+      "link": "https://www.bbc.com/news/world-europe-53875370"
+    },
+    {
+      "rank": "7.",
       "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
       "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
     },
     {
-      "rank": "6.",
-      "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
-      "link": "https://hyscale.github.io"
-    },
-    {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Slack Incident Resolved – Degraded service affecting multiple features",
       "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
-    },
-    {
-      "rank": "8.",
-      "title": "SourMint Malicious SDK",
-      "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Why it's so hard to find dumbbells in the US",
-      "link": "https://www.vox.com/the-goods/21396116/dumbbell-set-shortage-nordictrack-bowflex"
+      "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
+      "link": "https://hyscale.github.io"
     },
     {
       "rank": "11.",
-      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
-      "link": "https://www.bbc.com/news/world-europe-53875370"
+      "title": "SourMint Malicious SDK",
+      "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
     },
     {
       "rank": "12.",
@@ -77,33 +77,33 @@
     },
     {
       "rank": "16.",
-      "title": "Clover: An all-in-one notebook",
-      "link": "https://cloverapp.co/"
-    },
-    {
-      "rank": "17.",
       "title": "Asana S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Being OK with not being extraordinary",
       "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Quotes from Moral Mazes (2019)",
       "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
     },
     {
+      "rank": "19.",
+      "title": "Clover: An all-in-one notebook",
+      "link": "https://cloverapp.co/"
+    },
+    {
       "rank": "20.",
-      "title": "EBS Storage Improvements",
-      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
+      "title": "The robotics revolution is here, and it's changing how we live",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
     },
     {
       "rank": "21.",
-      "title": "The robotics revolution is here, and it's changing how we live",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+      "title": "EBS Storage Improvements",
+      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
     },
     {
       "rank": "22.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
-      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+      "title": "One Year of Nushell",
+      "link": "https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
     }
   ],
   "metadata": {
