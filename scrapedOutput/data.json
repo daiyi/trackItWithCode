@@ -2,83 +2,83 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "US home construction surges 22.6%, third monthly increase",
+      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
+    },
+    {
+      "rank": "2.",
       "title": "Please read the paper before you comment",
       "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "OpenZFS Merged to FreeBSD",
       "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Asana S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
     },
     {
-      "rank": "4.",
-      "title": "rc.d belongs in libexec, not etc",
-      "link": "https://jmmv.dev/2020/08/rcd-libexec-etc.html"
-    },
-    {
       "rank": "5.",
-      "title": "Being OK with not being extraordinary",
-      "link": "https://www.tiffanymatthe.com/not-extraordinary"
-    },
-    {
-      "rank": "6.",
-      "title": "GCD and the magic of subtraction",
-      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
-    },
-    {
-      "rank": "7.",
-      "title": "The wildest insurance fraud scheme in Texas",
-      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
-    },
-    {
-      "rank": "8.",
-      "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
-      "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
-    },
-    {
-      "rank": "9.",
-      "title": "One Year of Nushell",
-      "link": "https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
-    },
-    {
-      "rank": "10.",
-      "title": "Docker to rate limit image pulls",
-      "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
-    },
-    {
-      "rank": "11.",
-      "title": "Clover: An all-in-one notebook",
-      "link": "https://cloverapp.co/"
-    },
-    {
-      "rank": "12.",
-      "title": "Unity Software Inc S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
-    },
-    {
-      "rank": "13.",
       "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
       "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
     },
     {
+      "rank": "6.",
+      "title": "BuildZoom (better way to build custom homes) is hiring a principal engineer",
+      "link": "https://jobs.lever.co/buildzoom"
+    },
+    {
+      "rank": "7.",
+      "title": "rc.d belongs in libexec, not etc",
+      "link": "https://jmmv.dev/2020/08/rcd-libexec-etc.html"
+    },
+    {
+      "rank": "8.",
+      "title": "The wildest insurance fraud scheme in Texas",
+      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
+    },
+    {
+      "rank": "9.",
+      "title": "Being OK with not being extraordinary",
+      "link": "https://www.tiffanymatthe.com/not-extraordinary"
+    },
+    {
+      "rank": "10.",
+      "title": "GCD and the magic of subtraction",
+      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
+    },
+    {
+      "rank": "11.",
+      "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
+      "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
+    },
+    {
+      "rank": "12.",
+      "title": "One Year of Nushell",
+      "link": "https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
+    },
+    {
+      "rank": "13.",
+      "title": "Docker to rate limit image pulls",
+      "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
+    },
+    {
       "rank": "14.",
-      "title": "The robotics revolution is here, and it's changing how we live",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+      "title": "Unity Software Inc S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
     },
     {
       "rank": "15.",
-      "title": "Vitamin D, part 2: Shannon's story",
-      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
+      "title": "Clover: An all-in-one notebook",
+      "link": "https://cloverapp.co/"
     },
     {
       "rank": "16.",
-      "title": "EBS Storage Improvements",
-      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
+      "title": "The robotics revolution is here, and it's changing how we live",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
     },
     {
       "rank": "17.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
+      "title": "Vitamin D, part 2: Shannon's story",
+      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
+    },
+    {
+      "rank": "19.",
+      "title": "EBS Storage Improvements",
+      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
+    },
+    {
+      "rank": "20.",
       "title": "Nuclear Reactor Development History",
       "link": "https://whatisnuclear.com/reactor_history.html"
     },
     {
-      "rank": "19.",
-      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
-      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
-    },
-    {
-      "rank": "20.",
+      "rank": "21.",
       "title": "High bitrate video streaming with GStreamer RTP",
       "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
-    },
-    {
-      "rank": "21.",
-      "title": "Operation Rosehub (Mad Gadget) (2017)",
-      "link": "https://opensource.googleblog.com/2017/03/operation-rosehub.html"
     },
     {
       "rank": "22.",
@@ -112,33 +112,33 @@
     },
     {
       "rank": "23.",
+      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
+      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
+    },
+    {
+      "rank": "24.",
       "title": "‘CSS X’",
       "link": "https://www.w3.org/blog/2020/03/css-x/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
+      "title": "Operation Rosehub (Mad Gadget) (2017)",
+      "link": "https://opensource.googleblog.com/2017/03/operation-rosehub.html"
+    },
+    {
+      "rank": "26.",
       "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
       "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Emotional resilience and burnout in leadership",
       "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
       "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
-    },
-    {
-      "rank": "27.",
-      "title": "Show HN: Mys – an attempt to create a statically typed Python-like language",
-      "link": "https://github.com/eerimoq/mys"
-    },
-    {
-      "rank": "28.",
-      "title": "Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)",
-      "link": "https://recruiterflow.com/caper/jobs#menu"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Jaron Lanier on social media",
-      "link": "https://www.gq.com/story/jaron-lanier-tech-oracle-profile"
+      "title": "Show HN: Mys – an attempt to create a statically typed Python-like language",
+      "link": "https://github.com/eerimoq/mys"
     }
   ],
   "metadata": {
