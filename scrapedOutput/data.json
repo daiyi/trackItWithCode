@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
+      "title": "Creating a Common Lisp implementation, part 1 [video]",
+      "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
+    },
+    {
+      "rank": "7.",
       "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
       "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Signifier – a Brutalist response to 17th century typefaces",
       "link": "https://klim.co.nz/blog/signifier-design-information/"
-    },
-    {
-      "rank": "8.",
-      "title": "WebBundles harmful to content blocking, security tools, and the open web",
-      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
     },
     {
       "rank": "9.",
@@ -67,33 +67,33 @@
     },
     {
       "rank": "14.",
-      "title": "Keeping CALM: When Distributed Consistency Is Easy",
-      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+      "title": "WebBundles harmful to content blocking, security tools, and the open web",
+      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
     },
     {
       "rank": "15.",
-      "title": "The longest train ride in the world",
-      "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
-    },
-    {
-      "rank": "16.",
-      "title": "Mux (YC W16) is hiring devs that want to help others build video (remote ok!)",
-      "link": "https://mux.com/jobs?hnj=17"
-    },
-    {
-      "rank": "17.",
       "title": "Optimal Peanut Butter and Banana Sandwiches",
       "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
     },
     {
-      "rank": "18.",
+      "rank": "16.",
+      "title": "The longest train ride in the world",
+      "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
+    },
+    {
+      "rank": "17.",
       "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
       "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
     },
     {
+      "rank": "18.",
+      "title": "Mux (YC W16) is hiring devs that want to help others build video (remote ok!)",
+      "link": "https://mux.com/jobs?hnj=17"
+    },
+    {
       "rank": "19.",
-      "title": "Show HN: Seamless head tracking for games using the TrueDepth camera (iOS)",
-      "link": "http://www.inflightassistant.com/smoothtrack/index.html"
+      "title": "Keeping CALM: When Distributed Consistency Is Easy",
+      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
     },
     {
       "rank": "20.",
@@ -102,53 +102,53 @@
     },
     {
       "rank": "21.",
-      "title": "Palantir S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm"
-    },
-    {
-      "rank": "22.",
       "title": "AWS Controllers for Kubernetes",
       "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
+      "rank": "22.",
+      "title": "Show HN: Seamless head tracking for games using the TrueDepth camera (iOS)",
+      "link": "http://www.inflightassistant.com/smoothtrack/index.html"
+    },
+    {
       "rank": "23.",
-      "title": "Incident updates, interruptions and the 30 minute window",
-      "link": "https://www.unixdaemon.net/sysadmin/incident-updates-and-interruptions/"
-    },
-    {
-      "rank": "24.",
-      "title": "Creating a Common Lisp implementation, part 1 [video]",
-      "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
-    },
-    {
-      "rank": "25.",
-      "title": "Amazon drops Linux support for generating Kindle ebooks",
-      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
-    },
-    {
-      "rank": "26.",
-      "title": "Topicctl – an easier way to manage Kafka topics",
-      "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
-    },
-    {
-      "rank": "27.",
       "title": "Three Ways to Hack a Printed Circuit Board",
       "link": "https://spectrum.ieee.org/computing/hardware/three-ways-to-hack-a-printed-circuit-board"
     },
     {
-      "rank": "28.",
-      "title": "Firefox Android Build that caused issues is working as intended",
-      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
+      "rank": "24.",
+      "title": "Incident updates, interruptions and the 30 minute window",
+      "link": "https://www.unixdaemon.net/sysadmin/incident-updates-and-interruptions/"
     },
     {
-      "rank": "29.",
+      "rank": "25.",
+      "title": "Palantir S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm"
+    },
+    {
+      "rank": "26.",
+      "title": "Amazon drops Linux support for generating Kindle ebooks",
+      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
+    },
+    {
+      "rank": "27.",
+      "title": "Topicctl – an easier way to manage Kafka topics",
+      "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
+    },
+    {
+      "rank": "28.",
       "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
       "link": "https://github.com/model-zoo/shift-ctrl-f"
     },
     {
+      "rank": "29.",
+      "title": "Firefox Android Build that caused issues is working as intended",
+      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
+    },
+    {
       "rank": "30.",
-      "title": "Squeak Smalltalk on a PostmarketOS Cellphone",
-      "link": "https://eighty-twenty.org/2020/08/25/postmarketos-smalltalk"
+      "title": "Chrome just got faster with Profile Guided Optimization",
+      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
     }
   ],
   "metadata": {
