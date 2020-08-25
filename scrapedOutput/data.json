@@ -12,143 +12,143 @@
     },
     {
       "rank": "3.",
+      "title": "Beating Google's ReCaptcha Using AWS Rekognition (MIT license)",
+      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
+    },
+    {
+      "rank": "4.",
       "title": "How to Write in Plain English",
       "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
       "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
       "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
     },
     {
-      "rank": "6.",
-      "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
-      "link": "https://hyscale.github.io"
-    },
-    {
       "rank": "7.",
-      "title": "Animal behavior during a solar eclipse",
-      "link": "https://readwildness.com/23/poli-eclipse"
-    },
-    {
-      "rank": "8.",
-      "title": "OpenZFS Merged to FreeBSD",
-      "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
-    },
-    {
-      "rank": "9.",
-      "title": "User's Kindle eBook collection revoked by Amazon (2012)",
-      "link": "https://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/"
-    },
-    {
-      "rank": "10.",
-      "title": "The Mathematical Structure of Particle Collisions Comes into View",
-      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
-    },
-    {
-      "rank": "11.",
-      "title": "The wildest insurance fraud scheme in Texas",
-      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
-    },
-    {
-      "rank": "12.",
-      "title": "Show HN: Will It CORS? – an automatic CORS explainer",
-      "link": "http://willitcors.com"
-    },
-    {
-      "rank": "13.",
-      "title": "Mental Model: Second Order Thinking",
-      "link": "https://models.substack.com/p/second-order-thinking"
-    },
-    {
-      "rank": "14.",
-      "title": "DIY Single-Chip 2D Retro Game Console",
-      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
-    },
-    {
-      "rank": "15.",
-      "title": "Boston Dynamics' Handle Robot Recreated with Raspberry Pi",
-      "link": "https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/"
-    },
-    {
-      "rank": "16.",
-      "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
-      "link": "https://www.gbatteries.com/roles/project-manager-technical"
-    },
-    {
-      "rank": "17.",
       "title": "Firefox 80",
       "link": "https://www.mozilla.org/en-US/firefox/80.0/releasenotes/"
     },
     {
-      "rank": "18.",
-      "title": "Please read the paper before you comment",
-      "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
+      "rank": "8.",
+      "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
+      "link": "https://hyscale.github.io"
     },
     {
-      "rank": "19.",
-      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
-      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
+      "rank": "9.",
+      "title": "Animal behavior during a solar eclipse",
+      "link": "https://readwildness.com/23/poli-eclipse"
     },
     {
-      "rank": "20.",
-      "title": "My startup validation process",
-      "link": "https://neilcocker.com/2020/08/22/my-startup-validation-process/"
+      "rank": "10.",
+      "title": "Chrome just got faster with Profile Guided Optimization",
+      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
     },
     {
-      "rank": "21.",
+      "rank": "11.",
+      "title": "OpenZFS Merged to FreeBSD",
+      "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
+    },
+    {
+      "rank": "12.",
+      "title": "The Mathematical Structure of Particle Collisions Comes into View",
+      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
+    },
+    {
+      "rank": "13.",
       "title": "Respawn point: The inevitable reincarnation of the corporate office",
       "link": "https://arstechnica.com/information-technology/2020/08/work-from-home-03-the-office/"
     },
     {
+      "rank": "14.",
+      "title": "User's Kindle eBook collection revoked by Amazon (2012)",
+      "link": "https://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/"
+    },
+    {
+      "rank": "15.",
+      "title": "Global Mass Surveillance – The Fourteen Eyes",
+      "link": "https://www.privacytools.io/providers/#ukusa"
+    },
+    {
+      "rank": "16.",
+      "title": "The wildest insurance fraud scheme in Texas",
+      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
+    },
+    {
+      "rank": "17.",
+      "title": "Boston Dynamics' Handle Robot Recreated with Raspberry Pi",
+      "link": "https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/"
+    },
+    {
+      "rank": "18.",
+      "title": "Show HN: Will It CORS? – an automatic CORS explainer",
+      "link": "http://willitcors.com"
+    },
+    {
+      "rank": "19.",
+      "title": "Mental Model: Second Order Thinking",
+      "link": "https://models.substack.com/p/second-order-thinking"
+    },
+    {
+      "rank": "20.",
+      "title": "DIY Single-Chip 2D Retro Game Console",
+      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
+    },
+    {
+      "rank": "21.",
+      "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
+      "link": "https://www.gbatteries.com/roles/project-manager-technical"
+    },
+    {
       "rank": "22.",
+      "title": "Standard Space Habitats",
+      "link": "https://halcanary.org/vv/2020/07/14/3017/"
+    },
+    {
+      "rank": "23.",
+      "title": "Please read the paper before you comment",
+      "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
+    },
+    {
+      "rank": "24.",
+      "title": "My startup validation process",
+      "link": "https://neilcocker.com/2020/08/22/my-startup-validation-process/"
+    },
+    {
+      "rank": "25.",
+      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
+      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
+    },
+    {
+      "rank": "26.",
       "title": "The GemRB project celebrates 20 year anniversary with a new release",
       "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
     },
     {
-      "rank": "23.",
+      "rank": "27.",
       "title": "Coronavirus: Germany puts on crowded concerts to study risks",
       "link": "https://www.bbc.com/news/world-europe-53875370"
     },
     {
-      "rank": "24.",
-      "title": "Security researcher discloses Safari bug after Apple delays patch",
-      "link": "https://www.zdnet.com/article/security-researcher-discloses-safari-bug-after-apple-delays-patch/"
-    },
-    {
-      "rank": "25.",
-      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
-      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
-    },
-    {
-      "rank": "26.",
-      "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
-      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
-    },
-    {
-      "rank": "27.",
-      "title": "GCD and the magic of subtraction",
-      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
-    },
-    {
       "rank": "28.",
-      "title": "Managing Teams Through Interfaces",
-      "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
-    },
-    {
-      "rank": "29.",
       "title": "The fate of antiques and heirlooms in a disposable age",
       "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
     },
     {
+      "rank": "29.",
+      "title": "GCD and the magic of subtraction",
+      "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
+    },
+    {
       "rank": "30.",
-      "title": "SourMint Malicious SDK",
-      "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
+      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
+      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
     }
   ],
   "metadata": {
