@@ -12,38 +12,38 @@
     },
     {
       "rank": "3.",
+      "title": "Palantir S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm"
+    },
+    {
+      "rank": "4.",
       "title": "Syllabus for Eric's PhD Students",
       "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Signifier – a Brutalist response to 17th century typefaces",
       "link": "https://klim.co.nz/blog/signifier-design-information/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
+      "title": "WebBundles harmful to content blocking, security tools, and the open web",
+      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
+    },
+    {
+      "rank": "7.",
       "title": "Global Mass Surveillance – The Fourteen Eyes",
       "link": "https://www.privacytools.io/providers/#ukusa"
     },
     {
-      "rank": "6.",
+      "rank": "8.",
       "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
       "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
     },
     {
-      "rank": "7.",
-      "title": "A Chrome feature is creating enormous load on global root DNS servers",
-      "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
-    },
-    {
-      "rank": "8.",
-      "title": "Why hockey companies are putting holes in sticks",
-      "link": "https://mailchi.mp/theprepared/the-prepared-4ydgzm58vl"
-    },
-    {
       "rank": "9.",
-      "title": "WebBundles Harmful to Content Blocking, Security Tools, and the Open Web",
-      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
+      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
+      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
     },
     {
       "rank": "10.",
@@ -57,38 +57,38 @@
     },
     {
       "rank": "12.",
-      "title": "Amazon drops Linux support for generating Kindle ebooks",
-      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
-    },
-    {
-      "rank": "13.",
-      "title": "AWS Controllers for Kubernetes (ACK)",
-      "link": "https://github.com/aws/aws-controllers-k8s"
-    },
-    {
-      "rank": "14.",
-      "title": "Ventoy makes making bootable USB drives easy",
-      "link": "https://github.com/ventoy/Ventoy"
-    },
-    {
-      "rank": "15.",
-      "title": "Chrome just got faster with Profile Guided Optimization",
-      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
-    },
-    {
-      "rank": "16.",
-      "title": "Japan facing credit card number shortage",
-      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
-    },
-    {
-      "rank": "17.",
       "title": "Keeping CALM: When Distributed Consistency Is Easy",
       "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
     },
     {
+      "rank": "13.",
+      "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
+      "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
+    },
+    {
+      "rank": "14.",
+      "title": "Amazon drops Linux support for generating Kindle ebooks",
+      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
+    },
+    {
+      "rank": "15.",
+      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
+      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
+    },
+    {
+      "rank": "16.",
+      "title": "AWS Controllers for Kubernetes (ACK)",
+      "link": "https://github.com/aws/aws-controllers-k8s"
+    },
+    {
+      "rank": "17.",
+      "title": "Japan facing credit card number shortage",
+      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
+    },
+    {
       "rank": "18.",
-      "title": "A new botnet is covertly targeting millions of servers",
-      "link": "https://www.wired.com/story/a-new-botnet-is-covertly-targeting-millions-of-servers/"
+      "title": "Firefox Android Build that caused issues is working as intended",
+      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
     },
     {
       "rank": "19.",
@@ -97,43 +97,43 @@
     },
     {
       "rank": "20.",
+      "title": "A Chrome feature is creating enormous load on global root DNS servers",
+      "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
+    },
+    {
+      "rank": "21.",
+      "title": "Chrome just got faster with Profile Guided Optimization",
+      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
+    },
+    {
+      "rank": "22.",
       "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
       "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
+      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
+      "link": "https://github.com/model-zoo/shift-ctrl-f"
+    },
+    {
+      "rank": "24.",
+      "title": "Amazon is delivering nearly two-thirds of its own packages",
+      "link": "https://www.cnbc.com/2020/08/13/amazon-is-delivering-nearly-two-thirds-of-its-own-packages.html"
+    },
+    {
+      "rank": "25.",
       "title": "Secure Modular Runtimes",
       "link": "https://guybedford.com/secure-modular-runtimes.html"
     },
     {
-      "rank": "22.",
-      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
-      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
-    },
-    {
-      "rank": "23.",
-      "title": "Firefox Android Build that caused issues is working as intended",
-      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
-    },
-    {
-      "rank": "24.",
+      "rank": "26.",
       "title": "Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer",
       "link": "https://www.reverielabs.com/careers"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Origins of Venmo (2014)",
       "link": "https://kortina.nyc/essays/origins-of-venmo/"
-    },
-    {
-      "rank": "26.",
-      "title": "A Tuna's Worth",
-      "link": "https://www.hakaimagazine.com/features/a-tunas-worth/"
-    },
-    {
-      "rank": "27.",
-      "title": "Amazon is delivering nearly two-thirds of its own packages",
-      "link": "https://www.cnbc.com/2020/08/13/amazon-is-delivering-nearly-two-thirds-of-its-own-packages.html"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
-      "link": "https://github.com/model-zoo/shift-ctrl-f"
+      "title": "A Tuna's Worth",
+      "link": "https://www.hakaimagazine.com/features/a-tunas-worth/"
     },
     {
       "rank": "30.",
-      "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
-      "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
+      "title": "The fate of antiques and heirlooms in a disposable age",
+      "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
     }
   ],
   "metadata": {
