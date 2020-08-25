@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "What the interns have wrought, 2020 edition",
-      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2020/"
-    },
-    {
-      "rank": "2.",
       "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
       "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "Firefox 80",
       "link": "https://www.mozilla.org/en-US/firefox/80.0/releasenotes/"
     },
     {
-      "rank": "4.",
-      "title": "Kindle Collects a Surprisingly Large Amount of Data",
+      "rank": "3.",
+      "title": "Kindle collects a surprisingly large amount of data",
       "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
+    },
+    {
+      "rank": "4.",
+      "title": "Global Mass Surveillance – The Fourteen Eyes",
+      "link": "https://www.privacytools.io/providers/#ukusa"
     },
     {
       "rank": "5.",
@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Global Mass Surveillance – The Fourteen Eyes",
-      "link": "https://www.privacytools.io/providers/#ukusa"
+      "title": "AWS Controllers for Kubernetes (ACK)",
+      "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
       "rank": "7.",
@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
-      "title": "AWS Controllers for Kubernetes (ACK)",
-      "link": "https://github.com/aws/aws-controllers-k8s"
+      "title": "Signifier – a Brutalist response to 17th century typefaces",
+      "link": "https://klim.co.nz/blog/signifier-design-information/"
     },
     {
       "rank": "9.",
+      "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
+      "link": "https://github.com/open-sdr/openwifi"
+    },
+    {
+      "rank": "10.",
       "title": "How to Write in Plain English",
       "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
       "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
-    },
-    {
-      "rank": "11.",
-      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
-      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
     },
     {
       "rank": "12.",
@@ -62,93 +62,93 @@
     },
     {
       "rank": "13.",
-      "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
-      "link": "https://hyscale.github.io"
-    },
-    {
-      "rank": "14.",
-      "title": "The Mathematical Structure of Particle Collisions Comes into View",
-      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
-    },
-    {
-      "rank": "15.",
-      "title": "Boston Dynamics' Handle Robot Recreated with Raspberry Pi",
-      "link": "https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/"
-    },
-    {
-      "rank": "16.",
       "title": "Ventoy makes making bootable USB drives easy",
       "link": "https://github.com/ventoy/Ventoy"
     },
     {
+      "rank": "14.",
+      "title": "Optimal Peanut Butter and Banana Sandwiches",
+      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
+    },
+    {
+      "rank": "15.",
+      "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
+      "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
+    },
+    {
+      "rank": "16.",
+      "title": "What the interns have wrought, 2020 edition",
+      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2020/"
+    },
+    {
       "rank": "17.",
-      "title": "Animal behavior during a solar eclipse",
-      "link": "https://readwildness.com/23/poli-eclipse"
+      "title": "The Mathematical Structure of Particle Collisions Comes into View",
+      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
     },
     {
       "rank": "18.",
-      "title": "The wildest insurance fraud scheme in Texas",
-      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
+      "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
+      "link": "https://github.com/hyscale/hyscale"
     },
     {
       "rank": "19.",
+      "title": "Boston Dynamics' Handle Robot Recreated with Raspberry Pi",
+      "link": "https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/"
+    },
+    {
+      "rank": "20.",
       "title": "A new botnet is covertly targeting millions of servers",
       "link": "https://www.wired.com/story/a-new-botnet-is-covertly-targeting-millions-of-servers/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
+      "title": "Animal behavior during a solar eclipse",
+      "link": "https://readwildness.com/23/poli-eclipse"
+    },
+    {
+      "rank": "22.",
+      "title": "The wildest insurance fraud scheme in Texas",
+      "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
+    },
+    {
+      "rank": "23.",
       "title": "Standard Space Habitats",
       "link": "https://halcanary.org/vv/2020/07/14/3017/"
     },
     {
-      "rank": "21.",
+      "rank": "24.",
       "title": "Show HN: Will It CORS? – an automatic CORS explainer",
       "link": "http://willitcors.com"
     },
     {
-      "rank": "22.",
-      "title": "DIY Single-Chip 2D Retro Game Console",
-      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
-    },
-    {
-      "rank": "23.",
-      "title": "Mental Model: Second Order Thinking",
-      "link": "https://models.substack.com/p/second-order-thinking"
-    },
-    {
-      "rank": "24.",
+      "rank": "25.",
       "title": "The fate of antiques and heirlooms in a disposable age",
       "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
     },
     {
-      "rank": "25.",
-      "title": "Please read the paper before you comment",
-      "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
+      "rank": "26.",
+      "title": "DIY Single-Chip 2D Retro Game Console",
+      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
+      "title": "Amazon now delivers nearly 2/3 of its own packages",
+      "link": "https://www.cnbc.com/2020/08/13/amazon-is-delivering-nearly-two-thirds-of-its-own-packages.html"
+    },
+    {
+      "rank": "28.",
+      "title": "Mental Model: Second Order Thinking",
+      "link": "https://models.substack.com/p/second-order-thinking"
+    },
+    {
+      "rank": "29.",
       "title": "My startup validation process",
       "link": "https://neilcocker.com/2020/08/22/my-startup-validation-process/"
     },
     {
-      "rank": "27.",
-      "title": "Respawn point: The inevitable reincarnation of the corporate office",
-      "link": "https://arstechnica.com/information-technology/2020/08/work-from-home-03-the-office/"
-    },
-    {
-      "rank": "28.",
+      "rank": "30.",
       "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
       "link": "https://www.gbatteries.com/roles/project-manager-technical"
-    },
-    {
-      "rank": "29.",
-      "title": "OpenZFS Merged to FreeBSD",
-      "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
-    },
-    {
-      "rank": "30.",
-      "title": "The GemRB project celebrates 20 year anniversary with a new release",
-      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
     }
   ],
   "metadata": {
