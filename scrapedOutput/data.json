@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Show HN: HyScale – An app-centric abstraction framework over K8s complexities",
-      "link": "https://hyscale.github.io"
+      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
+      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
     },
     {
       "rank": "6.",
-      "title": "Ask HN: Why Reddit's New Website Is So Slow?",
-      "link": "item?id=24270626"
+      "title": "Show HN: HyScale – An abstraction framework over Kubernetes",
+      "link": "https://hyscale.github.io"
     },
     {
       "rank": "7.",
@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
-      "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
-      "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
-    },
-    {
-      "rank": "10.",
       "title": "The wildest insurance fraud scheme in Texas",
       "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
     },
     {
+      "rank": "10.",
+      "title": "Why it's so hard to find dumbbells in the US",
+      "link": "https://www.vox.com/the-goods/21396116/dumbbell-set-shortage-nordictrack-bowflex"
+    },
+    {
       "rank": "11.",
-      "title": "DIY Single-Chip 2D Retro Game Console",
-      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
+      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
+      "link": "https://www.bbc.com/news/world-europe-53875370"
     },
     {
       "rank": "12.",
-      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
-      "link": "https://www.bbc.com/news/world-europe-53875370"
+      "title": "DIY Single-Chip 2D Retro Game Console",
+      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
       "rank": "13.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "Why it's so hard to find dumbbells in the US",
-      "link": "https://www.vox.com/the-goods/21396116/dumbbell-set-shortage-nordictrack-bowflex"
-    },
-    {
-      "rank": "16.",
       "title": "The GemRB project celebrates 20 year anniversary with a new release",
       "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Clover: An all-in-one notebook",
       "link": "https://cloverapp.co/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Asana S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
+    },
+    {
+      "rank": "18.",
+      "title": "Being OK with not being extraordinary",
+      "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
-      "title": "Being OK with not being extraordinary",
-      "link": "https://www.tiffanymatthe.com/not-extraordinary"
-    },
-    {
-      "rank": "21.",
-      "title": "Nuclear Reactor Development History",
-      "link": "https://whatisnuclear.com/reactor_history.html"
-    },
-    {
-      "rank": "22.",
-      "title": "The robotics revolution is here, and it's changing how we live",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
-    },
-    {
-      "rank": "23.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
-    },
-    {
-      "rank": "24.",
       "title": "EBS Storage Improvements",
       "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
     },
     {
-      "rank": "25.",
-      "title": "The Everyday Inspiration for Anna Karenina",
-      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
+      "rank": "21.",
+      "title": "The robotics revolution is here, and it's changing how we live",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
     },
     {
-      "rank": "26.",
+      "rank": "22.",
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
+    },
+    {
+      "rank": "23.",
       "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
       "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
     },
     {
-      "rank": "27.",
+      "rank": "24.",
+      "title": "The Everyday Inspiration for Anna Karenina",
+      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
+    },
+    {
+      "rank": "25.",
       "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
       "link": "https://github.com/leontrolski/dnjs"
     },
     {
-      "rank": "28.",
-      "title": "‘CSS X’",
-      "link": "https://www.w3.org/blog/2020/03/css-x/"
-    },
-    {
-      "rank": "29.",
+      "rank": "26.",
       "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
       "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
     },
     {
-      "rank": "30.",
+      "rank": "27.",
       "title": "US home construction surges 22.6%, third monthly increase",
       "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
+    },
+    {
+      "rank": "28.",
+      "title": "Docker to rate limit image pulls",
+      "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
+    },
+    {
+      "rank": "29.",
+      "title": "High bitrate video streaming with GStreamer RTP",
+      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
+    },
+    {
+      "rank": "30.",
+      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
+      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
     }
   ],
   "metadata": {
