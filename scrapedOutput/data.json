@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Slack Investigating an Ongoing Outage",
-      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
+      "title": "Operation SourMint – Malicious SDK Ad fraud affects 1,200 apps on Apple AppStore",
+      "link": "https://snyk.io/research/sour-mint-malicious-sdk/"
     },
     {
       "rank": "2.",
@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
+      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
+      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
+    },
+    {
+      "rank": "9.",
       "title": "The wildest insurance fraud scheme in Texas",
       "link": "https://www.texasmonthly.com/articles/it-was-never-enough/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "DIY Single-Chip 2D Retro Game Console",
       "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "GCD and the magic of subtraction",
       "link": "https://plumsempy.com/2020/08/24/gcd-and-the-magic-of-subtraction/"
-    },
-    {
-      "rank": "11.",
-      "title": "Managing Teams Through Interfaces",
-      "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
     },
     {
       "rank": "12.",
@@ -62,63 +62,63 @@
     },
     {
       "rank": "13.",
+      "title": "Managing Teams Through Interfaces",
+      "link": "https://www.theengineeringmanager.com/managing-managers/managing-through-interfaces/"
+    },
+    {
+      "rank": "14.",
       "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
       "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Asana S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1477720/000119312520228462/d855753ds1.htm"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
+      "title": "Clover: An all-in-one notebook",
+      "link": "https://cloverapp.co/"
+    },
+    {
+      "rank": "17.",
       "title": "Being OK with not being extraordinary",
       "link": "https://www.tiffanymatthe.com/not-extraordinary"
     },
     {
-      "rank": "16.",
-      "title": "The robotics revolution is here, and it's changing how we live",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
-    },
-    {
-      "rank": "17.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
-    },
-    {
       "rank": "18.",
-      "title": "Nuclear Reactor Development History",
-      "link": "https://whatisnuclear.com/reactor_history.html"
-    },
-    {
-      "rank": "19.",
-      "title": "EBS Storage Improvements",
-      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
-    },
-    {
-      "rank": "20.",
       "title": "Quotes from Moral Mazes (2019)",
       "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
     },
     {
+      "rank": "19.",
+      "title": "The robotics revolution is here, and it's changing how we live",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+    },
+    {
+      "rank": "20.",
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
+    },
+    {
       "rank": "21.",
-      "title": "The Everyday Inspiration for Anna Karenina",
-      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
+      "title": "Nuclear Reactor Development History",
+      "link": "https://whatisnuclear.com/reactor_history.html"
     },
     {
       "rank": "22.",
+      "title": "EBS Storage Improvements",
+      "link": "https://aws.amazon.com/blogs/aws/new-ebs-volume-type-io2-more-iops-gib-higher-durability/"
+    },
+    {
+      "rank": "23.",
       "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
       "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
     },
     {
-      "rank": "23.",
-      "title": "US home construction surges 22.6%, third monthly increase",
-      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
-    },
-    {
       "rank": "24.",
-      "title": "Clover: An all-in-one notebook",
-      "link": "https://cloverapp.co/"
+      "title": "The Everyday Inspiration for Anna Karenina",
+      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
     },
     {
       "rank": "25.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
-      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+      "title": "US home construction surges 22.6%, third monthly increase",
+      "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "How to Undo Gender Stereotypes in Math",
-      "link": "https://www.wired.com/story/how-to-undo-gender-stereotypes-in-math-with-math/"
+      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
+      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
     },
     {
       "rank": "29.",
-      "title": "Docker to rate limit image pulls",
-      "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
+      "title": "‘CSS X’",
+      "link": "https://www.w3.org/blog/2020/03/css-x/"
     },
     {
       "rank": "30.",
-      "title": "‘CSS X’",
-      "link": "https://www.w3.org/blog/2020/03/css-x/"
+      "title": "High bitrate video streaming with GStreamer RTP",
+      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
     }
   ],
   "metadata": {
