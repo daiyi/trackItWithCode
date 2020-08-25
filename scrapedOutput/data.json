@@ -7,23 +7,23 @@
     },
     {
       "rank": "2.",
-      "title": "Searching for 'VK' shows only a single result on DuckduckGo. Why?",
-      "link": "https://duckduckgo.com/?q=vk"
-    },
-    {
-      "rank": "3.",
       "title": "Kindle Collects a Surprisingly Large Amount of Data",
       "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "How to Write in Plain English",
       "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
       "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
+    },
+    {
+      "rank": "5.",
+      "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
+      "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
     },
     {
       "rank": "6.",
@@ -32,23 +32,23 @@
     },
     {
       "rank": "7.",
-      "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
-      "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
+      "title": "Animal behavior during a solar eclipse",
+      "link": "https://readwildness.com/23/poli-eclipse"
     },
     {
       "rank": "8.",
-      "title": "User's Kindle eBook collection revoked by Amazon (2012)",
-      "link": "https://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/"
-    },
-    {
-      "rank": "9.",
       "title": "OpenZFS Merged to FreeBSD",
       "link": "https://svnweb.freebsd.org/base?view=revision&revision=364746"
     },
     {
+      "rank": "9.",
+      "title": "User's Kindle eBook collection revoked by Amazon (2012)",
+      "link": "https://www.bekkelund.net/2012/10/22/outlawed-by-amazon-drm/"
+    },
+    {
       "rank": "10.",
-      "title": "Animal behavior during a solar eclipse",
-      "link": "https://readwildness.com/23/poli-eclipse"
+      "title": "The Mathematical Structure of Particle Collisions Comes into View",
+      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
     },
     {
       "rank": "11.",
@@ -57,43 +57,43 @@
     },
     {
       "rank": "12.",
-      "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
-      "link": "https://www.gbatteries.com/roles/project-manager-technical"
-    },
-    {
-      "rank": "13.",
-      "title": "The Mathematical Structure of Particle Collisions Comes into View",
-      "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
-    },
-    {
-      "rank": "14.",
-      "title": "DIY Single-Chip 2D Retro Game Console",
-      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
-    },
-    {
-      "rank": "15.",
       "title": "Show HN: Will It CORS? – an automatic CORS explainer",
       "link": "http://willitcors.com"
     },
     {
-      "rank": "16.",
-      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
-      "link": "https://www.bbc.com/news/world-europe-53875370"
+      "rank": "13.",
+      "title": "DIY Single-Chip 2D Retro Game Console",
+      "link": "http://www.voja.rs/PROJECTS/GAME_HTM/1_intro.htm"
     },
     {
-      "rank": "17.",
+      "rank": "14.",
+      "title": "GBatteries (YC W14) is hiring a Project Manager build fast charging battery tech",
+      "link": "https://www.gbatteries.com/roles/project-manager-technical"
+    },
+    {
+      "rank": "15.",
+      "title": "Mental Model: Second Order Thinking",
+      "link": "https://models.substack.com/p/second-order-thinking"
+    },
+    {
+      "rank": "16.",
       "title": "Expert predicts a major hurricane hitting Houston would be “America’s Chernobyl”",
       "link": "https://www.texasmonthly.com/news/houston-hurricane-ship-channel-orourke/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Please read the paper before you comment",
       "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
     },
     {
+      "rank": "18.",
+      "title": "Boston Dynamics' Handle Robot Recreated with Raspberry Pi",
+      "link": "https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/"
+    },
+    {
       "rank": "19.",
-      "title": "Mental Model: Second Order Thinking",
-      "link": "https://models.substack.com/p/second-order-thinking"
+      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
+      "link": "https://www.bbc.com/news/world-europe-53875370"
     },
     {
       "rank": "20.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
-      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
+      "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
+      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
       "rank": "23.",
-      "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
-      "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
+      "title": "Slack Incident Resolved – Degraded service affecting multiple features",
+      "link": "https://status.slack.com/2020-08/960bbb3c9d49a3cc"
     },
     {
       "rank": "24.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "The fate of antiques and heirlooms in a disposable age",
-      "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
+      "title": "Security researcher discloses Safari bug after Apple delays patch",
+      "link": "https://www.zdnet.com/article/security-researcher-discloses-safari-bug-after-apple-delays-patch/"
     },
     {
       "rank": "28.",
-      "title": "Boston Dynamics' Handle Robot Recreated with Raspberry Pi",
-      "link": "https://www.raspberrypi.org/blog/boston-dynamics-handle-robot-recreated-with-raspberry-pi/"
+      "title": "The fate of antiques and heirlooms in a disposable age",
+      "link": "https://www.bbc.com/future/article/20200824-the-decline-of-antiques-and-objects-that-last-for-generation"
     },
     {
       "rank": "29.",
