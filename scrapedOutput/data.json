@@ -27,53 +27,53 @@
     },
     {
       "rank": "6.",
-      "title": "Unity Software Inc S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
-    },
-    {
-      "rank": "7.",
-      "title": "Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)",
-      "link": "https://recruiterflow.com/caper/jobs#menu"
-    },
-    {
-      "rank": "8.",
       "title": "Docker to rate limit image pulls",
       "link": "https://www.docker.com/blog/scaling-docker-to-serve-millions-more-developers-network-egress/"
     },
     {
-      "rank": "9.",
-      "title": "The robotics revolution is here, and it's changing how we live",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+      "rank": "7.",
+      "title": "Unity Software Inc S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
     },
     {
-      "rank": "10.",
-      "title": "Jaron Lanier on social media",
-      "link": "https://www.gq.com/story/jaron-lanier-tech-oracle-profile"
-    },
-    {
-      "rank": "11.",
+      "rank": "8.",
       "title": "‘CSS X’",
       "link": "https://www.w3.org/blog/2020/03/css-x/"
     },
     {
-      "rank": "12.",
+      "rank": "9.",
+      "title": "Caper (YC W16) Is Hiring Engineers – SW/CV/Android (Remote OK)",
+      "link": "https://recruiterflow.com/caper/jobs#menu"
+    },
+    {
+      "rank": "10.",
+      "title": "The robotics revolution is here, and it's changing how we live",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+    },
+    {
+      "rank": "11.",
       "title": "Writing an SSDP Directory in Elixir",
       "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
     },
     {
-      "rank": "13.",
-      "title": "Challenge to scientists: does your ten-year-old code still run?",
-      "link": "https://www.nature.com/articles/d41586-020-02462-7"
+      "rank": "12.",
+      "title": "Computability in Linear Algebra (2004)",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304397504004086"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "High bitrate video streaming with GStreamer RTP",
       "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Nuclear Reactor Development History",
       "link": "https://whatisnuclear.com/reactor_history.html"
+    },
+    {
+      "rank": "15.",
+      "title": "Challenge to scientists: does your ten-year-old code still run?",
+      "link": "https://www.nature.com/articles/d41586-020-02462-7"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
-      "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
+      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
+      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
     },
     {
       "rank": "18.",
-      "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
-      "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
+      "title": "Jaron Lanier on social media",
+      "link": "https://www.gq.com/story/jaron-lanier-tech-oracle-profile"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
+      "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
+      "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
+    },
+    {
+      "rank": "21.",
       "title": "Journal 2.0: Mental Space for What Matters",
       "link": "https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a"
     },
     {
-      "rank": "21.",
-      "title": "How I helped fix Canadaʼs Covid Alert app",
-      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
-    },
-    {
       "rank": "22.",
-      "title": "Emotional resilience and burnout in leadership",
-      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
-    },
-    {
-      "rank": "23.",
       "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
       "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
     },
     {
+      "rank": "23.",
+      "title": "How I helped fix Canadaʼs Covid Alert app",
+      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+    },
+    {
       "rank": "24.",
+      "title": "Emotional resilience and burnout in leadership",
+      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
+    },
+    {
+      "rank": "25.",
       "title": "Making money building Shopify micro-SaaS apps",
       "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
       "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Vitamin D, part 2: Shannon's story",
       "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "αcτµαlly pδrταblε εxεcµταblε",
       "link": "https://justine.storage.googleapis.com/ape.html"
     },
     {
-      "rank": "28.",
-      "title": "The Computer Chronicles (1983 – 2002)",
-      "link": "https://archive.org/details/Computer_Chronicles"
-    },
-    {
       "rank": "29.",
-      "title": "JavaScript Generators, Meet XPath",
-      "link": "https://jack.wrenn.fyi/blog/xpath-for-2020/"
+      "title": "Apparatus with Magnets",
+      "link": "https://www.notion.so/Apparatus-with-Magnets-Intro-2e32af5b59b64a45b3b203408374a56e"
     },
     {
       "rank": "30.",
-      "title": "Apparatus with Magnets",
-      "link": "https://www.notion.so/Apparatus-with-Magnets-Intro-2e32af5b59b64a45b3b203408374a56e"
+      "title": "The Computer Chronicles (1983 – 2002)",
+      "link": "https://archive.org/details/Computer_Chronicles"
     }
   ],
   "metadata": {
