@@ -7,23 +7,23 @@
     },
     {
       "rank": "2.",
-      "title": "Cat vs. panel heater: which is better?",
-      "link": "https://www.oneroof.co.nz/news/38319"
-    },
-    {
-      "rank": "3.",
       "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
       "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
       "link": "https://github.com/open-sdr/openwifi"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Creating a Common Lisp implementation, part 1 [video]",
       "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
+    },
+    {
+      "rank": "5.",
+      "title": "Cat vs. panel heater: which is better?",
+      "link": "https://www.oneroof.co.nz/news/38319"
     },
     {
       "rank": "6.",
@@ -47,23 +47,23 @@
     },
     {
       "rank": "10.",
-      "title": "Signifier – a Brutalist response to 17th century typefaces",
-      "link": "https://klim.co.nz/blog/signifier-design-information/"
-    },
-    {
-      "rank": "11.",
       "title": "Global Mass Surveillance – The Fourteen Eyes",
       "link": "https://www.privacytools.io/providers/#ukusa"
     },
     {
+      "rank": "11.",
+      "title": "Signifier – a Brutalist response to 17th century typefaces",
+      "link": "https://klim.co.nz/blog/signifier-design-information/"
+    },
+    {
       "rank": "12.",
-      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
+      "title": "Kindle collects a surprisingly large amount of data",
+      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
     },
     {
       "rank": "13.",
-      "title": "Kindle collects a surprisingly large amount of data",
-      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
+      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
+      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
-      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
+      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     },
     {
       "rank": "16.",
@@ -82,43 +82,43 @@
     },
     {
       "rank": "17.",
-      "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
-      "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
-    },
-    {
-      "rank": "18.",
       "title": "The longest train ride in the world",
       "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
     },
     {
+      "rank": "18.",
+      "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
+      "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
+    },
+    {
       "rank": "19.",
-      "title": "Keeping CALM: When Distributed Consistency Is Easy",
-      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
-    },
-    {
-      "rank": "20.",
-      "title": "Mux (YC W16) is hiring devs that want to help others build video (remote ok!)",
-      "link": "https://mux.com/jobs?hnj=17"
-    },
-    {
-      "rank": "21.",
       "title": "Tipe raises $2.1M seed round to build a customizable CMS for developers",
       "link": "https://tipe.io/blog/tipe-raises-seed"
     },
     {
+      "rank": "20.",
+      "title": "Keeping CALM: When Distributed Consistency Is Easy",
+      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+    },
+    {
+      "rank": "21.",
+      "title": "Mux (YC W16) is hiring devs that want to help others build video (remote ok!)",
+      "link": "https://mux.com/jobs?hnj=17"
+    },
+    {
       "rank": "22.",
+      "title": "Firefox Android Build that caused issues is working as intended",
+      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
+    },
+    {
+      "rank": "23.",
       "title": "AWS Controllers for Kubernetes",
       "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Three Ways to Hack a Printed Circuit Board",
       "link": "https://spectrum.ieee.org/computing/hardware/three-ways-to-hack-a-printed-circuit-board"
-    },
-    {
-      "rank": "24.",
-      "title": "Show HN: Seamless head tracking for games using the TrueDepth camera (iOS)",
-      "link": "http://www.inflightassistant.com/smoothtrack/index.html"
     },
     {
       "rank": "25.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
-      "title": "Incident updates, interruptions and the 30 minute window",
-      "link": "https://www.unixdaemon.net/sysadmin/incident-updates-and-interruptions/"
-    },
-    {
-      "rank": "27.",
       "title": "Topicctl – an easier way to manage Kafka topics",
       "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
     },
     {
+      "rank": "27.",
+      "title": "Show HN: Seamless head tracking for games using the TrueDepth camera (iOS)",
+      "link": "http://www.inflightassistant.com/smoothtrack/index.html"
+    },
+    {
       "rank": "28.",
-      "title": "Palantir S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm"
+      "title": "Incident updates, interruptions and the 30 minute window",
+      "link": "https://www.unixdaemon.net/sysadmin/incident-updates-and-interruptions/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Chrome just got faster with Profile Guided Optimization",
-      "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
+      "title": "Palantir S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm"
     }
   ],
   "metadata": {
