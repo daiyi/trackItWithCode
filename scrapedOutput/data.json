@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "One Year of Nushell",
-      "link": "https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
+      "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
+      "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
     },
     {
       "rank": "4.",
-      "title": "Navy F/A-18 squadron commander's take on AI repeatedly beating real pilot",
-      "link": "https://www.thedrive.com/the-war-zone/35947/navy-f-a-18-squadron-commanders-take-on-ai-repeatedly-beating-real-pilot-in-dogfight"
+      "title": "One Year of Nushell",
+      "link": "https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
     },
     {
       "rank": "5.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "The robotics revolution is here, and it's changing how we live",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
+      "title": "High bitrate video streaming with GStreamer RTP",
+      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
     },
     {
       "rank": "9.",
-      "title": "High bitrate video streaming with GStreamer RTP",
-      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/20/paving-the-way-high-bitrate-video-streaming-gstreamer-rtp-elements/"
+      "title": "The robotics revolution is here, and it's changing how we live",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/"
     },
     {
       "rank": "10.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "The Computer Chronicles (1983 – 2002)",
-      "link": "https://archive.org/details/Computer_Chronicles"
+      "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
+      "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
     },
     {
       "rank": "14.",
@@ -72,53 +72,53 @@
     },
     {
       "rank": "15.",
-      "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
-      "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
-    },
-    {
-      "rank": "16.",
-      "title": "Journal 2.0: Mental Space for What Matters",
-      "link": "https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a"
-    },
-    {
-      "rank": "17.",
       "title": "How to clear a path through 60 feet of snow, Japanese style (2017)",
       "link": "https://www.atlasobscura.com/articles/snow-canyon-japan"
     },
     {
-      "rank": "18.",
+      "rank": "16.",
       "title": "Top colleges should select randomly from a pool of ‘good enough’ (2005)",
       "link": "https://www.chronicle.com/article/top-colleges-should-select-randomly-from-a-pool-of-good-enough/"
     },
     {
-      "rank": "19.",
-      "title": "How I helped fix Canadaʼs Covid Alert app",
-      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
-    },
-    {
-      "rank": "20.",
-      "title": "Making money building Shopify micro-SaaS apps",
-      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
-    },
-    {
-      "rank": "21.",
-      "title": "Emotional resilience and burnout in leadership",
-      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
-    },
-    {
-      "rank": "22.",
-      "title": "Sinai is hiring a senior back-end engineer to build our decarbonization platform",
-      "link": "https://angel.co/company/sinai-technologies/jobs/925213-senior-backend-software-engineer"
-    },
-    {
-      "rank": "23.",
+      "rank": "17.",
       "title": "Facebook agrees to pay France €106M in back taxes",
       "link": "https://www.bbc.co.uk/news/business-53894959"
     },
     {
-      "rank": "24.",
+      "rank": "18.",
+      "title": "How I helped fix Canadaʼs Covid Alert app",
+      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+    },
+    {
+      "rank": "19.",
+      "title": "Emotional resilience and burnout in leadership",
+      "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
+    },
+    {
+      "rank": "20.",
+      "title": "Journal 2.0: Mental Space for What Matters",
+      "link": "https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a"
+    },
+    {
+      "rank": "21.",
+      "title": "Making money building Shopify micro-SaaS apps",
+      "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
+    },
+    {
+      "rank": "22.",
       "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
       "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+    },
+    {
+      "rank": "23.",
+      "title": "The Computer Chronicles (1983 – 2002)",
+      "link": "https://archive.org/details/Computer_Chronicles"
+    },
+    {
+      "rank": "24.",
+      "title": "Sinai is hiring a senior back-end engineer to build our decarbonization platform",
+      "link": "https://angel.co/company/sinai-technologies/jobs/925213-senior-backend-software-engineer"
     },
     {
       "rank": "25.",
