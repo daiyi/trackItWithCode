@@ -37,48 +37,48 @@
     },
     {
       "rank": "8.",
-      "title": "AWS Controllers for Kubernetes (ACK)",
-      "link": "https://github.com/aws/aws-controllers-k8s"
-    },
-    {
-      "rank": "9.",
-      "title": "Optimal Peanut Butter and Banana Sandwiches",
-      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
-    },
-    {
-      "rank": "10.",
-      "title": "A new botnet is covertly targeting millions of servers",
-      "link": "https://www.wired.com/story/a-new-botnet-is-covertly-targeting-millions-of-servers/"
-    },
-    {
-      "rank": "11.",
-      "title": "Searching for 'VK' shows only a single result on DuckduckGo. Why?",
-      "link": "https://duckduckgo.com/?q=vk"
-    },
-    {
-      "rank": "12.",
-      "title": "Ventoy makes making bootable USB drives easy",
-      "link": "https://github.com/ventoy/Ventoy"
-    },
-    {
-      "rank": "13.",
-      "title": "Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer",
-      "link": "https://www.reverielabs.com/careers"
-    },
-    {
-      "rank": "14.",
-      "title": "How to Write in Plain English",
-      "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
-    },
-    {
-      "rank": "15.",
       "title": "Syllabus for Eric's PhD Students",
       "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
     },
     {
+      "rank": "9.",
+      "title": "Africa declared free of wild polio in 'milestone'",
+      "link": "https://www.bbc.com/news/world-africa-53887947"
+    },
+    {
+      "rank": "10.",
+      "title": "AWS Controllers for Kubernetes (ACK)",
+      "link": "https://github.com/aws/aws-controllers-k8s"
+    },
+    {
+      "rank": "11.",
+      "title": "Optimal Peanut Butter and Banana Sandwiches",
+      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
+    },
+    {
+      "rank": "12.",
+      "title": "Searching for 'VK' shows only a single result on DuckduckGo. Why?",
+      "link": "https://duckduckgo.com/?q=vk"
+    },
+    {
+      "rank": "13.",
+      "title": "A new botnet is covertly targeting millions of servers",
+      "link": "https://www.wired.com/story/a-new-botnet-is-covertly-targeting-millions-of-servers/"
+    },
+    {
+      "rank": "14.",
+      "title": "Reverie Labs (YC W18) Is Hiring Django Devs to Help Cure Cancer",
+      "link": "https://www.reverielabs.com/careers"
+    },
+    {
+      "rank": "15.",
+      "title": "How to Write in Plain English",
+      "link": "http://www.plainenglish.co.uk/how-to-write-in-plain-english.html"
+    },
+    {
       "rank": "16.",
-      "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
-      "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
+      "title": "Topicctl – an easier way to manage Kafka topics",
+      "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
     },
     {
       "rank": "17.",
@@ -87,38 +87,38 @@
     },
     {
       "rank": "18.",
+      "title": "2,000-year-old redwoods survive wildfire at California's oldest state park",
+      "link": "https://www.nbcnews.com/news/us-news/2-000-year-old-redwoods-survive-wildfire-california-s-oldest-n1237949"
+    },
+    {
+      "rank": "19.",
+      "title": "Ventoy makes making bootable USB drives easy",
+      "link": "https://github.com/ventoy/Ventoy"
+    },
+    {
+      "rank": "20.",
       "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
       "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
       "link": "https://github.com/model-zoo/shift-ctrl-f"
     },
     {
-      "rank": "20.",
-      "title": "Topicctl – an easier way to manage Kafka topics",
-      "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
-    },
-    {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Scots language Wikipedia is edited primarily by someone who doesn't know Scots",
       "link": "https://www.reddit.com/r/linguistics/comments/igbbh2/the_scots_language_wikipedia_is_edited_primarily/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "‘Better Yield on 5nm Than 7nm’: TSMC Update on Defect Rates for N5",
       "link": "https://www.anandtech.com/show/16028/better-yield-on-5nm-than-7nm-tsmc-update-on-defect-rates-for-n5"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "The Mathematical Structure of Particle Collisions Comes into View",
       "link": "http://abstractions.nautil.us/article/606/the-mathematical-structure-of-particle-collisions-comes-into-view"
-    },
-    {
-      "rank": "24.",
-      "title": "Africa declared free of wild polio in 'milestone'",
-      "link": "https://www.bbc.com/news/world-africa-53887947"
     },
     {
       "rank": "25.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "What the interns have wrought, 2020 edition",
-      "link": "https://blog.janestreet.com/what-the-interns-have-wrought-2020/"
+      "title": "Amazon is delivering nearly two-thirds of its own packages",
+      "link": "https://www.cnbc.com/2020/08/13/amazon-is-delivering-nearly-two-thirds-of-its-own-packages.html"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Standard Space Habitats",
-      "link": "https://halcanary.org/vv/2020/07/14/3017/"
+      "title": "Show HN: Will It CORS? – an automatic CORS explainer",
+      "link": "http://willitcors.com"
     },
     {
       "rank": "30.",
-      "title": "Show HN: Will It CORS? – an automatic CORS explainer",
-      "link": "http://willitcors.com"
+      "title": "Standard Space Habitats",
+      "link": "https://halcanary.org/vv/2020/07/14/3017/"
     }
   ],
   "metadata": {
