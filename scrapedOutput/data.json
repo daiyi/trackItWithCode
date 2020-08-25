@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "Palantir S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm"
+      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
+      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
     },
     {
       "rank": "3.",
@@ -17,33 +17,33 @@
     },
     {
       "rank": "4.",
-      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
-      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
-    },
-    {
-      "rank": "5.",
       "title": "Syllabus for Eric's PhD Students",
       "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
     },
     {
-      "rank": "6.",
-      "title": "Mux (YC W16) is hiring devs that want to help others build video (remote ok)",
-      "link": "https://mux.com/jobs?hnj=17"
-    },
-    {
-      "rank": "7.",
-      "title": "Japan facing credit card number shortage",
-      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
-    },
-    {
-      "rank": "8.",
+      "rank": "5.",
       "title": "WebBundles harmful to content blocking, security tools, and the open web",
       "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
     },
     {
+      "rank": "6.",
+      "title": "A Chrome feature is creating enormous load on global root DNS servers",
+      "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
+    },
+    {
+      "rank": "7.",
+      "title": "Keeping CALM: When Distributed Consistency Is Easy",
+      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+    },
+    {
+      "rank": "8.",
+      "title": "Signifier – a Brutalist response to 17th century typefaces",
+      "link": "https://klim.co.nz/blog/signifier-design-information/"
+    },
+    {
       "rank": "9.",
-      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
-      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
+      "title": "Mux (YC W16) is hiring devs that want to help others build video (remote ok!)",
+      "link": "https://mux.com/jobs?hnj=17"
     },
     {
       "rank": "10.",
@@ -52,103 +52,103 @@
     },
     {
       "rank": "11.",
-      "title": "Signifier – a Brutalist response to 17th century typefaces",
-      "link": "https://klim.co.nz/blog/signifier-design-information/"
-    },
-    {
-      "rank": "12.",
-      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
-      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
-    },
-    {
-      "rank": "13.",
-      "title": "Keeping CALM: When Distributed Consistency Is Easy",
-      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
-    },
-    {
-      "rank": "14.",
-      "title": "Kindle collects a surprisingly large amount of data",
-      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
-    },
-    {
-      "rank": "15.",
-      "title": "Optimal Peanut Butter and Banana Sandwiches",
-      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
-    },
-    {
-      "rank": "16.",
-      "title": "A Chrome feature is creating enormous load on global root DNS servers",
-      "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
-    },
-    {
-      "rank": "17.",
-      "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
-      "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
-    },
-    {
-      "rank": "18.",
-      "title": "Amazon drops Linux support for generating Kindle ebooks",
-      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
-    },
-    {
-      "rank": "19.",
-      "title": "AWS Controllers for Kubernetes",
-      "link": "https://github.com/aws/aws-controllers-k8s"
-    },
-    {
-      "rank": "20.",
-      "title": "Topicctl – an easier way to manage Kafka topics",
-      "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
-    },
-    {
-      "rank": "21.",
-      "title": "Stone structures in Saudi Arabia may be among oldest monuments in world",
-      "link": "https://www.livescience.com/mysterious-stone-structures-saudi-arabia-oldest.html"
-    },
-    {
-      "rank": "22.",
-      "title": "Firefox Android Build that caused issues is working as intended",
-      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
-    },
-    {
-      "rank": "23.",
       "title": "Alberta government gives green light to Calgary-Edmonton Hyperloop project",
       "link": "https://www.theglobeandmail.com/canada/alberta/article-alberta-government-gives-green-light-to-hyperloop-project/"
     },
     {
+      "rank": "12.",
+      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
+      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
+    },
+    {
+      "rank": "13.",
+      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
+      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
+    },
+    {
+      "rank": "14.",
+      "title": "Japan facing credit card number shortage",
+      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
+    },
+    {
+      "rank": "15.",
+      "title": "Kindle collects a surprisingly large amount of data",
+      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
+    },
+    {
+      "rank": "16.",
+      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
+    },
+    {
+      "rank": "17.",
+      "title": "Palantir S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1321655/000119312520230013/d904406ds1.htm"
+    },
+    {
+      "rank": "18.",
+      "title": "Optimal Peanut Butter and Banana Sandwiches",
+      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
+    },
+    {
+      "rank": "19.",
+      "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
+      "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
+    },
+    {
+      "rank": "20.",
+      "title": "Incident updates, interruptions and the 30 minute window",
+      "link": "https://www.unixdaemon.net/sysadmin/incident-updates-and-interruptions/"
+    },
+    {
+      "rank": "21.",
+      "title": "Amazon drops Linux support for generating Kindle ebooks",
+      "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
+    },
+    {
+      "rank": "22.",
+      "title": "AWS Controllers for Kubernetes",
+      "link": "https://github.com/aws/aws-controllers-k8s"
+    },
+    {
+      "rank": "23.",
+      "title": "Topicctl – an easier way to manage Kafka topics",
+      "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
+    },
+    {
       "rank": "24.",
-      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
-      "link": "https://github.com/model-zoo/shift-ctrl-f"
+      "title": "Tipe raises $2.1M seed round to build a customizable CMS for developers",
+      "link": "https://tipe.io/blog/tipe-raises-seed"
     },
     {
       "rank": "25.",
+      "title": "Stone structures in Saudi Arabia may be among oldest monuments in world",
+      "link": "https://www.livescience.com/mysterious-stone-structures-saudi-arabia-oldest.html"
+    },
+    {
+      "rank": "26.",
+      "title": "Firefox Android Build that caused issues is working as intended",
+      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
+    },
+    {
+      "rank": "27.",
       "title": "Apple ordered to not block Epic’s Unreal Engine, Fortnite to stay off App Store",
       "link": "https://techcrunch.com/2020/08/24/apple-ordered-to-not-block-epic-games-unreal-engine-but-fortnite-to-stay-off-app-store/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
+      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
+      "link": "https://github.com/model-zoo/shift-ctrl-f"
+    },
+    {
+      "rank": "29.",
       "title": "Chrome just got faster with Profile Guided Optimization",
       "link": "https://blog.chromium.org/2020/08/chrome-just-got-faster-with-profile.html"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "Amazon is delivering nearly two-thirds of its own packages",
       "link": "https://www.cnbc.com/2020/08/13/amazon-is-delivering-nearly-two-thirds-of-its-own-packages.html"
-    },
-    {
-      "rank": "28.",
-      "title": "Objective data doesn't go deep enough to engender trust",
-      "link": "https://davidneely.wordpress.com/2020/08/25/objective-data-doesnt-go-deep-enough-to-engender-trust/"
-    },
-    {
-      "rank": "29.",
-      "title": "Origins of Venmo (2014)",
-      "link": "https://kortina.nyc/essays/origins-of-venmo/"
-    },
-    {
-      "rank": "30.",
-      "title": "Going Public Circa 2020; Door #3: The SPAC",
-      "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
     }
   ],
   "metadata": {
