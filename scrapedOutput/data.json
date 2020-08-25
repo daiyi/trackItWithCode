@@ -67,18 +67,18 @@
     },
     {
       "rank": "14.",
-      "title": "The GemRB project celebrates 20 year anniversary with a new release",
-      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
-    },
-    {
-      "rank": "15.",
       "title": "One Year of Nushell",
       "link": "https://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
     },
     {
+      "rank": "15.",
+      "title": "The GemRB project celebrates 20 year anniversary with a new release",
+      "link": "https://gemrb.org/2020/08/24/the-gemrb-project-celebrates-20-year-anniversary-with-a-new-release.html"
+    },
+    {
       "rank": "16.",
-      "title": "Quotes from Moral Mazes (2019)",
-      "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
+      "title": "Coronavirus: Germany puts on crowded concerts to study risks",
+      "link": "https://www.bbc.com/news/world-europe-53875370"
     },
     {
       "rank": "17.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "The Everyday Inspiration for Anna Karenina",
-      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
+      "title": "Quotes from Moral Mazes (2019)",
+      "link": "https://thezvi.wordpress.com/2019/05/30/quotes-from-moral-mazes/"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
+      "title": "The Everyday Inspiration for Anna Karenina",
+      "link": "https://newrepublic.com/article/158973/everyday-inspiration-anna-karenina"
     },
     {
       "rank": "22.",
-      "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
-      "link": "https://github.com/leontrolski/dnjs"
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
     },
     {
       "rank": "23.",
@@ -117,23 +117,23 @@
     },
     {
       "rank": "24.",
+      "title": "Dnjs: A pure subset of JavaScript that wants to replace configuration languages",
+      "link": "https://github.com/leontrolski/dnjs"
+    },
+    {
+      "rank": "25.",
       "title": "US home construction surges 22.6%, third monthly increase",
       "link": "https://abcnews.go.com/Business/wireStory/us-home-construction-surges-226-straight-increase-72440918"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "How I helped fix Canadaʼs Covid Alert app",
       "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
       "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
-    },
-    {
-      "rank": "27.",
-      "title": "Clover: An all-in-one notebook",
-      "link": "https://cloverapp.co/"
     },
     {
       "rank": "28.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "Jensen Huang’s vision for data center dominance may destroy the Arm ecosystem",
-      "link": "https://semianalysis.com/jensen-huangs-vision-for-data-center-dominance-will-destroy-the-arm-ecosystem/"
+      "title": "Clover: An all-in-one notebook",
+      "link": "https://cloverapp.co/"
     },
     {
       "rank": "30.",
