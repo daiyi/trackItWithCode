@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Jaron Lanier on social media",
-      "link": "https://www.gq.com/story/jaron-lanier-tech-oracle-profile"
+      "title": "Unity Software Inc S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
     },
     {
       "rank": "7.",
-      "title": "Unity Software Inc S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm"
+      "title": "Writing an SSDP Directory in Elixir",
+      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
     },
     {
       "rank": "8.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Writing an SSDP Directory in Elixir",
-      "link": "https://quinnwilton.com/blog/writing-an-ssdp-directory-in-elixir"
+      "title": "Jaron Lanier on social media",
+      "link": "https://www.gq.com/story/jaron-lanier-tech-oracle-profile"
     },
     {
       "rank": "10.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
-      "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
+      "title": "‘CSS X’",
+      "link": "https://www.w3.org/blog/2020/03/css-x/"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Journal 2.0: Mental Space for What Matters",
-      "link": "https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a"
+      "title": "Jeffrey Epstein’s Harvard connections show how money can distort research",
+      "link": "https://www.scientificamerican.com/article/jeffrey-epsteins-harvard-connections-show-how-money-can-distort-research/"
     },
     {
       "rank": "16.",
@@ -82,38 +82,38 @@
     },
     {
       "rank": "17.",
-      "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
-      "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
-    },
-    {
-      "rank": "18.",
-      "title": "How I helped fix Canadaʼs Covid Alert app",
-      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
-    },
-    {
-      "rank": "19.",
       "title": "Facebook agrees to pay France €106M in back taxes",
       "link": "https://www.bbc.co.uk/news/business-53894959"
     },
     {
+      "rank": "18.",
+      "title": "Please read the paper before you comment",
+      "link": "https://buttondown.email/hillelwayne/archive/please-read-the-paper-before-you-comment/"
+    },
+    {
+      "rank": "19.",
+      "title": "Journal 2.0: Mental Space for What Matters",
+      "link": "https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a"
+    },
+    {
       "rank": "20.",
-      "title": "‘CSS X’",
-      "link": "https://www.w3.org/blog/2020/03/css-x/"
+      "title": "Bridgefy, the messenger promoted for mass protests, is a privacy disaster",
+      "link": "https://arstechnica.com/features/2020/08/bridgefy-the-app-promoted-for-mass-protests-is-a-privacy-disaster/"
     },
     {
       "rank": "21.",
+      "title": "How I helped fix Canadaʼs Covid Alert app",
+      "link": "https://seancoates.com/blogs/how-i-helped-fix-canadas-covid-alert-app"
+    },
+    {
+      "rank": "22.",
       "title": "Making money building Shopify micro-SaaS apps",
       "link": "https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Emotional resilience and burnout in leadership",
       "link": "https://docs.google.com/document/d/18FfZ86PGA_uSFf425EzKXAmiFQLFBPqjqPN7iu1TZRw/edit?usp=sharing"
-    },
-    {
-      "rank": "23.",
-      "title": "Vitamin D, part 2: Shannon's story",
-      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
     },
     {
       "rank": "24.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "Vitamin D, part 2: Shannon's story",
+      "link": "https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe"
+    },
+    {
+      "rank": "27.",
       "title": "Sinai is hiring a senior back-end engineer to build our decarbonization platform",
       "link": "https://angel.co/company/sinai-technologies/jobs/925213-senior-backend-software-engineer"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "The Computer Chronicles (1983 – 2002)",
       "link": "https://archive.org/details/Computer_Chronicles"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "JavaScript Generators, Meet XPath",
       "link": "https://jack.wrenn.fyi/blog/xpath-for-2020/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Apparatus with Magnets",
       "link": "https://www.notion.so/Apparatus-with-Magnets-Intro-2e32af5b59b64a45b3b203408374a56e"
-    },
-    {
-      "rank": "30.",
-      "title": "Developers are fleeing the Unreal Engine",
-      "link": "https://www.theverge.com/2020/8/24/21399434/epic-vs-apple-lawsuit-fortnite-app-store-monopoly-challenge"
     }
   ],
   "metadata": {
