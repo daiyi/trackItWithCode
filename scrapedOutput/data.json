@@ -22,28 +22,28 @@
     },
     {
       "rank": "5.",
-      "title": "New facts about the leadup to the Beirut explosion",
-      "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
-    },
-    {
-      "rank": "6.",
       "title": "Africa declared free of wild polio",
       "link": "https://www.bbc.com/news/world-africa-53887947"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "You want people to do the right thing? Save them the guilt trip",
       "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "A log/event processing pipeline you can't have (2019)",
       "link": "https://apenwarr.ca/log/20190216"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
       "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
+    },
+    {
+      "rank": "9.",
+      "title": "New facts about the leadup to the Beirut explosion",
+      "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
     },
     {
       "rank": "10.",
@@ -57,53 +57,53 @@
     },
     {
       "rank": "12.",
+      "title": "Understanding DNS: Anatomy of a BIND zone file",
+      "link": "https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/"
+    },
+    {
+      "rank": "13.",
       "title": "The longest train ride in the world",
       "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
       "link": "https://arxiv.org/abs/2008.07647"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Luminar Plans $3.4B Reverse-Merger IPO",
       "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Creating a Common Lisp implementation, part 1 [video]",
       "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
     },
     {
-      "rank": "16.",
-      "title": "YC Software Startups: Value and Initial Programming Language Used",
-      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
-    },
-    {
       "rank": "17.",
-      "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
-      "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
-    },
-    {
-      "rank": "18.",
-      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
-    },
-    {
-      "rank": "19.",
       "title": "Low adoption of features and the sad realization",
       "link": "https://agyam.com/low-adoption-and-sad-realization/"
     },
     {
+      "rank": "18.",
+      "title": "Cat vs. panel heater: which is better?",
+      "link": "https://www.oneroof.co.nz/news/38319"
+    },
+    {
+      "rank": "19.",
+      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
+    },
+    {
       "rank": "20.",
-      "title": "Shrinking a Kotlin Binary by 99.2%",
-      "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
+      "title": "YC Software Startups: Value and Initial Programming Language Used",
+      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
     },
     {
       "rank": "21.",
-      "title": "Cat vs. panel heater: which is better?",
-      "link": "https://www.oneroof.co.nz/news/38319"
+      "title": "Shrinking a Kotlin Binary by 99.2%",
+      "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
     },
     {
       "rank": "22.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "Secure Modular Runtimes",
-      "link": "https://guybedford.com/secure-modular-runtimes.html"
-    },
-    {
-      "rank": "26.",
       "title": "Lightmatter's Mars SoC Bends Light to Process Data",
       "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
-      "rank": "27.",
-      "title": "Use YC's Work at a Startup to apply to hundreds of eng jobs with one application",
-      "link": "https://www.workatastartup.com/"
+      "rank": "26.",
+      "title": "Secure Modular Runtimes",
+      "link": "https://guybedford.com/secure-modular-runtimes.html"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Kindle collects a surprisingly large amount of data",
       "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
       "link": "https://github.com/model-zoo/shift-ctrl-f"
     },
     {
+      "rank": "29.",
+      "title": "Use YC's Work at a Startup to apply to hundreds of eng jobs with one application",
+      "link": "https://www.workatastartup.com/"
+    },
+    {
       "rank": "30.",
-      "title": "Syllabus for Eric's PhD Students",
-      "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
+      "title": "How the Sacklers Shifted $10.8B of Their Opioid Fortune",
+      "link": "https://www.bloomberg.com/graphics/2020-sackler-family-money/"
     }
   ],
   "metadata": {
