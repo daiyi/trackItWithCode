@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
-      "title": "Draft of OCaml Scientific Computing book",
-      "link": "https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book"
-    },
-    {
-      "rank": "4.",
       "title": "Discrete Cosine Transform – Explain Like I'm Five",
       "link": "https://ottverse.com/discrete-cosine-transform-dct-video-compression/"
     },
     {
+      "rank": "4.",
+      "title": "Draft of OCaml Scientific Computing book",
+      "link": "https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book"
+    },
+    {
       "rank": "5.",
-      "title": "Is TDD Dead?",
-      "link": "https://martinfowler.com/articles/is-tdd-dead/"
+      "title": "Understanding DNS: Anatomy of a BIND zone file",
+      "link": "https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/"
     },
     {
       "rank": "6.",
@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "Understanding DNS: Anatomy of a BIND zone file",
-      "link": "https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/"
+      "title": "Is TDD Dead?",
+      "link": "https://martinfowler.com/articles/is-tdd-dead/"
     },
     {
       "rank": "8.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "How the Sacklers Shifted $10.8B of an Opioid Fortune Built on OxyContin",
-      "link": "https://www.bloomberg.com/graphics/2020-sackler-family-money/"
+      "title": "Africa declared free of wild polio",
+      "link": "https://www.bbc.com/news/world-africa-53887947"
     },
     {
       "rank": "10.",
-      "title": "Africa declared free of wild polio",
-      "link": "https://www.bbc.com/news/world-africa-53887947"
+      "title": "How the Sacklers Shifted $10.8B of an Opioid Fortune Built on OxyContin",
+      "link": "https://www.bloomberg.com/graphics/2020-sackler-family-money/"
     },
     {
       "rank": "11.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "A log/event processing pipeline you can't have (2019)",
-      "link": "https://apenwarr.ca/log/20190216"
+      "title": "What happens when you load a URL? (2015)",
+      "link": "https://danluu.com/navigate-url/"
     },
     {
       "rank": "13.",
@@ -67,38 +67,38 @@
     },
     {
       "rank": "14.",
-      "title": "New facts about the leadup to the Beirut explosion",
-      "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
+      "title": "A log/event processing pipeline you can't have (2019)",
+      "link": "https://apenwarr.ca/log/20190216"
     },
     {
       "rank": "15.",
-      "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
-      "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
-    },
-    {
-      "rank": "16.",
       "title": "Heyyyyyyyyyyyy.com",
       "link": "https://heyyyyyyyyyyyy.com/"
     },
     {
+      "rank": "16.",
+      "title": "New facts about the leadup to the Beirut explosion",
+      "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
+    },
+    {
       "rank": "17.",
+      "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
+      "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
+    },
+    {
+      "rank": "18.",
       "title": "Tom Lehrer's Mathematical Songs (1951)",
       "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
       "link": "https://arxiv.org/abs/2008.07647"
     },
     {
-      "rank": "19.",
-      "title": "Low adoption of features and the sad realization",
-      "link": "https://agyam.com/low-adoption-and-sad-realization/"
-    },
-    {
       "rank": "20.",
-      "title": "Creating a Common Lisp implementation, part 1 [video]",
-      "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
+      "title": "YC Software Startups: Value and Initial Programming Language Used",
+      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Cat vs. panel heater: which is better?",
-      "link": "https://www.oneroof.co.nz/news/38319"
+      "title": "Low adoption of features and the sad realization",
+      "link": "https://agyam.com/low-adoption-and-sad-realization/"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "YC Software Startups: Value and Initial Programming Language Used",
-      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
-    },
-    {
-      "rank": "25.",
       "title": "Going Public Circa 2020; Door #3: The SPAC",
       "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
       "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
       "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
       "link": "https://github.com/open-sdr/openwifi"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
       "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Lightmatter's Mars SoC Bends Light to Process Data",
       "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
+    },
+    {
+      "rank": "30.",
+      "title": "Secure Modular Runtimes",
+      "link": "https://guybedford.com/secure-modular-runtimes.html"
     }
   ],
   "metadata": {
