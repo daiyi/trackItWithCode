@@ -2,53 +2,53 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Heyyyyyyyyyyyy.com",
+      "link": "https://heyyyyyyyyyyyy.com/"
+    },
+    {
+      "rank": "2.",
       "title": "Africa declared free of wild polio",
       "link": "https://www.bbc.com/news/world-africa-53887947"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
       "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
       "link": "https://arxiv.org/abs/2008.07647"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Luminar Plans $3.4B Reverse-Merger IPO",
       "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
     },
     {
-      "rank": "5.",
-      "title": "My AI Timelines Have Sped Up",
-      "link": "https://www.alexirpan.com/2020/08/18/ai-timelines.html"
-    },
-    {
       "rank": "6.",
-      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
-      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
-    },
-    {
-      "rank": "7.",
       "title": "You want people to do the right thing? Save them the guilt trip",
       "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
     },
     {
+      "rank": "7.",
+      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
+      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
+    },
+    {
       "rank": "8.",
+      "title": "New facts about the leadup to the Beirut explosion",
+      "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
+    },
+    {
+      "rank": "9.",
       "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
       "link": "https://github.com/open-sdr/openwifi"
     },
     {
-      "rank": "9.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
-    },
-    {
       "rank": "10.",
-      "title": "New facts about the leadup to the Beirut explosion",
-      "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
+      "title": "My AI Timelines Have Sped Up",
+      "link": "https://www.alexirpan.com/2020/08/18/ai-timelines.html"
     },
     {
       "rank": "11.",
@@ -57,58 +57,58 @@
     },
     {
       "rank": "12.",
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
+    },
+    {
+      "rank": "13.",
       "title": "Creating a Common Lisp implementation, part 1 [video]",
       "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Syllabus for Eric's PhD Students",
       "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "A Chrome feature is creating enormous load on global root DNS servers",
       "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "The longest train ride in the world",
       "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Global Mass Surveillance – The Fourteen Eyes",
       "link": "https://www.privacytools.io/providers/#ukusa"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Optimal Peanut Butter and Banana Sandwiches",
       "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Signifier – a Brutalist response to 17th century typefaces",
       "link": "https://klim.co.nz/blog/signifier-design-information/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Cat vs. panel heater: which is better?",
       "link": "https://www.oneroof.co.nz/news/38319"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
       "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
       "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
-    },
-    {
-      "rank": "22.",
-      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
-      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
       "rank": "23.",
@@ -117,23 +117,23 @@
     },
     {
       "rank": "24.",
+      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
+      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
+    },
+    {
+      "rank": "25.",
       "title": "Keeping CALM: When Distributed Consistency Is Easy",
       "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
       "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Firefox Android Build that caused issues is working as intended",
       "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
-    },
-    {
-      "rank": "27.",
-      "title": "AWS Controllers for Kubernetes",
-      "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "WebBundles harmful to content blocking, security tools, and the open web",
-      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
+      "title": "AWS Controllers for Kubernetes",
+      "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
       "rank": "30.",
-      "title": "A Tuna's Worth",
-      "link": "https://www.hakaimagazine.com/features/a-tunas-worth/"
+      "title": "WebBundles harmful to content blocking, security tools, and the open web",
+      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
     }
   ],
   "metadata": {
