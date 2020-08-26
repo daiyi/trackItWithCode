@@ -12,143 +12,143 @@
     },
     {
       "rank": "3.",
+      "title": "Is TDD Dead?",
+      "link": "https://martinfowler.com/articles/is-tdd-dead/"
+    },
+    {
+      "rank": "4.",
       "title": "Understanding DNS: Anatomy of a BIND zone file",
       "link": "https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Hands-on WebAssembly",
       "link": "https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
+      "title": "Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)",
+      "link": "item?id=24281744"
+    },
+    {
+      "rank": "7.",
       "title": "HPC Systems Special Offer: Two A64FX Nodes in a 2U for $40k",
       "link": "https://www.anandtech.com/show/15885/hpc-systems-special-offer-two-a64fx-nodes-in-a-2u-for-40k"
     },
     {
-      "rank": "6.",
-      "title": "You want people to do the right thing? Save them the guilt trip",
+      "rank": "8.",
+      "title": "Want people to do the right thing? Save them the guilt trip",
       "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
     },
     {
-      "rank": "7.",
+      "rank": "9.",
       "title": "Africa declared free of wild polio",
       "link": "https://www.bbc.com/news/world-africa-53887947"
     },
     {
-      "rank": "8.",
+      "rank": "10.",
       "title": "New facts about the leadup to the Beirut explosion",
       "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
     },
     {
-      "rank": "9.",
+      "rank": "11.",
+      "title": "How the Sacklers Shifted $10.8B of an Opioid Fortune Built on OxyContin",
+      "link": "https://www.bloomberg.com/graphics/2020-sackler-family-money/"
+    },
+    {
+      "rank": "12.",
       "title": "A log/event processing pipeline you can't have (2019)",
       "link": "https://apenwarr.ca/log/20190216"
     },
     {
-      "rank": "10.",
+      "rank": "13.",
+      "title": "Boom Supersonic hopes to test-fly its supersonic plane in 2021",
+      "link": "https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html"
+    },
+    {
+      "rank": "14.",
       "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
       "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
     },
     {
-      "rank": "11.",
+      "rank": "15.",
       "title": "Heyyyyyyyyyyyy.com",
       "link": "https://heyyyyyyyyyyyy.com/"
     },
     {
-      "rank": "12.",
-      "title": "How the Sacklers Shifted $10.8B of Their Opioid Fortune",
-      "link": "https://www.bloomberg.com/graphics/2020-sackler-family-money/"
-    },
-    {
-      "rank": "13.",
-      "title": "Tom Lehrer's Mathematical Songs",
-      "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
-    },
-    {
-      "rank": "14.",
-      "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
-      "link": "https://arxiv.org/abs/2008.07647"
-    },
-    {
-      "rank": "15.",
-      "title": "Luminar Plans $3.4B Reverse-Merger IPO",
-      "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
-    },
-    {
       "rank": "16.",
-      "title": "Creating a Common Lisp implementation, part 1 [video]",
-      "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
-    },
-    {
-      "rank": "17.",
-      "title": "Low adoption of features and the sad realization",
-      "link": "https://agyam.com/low-adoption-and-sad-realization/"
-    },
-    {
-      "rank": "18.",
-      "title": "Shrinking a Kotlin Binary by 99.2%",
-      "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
-    },
-    {
-      "rank": "19.",
-      "title": "Cat vs. panel heater: which is better?",
-      "link": "https://www.oneroof.co.nz/news/38319"
-    },
-    {
-      "rank": "20.",
       "title": "YC Software Startups: Value and Initial Programming Language Used",
       "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
     },
     {
+      "rank": "17.",
+      "title": "Tom Lehrer's Mathematical Songs (1951)",
+      "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
+    },
+    {
+      "rank": "18.",
+      "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
+      "link": "https://arxiv.org/abs/2008.07647"
+    },
+    {
+      "rank": "19.",
+      "title": "Luminar Plans $3.4B Reverse-Merger IPO",
+      "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
+    },
+    {
+      "rank": "20.",
+      "title": "Creating a Common Lisp implementation, part 1 [video]",
+      "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
+    },
+    {
       "rank": "21.",
+      "title": "Cat vs. panel heater: which is better?",
+      "link": "https://www.oneroof.co.nz/news/38319"
+    },
+    {
+      "rank": "22.",
+      "title": "Shrinking a Kotlin Binary by 99.2%",
+      "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
+    },
+    {
+      "rank": "23.",
+      "title": "Low adoption of features and the sad realization",
+      "link": "https://agyam.com/low-adoption-and-sad-realization/"
+    },
+    {
+      "rank": "24.",
       "title": "Going Public Circa 2020; Door #3: The SPAC",
       "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
     },
     {
-      "rank": "22.",
+      "rank": "25.",
       "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
       "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     },
     {
-      "rank": "23.",
-      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
-      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
-    },
-    {
-      "rank": "24.",
-      "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
-      "link": "https://github.com/open-sdr/openwifi"
-    },
-    {
-      "rank": "25.",
+      "rank": "26.",
       "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
       "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
     },
     {
-      "rank": "26.",
-      "title": "Secure Modular Runtimes",
-      "link": "https://guybedford.com/secure-modular-runtimes.html"
+      "rank": "27.",
+      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
+      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
+      "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
+      "link": "https://github.com/open-sdr/openwifi"
+    },
+    {
+      "rank": "29.",
       "title": "Lightmatter's Mars SoC Bends Light to Process Data",
       "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
-      "rank": "28.",
-      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
-      "link": "https://github.com/model-zoo/shift-ctrl-f"
-    },
-    {
-      "rank": "29.",
-      "title": "Use YC's Work at a Startup to apply to hundreds of eng jobs with one application",
-      "link": "https://www.workatastartup.com/"
-    },
-    {
       "rank": "30.",
-      "title": "The longest train ride in the world",
-      "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
+      "title": "Secure Modular Runtimes",
+      "link": "https://guybedford.com/secure-modular-runtimes.html"
     }
   ],
   "metadata": {
