@@ -12,68 +12,68 @@
     },
     {
       "rank": "3.",
-      "title": "New facts about the leadup to the Beirut explosion",
-      "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
-    },
-    {
-      "rank": "4.",
-      "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
-      "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
-    },
-    {
-      "rank": "5.",
-      "title": "You want people to do the right thing? Save them the guilt trip",
-      "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
-    },
-    {
-      "rank": "6.",
-      "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
-      "link": "https://arxiv.org/abs/2008.07647"
-    },
-    {
-      "rank": "7.",
-      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
-      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
-    },
-    {
-      "rank": "8.",
-      "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
-      "link": "https://github.com/open-sdr/openwifi"
-    },
-    {
-      "rank": "9.",
-      "title": "Tom Lehrer's Mathematical Songs",
-      "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
-    },
-    {
-      "rank": "10.",
-      "title": "Shrinking a Kotlin Binary by 99.2%",
-      "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
-    },
-    {
-      "rank": "11.",
-      "title": "Heyyyyyyyyyyyy.com",
-      "link": "https://heyyyyyyyyyyyy.com/"
-    },
-    {
-      "rank": "12.",
-      "title": "A log/event processing pipeline you can't have (2019)",
-      "link": "https://apenwarr.ca/log/20190216"
-    },
-    {
-      "rank": "13.",
-      "title": "Luminar Plans $3.4B Reverse-Merger IPO",
-      "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
-    },
-    {
-      "rank": "14.",
       "title": "Hands-on WebAssembly",
       "link": "https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics"
     },
     {
+      "rank": "4.",
+      "title": "New facts about the leadup to the Beirut explosion",
+      "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
+    },
+    {
+      "rank": "5.",
+      "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
+      "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
+    },
+    {
+      "rank": "6.",
+      "title": "You want people to do the right thing? Save them the guilt trip",
+      "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
+    },
+    {
+      "rank": "7.",
+      "title": "Use YC's Work at a Startup to apply to hundreds of eng jobs with one application",
+      "link": "https://www.workatastartup.com/"
+    },
+    {
+      "rank": "8.",
+      "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
+      "link": "https://arxiv.org/abs/2008.07647"
+    },
+    {
+      "rank": "9.",
+      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
+      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
+    },
+    {
+      "rank": "10.",
+      "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
+      "link": "https://github.com/open-sdr/openwifi"
+    },
+    {
+      "rank": "11.",
+      "title": "Tom Lehrer's Mathematical Songs",
+      "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
+    },
+    {
+      "rank": "12.",
+      "title": "Heyyyyyyyyyyyy.com",
+      "link": "https://heyyyyyyyyyyyy.com/"
+    },
+    {
+      "rank": "13.",
+      "title": "A log/event processing pipeline you can't have (2019)",
+      "link": "https://apenwarr.ca/log/20190216"
+    },
+    {
+      "rank": "14.",
+      "title": "Shrinking a Kotlin Binary by 99.2%",
+      "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
+    },
+    {
       "rank": "15.",
-      "title": "Japan facing credit card number shortage",
-      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
+      "title": "Luminar Plans $3.4B Reverse-Merger IPO",
+      "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
     },
     {
       "rank": "16.",
@@ -82,48 +82,48 @@
     },
     {
       "rank": "17.",
+      "title": "Japan facing credit card number shortage",
+      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
+    },
+    {
+      "rank": "18.",
       "title": "The longest train ride in the world",
       "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Creating a Common Lisp implementation, part 1 [video]",
       "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
+      "title": "Rethinking the App Store",
+      "link": "https://stratechery.com/2020/rethinking-the-app-store/"
+    },
+    {
+      "rank": "21.",
       "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
       "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
       "title": "Signifier – a Brutalist response to 17th century typefaces",
       "link": "https://klim.co.nz/blog/signifier-design-information/"
     },
     {
-      "rank": "21.",
-      "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
-      "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
-    },
-    {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Cat vs. panel heater: which is better?",
       "link": "https://www.oneroof.co.nz/news/38319"
     },
     {
-      "rank": "23.",
-      "title": "Secure Modular Runtimes",
-      "link": "https://guybedford.com/secure-modular-runtimes.html"
-    },
-    {
       "rank": "24.",
-      "title": "radEventListener: Client-side Framework Performance",
-      "link": "https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/"
+      "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
+      "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
     },
     {
       "rank": "25.",
-      "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
-      "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
+      "title": "Secure Modular Runtimes",
+      "link": "https://guybedford.com/secure-modular-runtimes.html"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
+      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
+    },
+    {
+      "rank": "28.",
+      "title": "radEventListener: Client-side Framework Performance",
+      "link": "https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/"
+    },
+    {
+      "rank": "29.",
       "title": "Lightmatter's Mars SoC Bends Light to Process Data",
       "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
-      "rank": "28.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
-    },
-    {
-      "rank": "29.",
+      "rank": "30.",
       "title": "AWS Controllers for Kubernetes",
       "link": "https://github.com/aws/aws-controllers-k8s"
-    },
-    {
-      "rank": "30.",
-      "title": "Keeping CALM: When Distributed Consistency Is Easy",
-      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
     }
   ],
   "metadata": {
