@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
-      "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
+      "title": "YC Software Startups: Value and Initial Programming Language Used",
+      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
     },
     {
       "rank": "4.",
-      "title": "YC Software Startups: Value and Initial Programming Language Used",
-      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
+      "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
+      "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
     },
     {
       "rank": "5.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Tom Lehrer's Mathematical Songs",
-      "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
+      "title": "A log/event processing pipeline you can't have (2019)",
+      "link": "https://apenwarr.ca/log/20190216"
     },
     {
       "rank": "10.",
@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
+      "title": "Tom Lehrer's Mathematical Songs",
+      "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
+    },
+    {
+      "rank": "12.",
       "title": "Luminar Plans $3.4B Reverse-Merger IPO",
       "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
     },
     {
-      "rank": "12.",
-      "title": "A log/event processing pipeline you can't have (2019)",
-      "link": "https://apenwarr.ca/log/20190216"
+      "rank": "13.",
+      "title": "Shrinking a Kotlin Binary by 99.2%",
+      "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Japan facing credit card number shortage",
       "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Syllabus for Eric's PhD Students",
       "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
-    },
-    {
-      "rank": "15.",
-      "title": "Shrinking a Kotlin Binary by 99.2%",
-      "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
     },
     {
       "rank": "16.",
@@ -92,23 +92,23 @@
     },
     {
       "rank": "19.",
-      "title": "The Decolonial Atlas",
-      "link": "https://decolonialatlas.wordpress.com/"
-    },
-    {
-      "rank": "20.",
-      "title": "Optimal Peanut Butter and Banana Sandwiches",
-      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
-    },
-    {
-      "rank": "21.",
       "title": "Signifier – a Brutalist response to 17th century typefaces",
       "link": "https://klim.co.nz/blog/signifier-design-information/"
     },
     {
-      "rank": "22.",
+      "rank": "20.",
       "title": "Secure Modular Runtimes",
       "link": "https://guybedford.com/secure-modular-runtimes.html"
+    },
+    {
+      "rank": "21.",
+      "title": "Cat vs. panel heater: which is better?",
+      "link": "https://www.oneroof.co.nz/news/38319"
+    },
+    {
+      "rank": "22.",
+      "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
+      "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
-      "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
+      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
+      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
       "rank": "25.",
-      "title": "Cat vs. panel heater: which is better?",
-      "link": "https://www.oneroof.co.nz/news/38319"
-    },
-    {
-      "rank": "26.",
-      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
-      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
-    },
-    {
-      "rank": "27.",
       "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
       "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
     },
     {
-      "rank": "28.",
+      "rank": "26.",
       "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
       "link": "https://www.tesorio.com/careers#job-openings"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
       "title": "Firefox Android Build that caused issues is working as intended",
       "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
     },
     {
+      "rank": "28.",
+      "title": "AWS Controllers for Kubernetes",
+      "link": "https://github.com/aws/aws-controllers-k8s"
+    },
+    {
+      "rank": "29.",
+      "title": "Keeping CALM: When Distributed Consistency Is Easy",
+      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+    },
+    {
       "rank": "30.",
-      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
-      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
+      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
+      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
     }
   ],
   "metadata": {
