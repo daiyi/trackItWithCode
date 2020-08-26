@@ -2,98 +2,98 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Heyyyyyyyyyyyy.com",
-      "link": "https://heyyyyyyyyyyyy.com/"
-    },
-    {
-      "rank": "2.",
       "title": "Africa declared free of wild polio",
       "link": "https://www.bbc.com/news/world-africa-53887947"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
       "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
       "link": "https://arxiv.org/abs/2008.07647"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Luminar Plans $3.4B Reverse-Merger IPO",
       "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "You want people to do the right thing? Save them the guilt trip",
       "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
       "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "New facts about the leadup to the Beirut explosion",
       "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
       "link": "https://github.com/open-sdr/openwifi"
     },
     {
-      "rank": "10.",
-      "title": "My AI Timelines Have Sped Up",
-      "link": "https://www.alexirpan.com/2020/08/18/ai-timelines.html"
-    },
-    {
-      "rank": "11.",
+      "rank": "9.",
       "title": "Japan facing credit card number shortage",
       "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
     },
     {
-      "rank": "12.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
-    },
-    {
-      "rank": "13.",
+      "rank": "10.",
       "title": "Creating a Common Lisp implementation, part 1 [video]",
       "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
     },
     {
-      "rank": "14.",
+      "rank": "11.",
       "title": "Syllabus for Eric's PhD Students",
       "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
     },
     {
-      "rank": "15.",
+      "rank": "12.",
       "title": "A Chrome feature is creating enormous load on global root DNS servers",
       "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
     },
     {
-      "rank": "16.",
+      "rank": "13.",
+      "title": "My AI Timelines Have Sped Up",
+      "link": "https://www.alexirpan.com/2020/08/18/ai-timelines.html"
+    },
+    {
+      "rank": "14.",
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
+    },
+    {
+      "rank": "15.",
       "title": "The longest train ride in the world",
       "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Global Mass Surveillance – The Fourteen Eyes",
       "link": "https://www.privacytools.io/providers/#ukusa"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Optimal Peanut Butter and Banana Sandwiches",
       "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Signifier – a Brutalist response to 17th century typefaces",
       "link": "https://klim.co.nz/blog/signifier-design-information/"
+    },
+    {
+      "rank": "19.",
+      "title": "A log/event processing pipeline you can't have (2019)",
+      "link": "https://apenwarr.ca/log/20190216"
     },
     {
       "rank": "20.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
-      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
+      "title": "Keeping CALM: When Distributed Consistency Is Easy",
+      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
     },
     {
       "rank": "25.",
-      "title": "Keeping CALM: When Distributed Consistency Is Easy",
-      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
+      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
       "rank": "26.",
