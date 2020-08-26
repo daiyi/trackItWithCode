@@ -12,8 +12,8 @@
     },
     {
       "rank": "3.",
-      "title": "YouTube Alternatives at a Glance",
-      "link": "https://www.ionos.com/digitalguide/online-marketing/social-media/youtube-alternatives-an-overview-of-the-best-portals/"
+      "title": "Learn Vim (the Smart Way) is a book to learn the good parts of Vim",
+      "link": "https://github.com/iggredible/Learn-Vim"
     },
     {
       "rank": "4.",
@@ -27,53 +27,53 @@
     },
     {
       "rank": "6.",
-      "title": "Preparing Our Partners for iOS 14",
-      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
-    },
-    {
-      "rank": "7.",
-      "title": "Learn Vim (the Smart Way) is a book to learn the good parts of Vim",
-      "link": "https://github.com/iggredible/Learn-Vim"
-    },
-    {
-      "rank": "8.",
       "title": "Building a Home Lab Beginners Guide",
       "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
-      "rank": "9.",
+      "rank": "7.",
+      "title": "Preparing Our Partners for iOS 14",
+      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
+    },
+    {
+      "rank": "8.",
       "title": "SEC Modernizes the Accredited Investor Definition",
       "link": "https://www.sec.gov/news/press-release/2020-191"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Axial-DeepLab: Long-Range Modeling in All Layers for Panoptic Segmentation",
       "link": "https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Is TDD Dead? (2014)",
       "link": "https://martinfowler.com/articles/is-tdd-dead/"
     },
     {
-      "rank": "12.",
-      "title": "Jacksonpollock.org (2003)",
-      "link": "https://jacksonpollock.org/"
-    },
-    {
-      "rank": "13.",
-      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
-      "link": "https://www.rarlab.com/revoked591.html"
-    },
-    {
-      "rank": "14.",
+      "rank": "11.",
       "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
       "link": "https://bennettfeely.com/ztext/"
     },
     {
-      "rank": "15.",
+      "rank": "12.",
+      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
+      "link": "https://www.rarlab.com/revoked591.html"
+    },
+    {
+      "rank": "13.",
+      "title": "Jacksonpollock.org (2003)",
+      "link": "https://jacksonpollock.org/"
+    },
+    {
+      "rank": "14.",
       "title": "First tax year with Stripe Atlas",
       "link": "https://tryhexadecimal.com/journal/business-taxes"
+    },
+    {
+      "rank": "15.",
+      "title": "YouTube Alternatives at a Glance",
+      "link": "https://www.ionos.com/digitalguide/online-marketing/social-media/youtube-alternatives-an-overview-of-the-best-portals/"
     },
     {
       "rank": "16.",
@@ -82,23 +82,23 @@
     },
     {
       "rank": "17.",
-      "title": "Kubernetes 1.19",
-      "link": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md"
-    },
-    {
-      "rank": "18.",
       "title": "New planets confirmed in machine learning first",
       "link": "https://phys.org/news/2020-08-planets-machine.html"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "SATCON1 Report on Impact of Satellite Constellations on Astronomy",
       "link": "https://noirlab.edu/public/products/techdocs/techdoc003/"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "What happens when you load a URL? (2015)",
       "link": "https://danluu.com/navigate-url/"
+    },
+    {
+      "rank": "20.",
+      "title": "Kubernetes 1.19",
+      "link": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md"
     },
     {
       "rank": "21.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
-      "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
+      "title": "Talk to Your Data: One Model, Any Relational Database",
+      "link": "https://blog.einstein.ai/talk-to-your-data-one-model-any-database/"
     },
     {
       "rank": "26.",
-      "title": "Talk to Your Data: One Model, Any Relational Database",
-      "link": "https://blog.einstein.ai/talk-to-your-data-one-model-any-database/"
+      "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
+      "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
     },
     {
       "rank": "27.",
