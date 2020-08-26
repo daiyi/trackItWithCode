@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "radEventListener: Client-side Framework Performance",
-      "link": "https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/"
+      "title": "Japan facing credit card number shortage",
+      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
     },
     {
       "rank": "10.",
-      "title": "Japan facing credit card number shortage",
-      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
+      "title": "radEventListener: Client-side Framework Performance",
+      "link": "https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/"
     },
     {
       "rank": "11.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Global Mass Surveillance – The Fourteen Eyes",
-      "link": "https://www.privacytools.io/providers/#ukusa"
+      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     },
     {
       "rank": "15.",
-      "title": "A log/event processing pipeline you can't have (2019)",
-      "link": "https://apenwarr.ca/log/20190216"
+      "title": "Global Mass Surveillance – The Fourteen Eyes",
+      "link": "https://www.privacytools.io/providers/#ukusa"
     },
     {
       "rank": "16.",
@@ -82,73 +82,73 @@
     },
     {
       "rank": "17.",
-      "title": "Signifier – a Brutalist response to 17th century typefaces",
-      "link": "https://klim.co.nz/blog/signifier-design-information/"
-    },
-    {
-      "rank": "18.",
       "title": "Cat vs. panel heater: which is better?",
       "link": "https://www.oneroof.co.nz/news/38319"
     },
     {
+      "rank": "18.",
+      "title": "A log/event processing pipeline you can't have (2019)",
+      "link": "https://apenwarr.ca/log/20190216"
+    },
+    {
       "rank": "19.",
-      "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
-      "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
+      "title": "Signifier – a Brutalist response to 17th century typefaces",
+      "link": "https://klim.co.nz/blog/signifier-design-information/"
     },
     {
       "rank": "20.",
+      "title": "Secure Modular Runtimes",
+      "link": "https://guybedford.com/secure-modular-runtimes.html"
+    },
+    {
+      "rank": "21.",
       "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
       "link": "https://www.tesorio.com/careers#job-openings"
     },
     {
-      "rank": "21.",
-      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
-      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
-    },
-    {
       "rank": "22.",
-      "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
-      "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
-    },
-    {
-      "rank": "23.",
       "title": "Tom Lehrer's Mathematical Songs",
       "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
     },
     {
+      "rank": "23.",
+      "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
+      "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
+    },
+    {
       "rank": "24.",
+      "title": "Shrinking a Kotlin Binary by 99.2%",
+      "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
+    },
+    {
+      "rank": "25.",
+      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
+      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
+    },
+    {
+      "rank": "26.",
+      "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
+      "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
+    },
+    {
+      "rank": "27.",
       "title": "Keeping CALM: When Distributed Consistency Is Easy",
       "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
     },
     {
-      "rank": "25.",
-      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
-      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
-    },
-    {
-      "rank": "26.",
-      "title": "Firefox Android Build that caused issues is working as intended",
-      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
-    },
-    {
-      "rank": "27.",
-      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
-      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
-    },
-    {
       "rank": "28.",
-      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
-    },
-    {
-      "rank": "29.",
       "title": "AWS Controllers for Kubernetes",
       "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
+      "rank": "29.",
+      "title": "Firefox Android Build that caused issues is working as intended",
+      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
+    },
+    {
       "rank": "30.",
-      "title": "WebBundles harmful to content blocking, security tools, and the open web",
-      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
+      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
+      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     }
   ],
   "metadata": {
