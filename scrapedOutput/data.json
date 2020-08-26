@@ -47,33 +47,33 @@
     },
     {
       "rank": "10.",
-      "title": "Is TDD Dead? (2014)",
-      "link": "https://martinfowler.com/articles/is-tdd-dead/"
-    },
-    {
-      "rank": "11.",
       "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
       "link": "https://bennettfeely.com/ztext/"
     },
     {
-      "rank": "12.",
-      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
-      "link": "https://www.rarlab.com/revoked591.html"
+      "rank": "11.",
+      "title": "Is TDD Dead? (2014)",
+      "link": "https://martinfowler.com/articles/is-tdd-dead/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Jacksonpollock.org (2003)",
       "link": "https://jacksonpollock.org/"
     },
     {
+      "rank": "13.",
+      "title": "First tax year with Stripe Atlas",
+      "link": "https://tryhexadecimal.com/journal/business-taxes"
+    },
+    {
       "rank": "14.",
-      "title": "New planets confirmed in machine learning first",
-      "link": "https://phys.org/news/2020-08-planets-machine.html"
+      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
+      "link": "https://www.rarlab.com/revoked591.html"
     },
     {
       "rank": "15.",
-      "title": "First tax year with Stripe Atlas",
-      "link": "https://tryhexadecimal.com/journal/business-taxes"
+      "title": "New planets confirmed in machine learning first",
+      "link": "https://phys.org/news/2020-08-planets-machine.html"
     },
     {
       "rank": "16.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Kubernetes 1.19",
-      "link": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md"
+      "title": "GNU tar blocking factor, blocks, records and checkpoints",
+      "link": "https://finch.am/projects/tar/"
     },
     {
       "rank": "21.",
-      "title": "Lucid Air EV’s Battery Will Be 113.0 KWh",
-      "link": "https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/"
+      "title": "The Monolith That Breaks Up Itself",
+      "link": "https://medium.com/rebellion-defense/the-monolith-that-breaks-up-itself-c9513c732367"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
+      "title": "Kubernetes 1.19",
+      "link": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md"
+    },
+    {
+      "rank": "24.",
+      "title": "Lucid Air EV’s Battery Will Be 113.0 KWh",
+      "link": "https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/"
+    },
+    {
+      "rank": "25.",
       "title": "Boom Supersonic hopes to test-fly its supersonic plane in 2021",
       "link": "https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html"
     },
     {
-      "rank": "24.",
-      "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
-      "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
-    },
-    {
-      "rank": "25.",
-      "title": "Talk to Your Data: One Model, Any Relational Database",
-      "link": "https://blog.einstein.ai/talk-to-your-data-one-model-any-database/"
-    },
-    {
       "rank": "26.",
-      "title": "Draft of OCaml Scientific Computing book",
-      "link": "https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book"
-    },
-    {
-      "rank": "27.",
       "title": "Abstracting Abstract Machines (2010) [pdf]",
       "link": "http://matt.might.net/papers/vanhorn2010abstract.pdf"
     },
     {
-      "rank": "28.",
-      "title": "How to not fear your death: An Epicurean perspective",
-      "link": "https://psyche.co/guides/how-to-use-philosophy-to-overcome-the-fear-of-your-own-death"
+      "rank": "27.",
+      "title": "Talk to Your Data: One Model, Any Relational Database",
+      "link": "https://blog.einstein.ai/talk-to-your-data-one-model-any-database/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Jetpack Compose Alpha is released",
       "link": "https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html"
     },
     {
+      "rank": "29.",
+      "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
+      "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
+    },
+    {
       "rank": "30.",
-      "title": "Portland passes low-density zoning reform",
-      "link": "https://www.sightline.org/2020/08/11/on-wednesday-portland-will-pass-the-best-low-density-zoning-reform-in-us-history/"
+      "title": "Draft of OCaml Scientific Computing book",
+      "link": "https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book"
     }
   ],
   "metadata": {
