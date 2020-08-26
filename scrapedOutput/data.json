@@ -17,23 +17,23 @@
     },
     {
       "rank": "4.",
+      "title": "YC Software Startups: Value and Initial Programming Language Used",
+      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
+    },
+    {
+      "rank": "5.",
       "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
       "link": "https://arxiv.org/abs/2008.07647"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "You want people to do the right thing? Save them the guilt trip",
       "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
       "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
-    },
-    {
-      "rank": "7.",
-      "title": "Luminar Plans $3.4B Reverse-Merger IPO",
-      "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
     },
     {
       "rank": "8.",
@@ -42,93 +42,93 @@
     },
     {
       "rank": "9.",
-      "title": "Heyyyyyyyyyyyy.com",
-      "link": "https://heyyyyyyyyyyyy.com/"
+      "title": "Luminar Plans $3.4B Reverse-Merger IPO",
+      "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
     },
     {
       "rank": "10.",
-      "title": "Wargaming exercise predicted the past few months of 2020 presidential race",
-      "link": "https://www.cbc.ca/radio/day6/wargaming-the-u-s-election-outcome-the-grey-cup-s-battered-history-tomboys-befriending-mr-rogers-and-more-1.5693504/how-a-wargaming-exercise-predicted-the-past-few-months-of-the-2020-presidential-race-1.5693527"
-    },
-    {
-      "rank": "11.",
       "title": "Tom Lehrer's Mathematical Songs",
       "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
     },
     {
-      "rank": "12.",
-      "title": "Japan facing credit card number shortage",
-      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
+      "rank": "11.",
+      "title": "Heyyyyyyyyyyyy.com",
+      "link": "https://heyyyyyyyyyyyy.com/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "A log/event processing pipeline you can't have (2019)",
       "link": "https://apenwarr.ca/log/20190216"
     },
     {
-      "rank": "14.",
-      "title": "Syllabus for Eric's PhD Students",
-      "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
-    },
-    {
-      "rank": "15.",
-      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
-    },
-    {
-      "rank": "16.",
-      "title": "Creating a Common Lisp implementation, part 1 [video]",
-      "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
-    },
-    {
-      "rank": "17.",
-      "title": "The longest train ride in the world",
-      "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
-    },
-    {
-      "rank": "18.",
-      "title": "radEventListener: Client-side Framework Performance",
-      "link": "https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/"
-    },
-    {
-      "rank": "19.",
+      "rank": "13.",
       "title": "Shrinking a Kotlin Binary by 99.2%",
       "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
     },
     {
-      "rank": "20.",
-      "title": "Optimal Peanut Butter and Banana Sandwiches",
-      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
+      "rank": "14.",
+      "title": "Japan facing credit card number shortage",
+      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
     },
     {
-      "rank": "21.",
+      "rank": "15.",
+      "title": "Syllabus for Eric's PhD Students",
+      "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
+    },
+    {
+      "rank": "16.",
+      "title": "The longest train ride in the world",
+      "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
+    },
+    {
+      "rank": "17.",
+      "title": "Creating a Common Lisp implementation, part 1 [video]",
+      "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
+    },
+    {
+      "rank": "18.",
+      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
+    },
+    {
+      "rank": "19.",
       "title": "Secure Modular Runtimes",
       "link": "https://guybedford.com/secure-modular-runtimes.html"
     },
     {
-      "rank": "22.",
-      "title": "Cat vs. panel heater: which is better?",
-      "link": "https://www.oneroof.co.nz/news/38319"
+      "rank": "20.",
+      "title": "radEventListener: Client-side Framework Performance",
+      "link": "https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
+      "title": "Optimal Peanut Butter and Banana Sandwiches",
+      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
+    },
+    {
+      "rank": "22.",
       "title": "Signifier – a Brutalist response to 17th century typefaces",
       "link": "https://klim.co.nz/blog/signifier-design-information/"
     },
     {
-      "rank": "24.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
-    },
-    {
-      "rank": "25.",
+      "rank": "23.",
       "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
       "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
     },
     {
-      "rank": "26.",
+      "rank": "24.",
+      "title": "Cat vs. panel heater: which is better?",
+      "link": "https://www.oneroof.co.nz/news/38319"
+    },
+    {
+      "rank": "25.",
       "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
       "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
+    },
+    {
+      "rank": "26.",
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
     },
     {
       "rank": "27.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "AWS Controllers for Kubernetes",
-      "link": "https://github.com/aws/aws-controllers-k8s"
+      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
+      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
       "rank": "30.",
-      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
-      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
+      "title": "AWS Controllers for Kubernetes",
+      "link": "https://github.com/aws/aws-controllers-k8s"
     }
   ],
   "metadata": {
