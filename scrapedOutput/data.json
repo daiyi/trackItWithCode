@@ -7,68 +7,68 @@
     },
     {
       "rank": "2.",
-      "title": "New Racket Language Website",
-      "link": "https://racket-lang.org/"
-    },
-    {
-      "rank": "3.",
-      "title": "Preparing Our Partners for iOS 14",
-      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
-    },
-    {
-      "rank": "4.",
-      "title": "SEC Modernizes the Accredited Investor Definition",
-      "link": "https://www.sec.gov/news/press-release/2020-191"
-    },
-    {
-      "rank": "5.",
-      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
-      "link": "https://www.rarlab.com/revoked591.html"
-    },
-    {
-      "rank": "6.",
-      "title": "Is TDD Dead? (2014)",
-      "link": "https://martinfowler.com/articles/is-tdd-dead/"
-    },
-    {
-      "rank": "7.",
-      "title": "How to not fear your death: An Epicurean perspective",
-      "link": "https://psyche.co/guides/how-to-use-philosophy-to-overcome-the-fear-of-your-own-death"
-    },
-    {
-      "rank": "8.",
-      "title": "Jacksonpollock.org (2003)",
-      "link": "https://jacksonpollock.org/"
-    },
-    {
-      "rank": "9.",
-      "title": "First tax year with Stripe Atlas",
-      "link": "https://tryhexadecimal.com/journal/business-taxes"
-    },
-    {
-      "rank": "10.",
-      "title": "SATCON1 Report on Impact of Satellite Constellations on Astronomy",
-      "link": "https://noirlab.edu/public/products/techdocs/techdoc003/"
-    },
-    {
-      "rank": "11.",
-      "title": "Jacques Cousteau’s grandson wants to build the ISS of the sea",
-      "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
-    },
-    {
-      "rank": "12.",
       "title": "MixedName – Bilingual baby name finder",
       "link": "https://mixedname.com/"
     },
     {
+      "rank": "3.",
+      "title": "New Racket Language Website",
+      "link": "https://racket-lang.org/"
+    },
+    {
+      "rank": "4.",
+      "title": "Preparing Our Partners for iOS 14",
+      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
+    },
+    {
+      "rank": "5.",
+      "title": "Kubernetes 1.19.0 released",
+      "link": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md"
+    },
+    {
+      "rank": "6.",
+      "title": "SEC Modernizes the Accredited Investor Definition",
+      "link": "https://www.sec.gov/news/press-release/2020-191"
+    },
+    {
+      "rank": "7.",
+      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
+      "link": "https://www.rarlab.com/revoked591.html"
+    },
+    {
+      "rank": "8.",
+      "title": "Is TDD Dead? (2014)",
+      "link": "https://martinfowler.com/articles/is-tdd-dead/"
+    },
+    {
+      "rank": "9.",
+      "title": "Jacksonpollock.org (2003)",
+      "link": "https://jacksonpollock.org/"
+    },
+    {
+      "rank": "10.",
+      "title": "First tax year with Stripe Atlas",
+      "link": "https://tryhexadecimal.com/journal/business-taxes"
+    },
+    {
+      "rank": "11.",
+      "title": "SATCON1 Report on Impact of Satellite Constellations on Astronomy",
+      "link": "https://noirlab.edu/public/products/techdocs/techdoc003/"
+    },
+    {
+      "rank": "12.",
+      "title": "Jacques Cousteau’s grandson wants to build the ISS of the sea",
+      "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
+    },
+    {
       "rank": "13.",
-      "title": "What happens when you load a URL? (2015)",
-      "link": "https://danluu.com/navigate-url/"
+      "title": "Scientists who never won a Nobel Prize",
+      "link": "https://www.wondersofphysics.com/2019/01/scientists-who-never-won.html"
     },
     {
       "rank": "14.",
-      "title": "Scientists who never won a Nobel Prize",
-      "link": "https://www.wondersofphysics.com/2019/01/scientists-who-never-won.html"
+      "title": "What happens when you load a URL? (2015)",
+      "link": "https://danluu.com/navigate-url/"
     },
     {
       "rank": "15.",
@@ -87,18 +87,18 @@
     },
     {
       "rank": "18.",
+      "title": "SSH Keygen – RSA, DSA, Ecdsa, EdDSA",
+      "link": "https://gravitational.com/blog/comparing-ssh-keys/"
+    },
+    {
+      "rank": "19.",
       "title": "Talk to Your Data: One Model, Any Relational Database",
       "link": "https://blog.einstein.ai/talk-to-your-data-one-model-any-database/"
     },
     {
-      "rank": "19.",
-      "title": "What archaeology tells us about the music and sounds made by Africa’s ancestors",
-      "link": "https://theconversation.com/what-archaeology-tells-us-about-the-music-and-sounds-made-by-africas-ancestors-143809"
-    },
-    {
       "rank": "20.",
-      "title": "1930s Household Refrigerators (2013)",
-      "link": "https://musingsonentropy.com/2013/04/04/1930s-household-refrigerators/"
+      "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
+      "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
-      "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
+      "title": "1930s Household Refrigerators (2013)",
+      "link": "https://musingsonentropy.com/2013/04/04/1930s-household-refrigerators/"
     },
     {
       "rank": "23.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
-      "title": "SSH Keygen – RSA, DSA, Ecdsa, EdDSA",
-      "link": "https://gravitational.com/blog/comparing-ssh-keys/"
+      "title": "What archaeology tells us about the music and sounds made by Africa’s ancestors",
+      "link": "https://theconversation.com/what-archaeology-tells-us-about-the-music-and-sounds-made-by-africas-ancestors-143809"
     },
     {
       "rank": "25.",
-      "title": "Hands-on WebAssembly",
-      "link": "https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics"
+      "title": "Jetpack Compose Alpha is released",
+      "link": "https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html"
     },
     {
       "rank": "26.",
-      "title": "Jetpack Compose Alpha is released",
-      "link": "https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html"
+      "title": "Hands-on WebAssembly",
+      "link": "https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Show HN: Lulim Jewelry – Design and 3D print your own custom wedding band",
-      "link": "https://lulimjewelry.com"
-    },
-    {
-      "rank": "29.",
       "title": "Rethinking the App Store",
       "link": "https://stratechery.com/2020/rethinking-the-app-store/"
     },
     {
+      "rank": "29.",
+      "title": "SS7 cellular network flaw being exploited to drain bank accounts",
+      "link": "https://www.techdirt.com/articles/20190131/10492341502/ss7-cellular-network-flaw-nobody-wants-to-fix-now-being-exploited-to-drain-bank-accounts.shtml"
+    },
+    {
       "rank": "30.",
-      "title": "Jerry (S17) is hiring Senior Software Engineer (Toronto; SF Bay Area; Boston)",
-      "link": "https://apply.workable.com/jerry/j/8BA6CA0004/"
+      "title": "Show HN: Lulim Jewelry – Design and 3D print your own custom wedding band",
+      "link": "https://lulimjewelry.com"
     }
   ],
   "metadata": {
