@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
+      "title": "HPC Systems Special Offer: Two A64FX Nodes in a 2U for $40k",
+      "link": "https://www.anandtech.com/show/15885/hpc-systems-special-offer-two-a64fx-nodes-in-a-2u-for-40k"
+    },
+    {
+      "rank": "4.",
       "title": "Hands-on WebAssembly",
       "link": "https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Africa declared free of wild polio",
       "link": "https://www.bbc.com/news/world-africa-53887947"
-    },
-    {
-      "rank": "5.",
-      "title": "HPC Systems Special Offer: Two A64FX Nodes in a 2U for $40k",
-      "link": "https://www.anandtech.com/show/15885/hpc-systems-special-offer-two-a64fx-nodes-in-a-2u-for-40k"
     },
     {
       "rank": "6.",
@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "A log/event processing pipeline you can't have (2019)",
-      "link": "https://apenwarr.ca/log/20190216"
+      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
+      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
     },
     {
       "rank": "8.",
@@ -42,18 +42,18 @@
     },
     {
       "rank": "9.",
-      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
-      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
+      "title": "A log/event processing pipeline you can't have (2019)",
+      "link": "https://apenwarr.ca/log/20190216"
     },
     {
       "rank": "10.",
-      "title": "Heyyyyyyyyyyyy.com",
-      "link": "https://heyyyyyyyyyyyy.com/"
+      "title": "Tom Lehrer's Mathematical Songs",
+      "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
     },
     {
       "rank": "11.",
-      "title": "Tom Lehrer's Mathematical Songs",
-      "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
+      "title": "Heyyyyyyyyyyyy.com",
+      "link": "https://heyyyyyyyyyyyy.com/"
     },
     {
       "rank": "12.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Going Public Circa 2020; Door #3: The SPAC",
-      "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
+      "title": "Low adoption of features and the sad realization",
+      "link": "https://agyam.com/low-adoption-and-sad-realization/"
     },
     {
       "rank": "18.",
-      "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
-      "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
+      "title": "Cat vs. panel heater: which is better?",
+      "link": "https://www.oneroof.co.nz/news/38319"
     },
     {
       "rank": "19.",
@@ -97,43 +97,43 @@
     },
     {
       "rank": "20.",
-      "title": "Cat vs. panel heater: which is better?",
-      "link": "https://www.oneroof.co.nz/news/38319"
+      "title": "Going Public Circa 2020; Door #3: The SPAC",
+      "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
     },
     {
       "rank": "21.",
+      "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
+      "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
+    },
+    {
+      "rank": "22.",
       "title": "Use YC's Work at a Startup to apply to hundreds of eng jobs with one application",
       "link": "https://www.workatastartup.com/"
     },
     {
-      "rank": "22.",
-      "title": "Firefox Android Build that caused issues is working as intended",
-      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
+      "rank": "23.",
+      "title": "Draft of OCaml Scientific Computing book",
+      "link": "https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Shrinking a Kotlin Binary by 99.2%",
       "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
     },
     {
-      "rank": "24.",
-      "title": "Low adoption of features and the sad realization",
-      "link": "https://agyam.com/low-adoption-and-sad-realization/"
+      "rank": "25.",
+      "title": "Firefox Android Build that caused issues is working as intended",
+      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Secure Modular Runtimes",
       "link": "https://guybedford.com/secure-modular-runtimes.html"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
       "link": "https://github.com/open-sdr/openwifi"
-    },
-    {
-      "rank": "27.",
-      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
-      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Keeping CALM: When Distributed Consistency Is Easy",
-      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
+      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
       "rank": "30.",
-      "title": "Rethinking the App Store",
-      "link": "https://stratechery.com/2020/rethinking-the-app-store/"
+      "title": "Keeping CALM: When Distributed Consistency Is Easy",
+      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
     }
   ],
   "metadata": {
