@@ -17,18 +17,18 @@
     },
     {
       "rank": "4.",
-      "title": "SEC Modernizes the Accredited Investor Definition",
-      "link": "https://www.sec.gov/news/press-release/2020-191"
-    },
-    {
-      "rank": "5.",
       "title": "First tax year with Stripe Atlas",
       "link": "https://tryhexadecimal.com/journal/business-taxes"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Jacques Cousteau’s grandson wants to build the ISS of the sea",
       "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
+    },
+    {
+      "rank": "6.",
+      "title": "SEC Modernizes the Accredited Investor Definition",
+      "link": "https://www.sec.gov/news/press-release/2020-191"
     },
     {
       "rank": "7.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Preparing Our Partners for iOS 14",
-      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
+      "title": "Top Greatest Scientists Who Never Won a Nobel Prize",
+      "link": "https://www.wondersofphysics.com/2019/01/scientists-who-never-won.html"
     },
     {
       "rank": "9.",
@@ -47,53 +47,53 @@
     },
     {
       "rank": "10.",
-      "title": "Lucid Air EV’s Battery Will Be 113.0 KWh",
-      "link": "https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/"
-    },
-    {
-      "rank": "11.",
       "title": "Boom Supersonic hopes to test-fly its supersonic plane in 2021",
       "link": "https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html"
     },
     {
+      "rank": "11.",
+      "title": "Lucid Air EV’s Battery Will Be 113.0 KWh",
+      "link": "https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/"
+    },
+    {
       "rank": "12.",
-      "title": "Portland passes low-density zoning reform",
-      "link": "https://www.sightline.org/2020/08/11/on-wednesday-portland-will-pass-the-best-low-density-zoning-reform-in-us-history/"
-    },
-    {
-      "rank": "13.",
-      "title": "Top Greatest Scientists Who Never Won a Nobel Prize",
-      "link": "https://www.wondersofphysics.com/2019/01/scientists-who-never-won.html"
-    },
-    {
-      "rank": "14.",
       "title": "1930s Household Refrigerators (2013)",
       "link": "https://musingsonentropy.com/2013/04/04/1930s-household-refrigerators/"
     },
     {
-      "rank": "15.",
+      "rank": "13.",
+      "title": "Portland passes low-density zoning reform",
+      "link": "https://www.sightline.org/2020/08/11/on-wednesday-portland-will-pass-the-best-low-density-zoning-reform-in-us-history/"
+    },
+    {
+      "rank": "14.",
       "title": "How to not fear your death: An Epicurean perspective",
       "link": "https://psyche.co/guides/how-to-use-philosophy-to-overcome-the-fear-of-your-own-death"
     },
     {
-      "rank": "16.",
-      "title": "Jetpack Compose Alpha is released",
-      "link": "https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html"
-    },
-    {
-      "rank": "17.",
+      "rank": "15.",
       "title": "Talk to Your Data: One Model, Any Relational Database",
       "link": "https://blog.einstein.ai/talk-to-your-data-one-model-any-database/"
     },
     {
-      "rank": "18.",
+      "rank": "16.",
+      "title": "Preparing Our Partners for iOS 14",
+      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
+    },
+    {
+      "rank": "17.",
       "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
       "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Draft of OCaml Scientific Computing book",
       "link": "https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book"
+    },
+    {
+      "rank": "19.",
+      "title": "Jetpack Compose Alpha is released",
+      "link": "https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html"
     },
     {
       "rank": "20.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
+      "link": "https://www.rarlab.com/revoked591.html"
+    },
+    {
+      "rank": "29.",
       "title": "Jacksonpollock.org (2003)",
       "link": "https://jacksonpollock.org/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "How the Sacklers shifted $10.8B of an opioid fortune built on OxyContin",
       "link": "https://www.bloomberg.com/graphics/2020-sackler-family-money/"
-    },
-    {
-      "rank": "30.",
-      "title": "A log/event processing pipeline you can't have (2019)",
-      "link": "https://apenwarr.ca/log/20190216"
     }
   ],
   "metadata": {
