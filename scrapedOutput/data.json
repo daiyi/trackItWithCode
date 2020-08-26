@@ -17,138 +17,138 @@
     },
     {
       "rank": "4.",
-      "title": "New Racket Language Website",
-      "link": "https://racket-lang.org/"
-    },
-    {
-      "rank": "5.",
       "title": "Willscott/go-NFS: Golang NFSv3 server",
       "link": "https://github.com/willscott/go-nfs/"
     },
     {
-      "rank": "6.",
-      "title": "Building a Home Lab Beginners Guide",
-      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
+      "rank": "5.",
+      "title": "New Racket Language Website",
+      "link": "https://racket-lang.org/"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Preparing Our Partners for iOS 14",
       "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
     },
     {
+      "rank": "7.",
+      "title": "Learn Vim (the Smart Way) is a book to learn the good parts of Vim",
+      "link": "https://github.com/iggredible/Learn-Vim"
+    },
+    {
       "rank": "8.",
+      "title": "Building a Home Lab Beginners Guide",
+      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
+    },
+    {
+      "rank": "9.",
       "title": "SEC Modernizes the Accredited Investor Definition",
       "link": "https://www.sec.gov/news/press-release/2020-191"
     },
     {
-      "rank": "9.",
-      "title": "Jacksonpollock.org (2003)",
-      "link": "https://jacksonpollock.org/"
-    },
-    {
       "rank": "10.",
-      "title": "Is TDD Dead? (2014)",
-      "link": "https://martinfowler.com/articles/is-tdd-dead/"
-    },
-    {
-      "rank": "11.",
-      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
-      "link": "https://www.rarlab.com/revoked591.html"
-    },
-    {
-      "rank": "12.",
-      "title": "First tax year with Stripe Atlas",
-      "link": "https://tryhexadecimal.com/journal/business-taxes"
-    },
-    {
-      "rank": "13.",
-      "title": "Kubernetes 1.19",
-      "link": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md"
-    },
-    {
-      "rank": "14.",
-      "title": "Jacques Cousteau’s grandson wants to build the ISS of the sea",
-      "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
-    },
-    {
-      "rank": "15.",
       "title": "Axial-DeepLab: Long-Range Modeling in All Layers for Panoptic Segmentation",
       "link": "https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html"
     },
     {
-      "rank": "16.",
+      "rank": "11.",
+      "title": "Is TDD Dead? (2014)",
+      "link": "https://martinfowler.com/articles/is-tdd-dead/"
+    },
+    {
+      "rank": "12.",
+      "title": "Jacksonpollock.org (2003)",
+      "link": "https://jacksonpollock.org/"
+    },
+    {
+      "rank": "13.",
+      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
+      "link": "https://www.rarlab.com/revoked591.html"
+    },
+    {
+      "rank": "14.",
       "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
       "link": "https://bennettfeely.com/ztext/"
     },
     {
+      "rank": "15.",
+      "title": "First tax year with Stripe Atlas",
+      "link": "https://tryhexadecimal.com/journal/business-taxes"
+    },
+    {
+      "rank": "16.",
+      "title": "Jacques Cousteau’s grandson wants to build the ISS of the sea",
+      "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
+    },
+    {
       "rank": "17.",
-      "title": "SSH Keygen – RSA, DSA, Ecdsa, EdDSA",
-      "link": "https://gravitational.com/blog/comparing-ssh-keys/"
+      "title": "Kubernetes 1.19",
+      "link": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md"
     },
     {
       "rank": "18.",
+      "title": "New planets confirmed in machine learning first",
+      "link": "https://phys.org/news/2020-08-planets-machine.html"
+    },
+    {
+      "rank": "19.",
       "title": "SATCON1 Report on Impact of Satellite Constellations on Astronomy",
       "link": "https://noirlab.edu/public/products/techdocs/techdoc003/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "What happens when you load a URL? (2015)",
       "link": "https://danluu.com/navigate-url/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
+      "title": "SSH Keygen – RSA, DSA, Ecdsa, EdDSA",
+      "link": "https://gravitational.com/blog/comparing-ssh-keys/"
+    },
+    {
+      "rank": "22.",
       "title": "Melancholy of obsolete futures: on Soviet Brutalism",
       "link": "https://thecritic.co.uk/melancholy-of-obsolete-futures/"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "Lucid Air EV’s Battery Will Be 113.0 KWh",
       "link": "https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "Boom Supersonic hopes to test-fly its supersonic plane in 2021",
       "link": "https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html"
     },
     {
-      "rank": "23.",
-      "title": "Talk to Your Data: One Model, Any Relational Database",
-      "link": "https://blog.einstein.ai/talk-to-your-data-one-model-any-database/"
-    },
-    {
-      "rank": "24.",
+      "rank": "25.",
       "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
       "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
     },
     {
-      "rank": "25.",
-      "title": "Jetpack Compose Alpha is released",
-      "link": "https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html"
+      "rank": "26.",
+      "title": "Talk to Your Data: One Model, Any Relational Database",
+      "link": "https://blog.einstein.ai/talk-to-your-data-one-model-any-database/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Draft of OCaml Scientific Computing book",
       "link": "https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "How to not fear your death: An Epicurean perspective",
       "link": "https://psyche.co/guides/how-to-use-philosophy-to-overcome-the-fear-of-your-own-death"
     },
     {
-      "rank": "28.",
-      "title": "Portland passes low-density zoning reform",
-      "link": "https://www.sightline.org/2020/08/11/on-wednesday-portland-will-pass-the-best-low-density-zoning-reform-in-us-history/"
-    },
-    {
       "rank": "29.",
-      "title": "Hands-on WebAssembly",
-      "link": "https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics"
+      "title": "Jetpack Compose Alpha is released",
+      "link": "https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html"
     },
     {
       "rank": "30.",
-      "title": "Understanding DNS: Anatomy of a BIND zone file",
-      "link": "https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/"
+      "title": "Portland passes low-density zoning reform",
+      "link": "https://www.sightline.org/2020/08/11/on-wednesday-portland-will-pass-the-best-low-density-zoning-reform-in-us-history/"
     }
   ],
   "metadata": {
