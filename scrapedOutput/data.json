@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "YC Software Startups: Value and Initial Programming Language Used",
-      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
+      "title": "Hands-on WebAssembly",
+      "link": "https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics"
     },
     {
       "rank": "2.",
@@ -12,28 +12,28 @@
     },
     {
       "rank": "3.",
-      "title": "Hands-on WebAssembly",
-      "link": "https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics"
-    },
-    {
-      "rank": "4.",
       "title": "Rethinking the App Store",
       "link": "https://stratechery.com/2020/rethinking-the-app-store/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
       "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "You want people to do the right thing? Save them the guilt trip",
       "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Africa declared free of wild polio",
       "link": "https://www.bbc.com/news/world-africa-53887947"
+    },
+    {
+      "rank": "7.",
+      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
+      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
     },
     {
       "rank": "8.",
@@ -42,43 +42,43 @@
     },
     {
       "rank": "9.",
-      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
-      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
-    },
-    {
-      "rank": "10.",
-      "title": "Use YC's Work at a Startup to apply to hundreds of eng jobs with one application",
-      "link": "https://www.workatastartup.com/"
-    },
-    {
-      "rank": "11.",
       "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
       "link": "https://github.com/open-sdr/openwifi"
     },
     {
-      "rank": "12.",
+      "rank": "10.",
       "title": "Tom Lehrer's Mathematical Songs",
       "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
     },
     {
-      "rank": "13.",
+      "rank": "11.",
       "title": "Heyyyyyyyyyyyy.com",
       "link": "https://heyyyyyyyyyyyy.com/"
     },
     {
-      "rank": "14.",
+      "rank": "12.",
+      "title": "Use YC's Work at a Startup to apply to hundreds of eng jobs with one application",
+      "link": "https://www.workatastartup.com/"
+    },
+    {
+      "rank": "13.",
       "title": "A log/event processing pipeline you can't have (2019)",
       "link": "https://apenwarr.ca/log/20190216"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Shrinking a Kotlin Binary by 99.2%",
       "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Luminar Plans $3.4B Reverse-Merger IPO",
       "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
+    },
+    {
+      "rank": "16.",
+      "title": "YC Software Startups: Value and Initial Programming Language Used",
+      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
     },
     {
       "rank": "17.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
+      "title": "Cat vs. panel heater: which is better?",
+      "link": "https://www.oneroof.co.nz/news/38319"
+    },
+    {
+      "rank": "24.",
       "title": "Signifier – a Brutalist response to 17th century typefaces",
       "link": "https://klim.co.nz/blog/signifier-design-information/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
       "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
-    },
-    {
-      "rank": "25.",
-      "title": "Cat vs. panel heater: which is better?",
-      "link": "https://www.oneroof.co.nz/news/38319"
     },
     {
       "rank": "26.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
-      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
-    },
-    {
-      "rank": "29.",
       "title": "Lightmatter's Mars SoC Bends Light to Process Data",
       "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
+      "rank": "29.",
+      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
+      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
+    },
+    {
       "rank": "30.",
-      "title": "radEventListener: Client-side Framework Performance",
-      "link": "https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/"
+      "title": "Keeping CALM: When Distributed Consistency Is Easy",
+      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
     }
   ],
   "metadata": {
