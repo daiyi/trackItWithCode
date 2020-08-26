@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "New facts about the leadup to the Beirut explosion",
-      "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
+      "title": "YC Software Startups: Value and Initial Programming Language Used",
+      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
     },
     {
       "rank": "3.",
-      "title": "YC Software Startups: Value and Initial Programming Language Used",
-      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
+      "title": "New facts about the leadup to the Beirut explosion",
+      "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
     },
     {
       "rank": "4.",
@@ -42,43 +42,43 @@
     },
     {
       "rank": "9.",
-      "title": "A log/event processing pipeline you can't have (2019)",
-      "link": "https://apenwarr.ca/log/20190216"
-    },
-    {
-      "rank": "10.",
-      "title": "Heyyyyyyyyyyyy.com",
-      "link": "https://heyyyyyyyyyyyy.com/"
-    },
-    {
-      "rank": "11.",
       "title": "Tom Lehrer's Mathematical Songs",
       "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
     },
     {
-      "rank": "12.",
-      "title": "Luminar Plans $3.4B Reverse-Merger IPO",
-      "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
-    },
-    {
-      "rank": "13.",
+      "rank": "10.",
       "title": "Shrinking a Kotlin Binary by 99.2%",
       "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
     },
     {
+      "rank": "11.",
+      "title": "Heyyyyyyyyyyyy.com",
+      "link": "https://heyyyyyyyyyyyy.com/"
+    },
+    {
+      "rank": "12.",
+      "title": "A log/event processing pipeline you can't have (2019)",
+      "link": "https://apenwarr.ca/log/20190216"
+    },
+    {
+      "rank": "13.",
+      "title": "Luminar Plans $3.4B Reverse-Merger IPO",
+      "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
+    },
+    {
       "rank": "14.",
+      "title": "Hands-on WebAssembly",
+      "link": "https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics"
+    },
+    {
+      "rank": "15.",
       "title": "Japan facing credit card number shortage",
       "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Syllabus for Eric's PhD Students",
       "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
-    },
-    {
-      "rank": "16.",
-      "title": "Creating a Common Lisp implementation, part 1 [video]",
-      "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
     },
     {
       "rank": "17.",
@@ -87,38 +87,38 @@
     },
     {
       "rank": "18.",
+      "title": "Creating a Common Lisp implementation, part 1 [video]",
+      "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
+    },
+    {
+      "rank": "19.",
       "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
       "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Signifier – a Brutalist response to 17th century typefaces",
       "link": "https://klim.co.nz/blog/signifier-design-information/"
     },
     {
-      "rank": "20.",
-      "title": "Secure Modular Runtimes",
-      "link": "https://guybedford.com/secure-modular-runtimes.html"
-    },
-    {
       "rank": "21.",
-      "title": "Cat vs. panel heater: which is better?",
-      "link": "https://www.oneroof.co.nz/news/38319"
-    },
-    {
-      "rank": "22.",
       "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
       "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
     },
     {
+      "rank": "22.",
+      "title": "Cat vs. panel heater: which is better?",
+      "link": "https://www.oneroof.co.nz/news/38319"
+    },
+    {
       "rank": "23.",
-      "title": "radEventListener: Client-side Framework Performance",
-      "link": "https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/"
+      "title": "Secure Modular Runtimes",
+      "link": "https://guybedford.com/secure-modular-runtimes.html"
     },
     {
       "rank": "24.",
-      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
-      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
+      "title": "radEventListener: Client-side Framework Performance",
+      "link": "https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
-    },
-    {
-      "rank": "27.",
       "title": "Firefox Android Build that caused issues is working as intended",
       "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
     },
     {
+      "rank": "27.",
+      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
+      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
+    },
+    {
       "rank": "28.",
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
+    },
+    {
+      "rank": "29.",
       "title": "AWS Controllers for Kubernetes",
       "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Keeping CALM: When Distributed Consistency Is Easy",
       "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
-    },
-    {
-      "rank": "30.",
-      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
-      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
     }
   ],
   "metadata": {
