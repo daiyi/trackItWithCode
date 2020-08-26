@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Rethinking the App Store",
-      "link": "https://stratechery.com/2020/rethinking-the-app-store/"
+      "title": "Jacques Cousteau’s Grandson Wants to Build the ISS of the Sea",
+      "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
     },
     {
       "rank": "2.",
@@ -17,28 +17,28 @@
     },
     {
       "rank": "4.",
-      "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
-      "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
-    },
-    {
-      "rank": "5.",
-      "title": "Jacques Cousteau’s Grandson Wants to Build the ISS of the Sea",
-      "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
-    },
-    {
-      "rank": "6.",
-      "title": "Africa declared free of wild polio",
-      "link": "https://www.bbc.com/news/world-africa-53887947"
-    },
-    {
-      "rank": "7.",
       "title": "You want people to do the right thing? Save them the guilt trip",
       "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
     },
     {
-      "rank": "8.",
+      "rank": "5.",
+      "title": "Africa declared free of wild polio",
+      "link": "https://www.bbc.com/news/world-africa-53887947"
+    },
+    {
+      "rank": "6.",
+      "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
+      "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
+    },
+    {
+      "rank": "7.",
       "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
       "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
+    },
+    {
+      "rank": "8.",
+      "title": "A log/event processing pipeline you can't have (2019)",
+      "link": "https://apenwarr.ca/log/20190216"
     },
     {
       "rank": "9.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "A log/event processing pipeline you can't have (2019)",
-      "link": "https://apenwarr.ca/log/20190216"
+      "title": "Rethinking the App Store",
+      "link": "https://stratechery.com/2020/rethinking-the-app-store/"
     },
     {
       "rank": "13.",
@@ -67,23 +67,23 @@
     },
     {
       "rank": "14.",
-      "title": "Use YC's Work at a Startup to apply to hundreds of eng jobs with one application",
-      "link": "https://www.workatastartup.com/"
-    },
-    {
-      "rank": "15.",
-      "title": "Japan facing credit card number shortage",
-      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
-    },
-    {
-      "rank": "16.",
       "title": "Syllabus for Eric's PhD Students",
       "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
     },
     {
-      "rank": "17.",
+      "rank": "15.",
       "title": "The longest train ride in the world",
       "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
+    },
+    {
+      "rank": "16.",
+      "title": "Use YC's Work at a Startup to apply to hundreds of eng jobs with one application",
+      "link": "https://www.workatastartup.com/"
+    },
+    {
+      "rank": "17.",
+      "title": "Japan facing credit card number shortage",
+      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Cat vs. panel heater: which is better?",
-      "link": "https://www.oneroof.co.nz/news/38319"
+      "title": "Going Public Circa 2020; Door #3: The SPAC",
+      "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
     },
     {
       "rank": "20.",
-      "title": "Going Public Circa 2020; Door #3: The SPAC",
-      "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
+      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
+      "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
+      "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
     },
     {
       "rank": "23.",
-      "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
-      "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
+      "title": "Cat vs. panel heater: which is better?",
+      "link": "https://www.oneroof.co.nz/news/38319"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "YC Software Startups: Value and Initial Programming Language Used",
-      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
+      "title": "Secure Modular Runtimes",
+      "link": "https://guybedford.com/secure-modular-runtimes.html"
     },
     {
       "rank": "26.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "Secure Modular Runtimes",
-      "link": "https://guybedford.com/secure-modular-runtimes.html"
+      "title": "YC Software Startups: Value and Initial Programming Language Used",
+      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
-      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
+      "title": "Keeping CALM: When Distributed Consistency Is Easy",
+      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
     }
   ],
   "metadata": {
