@@ -22,48 +22,48 @@
     },
     {
       "rank": "5.",
+      "title": "Jacques Cousteau’s Grandson Wants to Build the ISS of the Sea",
+      "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
+    },
+    {
+      "rank": "6.",
       "title": "Africa declared free of wild polio",
       "link": "https://www.bbc.com/news/world-africa-53887947"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "You want people to do the right thing? Save them the guilt trip",
       "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
       "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
       "link": "https://arxiv.org/abs/2008.07647"
     },
     {
-      "rank": "9.",
-      "title": "A log/event processing pipeline you can't have (2019)",
-      "link": "https://apenwarr.ca/log/20190216"
-    },
-    {
       "rank": "10.",
-      "title": "Tom Lehrer's Mathematical Songs",
-      "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
-    },
-    {
-      "rank": "11.",
       "title": "Heyyyyyyyyyyyy.com",
       "link": "https://heyyyyyyyyyyyy.com/"
     },
     {
+      "rank": "11.",
+      "title": "Tom Lehrer's Mathematical Songs",
+      "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
+    },
+    {
       "rank": "12.",
-      "title": "Luminar Plans $3.4B Reverse-Merger IPO",
-      "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
+      "title": "A log/event processing pipeline you can't have (2019)",
+      "link": "https://apenwarr.ca/log/20190216"
     },
     {
       "rank": "13.",
-      "title": "Japan facing credit card number shortage",
-      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
+      "title": "Luminar Plans $3.4B Reverse-Merger IPO",
+      "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
     },
     {
       "rank": "14.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Syllabus for Eric's PhD Students",
-      "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
+      "title": "Japan facing credit card number shortage",
+      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
     },
     {
       "rank": "16.",
-      "title": "Creating a Common Lisp implementation, part 1 [video]",
-      "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
+      "title": "Syllabus for Eric's PhD Students",
+      "link": "https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
+      "title": "Creating a Common Lisp implementation, part 1 [video]",
+      "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
     },
     {
       "rank": "19.",
@@ -102,53 +102,53 @@
     },
     {
       "rank": "21.",
-      "title": "YC Software Startups: Value and Initial Programming Language Used",
-      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
+      "title": "Low adoption of features and the sad realization",
+      "link": "https://agyam.com/low-adoption-and-sad-realization/"
     },
     {
       "rank": "22.",
+      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
+    },
+    {
+      "rank": "23.",
       "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
       "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Shrinking a Kotlin Binary by 99.2%",
       "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
+      "title": "YC Software Startups: Value and Initial Programming Language Used",
+      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
+    },
+    {
+      "rank": "26.",
       "title": "Firefox Android Build that caused issues is working as intended",
       "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Secure Modular Runtimes",
       "link": "https://guybedford.com/secure-modular-runtimes.html"
     },
     {
-      "rank": "26.",
-      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
-      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
-    },
-    {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
       "link": "https://github.com/open-sdr/openwifi"
     },
     {
-      "rank": "28.",
-      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
-      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
-    },
-    {
       "rank": "29.",
-      "title": "Keeping CALM: When Distributed Consistency Is Easy",
-      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
+      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
       "rank": "30.",
-      "title": "radEventListener: Client-side Framework Performance",
-      "link": "https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/"
+      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
+      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
     }
   ],
   "metadata": {
