@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
-      "link": "https://github.com/open-sdr/openwifi"
+      "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
+      "link": "https://arxiv.org/abs/2008.07647"
     },
     {
       "rank": "6.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
+      "title": "Openwifi: Linux mac80211 compatible full-stack 802.11/Wi-Fi design based on SDR",
+      "link": "https://github.com/open-sdr/openwifi"
+    },
+    {
+      "rank": "8.",
       "title": "Creating a Common Lisp implementation, part 1 [video]",
       "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Japan facing credit card number shortage",
       "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
-    },
-    {
-      "rank": "9.",
-      "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
-      "link": "https://arxiv.org/abs/2008.07647"
     },
     {
       "rank": "10.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "The longest train ride in the world",
-      "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
+      "title": "Kindle collects a surprisingly large amount of data",
+      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
     },
     {
       "rank": "13.",
-      "title": "Kindle collects a surprisingly large amount of data",
-      "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
+      "title": "The longest train ride in the world",
+      "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
     },
     {
       "rank": "14.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "Cat vs. panel heater: which is better?",
-      "link": "https://www.oneroof.co.nz/news/38319"
+      "title": "Optimal Peanut Butter and Banana Sandwiches",
+      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
     },
     {
       "rank": "17.",
-      "title": "Optimal Peanut Butter and Banana Sandwiches",
-      "link": "https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/"
+      "title": "Cat vs. panel heater: which is better?",
+      "link": "https://www.oneroof.co.nz/news/38319"
     },
     {
       "rank": "18.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
+      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
+      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
       "rank": "20.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
-      "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
+      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
+      "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
+      "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
+    },
+    {
+      "rank": "24.",
       "title": "Keeping CALM: When Distributed Consistency Is Easy",
       "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
       "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
-    },
-    {
-      "rank": "25.",
-      "title": "A Tuna's Worth",
-      "link": "https://www.hakaimagazine.com/features/a-tunas-worth/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "A Tuna's Worth",
+      "link": "https://www.hakaimagazine.com/features/a-tunas-worth/"
+    },
+    {
+      "rank": "28.",
       "title": "AWS Controllers for Kubernetes",
       "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Tipe raises $2.1M seed round to build a customizable CMS for developers",
       "link": "https://tipe.io/blog/tipe-raises-seed"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
       "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
-    },
-    {
-      "rank": "30.",
-      "title": "Firefox Android Build that caused issues is working as intended",
-      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
     }
   ],
   "metadata": {
