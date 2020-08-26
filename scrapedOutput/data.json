@@ -32,43 +32,43 @@
     },
     {
       "rank": "7.",
+      "title": "Vanta (YC W18) is hiring as we build simple security and compliance for startups",
+      "link": "https://vanta.com/jobs"
+    },
+    {
+      "rank": "8.",
       "title": "A Chrome feature is creating enormous load on global root DNS servers",
       "link": "https://arstechnica.com/gadgets/2020/08/a-chrome-feature-is-creating-enormous-load-on-global-root-dns-servers/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
+      "title": "You want people to do the right thing? Save them the guilt trip",
+      "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
+    },
+    {
+      "rank": "10.",
       "title": "The longest train ride in the world",
       "link": "https://basementgeographer.com/the-longest-train-ride-in-the-world/"
     },
     {
-      "rank": "9.",
-      "title": "Cat vs. panel heater: which is better?",
-      "link": "https://www.oneroof.co.nz/news/38319"
-    },
-    {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Kindle collects a surprisingly large amount of data",
       "link": "https://nullsweep.com/kindle-collects-a-surprisingly-large-amount-of-data/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Global Mass Surveillance – The Fourteen Eyes",
       "link": "https://www.privacytools.io/providers/#ukusa"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Signifier – a Brutalist response to 17th century typefaces",
       "link": "https://klim.co.nz/blog/signifier-design-information/"
     },
     {
-      "rank": "13.",
-      "title": "WebBundles harmful to content blocking, security tools, and the open web",
-      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
-    },
-    {
       "rank": "14.",
-      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
-      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
+      "title": "Cat vs. panel heater: which is better?",
+      "link": "https://www.oneroof.co.nz/news/38319"
     },
     {
       "rank": "15.",
@@ -87,68 +87,68 @@
     },
     {
       "rank": "18.",
+      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
+      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
+    },
+    {
+      "rank": "19.",
+      "title": "WebBundles harmful to content blocking, security tools, and the open web",
+      "link": "https://brave.com/webbundles-harmful-to-content-blocking-security-tools-and-the-open-web/"
+    },
+    {
+      "rank": "20.",
       "title": "Keeping CALM: When Distributed Consistency Is Easy",
       "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
     },
     {
-      "rank": "19.",
-      "title": "Show HN: Seamless head tracking for games using the TrueDepth camera (iOS)",
-      "link": "http://www.inflightassistant.com/smoothtrack/index.html"
-    },
-    {
-      "rank": "20.",
+      "rank": "21.",
       "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
       "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
     },
     {
-      "rank": "21.",
-      "title": "You want people to do the right thing? Save them the guilt trip",
-      "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
-    },
-    {
       "rank": "22.",
-      "title": "Firefox Android Build that caused issues is working as intended",
-      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
+      "title": "Practical tips for better microcopy",
+      "link": "https://learnuxd.io/posts/7-practical-tips-for-better-microcopy/"
     },
     {
       "rank": "23.",
-      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
-      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
+      "title": "Show HN: Seamless head tracking for games using the TrueDepth camera (iOS)",
+      "link": "http://www.inflightassistant.com/smoothtrack/index.html"
     },
     {
       "rank": "24.",
-      "title": "Tipe raises $2.1M seed round to build a customizable CMS for developers",
-      "link": "https://tipe.io/blog/tipe-raises-seed"
-    },
-    {
-      "rank": "25.",
       "title": "Three Ways to Hack a Printed Circuit Board",
       "link": "https://spectrum.ieee.org/computing/hardware/three-ways-to-hack-a-printed-circuit-board"
     },
     {
+      "rank": "25.",
+      "title": "Firefox Android Build that caused issues is working as intended",
+      "link": "https://www.theregister.com/2020/08/25/firefox_android_update/"
+    },
+    {
       "rank": "26.",
+      "title": "Tipe raises $2.1M seed round to build a customizable CMS for developers",
+      "link": "https://tipe.io/blog/tipe-raises-seed"
+    },
+    {
+      "rank": "27.",
+      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
+      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
+    },
+    {
+      "rank": "28.",
+      "title": "Thiel Fellow startup Luminar, developing LIDAR, valued at $3.4B in IPO",
+      "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
+    },
+    {
+      "rank": "29.",
       "title": "AWS Controllers for Kubernetes",
       "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "Amazon drops Linux support for generating Kindle ebooks",
       "link": "https://www.amazon.com/gp/feature.html/?docId=1000765211"
-    },
-    {
-      "rank": "28.",
-      "title": "Topicctl – an easier way to manage Kafka topics",
-      "link": "https://segment.com/blog/easier-management-of-Kafka-topics-with-topicctl/"
-    },
-    {
-      "rank": "29.",
-      "title": "Show HN: Shift-Ctrl-F: Search a webpage with natural language and TensorFlowJS",
-      "link": "https://github.com/model-zoo/shift-ctrl-f"
-    },
-    {
-      "rank": "30.",
-      "title": "Mux (YC W16) is hiring devs that want to help others build video (remote ok!)",
-      "link": "https://mux.com/jobs?hnj=17"
     }
   ],
   "metadata": {
