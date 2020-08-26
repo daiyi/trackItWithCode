@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
-      "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
-      "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
-    },
-    {
-      "rank": "9.",
       "title": "A log/event processing pipeline you can't have (2019)",
       "link": "https://apenwarr.ca/log/20190216"
     },
     {
+      "rank": "9.",
+      "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
+      "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
+    },
+    {
       "rank": "10.",
-      "title": "Tom Lehrer's Mathematical Songs",
-      "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
+      "title": "Heyyyyyyyyyyyy.com",
+      "link": "https://heyyyyyyyyyyyy.com/"
     },
     {
       "rank": "11.",
-      "title": "Heyyyyyyyyyyyy.com",
-      "link": "https://heyyyyyyyyyyyy.com/"
+      "title": "Tom Lehrer's Mathematical Songs",
+      "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
     },
     {
       "rank": "12.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Low adoption of features and the sad realization",
-      "link": "https://agyam.com/low-adoption-and-sad-realization/"
+      "title": "Going Public Circa 2020; Door #3: The SPAC",
+      "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
     },
     {
       "rank": "18.",
@@ -92,23 +92,23 @@
     },
     {
       "rank": "19.",
-      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
-    },
-    {
-      "rank": "20.",
-      "title": "Going Public Circa 2020; Door #3: The SPAC",
-      "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
-    },
-    {
-      "rank": "21.",
       "title": "Gallup: 81% of Black Americans Want Police to Retain Local Presence",
       "link": "https://news.gallup.com/poll/316571/black-americans-police-retain-local-presence.aspx"
     },
     {
+      "rank": "20.",
+      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
+    },
+    {
+      "rank": "21.",
+      "title": "Low adoption of features and the sad realization",
+      "link": "https://agyam.com/low-adoption-and-sad-realization/"
+    },
+    {
       "rank": "22.",
-      "title": "Use YC's Work at a Startup to apply to hundreds of eng jobs with one application",
-      "link": "https://www.workatastartup.com/"
+      "title": "Shrinking a Kotlin Binary by 99.2%",
+      "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "Shrinking a Kotlin Binary by 99.2%",
-      "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
+      "title": "Use YC's Work at a Startup to apply to hundreds of eng jobs with one application",
+      "link": "https://www.workatastartup.com/"
     },
     {
       "rank": "25.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "YC Software Startups: Value and Initial Programming Language Used",
-      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
-    },
-    {
-      "rank": "29.",
       "title": "Lightmatter's Mars SoC Bends Light to Process Data",
       "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
+      "rank": "29.",
+      "title": "YC Software Startups: Value and Initial Programming Language Used",
+      "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
+    },
+    {
       "rank": "30.",
-      "title": "Keeping CALM: When Distributed Consistency Is Easy",
-      "link": "https://m-cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext"
+      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
+      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
     }
   ],
   "metadata": {
