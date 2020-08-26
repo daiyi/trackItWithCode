@@ -12,28 +12,28 @@
     },
     {
       "rank": "3.",
-      "title": "Luminar Plans $3.4B Reverse-Merger IPO",
-      "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
-    },
-    {
-      "rank": "4.",
       "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
       "link": "https://arxiv.org/abs/2008.07647"
     },
     {
-      "rank": "5.",
-      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
-      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
+      "rank": "4.",
+      "title": "Luminar Plans $3.4B Reverse-Merger IPO",
+      "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "You want people to do the right thing? Save them the guilt trip",
       "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "My AI Timelines Have Sped Up",
       "link": "https://www.alexirpan.com/2020/08/18/ai-timelines.html"
+    },
+    {
+      "rank": "7.",
+      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
+      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
     },
     {
       "rank": "8.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Creating a Common Lisp implementation, part 1 [video]",
-      "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
+      "title": "Japan facing credit card number shortage",
+      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
     },
     {
       "rank": "10.",
-      "title": "Japan facing credit card number shortage",
-      "link": "https://mainichi.jp/english/articles/20200821/p2a/00m/0bu/025000c"
+      "title": "Creating a Common Lisp implementation, part 1 [video]",
+      "link": "https://www.youtube.com/watch?v=Wa81OJnlsoI"
     },
     {
       "rank": "11.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Practical tips for better microcopy",
-      "link": "https://learnuxd.io/posts/7-practical-tips-for-better-microcopy/"
+      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
+      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
     },
     {
       "rank": "19.",
-      "title": "Beating Google ReCaptcha and the funCaptcha using AWS Rekognition",
-      "link": "https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff"
+      "title": "Cat vs. panel heater: which is better?",
+      "link": "https://www.oneroof.co.nz/news/38319"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
-      "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
+      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
+      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
     },
     {
       "rank": "22.",
-      "title": "Cat vs. panel heater: which is better?",
-      "link": "https://www.oneroof.co.nz/news/38319"
+      "title": "FritzFrog: A New Generation of Peer-to-Peer Botnets",
+      "link": "https://www.guardicore.com/2020/08/fritzfrog-p2p-botnet-infects-ssh-servers/"
     },
     {
       "rank": "23.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "Lightmatter's Mars SoC Bends Light to Process Data",
-      "link": "https://www.tomshardware.com/news/lightmatter-mars-soc-bends-light-to-process-data-silicon-photonics"
+      "title": "AWS Controllers for Kubernetes",
+      "link": "https://github.com/aws/aws-controllers-k8s"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Vanta (YC W18) is hiring as we build simple security and compliance for startups",
-      "link": "https://vanta.com/jobs"
+      "title": "Evgeny Kuznetsov practices with Bauer stick that has hole in the blade",
+      "link": "https://russianmachineneverbreaks.com/2020/07/17/evgeny-kuznetsov-practices-with-bauer-stick-that-has-hole-in-the-blade/"
     },
     {
       "rank": "28.",
-      "title": "AWS Controllers for Kubernetes",
-      "link": "https://github.com/aws/aws-controllers-k8s"
-    },
-    {
-      "rank": "29.",
       "title": "A Tuna's Worth",
       "link": "https://www.hakaimagazine.com/features/a-tunas-worth/"
     },
     {
+      "rank": "29.",
+      "title": "Vanta (YC W18) is hiring as we build simple security and compliance for startups",
+      "link": "https://vanta.com/jobs"
+    },
+    {
       "rank": "30.",
-      "title": "Tipe raises $2.1M seed round to build a customizable CMS for developers",
-      "link": "https://tipe.io/blog/tipe-raises-seed"
+      "title": "Practical tips for better microcopy",
+      "link": "https://learnuxd.io/posts/7-practical-tips-for-better-microcopy/"
     }
   ],
   "metadata": {
