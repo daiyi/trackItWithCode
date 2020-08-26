@@ -47,108 +47,108 @@
     },
     {
       "rank": "10.",
+      "title": "SEC Modernizes the Accredited Investor Definition",
+      "link": "https://www.sec.gov/news/press-release/2020-191"
+    },
+    {
+      "rank": "11.",
+      "title": "Portland passes low-density zoning reform",
+      "link": "https://www.sightline.org/2020/08/11/on-wednesday-portland-will-pass-the-best-low-density-zoning-reform-in-us-history/"
+    },
+    {
+      "rank": "12.",
       "title": "Hands-on WebAssembly",
       "link": "https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics"
     },
     {
-      "rank": "11.",
+      "rank": "13.",
       "title": "New facts about the leadup to the Beirut explosion",
       "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
     },
     {
-      "rank": "12.",
-      "title": "How the Sacklers Shifted $10.8B of an Opioid Fortune Built on OxyContin",
-      "link": "https://www.bloomberg.com/graphics/2020-sackler-family-money/"
-    },
-    {
-      "rank": "13.",
+      "rank": "14.",
       "title": "YC Software Startups: Value and Initial Programming Language Used",
       "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
+      "title": "How the Sacklers Shifted $10.8B of an Opioid Fortune Built on OxyContin",
+      "link": "https://www.bloomberg.com/graphics/2020-sackler-family-money/"
+    },
+    {
+      "rank": "16.",
       "title": "Rethinking the App Store",
       "link": "https://stratechery.com/2020/rethinking-the-app-store/"
     },
     {
-      "rank": "15.",
+      "rank": "17.",
       "title": "Africa declared free of wild polio",
       "link": "https://www.bbc.com/news/world-africa-53887947"
     },
     {
-      "rank": "16.",
+      "rank": "18.",
       "title": "A log/event processing pipeline you can't have (2019)",
       "link": "https://apenwarr.ca/log/20190216"
     },
     {
-      "rank": "17.",
+      "rank": "19.",
       "title": "HPC Systems Special Offer: Two A64FX Nodes in a 2U for $40k",
       "link": "https://www.anandtech.com/show/15885/hpc-systems-special-offer-two-a64fx-nodes-in-a-2u-for-40k"
     },
     {
-      "rank": "18.",
+      "rank": "20.",
       "title": "Heyyyyyyyyyyyy.com",
       "link": "https://heyyyyyyyyyyyy.com/"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
       "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
       "title": "Low adoption of features and the sad realization",
       "link": "https://agyam.com/low-adoption-and-sad-realization/"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)",
       "link": "item?id=24281744"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
+      "title": "SS7 Cellular Network Flaw Nobody Wants to Fix Being Exploited to Drain Bank Acct",
+      "link": "https://www.techdirt.com/articles/20190131/10492341502/ss7-cellular-network-flaw-nobody-wants-to-fix-now-being-exploited-to-drain-bank-accounts.shtml"
+    },
+    {
+      "rank": "25.",
       "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
       "link": "https://arxiv.org/abs/2008.07647"
     },
     {
-      "rank": "23.",
+      "rank": "26.",
       "title": "Luminar Plans $3.4B Reverse-Merger IPO",
       "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
     },
     {
-      "rank": "24.",
-      "title": "Shrinking a Kotlin Binary by 99.2%",
-      "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
-    },
-    {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Tom Lehrer's Mathematical Songs (1951)",
       "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
+      "title": "Shrinking a Kotlin Binary by 99.2%",
+      "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
+    },
+    {
+      "rank": "29.",
       "title": "My AI Timelines Have Sped Up",
       "link": "https://www.alexirpan.com/2020/08/18/ai-timelines.html"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "Lean HTTP Server for Gleam",
       "link": "http://crowdhailer.me/2020-06-23/introducing-lean-server-for-midas/"
-    },
-    {
-      "rank": "28.",
-      "title": "Agoge",
-      "link": "https://en.wikipedia.org/wiki/Agoge"
-    },
-    {
-      "rank": "29.",
-      "title": "Going Public Circa 2020; Door #3: The SPAC",
-      "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
-    },
-    {
-      "rank": "30.",
-      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     }
   ],
   "metadata": {
