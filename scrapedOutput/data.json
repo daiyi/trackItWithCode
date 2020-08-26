@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "Jacques Cousteau’s Grandson Wants to Build the ISS of the Sea",
-      "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
+      "title": "Is TDD Dead? (2014)",
+      "link": "https://martinfowler.com/articles/is-tdd-dead/"
     },
     {
       "rank": "3.",
@@ -17,88 +17,88 @@
     },
     {
       "rank": "4.",
+      "title": "Jacques Cousteau’s Grandson Wants to Build the ISS of the Sea",
+      "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
+    },
+    {
+      "rank": "5.",
       "title": "What happens when you load a URL? (2015)",
       "link": "https://danluu.com/navigate-url/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Boom Supersonic hopes to test-fly its supersonic plane in 2021",
       "link": "https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
+      "title": "Lucid Air EV’s Battery Will Be a Big 113.0 KWh, Topping Tesla’s Best",
+      "link": "https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/"
+    },
+    {
+      "rank": "8.",
       "title": "Draft of OCaml Scientific Computing book",
       "link": "https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book"
     },
     {
-      "rank": "7.",
+      "rank": "9.",
       "title": "Understanding DNS: Anatomy of a BIND zone file",
       "link": "https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/"
     },
     {
-      "rank": "8.",
+      "rank": "10.",
       "title": "Hands-on WebAssembly",
       "link": "https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics"
     },
     {
-      "rank": "9.",
-      "title": "How the Sacklers Shifted $10.8B of an Opioid Fortune Built on OxyContin",
-      "link": "https://www.bloomberg.com/graphics/2020-sackler-family-money/"
-    },
-    {
-      "rank": "10.",
-      "title": "Africa declared free of wild polio",
-      "link": "https://www.bbc.com/news/world-africa-53887947"
-    },
-    {
       "rank": "11.",
-      "title": "HPC Systems Special Offer: Two A64FX Nodes in a 2U for $40k",
-      "link": "https://www.anandtech.com/show/15885/hpc-systems-special-offer-two-a64fx-nodes-in-a-2u-for-40k"
-    },
-    {
-      "rank": "12.",
-      "title": "A log/event processing pipeline you can't have (2019)",
-      "link": "https://apenwarr.ca/log/20190216"
-    },
-    {
-      "rank": "13.",
-      "title": "Heyyyyyyyyyyyy.com",
-      "link": "https://heyyyyyyyyyyyy.com/"
-    },
-    {
-      "rank": "14.",
-      "title": "Is TDD Dead?",
-      "link": "https://martinfowler.com/articles/is-tdd-dead/"
-    },
-    {
-      "rank": "15.",
-      "title": "Low adoption of features and the sad realization",
-      "link": "https://agyam.com/low-adoption-and-sad-realization/"
-    },
-    {
-      "rank": "16.",
-      "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
-      "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
-    },
-    {
-      "rank": "17.",
       "title": "New facts about the leadup to the Beirut explosion",
       "link": "https://www.occrp.org/en/investigations/a-hidden-tycoon-african-explosives-and-a-loan-from-a-notorious-bank-questionable-connections-surround-beirut-explosion-shipment"
     },
     {
-      "rank": "18.",
+      "rank": "12.",
+      "title": "How the Sacklers Shifted $10.8B of an Opioid Fortune Built on OxyContin",
+      "link": "https://www.bloomberg.com/graphics/2020-sackler-family-money/"
+    },
+    {
+      "rank": "13.",
       "title": "YC Software Startups: Value and Initial Programming Language Used",
       "link": "https://charliereese.ca/article/top-50-y-combinator-tech-startups"
     },
     {
+      "rank": "14.",
+      "title": "Rethinking the App Store",
+      "link": "https://stratechery.com/2020/rethinking-the-app-store/"
+    },
+    {
+      "rank": "15.",
+      "title": "Africa declared free of wild polio",
+      "link": "https://www.bbc.com/news/world-africa-53887947"
+    },
+    {
+      "rank": "16.",
+      "title": "A log/event processing pipeline you can't have (2019)",
+      "link": "https://apenwarr.ca/log/20190216"
+    },
+    {
+      "rank": "17.",
+      "title": "HPC Systems Special Offer: Two A64FX Nodes in a 2U for $40k",
+      "link": "https://www.anandtech.com/show/15885/hpc-systems-special-offer-two-a64fx-nodes-in-a-2u-for-40k"
+    },
+    {
+      "rank": "18.",
+      "title": "Heyyyyyyyyyyyy.com",
+      "link": "https://heyyyyyyyyyyyy.com/"
+    },
+    {
       "rank": "19.",
-      "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
-      "link": "https://arxiv.org/abs/2008.07647"
+      "title": "PCI Express Retimers vs. Redrivers: An Eye-Popping Difference (2019)",
+      "link": "https://www.asteralabs.com/2019/06/26/pci-express-retimers-vs-redrivers-an-eye-popping-difference/"
     },
     {
       "rank": "20.",
-      "title": "Lean HTTP Server for Gleam",
-      "link": "http://crowdhailer.me/2020-06-23/introducing-lean-server-for-midas/"
+      "title": "Low adoption of features and the sad realization",
+      "link": "https://agyam.com/low-adoption-and-sad-realization/"
     },
     {
       "rank": "21.",
@@ -107,33 +107,33 @@
     },
     {
       "rank": "22.",
+      "title": "Missions to and Sample Returns from Nearby Interstellar Objects",
+      "link": "https://arxiv.org/abs/2008.07647"
+    },
+    {
+      "rank": "23.",
       "title": "Luminar Plans $3.4B Reverse-Merger IPO",
       "link": "https://www.thestreet.com/investing/luminar-driverless-car-producer-to-go-public-through-reverse-merger"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Shrinking a Kotlin Binary by 99.2%",
       "link": "https://jakewharton.com/shrinking-a-kotlin-binary/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Tom Lehrer's Mathematical Songs (1951)",
       "link": "https://mathshistory.st-andrews.ac.uk/Extras/Lehrer_Songs/"
     },
     {
-      "rank": "25.",
-      "title": "Going Public Circa 2020; Door #3: The SPAC",
-      "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
-    },
-    {
       "rank": "26.",
-      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
+      "title": "My AI Timelines Have Sped Up",
+      "link": "https://www.alexirpan.com/2020/08/18/ai-timelines.html"
     },
     {
       "rank": "27.",
-      "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
-      "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
+      "title": "Lean HTTP Server for Gleam",
+      "link": "http://crowdhailer.me/2020-06-23/introducing-lean-server-for-midas/"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Want people to do the right thing? Save them the guilt trip",
-      "link": "https://psyche.co/ideas/you-want-people-to-do-the-right-thing-save-them-the-guilt-trip"
+      "title": "Going Public Circa 2020; Door #3: The SPAC",
+      "link": "http://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/"
     },
     {
       "rank": "30.",
-      "title": "Zappos CEO Tony Hsieh is stepping down after 21 years",
-      "link": "https://footwearnews.com/2020/business/executive-moves/zappos-ceo-tony-hsieh-steps-down-1203045974/"
+      "title": "“Alexander the Grate” on living in the “interstices of the infrastructure”",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/alexander-grate-homelessness-amid-pandemic-180975474/"
     }
   ],
   "metadata": {
