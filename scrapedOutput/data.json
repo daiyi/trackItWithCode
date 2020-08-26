@@ -17,23 +17,23 @@
     },
     {
       "rank": "4.",
-      "title": "New Racket Language Website",
-      "link": "https://racket-lang.org/"
-    },
-    {
-      "rank": "5.",
       "title": "Non-obvious remote work techniques",
       "link": "https://queue.acm.org/detail.cfm?id=3417752"
     },
     {
+      "rank": "5.",
+      "title": "New Racket Language Website",
+      "link": "https://racket-lang.org/"
+    },
+    {
       "rank": "6.",
-      "title": "Building a Home Lab Beginners Guide",
-      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
+      "title": "Preparing Our Partners for iOS 14",
+      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
     },
     {
       "rank": "7.",
-      "title": "Preparing Our Partners for iOS 14",
-      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
+      "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
+      "link": "https://github.com/iggredible/Learn-Vim"
     },
     {
       "rank": "8.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
-      "link": "https://github.com/iggredible/Learn-Vim"
+      "title": "The Monolith That Breaks Up Itself",
+      "link": "https://medium.com/rebellion-defense/the-monolith-that-breaks-up-itself-c9513c732367"
     },
     {
       "rank": "10.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "The Monolith That Breaks Up Itself",
-      "link": "https://medium.com/rebellion-defense/the-monolith-that-breaks-up-itself-c9513c732367"
+      "title": "Building a Home Lab Beginners Guide",
+      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
       "rank": "12.",
@@ -62,33 +62,33 @@
     },
     {
       "rank": "13.",
-      "title": "Axial-DeepLab: Long-Range Modeling in All Layers for Panoptic Segmentation",
-      "link": "https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html"
-    },
-    {
-      "rank": "14.",
-      "title": "First tax year with Stripe Atlas",
-      "link": "https://tryhexadecimal.com/journal/business-taxes"
-    },
-    {
-      "rank": "15.",
       "title": "Problem Solving with Algorithms and Data Structures [pdf]",
       "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
     },
     {
+      "rank": "14.",
+      "title": "Axial-DeepLab: Long-Range Modeling in All Layers for Panoptic Segmentation",
+      "link": "https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html"
+    },
+    {
+      "rank": "15.",
+      "title": "First tax year with Stripe Atlas",
+      "link": "https://tryhexadecimal.com/journal/business-taxes"
+    },
+    {
       "rank": "16.",
+      "title": "New planets confirmed in machine learning first",
+      "link": "https://phys.org/news/2020-08-planets-machine.html"
+    },
+    {
+      "rank": "17.",
       "title": "Jacksonpollock.org (2003)",
       "link": "https://jacksonpollock.org/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Information on the revocation of WinRAR 5.91 digital certificate",
       "link": "https://www.rarlab.com/revoked591.html"
-    },
-    {
-      "rank": "18.",
-      "title": "New planets confirmed in machine learning first",
-      "link": "https://phys.org/news/2020-08-planets-machine.html"
     },
     {
       "rank": "19.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "SATCON1 Report on Impact of Satellite Constellations on Astronomy",
-      "link": "https://noirlab.edu/public/products/techdocs/techdoc003/"
+      "title": "GNU tar blocking factor, blocks, records and checkpoints",
+      "link": "https://finch.am/projects/tar/"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
-      "title": "GNU tar blocking factor, blocks, records and checkpoints",
-      "link": "https://finch.am/projects/tar/"
+      "title": "SATCON1 Report on Impact of Satellite Constellations on Astronomy",
+      "link": "https://noirlab.edu/public/products/techdocs/techdoc003/"
     },
     {
       "rank": "24.",
-      "title": "1930s Household Refrigerators (2013)",
-      "link": "https://musingsonentropy.com/2013/04/04/1930s-household-refrigerators/"
+      "title": "SSH Keygen – RSA, DSA, Ecdsa, EdDSA",
+      "link": "https://gravitational.com/blog/comparing-ssh-keys/"
     },
     {
       "rank": "25.",
-      "title": "SSH Keygen – RSA, DSA, Ecdsa, EdDSA",
-      "link": "https://gravitational.com/blog/comparing-ssh-keys/"
+      "title": "1930s Household Refrigerators (2013)",
+      "link": "https://musingsonentropy.com/2013/04/04/1930s-household-refrigerators/"
     },
     {
       "rank": "26.",
