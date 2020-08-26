@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Cloudflare, Google, Bing Destroying the Infrastructure of the Free Web",
+      "link": "http://gigablast.com/blog.html"
+    },
+    {
+      "rank": "2.",
       "title": "MixedName – Bilingual baby name finder",
       "link": "https://mixedname.com/"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
       "link": "https://arwes.dev"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Willscott/go-NFS: Golang NFSv3 server",
       "link": "https://github.com/willscott/go-nfs/"
-    },
-    {
-      "rank": "4.",
-      "title": "Non-obvious remote work techniques",
-      "link": "https://queue.acm.org/detail.cfm?id=3417752"
     },
     {
       "rank": "5.",
@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Preparing Our Partners for iOS 14",
-      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
+      "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
+      "link": "https://bennettfeely.com/ztext/"
     },
     {
       "rank": "7.",
@@ -37,38 +37,38 @@
     },
     {
       "rank": "8.",
-      "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
-      "link": "https://bennettfeely.com/ztext/"
+      "title": "Preparing Our Partners for iOS 14",
+      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
     },
     {
       "rank": "9.",
-      "title": "The Monolith That Breaks Up Itself",
-      "link": "https://medium.com/rebellion-defense/the-monolith-that-breaks-up-itself-c9513c732367"
+      "title": "GNU tar blocking factor, blocks, records and checkpoints",
+      "link": "https://finch.am/projects/tar/"
     },
     {
       "rank": "10.",
-      "title": "SEC Modernizes the Accredited Investor Definition",
-      "link": "https://www.sec.gov/news/press-release/2020-191"
-    },
-    {
-      "rank": "11.",
-      "title": "Building a Home Lab Beginners Guide",
-      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
-    },
-    {
-      "rank": "12.",
-      "title": "Is TDD Dead? (2014)",
-      "link": "https://martinfowler.com/articles/is-tdd-dead/"
-    },
-    {
-      "rank": "13.",
       "title": "Problem Solving with Algorithms and Data Structures [pdf]",
       "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
     },
     {
+      "rank": "11.",
+      "title": "The Monolith That Breaks Up Itself",
+      "link": "https://medium.com/rebellion-defense/the-monolith-that-breaks-up-itself-c9513c732367"
+    },
+    {
+      "rank": "12.",
+      "title": "SEC Modernizes the Accredited Investor Definition",
+      "link": "https://www.sec.gov/news/press-release/2020-191"
+    },
+    {
+      "rank": "13.",
+      "title": "Building a Home Lab Beginners Guide",
+      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
+    },
+    {
       "rank": "14.",
-      "title": "Axial-DeepLab: Long-Range Modeling in All Layers for Panoptic Segmentation",
-      "link": "https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html"
+      "title": "Is TDD Dead? (2014)",
+      "link": "https://martinfowler.com/articles/is-tdd-dead/"
     },
     {
       "rank": "15.",
@@ -87,33 +87,33 @@
     },
     {
       "rank": "18.",
+      "title": "Non-obvious remote work techniques",
+      "link": "https://queue.acm.org/detail.cfm?id=3417752"
+    },
+    {
+      "rank": "19.",
       "title": "Information on the revocation of WinRAR 5.91 digital certificate",
       "link": "https://www.rarlab.com/revoked591.html"
     },
     {
-      "rank": "19.",
-      "title": "Jacques Cousteau’s grandson wants to build the ISS of the sea",
-      "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
+      "rank": "20.",
+      "title": "Axial-DeepLab: Long-Range Modeling in All Layers for Panoptic Segmentation",
+      "link": "https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Show HN: Script-httpd – Turn command line scripts into web services",
       "link": "https://github.com/beefsack/script-httpd/"
     },
     {
-      "rank": "21.",
-      "title": "GNU tar blocking factor, blocks, records and checkpoints",
-      "link": "https://finch.am/projects/tar/"
-    },
-    {
       "rank": "22.",
-      "title": "What happens when you load a URL? (2015)",
-      "link": "https://danluu.com/navigate-url/"
+      "title": "Jacques Cousteau’s grandson wants to build the ISS of the sea",
+      "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
     },
     {
       "rank": "23.",
-      "title": "SATCON1 Report on Impact of Satellite Constellations on Astronomy",
-      "link": "https://noirlab.edu/public/products/techdocs/techdoc003/"
+      "title": "What happens when you load a URL? (2015)",
+      "link": "https://danluu.com/navigate-url/"
     },
     {
       "rank": "24.",
@@ -122,28 +122,28 @@
     },
     {
       "rank": "25.",
+      "title": "SATCON1 Report on Impact of Satellite Constellations on Astronomy",
+      "link": "https://noirlab.edu/public/products/techdocs/techdoc003/"
+    },
+    {
+      "rank": "26.",
       "title": "1930s Household Refrigerators (2013)",
       "link": "https://musingsonentropy.com/2013/04/04/1930s-household-refrigerators/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Melancholy of obsolete futures: on Soviet Brutalism",
       "link": "https://thecritic.co.uk/melancholy-of-obsolete-futures/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Boom Supersonic hopes to test-fly its supersonic plane in 2021",
       "link": "https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Lucid Air EV’s Battery Will Be 113.0 KWh",
       "link": "https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/"
-    },
-    {
-      "rank": "29.",
-      "title": "Kubernetes 1.19",
-      "link": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.19.md"
     },
     {
       "rank": "30.",
