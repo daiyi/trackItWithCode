@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
-      "title": "Preparing Our Partners for iOS 14",
-      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
-    },
-    {
-      "rank": "4.",
       "title": "Is TDD Dead? (2014)",
       "link": "https://martinfowler.com/articles/is-tdd-dead/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "SEC Modernizes the Accredited Investor Definition",
       "link": "https://www.sec.gov/news/press-release/2020-191"
+    },
+    {
+      "rank": "5.",
+      "title": "First tax year with Stripe Atlas",
+      "link": "https://tryhexadecimal.com/journal/business-taxes"
     },
     {
       "rank": "6.",
@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "First tax year with Stripe Atlas",
-      "link": "https://tryhexadecimal.com/journal/business-taxes"
+      "title": "What happens when you load a URL? (2015)",
+      "link": "https://danluu.com/navigate-url/"
     },
     {
       "rank": "8.",
-      "title": "What happens when you load a URL? (2015)",
-      "link": "https://danluu.com/navigate-url/"
+      "title": "Preparing Our Partners for iOS 14",
+      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Boom Supersonic hopes to test-fly its supersonic plane in 2021",
-      "link": "https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html"
+      "title": "Lucid Air EV’s Battery Will Be 113.0 KWh",
+      "link": "https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/"
     },
     {
       "rank": "11.",
-      "title": "Lucid Air EV’s Battery Will Be 113.0 KWh",
-      "link": "https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/"
+      "title": "Boom Supersonic hopes to test-fly its supersonic plane in 2021",
+      "link": "https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html"
     },
     {
       "rank": "12.",
@@ -62,33 +62,33 @@
     },
     {
       "rank": "13.",
-      "title": "1930s Household Refrigerators (2013)",
-      "link": "https://musingsonentropy.com/2013/04/04/1930s-household-refrigerators/"
-    },
-    {
-      "rank": "14.",
-      "title": "Talk to Your Data: One Model, Any Relational Database",
-      "link": "https://blog.einstein.ai/talk-to-your-data-one-model-any-database/"
-    },
-    {
-      "rank": "15.",
       "title": "Top Greatest Scientists Who Never Won a Nobel Prize",
       "link": "https://www.wondersofphysics.com/2019/01/scientists-who-never-won.html"
     },
     {
-      "rank": "16.",
-      "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
-      "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
+      "rank": "14.",
+      "title": "1930s Household Refrigerators (2013)",
+      "link": "https://musingsonentropy.com/2013/04/04/1930s-household-refrigerators/"
     },
     {
-      "rank": "17.",
+      "rank": "15.",
+      "title": "How to not fear your death: An Epicurean perspective",
+      "link": "https://psyche.co/guides/how-to-use-philosophy-to-overcome-the-fear-of-your-own-death"
+    },
+    {
+      "rank": "16.",
       "title": "Jetpack Compose Alpha is released",
       "link": "https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html"
     },
     {
+      "rank": "17.",
+      "title": "Talk to Your Data: One Model, Any Relational Database",
+      "link": "https://blog.einstein.ai/talk-to-your-data-one-model-any-database/"
+    },
+    {
       "rank": "18.",
-      "title": "How to not fear your death: An Epicurean perspective",
-      "link": "https://psyche.co/guides/how-to-use-philosophy-to-overcome-the-fear-of-your-own-death"
+      "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
+      "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Understanding DNS: Anatomy of a BIND zone file",
-      "link": "https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/"
+      "title": "Hands-on WebAssembly",
+      "link": "https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics"
     },
     {
       "rank": "21.",
-      "title": "Hands-on WebAssembly",
-      "link": "https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics"
+      "title": "Understanding DNS: Anatomy of a BIND zone file",
+      "link": "https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/"
     },
     {
       "rank": "22.",
@@ -112,23 +112,23 @@
     },
     {
       "rank": "23.",
-      "title": "Jerry (S17) is hiring Senior Software Engineer (Toronto; SF Bay Area; Boston)",
-      "link": "https://apply.workable.com/jerry/j/8BA6CA0004/"
-    },
-    {
-      "rank": "24.",
       "title": "SS7 cellular network flaw being exploited to drain bank accounts",
       "link": "https://www.techdirt.com/articles/20190131/10492341502/ss7-cellular-network-flaw-nobody-wants-to-fix-now-being-exploited-to-drain-bank-accounts.shtml"
     },
     {
+      "rank": "24.",
+      "title": "Rethinking the App Store",
+      "link": "https://stratechery.com/2020/rethinking-the-app-store/"
+    },
+    {
       "rank": "25.",
-      "title": "TikTok, Trump, and the Future of Open Source Surveillance",
-      "link": "https://fossa.com/blog/tiktok-trump-and-the-future-of-open-source-surveillance/"
+      "title": "Jerry (S17) is hiring Senior Software Engineer (Toronto; SF Bay Area; Boston)",
+      "link": "https://apply.workable.com/jerry/j/8BA6CA0004/"
     },
     {
       "rank": "26.",
-      "title": "Rethinking the App Store",
-      "link": "https://stratechery.com/2020/rethinking-the-app-store/"
+      "title": "TikTok, Trump, and the Future of Open Source Surveillance",
+      "link": "https://fossa.com/blog/tiktok-trump-and-the-future-of-open-source-surveillance/"
     },
     {
       "rank": "27.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "SATCON1 Report on Impact of Satellite Constellations on Astronomy",
-      "link": "https://noirlab.edu/public/products/techdocs/techdoc003/"
+      "title": "Jacksonpollock.org (2003)",
+      "link": "https://jacksonpollock.org/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Jacksonpollock.org (2003)",
-      "link": "https://jacksonpollock.org/"
+      "title": "A log/event processing pipeline you can't have (2019)",
+      "link": "https://apenwarr.ca/log/20190216"
     }
   ],
   "metadata": {
