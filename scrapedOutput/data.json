@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Cloudflare, Google, Bing Destroying the Infrastructure of the Free Web",
-      "link": "http://gigablast.com/blog.html"
+      "title": "MixedName – Bilingual baby name finder",
+      "link": "https://mixedname.com/"
     },
     {
       "rank": "2.",
-      "title": "MixedName – Bilingual baby name finder",
-      "link": "https://mixedname.com/"
+      "title": "Cloudflare, Google, Bing Destroying the Infrastructure of the Free Web",
+      "link": "http://gigablast.com/blog.html"
     },
     {
       "rank": "3.",
@@ -32,53 +32,53 @@
     },
     {
       "rank": "7.",
-      "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
-      "link": "https://github.com/iggredible/Learn-Vim"
-    },
-    {
-      "rank": "8.",
-      "title": "Preparing Our Partners for iOS 14",
-      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
-    },
-    {
-      "rank": "9.",
-      "title": "GNU tar blocking factor, blocks, records and checkpoints",
-      "link": "https://finch.am/projects/tar/"
-    },
-    {
-      "rank": "10.",
       "title": "Problem Solving with Algorithms and Data Structures [pdf]",
       "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
     },
     {
-      "rank": "11.",
-      "title": "The Monolith That Breaks Up Itself",
-      "link": "https://medium.com/rebellion-defense/the-monolith-that-breaks-up-itself-c9513c732367"
+      "rank": "8.",
+      "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
+      "link": "https://github.com/iggredible/Learn-Vim"
     },
     {
-      "rank": "12.",
+      "rank": "9.",
+      "title": "Preparing Our Partners for iOS 14",
+      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
+    },
+    {
+      "rank": "10.",
       "title": "SEC Modernizes the Accredited Investor Definition",
       "link": "https://www.sec.gov/news/press-release/2020-191"
     },
     {
-      "rank": "13.",
-      "title": "Building a Home Lab Beginners Guide",
-      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
+      "rank": "11.",
+      "title": "GNU tar blocking factor, blocks, records and checkpoints",
+      "link": "https://finch.am/projects/tar/"
     },
     {
-      "rank": "14.",
+      "rank": "12.",
+      "title": "The Monolith That Breaks Up Itself",
+      "link": "https://medium.com/rebellion-defense/the-monolith-that-breaks-up-itself-c9513c732367"
+    },
+    {
+      "rank": "13.",
       "title": "Is TDD Dead? (2014)",
       "link": "https://martinfowler.com/articles/is-tdd-dead/"
     },
     {
+      "rank": "14.",
+      "title": "New planets confirmed in machine learning first",
+      "link": "https://phys.org/news/2020-08-planets-machine.html"
+    },
+    {
       "rank": "15.",
-      "title": "First tax year with Stripe Atlas",
-      "link": "https://tryhexadecimal.com/journal/business-taxes"
+      "title": "Heptapod – Mercurial for Gitlab",
+      "link": "https://heptapod.net"
     },
     {
       "rank": "16.",
-      "title": "New planets confirmed in machine learning first",
-      "link": "https://phys.org/news/2020-08-planets-machine.html"
+      "title": "First tax year with Stripe Atlas",
+      "link": "https://tryhexadecimal.com/journal/business-taxes"
     },
     {
       "rank": "17.",
@@ -87,33 +87,33 @@
     },
     {
       "rank": "18.",
-      "title": "Non-obvious remote work techniques",
-      "link": "https://queue.acm.org/detail.cfm?id=3417752"
+      "title": "Building a Home Lab Beginners Guide",
+      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
       "rank": "19.",
-      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
-      "link": "https://www.rarlab.com/revoked591.html"
-    },
-    {
-      "rank": "20.",
-      "title": "Axial-DeepLab: Long-Range Modeling in All Layers for Panoptic Segmentation",
-      "link": "https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html"
-    },
-    {
-      "rank": "21.",
-      "title": "Show HN: Script-httpd – Turn command line scripts into web services",
-      "link": "https://github.com/beefsack/script-httpd/"
-    },
-    {
-      "rank": "22.",
       "title": "Jacques Cousteau’s grandson wants to build the ISS of the sea",
       "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
     },
     {
+      "rank": "20.",
+      "title": "Non-obvious remote work techniques",
+      "link": "https://queue.acm.org/detail.cfm?id=3417752"
+    },
+    {
+      "rank": "21.",
+      "title": "Axial-DeepLab: Long-Range Modeling in All Layers for Panoptic Segmentation",
+      "link": "https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html"
+    },
+    {
+      "rank": "22.",
+      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
+      "link": "https://www.rarlab.com/revoked591.html"
+    },
+    {
       "rank": "23.",
-      "title": "What happens when you load a URL? (2015)",
-      "link": "https://danluu.com/navigate-url/"
+      "title": "Show HN: Script-httpd – Turn command line scripts into web services",
+      "link": "https://github.com/beefsack/script-httpd/"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "What happens when you load a URL? (2015)",
+      "link": "https://danluu.com/navigate-url/"
+    },
+    {
+      "rank": "26.",
       "title": "SATCON1 Report on Impact of Satellite Constellations on Astronomy",
       "link": "https://noirlab.edu/public/products/techdocs/techdoc003/"
     },
     {
-      "rank": "26.",
-      "title": "1930s Household Refrigerators (2013)",
-      "link": "https://musingsonentropy.com/2013/04/04/1930s-household-refrigerators/"
-    },
-    {
       "rank": "27.",
-      "title": "Melancholy of obsolete futures: on Soviet Brutalism",
-      "link": "https://thecritic.co.uk/melancholy-of-obsolete-futures/"
-    },
-    {
-      "rank": "28.",
       "title": "Boom Supersonic hopes to test-fly its supersonic plane in 2021",
       "link": "https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html"
     },
     {
+      "rank": "28.",
+      "title": "Melancholy of obsolete futures: on Soviet Brutalism",
+      "link": "https://thecritic.co.uk/melancholy-of-obsolete-futures/"
+    },
+    {
       "rank": "29.",
-      "title": "Lucid Air EV’s Battery Will Be 113.0 KWh",
-      "link": "https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/"
+      "title": "1930s Household Refrigerators (2013)",
+      "link": "https://musingsonentropy.com/2013/04/04/1930s-household-refrigerators/"
     },
     {
       "rank": "30.",
-      "title": "US indictments of piracy group members throw top-tier piracy world into chaos",
-      "link": "https://torrentfreak.com/us-indictments-and-raids-of-piracy-group-members-in-the-scene-throw-top-tier-piracy-world-into-chaos-200826/"
+      "title": "Lucid Air EV’s Battery Will Be 113.0 KWh",
+      "link": "https://www.caranddriver.com/news/a33797162/2021-lucid-air-517-mile-range-113-kwh-battery/"
     }
   ],
   "metadata": {
