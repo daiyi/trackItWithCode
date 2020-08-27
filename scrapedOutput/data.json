@@ -7,143 +7,143 @@
     },
     {
       "rank": "2.",
-      "title": "Wind and solar are 30-50% cheaper than thought, admits UK government",
-      "link": "https://www.carbonbrief.org/wind-and-solar-are-30-50-cheaper-than-thought-admits-uk-government"
-    },
-    {
-      "rank": "3.",
       "title": "Scrollbar Blindness",
       "link": "https://svenkadak.com/blog/scrollbar-blindness"
     },
     {
-      "rank": "4.",
-      "title": "New Case Studies About Google’s Use of Go",
+      "rank": "3.",
+      "title": "New case studies about Google’s use of Go",
       "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
       "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "A Short Guide to Minimal Web Development",
       "link": "https://meiert.com/en/blog/minimal-web-development/"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "The Lounge – Modern web IRC client designed for self-hosting",
       "link": "https://github.com/thelounge/thelounge"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Band-Limiting Procedural Textures",
       "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Rust 1.46",
       "link": "https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html"
     },
     {
-      "rank": "10.",
-      "title": "Free Learning List",
-      "link": "https://freelearninglist.org/"
+      "rank": "9.",
+      "title": "Wind and solar are cheaper than thought, admits UK government",
+      "link": "https://www.carbonbrief.org/wind-and-solar-are-30-50-cheaper-than-thought-admits-uk-government"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Show HN: Muse – Tool for Thought on iPad",
       "link": "https://launch-preview.museapp.com/"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Hard work vs. Long work (2011)",
       "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
     },
     {
-      "rank": "13.",
-      "title": "Nitrokey",
-      "link": "https://www.nitrokey.com/"
-    },
-    {
-      "rank": "14.",
-      "title": "Thread: Differentiable Self-Organizing Systems",
-      "link": "https://distill.pub/2020/selforg/"
-    },
-    {
-      "rank": "15.",
-      "title": "Software engineering lessons from the flight deck",
-      "link": "https://amanjain.substack.com/p/software-engineering-lessons-from"
-    },
-    {
-      "rank": "16.",
+      "rank": "12.",
       "title": "Confessions of an ID Theft Kingpin, Part II",
       "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
     },
     {
-      "rank": "17.",
+      "rank": "13.",
+      "title": "Thread: Differentiable Self-Organizing Systems",
+      "link": "https://distill.pub/2020/selforg/"
+    },
+    {
+      "rank": "14.",
+      "title": "Nitrokey",
+      "link": "https://www.nitrokey.com/"
+    },
+    {
+      "rank": "15.",
       "title": "Hunting the Nearly-Invisible Personal Website",
       "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
     },
     {
-      "rank": "18.",
+      "rank": "16.",
       "title": "Rare plants that ‘bleed’ nickel",
       "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
     },
     {
-      "rank": "19.",
-      "title": "Making QUIC Quicker with NIC Offload",
-      "link": "https://dl.acm.org/doi/abs/10.1145/3405796.3405827"
-    },
-    {
-      "rank": "20.",
+      "rank": "17.",
       "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
       "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
     },
     {
-      "rank": "21.",
+      "rank": "18.",
+      "title": "Making QUIC Quicker with NIC Offload",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3405796.3405827"
+    },
+    {
+      "rank": "19.",
       "title": "Abstracting Abstract Machines (2010) [pdf]",
       "link": "http://matt.might.net/papers/vanhorn2010abstract.pdf"
     },
     {
-      "rank": "22.",
+      "rank": "20.",
       "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
       "link": "https://www.nature.com/articles/d41586-020-02480-5"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
       "title": "Even Google engineers are confused about Google’s privacy settings",
       "link": "https://www.theverge.com/2020/8/26/21403202/google-engineers-privacy-settings-lawsuit-arizona-doubleclick"
     },
     {
-      "rank": "24.",
-      "title": "Blanked-out spots on China's maps helped us uncover Xinjiang's camps",
-      "link": "https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps"
-    },
-    {
-      "rank": "25.",
+      "rank": "22.",
       "title": "Parabola on ReMarkable: A Guide [pdf]",
       "link": "http://www.davisr.me/projects/parabola-rm/install-guide-latest.pdf"
     },
     {
-      "rank": "26.",
+      "rank": "23.",
+      "title": "Blanked-out spots on China's maps helped us uncover Xinjiang's camps",
+      "link": "https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps"
+    },
+    {
+      "rank": "24.",
+      "title": "White supremacists and militias have infiltrated police across US, report says",
+      "link": "https://www.theguardian.com/us-news/2020/aug/27/white-supremacists-militias-infiltrate-us-police-report"
+    },
+    {
+      "rank": "25.",
       "title": "Interview with Zig language creator Andrew Kelley [video]",
       "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
     },
     {
-      "rank": "27.",
-      "title": "Walmart Joins Talks to Buy TikTok",
-      "link": "https://www.nytimes.com/2020/08/27/technology/walmart-tiktok-deal.html"
+      "rank": "26.",
+      "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
+      "link": "item?id=24291790"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "FEMA Spends More Preparing for Terrorism Than Hurricanes",
       "link": "https://www.bloomberg.com/news/articles/2020-08-27/hurricane-laura-fema-grants-aren-t-focused-on-climate-change"
     },
     {
+      "rank": "28.",
+      "title": "Walmart Joins Talks to Buy TikTok",
+      "link": "https://www.nytimes.com/2020/08/27/technology/walmart-tiktok-deal.html"
+    },
+    {
       "rank": "29.",
-      "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
-      "link": "item?id=24291790"
+      "title": "Antibiotics nearly double risk of developing IBD, doctors warn",
+      "link": "https://www.studyfinds.org/antibiotics-double-ibd-risk/"
     },
     {
       "rank": "30.",
