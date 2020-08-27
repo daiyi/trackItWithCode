@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
-      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
+      "title": "New Case Studies About Google’s Use of Go",
+      "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
     },
     {
       "rank": "5.",
-      "title": "New Case Studies About Google’s Use of Go",
-      "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
+      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
+      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
     },
     {
       "rank": "6.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
-      "title": "Rust 1.46",
-      "link": "https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html"
-    },
-    {
-      "rank": "8.",
       "title": "The Lounge – Modern web IRC client designed for self-hosting",
       "link": "https://github.com/thelounge/thelounge"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Band-Limiting Procedural Textures",
       "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
+    },
+    {
+      "rank": "9.",
+      "title": "Rust 1.46",
+      "link": "https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html"
     },
     {
       "rank": "10.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Making QUIC Quicker with NIC Offload",
-      "link": "https://dl.acm.org/doi/abs/10.1145/3405796.3405827"
+      "title": "Parabola on ReMarkable: A Guide [pdf]",
+      "link": "http://www.davisr.me/projects/parabola-rm/install-guide-latest.pdf"
     },
     {
       "rank": "13.",
-      "title": "Parabola on ReMarkable: A Guide [pdf]",
-      "link": "http://www.davisr.me/projects/parabola-rm/install-guide-latest.pdf"
+      "title": "Making QUIC Quicker with NIC Offload",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3405796.3405827"
     },
     {
       "rank": "14.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "Walmart Joins Talks to Buy TikTok",
-      "link": "https://www.nytimes.com/2020/08/27/technology/walmart-tiktok-deal.html"
+      "title": "Abstracting Abstract Machines (2010) [pdf]",
+      "link": "http://matt.might.net/papers/vanhorn2010abstract.pdf"
     },
     {
       "rank": "19.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "Abstracting Abstract Machines (2010) [pdf]",
-      "link": "http://matt.might.net/papers/vanhorn2010abstract.pdf"
+      "title": "Walmart Joins Talks to Buy TikTok",
+      "link": "https://www.nytimes.com/2020/08/27/technology/walmart-tiktok-deal.html"
     },
     {
       "rank": "22.",
@@ -127,23 +127,23 @@
     },
     {
       "rank": "26.",
-      "title": "Show HN: Civilization VI UI, but made in WebFlow (a no-code tool)",
-      "link": "https://webflow.com/website/Civilization"
-    },
-    {
-      "rank": "27.",
       "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
       "link": "item?id=24291790"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "An Archive of a Different Type",
       "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Researchers in Germany are giving out scholarships in “idleness”",
       "link": "https://www.independent.co.uk/news/world/europe/germany-grants-laziness-scholarships-do-nothing-university-hamburg-a9681466.html"
+    },
+    {
+      "rank": "29.",
+      "title": "The magic of ion channels in the neurons",
+      "link": "https://i-kh.net/2020/08/26/how-signals-propagate-through-neurons/"
     },
     {
       "rank": "30.",
