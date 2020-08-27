@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
+      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
+      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
+    },
+    {
+      "rank": "9.",
       "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
       "link": "https://bennettfeely.com/ztext/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Willscott/go-NFS: Golang NFSv3 server",
       "link": "https://github.com/willscott/go-nfs/"
-    },
-    {
-      "rank": "10.",
-      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
-      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
     },
     {
       "rank": "11.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
+      "title": "Show HN: Teal – a serverless VM and programming language",
+      "link": "https://www.condense9.com/"
+    },
+    {
+      "rank": "18.",
       "title": "First tax year with Stripe Atlas",
       "link": "https://tryhexadecimal.com/journal/business-taxes"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Preparing Our Partners for iOS 14",
       "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
-    },
-    {
-      "rank": "19.",
-      "title": "The Selectric Typewriter",
-      "link": "https://www.ibm.com/ibm/history/ibm100/us/en/icons/selectric/"
     },
     {
       "rank": "20.",
@@ -107,38 +107,38 @@
     },
     {
       "rank": "22.",
+      "title": "The Selectric Typewriter",
+      "link": "https://www.ibm.com/ibm/history/ibm100/us/en/icons/selectric/"
+    },
+    {
+      "rank": "23.",
       "title": "Show HN: Lulim Jewelry – Design and 3D print your own custom wedding band",
       "link": "https://lulimjewelry.com"
     },
     {
-      "rank": "23.",
-      "title": "New planets confirmed in machine learning first",
-      "link": "https://phys.org/news/2020-08-planets-machine.html"
-    },
-    {
       "rank": "24.",
-      "title": "The Illusion of Control in Web Design (2018)",
-      "link": "https://alistapart.com/article/the-illusion-of-control-in-web-design/"
-    },
-    {
-      "rank": "25.",
-      "title": "Show HN: Teal – a serverless VM and programming language",
-      "link": "https://www.condense9.com/"
-    },
-    {
-      "rank": "26.",
       "title": "Information on the revocation of WinRAR 5.91 digital certificate",
       "link": "https://www.rarlab.com/revoked591.html"
     },
     {
-      "rank": "27.",
+      "rank": "25.",
+      "title": "New planets confirmed in machine learning first",
+      "link": "https://phys.org/news/2020-08-planets-machine.html"
+    },
+    {
+      "rank": "26.",
       "title": "SSH Keygen – RSA, DSA, Ecdsa, EdDSA",
       "link": "https://gravitational.com/blog/comparing-ssh-keys/"
     },
     {
+      "rank": "27.",
+      "title": "The Illusion of Control in Web Design (2018)",
+      "link": "https://alistapart.com/article/the-illusion-of-control-in-web-design/"
+    },
+    {
       "rank": "28.",
-      "title": "What happens when you load a URL? (2015)",
-      "link": "https://danluu.com/navigate-url/"
+      "title": "SATCON1 Report on Impact of Satellite Constellations on Astronomy",
+      "link": "https://noirlab.edu/public/products/techdocs/techdoc003/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "SATCON1 Report on Impact of Satellite Constellations on Astronomy",
-      "link": "https://noirlab.edu/public/products/techdocs/techdoc003/"
+      "title": "Henry Zhu: A leap of faith, Committing to open source",
+      "link": "https://github.com/readme/henry-zhu"
     }
   ],
   "metadata": {
