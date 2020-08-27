@@ -27,38 +27,38 @@
     },
     {
       "rank": "6.",
-      "title": "The Lounge – Modern web IRC client designed for self-hosting",
-      "link": "https://github.com/thelounge/thelounge"
-    },
-    {
-      "rank": "7.",
       "title": "A Short Guide to Minimal Web Development (2018)",
       "link": "https://meiert.com/en/blog/minimal-web-development/"
     },
     {
+      "rank": "7.",
+      "title": "The Lounge – Modern web IRC client designed for self-hosting",
+      "link": "https://github.com/thelounge/thelounge"
+    },
+    {
       "rank": "8.",
+      "title": "Constant Time LFU",
+      "link": "https://arpitbhayani.me/blogs/lfu"
+    },
+    {
+      "rank": "9.",
       "title": "The time it takes to run a paid newsletter",
       "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Band-Limiting Procedural Textures",
       "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Show HN: Muse – Tool for Thought on iPad",
       "link": "https://launch-preview.museapp.com/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "An Archive of a Different Type",
       "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
-    },
-    {
-      "rank": "12.",
-      "title": "Constant Time LFU",
-      "link": "https://arpitbhayani.me/blogs/lfu"
     },
     {
       "rank": "13.",
@@ -67,28 +67,28 @@
     },
     {
       "rank": "14.",
-      "title": "Self-Classifying MNIST Digits Using Neural Cellular Automata",
-      "link": "https://distill.pub/2020/selforg/mnist/"
-    },
-    {
-      "rank": "15.",
       "title": "Wind and solar are cheaper than thought, admits UK government",
       "link": "https://www.carbonbrief.org/wind-and-solar-are-30-50-cheaper-than-thought-admits-uk-government"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "New case studies about Google’s use of Go",
       "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
     },
     {
+      "rank": "16.",
+      "title": "Self-Classifying MNIST Digits Using Neural Cellular Automata",
+      "link": "https://distill.pub/2020/selforg/mnist/"
+    },
+    {
       "rank": "17.",
-      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
-      "link": "https://arxiv.org/abs/2008.11479"
+      "title": "Hard work vs. Long work (2011)",
+      "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
     },
     {
       "rank": "18.",
-      "title": "Hard work vs. Long work (2011)",
-      "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
+      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
+      "link": "https://arxiv.org/abs/2008.11479"
     },
     {
       "rank": "19.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
+      "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
+      "link": "item?id=24291790"
+    },
+    {
+      "rank": "26.",
       "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
       "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Rare plants that ‘bleed’ nickel",
       "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
-    },
-    {
-      "rank": "27.",
-      "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
-      "link": "item?id=24291790"
     },
     {
       "rank": "28.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "Abstracting Abstract Machines (2010) [pdf]",
-      "link": "http://matt.might.net/papers/vanhorn2010abstract.pdf"
+      "title": "Ask HN: Is any ultrasonic aortic valve decalcification available to the public?",
+      "link": "item?id=24298160"
     },
     {
       "rank": "30.",
