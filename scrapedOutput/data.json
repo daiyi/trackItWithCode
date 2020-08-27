@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Scrollbar Blindness",
-      "link": "https://svenkadak.com/blog/scrollbar-blindness"
+      "title": "Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?",
+      "link": "https://twitter.com/SpencerDailey/status/1299063704483438593"
     },
     {
       "rank": "4.",
-      "title": "Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?",
-      "link": "https://twitter.com/SpencerDailey/status/1299063704483438593"
+      "title": "Scrollbar Blindness",
+      "link": "https://svenkadak.com/blog/scrollbar-blindness"
     },
     {
       "rank": "5.",
@@ -32,28 +32,28 @@
     },
     {
       "rank": "7.",
-      "title": "The time it takes to run a paid newsletter",
-      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
-    },
-    {
-      "rank": "8.",
       "title": "The Lounge – Modern web IRC client designed for self-hosting",
       "link": "https://github.com/thelounge/thelounge"
     },
     {
-      "rank": "9.",
-      "title": "New case studies about Google’s use of Go",
-      "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
+      "rank": "8.",
+      "title": "The time it takes to run a paid newsletter",
+      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Band-Limiting Procedural Textures",
       "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Show HN: Muse – Tool for Thought on iPad",
       "link": "https://launch-preview.museapp.com/"
+    },
+    {
+      "rank": "11.",
+      "title": "Self-Classifying MNIST Digits Using Neural Cellular Automata",
+      "link": "https://distill.pub/2020/selforg/mnist/"
     },
     {
       "rank": "12.",
@@ -67,73 +67,73 @@
     },
     {
       "rank": "14.",
+      "title": "New case studies about Google’s use of Go",
+      "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
+    },
+    {
+      "rank": "15.",
       "title": "Nitrokey",
       "link": "https://www.nitrokey.com/"
     },
     {
-      "rank": "15.",
-      "title": "Self-Classifying MNIST Digits Using Neural Cellular Automata",
-      "link": "https://distill.pub/2020/selforg/mnist/"
-    },
-    {
       "rank": "16.",
-      "title": "Confessions of an ID Theft Kingpin, Part II",
-      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
-    },
-    {
-      "rank": "17.",
       "title": "Hard work vs. Long work (2011)",
       "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
     },
     {
+      "rank": "17.",
+      "title": "Confessions of an ID Theft Kingpin, Part II",
+      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
+    },
+    {
       "rank": "18.",
+      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
+      "link": "https://arxiv.org/abs/2008.11479"
+    },
+    {
+      "rank": "19.",
       "title": "Rust 1.46",
       "link": "https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Hunting the Nearly-Invisible Personal Website",
       "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "The magic of ion channels in the neurons",
       "link": "https://i-kh.net/2020/08/26/the-magic-of-ion-channels/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
       "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
       "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Rare plants that ‘bleed’ nickel",
       "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
+      "title": "Antibiotics nearly double risk of developing IBD, doctors warn",
+      "link": "https://www.studyfinds.org/antibiotics-double-ibd-risk/"
+    },
+    {
+      "rank": "26.",
       "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
       "link": "item?id=24291790"
     },
     {
-      "rank": "25.",
-      "title": "Making QUIC Quicker with NIC Offload",
-      "link": "https://dl.acm.org/doi/abs/10.1145/3405796.3405827"
-    },
-    {
-      "rank": "26.",
+      "rank": "27.",
       "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
       "link": "https://www.nature.com/articles/d41586-020-02480-5"
-    },
-    {
-      "rank": "27.",
-      "title": "Antibiotics nearly double risk of developing IBD, doctors warn",
-      "link": "https://www.studyfinds.org/antibiotics-double-ibd-risk/"
     },
     {
       "rank": "28.",
