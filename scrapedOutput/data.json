@@ -27,93 +27,93 @@
     },
     {
       "rank": "6.",
-      "title": "Willscott/go-NFS: Golang NFSv3 server",
-      "link": "https://github.com/willscott/go-nfs/"
-    },
-    {
-      "rank": "7.",
-      "title": "A mysterious radio burst that keeps repeating",
-      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
-    },
-    {
-      "rank": "8.",
-      "title": "New Racket Language Website",
-      "link": "https://racket-lang.org/"
-    },
-    {
-      "rank": "9.",
-      "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
-      "link": "https://bennettfeely.com/ztext/"
-    },
-    {
-      "rank": "10.",
-      "title": "How Drakeo the Ruler recorded an amazing-sounding album from jail",
-      "link": "https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/"
-    },
-    {
-      "rank": "11.",
-      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
-      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
-    },
-    {
-      "rank": "12.",
-      "title": "Building a Home Lab Beginners Guide",
-      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
-    },
-    {
-      "rank": "13.",
       "title": "Andy Matuschak's Notes",
       "link": "https://notes.andymatuschak.org/About_these_notes"
     },
     {
-      "rank": "14.",
-      "title": "Pachama (YC W19) seeks ML and SW engineers to solve climate change",
-      "link": "https://jobs.lever.co/pachama"
+      "rank": "7.",
+      "title": "How Drakeo the Ruler recorded an amazing-sounding album from jail",
+      "link": "https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/"
     },
     {
-      "rank": "15.",
+      "rank": "8.",
+      "title": "Willscott/go-NFS: Golang NFSv3 server",
+      "link": "https://github.com/willscott/go-nfs/"
+    },
+    {
+      "rank": "9.",
+      "title": "New Racket Language Website",
+      "link": "https://racket-lang.org/"
+    },
+    {
+      "rank": "10.",
+      "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
+      "link": "https://bennettfeely.com/ztext/"
+    },
+    {
+      "rank": "11.",
+      "title": "A mysterious radio burst that keeps repeating",
+      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
+    },
+    {
+      "rank": "12.",
+      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
+      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
+    },
+    {
+      "rank": "13.",
+      "title": "Building a Home Lab Beginners Guide",
+      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
+    },
+    {
+      "rank": "14.",
       "title": "Heptapod – Mercurial for Gitlab",
       "link": "https://heptapod.net"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "SEC Modernizes the Accredited Investor Definition",
       "link": "https://www.sec.gov/news/press-release/2020-191"
     },
     {
+      "rank": "16.",
+      "title": "Pachama (YC W19) seeks ML and SW engineers to solve climate change",
+      "link": "https://jobs.lever.co/pachama"
+    },
+    {
       "rank": "17.",
-      "title": "Is TDD Dead? (2014)",
-      "link": "https://martinfowler.com/articles/is-tdd-dead/"
-    },
-    {
-      "rank": "18.",
-      "title": "New planets confirmed in machine learning first",
-      "link": "https://phys.org/news/2020-08-planets-machine.html"
-    },
-    {
-      "rank": "19.",
-      "title": "The Illusion of Control in Web Design (2018)",
-      "link": "https://alistapart.com/article/the-illusion-of-control-in-web-design/"
-    },
-    {
-      "rank": "20.",
       "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
       "link": "https://github.com/iggredible/Learn-Vim"
     },
     {
-      "rank": "21.",
+      "rank": "18.",
+      "title": "Is TDD Dead? (2014)",
+      "link": "https://martinfowler.com/articles/is-tdd-dead/"
+    },
+    {
+      "rank": "19.",
+      "title": "New planets confirmed in machine learning first",
+      "link": "https://phys.org/news/2020-08-planets-machine.html"
+    },
+    {
+      "rank": "20.",
       "title": "Preparing Our Partners for iOS 14",
       "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
     },
     {
+      "rank": "21.",
+      "title": "The Illusion of Control in Web Design (2018)",
+      "link": "https://alistapart.com/article/the-illusion-of-control-in-web-design/"
+    },
+    {
       "rank": "22.",
-      "title": "Show HN: Teal – a serverless VM and programming language",
-      "link": "https://www.condense9.com/"
+      "title": "First tax year with Stripe Atlas",
+      "link": "https://tryhexadecimal.com/journal/business-taxes"
     },
     {
       "rank": "23.",
-      "title": "First tax year with Stripe Atlas",
-      "link": "https://tryhexadecimal.com/journal/business-taxes"
+      "title": "Show HN: Teal – a serverless VM and programming language",
+      "link": "https://www.condense9.com/"
     },
     {
       "rank": "24.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "GNU tar blocking factor, blocks, records and checkpoints",
-      "link": "https://finch.am/projects/tar/"
+      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
+      "link": "https://www.rarlab.com/revoked591.html"
     },
     {
       "rank": "28.",
-      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
-      "link": "https://www.rarlab.com/revoked591.html"
+      "title": "GNU tar blocking factor, blocks, records and checkpoints",
+      "link": "https://finch.am/projects/tar/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Uchronia: An Alternate History List",
-      "link": "http://uchronia.com/"
+      "title": "What happens when you load a URL? (2015)",
+      "link": "https://danluu.com/navigate-url/"
     }
   ],
   "metadata": {
