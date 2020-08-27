@@ -7,28 +7,28 @@
     },
     {
       "rank": "2.",
-      "title": "SpaceX Starlink average speedtest is 42.3Mbps down / 9.7 Mbps up",
-      "link": "https://testmy.net/hoststats/spacex_starlink"
-    },
-    {
-      "rank": "3.",
       "title": "The potentially revolutionary Celera 500L aircraft",
       "link": "https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
       "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Why Johnny Won't Upgrade",
       "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "MixedName – Bilingual baby name finder",
       "link": "https://mixedname.com/"
+    },
+    {
+      "rank": "6.",
+      "title": "SpaceX Starlink average speedtest is 42.3Mbps down / 9.7 Mbps up",
+      "link": "https://testmy.net/hoststats/spacex_starlink"
     },
     {
       "rank": "7.",
@@ -37,93 +37,93 @@
     },
     {
       "rank": "8.",
+      "title": "Donald Knuth versus Email",
+      "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
+    },
+    {
+      "rank": "9.",
       "title": "A leap of faith: Committing to open source",
       "link": "https://github.com/readme/henry-zhu"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
+      "title": "BBC Master on Steroids",
+      "link": "https://retrohax.net/bbc-master-on-steroids/"
+    },
+    {
+      "rank": "11.",
       "title": "Citi’s $900M Misfire Happened During Software Switch",
       "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
     },
     {
-      "rank": "10.",
-      "title": "Shakuntala Devi – The Human Computer (2016)",
-      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
-    },
-    {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Unicornify",
       "link": "Https://unicornify.pictures"
     },
     {
-      "rank": "12.",
-      "title": "Show HN: Computer Music with Python",
-      "link": "https://github.com/luvsound/pippi"
+      "rank": "13.",
+      "title": "Shakuntala Devi – The Human Computer (2016)",
+      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Belarus turned off the internet – citizens hot-wired it",
       "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
+      "title": "Show HN: Computer Music with Python",
+      "link": "https://github.com/luvsound/pippi"
+    },
+    {
+      "rank": "16.",
       "title": "Show HN: ztext.js – JavaScript library that makes any font 3D",
       "link": "https://bennettfeely.com/ztext/"
     },
     {
-      "rank": "15.",
-      "title": "Differentiable Control Problems",
-      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
-    },
-    {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Problem Solving with Algorithms and Data Structures [pdf]",
       "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Motoko, a programming language for building directly on the internet",
       "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
+      "title": "Differentiable Control Problems",
+      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
+    },
+    {
+      "rank": "20.",
       "title": "Andy Matuschak's Notes",
       "link": "https://notes.andymatuschak.org/About_these_notes"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "Shippos USPS Time in Transit Data",
       "link": "https://goshippo.com/usps-data-2020/"
     },
     {
-      "rank": "20.",
-      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
-      "link": "https://msadowski.github.io/2-years-remote-consulting/"
-    },
-    {
-      "rank": "21.",
+      "rank": "22.",
       "title": "D3 6.0",
       "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
       "link": "https://arwes.dev"
     },
     {
-      "rank": "23.",
-      "title": "Building a Home Lab Beginners Guide",
-      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
-    },
-    {
       "rank": "24.",
-      "title": "Willscott/go-NFS: Golang NFSv3 server",
-      "link": "https://github.com/willscott/go-nfs/"
+      "title": "Digital Sight Management, and the Mystery of the Missing Amazon Receipts",
+      "link": "https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/"
     },
     {
       "rank": "25.",
-      "title": "TikTok CEO Kevin Mayer to leave the company",
-      "link": "https://www.cnbc.com/2020/08/27/tiktok-ceo-kevin-mayer-to-leave-the-company.html"
+      "title": "Building a Home Lab Beginners Guide",
+      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "A fleet of computers helps settle a 90-year-old math problem",
-      "link": "https://www.wired.com/story/a-fleet-of-computers-helps-settle-a-90-year-old-math-problem/"
+      "title": "Willscott/go-NFS: Golang NFSv3 server",
+      "link": "https://github.com/willscott/go-nfs/"
     },
     {
       "rank": "28.",
-      "title": "TF-Coder, a tool that writes tricky TensorFlow expressions",
-      "link": "https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html"
+      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
+      "link": "https://msadowski.github.io/2-years-remote-consulting/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
-      "link": "https://arxiv.org/abs/2008.11479"
+      "title": "TikTok CEO Kevin Mayer to leave the company",
+      "link": "https://www.cnbc.com/2020/08/27/tiktok-ceo-kevin-mayer-to-leave-the-company.html"
     }
   ],
   "metadata": {
