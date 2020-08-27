@@ -12,143 +12,143 @@
     },
     {
       "rank": "3.",
+      "title": "Show HN: Civilization VI, but made in WebFlow (a no-code tool)",
+      "link": "https://webflow.com/website/Civilization"
+    },
+    {
+      "rank": "4.",
       "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
       "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Hard work vs. Long work (2011)",
       "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Hunting the Nearly-Invisible Personal Website",
       "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
+      "title": "Parabola on ReMarkable: A Guide [pdf]",
+      "link": "http://www.davisr.me/projects/parabola-rm/install-guide-latest.pdf"
+    },
+    {
+      "rank": "8.",
+      "title": "A Short Guide to Minimal Web Development",
+      "link": "https://meiert.com/en/blog/minimal-web-development/"
+    },
+    {
+      "rank": "9.",
       "title": "An Archive of a Different Type",
       "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
     },
     {
-      "rank": "7.",
+      "rank": "10.",
       "title": "Schrödinger’s Cat When Nobody Is Looking",
       "link": "http://nautil.us/issue/89/the-dark-side/schrdingers-cat-when-nobody-is-looking"
     },
     {
-      "rank": "8.",
+      "rank": "11.",
       "title": "The potentially revolutionary Celera 500L aircraft",
       "link": "https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover"
     },
     {
-      "rank": "9.",
-      "title": "Datasaurus: Never trust summary statistics; visualize your data (2016)",
-      "link": "http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html"
-    },
-    {
-      "rank": "10.",
-      "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
-      "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
-    },
-    {
-      "rank": "11.",
-      "title": "BBC Master on Steroids",
-      "link": "https://retrohax.net/bbc-master-on-steroids/"
-    },
-    {
       "rank": "12.",
-      "title": "Knuth versus Email (1999)",
-      "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
-    },
-    {
-      "rank": "13.",
-      "title": "Approximate Results May Vary",
-      "link": "https://ericlippert.com/2020/08/21/approximate-results-may-vary/"
-    },
-    {
-      "rank": "14.",
       "title": "Embrace, extend, and finally extinguish – Microsoft plays their hand",
       "link": "https://drewdevault.com/2020/08/27/Microsoft-plays-their-hand.html"
     },
     {
+      "rank": "13.",
+      "title": "Datasaurus: Never trust summary statistics; visualize your data (2016)",
+      "link": "http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html"
+    },
+    {
+      "rank": "14.",
+      "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
+      "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
+    },
+    {
       "rank": "15.",
+      "title": "BBC Master on Steroids",
+      "link": "https://retrohax.net/bbc-master-on-steroids/"
+    },
+    {
+      "rank": "16.",
+      "title": "Knuth versus Email (1999)",
+      "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
+    },
+    {
+      "rank": "17.",
+      "title": "Approximate Results May Vary",
+      "link": "https://ericlippert.com/2020/08/21/approximate-results-may-vary/"
+    },
+    {
+      "rank": "18.",
       "title": "A leap of faith: Committing to open source",
       "link": "https://github.com/readme/henry-zhu"
     },
     {
-      "rank": "16.",
+      "rank": "19.",
       "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
       "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
     },
     {
-      "rank": "17.",
+      "rank": "20.",
       "title": "Citi’s $900M Misfire Happened During Software Switch",
       "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
     },
     {
-      "rank": "18.",
+      "rank": "21.",
       "title": "Show HN: Computer Music with Python",
       "link": "https://github.com/luvsound/pippi"
     },
     {
-      "rank": "19.",
-      "title": "Photon – a live demo of a natural language interface to databases",
-      "link": "https://naturalsql.com/"
-    },
-    {
-      "rank": "20.",
+      "rank": "22.",
       "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
       "link": "https://msadowski.github.io/2-years-remote-consulting/"
     },
     {
-      "rank": "21.",
-      "title": "Interview with Zig language creator Andrew Kelley",
-      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
+      "rank": "23.",
+      "title": "FEMA Spends More Preparing for Terrorism Than Hurricanes",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-27/hurricane-laura-fema-grants-aren-t-focused-on-climate-change"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
+      "title": "Photon – a live demo of a natural language interface to databases",
+      "link": "https://naturalsql.com/"
+    },
+    {
+      "rank": "25.",
       "title": "Unicornify",
       "link": "Https://unicornify.pictures"
     },
     {
-      "rank": "23.",
+      "rank": "26.",
       "title": "Motoko, a programming language for building directly on the internet",
       "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
     },
     {
-      "rank": "24.",
-      "title": "Why Johnny Won't Upgrade",
-      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
-    },
-    {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Shippos USPS Time in Transit Data",
       "link": "https://goshippo.com/usps-data-2020/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
+      "title": "Why Johnny Won't Upgrade",
+      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
+    },
+    {
+      "rank": "29.",
       "title": "Shakuntala Devi – The Human Computer (2016)",
       "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
       "link": "https://arwes.dev"
-    },
-    {
-      "rank": "28.",
-      "title": "Differentiable Control Problems",
-      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
-    },
-    {
-      "rank": "29.",
-      "title": "MixedName – Bilingual baby name finder",
-      "link": "https://mixedname.com/"
-    },
-    {
-      "rank": "30.",
-      "title": "Digital Sight Management, and the Mystery of the Missing Amazon Receipts",
-      "link": "https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/"
     }
   ],
   "metadata": {
