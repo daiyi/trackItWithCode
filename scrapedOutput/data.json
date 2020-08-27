@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
-      "title": "D3 6.0",
-      "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
-    },
-    {
-      "rank": "8.",
       "title": "Andy Matuschak's Notes",
       "link": "https://notes.andymatuschak.org/About_these_notes"
     },
     {
+      "rank": "8.",
+      "title": "D3 6.0",
+      "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
+    },
+    {
       "rank": "9.",
-      "title": "A mysterious radio burst that keeps repeating",
-      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
+      "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
+      "link": "https://bennettfeely.com/ztext/"
     },
     {
       "rank": "10.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
-      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
-      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
+      "title": "A mysterious radio burst that keeps repeating",
+      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
     },
     {
       "rank": "12.",
-      "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
-      "link": "https://bennettfeely.com/ztext/"
+      "title": "New Racket Language Website",
+      "link": "https://racket-lang.org/"
     },
     {
       "rank": "13.",
-      "title": "New Racket Language Website",
-      "link": "https://racket-lang.org/"
+      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
+      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
     },
     {
       "rank": "14.",
@@ -77,28 +77,28 @@
     },
     {
       "rank": "16.",
-      "title": "New planets confirmed in machine learning first",
-      "link": "https://phys.org/news/2020-08-planets-machine.html"
-    },
-    {
-      "rank": "17.",
       "title": "Heptapod – Mercurial for Gitlab",
       "link": "https://heptapod.net"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
       "link": "https://github.com/iggredible/Learn-Vim"
     },
     {
+      "rank": "18.",
+      "title": "The Selectric Typewriter",
+      "link": "https://www.ibm.com/ibm/history/ibm100/us/en/icons/selectric/"
+    },
+    {
       "rank": "19.",
-      "title": "First tax year with Stripe Atlas",
-      "link": "https://tryhexadecimal.com/journal/business-taxes"
+      "title": "Preparing Our Partners for iOS 14",
+      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
     },
     {
       "rank": "20.",
-      "title": "Preparing Our Partners for iOS 14",
-      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
+      "title": "First tax year with Stripe Atlas",
+      "link": "https://tryhexadecimal.com/journal/business-taxes"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "The Selectric Typewriter",
-      "link": "https://www.ibm.com/ibm/history/ibm100/us/en/icons/selectric/"
+      "title": "Show HN: Lulim Jewelry – Design and 3D print your own custom wedding band",
+      "link": "https://lulimjewelry.com"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Show HN: Lulim Jewelry – Design and 3D print your own custom wedding band",
-      "link": "https://lulimjewelry.com"
+      "title": "New planets confirmed in machine learning first",
+      "link": "https://phys.org/news/2020-08-planets-machine.html"
     },
     {
       "rank": "25.",
-      "title": "Nobel Noblemen",
-      "link": "https://thecritic.co.uk/nobel-noblemen/"
-    },
-    {
-      "rank": "26.",
       "title": "Information on the revocation of WinRAR 5.91 digital certificate",
       "link": "https://www.rarlab.com/revoked591.html"
     },
     {
-      "rank": "27.",
-      "title": "The Illusion of Control in Web Design (2018)",
-      "link": "https://alistapart.com/article/the-illusion-of-control-in-web-design/"
-    },
-    {
-      "rank": "28.",
+      "rank": "26.",
       "title": "SSH Keygen – RSA, DSA, Ecdsa, EdDSA",
       "link": "https://gravitational.com/blog/comparing-ssh-keys/"
     },
     {
+      "rank": "27.",
+      "title": "Nobel Noblemen",
+      "link": "https://thecritic.co.uk/nobel-noblemen/"
+    },
+    {
+      "rank": "28.",
+      "title": "What happens when you load a URL? (2015)",
+      "link": "https://danluu.com/navigate-url/"
+    },
+    {
       "rank": "29.",
-      "title": "Pachama (YC W19) seeks ML and SW engineers to solve climate change",
-      "link": "https://jobs.lever.co/pachama"
+      "title": "Henry Zhu: A leap of faith, Committing to open source",
+      "link": "https://github.com/readme/henry-zhu"
     },
     {
       "rank": "30.",
-      "title": "What happens when you load a URL? (2015)",
-      "link": "https://danluu.com/navigate-url/"
+      "title": "Pachama (YC W19) seeks ML and SW engineers to solve climate change",
+      "link": "https://jobs.lever.co/pachama"
     }
   ],
   "metadata": {
