@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Schrödinger’s Cat When Nobody Is Looking",
-      "link": "http://nautil.us/issue/89/the-dark-side/schrdingers-cat-when-nobody-is-looking"
+      "title": "Band-Limiting Procedural Textures",
+      "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
     },
     {
       "rank": "5.",
-      "title": "The potentially revolutionary Celera 500L aircraft",
-      "link": "https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover"
+      "title": "Schrödinger’s Cat When Nobody Is Looking",
+      "link": "http://nautil.us/issue/89/the-dark-side/schrdingers-cat-when-nobody-is-looking"
     },
     {
       "rank": "6.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
-      "title": "Why Johnny Won't Upgrade",
-      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
+      "title": "The potentially revolutionary Celera 500L aircraft",
+      "link": "https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover"
     },
     {
       "rank": "8.",
-      "title": "Band-Limiting Procedural Textures",
-      "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
+      "title": "Hard work vs. Long work (2011)",
+      "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
     },
     {
       "rank": "9.",
-      "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
-      "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
+      "title": "Why Johnny Won't Upgrade",
+      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
     },
     {
       "rank": "10.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
+      "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
+      "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
+    },
+    {
+      "rank": "12.",
       "title": "Knuth versus Email (1999)",
       "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
     },
     {
-      "rank": "12.",
-      "title": "Interview with Zig language creator Andrew Kelley",
-      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
-    },
-    {
       "rank": "13.",
-      "title": "BBC Master on Steroids",
-      "link": "https://retrohax.net/bbc-master-on-steroids/"
+      "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
+      "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
     },
     {
       "rank": "14.",
@@ -72,63 +72,63 @@
     },
     {
       "rank": "15.",
-      "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
-      "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
+      "title": "BBC Master on Steroids",
+      "link": "https://retrohax.net/bbc-master-on-steroids/"
     },
     {
       "rank": "16.",
-      "title": "Citi’s $900M Misfire Happened During Software Switch",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
+      "title": "Interview with Zig language creator Andrew Kelley",
+      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
     },
     {
       "rank": "17.",
-      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
-      "link": "https://msadowski.github.io/2-years-remote-consulting/"
-    },
-    {
-      "rank": "18.",
-      "title": "Show HN: Computer Music with Python",
-      "link": "https://github.com/luvsound/pippi"
-    },
-    {
-      "rank": "19.",
       "title": "Approximate Results May Vary",
       "link": "https://ericlippert.com/2020/08/21/approximate-results-may-vary/"
     },
     {
+      "rank": "18.",
+      "title": "Citi’s $900M Misfire Happened During Software Switch",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
+    },
+    {
+      "rank": "19.",
+      "title": "Show HN: Computer Music with Python",
+      "link": "https://github.com/luvsound/pippi"
+    },
+    {
       "rank": "20.",
+      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
+      "link": "https://msadowski.github.io/2-years-remote-consulting/"
+    },
+    {
+      "rank": "21.",
       "title": "Motoko, a programming language for building directly on the internet",
       "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Unicornify",
       "link": "Https://unicornify.pictures"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Shippos USPS Time in Transit Data",
       "link": "https://goshippo.com/usps-data-2020/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
       "link": "https://arwes.dev"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Shakuntala Devi – The Human Computer (2016)",
       "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Andy Matuschak's Notes",
       "link": "https://notes.andymatuschak.org/About_these_notes"
-    },
-    {
-      "rank": "26.",
-      "title": "Differentiable Control Problems",
-      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
     },
     {
       "rank": "27.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "We Used Blank Spots in China's Maps to Investigate Xinjiang's Camps",
-      "link": "https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps"
+      "title": "Differentiable Control Problems",
+      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
     },
     {
       "rank": "30.",
