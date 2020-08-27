@@ -7,33 +7,33 @@
     },
     {
       "rank": "2.",
-      "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
-      "link": "https://www.nature.com/articles/d41586-020-02480-5"
-    },
-    {
-      "rank": "3.",
       "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
       "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
     },
     {
-      "rank": "4.",
-      "title": "BBC Master on Steroids",
-      "link": "https://retrohax.net/bbc-master-on-steroids/"
-    },
-    {
-      "rank": "5.",
+      "rank": "3.",
       "title": "Why Johnny Won't Upgrade",
       "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
     },
     {
+      "rank": "4.",
+      "title": "SpaceX Starlink average speedtest is 42.3Mbps down / 9.7 Mbps up",
+      "link": "https://testmy.net/hoststats/spacex_starlink"
+    },
+    {
+      "rank": "5.",
+      "title": "BBC Master on Steroids",
+      "link": "https://retrohax.net/bbc-master-on-steroids/"
+    },
+    {
       "rank": "6.",
-      "title": "MixedName – Bilingual baby name finder",
-      "link": "https://mixedname.com/"
+      "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
+      "link": "https://www.nature.com/articles/d41586-020-02480-5"
     },
     {
       "rank": "7.",
-      "title": "SpaceX Starlink average speedtest is 42.3Mbps down / 9.7 Mbps up",
-      "link": "https://testmy.net/hoststats/spacex_starlink"
+      "title": "Donald Knuth versus Email",
+      "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
     },
     {
       "rank": "8.",
@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
-      "title": "Donald Knuth versus Email",
-      "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
-    },
-    {
-      "rank": "10.",
       "title": "A leap of faith: Committing to open source",
       "link": "https://github.com/readme/henry-zhu"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Citi’s $900M Misfire Happened During Software Switch",
       "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Shakuntala Devi – The Human Computer (2016)",
       "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
+    },
+    {
+      "rank": "12.",
+      "title": "Belarus turned off the internet – citizens hot-wired it",
+      "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
     },
     {
       "rank": "13.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "Belarus turned off the internet – citizens hot-wired it",
-      "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
+      "title": "Show HN: ztext.js – JavaScript library that makes any font 3D",
+      "link": "https://bennettfeely.com/ztext/"
     },
     {
       "rank": "15.",
@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
-      "title": "Show HN: ztext.js – JavaScript library that makes any font 3D",
-      "link": "https://bennettfeely.com/ztext/"
-    },
-    {
-      "rank": "17.",
       "title": "Problem Solving with Algorithms and Data Structures [pdf]",
       "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Motoko, a programming language for building directly on the internet",
       "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Differentiable Control Problems",
       "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
+    },
+    {
+      "rank": "19.",
+      "title": "Shippos USPS Time in Transit Data",
+      "link": "https://goshippo.com/usps-data-2020/"
     },
     {
       "rank": "20.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Shippos USPS Time in Transit Data",
-      "link": "https://goshippo.com/usps-data-2020/"
+      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
+      "link": "https://msadowski.github.io/2-years-remote-consulting/"
     },
     {
       "rank": "23.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
+      "title": "MixedName – Bilingual baby name finder",
+      "link": "https://mixedname.com/"
+    },
+    {
+      "rank": "25.",
       "title": "Building a Home Lab Beginners Guide",
       "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Willscott/go-NFS: Golang NFSv3 server",
       "link": "https://github.com/willscott/go-nfs/"
-    },
-    {
-      "rank": "26.",
-      "title": "Digital Sight Management, and the Mystery of the Missing Amazon Receipts",
-      "link": "https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/"
     },
     {
       "rank": "27.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
-      "link": "https://msadowski.github.io/2-years-remote-consulting/"
+      "title": "Digital Sight Management, and the Mystery of the Missing Amazon Receipts",
+      "link": "https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/"
     },
     {
       "rank": "29.",
