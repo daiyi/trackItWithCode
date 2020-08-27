@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "TikTok CEO Kevin Mayer to leave the company",
-      "link": "https://www.cnbc.com/2020/08/27/tiktok-ceo-kevin-mayer-to-leave-the-company.html"
+      "title": "The potentially revolutionary Celera 500L aircraft",
+      "link": "https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover"
     },
     {
       "rank": "2.",
-      "title": "The potentially revolutionary Celera 500L aircraft",
-      "link": "https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover"
+      "title": "TikTok CEO Kevin Mayer to leave the company",
+      "link": "https://www.cnbc.com/2020/08/27/tiktok-ceo-kevin-mayer-to-leave-the-company.html"
     },
     {
       "rank": "3.",
@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
-      "title": "A leap of faith: Committing to open source",
-      "link": "https://github.com/readme/henry-zhu"
-    },
-    {
-      "rank": "7.",
       "title": "Citi’s $900M Misfire Happened During Software Switch",
       "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
     },
     {
+      "rank": "7.",
+      "title": "A leap of faith: Committing to open source",
+      "link": "https://github.com/readme/henry-zhu"
+    },
+    {
       "rank": "8.",
-      "title": "Shippos USPS Time in Transit Data",
-      "link": "https://goshippo.com/usps-data-2020/"
+      "title": "Unicornify",
+      "link": "Https://unicornify.pictures"
     },
     {
       "rank": "9.",
@@ -47,63 +47,63 @@
     },
     {
       "rank": "10.",
-      "title": "Unicornify",
-      "link": "Https://unicornify.pictures"
+      "title": "Shippos USPS Time in Transit Data",
+      "link": "https://goshippo.com/usps-data-2020/"
     },
     {
       "rank": "11.",
-      "title": "Belarus turned off the internet – citizens hot-wired it",
-      "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
-    },
-    {
-      "rank": "12.",
       "title": "Show HN: ztext.js – JavaScript library that makes any font 3D",
       "link": "https://bennettfeely.com/ztext/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Problem Solving with Algorithms and Data Structures [pdf]",
       "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
     },
     {
+      "rank": "13.",
+      "title": "Belarus turned off the internet – citizens hot-wired it",
+      "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
+    },
+    {
       "rank": "14.",
-      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
-      "link": "https://arxiv.org/abs/2008.11479"
+      "title": "Shakuntala Devi – The Human Computer (2016)",
+      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
     },
     {
       "rank": "15.",
-      "title": "Andy Matuschak's Notes",
-      "link": "https://notes.andymatuschak.org/About_these_notes"
-    },
-    {
-      "rank": "16.",
       "title": "Motoko, a programming language for building directly on the internet",
       "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
     },
     {
-      "rank": "17.",
-      "title": "D3 6.0",
-      "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
+      "rank": "16.",
+      "title": "Andy Matuschak's Notes",
+      "link": "https://notes.andymatuschak.org/About_these_notes"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
       "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
     },
     {
+      "rank": "18.",
+      "title": "D3 6.0",
+      "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
+    },
+    {
       "rank": "19.",
+      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
+      "link": "https://arxiv.org/abs/2008.11479"
+    },
+    {
+      "rank": "20.",
       "title": "Building a Home Lab Beginners Guide",
       "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Willscott/go-NFS: Golang NFSv3 server",
       "link": "https://github.com/willscott/go-nfs/"
-    },
-    {
-      "rank": "21.",
-      "title": "A fleet of computers helps settle a 90-year-old math problem",
-      "link": "https://www.wired.com/story/a-fleet-of-computers-helps-settle-a-90-year-old-math-problem/"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
+      "title": "A fleet of computers helps settle a 90-year-old math problem",
+      "link": "https://www.wired.com/story/a-fleet-of-computers-helps-settle-a-90-year-old-math-problem/"
+    },
+    {
+      "rank": "24.",
       "title": "Live View of Hurricane Laura",
       "link": "https://www.windy.com/?28.695,-93.082,7"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "TF-Coder, a tool that writes tricky TensorFlow expressions",
       "link": "https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "Differentiable Control Problems",
+      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
+    },
+    {
+      "rank": "27.",
       "title": "A mysterious radio burst that keeps repeating",
       "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Photon – a live demo of a natural language interface to databases",
       "link": "https://naturalsql.com/"
     },
     {
-      "rank": "27.",
-      "title": "How Drakeo the Ruler recorded an album from jail",
-      "link": "https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/"
-    },
-    {
-      "rank": "28.",
-      "title": "Show HN: Teal – a serverless VM and programming language",
-      "link": "https://www.condense9.com/"
-    },
-    {
       "rank": "29.",
-      "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
-      "link": "https://github.com/iggredible/Learn-Vim"
+      "title": "Heptapod – Mercurial for Gitlab",
+      "link": "https://heptapod.net"
     },
     {
       "rank": "30.",
-      "title": "Differentiable Control Problems",
-      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
+      "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
+      "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
     }
   ],
   "metadata": {
