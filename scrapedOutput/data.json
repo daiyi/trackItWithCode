@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Shippos USPS Time in Transit Data",
-      "link": "https://goshippo.com/usps-data-2020/"
+      "title": "A leap of faith: Committing to open source",
+      "link": "https://github.com/readme/henry-zhu"
     },
     {
       "rank": "7.",
-      "title": "A leap of faith: Committing to open source",
-      "link": "https://github.com/readme/henry-zhu"
+      "title": "Shippos USPS Time in Transit Data",
+      "link": "https://goshippo.com/usps-data-2020/"
     },
     {
       "rank": "8.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
-      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
-      "link": "https://arxiv.org/abs/2008.11479"
-    },
-    {
-      "rank": "12.",
       "title": "Show HN: ztext.js – JavaScript library that makes any font 3D",
       "link": "https://bennettfeely.com/ztext/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Problem Solving with Algorithms and Data Structures [pdf]",
       "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
+    },
+    {
+      "rank": "13.",
+      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
+      "link": "https://arxiv.org/abs/2008.11479"
     },
     {
       "rank": "14.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
+      "title": "Andy Matuschak's Notes",
+      "link": "https://notes.andymatuschak.org/About_these_notes"
+    },
+    {
+      "rank": "16.",
       "title": "Motoko, a programming language for building directly on the internet",
       "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "A fleet of computers helps settle a 90-year-old math problem",
       "link": "https://www.wired.com/story/a-fleet-of-computers-helps-settle-a-90-year-old-math-problem/"
-    },
-    {
-      "rank": "17.",
-      "title": "Andy Matuschak's Notes",
-      "link": "https://notes.andymatuschak.org/About_these_notes"
     },
     {
       "rank": "18.",
@@ -92,23 +92,23 @@
     },
     {
       "rank": "19.",
+      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
+      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
+    },
+    {
+      "rank": "20.",
       "title": "Building a Home Lab Beginners Guide",
       "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Willscott/go-NFS: Golang NFSv3 server",
       "link": "https://github.com/willscott/go-nfs/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
       "link": "https://arwes.dev"
-    },
-    {
-      "rank": "22.",
-      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
-      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
     },
     {
       "rank": "23.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "A mysterious radio burst that keeps repeating",
-      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
+      "title": "Photon – a live demo of a natural language interface to databases",
+      "link": "https://naturalsql.com/"
     },
     {
       "rank": "25.",
-      "title": "Photon – a live demo of a natural language interface to databases",
-      "link": "https://naturalsql.com/"
+      "title": "A mysterious radio burst that keeps repeating",
+      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Differentiable Control Problems",
-      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
+      "title": "How Drakeo the Ruler recorded an album from jail",
+      "link": "https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/"
     },
     {
       "rank": "28.",
-      "title": "How Drakeo the Ruler recorded an album from jail",
-      "link": "https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/"
+      "title": "Differentiable Control Problems",
+      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
     },
     {
       "rank": "29.",
