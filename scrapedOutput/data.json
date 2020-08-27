@@ -27,43 +27,43 @@
     },
     {
       "rank": "6.",
-      "title": "A fleet of computers helps settle a 90-year-old math problem",
-      "link": "https://www.wired.com/story/a-fleet-of-computers-helps-settle-a-90-year-old-math-problem/"
-    },
-    {
-      "rank": "7.",
-      "title": "How Drakeo the Ruler recorded an album from jail",
-      "link": "https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/"
-    },
-    {
-      "rank": "8.",
-      "title": "Show HN: ztext.js – JavaScript library that makes any font 3D",
-      "link": "https://bennettfeely.com/ztext/"
-    },
-    {
-      "rank": "9.",
-      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
-      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
-    },
-    {
-      "rank": "10.",
-      "title": "Andy Matuschak's Notes",
-      "link": "https://notes.andymatuschak.org/About_these_notes"
-    },
-    {
-      "rank": "11.",
-      "title": "New Racket Language Website",
-      "link": "https://racket-lang.org/"
-    },
-    {
-      "rank": "12.",
       "title": "Unicornify",
       "link": "Https://unicornify.pictures"
     },
     {
+      "rank": "7.",
+      "title": "A fleet of computers helps settle a 90-year-old math problem",
+      "link": "https://www.wired.com/story/a-fleet-of-computers-helps-settle-a-90-year-old-math-problem/"
+    },
+    {
+      "rank": "8.",
+      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
+      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
+    },
+    {
+      "rank": "9.",
+      "title": "How Drakeo the Ruler recorded an album from jail",
+      "link": "https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/"
+    },
+    {
+      "rank": "10.",
+      "title": "Show HN: ztext.js – JavaScript library that makes any font 3D",
+      "link": "https://bennettfeely.com/ztext/"
+    },
+    {
+      "rank": "11.",
+      "title": "Andy Matuschak's Notes",
+      "link": "https://notes.andymatuschak.org/About_these_notes"
+    },
+    {
+      "rank": "12.",
+      "title": "TikTok CEO Kevin Mayer to leave the company",
+      "link": "https://www.cnbc.com/2020/08/27/tiktok-ceo-kevin-mayer-to-leave-the-company.html"
+    },
+    {
       "rank": "13.",
-      "title": "Building a Home Lab Beginners Guide",
-      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
+      "title": "New Racket Language Website",
+      "link": "https://racket-lang.org/"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Motoko, a programming language for building directly on the internet",
-      "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
+      "title": "Building a Home Lab Beginners Guide",
+      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
       "rank": "16.",
@@ -82,73 +82,73 @@
     },
     {
       "rank": "17.",
+      "title": "Motoko, a programming language for building directly on the internet",
+      "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
+    },
+    {
+      "rank": "18.",
+      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
+      "link": "https://arxiv.org/abs/2008.11479"
+    },
+    {
+      "rank": "19.",
       "title": "TF-Coder, a tool that writes tricky TensorFlow expressions",
       "link": "https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html"
     },
     {
-      "rank": "18.",
+      "rank": "20.",
       "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
       "link": "https://arwes.dev"
     },
     {
-      "rank": "19.",
-      "title": "Belarus turned off the internet – citizens hot-wired it",
-      "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
-    },
-    {
-      "rank": "20.",
-      "title": "A mysterious radio burst that keeps repeating",
-      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
-    },
-    {
       "rank": "21.",
-      "title": "Set the default branch for newly-created repositories",
-      "link": "https://github.blog/changelog/2020-08-26-set-the-default-branch-for-newly-created-repositories/"
-    },
-    {
-      "rank": "22.",
-      "title": "Show HN: Teal – a serverless VM and programming language",
-      "link": "https://www.condense9.com/"
-    },
-    {
-      "rank": "23.",
-      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
-      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
-    },
-    {
-      "rank": "24.",
-      "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
-      "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
-    },
-    {
-      "rank": "25.",
-      "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
-      "link": "https://github.com/iggredible/Learn-Vim"
-    },
-    {
-      "rank": "26.",
-      "title": "Heptapod – Mercurial for Gitlab",
-      "link": "https://heptapod.net"
-    },
-    {
-      "rank": "27.",
-      "title": "Show HN: GoFlip – Convert videos into Flip-Book-like versions of themselves",
-      "link": "https://github.com/Kadle11/GoFlip"
-    },
-    {
-      "rank": "28.",
       "title": "Gitea: Open-source(MIT) self-hosted Git service",
       "link": "https://gitea.io/en-us/"
     },
     {
+      "rank": "22.",
+      "title": "Belarus turned off the internet – citizens hot-wired it",
+      "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
+    },
+    {
+      "rank": "23.",
+      "title": "A mysterious radio burst that keeps repeating",
+      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
+    },
+    {
+      "rank": "24.",
+      "title": "Photon – a live demo of a natural language interface to databases",
+      "link": "https://naturalsql.com/"
+    },
+    {
+      "rank": "25.",
+      "title": "Set the default branch for newly-created repositories",
+      "link": "https://github.blog/changelog/2020-08-26-set-the-default-branch-for-newly-created-repositories/"
+    },
+    {
+      "rank": "26.",
+      "title": "Show HN: Teal – a serverless VM and programming language",
+      "link": "https://www.condense9.com/"
+    },
+    {
+      "rank": "27.",
+      "title": "Heptapod – Mercurial for Gitlab",
+      "link": "https://heptapod.net"
+    },
+    {
+      "rank": "28.",
+      "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
+      "link": "https://github.com/iggredible/Learn-Vim"
+    },
+    {
       "rank": "29.",
-      "title": "Jacksonpollock.org (2003)",
-      "link": "https://jacksonpollock.org/"
+      "title": "Live View of Hurricane Laura",
+      "link": "https://www.windy.com/?28.695,-93.082,7"
     },
     {
       "rank": "30.",
-      "title": "First tax year with Stripe Atlas",
-      "link": "https://tryhexadecimal.com/journal/business-taxes"
+      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
+      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
     }
   ],
   "metadata": {
