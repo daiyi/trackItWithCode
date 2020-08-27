@@ -17,8 +17,8 @@
     },
     {
       "rank": "4.",
-      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
-      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
+      "title": "A Short Guide to Minimal Web Development",
+      "link": "https://meiert.com/en/blog/minimal-web-development/"
     },
     {
       "rank": "5.",
@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Hunting the Nearly-Invisible Personal Website",
-      "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
+      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
+      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
     },
     {
       "rank": "7.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "A Short Guide to Minimal Web Development",
-      "link": "https://meiert.com/en/blog/minimal-web-development/"
+      "title": "Hunting the Nearly-Invisible Personal Website",
+      "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
     },
     {
       "rank": "9.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
+      "title": "Embrace, extend, and finally extinguish – Microsoft plays their hand",
+      "link": "https://drewdevault.com/2020/08/27/Microsoft-plays-their-hand.html"
+    },
+    {
+      "rank": "11.",
       "title": "An Archive of a Different Type",
       "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
     },
     {
-      "rank": "11.",
-      "title": "The potentially revolutionary Celera 500L aircraft",
-      "link": "https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover"
-    },
-    {
       "rank": "12.",
-      "title": "Embrace, extend, and finally extinguish – Microsoft plays their hand",
-      "link": "https://drewdevault.com/2020/08/27/Microsoft-plays-their-hand.html"
+      "title": "FEMA Spends More Preparing for Terrorism Than Hurricanes",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-27/hurricane-laura-fema-grants-aren-t-focused-on-climate-change"
     },
     {
       "rank": "13.",
@@ -72,28 +72,28 @@
     },
     {
       "rank": "15.",
-      "title": "FEMA Spends More Preparing for Terrorism Than Hurricanes",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-27/hurricane-laura-fema-grants-aren-t-focused-on-climate-change"
-    },
-    {
-      "rank": "16.",
       "title": "BBC Master on Steroids",
       "link": "https://retrohax.net/bbc-master-on-steroids/"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Knuth versus Email (1999)",
       "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "A leap of faith: Committing to open source",
       "link": "https://github.com/readme/henry-zhu"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Approximate Results May Vary",
       "link": "https://ericlippert.com/2020/08/21/approximate-results-may-vary/"
+    },
+    {
+      "rank": "19.",
+      "title": "Citi’s $900M Misfire Happened During Software Switch",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
     },
     {
       "rank": "20.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Citi’s $900M Misfire Happened During Software Switch",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
+      "title": "Why Simon Sinek is fundamentally wrong about starting with “why”",
+      "link": "https://www.monkhouseandcompany.com/blog/why-simon-sinek-is-fundamentally-wrong/"
     },
     {
       "rank": "23.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "The potentially revolutionary Celera 500L aircraft",
+      "link": "https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover"
+    },
+    {
+      "rank": "26.",
       "title": "Unicornify",
       "link": "Https://unicornify.pictures"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Shippos USPS Time in Transit Data",
       "link": "https://goshippo.com/usps-data-2020/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
+      "title": "Population panic lets rich people off the hook for the climate crisis",
+      "link": "https://www.theguardian.com/commentisfree/2020/aug/26/panic-overpopulation-climate-crisis-consumption-environment"
+    },
+    {
+      "rank": "29.",
       "title": "Motoko, a programming language for building directly on the internet",
       "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Why Johnny Won't Upgrade",
       "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
-    },
-    {
-      "rank": "29.",
-      "title": "Shakuntala Devi – The Human Computer (2016)",
-      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
-    },
-    {
-      "rank": "30.",
-      "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
-      "link": "https://arwes.dev"
     }
   ],
   "metadata": {
