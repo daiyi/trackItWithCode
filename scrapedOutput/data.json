@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Rust 1.46.0",
-      "link": "https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html"
-    },
-    {
-      "rank": "2.",
       "title": "Scrollbar Blindness",
       "link": "https://svenkadak.com/blog/scrollbar-blindness"
     },
     {
+      "rank": "2.",
+      "title": "Amazon launches Halo: tracks activity, body fat, emotions",
+      "link": "https://press.aboutamazon.com/news-releases/news-release-details/introducing-amazon-halo-and-amazon-halo-band-new-service-helps/"
+    },
+    {
       "rank": "3.",
-      "title": "Band-Limiting Procedural Textures",
-      "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
+      "title": "ReMarkable 2.0 – A digital notebook as close to paper as it gets",
+      "link": "https://remarkable.com/#What_Is_New"
     },
     {
       "rank": "4.",
@@ -22,133 +22,133 @@
     },
     {
       "rank": "5.",
+      "title": "Rust 1.46.0",
+      "link": "https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html"
+    },
+    {
+      "rank": "6.",
+      "title": "Band-Limiting Procedural Textures",
+      "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
+    },
+    {
+      "rank": "7.",
+      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
+      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
+    },
+    {
+      "rank": "8.",
       "title": "Hard work vs. Long work (2011)",
       "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
     },
     {
-      "rank": "6.",
+      "rank": "9.",
       "title": "Nitrokey",
       "link": "https://www.nitrokey.com/"
     },
     {
-      "rank": "7.",
-      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
-      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
-    },
-    {
-      "rank": "8.",
-      "title": "Show HN: Civilization VI UI, but made in WebFlow (a no-code tool)",
-      "link": "https://webflow.com/website/Civilization"
-    },
-    {
-      "rank": "9.",
-      "title": "Hunting the Nearly-Invisible Personal Website",
-      "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
-    },
-    {
       "rank": "10.",
-      "title": "Parabola on ReMarkable: A Guide [pdf]",
-      "link": "http://www.davisr.me/projects/parabola-rm/install-guide-latest.pdf"
-    },
-    {
-      "rank": "11.",
       "title": "Show HN: Muse – Tool for Thought on iPad",
       "link": "https://launch-preview.museapp.com/"
     },
     {
+      "rank": "11.",
+      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
+      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
+    },
+    {
       "rank": "12.",
-      "title": "FEMA Spends More Preparing for Terrorism Than Hurricanes",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-27/hurricane-laura-fema-grants-aren-t-focused-on-climate-change"
+      "title": "Hunting the Nearly-Invisible Personal Website",
+      "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
     },
     {
       "rank": "13.",
+      "title": "Show HN: Civilization VI UI, but made in WebFlow (a no-code tool)",
+      "link": "https://webflow.com/website/Civilization"
+    },
+    {
+      "rank": "14.",
+      "title": "Parabola on ReMarkable: A Guide [pdf]",
+      "link": "http://www.davisr.me/projects/parabola-rm/install-guide-latest.pdf"
+    },
+    {
+      "rank": "15.",
       "title": "Even Google engineers are confused about Google’s privacy settings",
       "link": "https://www.theverge.com/2020/8/26/21403202/google-engineers-privacy-settings-lawsuit-arizona-doubleclick"
     },
     {
-      "rank": "14.",
-      "title": "An Archive of a Different Type",
-      "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
+      "rank": "16.",
+      "title": "Making QUIC Quicker with NIC Offload",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3405796.3405827"
     },
     {
-      "rank": "15.",
+      "rank": "17.",
+      "title": "FEMA Spends More Preparing for Terrorism Than Hurricanes",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-27/hurricane-laura-fema-grants-aren-t-focused-on-climate-change"
+    },
+    {
+      "rank": "18.",
+      "title": "Rare plants that ‘bleed’ nickel",
+      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
+    },
+    {
+      "rank": "19.",
       "title": "Walmart Joins Talks to Buy TikTok",
       "link": "https://www.nytimes.com/2020/08/27/technology/walmart-tiktok-deal.html"
     },
     {
-      "rank": "16.",
-      "title": "Datasaurus: Never trust summary statistics; visualize your data (2016)",
-      "link": "http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html"
+      "rank": "20.",
+      "title": "The Lounge – Modern web IRC client designed for self-hosting",
+      "link": "https://github.com/thelounge/thelounge"
     },
     {
-      "rank": "17.",
-      "title": "Schrödinger’s Cat When Nobody Is Looking",
-      "link": "http://nautil.us/issue/89/the-dark-side/schrdingers-cat-when-nobody-is-looking"
+      "rank": "21.",
+      "title": "An Archive of a Different Type",
+      "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
     },
     {
-      "rank": "18.",
-      "title": "The magic of ion channels in the neurons",
-      "link": "https://i-kh.net/2020/08/26/how-signals-propagate-through-neurons/"
+      "rank": "22.",
+      "title": "Confessions of an ID Theft Kingpin, Part II",
+      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
     },
     {
-      "rank": "19.",
+      "rank": "23.",
       "title": "Researchers in Germany are giving out scholarships in “idleness”",
       "link": "https://www.independent.co.uk/news/world/europe/germany-grants-laziness-scholarships-do-nothing-university-hamburg-a9681466.html"
     },
     {
-      "rank": "20.",
+      "rank": "24.",
+      "title": "Datasaurus: Never trust summary statistics; visualize your data (2016)",
+      "link": "http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html"
+    },
+    {
+      "rank": "25.",
+      "title": "The magic of ion channels in the neurons",
+      "link": "https://i-kh.net/2020/08/26/how-signals-propagate-through-neurons/"
+    },
+    {
+      "rank": "26.",
+      "title": "Schrödinger’s Cat When Nobody Is Looking",
+      "link": "http://nautil.us/issue/89/the-dark-side/schrdingers-cat-when-nobody-is-looking"
+    },
+    {
+      "rank": "27.",
       "title": "BBC Master on Steroids",
       "link": "https://retrohax.net/bbc-master-on-steroids/"
     },
     {
-      "rank": "21.",
+      "rank": "28.",
       "title": "Knuth versus Email (1999)",
       "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
     },
     {
-      "rank": "22.",
-      "title": "We hacked 28,000 unsecured printers to raise awareness of printer security issue",
-      "link": "https://cybernews.com/security/we-hacked-28000-unsecured-printers-to-raise-awareness-of-printer-security-issues/"
-    },
-    {
-      "rank": "23.",
+      "rank": "29.",
       "title": "Citi’s $900M Misfire Happened During Software Switch",
       "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
     },
     {
-      "rank": "24.",
-      "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
-      "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
-    },
-    {
-      "rank": "25.",
-      "title": "Show HN: Computer Music with Python",
-      "link": "https://github.com/luvsound/pippi"
-    },
-    {
-      "rank": "26.",
-      "title": "Shippos USPS Time in Transit Data",
-      "link": "https://goshippo.com/usps-data-2020/"
-    },
-    {
-      "rank": "27.",
-      "title": "The potentially revolutionary Celera 500L aircraft",
-      "link": "https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover"
-    },
-    {
-      "rank": "28.",
-      "title": "Unicornify",
-      "link": "Https://unicornify.pictures"
-    },
-    {
-      "rank": "29.",
-      "title": "Photon – a live demo of a natural language interface to databases",
-      "link": "https://naturalsql.com/"
-    },
-    {
       "rank": "30.",
-      "title": "Why Johnny Won't Upgrade",
-      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
+      "title": "We hacked 28,000 unsecured printers to raise awareness of printer security issue",
+      "link": "https://cybernews.com/security/we-hacked-28000-unsecured-printers-to-raise-awareness-of-printer-security-issues/"
     }
   ],
   "metadata": {
