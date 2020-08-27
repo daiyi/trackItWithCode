@@ -12,8 +12,8 @@
     },
     {
       "rank": "3.",
-      "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
-      "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
+      "title": "Hunting the Nearly-Invisible Personal Website",
+      "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
     },
     {
       "rank": "4.",
@@ -22,133 +22,133 @@
     },
     {
       "rank": "5.",
+      "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
+      "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
+    },
+    {
+      "rank": "6.",
       "title": "BBC Master on Steroids",
       "link": "https://retrohax.net/bbc-master-on-steroids/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
       "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
     },
     {
-      "rank": "7.",
-      "title": "A leap of faith: Committing to open source",
-      "link": "https://github.com/readme/henry-zhu"
-    },
-    {
       "rank": "8.",
-      "title": "Citi’s $900M Misfire Happened During Software Switch",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
-    },
-    {
-      "rank": "9.",
-      "title": "Belarus turned off the internet – citizens hot-wired it",
-      "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
-    },
-    {
-      "rank": "10.",
-      "title": "Shakuntala Devi – The Human Computer (2016)",
-      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
-    },
-    {
-      "rank": "11.",
-      "title": "SpaceX Starlink average speedtest is 42.3Mbps down / 9.7 Mbps up",
-      "link": "https://testmy.net/hoststats/spacex_starlink"
-    },
-    {
-      "rank": "12.",
-      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
-      "link": "https://msadowski.github.io/2-years-remote-consulting/"
-    },
-    {
-      "rank": "13.",
-      "title": "Unicornify",
-      "link": "Https://unicornify.pictures"
-    },
-    {
-      "rank": "14.",
-      "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
-      "link": "https://www.nature.com/articles/d41586-020-02480-5"
-    },
-    {
-      "rank": "15.",
-      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
-      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
-    },
-    {
-      "rank": "16.",
-      "title": "Motoko, a programming language for building directly on the internet",
-      "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
-    },
-    {
-      "rank": "17.",
-      "title": "Show HN: Computer Music with Python",
-      "link": "https://github.com/luvsound/pippi"
-    },
-    {
-      "rank": "18.",
-      "title": "Differentiable Control Problems",
-      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
-    },
-    {
-      "rank": "19.",
       "title": "Interview with Zig language creator Andrew Kelley",
       "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
     },
     {
+      "rank": "9.",
+      "title": "An Archive of a Different Type",
+      "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
+    },
+    {
+      "rank": "10.",
+      "title": "A leap of faith: Committing to open source",
+      "link": "https://github.com/readme/henry-zhu"
+    },
+    {
+      "rank": "11.",
+      "title": "Citi’s $900M Misfire Happened During Software Switch",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
+    },
+    {
+      "rank": "12.",
+      "title": "Belarus turned off the internet – citizens hot-wired it",
+      "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
+    },
+    {
+      "rank": "13.",
+      "title": "Shakuntala Devi – The Human Computer (2016)",
+      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
+    },
+    {
+      "rank": "14.",
+      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
+      "link": "https://msadowski.github.io/2-years-remote-consulting/"
+    },
+    {
+      "rank": "15.",
+      "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
+      "link": "https://www.nature.com/articles/d41586-020-02480-5"
+    },
+    {
+      "rank": "16.",
+      "title": "Unicornify",
+      "link": "Https://unicornify.pictures"
+    },
+    {
+      "rank": "17.",
+      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
+      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
+    },
+    {
+      "rank": "18.",
+      "title": "Motoko, a programming language for building directly on the internet",
+      "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
+    },
+    {
+      "rank": "19.",
+      "title": "SpaceX Starlink average speedtest is 42.3Mbps down / 9.7 Mbps up",
+      "link": "https://testmy.net/hoststats/spacex_starlink"
+    },
+    {
       "rank": "20.",
-      "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
-      "link": "https://arwes.dev"
+      "title": "Show HN: Computer Music with Python",
+      "link": "https://github.com/luvsound/pippi"
     },
     {
       "rank": "21.",
-      "title": "Andy Matuschak's Notes",
-      "link": "https://notes.andymatuschak.org/About_these_notes"
-    },
-    {
-      "rank": "22.",
       "title": "Digital Sight Management, and the Mystery of the Missing Amazon Receipts",
       "link": "https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/"
     },
     {
+      "rank": "22.",
+      "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
+      "link": "https://arwes.dev"
+    },
+    {
       "rank": "23.",
-      "title": "MixedName – Bilingual baby name finder",
-      "link": "https://mixedname.com/"
+      "title": "Andy Matuschak's Notes",
+      "link": "https://notes.andymatuschak.org/About_these_notes"
     },
     {
       "rank": "24.",
-      "title": "D3 6.0",
-      "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
+      "title": "Differentiable Control Problems",
+      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
     },
     {
       "rank": "25.",
-      "title": "Willscott/go-NFS: Golang NFSv3 server",
-      "link": "https://github.com/willscott/go-nfs/"
-    },
-    {
-      "rank": "26.",
       "title": "Shippos USPS Time in Transit Data",
       "link": "https://goshippo.com/usps-data-2020/"
     },
     {
+      "rank": "26.",
+      "title": "MixedName – Bilingual baby name finder",
+      "link": "https://mixedname.com/"
+    },
+    {
       "rank": "27.",
-      "title": "A mysterious radio burst that keeps repeating",
-      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
-    },
-    {
-      "rank": "28.",
-      "title": "TF-Coder, a tool that writes tricky TensorFlow expressions",
-      "link": "https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html"
-    },
-    {
-      "rank": "29.",
       "title": "The daydream that never stops (2017)",
       "link": "https://www.bbc.co.uk/news/resources/idt-sh/the_daydream_that_never_stops"
     },
     {
+      "rank": "28.",
+      "title": "D3 6.0",
+      "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
+    },
+    {
+      "rank": "29.",
+      "title": "Willscott/go-NFS: Golang NFSv3 server",
+      "link": "https://github.com/willscott/go-nfs/"
+    },
+    {
       "rank": "30.",
-      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
-      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
+      "title": "TF-Coder, a tool that writes tricky TensorFlow expressions",
+      "link": "https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html"
     }
   ],
   "metadata": {
