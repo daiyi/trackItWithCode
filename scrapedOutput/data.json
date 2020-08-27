@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Donald Knuth versus Email",
+      "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
+    },
+    {
+      "rank": "2.",
       "title": "The potentially revolutionary Celera 500L aircraft",
       "link": "https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover"
     },
     {
-      "rank": "2.",
-      "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
-      "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
+      "rank": "3.",
+      "title": "BBC Master on Steroids",
+      "link": "https://retrohax.net/bbc-master-on-steroids/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Why Johnny Won't Upgrade",
       "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
     },
     {
-      "rank": "4.",
-      "title": "SpaceX Starlink average speedtest is 42.3Mbps down / 9.7 Mbps up",
-      "link": "https://testmy.net/hoststats/spacex_starlink"
-    },
-    {
       "rank": "5.",
-      "title": "BBC Master on Steroids",
-      "link": "https://retrohax.net/bbc-master-on-steroids/"
+      "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
+      "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
     },
     {
       "rank": "6.",
@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "Donald Knuth versus Email",
-      "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
+      "title": "SpaceX Starlink average speedtest is 42.3Mbps down / 9.7 Mbps up",
+      "link": "https://testmy.net/hoststats/spacex_starlink"
     },
     {
       "rank": "8.",
@@ -72,43 +72,43 @@
     },
     {
       "rank": "15.",
-      "title": "Show HN: Computer Music with Python",
-      "link": "https://github.com/luvsound/pippi"
-    },
-    {
-      "rank": "16.",
-      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
-      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
-    },
-    {
-      "rank": "17.",
       "title": "Motoko, a programming language for building directly on the internet",
       "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
     },
     {
+      "rank": "16.",
+      "title": "Show HN: Computer Music with Python",
+      "link": "https://github.com/luvsound/pippi"
+    },
+    {
+      "rank": "17.",
+      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
+      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
+    },
+    {
       "rank": "18.",
+      "title": "Digital Sight Management, and the Mystery of the Missing Amazon Receipts",
+      "link": "https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/"
+    },
+    {
+      "rank": "19.",
       "title": "Differentiable Control Problems",
       "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
     },
     {
-      "rank": "19.",
-      "title": "Shippos USPS Time in Transit Data",
-      "link": "https://goshippo.com/usps-data-2020/"
-    },
-    {
       "rank": "20.",
-      "title": "Andy Matuschak's Notes",
-      "link": "https://notes.andymatuschak.org/About_these_notes"
-    },
-    {
-      "rank": "21.",
       "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
       "link": "https://arwes.dev"
     },
     {
+      "rank": "21.",
+      "title": "Shippos USPS Time in Transit Data",
+      "link": "https://goshippo.com/usps-data-2020/"
+    },
+    {
       "rank": "22.",
-      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
-      "link": "https://msadowski.github.io/2-years-remote-consulting/"
+      "title": "Andy Matuschak's Notes",
+      "link": "https://notes.andymatuschak.org/About_these_notes"
     },
     {
       "rank": "23.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
+      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
+      "link": "https://msadowski.github.io/2-years-remote-consulting/"
+    },
+    {
+      "rank": "27.",
       "title": "Willscott/go-NFS: Golang NFSv3 server",
       "link": "https://github.com/willscott/go-nfs/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
       "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
-    },
-    {
-      "rank": "28.",
-      "title": "Digital Sight Management, and the Mystery of the Missing Amazon Receipts",
-      "link": "https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/"
     },
     {
       "rank": "29.",
