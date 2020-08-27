@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
-      "title": "Why Johnny Won't Upgrade",
-      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
-    },
-    {
-      "rank": "4.",
       "title": "MixedName – Bilingual baby name finder",
       "link": "https://mixedname.com/"
     },
     {
+      "rank": "4.",
+      "title": "Why Johnny Won't Upgrade",
+      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
+    },
+    {
       "rank": "5.",
-      "title": "Shippos USPS Time in Transit Data",
-      "link": "https://goshippo.com/usps-data-2020/"
+      "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
+      "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
     },
     {
       "rank": "6.",
-      "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
-      "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
+      "title": "Shippos USPS Time in Transit Data",
+      "link": "https://goshippo.com/usps-data-2020/"
     },
     {
       "rank": "7.",
@@ -42,113 +42,113 @@
     },
     {
       "rank": "9.",
+      "title": "Citi’s $900M Misfire Happened During Software Switch",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
+    },
+    {
+      "rank": "10.",
       "title": "Unicornify",
       "link": "Https://unicornify.pictures"
     },
     {
-      "rank": "10.",
-      "title": "Show HN: ztext.js – JavaScript library that makes any font 3D",
-      "link": "https://bennettfeely.com/ztext/"
-    },
-    {
       "rank": "11.",
-      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
-      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
-    },
-    {
-      "rank": "12.",
-      "title": "Motoko, a programming language for building directly on the internet",
-      "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
-    },
-    {
-      "rank": "13.",
       "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
       "link": "https://arxiv.org/abs/2008.11479"
     },
     {
+      "rank": "12.",
+      "title": "Show HN: ztext.js – JavaScript library that makes any font 3D",
+      "link": "https://bennettfeely.com/ztext/"
+    },
+    {
+      "rank": "13.",
+      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
+      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
+    },
+    {
       "rank": "14.",
-      "title": "Andy Matuschak's Notes",
-      "link": "https://notes.andymatuschak.org/About_these_notes"
-    },
-    {
-      "rank": "15.",
-      "title": "A fleet of computers helps settle a 90-year-old math problem",
-      "link": "https://www.wired.com/story/a-fleet-of-computers-helps-settle-a-90-year-old-math-problem/"
-    },
-    {
-      "rank": "16.",
       "title": "Belarus turned off the internet – citizens hot-wired it",
       "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
     },
     {
+      "rank": "15.",
+      "title": "Motoko, a programming language for building directly on the internet",
+      "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
+    },
+    {
+      "rank": "16.",
+      "title": "A fleet of computers helps settle a 90-year-old math problem",
+      "link": "https://www.wired.com/story/a-fleet-of-computers-helps-settle-a-90-year-old-math-problem/"
+    },
+    {
       "rank": "17.",
-      "title": "New Racket Language Website",
-      "link": "https://racket-lang.org/"
+      "title": "Andy Matuschak's Notes",
+      "link": "https://notes.andymatuschak.org/About_these_notes"
     },
     {
       "rank": "18.",
-      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
-      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
-    },
-    {
-      "rank": "19.",
       "title": "D3 6.0",
       "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Building a Home Lab Beginners Guide",
       "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Willscott/go-NFS: Golang NFSv3 server",
       "link": "https://github.com/willscott/go-nfs/"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
       "link": "https://arwes.dev"
     },
     {
+      "rank": "22.",
+      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
+      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
+    },
+    {
       "rank": "23.",
-      "title": "A mysterious radio burst that keeps repeating",
-      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
-    },
-    {
-      "rank": "24.",
-      "title": "Differentiable Control Problems",
-      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
-    },
-    {
-      "rank": "25.",
       "title": "TF-Coder, a tool that writes tricky TensorFlow expressions",
       "link": "https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html"
     },
     {
-      "rank": "26.",
+      "rank": "24.",
+      "title": "A mysterious radio burst that keeps repeating",
+      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
+    },
+    {
+      "rank": "25.",
       "title": "Photon – a live demo of a natural language interface to databases",
       "link": "https://naturalsql.com/"
     },
     {
+      "rank": "26.",
+      "title": "Live View of Hurricane Laura",
+      "link": "https://www.windy.com/?28.695,-93.082,7"
+    },
+    {
       "rank": "27.",
+      "title": "Differentiable Control Problems",
+      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
+    },
+    {
+      "rank": "28.",
       "title": "How Drakeo the Ruler recorded an album from jail",
       "link": "https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
       "link": "https://github.com/iggredible/Learn-Vim"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Show HN: Teal – a serverless VM and programming language",
       "link": "https://www.condense9.com/"
-    },
-    {
-      "rank": "30.",
-      "title": "Heptapod – Mercurial for Gitlab",
-      "link": "https://heptapod.net"
     }
   ],
   "metadata": {
