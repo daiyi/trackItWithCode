@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "A Short Guide to Minimal Web Development (2018)",
-      "link": "https://meiert.com/en/blog/minimal-web-development/"
+      "title": "The Lounge – Modern web IRC client designed for self-hosting",
+      "link": "https://github.com/thelounge/thelounge"
     },
     {
       "rank": "7.",
-      "title": "The Lounge – Modern web IRC client designed for self-hosting",
-      "link": "https://github.com/thelounge/thelounge"
+      "title": "A Short Guide to Minimal Web Development (2018)",
+      "link": "https://meiert.com/en/blog/minimal-web-development/"
     },
     {
       "rank": "8.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "Self-Classifying MNIST Digits Using Neural Cellular Automata",
-      "link": "https://distill.pub/2020/selforg/mnist/"
+      "title": "Constant Time LFU",
+      "link": "https://arpitbhayani.me/blogs/lfu"
     },
     {
       "rank": "13.",
@@ -67,28 +67,28 @@
     },
     {
       "rank": "14.",
+      "title": "Self-Classifying MNIST Digits Using Neural Cellular Automata",
+      "link": "https://distill.pub/2020/selforg/mnist/"
+    },
+    {
+      "rank": "15.",
       "title": "Wind and solar are cheaper than thought, admits UK government",
       "link": "https://www.carbonbrief.org/wind-and-solar-are-30-50-cheaper-than-thought-admits-uk-government"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "New case studies about Google’s use of Go",
       "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
       "link": "https://arxiv.org/abs/2008.11479"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Hard work vs. Long work (2011)",
       "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
-    },
-    {
-      "rank": "18.",
-      "title": "Confessions of an ID Theft Kingpin, Part II",
-      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "The magic of ion channels in the neurons",
-      "link": "https://i-kh.net/2020/08/26/the-magic-of-ion-channels/"
+      "title": "Confessions of an ID Theft Kingpin, Part II",
+      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
-      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
+      "title": "The magic of ion channels in the neurons",
+      "link": "https://i-kh.net/2020/08/26/the-magic-of-ion-channels/"
     },
     {
       "rank": "23.",
-      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
-      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
-    },
-    {
-      "rank": "24.",
       "title": "Antibiotics nearly double risk of developing IBD, doctors warn",
       "link": "https://www.studyfinds.org/antibiotics-double-ibd-risk/"
     },
     {
+      "rank": "24.",
+      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
+      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
+    },
+    {
       "rank": "25.",
+      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
+      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
+    },
+    {
+      "rank": "26.",
       "title": "Rare plants that ‘bleed’ nickel",
       "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
       "link": "item?id=24291790"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
       "link": "https://www.nature.com/articles/d41586-020-02480-5"
     },
     {
-      "rank": "28.",
-      "title": "Interview with Zig language creator Andrew Kelley [video]",
-      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
-    },
-    {
       "rank": "29.",
-      "title": "Blanked-out spots on China's maps helped us uncover Xinjiang's camps",
-      "link": "https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps"
+      "title": "Abstracting Abstract Machines (2010) [pdf]",
+      "link": "http://matt.might.net/papers/vanhorn2010abstract.pdf"
     },
     {
       "rank": "30.",
-      "title": "Abstracting Abstract Machines (2010) [pdf]",
-      "link": "http://matt.might.net/papers/vanhorn2010abstract.pdf"
+      "title": "Interview with Zig language creator Andrew Kelley [video]",
+      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
     }
   ],
   "metadata": {
