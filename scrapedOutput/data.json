@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "MixedName – Bilingual baby name finder",
-      "link": "https://mixedname.com/"
+      "title": "Why Johnny Won't Upgrade",
+      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
     },
     {
       "rank": "4.",
-      "title": "Why Johnny Won't Upgrade",
-      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
+      "title": "MixedName – Bilingual baby name finder",
+      "link": "https://mixedname.com/"
     },
     {
       "rank": "5.",
@@ -27,23 +27,23 @@
     },
     {
       "rank": "6.",
-      "title": "A leap of faith: Committing to open source",
-      "link": "https://github.com/readme/henry-zhu"
-    },
-    {
-      "rank": "7.",
       "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
       "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
     },
     {
+      "rank": "7.",
+      "title": "A leap of faith: Committing to open source",
+      "link": "https://github.com/readme/henry-zhu"
+    },
+    {
       "rank": "8.",
-      "title": "Unicornify",
-      "link": "Https://unicornify.pictures"
+      "title": "Show HN: Computer Music with Python",
+      "link": "https://github.com/luvsound/pippi"
     },
     {
       "rank": "9.",
-      "title": "A fleet of computers helps settle a 90-year-old math problem",
-      "link": "https://www.wired.com/story/a-fleet-of-computers-helps-settle-a-90-year-old-math-problem/"
+      "title": "Unicornify",
+      "link": "Https://unicornify.pictures"
     },
     {
       "rank": "10.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
+      "title": "A fleet of computers helps settle a 90-year-old math problem",
+      "link": "https://www.wired.com/story/a-fleet-of-computers-helps-settle-a-90-year-old-math-problem/"
+    },
+    {
+      "rank": "13.",
       "title": "Andy Matuschak's Notes",
       "link": "https://notes.andymatuschak.org/About_these_notes"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Motoko, a programming language for building directly on the internet",
       "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
-    },
-    {
-      "rank": "14.",
-      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
-      "link": "https://arxiv.org/abs/2008.11479"
     },
     {
       "rank": "15.",
@@ -77,33 +77,33 @@
     },
     {
       "rank": "16.",
-      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
-      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
+      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
+      "link": "https://arxiv.org/abs/2008.11479"
     },
     {
       "rank": "17.",
-      "title": "Show HN: Computer Music with Python",
-      "link": "https://github.com/luvsound/pippi"
+      "title": "Belarus turned off the internet – citizens hot-wired it",
+      "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
     },
     {
       "rank": "18.",
-      "title": "Building a Home Lab Beginners Guide",
-      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
-    },
-    {
-      "rank": "19.",
-      "title": "Willscott/go-NFS: Golang NFSv3 server",
-      "link": "https://github.com/willscott/go-nfs/"
-    },
-    {
-      "rank": "20.",
       "title": "D3 6.0",
       "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
     },
     {
+      "rank": "19.",
+      "title": "Building a Home Lab Beginners Guide",
+      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
+    },
+    {
+      "rank": "20.",
+      "title": "Willscott/go-NFS: Golang NFSv3 server",
+      "link": "https://github.com/willscott/go-nfs/"
+    },
+    {
       "rank": "21.",
-      "title": "Belarus turned off the internet – citizens hot-wired it",
-      "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
+      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
+      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
     },
     {
       "rank": "22.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "TF-Coder, a tool that writes tricky TensorFlow expressions",
-      "link": "https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html"
+      "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
+      "link": "https://arwes.dev"
     },
     {
       "rank": "24.",
-      "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
-      "link": "https://arwes.dev"
+      "title": "TF-Coder, a tool that writes tricky TensorFlow expressions",
+      "link": "https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html"
     },
     {
       "rank": "25.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "Live View of Hurricane Laura",
-      "link": "https://www.windy.com/?28.695,-93.082,7"
+      "title": "Show HN: Teal – a serverless VM and programming language",
+      "link": "https://www.condense9.com/"
     },
     {
       "rank": "29.",
