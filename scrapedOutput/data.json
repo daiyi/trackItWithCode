@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
-      "title": "Show HN: Muse – Tool for Thought on iPad",
-      "link": "https://launch-preview.museapp.com/"
-    },
-    {
-      "rank": "10.",
-      "title": "Nitrokey",
-      "link": "https://www.nitrokey.com/"
-    },
-    {
-      "rank": "11.",
       "title": "One Million Dollars in Huawei Mobile Services App Innovation Contest",
       "link": "https://www.cnx-software.com/2020/08/26/huawei-pledges-one-million-dollars-in-huawei-mobile-services-app-innovation-contest/"
     },
     {
+      "rank": "10.",
+      "title": "Show HN: Muse – Tool for Thought on iPad",
+      "link": "https://launch-preview.museapp.com/"
+    },
+    {
+      "rank": "11.",
+      "title": "Nitrokey",
+      "link": "https://www.nitrokey.com/"
+    },
+    {
       "rank": "12.",
-      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
-      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
+      "title": "Making QUIC Quicker with NIC Offload",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3405796.3405827"
     },
     {
       "rank": "13.",
@@ -67,88 +67,88 @@
     },
     {
       "rank": "14.",
-      "title": "Confessions of an ID Theft Kingpin, Part II",
-      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
+      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
+      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
     },
     {
       "rank": "15.",
-      "title": "Show HN: Civilization VI UI, but made in WebFlow (a no-code tool)",
-      "link": "https://webflow.com/website/Civilization"
-    },
-    {
-      "rank": "16.",
-      "title": "Making QUIC Quicker with NIC Offload",
-      "link": "https://dl.acm.org/doi/abs/10.1145/3405796.3405827"
-    },
-    {
-      "rank": "17.",
       "title": "Even Google engineers are confused about Google’s privacy settings",
       "link": "https://www.theverge.com/2020/8/26/21403202/google-engineers-privacy-settings-lawsuit-arizona-doubleclick"
     },
     {
-      "rank": "18.",
-      "title": "Parabola on ReMarkable: A Guide [pdf]",
-      "link": "http://www.davisr.me/projects/parabola-rm/install-guide-latest.pdf"
-    },
-    {
-      "rank": "19.",
-      "title": "Amazon launches Halo: tracks activity, body fat, emotions",
-      "link": "https://press.aboutamazon.com/news-releases/news-release-details/introducing-amazon-halo-and-amazon-halo-band-new-service-helps/"
-    },
-    {
-      "rank": "20.",
-      "title": "FEMA Spends More Preparing for Terrorism Than Hurricanes",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-27/hurricane-laura-fema-grants-aren-t-focused-on-climate-change"
-    },
-    {
-      "rank": "21.",
-      "title": "Rare plants that ‘bleed’ nickel",
-      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
-    },
-    {
-      "rank": "22.",
-      "title": "An Archive of a Different Type",
-      "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
-    },
-    {
-      "rank": "23.",
+      "rank": "16.",
       "title": "The Lounge – Modern web IRC client designed for self-hosting",
       "link": "https://github.com/thelounge/thelounge"
     },
     {
+      "rank": "17.",
+      "title": "Parabola on ReMarkable: A Guide [pdf]",
+      "link": "http://www.davisr.me/projects/parabola-rm/install-guide-latest.pdf"
+    },
+    {
+      "rank": "18.",
+      "title": "Confessions of an ID Theft Kingpin, Part II",
+      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
+    },
+    {
+      "rank": "19.",
+      "title": "FEMA Spends More Preparing for Terrorism Than Hurricanes",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-27/hurricane-laura-fema-grants-aren-t-focused-on-climate-change"
+    },
+    {
+      "rank": "20.",
+      "title": "Rare plants that ‘bleed’ nickel",
+      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
+    },
+    {
+      "rank": "21.",
+      "title": "Show HN: Civilization VI UI, but made in WebFlow (a no-code tool)",
+      "link": "https://webflow.com/website/Civilization"
+    },
+    {
+      "rank": "22.",
+      "title": "Amazon launches Halo: tracks activity, body fat, emotions",
+      "link": "https://press.aboutamazon.com/news-releases/news-release-details/introducing-amazon-halo-and-amazon-halo-band-new-service-helps/"
+    },
+    {
+      "rank": "23.",
+      "title": "An Archive of a Different Type",
+      "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
+    },
+    {
       "rank": "24.",
+      "title": "Wind and solar are 30-50% cheaper than thought, admits UK government",
+      "link": "https://www.carbonbrief.org/wind-and-solar-are-30-50-cheaper-than-thought-admits-uk-government"
+    },
+    {
+      "rank": "25.",
       "title": "Researchers in Germany are giving out scholarships in “idleness”",
       "link": "https://www.independent.co.uk/news/world/europe/germany-grants-laziness-scholarships-do-nothing-university-hamburg-a9681466.html"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Datasaurus: Never trust summary statistics; visualize your data (2016)",
       "link": "http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "The magic of ion channels in the neurons",
       "link": "https://i-kh.net/2020/08/26/how-signals-propagate-through-neurons/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Schrödinger’s Cat When Nobody Is Looking",
       "link": "http://nautil.us/issue/89/the-dark-side/schrdingers-cat-when-nobody-is-looking"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "BBC Master on Steroids",
       "link": "https://retrohax.net/bbc-master-on-steroids/"
     },
     {
-      "rank": "29.",
-      "title": "Knuth versus Email (1999)",
-      "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
-    },
-    {
       "rank": "30.",
-      "title": "Citi’s $900M Misfire Happened During Software Switch",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
+      "title": "Amazon's latest grocery store concept opens, with high-tech carts",
+      "link": "https://www.reuters.com/article/us-amazon-com-store/amazons-latest-grocery-store-concept-opens-with-high-tech-carts-idUSKBN25N0QF"
     }
   ],
   "metadata": {
