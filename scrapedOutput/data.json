@@ -2,48 +2,48 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "D3.js v6 Released",
-      "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
-    },
-    {
-      "rank": "2.",
       "title": "MixedName – Bilingual baby name finder",
       "link": "https://mixedname.com/"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
       "link": "https://arwes.dev"
     },
     {
+      "rank": "3.",
+      "title": "The Potentially Revolutionary Celera 500L Aircraft Officially Breaks Cover",
+      "link": "https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover"
+    },
+    {
       "rank": "4.",
-      "title": "Securing Lasting Freedoms for All",
-      "link": "https://www.epicgames.com/site/en-US/fortnite-mega-drop-faq"
+      "title": "Why Johnny Won't Upgrade",
+      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
     },
     {
       "rank": "5.",
+      "title": "D3 6.0",
+      "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
+    },
+    {
+      "rank": "6.",
       "title": "Willscott/go-NFS: Golang NFSv3 server",
       "link": "https://github.com/willscott/go-nfs/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "New Racket Language Website",
       "link": "https://racket-lang.org/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
       "link": "https://bennettfeely.com/ztext/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Problem Solving with Algorithms and Data Structures [pdf]",
       "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
-    },
-    {
-      "rank": "9.",
-      "title": "Pachama (YC W19) seeks ML and SW engineers to solve climate change",
-      "link": "https://jobs.lever.co/pachama"
     },
     {
       "rank": "10.",
@@ -52,103 +52,103 @@
     },
     {
       "rank": "11.",
-      "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
-      "link": "https://github.com/iggredible/Learn-Vim"
-    },
-    {
-      "rank": "12.",
-      "title": "SEC Modernizes the Accredited Investor Definition",
-      "link": "https://www.sec.gov/news/press-release/2020-191"
-    },
-    {
-      "rank": "13.",
-      "title": "Preparing Our Partners for iOS 14",
-      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
-    },
-    {
-      "rank": "14.",
-      "title": "Cloudflare, Google, Bing Destroying the Infrastructure of the Free Web",
-      "link": "http://gigablast.com/blog.html"
-    },
-    {
-      "rank": "15.",
-      "title": "Is TDD Dead? (2014)",
-      "link": "https://martinfowler.com/articles/is-tdd-dead/"
-    },
-    {
-      "rank": "16.",
-      "title": "First tax year with Stripe Atlas",
-      "link": "https://tryhexadecimal.com/journal/business-taxes"
-    },
-    {
-      "rank": "17.",
-      "title": "Jacksonpollock.org (2003)",
-      "link": "https://jacksonpollock.org/"
-    },
-    {
-      "rank": "18.",
-      "title": "New planets confirmed in machine learning first",
-      "link": "https://phys.org/news/2020-08-planets-machine.html"
-    },
-    {
-      "rank": "19.",
-      "title": "Jacques Cousteau’s grandson wants to build the ISS of the sea",
-      "link": "https://www.smithsonianmag.com/innovation/jacques-cousteaus-grandson-wants-to-build-international-space-station-of-the-sea-180975635/"
-    },
-    {
-      "rank": "20.",
-      "title": "GNU tar blocking factor, blocks, records and checkpoints",
-      "link": "https://finch.am/projects/tar/"
-    },
-    {
-      "rank": "21.",
-      "title": "The Monolith That Breaks Up Itself",
-      "link": "https://medium.com/rebellion-defense/the-monolith-that-breaks-up-itself-c9513c732367"
-    },
-    {
-      "rank": "22.",
       "title": "Building a Home Lab Beginners Guide",
       "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
+      "rank": "12.",
+      "title": "Andy Matuschak's Notes",
+      "link": "https://notes.andymatuschak.org/About_these_notes"
+    },
+    {
+      "rank": "13.",
+      "title": "Pachama (YC W19) seeks ML and SW engineers to solve climate change",
+      "link": "https://jobs.lever.co/pachama"
+    },
+    {
+      "rank": "14.",
+      "title": "A mysterious radio burst that keeps repeating",
+      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
+    },
+    {
+      "rank": "15.",
+      "title": "SEC Modernizes the Accredited Investor Definition",
+      "link": "https://www.sec.gov/news/press-release/2020-191"
+    },
+    {
+      "rank": "16.",
+      "title": "The Illusion of Control in Web Design (2018)",
+      "link": "https://alistapart.com/article/the-illusion-of-control-in-web-design/"
+    },
+    {
+      "rank": "17.",
+      "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
+      "link": "https://github.com/iggredible/Learn-Vim"
+    },
+    {
+      "rank": "18.",
+      "title": "Is TDD Dead? (2014)",
+      "link": "https://martinfowler.com/articles/is-tdd-dead/"
+    },
+    {
+      "rank": "19.",
+      "title": "New planets confirmed in machine learning first",
+      "link": "https://phys.org/news/2020-08-planets-machine.html"
+    },
+    {
+      "rank": "20.",
+      "title": "Show HN: Teal – a serverless VM and programming language",
+      "link": "https://www.condense9.com/"
+    },
+    {
+      "rank": "21.",
+      "title": "How Drakeo the Ruler recorded an amazing-sounding album from jail",
+      "link": "https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/"
+    },
+    {
+      "rank": "22.",
+      "title": "Preparing Our Partners for iOS 14",
+      "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
+    },
+    {
       "rank": "23.",
-      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
-      "link": "https://www.rarlab.com/revoked591.html"
+      "title": "First tax year with Stripe Atlas",
+      "link": "https://tryhexadecimal.com/journal/business-taxes"
     },
     {
       "rank": "24.",
-      "title": "What happens when you load a URL? (2015)",
-      "link": "https://danluu.com/navigate-url/"
+      "title": "Show HN: Lulim Jewelry – Design and 3D print your own custom wedding band",
+      "link": "https://lulimjewelry.com"
     },
     {
       "rank": "25.",
+      "title": "Jacksonpollock.org (2003)",
+      "link": "https://jacksonpollock.org/"
+    },
+    {
+      "rank": "26.",
+      "title": "GNU tar blocking factor, blocks, records and checkpoints",
+      "link": "https://finch.am/projects/tar/"
+    },
+    {
+      "rank": "27.",
+      "title": "Uchronia: An Alternate History List",
+      "link": "http://uchronia.com/"
+    },
+    {
+      "rank": "28.",
       "title": "SSH Keygen – RSA, DSA, Ecdsa, EdDSA",
       "link": "https://gravitational.com/blog/comparing-ssh-keys/"
     },
     {
-      "rank": "26.",
-      "title": "SATCON1 Report on Impact of Satellite Constellations on Astronomy",
-      "link": "https://noirlab.edu/public/products/techdocs/techdoc003/"
-    },
-    {
-      "rank": "27.",
-      "title": "Axial-DeepLab: Long-Range Modeling in All Layers for Panoptic Segmentation",
-      "link": "https://ai.googleblog.com/2020/08/axial-deeplab-long-range-modeling-in.html"
-    },
-    {
-      "rank": "28.",
-      "title": "Show HN: Script-httpd – Turn command line scripts into web services",
-      "link": "https://github.com/beefsack/script-httpd/"
-    },
-    {
       "rank": "29.",
-      "title": "Boom Supersonic hopes to test-fly its supersonic plane in 2021",
-      "link": "https://www.engadget.com/boom-supersonic-xb-1-2021-130025910.html"
+      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
+      "link": "https://www.rarlab.com/revoked591.html"
     },
     {
       "rank": "30.",
-      "title": "Melancholy of obsolete futures: on Soviet Brutalism",
-      "link": "https://thecritic.co.uk/melancholy-of-obsolete-futures/"
+      "title": "Non-obvious remote work techniques",
+      "link": "https://queue.acm.org/detail.cfm?id=3417752"
     }
   ],
   "metadata": {
