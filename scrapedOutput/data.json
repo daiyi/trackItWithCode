@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Microsoft's war on plain text email in open source",
-      "link": "https://marc.info/?l=openbsd-misc&m=159843434525592&w=2"
+      "title": "MixedName – Bilingual baby name finder",
+      "link": "https://mixedname.com/"
     },
     {
       "rank": "3.",
-      "title": "MixedName – Bilingual baby name finder",
-      "link": "https://mixedname.com/"
+      "title": "Why Johnny Won't Upgrade",
+      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
     },
     {
       "rank": "4.",
@@ -22,23 +22,23 @@
     },
     {
       "rank": "5.",
-      "title": "Why Johnny Won't Upgrade",
-      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
-    },
-    {
-      "rank": "6.",
       "title": "How Drakeo the Ruler recorded an amazing-sounding album from jail",
       "link": "https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/"
     },
     {
+      "rank": "6.",
+      "title": "Henry Zhu: A leap of faith, Committing to open source",
+      "link": "https://github.com/readme/henry-zhu"
+    },
+    {
       "rank": "7.",
-      "title": "Andy Matuschak's Notes",
-      "link": "https://notes.andymatuschak.org/About_these_notes"
+      "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
+      "link": "https://bennettfeely.com/ztext/"
     },
     {
       "rank": "8.",
-      "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
-      "link": "https://bennettfeely.com/ztext/"
+      "title": "Andy Matuschak's Notes",
+      "link": "https://notes.andymatuschak.org/About_these_notes"
     },
     {
       "rank": "9.",
@@ -47,73 +47,73 @@
     },
     {
       "rank": "10.",
-      "title": "A mysterious radio burst that keeps repeating",
-      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
-    },
-    {
-      "rank": "11.",
       "title": "New Racket Language Website",
       "link": "https://racket-lang.org/"
     },
     {
-      "rank": "12.",
-      "title": "Henry Zhu: A leap of faith, Committing to open source",
-      "link": "https://github.com/readme/henry-zhu"
+      "rank": "11.",
+      "title": "A mysterious radio burst that keeps repeating",
+      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Willscott/go-NFS: Golang NFSv3 server",
       "link": "https://github.com/willscott/go-nfs/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "D3 6.0",
       "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Building a Home Lab Beginners Guide",
       "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
-      "rank": "16.",
-      "title": "SEC Modernizes the Accredited Investor Definition",
-      "link": "https://www.sec.gov/news/press-release/2020-191"
+      "rank": "15.",
+      "title": "I captured an 85 megapixel photo of our moon last night",
+      "link": "https://www.reddit.com/r/pics/comments/ihaqsl/i_captured_an_85_megapixel_photo_of_our_moon_last/"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Show HN: Teal – a serverless VM and programming language",
       "link": "https://www.condense9.com/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Heptapod – Mercurial for Gitlab",
       "link": "https://heptapod.net"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
       "link": "https://github.com/iggredible/Learn-Vim"
     },
     {
-      "rank": "20.",
-      "title": "GitHub: Set the default branch for newly-created repositories",
-      "link": "https://github.blog/changelog/2020-08-26-set-the-default-branch-for-newly-created-repositories/"
-    },
-    {
-      "rank": "21.",
+      "rank": "19.",
       "title": "First tax year with Stripe Atlas",
       "link": "https://tryhexadecimal.com/journal/business-taxes"
     },
     {
-      "rank": "22.",
+      "rank": "20.",
       "title": "Preparing Our Partners for iOS 14",
       "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
+      "title": "GitHub: Set the default branch for newly-created repositories",
+      "link": "https://github.blog/changelog/2020-08-26-set-the-default-branch-for-newly-created-repositories/"
+    },
+    {
+      "rank": "22.",
       "title": "Jacksonpollock.org (2003)",
       "link": "https://jacksonpollock.org/"
+    },
+    {
+      "rank": "23.",
+      "title": "Live View of Hurricane Laura",
+      "link": "https://www.windy.com/?28.695,-93.082,7"
     },
     {
       "rank": "24.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "New planets confirmed in machine learning first",
-      "link": "https://phys.org/news/2020-08-planets-machine.html"
+      "title": "SSH Keygen – RSA, DSA, Ecdsa, EdDSA",
+      "link": "https://gravitational.com/blog/comparing-ssh-keys/"
     },
     {
       "rank": "26.",
-      "title": "SSH Keygen – RSA, DSA, Ecdsa, EdDSA",
-      "link": "https://gravitational.com/blog/comparing-ssh-keys/"
+      "title": "New planets confirmed in machine learning first",
+      "link": "https://phys.org/news/2020-08-planets-machine.html"
     },
     {
       "rank": "27.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "I captured an 85 megapixel photo of our moon last night",
-      "link": "https://www.reddit.com/r/pics/comments/ihaqsl/i_captured_an_85_megapixel_photo_of_our_moon_last/"
+      "title": "Nobel Noblemen",
+      "link": "https://thecritic.co.uk/nobel-noblemen/"
     }
   ],
   "metadata": {
