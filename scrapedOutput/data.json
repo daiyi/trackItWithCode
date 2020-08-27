@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "A Short Guide to Minimal Web Development (2018)",
-      "link": "https://meiert.com/en/blog/minimal-web-development/"
+      "title": "The Rapier Physics Engine",
+      "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
     },
     {
       "rank": "6.",
-      "title": "The Rapier Physics Engine",
-      "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
+      "title": "A Short Guide to Minimal Web Development (2018)",
+      "link": "https://meiert.com/en/blog/minimal-web-development/"
     },
     {
       "rank": "7.",
@@ -77,18 +77,18 @@
     },
     {
       "rank": "16.",
-      "title": "Circle Medical (YC S15) Is Hiring a Senior Front End Engineer in Montréal",
-      "link": "https://jobs.lever.co/circlemedical/46d8485b-0092-48a5-8a26-96262438353d"
-    },
-    {
-      "rank": "17.",
       "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
       "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Hunting the Nearly-Invisible Personal Website",
       "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
+    },
+    {
+      "rank": "18.",
+      "title": "Circle Medical (YC S15) Is Hiring a Senior Front End Engineer in Montréal",
+      "link": "https://jobs.lever.co/circlemedical/46d8485b-0092-48a5-8a26-96262438353d"
     },
     {
       "rank": "19.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "Confessions of an ID Theft Kingpin, Part II",
-      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
+      "title": "Architecture Playbook",
+      "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
-      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
+      "title": "Confessions of an ID Theft Kingpin, Part II",
+      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
     },
     {
       "rank": "24.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
-      "title": "Architecture Playbook",
-      "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
+      "title": "New case studies about Google’s use of Go",
+      "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
     },
     {
       "rank": "26.",
-      "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
-      "link": "https://www.nature.com/articles/d41586-020-02480-5"
+      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
+      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
     },
     {
       "rank": "27.",
-      "title": "New case studies about Google’s use of Go",
-      "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
+      "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
+      "link": "https://www.nature.com/articles/d41586-020-02480-5"
     },
     {
       "rank": "28.",
