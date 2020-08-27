@@ -22,23 +22,23 @@
     },
     {
       "rank": "5.",
-      "title": "A Short Guide to Minimal Web Development (2018)",
-      "link": "https://meiert.com/en/blog/minimal-web-development/"
-    },
-    {
-      "rank": "6.",
       "title": "The time it takes to run a paid newsletter",
       "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
     },
     {
+      "rank": "6.",
+      "title": "A Short Guide to Minimal Web Development (2018)",
+      "link": "https://meiert.com/en/blog/minimal-web-development/"
+    },
+    {
       "rank": "7.",
-      "title": "Circle Medical (YC S15) Is Hiring a Senior Front End Engineer in Montréal",
-      "link": "https://jobs.lever.co/circlemedical/46d8485b-0092-48a5-8a26-96262438353d"
+      "title": "Constant Time LFU",
+      "link": "https://arpitbhayani.me/blogs/lfu"
     },
     {
       "rank": "8.",
-      "title": "Constant Time LFU",
-      "link": "https://arpitbhayani.me/blogs/lfu"
+      "title": "Circle Medical (YC S15) Is Hiring a Senior Front End Engineer in Montréal",
+      "link": "https://jobs.lever.co/circlemedical/46d8485b-0092-48a5-8a26-96262438353d"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "The Rapier Physics Engine",
-      "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
+      "title": "Band-Limiting Procedural Textures",
+      "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
     },
     {
       "rank": "11.",
-      "title": "Band-Limiting Procedural Textures",
-      "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
+      "title": "The Rapier Physics Engine",
+      "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
     },
     {
       "rank": "12.",
@@ -67,18 +67,18 @@
     },
     {
       "rank": "14.",
-      "title": "Apple showing signs it may soon launch a search engine",
-      "link": "https://www.coywolf.news/seo/apple-search-engine/"
-    },
-    {
-      "rank": "15.",
       "title": "Nitrokey",
       "link": "https://www.nitrokey.com/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Hard work vs. Long work (2011)",
       "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
+    },
+    {
+      "rank": "16.",
+      "title": "New case studies about Google’s use of Go",
+      "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
     },
     {
       "rank": "17.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "New case studies about Google’s use of Go",
-      "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
+      "title": "Apple showing signs it may soon launch a search engine",
+      "link": "https://www.coywolf.news/seo/apple-search-engine/"
     },
     {
       "rank": "20.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "Rare plants that ‘bleed’ nickel",
-      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
+      "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
+      "link": "item?id=24291790"
     },
     {
       "rank": "26.",
-      "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
-      "link": "item?id=24291790"
+      "title": "Rare plants that ‘bleed’ nickel",
+      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
     },
     {
       "rank": "27.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Interview with Zig language creator Andrew Kelley [video]",
-      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
+      "title": "Antibiotics nearly double risk of developing IBD, doctors warn",
+      "link": "https://www.studyfinds.org/antibiotics-double-ibd-risk/"
     },
     {
       "rank": "30.",
-      "title": "Antibiotics nearly double risk of developing IBD, doctors warn",
-      "link": "https://www.studyfinds.org/antibiotics-double-ibd-risk/"
+      "title": "Interview with Zig language creator Andrew Kelley [video]",
+      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
     }
   ],
   "metadata": {
