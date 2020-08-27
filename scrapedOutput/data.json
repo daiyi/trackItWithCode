@@ -7,23 +7,23 @@
     },
     {
       "rank": "2.",
-      "title": "On All That Fuckery",
-      "link": "https://www.tinykat.cafe/on-all-that-fuckery"
-    },
-    {
-      "rank": "3.",
       "title": "The potentially revolutionary Celera 500L aircraft",
       "link": "https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
       "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Why Johnny Won't Upgrade",
       "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
+    },
+    {
+      "rank": "5.",
+      "title": "MixedName – Bilingual baby name finder",
+      "link": "https://mixedname.com/"
     },
     {
       "rank": "6.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
-      "title": "MixedName – Bilingual baby name finder",
-      "link": "https://mixedname.com/"
-    },
-    {
-      "rank": "8.",
       "title": "Citi’s $900M Misfire Happened During Software Switch",
       "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "A leap of faith: Committing to open source",
       "link": "https://github.com/readme/henry-zhu"
+    },
+    {
+      "rank": "9.",
+      "title": "Shakuntala Devi – The Human Computer (2016)",
+      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
     },
     {
       "rank": "10.",
@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "Shippos USPS Time in Transit Data",
-      "link": "https://goshippo.com/usps-data-2020/"
-    },
-    {
-      "rank": "12.",
       "title": "Show HN: Computer Music with Python",
       "link": "https://github.com/luvsound/pippi"
     },
     {
-      "rank": "13.",
-      "title": "Shakuntala Devi – The Human Computer (2016)",
-      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
+      "rank": "12.",
+      "title": "Shippos USPS Time in Transit Data",
+      "link": "https://goshippo.com/usps-data-2020/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Belarus turned off the internet – citizens hot-wired it",
       "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Show HN: ztext.js – JavaScript library that makes any font 3D",
       "link": "https://bennettfeely.com/ztext/"
+    },
+    {
+      "rank": "15.",
+      "title": "Motoko, a programming language for building directly on the internet",
+      "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
-      "title": "Motoko, a programming language for building directly on the internet",
-      "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
+      "title": "Differentiable Control Problems",
+      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
     },
     {
       "rank": "18.",
-      "title": "TikTok CEO Kevin Mayer to leave the company",
-      "link": "https://www.cnbc.com/2020/08/27/tiktok-ceo-kevin-mayer-to-leave-the-company.html"
+      "title": "Andy Matuschak's Notes",
+      "link": "https://notes.andymatuschak.org/About_these_notes"
     },
     {
       "rank": "19.",
-      "title": "Andy Matuschak's Notes",
-      "link": "https://notes.andymatuschak.org/About_these_notes"
+      "title": "D3 6.0",
+      "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
     },
     {
       "rank": "20.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "D3 6.0",
-      "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
+      "title": "TikTok CEO Kevin Mayer to leave the company",
+      "link": "https://www.cnbc.com/2020/08/27/tiktok-ceo-kevin-mayer-to-leave-the-company.html"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
+      "title": "On All That Fuckery",
+      "link": "https://www.tinykat.cafe/on-all-that-fuckery"
+    },
+    {
+      "rank": "24.",
       "title": "Building a Home Lab Beginners Guide",
       "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Willscott/go-NFS: Golang NFSv3 server",
       "link": "https://github.com/willscott/go-nfs/"
     },
     {
-      "rank": "25.",
-      "title": "Differentiable Control Problems",
-      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
-    },
-    {
       "rank": "26.",
-      "title": "Photon – a live demo of a natural language interface to databases",
-      "link": "https://naturalsql.com/"
+      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
+      "link": "https://msadowski.github.io/2-years-remote-consulting/"
     },
     {
       "rank": "27.",
-      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
-      "link": "https://arxiv.org/abs/2008.11479"
-    },
-    {
-      "rank": "28.",
-      "title": "TF-Coder, a tool that writes tricky TensorFlow expressions",
-      "link": "https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html"
-    },
-    {
-      "rank": "29.",
       "title": "A fleet of computers helps settle a 90-year-old math problem",
       "link": "https://www.wired.com/story/a-fleet-of-computers-helps-settle-a-90-year-old-math-problem/"
     },
     {
-      "rank": "30.",
+      "rank": "28.",
+      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
+      "link": "https://arxiv.org/abs/2008.11479"
+    },
+    {
+      "rank": "29.",
       "title": "A mysterious radio burst that keeps repeating",
       "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
+    },
+    {
+      "rank": "30.",
+      "title": "Photon – a live demo of a natural language interface to databases",
+      "link": "https://naturalsql.com/"
     }
   ],
   "metadata": {
