@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Why Johnny Won't Upgrade",
-      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
+      "title": "D3 6.0",
+      "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
     },
     {
       "rank": "5.",
-      "title": "D3 6.0",
-      "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
+      "title": "How Drakeo the Ruler recorded an amazing-sounding album from jail",
+      "link": "https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/"
     },
     {
       "rank": "6.",
@@ -32,28 +32,28 @@
     },
     {
       "rank": "7.",
-      "title": "How Drakeo the Ruler recorded an amazing-sounding album from jail",
-      "link": "https://pitchfork.com/thepitch/how-drakeo-the-ruler-recorded-thank-you-for-using-gtl-from-jail-joogszn-interview/"
+      "title": "A mysterious radio burst that keeps repeating",
+      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
     },
     {
       "rank": "8.",
-      "title": "Willscott/go-NFS: Golang NFSv3 server",
-      "link": "https://github.com/willscott/go-nfs/"
-    },
-    {
-      "rank": "9.",
-      "title": "New Racket Language Website",
-      "link": "https://racket-lang.org/"
-    },
-    {
-      "rank": "10.",
       "title": "Show HN: ztext.js – JavaScript library (3.9 kb) that makes any font 3D",
       "link": "https://bennettfeely.com/ztext/"
     },
     {
+      "rank": "9.",
+      "title": "Willscott/go-NFS: Golang NFSv3 server",
+      "link": "https://github.com/willscott/go-nfs/"
+    },
+    {
+      "rank": "10.",
+      "title": "Building a Home Lab Beginners Guide",
+      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
+    },
+    {
       "rank": "11.",
-      "title": "A mysterious radio burst that keeps repeating",
-      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
+      "title": "New Racket Language Website",
+      "link": "https://racket-lang.org/"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "Building a Home Lab Beginners Guide",
-      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
+      "title": "SEC Modernizes the Accredited Investor Definition",
+      "link": "https://www.sec.gov/news/press-release/2020-191"
     },
     {
       "rank": "14.",
@@ -72,73 +72,73 @@
     },
     {
       "rank": "15.",
-      "title": "SEC Modernizes the Accredited Investor Definition",
-      "link": "https://www.sec.gov/news/press-release/2020-191"
-    },
-    {
-      "rank": "16.",
-      "title": "Pachama (YC W19) seeks ML and SW engineers to solve climate change",
-      "link": "https://jobs.lever.co/pachama"
-    },
-    {
-      "rank": "17.",
-      "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
-      "link": "https://github.com/iggredible/Learn-Vim"
-    },
-    {
-      "rank": "18.",
       "title": "Is TDD Dead? (2014)",
       "link": "https://martinfowler.com/articles/is-tdd-dead/"
     },
     {
-      "rank": "19.",
+      "rank": "16.",
+      "title": "Learn Vim (the Smart Way): a book to learn the good parts of Vim",
+      "link": "https://github.com/iggredible/Learn-Vim"
+    },
+    {
+      "rank": "17.",
+      "title": "Pachama (YC W19) seeks ML and SW engineers to solve climate change",
+      "link": "https://jobs.lever.co/pachama"
+    },
+    {
+      "rank": "18.",
       "title": "New planets confirmed in machine learning first",
       "link": "https://phys.org/news/2020-08-planets-machine.html"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Preparing Our Partners for iOS 14",
       "link": "https://www.facebook.com/business/news/preparing-our-partners-for-ios-14-launch/"
     },
     {
-      "rank": "21.",
-      "title": "The Illusion of Control in Web Design (2018)",
-      "link": "https://alistapart.com/article/the-illusion-of-control-in-web-design/"
-    },
-    {
-      "rank": "22.",
-      "title": "First tax year with Stripe Atlas",
-      "link": "https://tryhexadecimal.com/journal/business-taxes"
-    },
-    {
-      "rank": "23.",
+      "rank": "20.",
       "title": "Show HN: Teal – a serverless VM and programming language",
       "link": "https://www.condense9.com/"
     },
     {
-      "rank": "24.",
+      "rank": "21.",
+      "title": "First tax year with Stripe Atlas",
+      "link": "https://tryhexadecimal.com/journal/business-taxes"
+    },
+    {
+      "rank": "22.",
+      "title": "The Illusion of Control in Web Design (2018)",
+      "link": "https://alistapart.com/article/the-illusion-of-control-in-web-design/"
+    },
+    {
+      "rank": "23.",
       "title": "Jacksonpollock.org (2003)",
       "link": "https://jacksonpollock.org/"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Show HN: Lulim Jewelry – Design and 3D print your own custom wedding band",
       "link": "https://lulimjewelry.com"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "SSH Keygen – RSA, DSA, Ecdsa, EdDSA",
       "link": "https://gravitational.com/blog/comparing-ssh-keys/"
     },
     {
+      "rank": "26.",
+      "title": "Why Johnny Won't Upgrade",
+      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
+    },
+    {
       "rank": "27.",
-      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
-      "link": "https://www.rarlab.com/revoked591.html"
+      "title": "GNU tar blocking factor, blocks, records and checkpoints",
+      "link": "https://finch.am/projects/tar/"
     },
     {
       "rank": "28.",
-      "title": "GNU tar blocking factor, blocks, records and checkpoints",
-      "link": "https://finch.am/projects/tar/"
+      "title": "Information on the revocation of WinRAR 5.91 digital certificate",
+      "link": "https://www.rarlab.com/revoked591.html"
     },
     {
       "rank": "29.",
