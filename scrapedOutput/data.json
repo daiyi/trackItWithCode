@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Wind and solar are 30-50% cheaper than thought, admits UK government",
-      "link": "https://www.carbonbrief.org/wind-and-solar-are-30-50-cheaper-than-thought-admits-uk-government"
+      "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
+      "link": "https://remarkable.com/#What_Is_New"
     },
     {
       "rank": "2.",
-      "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
-      "link": "https://remarkable.com/#What_Is_New"
+      "title": "Wind and solar are 30-50% cheaper than thought, admits UK government",
+      "link": "https://www.carbonbrief.org/wind-and-solar-are-30-50-cheaper-than-thought-admits-uk-government"
     },
     {
       "rank": "3.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "Nitrokey",
-      "link": "https://www.nitrokey.com/"
+      "title": "Hard work vs. Long work (2011)",
+      "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
     },
     {
       "rank": "12.",
-      "title": "Hard work vs. Long work (2011)",
-      "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
+      "title": "Nitrokey",
+      "link": "https://www.nitrokey.com/"
     },
     {
       "rank": "13.",
@@ -67,43 +67,43 @@
     },
     {
       "rank": "14.",
-      "title": "Parabola on ReMarkable: A Guide [pdf]",
-      "link": "http://www.davisr.me/projects/parabola-rm/install-guide-latest.pdf"
-    },
-    {
-      "rank": "15.",
       "title": "Hunting the Nearly-Invisible Personal Website",
       "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Making QUIC Quicker with NIC Offload",
       "link": "https://dl.acm.org/doi/abs/10.1145/3405796.3405827"
     },
     {
-      "rank": "17.",
-      "title": "Abstracting Abstract Machines (2010) [pdf]",
-      "link": "http://matt.might.net/papers/vanhorn2010abstract.pdf"
+      "rank": "16.",
+      "title": "Thread: Differentiable Self-Organizing Systems",
+      "link": "https://distill.pub/2020/selforg/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Rare plants that ‘bleed’ nickel",
       "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
     },
     {
+      "rank": "18.",
+      "title": "Parabola on ReMarkable: A Guide [pdf]",
+      "link": "http://www.davisr.me/projects/parabola-rm/install-guide-latest.pdf"
+    },
+    {
       "rank": "19.",
+      "title": "Abstracting Abstract Machines (2010) [pdf]",
+      "link": "http://matt.might.net/papers/vanhorn2010abstract.pdf"
+    },
+    {
+      "rank": "20.",
       "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
       "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Even Google engineers are confused about Google’s privacy settings",
       "link": "https://www.theverge.com/2020/8/26/21403202/google-engineers-privacy-settings-lawsuit-arizona-doubleclick"
-    },
-    {
-      "rank": "21.",
-      "title": "Walmart Joins Talks to Buy TikTok",
-      "link": "https://www.nytimes.com/2020/08/27/technology/walmart-tiktok-deal.html"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
-      "title": "We'll be stuck in this recession for years, economists say",
-      "link": "https://www.erienewsnow.com/story/42532778/well-be-stuck-in-this-recession-for-years-economists-say"
+      "title": "Walmart Joins Talks to Buy TikTok",
+      "link": "https://www.nytimes.com/2020/08/27/technology/walmart-tiktok-deal.html"
     },
     {
       "rank": "24.",
-      "title": "Interview with Zig language creator Andrew Kelley [video]",
-      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
+      "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
+      "link": "https://www.nature.com/articles/d41586-020-02480-5"
     },
     {
       "rank": "25.",
-      "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
-      "link": "https://www.nature.com/articles/d41586-020-02480-5"
+      "title": "Interview with Zig language creator Andrew Kelley [video]",
+      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
     },
     {
       "rank": "26.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "An Archive of a Different Type",
-      "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
+      "title": "Researchers in Germany are giving out scholarships in “idleness”",
+      "link": "https://www.independent.co.uk/news/world/europe/germany-grants-laziness-scholarships-do-nothing-university-hamburg-a9681466.html"
     },
     {
       "rank": "29.",
-      "title": "Researchers in Germany are giving out scholarships in “idleness”",
-      "link": "https://www.independent.co.uk/news/world/europe/germany-grants-laziness-scholarships-do-nothing-university-hamburg-a9681466.html"
+      "title": "An Archive of a Different Type",
+      "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
     },
     {
       "rank": "30.",
