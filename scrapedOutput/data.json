@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
-      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
+      "title": "Band-Limiting Procedural Textures",
+      "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
     },
     {
       "rank": "3.",
-      "title": "Band-Limiting Procedural Textures",
-      "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
+      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
+      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
     },
     {
       "rank": "4.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "Knuth versus Email (1999)",
-      "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
+      "title": "Approximate Results May Vary",
+      "link": "https://ericlippert.com/2020/08/21/approximate-results-may-vary/"
     },
     {
       "rank": "12.",
-      "title": "Approximate Results May Vary",
-      "link": "https://ericlippert.com/2020/08/21/approximate-results-may-vary/"
+      "title": "Knuth versus Email (1999)",
+      "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
     },
     {
       "rank": "13.",
@@ -67,33 +67,33 @@
     },
     {
       "rank": "14.",
-      "title": "A leap of faith: Committing to open source",
-      "link": "https://github.com/readme/henry-zhu"
-    },
-    {
-      "rank": "15.",
       "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
       "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
     },
     {
-      "rank": "16.",
-      "title": "Citi’s $900M Misfire Happened During Software Switch",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
+      "rank": "15.",
+      "title": "A leap of faith: Committing to open source",
+      "link": "https://github.com/readme/henry-zhu"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Show HN: Computer Music with Python",
       "link": "https://github.com/luvsound/pippi"
     },
     {
+      "rank": "17.",
+      "title": "Interview with Zig language creator Andrew Kelley",
+      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
+    },
+    {
       "rank": "18.",
-      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
-      "link": "https://msadowski.github.io/2-years-remote-consulting/"
+      "title": "Citi’s $900M Misfire Happened During Software Switch",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
     },
     {
       "rank": "19.",
-      "title": "Interview with Zig language creator Andrew Kelley",
-      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
+      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
+      "link": "https://msadowski.github.io/2-years-remote-consulting/"
     },
     {
       "rank": "20.",
@@ -102,23 +102,23 @@
     },
     {
       "rank": "21.",
-      "title": "Why Johnny Won't Upgrade",
-      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
-    },
-    {
-      "rank": "22.",
       "title": "Unicornify",
       "link": "Https://unicornify.pictures"
     },
     {
+      "rank": "22.",
+      "title": "Why Johnny Won't Upgrade",
+      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
+    },
+    {
       "rank": "23.",
-      "title": "Shakuntala Devi – The Human Computer (2016)",
-      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
+      "title": "Shippos USPS Time in Transit Data",
+      "link": "https://goshippo.com/usps-data-2020/"
     },
     {
       "rank": "24.",
-      "title": "Shippos USPS Time in Transit Data",
-      "link": "https://goshippo.com/usps-data-2020/"
+      "title": "Shakuntala Devi – The Human Computer (2016)",
+      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
     },
     {
       "rank": "25.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
-      "link": "https://www.nature.com/articles/d41586-020-02480-5"
-    },
-    {
-      "rank": "28.",
       "title": "MixedName – Bilingual baby name finder",
       "link": "https://mixedname.com/"
     },
     {
+      "rank": "28.",
+      "title": "Embrace, extend, and finally extinguish – Microsoft plays their hand",
+      "link": "https://drewdevault.com/2020/08/27/Microsoft-plays-their-hand.html"
+    },
+    {
       "rank": "29.",
-      "title": "TF-Coder, a tool that writes tricky TensorFlow expressions",
-      "link": "https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html"
+      "title": "Digital Sight Management, and the Mystery of the Missing Amazon Receipts",
+      "link": "https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/"
     },
     {
       "rank": "30.",
-      "title": "Digital Sight Management, and the Mystery of the Missing Amazon Receipts",
-      "link": "https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/"
+      "title": "TF-Coder, a tool that writes tricky TensorFlow expressions",
+      "link": "https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html"
     }
   ],
   "metadata": {
