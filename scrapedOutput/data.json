@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "The time it takes to run a paid newsletter",
-      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
+      "title": "The Rapier Physics Engine",
+      "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
     },
     {
       "rank": "7.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "The Rapier Physics Engine",
-      "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
+      "title": "The time it takes to run a paid newsletter",
+      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
     },
     {
       "rank": "9.",
@@ -67,18 +67,18 @@
     },
     {
       "rank": "14.",
-      "title": "Circle Medical (YC S15) Is Hiring a Senior Front End Engineer in Montréal",
-      "link": "https://jobs.lever.co/circlemedical/46d8485b-0092-48a5-8a26-96262438353d"
-    },
-    {
-      "rank": "15.",
       "title": "Hard work vs. Long work (2011)",
       "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
       "link": "https://arxiv.org/abs/2008.11479"
+    },
+    {
+      "rank": "16.",
+      "title": "Circle Medical (YC S15) Is Hiring a Senior Front End Engineer in Montréal",
+      "link": "https://jobs.lever.co/circlemedical/46d8485b-0092-48a5-8a26-96262438353d"
     },
     {
       "rank": "17.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Confessions of an ID Theft Kingpin, Part II",
-      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
+      "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
+      "link": "item?id=24291790"
     },
     {
       "rank": "21.",
-      "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
-      "link": "item?id=24291790"
+      "title": "Confessions of an ID Theft Kingpin, Part II",
+      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "New case studies about Google’s use of Go",
-      "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
+      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
+      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
-      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
+      "title": "Architecture Playbook",
+      "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Rare plants that ‘bleed’ nickel",
-      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
+      "title": "New case studies about Google’s use of Go",
+      "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
     },
     {
       "rank": "28.",
-      "title": "Antibiotics nearly double risk of developing IBD, doctors warn",
-      "link": "https://www.studyfinds.org/antibiotics-double-ibd-risk/"
+      "title": "Rare plants that ‘bleed’ nickel",
+      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
-      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
+      "title": "Antibiotics nearly double risk of developing IBD, doctors warn",
+      "link": "https://www.studyfinds.org/antibiotics-double-ibd-risk/"
     }
   ],
   "metadata": {
