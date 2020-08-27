@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Band-Limiting Procedural Textures",
-      "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
+      "title": "Show HN: Civilization VI, but made in WebFlow (a no-code tool)",
+      "link": "https://webflow.com/website/Civilization"
     },
     {
       "rank": "3.",
-      "title": "Show HN: Civilization VI, but made in WebFlow (a no-code tool)",
-      "link": "https://webflow.com/website/Civilization"
+      "title": "Band-Limiting Procedural Textures",
+      "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
     },
     {
       "rank": "4.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "An Archive of a Different Type",
-      "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
+      "title": "Schrödinger’s Cat When Nobody Is Looking",
+      "link": "http://nautil.us/issue/89/the-dark-side/schrdingers-cat-when-nobody-is-looking"
     },
     {
       "rank": "10.",
-      "title": "Schrödinger’s Cat When Nobody Is Looking",
-      "link": "http://nautil.us/issue/89/the-dark-side/schrdingers-cat-when-nobody-is-looking"
+      "title": "An Archive of a Different Type",
+      "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
     },
     {
       "rank": "11.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
+      "title": "FEMA Spends More Preparing for Terrorism Than Hurricanes",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-27/hurricane-laura-fema-grants-aren-t-focused-on-climate-change"
+    },
+    {
+      "rank": "16.",
       "title": "BBC Master on Steroids",
       "link": "https://retrohax.net/bbc-master-on-steroids/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Knuth versus Email (1999)",
       "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
-    },
-    {
-      "rank": "17.",
-      "title": "Approximate Results May Vary",
-      "link": "https://ericlippert.com/2020/08/21/approximate-results-may-vary/"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
-      "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
+      "title": "Approximate Results May Vary",
+      "link": "https://ericlippert.com/2020/08/21/approximate-results-may-vary/"
     },
     {
       "rank": "20.",
-      "title": "Citi’s $900M Misfire Happened During Software Switch",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
+      "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
+      "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
-      "link": "https://msadowski.github.io/2-years-remote-consulting/"
+      "title": "Citi’s $900M Misfire Happened During Software Switch",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
     },
     {
       "rank": "23.",
-      "title": "FEMA Spends More Preparing for Terrorism Than Hurricanes",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-27/hurricane-laura-fema-grants-aren-t-focused-on-climate-change"
+      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
+      "link": "https://msadowski.github.io/2-years-remote-consulting/"
     },
     {
       "rank": "24.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Motoko, a programming language for building directly on the internet",
-      "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
+      "title": "Shippos USPS Time in Transit Data",
+      "link": "https://goshippo.com/usps-data-2020/"
     },
     {
       "rank": "27.",
-      "title": "Shippos USPS Time in Transit Data",
-      "link": "https://goshippo.com/usps-data-2020/"
+      "title": "Motoko, a programming language for building directly on the internet",
+      "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/"
     },
     {
       "rank": "28.",
