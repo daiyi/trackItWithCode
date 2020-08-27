@@ -27,38 +27,38 @@
     },
     {
       "rank": "6.",
-      "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
-      "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
-    },
-    {
-      "rank": "7.",
       "title": "SpaceX Starlink average speedtest is 42.3Mbps down / 9.7 Mbps up",
       "link": "https://testmy.net/hoststats/spacex_starlink"
     },
     {
-      "rank": "8.",
-      "title": "A leap of faith: Committing to open source",
-      "link": "https://github.com/readme/henry-zhu"
-    },
-    {
-      "rank": "9.",
-      "title": "Citi’s $900M Misfire Happened During Software Switch",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
-    },
-    {
-      "rank": "10.",
+      "rank": "7.",
       "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
       "link": "https://www.nature.com/articles/d41586-020-02480-5"
     },
     {
+      "rank": "8.",
+      "title": "Show HN: Vim-Like Layer for Xorg and Wayland",
+      "link": "https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/"
+    },
+    {
+      "rank": "9.",
+      "title": "A leap of faith: Committing to open source",
+      "link": "https://github.com/readme/henry-zhu"
+    },
+    {
+      "rank": "10.",
+      "title": "Citi’s $900M Misfire Happened During Software Switch",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
+    },
+    {
       "rank": "11.",
-      "title": "Belarus turned off the internet – citizens hot-wired it",
-      "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
+      "title": "Shakuntala Devi – The Human Computer (2016)",
+      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
     },
     {
       "rank": "12.",
-      "title": "Shakuntala Devi – The Human Computer (2016)",
-      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
+      "title": "Belarus turned off the internet – citizens hot-wired it",
+      "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
     },
     {
       "rank": "13.",
@@ -72,33 +72,33 @@
     },
     {
       "rank": "15.",
-      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
-      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
+      "title": "Digital Sight Management, and the Mystery of the Missing Amazon Receipts",
+      "link": "https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/"
     },
     {
       "rank": "16.",
-      "title": "Show HN: Computer Music with Python",
-      "link": "https://github.com/luvsound/pippi"
-    },
-    {
-      "rank": "17.",
-      "title": "Differentiable Control Problems",
-      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
-    },
-    {
-      "rank": "18.",
       "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
       "link": "https://msadowski.github.io/2-years-remote-consulting/"
     },
     {
+      "rank": "17.",
+      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
+      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
+    },
+    {
+      "rank": "18.",
+      "title": "Show HN: Computer Music with Python",
+      "link": "https://github.com/luvsound/pippi"
+    },
+    {
       "rank": "19.",
-      "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
-      "link": "https://arwes.dev"
+      "title": "Differentiable Control Problems",
+      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
     },
     {
       "rank": "20.",
-      "title": "The daydream that never stops (2017)",
-      "link": "https://www.bbc.co.uk/news/resources/idt-sh/the_daydream_that_never_stops"
+      "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
+      "link": "https://arwes.dev"
     },
     {
       "rank": "21.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "MixedName – Bilingual baby name finder",
-      "link": "https://mixedname.com/"
+      "title": "Building a Home Lab Beginners Guide",
+      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
       "rank": "24.",
-      "title": "Building a Home Lab Beginners Guide",
-      "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
+      "title": "MixedName – Bilingual baby name finder",
+      "link": "https://mixedname.com/"
     },
     {
       "rank": "25.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "Digital Sight Management, and the Mystery of the Missing Amazon Receipts",
-      "link": "https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/"
+      "title": "The daydream that never stops (2017)",
+      "link": "https://www.bbc.co.uk/news/resources/idt-sh/the_daydream_that_never_stops"
     },
     {
       "rank": "27.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
-      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
+      "title": "A mysterious radio burst that keeps repeating",
+      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
     },
     {
       "rank": "29.",
-      "title": "A mysterious radio burst that keeps repeating",
-      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
+      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
+      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
     },
     {
       "rank": "30.",
