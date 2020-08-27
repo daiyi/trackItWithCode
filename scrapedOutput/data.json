@@ -2,7 +2,7 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "The Potentially Revolutionary Celera 500L Aircraft Officially Breaks Cover",
+      "title": "The potentially revolutionary Celera 500L aircraft",
       "link": "https://www.thedrive.com/the-war-zone/36016/the-potentially-revolutionary-celera-500l-officially-breaks-cover"
     },
     {
@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Andy Matuschak's Notes",
-      "link": "https://notes.andymatuschak.org/About_these_notes"
+      "title": "Live View of Hurricane Laura",
+      "link": "https://www.windy.com/?28.695,-93.082,7"
     },
     {
       "rank": "7.",
-      "title": "Live View of Hurricane Laura",
-      "link": "https://www.windy.com/?28.695,-93.082,7"
+      "title": "Andy Matuschak's Notes",
+      "link": "https://notes.andymatuschak.org/About_these_notes"
     },
     {
       "rank": "8.",
@@ -107,33 +107,33 @@
     },
     {
       "rank": "22.",
-      "title": "Pachama (YC W19) seeks ML and SW engineers to solve climate change",
-      "link": "https://jobs.lever.co/pachama"
-    },
-    {
-      "rank": "23.",
       "title": "First tax year with Stripe Atlas",
       "link": "https://tryhexadecimal.com/journal/business-taxes"
     },
     {
+      "rank": "23.",
+      "title": "The Selectric Typewriter",
+      "link": "https://www.ibm.com/ibm/history/ibm100/us/en/icons/selectric/"
+    },
+    {
       "rank": "24.",
+      "title": "Pachama (YC W19) seeks ML and SW engineers to solve climate change",
+      "link": "https://jobs.lever.co/pachama"
+    },
+    {
+      "rank": "25.",
       "title": "Jacksonpollock.org (2003)",
       "link": "https://jacksonpollock.org/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "The Illusion of Control in Web Design (2018)",
       "link": "https://alistapart.com/article/the-illusion-of-control-in-web-design/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "SSH Keygen – RSA, DSA, Ecdsa, EdDSA",
       "link": "https://gravitational.com/blog/comparing-ssh-keys/"
-    },
-    {
-      "rank": "27.",
-      "title": "GNU tar blocking factor, blocks, records and checkpoints",
-      "link": "https://finch.am/projects/tar/"
     },
     {
       "rank": "28.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "The Selectric Typewriter",
-      "link": "https://www.ibm.com/ibm/history/ibm100/us/en/icons/selectric/"
+      "title": "GNU tar blocking factor, blocks, records and checkpoints",
+      "link": "https://finch.am/projects/tar/"
     },
     {
       "rank": "30.",
