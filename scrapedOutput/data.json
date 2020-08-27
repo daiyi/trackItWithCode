@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "New Case Studies About Google’s Use of Go",
-      "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
+      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
+      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
     },
     {
       "rank": "5.",
-      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
-      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
+      "title": "New Case Studies About Google’s Use of Go",
+      "link": "https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html"
     },
     {
       "rank": "6.",
@@ -57,53 +57,53 @@
     },
     {
       "rank": "12.",
-      "title": "Nitrokey",
-      "link": "https://www.nitrokey.com/"
-    },
-    {
-      "rank": "13.",
-      "title": "Thread: Differentiable Self-Organizing Systems",
-      "link": "https://distill.pub/2020/selforg/"
-    },
-    {
-      "rank": "14.",
-      "title": "Confessions of an ID Theft Kingpin, Part II",
-      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
-    },
-    {
-      "rank": "15.",
-      "title": "Free Learning List",
-      "link": "https://freelearninglist.org/"
-    },
-    {
-      "rank": "16.",
-      "title": "Hunting the Nearly-Invisible Personal Website",
-      "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
-    },
-    {
-      "rank": "17.",
-      "title": "Making QUIC Quicker with NIC Offload",
-      "link": "https://dl.acm.org/doi/abs/10.1145/3405796.3405827"
-    },
-    {
-      "rank": "18.",
-      "title": "Rare plants that ‘bleed’ nickel",
-      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
-    },
-    {
-      "rank": "19.",
       "title": "Software engineering lessons from the flight deck",
       "link": "https://amanjain.substack.com/p/software-engineering-lessons-from"
     },
     {
+      "rank": "13.",
+      "title": "Nitrokey",
+      "link": "https://www.nitrokey.com/"
+    },
+    {
+      "rank": "14.",
+      "title": "Free Learning List",
+      "link": "https://freelearninglist.org/"
+    },
+    {
+      "rank": "15.",
+      "title": "Confessions of an ID Theft Kingpin, Part II",
+      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
+    },
+    {
+      "rank": "16.",
+      "title": "Thread: Differentiable Self-Organizing Systems",
+      "link": "https://distill.pub/2020/selforg/"
+    },
+    {
+      "rank": "17.",
+      "title": "Hunting the Nearly-Invisible Personal Website",
+      "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
+    },
+    {
+      "rank": "18.",
+      "title": "Making QUIC Quicker with NIC Offload",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3405796.3405827"
+    },
+    {
+      "rank": "19.",
+      "title": "Rare plants that ‘bleed’ nickel",
+      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
+    },
+    {
       "rank": "20.",
-      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
-      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
+      "title": "Abstracting Abstract Machines (2010) [pdf]",
+      "link": "http://matt.might.net/papers/vanhorn2010abstract.pdf"
     },
     {
       "rank": "21.",
-      "title": "Abstracting Abstract Machines (2010) [pdf]",
-      "link": "http://matt.might.net/papers/vanhorn2010abstract.pdf"
+      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
+      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
     },
     {
       "rank": "22.",
@@ -112,23 +112,23 @@
     },
     {
       "rank": "23.",
-      "title": "Blanked-out spots on China's maps helped us uncover Xinjiang's camps",
-      "link": "https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps"
-    },
-    {
-      "rank": "24.",
       "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
       "link": "https://www.nature.com/articles/d41586-020-02480-5"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Interview with Zig language creator Andrew Kelley [video]",
       "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Parabola on ReMarkable: A Guide [pdf]",
       "link": "http://www.davisr.me/projects/parabola-rm/install-guide-latest.pdf"
+    },
+    {
+      "rank": "26.",
+      "title": "Blanked-out spots on China's maps helped us uncover Xinjiang's camps",
+      "link": "https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps"
     },
     {
       "rank": "27.",
