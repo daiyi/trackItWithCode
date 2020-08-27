@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "SpaceX Starlink average speedtest is 42.3Mbps down / 9.7 Mbps up",
-      "link": "https://testmy.net/hoststats/spacex_starlink"
+      "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
+      "link": "https://www.nature.com/articles/d41586-020-02480-5"
     },
     {
       "rank": "2.",
-      "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
-      "link": "https://www.nature.com/articles/d41586-020-02480-5"
+      "title": "SpaceX Starlink average speedtest is 42.3Mbps down / 9.7 Mbps up",
+      "link": "https://testmy.net/hoststats/spacex_starlink"
     },
     {
       "rank": "3.",
@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
-      "title": "Citi’s $900M Misfire Happened During Software Switch",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
-    },
-    {
-      "rank": "9.",
       "title": "A leap of faith: Committing to open source",
       "link": "https://github.com/readme/henry-zhu"
     },
     {
+      "rank": "9.",
+      "title": "Citi’s $900M Misfire Happened During Software Switch",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
+    },
+    {
       "rank": "10.",
-      "title": "Unicornify",
-      "link": "Https://unicornify.pictures"
+      "title": "Shakuntala Devi – The Human Computer (2016)",
+      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
     },
     {
       "rank": "11.",
-      "title": "Shakuntala Devi – The Human Computer (2016)",
-      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
+      "title": "Unicornify",
+      "link": "Https://unicornify.pictures"
     },
     {
       "rank": "12.",
@@ -62,23 +62,23 @@
     },
     {
       "rank": "13.",
-      "title": "Shippos USPS Time in Transit Data",
-      "link": "https://goshippo.com/usps-data-2020/"
-    },
-    {
-      "rank": "14.",
       "title": "Belarus turned off the internet – citizens hot-wired it",
       "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Show HN: ztext.js – JavaScript library that makes any font 3D",
       "link": "https://bennettfeely.com/ztext/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Differentiable Control Problems",
       "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
+    },
+    {
+      "rank": "16.",
+      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
+      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
     },
     {
       "rank": "17.",
@@ -87,48 +87,48 @@
     },
     {
       "rank": "18.",
-      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
-      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
-    },
-    {
-      "rank": "19.",
-      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
-      "link": "https://msadowski.github.io/2-years-remote-consulting/"
-    },
-    {
-      "rank": "20.",
       "title": "Andy Matuschak's Notes",
       "link": "https://notes.andymatuschak.org/About_these_notes"
     },
     {
-      "rank": "21.",
-      "title": "TikTok CEO Kevin Mayer to leave the company",
-      "link": "https://www.cnbc.com/2020/08/27/tiktok-ceo-kevin-mayer-to-leave-the-company.html"
+      "rank": "19.",
+      "title": "Shippos USPS Time in Transit Data",
+      "link": "https://goshippo.com/usps-data-2020/"
     },
     {
-      "rank": "22.",
+      "rank": "20.",
+      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
+      "link": "https://msadowski.github.io/2-years-remote-consulting/"
+    },
+    {
+      "rank": "21.",
       "title": "D3 6.0",
       "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
       "link": "https://arwes.dev"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Building a Home Lab Beginners Guide",
       "link": "https://haydenjames.io/home-lab-beginners-guide-hardware/"
     },
     {
+      "rank": "24.",
+      "title": "Willscott/go-NFS: Golang NFSv3 server",
+      "link": "https://github.com/willscott/go-nfs/"
+    },
+    {
       "rank": "25.",
-      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
-      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
+      "title": "TikTok CEO Kevin Mayer to leave the company",
+      "link": "https://www.cnbc.com/2020/08/27/tiktok-ceo-kevin-mayer-to-leave-the-company.html"
     },
     {
       "rank": "26.",
-      "title": "Willscott/go-NFS: Golang NFSv3 server",
-      "link": "https://github.com/willscott/go-nfs/"
+      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
+      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
     },
     {
       "rank": "27.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
-      "link": "https://arxiv.org/abs/2008.11479"
+      "title": "A mysterious radio burst that keeps repeating",
+      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
     },
     {
       "rank": "30.",
-      "title": "A mysterious radio burst that keeps repeating",
-      "link": "https://www.sciencealert.com/right-on-schedule-a-repeating-fast-radio-burst-has-woken-up"
+      "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
+      "link": "https://arxiv.org/abs/2008.11479"
     }
   ],
   "metadata": {
