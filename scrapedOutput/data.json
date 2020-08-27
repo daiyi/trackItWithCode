@@ -17,28 +17,28 @@
     },
     {
       "rank": "4.",
-      "title": "Why Johnny Won't Upgrade",
-      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
+      "title": "We Used Blank Spots in China's Maps to Investigate Xinjiang's Camps",
+      "link": "https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps"
     },
     {
       "rank": "5.",
-      "title": "Knuth versus Email (1999)",
-      "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
-    },
-    {
-      "rank": "6.",
-      "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
-      "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
-    },
-    {
-      "rank": "7.",
       "title": "An Archive of a Different Type",
       "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
     },
     {
+      "rank": "6.",
+      "title": "Why Johnny Won't Upgrade",
+      "link": "https://jacquesmattheij.com/why-johnny-wont-upgrade/"
+    },
+    {
+      "rank": "7.",
+      "title": "Knuth versus Email (1999)",
+      "link": "https://www-cs-faculty.stanford.edu/~knuth/email.html"
+    },
+    {
       "rank": "8.",
-      "title": "BBC Master on Steroids",
-      "link": "https://retrohax.net/bbc-master-on-steroids/"
+      "title": "Facebook apologizes to users for Apple’s monstrous efforts to protect privacy",
+      "link": "https://www.theregister.com/2020/08/27/facebook_ios_ads/"
     },
     {
       "rank": "9.",
@@ -47,8 +47,8 @@
     },
     {
       "rank": "10.",
-      "title": "Citi’s $900M Misfire Happened During Software Switch",
-      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
+      "title": "BBC Master on Steroids",
+      "link": "https://retrohax.net/bbc-master-on-steroids/"
     },
     {
       "rank": "11.",
@@ -62,23 +62,23 @@
     },
     {
       "rank": "13.",
-      "title": "We Used Blank Spots in China's Maps to Investigate Xinjiang's Camps",
-      "link": "https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps"
-    },
-    {
-      "rank": "14.",
-      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
-      "link": "https://msadowski.github.io/2-years-remote-consulting/"
-    },
-    {
-      "rank": "15.",
       "title": "Belarus turned off the internet – citizens hot-wired it",
       "link": "https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575"
     },
     {
+      "rank": "14.",
+      "title": "Citi’s $900M Misfire Happened During Software Switch",
+      "link": "https://www.bloomberg.com/news/articles/2020-08-25/citi-s-900-million-misfire-happened-in-midst-of-software-switch"
+    },
+    {
+      "rank": "15.",
+      "title": "Thoughts on 2 Years as a Remote Robotics Consultant",
+      "link": "https://msadowski.github.io/2-years-remote-consulting/"
+    },
+    {
       "rank": "16.",
-      "title": "Shakuntala Devi – The Human Computer (2016)",
-      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
+      "title": "Show HN: Computer Music with Python",
+      "link": "https://github.com/luvsound/pippi"
     },
     {
       "rank": "17.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Problem Solving with Algorithms and Data Structures [pdf]",
-      "link": "https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf"
+      "title": "Shakuntala Devi – The Human Computer (2016)",
+      "link": "https://petersmagnusson.org/2016/01/15/shakuntala-devi-the-human-computer/"
     },
     {
       "rank": "20.",
-      "title": "Show HN: Computer Music with Python",
-      "link": "https://github.com/luvsound/pippi"
+      "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
+      "link": "https://arwes.dev"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Arwes – Futuristic Sci-Fi / Cyberpunk Graphical User Interface Framework",
-      "link": "https://arwes.dev"
+      "title": "Datasaurus: Never trust summary statistics; visualize your data (2016)",
+      "link": "http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "Differentiable Control Problems",
-      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
+      "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
+      "link": "item?id=24291790"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Digital Sight Management, and the Mystery of the Missing Amazon Receipts",
-      "link": "https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/"
-    },
-    {
-      "rank": "27.",
       "title": "D3 6.0",
       "link": "https://github.com/d3/d3/blob/master/CHANGES.md"
     },
     {
+      "rank": "27.",
+      "title": "Differentiable Control Problems",
+      "link": "https://fluxml.ai/2019/03/05/dp-vs-rl.html"
+    },
+    {
       "rank": "28.",
-      "title": "Willscott/go-NFS: Golang NFSv3 server",
-      "link": "https://github.com/willscott/go-nfs/"
+      "title": "Digital Sight Management, and the Mystery of the Missing Amazon Receipts",
+      "link": "https://mssv.net/2020/08/16/digital-sight-management-and-the-mystery-of-the-missing-amazon-receipts/"
     },
     {
       "rank": "29.",
-      "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
-      "link": "item?id=24291790"
+      "title": "TF-Coder, a tool that writes tricky TensorFlow expressions",
+      "link": "https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html"
     },
     {
       "rank": "30.",
-      "title": "TF-Coder, a tool that writes tricky TensorFlow expressions",
-      "link": "https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html"
+      "title": "How satellite ‘megaconstellations’ will photobomb astronomy images",
+      "link": "https://www.nature.com/articles/d41586-020-02480-5"
     }
   ],
   "metadata": {
