@@ -22,83 +22,83 @@
     },
     {
       "rank": "5.",
+      "title": "Technical Debt Doesn’t Exist",
+      "link": "https://thehftguy.com/2020/08/26/technical-debt-doesnt-exist/"
+    },
+    {
+      "rank": "6.",
       "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
       "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "tilde.town: A social network over SSH",
       "link": "https://tilde.town/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Lego IKEA Bygglek – First Look",
       "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
+      "title": "(Visualization)What caused 1 Million U.S. wildfires over the last 30 years?",
+      "link": "http://wildfire.kyrixdemo.live/"
+    },
+    {
+      "rank": "10.",
+      "title": "Hartree-Fock on a superconducting qubit quantum computer",
+      "link": "https://science.sciencemag.org/content/369/6507/1084"
+    },
+    {
+      "rank": "11.",
       "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
       "link": "https://remarkable.com/#What_Is_New"
     },
     {
-      "rank": "9.",
+      "rank": "12.",
       "title": "Amazon: A New Kind of Antitrust Risk",
       "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
     },
     {
-      "rank": "10.",
+      "rank": "13.",
       "title": "Bill Gates' nuclear venture plans reactor to complement solar, wind power boom",
       "link": "https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8"
     },
     {
-      "rank": "11.",
+      "rank": "14.",
       "title": "Waymo Tests Autonomous Trucks in Texas",
       "link": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas"
     },
     {
-      "rank": "12.",
+      "rank": "15.",
       "title": "Safari adopts the Chrome/Firefox extension model",
       "link": "https://developer.apple.com/news/?id=kuswih5l"
     },
     {
-      "rank": "13.",
+      "rank": "16.",
       "title": "The Rapier Physics Engine",
       "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
     },
     {
-      "rank": "14.",
-      "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
-      "link": "https://substack.com/jobs"
-    },
-    {
-      "rank": "15.",
+      "rank": "17.",
       "title": "When Asbestos Was a Gift Fit for a King",
       "link": "https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/"
     },
     {
-      "rank": "16.",
+      "rank": "18.",
+      "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
+      "link": "https://substack.com/jobs"
+    },
+    {
+      "rank": "19.",
       "title": "The Lounge – Modern web IRC client designed for self-hosting",
       "link": "https://github.com/thelounge/thelounge"
     },
     {
-      "rank": "17.",
+      "rank": "20.",
       "title": "Computer scientists attempt to corner the Collatz conjecture",
       "link": "https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/"
-    },
-    {
-      "rank": "18.",
-      "title": "Architecture Playbook",
-      "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
-    },
-    {
-      "rank": "19.",
-      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
-      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
-    },
-    {
-      "rank": "20.",
-      "title": "Scrollbar Blindness",
-      "link": "https://svenkadak.com/blog/scrollbar-blindness"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "The time it takes to run a paid newsletter",
-      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
+      "title": "Architecture Playbook",
+      "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
     },
     {
       "rank": "23.",
-      "title": "In Ashgabat",
-      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
-    },
-    {
-      "rank": "24.",
-      "title": "Not the 'Beowulf' You Think You Know",
-      "link": "https://www.npr.org/2020/08/27/906423831/bro-this-is-not-the-beowulf-you-think-you-know"
-    },
-    {
-      "rank": "25.",
       "title": "Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’",
       "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
     },
     {
+      "rank": "24.",
+      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
+      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
+    },
+    {
+      "rank": "25.",
+      "title": "Scrollbar Blindness",
+      "link": "https://svenkadak.com/blog/scrollbar-blindness"
+    },
+    {
       "rank": "26.",
-      "title": "Rare plants that ‘bleed’ nickel",
-      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
+      "title": "Prime Minister Abe Shinzo Intends to Step Down",
+      "link": "https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/"
     },
     {
       "rank": "27.",
-      "title": "Apple blocks Facebook update that called out 30-percent App Store ‘tax’",
-      "link": "https://www.theverge.com/2020/8/28/21405140/apple-rejects-facebook-update-30-percent-cut"
+      "title": "The time it takes to run a paid newsletter",
+      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
     },
     {
       "rank": "28.",
-      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
-      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
+      "title": "In Ashgabat",
+      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
     },
     {
       "rank": "29.",
-      "title": "Confessions of an ID Theft Kingpin, Part II",
-      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
+      "title": "Not the 'Beowulf' You Think You Know",
+      "link": "https://www.npr.org/2020/08/27/906423831/bro-this-is-not-the-beowulf-you-think-you-know"
     },
     {
       "rank": "30.",
-      "title": "Constant Time LFU",
-      "link": "https://arpitbhayani.me/blogs/lfu"
+      "title": "Rare plants that ‘bleed’ nickel",
+      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
     }
   ],
   "metadata": {
