@@ -17,58 +17,58 @@
     },
     {
       "rank": "4.",
+      "title": "Neuralink Progress Update, Summer 2020",
+      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
+    },
+    {
+      "rank": "5.",
       "title": "Game Design Curriculum",
       "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Objective-Rust",
       "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "The Joy of Cryptography",
       "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "GoodRx S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Impact of Go AI on the professional Go world",
       "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Show HN: Visualize Data Structures in VS Code",
       "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Intel's “cripple AMD” function (2019)",
       "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
       "link": "https://www.serialliterature.com/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "GNU/Linux Smartphone Librem 5 Evergreen Update: Mold and Milestones",
       "link": "https://puri.sm/posts/librem-5-evergreen-update-mold-and-milestones/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
       "link": "https://qoto.org/@freemo/104765288863293481"
-    },
-    {
-      "rank": "14.",
-      "title": "Show HN: Healthcare Is Dumb",
-      "link": "https://healthcareisdumb.com/"
     },
     {
       "rank": "15.",
@@ -77,38 +77,38 @@
     },
     {
       "rank": "16.",
+      "title": "Show HN: Healthcare Is Dumb",
+      "link": "https://healthcareisdumb.com/"
+    },
+    {
+      "rank": "17.",
       "title": "Show HN: 3D first person game rendered in CSS/HTML",
       "link": "https://pantel.is/projects/css3d/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
       "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
+      "title": "The World of Legacy IT Systems",
+      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
+    },
+    {
+      "rank": "20.",
       "title": "Retrobatch – flexible batch image processing for Mac",
       "link": "https://flyingmeat.com/retrobatch/"
     },
     {
-      "rank": "19.",
-      "title": "Neuralink Progress Update, Summer 2020",
-      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
-    },
-    {
-      "rank": "20.",
-      "title": "Zoom is now critical infrastructure – that’s a concern",
-      "link": "https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/"
-    },
-    {
       "rank": "21.",
-      "title": "The Jellyfish Problem",
-      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+      "title": "In Defense of the IPO, and How to Improve It",
+      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
     },
     {
       "rank": "22.",
-      "title": "Good vibrations: acoustic technologies in cars",
-      "link": "https://physicsworld.com/a/good-vibrations-acoustic-technologies-in-cars/"
+      "title": "Zoom is now critical infrastructure – that’s a concern",
+      "link": "https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/"
     },
     {
       "rank": "23.",
@@ -117,33 +117,33 @@
     },
     {
       "rank": "24.",
+      "title": "The Jellyfish Problem",
+      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+    },
+    {
+      "rank": "25.",
+      "title": "Good vibrations: acoustic technologies in cars",
+      "link": "https://physicsworld.com/a/good-vibrations-acoustic-technologies-in-cars/"
+    },
+    {
+      "rank": "26.",
       "title": "Millions of Americans could lose their electricity as shutoff moratoriums expire",
       "link": "https://carbonswitch.co/energy-insecurity-and-covid-19"
     },
     {
-      "rank": "25.",
-      "title": "In Defense of the IPO, and How to Improve It",
-      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
-    },
-    {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Why I’m Willing to Pay a Premium for Security, Privacy, and Peace of Mind",
       "link": "https://tirania.org/blog/archive/2020/Aug-28.html"
     },
     {
-      "rank": "27.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
-    },
-    {
       "rank": "28.",
-      "title": "The Magic of Engineered Serendipity",
-      "link": "https://www.beondeck.com/post/the-magic-of-engineered-serendipity"
+      "title": "Firefox 80 and my confusion over its hardware accelerated video on Linux",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion"
     },
     {
       "rank": "29.",
-      "title": "Firefox 80 and my confusion over its hardware accelerated video on Linux",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion"
+      "title": "The Magic of Engineered Serendipity",
+      "link": "https://www.beondeck.com/post/the-magic-of-engineered-serendipity"
     },
     {
       "rank": "30.",
