@@ -17,38 +17,38 @@
     },
     {
       "rank": "4.",
-      "title": "OCaml Workshop 2020 Online Conference is live now",
-      "link": "https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri"
+      "title": "Boeing yanks eight 787s from service over structural issue",
+      "link": "https://theaircurrent.com/aviation-safety/boeing-pulls-eight-787s-from-service-over-structural-issue/"
     },
     {
       "rank": "5.",
-      "title": "RFC8890: The Internet Is for End Users",
-      "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
-    },
-    {
-      "rank": "6.",
-      "title": "Pluto.jl – a reactive, lightweight, simple notebook",
-      "link": "https://github.com/fonsp/Pluto.jl"
-    },
-    {
-      "rank": "7.",
-      "title": "Using Microsoft Word with Git",
-      "link": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/"
-    },
-    {
-      "rank": "8.",
       "title": "Show HN: Visualize Data Structures in VS Code",
       "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
     },
     {
+      "rank": "6.",
+      "title": "OCaml Workshop 2020 Online Conference is live now",
+      "link": "https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri"
+    },
+    {
+      "rank": "7.",
+      "title": "RFC8890: The Internet Is for End Users",
+      "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
+    },
+    {
+      "rank": "8.",
+      "title": "Using Microsoft Word with Git",
+      "link": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/"
+    },
+    {
       "rank": "9.",
-      "title": "Surprising new feature in AMD Ryzen 3000",
-      "link": "https://www.agner.org/forum/viewtopic.php?t=41"
+      "title": "Pluto.jl – a reactive, lightweight, simple notebook",
+      "link": "https://github.com/fonsp/Pluto.jl"
     },
     {
       "rank": "10.",
-      "title": "One Year with ThinkPad and Linux (From MacBook Pro)",
-      "link": "https://drikerf.com/one-year-with-thinkpad-and-linux-from-macbook-pro/"
+      "title": "Surprising new feature in AMD Ryzen 3000",
+      "link": "https://www.agner.org/forum/viewtopic.php?t=41"
     },
     {
       "rank": "11.",
@@ -57,98 +57,98 @@
     },
     {
       "rank": "12.",
-      "title": "Zoom still don't understand GDPR",
-      "link": "https://www.threatspike.com/blog/zoom_cookies.html"
+      "title": "Bcrypt Step-by-Step",
+      "link": "https://qvault.io/2020/08/24/bcrypt-step-by-step/"
     },
     {
       "rank": "13.",
-      "title": "Coronavirus is most deadly if you are older and male – new data reveal the risks",
-      "link": "https://www.nature.com/articles/d41586-020-02483-2"
-    },
-    {
-      "rank": "14.",
       "title": "100 years to solve an integral: The history of the Mercator map",
       "link": "https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html"
     },
     {
+      "rank": "14.",
+      "title": "Zoom still don't understand GDPR",
+      "link": "https://www.threatspike.com/blog/zoom_cookies.html"
+    },
+    {
       "rank": "15.",
-      "title": "Show HN: Little Ball of Fur 2.0 – A graph sampling Python library",
-      "link": "https://github.com/benedekrozemberczki/Littleballoffur"
+      "title": "Coronavirus is most deadly if you are older and male – new data reveal the risks",
+      "link": "https://www.nature.com/articles/d41586-020-02483-2"
     },
     {
       "rank": "16.",
-      "title": "Arizona DMV Sells Drivers' Photos and SSNs to Private Investigators",
-      "link": "https://www.vice.com/en_us/article/pky8a8/dmv-mvd-sell-photo-ssn-private-investigators"
-    },
-    {
-      "rank": "17.",
-      "title": "Openbot: Turning Smartphones into Robots",
-      "link": "https://www.openbot.org/"
-    },
-    {
-      "rank": "18.",
-      "title": "C++ Lightweight, cross-platform, HTML rendering engine for desktop apps",
-      "link": "https://github.com/ultralight-ux/Ultralight"
-    },
-    {
-      "rank": "19.",
       "title": "Fox Two: The Story of the Aim-9 Sidewinder (2014)",
       "link": "http://www.donhollway.com/foxtwo/"
     },
     {
+      "rank": "17.",
+      "title": "One Year with ThinkPad and Linux (From MacBook Pro)",
+      "link": "https://drikerf.com/one-year-with-thinkpad-and-linux-from-macbook-pro/"
+    },
+    {
+      "rank": "18.",
+      "title": "Arizona DMV Sells Drivers' Photos and SSNs to Private Investigators",
+      "link": "https://www.vice.com/en_us/article/pky8a8/dmv-mvd-sell-photo-ssn-private-investigators"
+    },
+    {
+      "rank": "19.",
+      "title": "Show HN: Little Ball of Fur 2.0 – A graph sampling Python library",
+      "link": "https://github.com/benedekrozemberczki/Littleballoffur"
+    },
+    {
       "rank": "20.",
-      "title": "tilde.town: A social network over SSH",
-      "link": "https://tilde.town/"
+      "title": "Openbot: Turning Smartphones into Robots",
+      "link": "https://www.openbot.org/"
     },
     {
       "rank": "21.",
-      "title": "Amazon: A New Kind of Antitrust Risk",
-      "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
-    },
-    {
-      "rank": "22.",
-      "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
-      "link": "https://remarkable.com/#What_Is_New"
-    },
-    {
-      "rank": "23.",
-      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
-      "link": "https://github.com/sm0svx/svxlink"
-    },
-    {
-      "rank": "24.",
-      "title": "Who needs a case? The 3D Printed Mil-Plastic is here",
-      "link": "https://back7.co/home/back7co-mil-plastic"
-    },
-    {
-      "rank": "25.",
-      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
-      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
-    },
-    {
-      "rank": "26.",
-      "title": "Bug in OpenSSH / Config Checker",
-      "link": "https://puffy.nolink.ch/posts/bug_in_sshd/"
-    },
-    {
-      "rank": "27.",
       "title": "Dots don't matter in Gmail addresses",
       "link": "https://support.google.com/mail/answer/7436150?hl=en"
     },
     {
+      "rank": "22.",
+      "title": "tilde.town: A social network over SSH",
+      "link": "https://tilde.town/"
+    },
+    {
+      "rank": "23.",
+      "title": "Bug in OpenSSH / Config Checker",
+      "link": "https://puffy.nolink.ch/posts/bug_in_sshd/"
+    },
+    {
+      "rank": "24.",
+      "title": "C++ Lightweight, cross-platform, HTML rendering engine for desktop apps",
+      "link": "https://github.com/ultralight-ux/Ultralight"
+    },
+    {
+      "rank": "25.",
+      "title": "Amazon: A New Kind of Antitrust Risk",
+      "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
+    },
+    {
+      "rank": "26.",
+      "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
+      "link": "https://remarkable.com/#What_Is_New"
+    },
+    {
+      "rank": "27.",
+      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
+      "link": "https://github.com/sm0svx/svxlink"
+    },
+    {
       "rank": "28.",
-      "title": "Is your chart a detective story or a police report?",
-      "link": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/"
+      "title": "Who needs a case? The 3D Printed Mil-Plastic is here",
+      "link": "https://back7.co/home/back7co-mil-plastic"
     },
     {
       "rank": "29.",
-      "title": "Hartree-Fock on a superconducting qubit quantum computer",
-      "link": "https://science.sciencemag.org/content/369/6507/1084"
+      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
+      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
     },
     {
       "rank": "30.",
-      "title": "Notes on “Anthropology of Childhood”",
-      "link": "https://thewholesky.wordpress.com/2020/08/27/notes-on-anthropology-of-childhood-by-david-lancy/"
+      "title": "Is your chart a detective story or a police report?",
+      "link": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/"
     }
   ],
   "metadata": {
