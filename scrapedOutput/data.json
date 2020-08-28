@@ -17,93 +17,93 @@
     },
     {
       "rank": "4.",
-      "title": "GoodRx S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
-    },
-    {
-      "rank": "5.",
-      "title": "Impact of Go AI on the professional Go world",
-      "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
-    },
-    {
-      "rank": "6.",
-      "title": "Show HN: Visualize Data Structures in VS Code",
-      "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
-    },
-    {
-      "rank": "7.",
-      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
-      "link": "https://www.serialliterature.com/"
-    },
-    {
-      "rank": "8.",
-      "title": "Show HN: 3D first person game rendered in CSS/HTML",
-      "link": "https://pantel.is/projects/css3d/"
-    },
-    {
-      "rank": "9.",
-      "title": "Zoom is now critical infrastructure – that’s a concern",
-      "link": "https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/"
-    },
-    {
-      "rank": "10.",
-      "title": "Ham radio is not dying, it's evolving",
-      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
-    },
-    {
-      "rank": "11.",
-      "title": "Intel's “cripple AMD” function (2019)",
-      "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
-    },
-    {
-      "rank": "12.",
-      "title": "The Magic of Engineered Serendipity",
-      "link": "https://www.beondeck.com/post/the-magic-of-engineered-serendipity"
-    },
-    {
-      "rank": "13.",
-      "title": "Boeing yanks eight 787s from service over structural issue",
-      "link": "https://theaircurrent.com/aviation-safety/boeing-pulls-eight-787s-from-service-over-structural-issue/"
-    },
-    {
-      "rank": "14.",
-      "title": "Firefox 80 and my confusion over its hardware accelerated video on Linux",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion"
-    },
-    {
-      "rank": "15.",
       "title": "Why I’m Willing to Pay a Premium for Security, Privacy, and Peace of Mind",
       "link": "https://tirania.org/blog/archive/2020/Aug-28.html"
     },
     {
-      "rank": "16.",
-      "title": "Squad Wealth",
-      "link": "https://otherinter.net/squad-wealth/"
+      "rank": "5.",
+      "title": "GoodRx S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
     },
     {
-      "rank": "17.",
-      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
-      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
+      "rank": "6.",
+      "title": "Impact of Go AI on the professional Go world",
+      "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
     },
     {
-      "rank": "18.",
-      "title": "Show HN: Healthcare Is Dumb",
-      "link": "https://healthcareisdumb.com/"
+      "rank": "7.",
+      "title": "Show HN: Visualize Data Structures in VS Code",
+      "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
     },
     {
-      "rank": "19.",
+      "rank": "8.",
+      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
+      "link": "https://www.serialliterature.com/"
+    },
+    {
+      "rank": "9.",
+      "title": "Show HN: 3D first person game rendered in CSS/HTML",
+      "link": "https://pantel.is/projects/css3d/"
+    },
+    {
+      "rank": "10.",
       "title": "Objective-Rust",
       "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
+      "rank": "11.",
+      "title": "Zoom is now critical infrastructure – that’s a concern",
+      "link": "https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/"
+    },
+    {
+      "rank": "12.",
+      "title": "Intel's “cripple AMD” function (2019)",
+      "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
+    },
+    {
+      "rank": "13.",
+      "title": "Ham radio is not dying, it's evolving",
+      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
+    },
+    {
+      "rank": "14.",
+      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
+      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
+    },
+    {
+      "rank": "15.",
+      "title": "The Magic of Engineered Serendipity",
+      "link": "https://www.beondeck.com/post/the-magic-of-engineered-serendipity"
+    },
+    {
+      "rank": "16.",
+      "title": "Firefox 80 and my confusion over its hardware accelerated video on Linux",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion"
+    },
+    {
+      "rank": "17.",
+      "title": "Boeing yanks eight 787s from service over structural issue",
+      "link": "https://theaircurrent.com/aviation-safety/boeing-pulls-eight-787s-from-service-over-structural-issue/"
+    },
+    {
+      "rank": "18.",
+      "title": "Squad Wealth",
+      "link": "https://otherinter.net/squad-wealth/"
+    },
+    {
+      "rank": "19.",
+      "title": "Show HN: Healthcare Is Dumb",
+      "link": "https://healthcareisdumb.com/"
+    },
+    {
       "rank": "20.",
-      "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
-      "link": "https://www.markeverglade.com/iscyberpunkdead"
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
     },
     {
       "rank": "21.",
-      "title": "Redis Labs Raises $100M",
-      "link": "https://redislabs.com/press/redis-labs-raises-100-million-series-f-financing/"
+      "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
+      "link": "https://www.markeverglade.com/iscyberpunkdead"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
+      "title": "Redis Labs Raises $100M",
+      "link": "https://redislabs.com/press/redis-labs-raises-100-million-series-f-financing/"
+    },
+    {
+      "rank": "24.",
       "title": "Surprising new feature in AMD Ryzen 3000",
       "link": "https://www.agner.org/forum/viewtopic.php?t=41"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "RFC8890: The Internet Is for End Users",
       "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
-    },
-    {
-      "rank": "25.",
-      "title": "Speaking Knots",
-      "link": "https://soender.blog/Speaking-Knots/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Investigating the Milk, MIT's Historic Dairy Product (2015)",
-      "link": "https://alum.mit.edu/slice/investigating-milk-mits-historic-dairy-product"
-    },
-    {
-      "rank": "28.",
       "title": "Pluto.jl – a reactive, lightweight, simple notebook",
       "link": "https://github.com/fonsp/Pluto.jl"
     },
     {
+      "rank": "28.",
+      "title": "Investigating the Milk, MIT's Historic Dairy Product (2015)",
+      "link": "https://alum.mit.edu/slice/investigating-milk-mits-historic-dairy-product"
+    },
+    {
       "rank": "29.",
-      "title": "Shelley: macOS menu bar app that runs shell scripts upon authorized HTTP request",
-      "link": "https://tyler.io/shelley/"
+      "title": "Babylonian Mathematics (2003) [pdf]",
+      "link": "https://www.math.tamu.edu/~dallen/masters/egypt_babylon/babylon.pdf"
     },
     {
       "rank": "30.",
-      "title": "Babylonian Mathematics (2003) [pdf]",
-      "link": "https://www.math.tamu.edu/~dallen/masters/egypt_babylon/babylon.pdf"
+      "title": "Speaking Knots",
+      "link": "https://soender.blog/Speaking-Knots/"
     }
   ],
   "metadata": {
