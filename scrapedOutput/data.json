@@ -17,18 +17,18 @@
     },
     {
       "rank": "4.",
-      "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke, the Man Who Invented It",
-      "link": "https://www.markeverglade.com/iscyberpunkdead"
-    },
-    {
-      "rank": "5.",
       "title": "Show HN: Visualize Data Structures in VS Code",
       "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "OCaml Workshop 2020 Online Conference is live now",
       "link": "https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri"
+    },
+    {
+      "rank": "6.",
+      "title": "Pluto.jl – a reactive, lightweight, simple notebook",
+      "link": "https://github.com/fonsp/Pluto.jl"
     },
     {
       "rank": "7.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Pluto.jl – a reactive, lightweight, simple notebook",
-      "link": "https://github.com/fonsp/Pluto.jl"
+      "title": "Surprising new feature in AMD Ryzen 3000",
+      "link": "https://www.agner.org/forum/viewtopic.php?t=41"
     },
     {
       "rank": "10.",
-      "title": "Surprising new feature in AMD Ryzen 3000",
-      "link": "https://www.agner.org/forum/viewtopic.php?t=41"
+      "title": "100 years to solve an integral: The history of the Mercator map",
+      "link": "https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html"
     },
     {
       "rank": "11.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Bcrypt Step-by-Step",
-      "link": "https://qvault.io/2020/08/24/bcrypt-step-by-step/"
+      "title": "Fox Two: The Story of the Aim-9 Sidewinder (2014)",
+      "link": "http://www.donhollway.com/foxtwo/"
     },
     {
       "rank": "13.",
-      "title": "100 years to solve an integral: The history of the Mercator map",
-      "link": "https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html"
+      "title": "Bcrypt Step-by-Step",
+      "link": "https://qvault.io/2020/08/24/bcrypt-step-by-step/"
     },
     {
       "rank": "14.",
@@ -72,48 +72,48 @@
     },
     {
       "rank": "15.",
-      "title": "Zoom still don't understand GDPR",
-      "link": "https://www.threatspike.com/blog/zoom_cookies.html"
+      "title": "Investigating the Milk, MIT's Historic Dairy Product (2015)",
+      "link": "https://alum.mit.edu/slice/investigating-milk-mits-historic-dairy-product"
     },
     {
       "rank": "16.",
-      "title": "Coronavirus is most deadly if you are older and male – new data reveal the risks",
-      "link": "https://www.nature.com/articles/d41586-020-02483-2"
+      "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke, the Man Who Invented It",
+      "link": "https://www.markeverglade.com/iscyberpunkdead"
     },
     {
       "rank": "17.",
-      "title": "Fox Two: The Story of the Aim-9 Sidewinder (2014)",
-      "link": "http://www.donhollway.com/foxtwo/"
-    },
-    {
-      "rank": "18.",
       "title": "Arizona DMV Sells Drivers' Photos and SSNs to Private Investigators",
       "link": "https://www.vice.com/en_us/article/pky8a8/dmv-mvd-sell-photo-ssn-private-investigators"
     },
     {
-      "rank": "19.",
-      "title": "Dots don't matter in Gmail addresses",
-      "link": "https://support.google.com/mail/answer/7436150?hl=en"
-    },
-    {
-      "rank": "20.",
-      "title": "Openbot: Turning Smartphones into Robots",
-      "link": "https://www.openbot.org/"
-    },
-    {
-      "rank": "21.",
+      "rank": "18.",
       "title": "Show HN: Little Ball of Fur 2.0 – A graph sampling Python library",
       "link": "https://github.com/benedekrozemberczki/Littleballoffur"
     },
     {
+      "rank": "19.",
+      "title": "Openbot: Turning Smartphones into Robots",
+      "link": "https://www.openbot.org/"
+    },
+    {
+      "rank": "20.",
+      "title": "Coronavirus is most deadly if you are older and male – new data reveal the risks",
+      "link": "https://www.nature.com/articles/d41586-020-02483-2"
+    },
+    {
+      "rank": "21.",
+      "title": "Dots don't matter in Gmail addresses",
+      "link": "https://support.google.com/mail/answer/7436150?hl=en"
+    },
+    {
       "rank": "22.",
-      "title": "Bug in OpenSSH / Config Checker",
-      "link": "https://puffy.nolink.ch/posts/bug_in_sshd/"
+      "title": "tilde.town: A social network over SSH",
+      "link": "https://tilde.town/"
     },
     {
       "rank": "23.",
-      "title": "tilde.town: A social network over SSH",
-      "link": "https://tilde.town/"
+      "title": "Bug in OpenSSH / Config Checker",
+      "link": "https://puffy.nolink.ch/posts/bug_in_sshd/"
     },
     {
       "rank": "24.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
-      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
-    },
-    {
-      "rank": "28.",
       "title": "Who needs a case? The 3D Printed Mil-Plastic is here",
       "link": "https://back7.co/home/back7co-mil-plastic"
     },
     {
+      "rank": "28.",
+      "title": "Is your chart a detective story or a police report?",
+      "link": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/"
+    },
+    {
       "rank": "29.",
-      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
-      "link": "https://github.com/sm0svx/svxlink"
+      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
+      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
     },
     {
       "rank": "30.",
-      "title": "Is your chart a detective story or a police report?",
-      "link": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/"
+      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
+      "link": "https://github.com/sm0svx/svxlink"
     }
   ],
   "metadata": {
