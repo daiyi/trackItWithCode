@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "New Economic Challenges and the Fed's Monetary Policy Review",
-      "link": "https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm"
-    },
-    {
-      "rank": "2.",
       "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
       "link": "https://remarkable.com/#What_Is_New"
     },
     {
+      "rank": "2.",
+      "title": "Safari adopts the Chrome/Firefox extension model",
+      "link": "https://developer.apple.com/news/?id=kuswih5l"
+    },
+    {
       "rank": "3.",
+      "title": "New Economic Challenges and the Fed's Monetary Policy Review",
+      "link": "https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm"
+    },
+    {
+      "rank": "4.",
       "title": "Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?",
       "link": "https://twitter.com/SpencerDailey/status/1299063704483438593"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Clearly Zoom still don't understand GDPR",
       "link": "https://www.threatspike.com/blog/zoom_cookies.html"
-    },
-    {
-      "rank": "5.",
-      "title": "Safari adopts the Chrome/Firefox extension model",
-      "link": "https://developer.apple.com/news/?id=kuswih5l"
     },
     {
       "rank": "6.",
@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Scrollbar Blindness",
-      "link": "https://svenkadak.com/blog/scrollbar-blindness"
+      "title": "Lego IKEA Bygglek – First Look",
+      "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
     },
     {
       "rank": "8.",
-      "title": "Lego IKEA Bygglek – First Look",
-      "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
+      "title": "Scrollbar Blindness",
+      "link": "https://svenkadak.com/blog/scrollbar-blindness"
     },
     {
       "rank": "9.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "In Ashgabat",
-      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
+      "title": "Hunting the Nearly-Invisible Personal Website",
+      "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
     },
     {
       "rank": "22.",
-      "title": "Hunting the Nearly-Invisible Personal Website",
-      "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
+      "title": "In Ashgabat",
+      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
     },
     {
       "rank": "23.",
@@ -117,28 +117,28 @@
     },
     {
       "rank": "24.",
-      "title": "Constant Time LFU",
-      "link": "https://arpitbhayani.me/blogs/lfu"
-    },
-    {
-      "rank": "25.",
       "title": "Antibiotics nearly double risk of developing IBD, doctors warn",
       "link": "https://www.studyfinds.org/antibiotics-double-ibd-risk/"
     },
     {
+      "rank": "25.",
+      "title": "Constant Time LFU",
+      "link": "https://arpitbhayani.me/blogs/lfu"
+    },
+    {
       "rank": "26.",
+      "title": "Rare plants that ‘bleed’ nickel",
+      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
+    },
+    {
+      "rank": "27.",
       "title": "Confessions of an ID Theft Kingpin, Part II",
       "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
       "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
-    },
-    {
-      "rank": "28.",
-      "title": "Rare plants that ‘bleed’ nickel",
-      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
     },
     {
       "rank": "29.",
