@@ -17,43 +17,43 @@
     },
     {
       "rank": "4.",
-      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
-      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
-    },
-    {
-      "rank": "5.",
       "title": "Zoom still don't understand GDPR",
       "link": "https://www.threatspike.com/blog/zoom_cookies.html"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Winklevoss 500k Bitcoin Argument",
       "link": "https://winklevosscapital.com/the-case-for-500k-bitcoin/"
     },
     {
-      "rank": "7.",
-      "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
-      "link": "https://substack.com/jobs"
+      "rank": "6.",
+      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
+      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "tilde.town: A social network over SSH",
       "link": "https://tilde.town/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Lego IKEA Bygglek – First Look",
       "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
     },
     {
+      "rank": "9.",
+      "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
+      "link": "https://substack.com/jobs"
+    },
+    {
       "rank": "10.",
-      "title": "Waymo Tests Autonomous Trucks in Texas",
-      "link": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas"
+      "title": "Amazon: A New Kind of Antitrust Risk",
+      "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
     },
     {
       "rank": "11.",
-      "title": "Amazon: A New Kind of Antitrust Risk",
-      "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
+      "title": "Waymo Tests Autonomous Trucks in Texas",
+      "link": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas"
     },
     {
       "rank": "12.",
@@ -67,28 +67,28 @@
     },
     {
       "rank": "14.",
-      "title": "When Asbestos Was a Gift Fit for a King",
-      "link": "https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/"
-    },
-    {
-      "rank": "15.",
-      "title": "Motoko: A programming language for building directly on the internet",
-      "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/?cb=1"
-    },
-    {
-      "rank": "16.",
       "title": "The Rapier Physics Engine",
       "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
     },
     {
+      "rank": "15.",
+      "title": "When Asbestos Was a Gift Fit for a King",
+      "link": "https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/"
+    },
+    {
+      "rank": "16.",
+      "title": "Motoko: A programming language for building directly on the internet",
+      "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/?cb=1"
+    },
+    {
       "rank": "17.",
-      "title": "The Lounge – Modern web IRC client designed for self-hosting",
-      "link": "https://github.com/thelounge/thelounge"
+      "title": "Architecture Playbook",
+      "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
     },
     {
       "rank": "18.",
-      "title": "Architecture Playbook",
-      "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
+      "title": "The Lounge – Modern web IRC client designed for self-hosting",
+      "link": "https://github.com/thelounge/thelounge"
     },
     {
       "rank": "19.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Constant Time LFU",
-      "link": "https://arpitbhayani.me/blogs/lfu"
+      "title": "Confessions of an ID Theft Kingpin, Part II",
+      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
     },
     {
       "rank": "30.",
-      "title": "Confessions of an ID Theft Kingpin, Part II",
-      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
+      "title": "Constant Time LFU",
+      "link": "https://arpitbhayani.me/blogs/lfu"
     }
   ],
   "metadata": {
