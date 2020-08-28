@@ -7,28 +7,28 @@
     },
     {
       "rank": "2.",
+      "title": "Ham radio is dying No it’s not, it's evolving – K0LWC",
+      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
+    },
+    {
+      "rank": "3.",
       "title": "RFC8890: The Internet Is for End Users",
       "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "China Built a Vast New Infrastructure to Imprison Uighurs",
       "link": "https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Using Microsoft Word with Git",
       "link": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Testing Database Transactions in Go",
       "link": "https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM"
-    },
-    {
-      "rank": "6.",
-      "title": "C++ Lightweight, cross-platform, HTML rendering engine for desktop apps",
-      "link": "https://github.com/ultralight-ux/Ultralight"
     },
     {
       "rank": "7.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
-      "title": "Zoom still don't understand GDPR",
-      "link": "https://www.threatspike.com/blog/zoom_cookies.html"
+      "title": "Surprising new feature in AMD Ryzen 3000",
+      "link": "https://www.agner.org/forum/viewtopic.php?t=41"
     },
     {
       "rank": "9.",
-      "title": "Ham radio is dying No it’s not, it's evolving – K0LWC",
-      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
+      "title": "C++ Lightweight, cross-platform, HTML rendering engine for desktop apps",
+      "link": "https://github.com/ultralight-ux/Ultralight"
     },
     {
       "rank": "10.",
-      "title": "Surprising new feature in AMD Ryzen 3000",
-      "link": "https://www.agner.org/forum/viewtopic.php?t=41"
+      "title": "Zoom still don't understand GDPR",
+      "link": "https://www.threatspike.com/blog/zoom_cookies.html"
     },
     {
       "rank": "11.",
@@ -57,38 +57,38 @@
     },
     {
       "rank": "12.",
-      "title": "Lego IKEA Bygglek – First Look",
-      "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
-    },
-    {
-      "rank": "13.",
-      "title": "tilde.town: A social network over SSH",
-      "link": "https://tilde.town/"
-    },
-    {
-      "rank": "14.",
       "title": "Openbot: Turning Smartphones into Robots",
       "link": "https://www.openbot.org/"
     },
     {
+      "rank": "13.",
+      "title": "Lego IKEA Bygglek – First Look",
+      "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
+    },
+    {
+      "rank": "14.",
+      "title": "tilde.town: A social network over SSH",
+      "link": "https://tilde.town/"
+    },
+    {
       "rank": "15.",
-      "title": "Hartree-Fock on a superconducting qubit quantum computer",
-      "link": "https://science.sciencemag.org/content/369/6507/1084"
+      "title": "Notes on “Anthropology of Childhood”",
+      "link": "https://thewholesky.wordpress.com/2020/08/27/notes-on-anthropology-of-childhood-by-david-lancy/"
     },
     {
       "rank": "16.",
-      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
-      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
-    },
-    {
-      "rank": "17.",
       "title": "Amazon: A New Kind of Antitrust Risk",
       "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
     },
     {
+      "rank": "17.",
+      "title": "Hartree-Fock on a superconducting qubit quantum computer",
+      "link": "https://science.sciencemag.org/content/369/6507/1084"
+    },
+    {
       "rank": "18.",
-      "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
-      "link": "https://remarkable.com/#What_Is_New"
+      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
+      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
     },
     {
       "rank": "19.",
@@ -97,33 +97,33 @@
     },
     {
       "rank": "20.",
+      "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
+      "link": "https://remarkable.com/#What_Is_New"
+    },
+    {
+      "rank": "21.",
       "title": "Is your chart a detective story or a police report?",
       "link": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/"
     },
     {
-      "rank": "21.",
-      "title": "Notes on “Anthropology of Childhood”",
-      "link": "https://thewholesky.wordpress.com/2020/08/27/notes-on-anthropology-of-childhood-by-david-lancy/"
-    },
-    {
       "rank": "22.",
-      "title": "Prime Minister Abe Shinzo Intends to Step Down",
-      "link": "https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/"
-    },
-    {
-      "rank": "23.",
-      "title": "Waymo Tests Autonomous Trucks in Texas",
-      "link": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas"
-    },
-    {
-      "rank": "24.",
       "title": "Editor Overload",
       "link": "https://blog.iansinnott.com/editor-overload/"
     },
     {
-      "rank": "25.",
+      "rank": "23.",
       "title": "Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?",
       "link": "https://twitter.com/SpencerDailey/status/1299063704483438593"
+    },
+    {
+      "rank": "24.",
+      "title": "Waymo Tests Autonomous Trucks in Texas",
+      "link": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas"
+    },
+    {
+      "rank": "25.",
+      "title": "Prime Minister Abe Shinzo Intends to Step Down",
+      "link": "https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/"
     },
     {
       "rank": "26.",
