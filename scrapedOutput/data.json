@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
-      "link": "https://www.markeverglade.com/iscyberpunkdead"
+      "title": "Investigating the Milk, MIT's Historic Dairy Product (2015)",
+      "link": "https://alum.mit.edu/slice/investigating-milk-mits-historic-dairy-product"
     },
     {
       "rank": "7.",
-      "title": "Investigating the Milk, MIT's Historic Dairy Product (2015)",
-      "link": "https://alum.mit.edu/slice/investigating-milk-mits-historic-dairy-product"
+      "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
+      "link": "https://www.markeverglade.com/iscyberpunkdead"
     },
     {
       "rank": "8.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "OCaml Workshop 2020 Online Conference is live now",
-      "link": "https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri"
+      "title": "Chainalysis in Action: Justice Dept Demands Forfeiture of 280 Crypto Addresses",
+      "link": "https://blog.chainalysis.com/reports/lazarus-group-north-korea-doj-complaint-august-2020"
     },
     {
       "rank": "10.",
-      "title": "Pluto.jl – a reactive, lightweight, simple notebook",
-      "link": "https://github.com/fonsp/Pluto.jl"
+      "title": "OCaml Workshop 2020 Online Conference is live now",
+      "link": "https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri"
     },
     {
       "rank": "11.",
@@ -57,23 +57,23 @@
     },
     {
       "rank": "12.",
+      "title": "Pluto.jl – a reactive, lightweight, simple notebook",
+      "link": "https://github.com/fonsp/Pluto.jl"
+    },
+    {
+      "rank": "13.",
       "title": "Surprising new feature in AMD Ryzen 3000",
       "link": "https://www.agner.org/forum/viewtopic.php?t=41"
     },
     {
-      "rank": "13.",
-      "title": "Using Microsoft Word with Git",
-      "link": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/"
-    },
-    {
       "rank": "14.",
-      "title": "One Year with ThinkPad and Linux (From MacBook Pro)",
-      "link": "https://drikerf.com/one-year-with-thinkpad-and-linux-from-macbook-pro/"
+      "title": "100 years to solve an integral: The history of the Mercator map",
+      "link": "https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html"
     },
     {
       "rank": "15.",
-      "title": "100 years to solve an integral: The history of the Mercator map",
-      "link": "https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html"
+      "title": "Using Microsoft Word with Git",
+      "link": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/"
     },
     {
       "rank": "16.",
@@ -82,73 +82,73 @@
     },
     {
       "rank": "17.",
+      "title": "One Year with ThinkPad and Linux (From MacBook Pro)",
+      "link": "https://drikerf.com/one-year-with-thinkpad-and-linux-from-macbook-pro/"
+    },
+    {
+      "rank": "18.",
       "title": "Dots don't matter in Gmail addresses",
       "link": "https://support.google.com/mail/answer/7436150?hl=en"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
+      "title": "Constant Time LFU",
+      "link": "https://arpitbhayani.me/blogs/lfu"
+    },
+    {
+      "rank": "20.",
       "title": "Powell’s says it won’t sell books on Amazon anymore",
       "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "Testing Database Transactions in Go",
       "link": "https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
       "title": "Fox Two: The Story of the Aim-9 Sidewinder (2014)",
       "link": "http://www.donhollway.com/foxtwo/"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "Painting a better life through side SaaS hustles",
       "link": "https://getmakerlog.com/stories/micah-iverson-founder-and-ceo-of-retrospect"
     },
     {
-      "rank": "22.",
-      "title": "Openbot: Turning Smartphones into Robots",
-      "link": "https://www.openbot.org/"
-    },
-    {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Bug in OpenSSH / Config Checker",
       "link": "https://puffy.nolink.ch/posts/bug_in_sshd/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
+      "title": "Openbot: Turning Smartphones into Robots",
+      "link": "https://www.openbot.org/"
+    },
+    {
+      "rank": "26.",
       "title": "Memers are making deepfakes, and things are getting weird",
       "link": "https://www.technologyreview.com/2020/08/28/1007746/ai-deepfakes-memes/"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Arizona DMV Sells Drivers' Photos and SSNs to Private Investigators",
       "link": "https://www.vice.com/en_us/article/pky8a8/dmv-mvd-sell-photo-ssn-private-investigators"
     },
     {
-      "rank": "26.",
-      "title": "tilde.town: A social network over SSH",
-      "link": "https://tilde.town/"
-    },
-    {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Show HN: Little Ball of Fur 2.0 – A graph sampling Python library",
       "link": "https://github.com/benedekrozemberczki/Littleballoffur"
     },
     {
-      "rank": "28.",
-      "title": "Amazon: A New Kind of Antitrust Risk",
-      "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
-    },
-    {
       "rank": "29.",
-      "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
-      "link": "https://remarkable.com/#What_Is_New"
+      "title": "tilde.town: A social network over SSH",
+      "link": "https://tilde.town/"
     },
     {
       "rank": "30.",
-      "title": "C++ Lightweight, cross-platform, HTML rendering engine for desktop apps",
-      "link": "https://github.com/ultralight-ux/Ultralight"
+      "title": "Amazon: A New Kind of Antitrust Risk",
+      "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
     }
   ],
   "metadata": {
