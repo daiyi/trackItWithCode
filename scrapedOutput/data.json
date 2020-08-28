@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?",
-      "link": "https://twitter.com/SpencerDailey/status/1299063704483438593"
+      "title": "New Economic Challenges and the Fed's Monetary Policy Review",
+      "link": "https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm"
     },
     {
       "rank": "3.",
-      "title": "New Economic Challenges and the Fed's Monetary Policy Review",
-      "link": "https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm"
+      "title": "Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?",
+      "link": "https://twitter.com/SpencerDailey/status/1299063704483438593"
     },
     {
       "rank": "4.",
@@ -27,33 +27,33 @@
     },
     {
       "rank": "6.",
+      "title": "Clearly Zoom still don't understand GDPR",
+      "link": "https://www.threatspike.com/blog/zoom_cookies.html"
+    },
+    {
+      "rank": "7.",
       "title": "When Asbestos Was a Gift Fit for a King",
       "link": "https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "The Lounge – Modern web IRC client designed for self-hosting",
       "link": "https://github.com/thelounge/thelounge"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "A Short Guide to Minimal Web Development (2018)",
       "link": "https://meiert.com/en/blog/minimal-web-development/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "The time it takes to run a paid newsletter",
       "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Band-Limiting Procedural Textures",
       "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
-    },
-    {
-      "rank": "11.",
-      "title": "Clearly Zoom still don't understand GDPR",
-      "link": "https://www.threatspike.com/blog/zoom_cookies.html"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "Constant Time LFU",
-      "link": "https://arpitbhayani.me/blogs/lfu"
+      "title": "Architecture Playbook",
+      "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
     },
     {
       "rank": "14.",
@@ -72,28 +72,28 @@
     },
     {
       "rank": "15.",
+      "title": "Constant Time LFU",
+      "link": "https://arpitbhayani.me/blogs/lfu"
+    },
+    {
+      "rank": "16.",
       "title": "Nitrokey",
       "link": "https://www.nitrokey.com/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Hard work vs. Long work (2011)",
       "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
     },
     {
-      "rank": "17.",
-      "title": "Architecture Playbook",
-      "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
-    },
-    {
       "rank": "18.",
-      "title": "Hunting the Nearly-Invisible Personal Website",
-      "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
+      "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
+      "link": "item?id=24291790"
     },
     {
       "rank": "19.",
-      "title": "Ask HN: How does onlyfans.com work around the “no porn” Stripe rule?",
-      "link": "item?id=24291790"
+      "title": "Hunting the Nearly-Invisible Personal Website",
+      "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
     },
     {
       "rank": "20.",
@@ -107,18 +107,18 @@
     },
     {
       "rank": "22.",
+      "title": "In Ashgabat",
+      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
+    },
+    {
+      "rank": "23.",
       "title": "Confessions of an ID Theft Kingpin, Part II",
       "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Rare plants that ‘bleed’ nickel",
       "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
-    },
-    {
-      "rank": "24.",
-      "title": "Rust 1.46",
-      "link": "https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html"
     },
     {
       "rank": "25.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Interview with Zig language creator Andrew Kelley [video]",
-      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
+      "title": "Rust 1.46",
+      "link": "https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html"
     },
     {
       "rank": "27.",
-      "title": "Circle Medical (YC S15) Is Hiring a Senior Front End Engineer in Montréal",
-      "link": "https://jobs.lever.co/circlemedical/46d8485b-0092-48a5-8a26-96262438353d"
+      "title": "Interview with Zig language creator Andrew Kelley [video]",
+      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "The magic of ion channels in the neurons",
-      "link": "https://i-kh.net/2020/08/26/the-magic-of-ion-channels/"
+      "title": "Circle Medical (YC S15) Is Hiring a Senior Front End Engineer in Montréal",
+      "link": "https://jobs.lever.co/circlemedical/46d8485b-0092-48a5-8a26-96262438353d"
     },
     {
       "rank": "30.",
-      "title": "Blanked-out spots on China's maps helped us uncover Xinjiang's camps",
-      "link": "https://www.buzzfeednews.com/article/alison_killing/satellite-images-investigation-xinjiang-detention-camps"
+      "title": "The magic of ion channels in the neurons",
+      "link": "https://i-kh.net/2020/08/26/the-magic-of-ion-channels/"
     }
   ],
   "metadata": {
