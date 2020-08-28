@@ -7,7 +7,7 @@
     },
     {
       "rank": "2.",
-      "title": "Google is apparently taking down all/most fediverse apps from the Play Store",
+      "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
       "link": "https://qoto.org/@freemo/104765288863293481"
     },
     {
@@ -17,43 +17,43 @@
     },
     {
       "rank": "4.",
+      "title": "Apple Removes Epic Games Account from App Store",
+      "link": "https://nintendosmash.com/apple-removes-epic-games-account-from-app-store-will-not-affect-unreal-engine-support/"
+    },
+    {
+      "rank": "5.",
       "title": "Why I’m Willing to Pay a Premium for Security, Privacy, and Peace of Mind",
       "link": "https://tirania.org/blog/archive/2020/Aug-28.html"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "GoodRx S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Impact of Go AI on the professional Go world",
       "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
     },
     {
-      "rank": "7.",
-      "title": "Show HN: Visualize Data Structures in VS Code",
-      "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
-    },
-    {
       "rank": "8.",
-      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
-      "link": "https://www.serialliterature.com/"
-    },
-    {
-      "rank": "9.",
-      "title": "Show HN: 3D first person game rendered in CSS/HTML",
-      "link": "https://pantel.is/projects/css3d/"
-    },
-    {
-      "rank": "10.",
       "title": "Objective-Rust",
       "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
+      "rank": "9.",
+      "title": "Show HN: Visualize Data Structures in VS Code",
+      "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
+    },
+    {
+      "rank": "10.",
+      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
+      "link": "https://www.serialliterature.com/"
+    },
+    {
       "rank": "11.",
-      "title": "Zoom is now critical infrastructure – that’s a concern",
-      "link": "https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/"
+      "title": "Show HN: Healthcare Is Dumb",
+      "link": "https://healthcareisdumb.com/"
     },
     {
       "rank": "12.",
@@ -62,28 +62,28 @@
     },
     {
       "rank": "13.",
-      "title": "Ham radio is not dying, it's evolving",
-      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
+      "title": "Show HN: 3D first person game rendered in CSS/HTML",
+      "link": "https://pantel.is/projects/css3d/"
     },
     {
       "rank": "14.",
+      "title": "Zoom is now critical infrastructure – that’s a concern",
+      "link": "https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/"
+    },
+    {
+      "rank": "15.",
       "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
       "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
     },
     {
-      "rank": "15.",
-      "title": "The Magic of Engineered Serendipity",
-      "link": "https://www.beondeck.com/post/the-magic-of-engineered-serendipity"
-    },
-    {
       "rank": "16.",
-      "title": "Firefox 80 and my confusion over its hardware accelerated video on Linux",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion"
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
     },
     {
       "rank": "17.",
-      "title": "Boeing yanks eight 787s from service over structural issue",
-      "link": "https://theaircurrent.com/aviation-safety/boeing-pulls-eight-787s-from-service-over-structural-issue/"
+      "title": "Ham radio is not dying, it's evolving",
+      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
     },
     {
       "rank": "18.",
@@ -92,63 +92,63 @@
     },
     {
       "rank": "19.",
-      "title": "Show HN: Healthcare Is Dumb",
-      "link": "https://healthcareisdumb.com/"
+      "title": "Retrobatch – flexible batch image processing for Mac",
+      "link": "https://flyingmeat.com/retrobatch/"
     },
     {
       "rank": "20.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+      "title": "Firefox 80 and my confusion over its hardware accelerated video on Linux",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion"
     },
     {
       "rank": "21.",
+      "title": "The Magic of Engineered Serendipity",
+      "link": "https://www.beondeck.com/post/the-magic-of-engineered-serendipity"
+    },
+    {
+      "rank": "22.",
+      "title": "Boeing yanks eight 787s from service over structural issue",
+      "link": "https://theaircurrent.com/aviation-safety/boeing-pulls-eight-787s-from-service-over-structural-issue/"
+    },
+    {
+      "rank": "23.",
+      "title": "Pure and Applied Chess",
+      "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
+    },
+    {
+      "rank": "24.",
       "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
       "link": "https://www.markeverglade.com/iscyberpunkdead"
     },
     {
-      "rank": "22.",
+      "rank": "25.",
       "title": "Powell’s says it won’t sell books on Amazon anymore",
       "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
     },
     {
-      "rank": "23.",
+      "rank": "26.",
       "title": "Redis Labs Raises $100M",
       "link": "https://redislabs.com/press/redis-labs-raises-100-million-series-f-financing/"
     },
     {
-      "rank": "24.",
+      "rank": "27.",
+      "title": "Speaking Knots",
+      "link": "https://soender.blog/Speaking-Knots/"
+    },
+    {
+      "rank": "28.",
       "title": "Surprising new feature in AMD Ryzen 3000",
       "link": "https://www.agner.org/forum/viewtopic.php?t=41"
     },
     {
-      "rank": "25.",
+      "rank": "29.",
       "title": "RFC8890: The Internet Is for End Users",
       "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
     },
     {
-      "rank": "26.",
+      "rank": "30.",
       "title": "Dots don't matter in Gmail addresses",
       "link": "https://support.google.com/mail/answer/7436150?hl=en"
-    },
-    {
-      "rank": "27.",
-      "title": "Pluto.jl – a reactive, lightweight, simple notebook",
-      "link": "https://github.com/fonsp/Pluto.jl"
-    },
-    {
-      "rank": "28.",
-      "title": "Investigating the Milk, MIT's Historic Dairy Product (2015)",
-      "link": "https://alum.mit.edu/slice/investigating-milk-mits-historic-dairy-product"
-    },
-    {
-      "rank": "29.",
-      "title": "Babylonian Mathematics (2003) [pdf]",
-      "link": "https://www.math.tamu.edu/~dallen/masters/egypt_babylon/babylon.pdf"
-    },
-    {
-      "rank": "30.",
-      "title": "Speaking Knots",
-      "link": "https://soender.blog/Speaking-Knots/"
     }
   ],
   "metadata": {
