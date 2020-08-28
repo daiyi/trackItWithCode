@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "‘Surge Capacity’ Is Depleted – It’s Why You Feel Awful",
-      "link": "https://elemental.medium.com/your-surge-capacity-is-depleted-it-s-why-you-feel-awful-de285d542f4c"
+      "title": "Ham radio is not dying, it's evolving",
+      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
     },
     {
       "rank": "7.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Ham radio is not dying, it's evolving",
-      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
+      "title": "‘Surge Capacity’ Is Depleted – It’s Why You Feel Awful",
+      "link": "https://elemental.medium.com/your-surge-capacity-is-depleted-it-s-why-you-feel-awful-de285d542f4c"
     },
     {
       "rank": "9.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
+      "title": "YouTube-DL Is Dying?",
+      "link": "https://github.com/ytdl-org/youtube-dl/issues/26462"
+    },
+    {
+      "rank": "12.",
       "title": "Investigating the Milk, MIT's Historic Dairy Product (2015)",
       "link": "https://alum.mit.edu/slice/investigating-milk-mits-historic-dairy-product"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
       "link": "item?id=24306572"
-    },
-    {
-      "rank": "13.",
-      "title": "OCaml Workshop 2020 Online Conference is live now",
-      "link": "https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Bcrypt Step-by-Step",
-      "link": "https://qvault.io/2020/08/24/bcrypt-step-by-step/"
+      "title": "OCaml Workshop 2020 Online Conference is live now",
+      "link": "https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Surprising new feature in AMD Ryzen 3000",
-      "link": "https://www.agner.org/forum/viewtopic.php?t=41"
+      "title": "Facebook Employees Slam Zuckerberg over Militia Groups and QAnon After Kenosha",
+      "link": "https://www.buzzfeednews.com/article/ryanmac/facebook-employees-slam-zuckerberg-kenosha-militia-shooting"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Tarpn: Terrestrial Amateur Radio Packet Network",
-      "link": "http://tarpn.net/t/packet_radio_networking.html"
+      "title": "Surprising new feature in AMD Ryzen 3000",
+      "link": "https://www.agner.org/forum/viewtopic.php?t=41"
     },
     {
       "rank": "20.",
-      "title": "100 years to solve an integral: The history of the Mercator map",
-      "link": "https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html"
+      "title": "Bcrypt Step-by-Step",
+      "link": "https://qvault.io/2020/08/24/bcrypt-step-by-step/"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Pluto.jl – a reactive, lightweight, simple notebook",
-      "link": "https://github.com/fonsp/Pluto.jl"
+      "title": "100 years to solve an integral: The history of the Mercator map",
+      "link": "https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html"
     },
     {
       "rank": "23.",
-      "title": "Dots don't matter in Gmail addresses",
-      "link": "https://support.google.com/mail/answer/7436150?hl=en"
+      "title": "Pluto.jl – a reactive, lightweight, simple notebook",
+      "link": "https://github.com/fonsp/Pluto.jl"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "Dots don't matter in Gmail addresses",
+      "link": "https://support.google.com/mail/answer/7436150?hl=en"
+    },
+    {
+      "rank": "26.",
+      "title": "Tarpn: Terrestrial Amateur Radio Packet Network",
+      "link": "http://tarpn.net/t/packet_radio_networking.html"
+    },
+    {
+      "rank": "27.",
       "title": "One Year with ThinkPad and Linux (From MacBook Pro)",
       "link": "https://drikerf.com/one-year-with-thinkpad-and-linux-from-macbook-pro/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Fox Two: The Story of the Aim-9 Sidewinder (2014)",
       "link": "http://www.donhollway.com/foxtwo/"
     },
     {
-      "rank": "27.",
-      "title": "Painting a better life through side SaaS hustles",
-      "link": "https://getmakerlog.com/stories/micah-iverson-founder-and-ceo-of-retrospect"
-    },
-    {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Testing Database Transactions in Go",
       "link": "https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM"
     },
     {
-      "rank": "29.",
-      "title": "Constant Time LFU",
-      "link": "https://arpitbhayani.me/blogs/lfu"
-    },
-    {
       "rank": "30.",
-      "title": "Bug in OpenSSH / Config Checker",
-      "link": "https://puffy.nolink.ch/posts/bug_in_sshd/"
+      "title": "Painting a better life through side SaaS hustles",
+      "link": "https://getmakerlog.com/stories/micah-iverson-founder-and-ceo-of-retrospect"
     }
   ],
   "metadata": {
