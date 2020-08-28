@@ -32,73 +32,73 @@
     },
     {
       "rank": "7.",
-      "title": "Has to Be a Joke, Because If It’s Not",
-      "link": "https://alhambrapartners.com/2020/08/27/this-has-to-be-a-joke-because-if-its-not/"
-    },
-    {
-      "rank": "8.",
       "title": "Scrollbar Blindness",
       "link": "https://svenkadak.com/blog/scrollbar-blindness"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Waymo Tests Autonomous Trucks in Texas",
       "link": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "New Economic Challenges and the Fed's Monetary Policy Review",
       "link": "https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "When Asbestos Was a Gift Fit for a King",
       "link": "https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "A Short Guide to Minimal Web Development (2018)",
       "link": "https://meiert.com/en/blog/minimal-web-development/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "The Lounge – Modern web IRC client designed for self-hosting",
       "link": "https://github.com/thelounge/thelounge"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Architecture Playbook",
       "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "The Rapier Physics Engine",
       "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Band-Limiting Procedural Textures",
       "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
     },
     {
-      "rank": "17.",
-      "title": "In Ashgabat",
-      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
-    },
-    {
-      "rank": "18.",
+      "rank": "16.",
       "title": "Bill Gates' nuclear venture plans reactor to complement solar, wind power boom",
       "link": "https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8"
     },
     {
+      "rank": "17.",
+      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
+      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
+    },
+    {
+      "rank": "18.",
+      "title": "In Ashgabat",
+      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
+    },
+    {
       "rank": "19.",
-      "title": "The time it takes to run a paid newsletter",
-      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
+      "title": "Show HN: Muse – Tool for Thought on iPad",
+      "link": "https://launch-preview.museapp.com/"
     },
     {
       "rank": "20.",
-      "title": "Show HN: Muse – Tool for Thought on iPad",
-      "link": "https://launch-preview.museapp.com/"
+      "title": "The time it takes to run a paid newsletter",
+      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Hard work vs. Long work (2011)",
-      "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
+      "title": "An Archive of a Different Type",
+      "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
     },
     {
       "rank": "23.",
-      "title": "An Archive of a Different Type",
-      "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
+      "title": "Hard work vs. Long work (2011)",
+      "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
     },
     {
       "rank": "24.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Constant Time LFU",
-      "link": "https://arpitbhayani.me/blogs/lfu"
+      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
+      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
     },
     {
       "rank": "27.",
-      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
-      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
+      "title": "Constant Time LFU",
+      "link": "https://arpitbhayani.me/blogs/lfu"
     },
     {
       "rank": "28.",
