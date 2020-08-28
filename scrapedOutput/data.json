@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "OCaml Workshop 2020 Online Conference is live now",
-      "link": "https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri"
+      "title": "Ham radio is dying No it’s not, it's evolving – K0LWC",
+      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
     },
     {
       "rank": "2.",
-      "title": "Ham radio is dying No it’s not, it's evolving – K0LWC",
-      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
+      "title": "OCaml Workshop 2020 Online Conference is live now",
+      "link": "https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri"
     },
     {
       "rank": "3.",
@@ -22,18 +22,18 @@
     },
     {
       "rank": "5.",
-      "title": "Using Microsoft Word with Git",
-      "link": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/"
-    },
-    {
-      "rank": "6.",
       "title": "Testing Database Transactions in Go",
       "link": "https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Pluto.jl – a reactive, lightweight, simple notebook",
       "link": "https://github.com/fonsp/Pluto.jl"
+    },
+    {
+      "rank": "7.",
+      "title": "Using Microsoft Word with Git",
+      "link": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/"
     },
     {
       "rank": "8.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
-      "link": "https://github.com/sm0svx/svxlink"
+      "title": "Openbot: Turning Smartphones into Robots",
+      "link": "https://www.openbot.org/"
     },
     {
       "rank": "12.",
-      "title": "Openbot: Turning Smartphones into Robots",
-      "link": "https://www.openbot.org/"
+      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
+      "link": "https://github.com/sm0svx/svxlink"
     },
     {
       "rank": "13.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
-      "title": "Notes on “Anthropology of Childhood”",
-      "link": "https://thewholesky.wordpress.com/2020/08/27/notes-on-anthropology-of-childhood-by-david-lancy/"
-    },
-    {
-      "rank": "16.",
       "title": "Amazon: A New Kind of Antitrust Risk",
       "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Hartree-Fock on a superconducting qubit quantum computer",
       "link": "https://science.sciencemag.org/content/369/6507/1084"
+    },
+    {
+      "rank": "17.",
+      "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
+      "link": "https://remarkable.com/#What_Is_New"
     },
     {
       "rank": "18.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
-      "link": "https://remarkable.com/#What_Is_New"
+      "title": "Notes on “Anthropology of Childhood”",
+      "link": "https://thewholesky.wordpress.com/2020/08/27/notes-on-anthropology-of-childhood-by-david-lancy/"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Editor Overload",
-      "link": "https://blog.iansinnott.com/editor-overload/"
+      "title": "Prime Minister Abe Shinzo Intends to Step Down",
+      "link": "https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/"
     },
     {
       "rank": "23.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "Waymo Tests Autonomous Trucks in Texas",
-      "link": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas"
+      "title": "Editor Overload",
+      "link": "https://blog.iansinnott.com/editor-overload/"
     },
     {
       "rank": "25.",
-      "title": "Prime Minister Abe Shinzo Intends to Step Down",
-      "link": "https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/"
+      "title": "Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’",
+      "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
     },
     {
       "rank": "26.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’",
-      "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
+      "title": "Waymo Tests Autonomous Trucks in Texas",
+      "link": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas"
     },
     {
       "rank": "28.",
