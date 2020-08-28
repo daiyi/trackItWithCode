@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
-      "title": "RFC8890: The Internet Is for End Users",
-      "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
-    },
-    {
-      "rank": "3.",
       "title": "Testing Database Transactions in Go",
       "link": "https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Using Microsoft Word with Git",
       "link": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/"
+    },
+    {
+      "rank": "4.",
+      "title": "RFC8890: The Internet Is for End Users",
+      "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
     },
     {
       "rank": "5.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "tilde.town: A social network over SSH",
-      "link": "https://tilde.town/"
+      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
+      "link": "https://github.com/sm0svx/svxlink"
     },
     {
       "rank": "9.",
-      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
-      "link": "https://github.com/sm0svx/svxlink"
+      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
+      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
-      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
+      "title": "Prime Minister Abe Shinzo Intends to Step Down",
+      "link": "https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/"
     },
     {
       "rank": "12.",
-      "title": "Prime Minister Abe Shinzo Intends to Step Down",
-      "link": "https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/"
+      "title": "tilde.town: A social network over SSH",
+      "link": "https://tilde.town/"
     },
     {
       "rank": "13.",
@@ -67,43 +67,43 @@
     },
     {
       "rank": "14.",
-      "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
-      "link": "https://remarkable.com/#What_Is_New"
-    },
-    {
-      "rank": "15.",
       "title": "Who needs a case? The 3D Printed Mil-Plastic is here",
       "link": "https://back7.co/home/back7co-mil-plastic"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Openbot: Turning Smartphones into Robots",
       "link": "https://www.openbot.org/"
     },
     {
+      "rank": "16.",
+      "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
+      "link": "https://remarkable.com/#What_Is_New"
+    },
+    {
       "rank": "17.",
-      "title": "The Rapier Physics Engine",
-      "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
+      "title": "China Built a Vast New Infrastructure to Imprison Uighurs",
+      "link": "https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims"
     },
     {
       "rank": "18.",
-      "title": "(Visualization)What caused 1 Million U.S. wildfires over the last 30 years?",
-      "link": "http://wildfire.kyrixdemo.live/"
-    },
-    {
-      "rank": "19.",
       "title": "Is your chart a detective story or a police report?",
       "link": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/"
     },
     {
+      "rank": "19.",
+      "title": "The Rapier Physics Engine",
+      "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
+    },
+    {
       "rank": "20.",
-      "title": "When Asbestos Was a Gift Fit for a King",
-      "link": "https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/"
+      "title": "Pluto.jl – a reactive, lightweight, simple notebook",
+      "link": "https://github.com/fonsp/Pluto.jl"
     },
     {
       "rank": "21.",
-      "title": "Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?",
-      "link": "https://twitter.com/SpencerDailey/status/1299063704483438593"
+      "title": "(Visualization)What caused 1 Million U.S. wildfires over the last 30 years?",
+      "link": "http://wildfire.kyrixdemo.live/"
     },
     {
       "rank": "22.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Safari adopts the Chrome/Firefox extension model",
-      "link": "https://developer.apple.com/news/?id=kuswih5l"
+      "title": "When Asbestos Was a Gift Fit for a King",
+      "link": "https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/"
     },
     {
       "rank": "25.",
+      "title": "Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?",
+      "link": "https://twitter.com/SpencerDailey/status/1299063704483438593"
+    },
+    {
+      "rank": "26.",
       "title": "Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’",
       "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
     },
     {
-      "rank": "26.",
-      "title": "Architecture Playbook",
-      "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
+      "rank": "27.",
+      "title": "Safari adopts the Chrome/Firefox extension model",
+      "link": "https://developer.apple.com/news/?id=kuswih5l"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Computer scientists attempt to corner the Collatz conjecture",
       "link": "https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/"
     },
     {
-      "rank": "28.",
-      "title": "Scrollbar Blindness",
-      "link": "https://svenkadak.com/blog/scrollbar-blindness"
-    },
-    {
       "rank": "29.",
-      "title": "In Ashgabat",
-      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
+      "title": "Architecture Playbook",
+      "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
     },
     {
       "rank": "30.",
-      "title": "Over 54,000 scanned Australian driver's licences found in open cloud storage",
-      "link": "https://www.itnews.com.au/news/over-54000-scanned-nsw-drivers-licences-found-in-open-cloud-storage-552544"
+      "title": "Scrollbar Blindness",
+      "link": "https://svenkadak.com/blog/scrollbar-blindness"
     }
   ],
   "metadata": {
