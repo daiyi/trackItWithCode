@@ -32,63 +32,63 @@
     },
     {
       "rank": "7.",
+      "title": "Firefox 80 and my confusion over its hardware accelerated video on Linux",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion"
+    },
+    {
+      "rank": "8.",
       "title": "Redis Labs Raises $100M",
       "link": "https://redislabs.com/press/redis-labs-raises-100-million-series-f-financing/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Robots that can walk are now striding to market",
       "link": "https://www.economist.com/science-and-technology/2020/08/25/robots-that-can-walk-are-now-striding-to-market"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
       "link": "https://www.markeverglade.com/iscyberpunkdead"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
       "link": "item?id=24306572"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Investigating the Milk, MIT's Historic Dairy Product (2015)",
       "link": "https://alum.mit.edu/slice/investigating-milk-mits-historic-dairy-product"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
+      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
+      "link": "https://www.serialliterature.com/"
+    },
+    {
+      "rank": "14.",
       "title": "Chainalysis in Action: Justice Dept Demands Forfeiture of 280 Crypto Addresses",
       "link": "https://blog.chainalysis.com/reports/lazarus-group-north-korea-doj-complaint-august-2020"
     },
     {
-      "rank": "13.",
+      "rank": "15.",
       "title": "OCaml Workshop 2020 Online Conference is live now",
       "link": "https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri"
     },
     {
-      "rank": "14.",
+      "rank": "16.",
       "title": "Surprising new feature in AMD Ryzen 3000",
       "link": "https://www.agner.org/forum/viewtopic.php?t=41"
     },
     {
-      "rank": "15.",
-      "title": "RFC8890: The Internet Is for End Users",
-      "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
-    },
-    {
-      "rank": "16.",
-      "title": "Bcrypt Step-by-Step",
-      "link": "https://qvault.io/2020/08/24/bcrypt-step-by-step/"
-    },
-    {
       "rank": "17.",
-      "title": "Using Microsoft Word with Git",
-      "link": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/"
+      "title": "Tarpn: Terrestrial Amateur Radio Packet Network",
+      "link": "http://tarpn.net/t/packet_radio_networking.html"
     },
     {
       "rank": "18.",
-      "title": "Dots don't matter in Gmail addresses",
-      "link": "https://support.google.com/mail/answer/7436150?hl=en"
+      "title": "RFC8890: The Internet Is for End Users",
+      "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
+      "title": "Bcrypt Step-by-Step",
+      "link": "https://qvault.io/2020/08/24/bcrypt-step-by-step/"
+    },
+    {
+      "rank": "21.",
+      "title": "Dots don't matter in Gmail addresses",
+      "link": "https://support.google.com/mail/answer/7436150?hl=en"
+    },
+    {
+      "rank": "22.",
+      "title": "Using Microsoft Word with Git",
+      "link": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/"
+    },
+    {
+      "rank": "23.",
       "title": "Powell’s says it won’t sell books on Amazon anymore",
       "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
     },
     {
-      "rank": "21.",
+      "rank": "24.",
+      "title": "The Magic of Engineered Serendipity",
+      "link": "https://www.beondeck.com/post/the-magic-of-engineered-serendipity"
+    },
+    {
+      "rank": "25.",
+      "title": "Step-by-Step Centralized Authentication for K8s with Keycloak and Ambassador",
+      "link": "https://blog.getambassador.io/centralized-authentication-with-keycloak-and-ambassador-edge-stack-d509ffbc7b6f"
+    },
+    {
+      "rank": "26.",
       "title": "100 years to solve an integral: The history of the Mercator map",
       "link": "https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html"
     },
     {
-      "rank": "22.",
-      "title": "Fox Two: The Story of the Aim-9 Sidewinder (2014)",
-      "link": "http://www.donhollway.com/foxtwo/"
-    },
-    {
-      "rank": "23.",
-      "title": "Painting a better life through side SaaS hustles",
-      "link": "https://getmakerlog.com/stories/micah-iverson-founder-and-ceo-of-retrospect"
-    },
-    {
-      "rank": "24.",
+      "rank": "27.",
       "title": "One Year with ThinkPad and Linux (From MacBook Pro)",
       "link": "https://drikerf.com/one-year-with-thinkpad-and-linux-from-macbook-pro/"
     },
     {
-      "rank": "25.",
-      "title": "Tarpn: Terrestrial Amateur Radio Packet Network",
-      "link": "http://tarpn.net/t/packet_radio_networking.html"
-    },
-    {
-      "rank": "26.",
-      "title": "Testing Database Transactions in Go",
-      "link": "https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM"
-    },
-    {
-      "rank": "27.",
-      "title": "Constant Time LFU",
-      "link": "https://arpitbhayani.me/blogs/lfu"
-    },
-    {
       "rank": "28.",
-      "title": "Firefox 80 and my confusion over its hardware accelerated video on Linux",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion"
+      "title": "Painting a better life through side SaaS hustles",
+      "link": "https://getmakerlog.com/stories/micah-iverson-founder-and-ceo-of-retrospect"
     },
     {
       "rank": "29.",
-      "title": "Bug in OpenSSH / Config Checker",
-      "link": "https://puffy.nolink.ch/posts/bug_in_sshd/"
+      "title": "Fox Two: The Story of the Aim-9 Sidewinder (2014)",
+      "link": "http://www.donhollway.com/foxtwo/"
     },
     {
       "rank": "30.",
-      "title": "Openbot: Turning Smartphones into Robots",
-      "link": "https://www.openbot.org/"
+      "title": "Testing Database Transactions in Go",
+      "link": "https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM"
     }
   ],
   "metadata": {
