@@ -2,43 +2,43 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Safari adopts the Chrome/Firefox extension model",
-      "link": "https://developer.apple.com/news/?id=kuswih5l"
-    },
-    {
-      "rank": "2.",
       "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
       "link": "https://remarkable.com/#What_Is_New"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?",
       "link": "https://twitter.com/SpencerDailey/status/1299063704483438593"
     },
     {
-      "rank": "4.",
-      "title": "Zoom still don't understand GDPR",
-      "link": "https://www.threatspike.com/blog/zoom_cookies.html"
-    },
-    {
-      "rank": "5.",
+      "rank": "3.",
       "title": "Who needs a case? The 3D Printed Mil-Plastic is here",
       "link": "https://back7.co/home/back7co-mil-plastic"
     },
     {
-      "rank": "6.",
+      "rank": "4.",
       "title": "Lego IKEA Bygglek – First Look",
       "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
     },
     {
-      "rank": "7.",
+      "rank": "5.",
+      "title": "Zoom still don't understand GDPR",
+      "link": "https://www.threatspike.com/blog/zoom_cookies.html"
+    },
+    {
+      "rank": "6.",
       "title": "Convicted of Sex Crimes, but with No Victims",
       "link": "https://www.nytimes.com/2020/08/26/magazine/sex-offender-operation-net-nanny.html"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Waymo Tests Autonomous Trucks in Texas",
       "link": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas"
+    },
+    {
+      "rank": "8.",
+      "title": "Safari adopts the Chrome/Firefox extension model",
+      "link": "https://developer.apple.com/news/?id=kuswih5l"
     },
     {
       "rank": "9.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "The Lounge – Modern web IRC client designed for self-hosting",
-      "link": "https://github.com/thelounge/thelounge"
+      "title": "Bill Gates' nuclear venture plans reactor to complement solar, wind power boom",
+      "link": "https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8"
     },
     {
       "rank": "14.",
-      "title": "Bill Gates' nuclear venture plans reactor to complement solar, wind power boom",
-      "link": "https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8"
+      "title": "The Lounge – Modern web IRC client designed for self-hosting",
+      "link": "https://github.com/thelounge/thelounge"
     },
     {
       "rank": "15.",
@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
-      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
-      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
-    },
-    {
-      "rank": "17.",
       "title": "Architecture Playbook",
       "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
     },
     {
+      "rank": "17.",
+      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
+      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
+    },
+    {
       "rank": "18.",
-      "title": "Scrollbar Blindness",
-      "link": "https://svenkadak.com/blog/scrollbar-blindness"
+      "title": "Bro, This Is Not the 'Beowulf' You Think You Know",
+      "link": "https://www.npr.org/2020/08/27/906423831/bro-this-is-not-the-beowulf-you-think-you-know"
     },
     {
       "rank": "19.",
-      "title": "In Ashgabat",
-      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
+      "title": "Scrollbar Blindness",
+      "link": "https://svenkadak.com/blog/scrollbar-blindness"
     },
     {
       "rank": "20.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "Bro, This Is Not the 'Beowulf' You Think You Know",
-      "link": "https://www.npr.org/2020/08/27/906423831/bro-this-is-not-the-beowulf-you-think-you-know"
+      "title": "In Ashgabat",
+      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
     },
     {
       "rank": "22.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "Hard work vs. Long work (2011)",
-      "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
+      "title": "Computer scientists attempt to corner the Collatz conjecture",
+      "link": "https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/"
     },
     {
       "rank": "25.",
-      "title": "Computer scientists attempt to corner the Collatz conjecture",
-      "link": "https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/"
+      "title": "Hard work vs. Long work (2011)",
+      "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Amazon: A New Kind of Antitrust Risk",
-      "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
+      "title": "Antibiotics nearly double risk of developing IBD, doctors warn",
+      "link": "https://www.studyfinds.org/antibiotics-double-ibd-risk/"
     },
     {
       "rank": "28.",
-      "title": "Antibiotics nearly double risk of developing IBD, doctors warn",
-      "link": "https://www.studyfinds.org/antibiotics-double-ibd-risk/"
+      "title": "Amazon: A New Kind of Antitrust Risk",
+      "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Constant Time LFU",
-      "link": "https://arpitbhayani.me/blogs/lfu"
+      "title": "Rare plants that ‘bleed’ nickel",
+      "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
     }
   ],
   "metadata": {
