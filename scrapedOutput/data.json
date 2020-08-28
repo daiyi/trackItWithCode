@@ -2,12 +2,12 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Google is apparently taking down all/most fediverse apps from Google play",
-      "link": "https://mathstodon.xyz/web/statuses/104765289307010207"
+      "title": "Mastodon apps must censor third-party content or be axed from Play Store",
+      "link": "https://mastodon.social/@Gargron/104763960269049818"
     },
     {
       "rank": "2.",
-      "title": "Ham radio is dying No it’s not, it's evolving – K0LWC",
+      "title": "Ham radio is not dying, it's evolving",
       "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
     },
     {
@@ -17,28 +17,28 @@
     },
     {
       "rank": "4.",
-      "title": "Mastodon apps must censor third-party content or be axed from Play Store",
-      "link": "https://mastodon.social/@Gargron/104763960269049818"
-    },
-    {
-      "rank": "5.",
-      "title": "One Year with ThinkPad and Linux (From MacBook Pro)",
-      "link": "https://drikerf.com/one-year-with-thinkpad-and-linux-from-macbook-pro/"
-    },
-    {
-      "rank": "6.",
       "title": "Arizona DMV Sells Drivers' Photos and SSNs to Private Investigators",
       "link": "https://www.vice.com/en_us/article/pky8a8/dmv-mvd-sell-photo-ssn-private-investigators"
     },
     {
-      "rank": "7.",
+      "rank": "5.",
       "title": "RFC8890: The Internet Is for End Users",
       "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
     },
     {
-      "rank": "8.",
+      "rank": "6.",
+      "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke, the Man Who Invented It",
+      "link": "https://www.markeverglade.com/iscyberpunkdead"
+    },
+    {
+      "rank": "7.",
       "title": "Pluto.jl – a reactive, lightweight, simple notebook",
       "link": "https://github.com/fonsp/Pluto.jl"
+    },
+    {
+      "rank": "8.",
+      "title": "One Year with ThinkPad and Linux (From MacBook Pro)",
+      "link": "https://drikerf.com/one-year-with-thinkpad-and-linux-from-macbook-pro/"
     },
     {
       "rank": "9.",
@@ -47,28 +47,28 @@
     },
     {
       "rank": "10.",
-      "title": "Testing Database Transactions in Go",
-      "link": "https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM"
-    },
-    {
-      "rank": "11.",
       "title": "Using Microsoft Word with Git",
       "link": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/"
     },
     {
+      "rank": "11.",
+      "title": "Show HN: Visualize Data Structures in vs Code",
+      "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
+    },
+    {
       "rank": "12.",
+      "title": "Testing Database Transactions in Go",
+      "link": "https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM"
+    },
+    {
+      "rank": "13.",
       "title": "Zoom still don't understand GDPR",
       "link": "https://www.threatspike.com/blog/zoom_cookies.html"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Coronavirus is most deadly if you are older and male – new data reveal the risks",
       "link": "https://www.nature.com/articles/d41586-020-02483-2"
-    },
-    {
-      "rank": "14.",
-      "title": "Openbot: Turning Smartphones into Robots",
-      "link": "https://www.openbot.org/"
     },
     {
       "rank": "15.",
@@ -77,38 +77,38 @@
     },
     {
       "rank": "16.",
-      "title": "C++ Lightweight, cross-platform, HTML rendering engine for desktop apps",
-      "link": "https://github.com/ultralight-ux/Ultralight"
+      "title": "100 years to solve an integral: The history of the Mercator map",
+      "link": "https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html"
     },
     {
       "rank": "17.",
+      "title": "Openbot: Turning Smartphones into Robots",
+      "link": "https://www.openbot.org/"
+    },
+    {
+      "rank": "18.",
       "title": "China Built a Vast New Infrastructure to Imprison Uighurs",
       "link": "https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims"
     },
     {
-      "rank": "18.",
-      "title": "Fox Two: The Story of the Aim-9 Sidewinder (2014)",
-      "link": "http://www.donhollway.com/foxtwo/"
-    },
-    {
       "rank": "19.",
-      "title": "Lego IKEA Bygglek – First Look",
-      "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
+      "title": "C++ Lightweight, cross-platform, HTML rendering engine for desktop apps",
+      "link": "https://github.com/ultralight-ux/Ultralight"
     },
     {
       "rank": "20.",
-      "title": "Bug in OpenSSH / Config Checker",
-      "link": "https://puffy.nolink.ch/posts/bug_in_sshd/"
-    },
-    {
-      "rank": "21.",
       "title": "tilde.town: A social network over SSH",
       "link": "https://tilde.town/"
     },
     {
+      "rank": "21.",
+      "title": "Fox Two: The Story of the Aim-9 Sidewinder (2014)",
+      "link": "http://www.donhollway.com/foxtwo/"
+    },
+    {
       "rank": "22.",
-      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
-      "link": "https://github.com/sm0svx/svxlink"
+      "title": "Bug in OpenSSH / Config Checker",
+      "link": "https://puffy.nolink.ch/posts/bug_in_sshd/"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
+      "link": "https://github.com/sm0svx/svxlink"
+    },
+    {
+      "rank": "25.",
       "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
       "link": "https://remarkable.com/#What_Is_New"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "Dots don't matter in Gmail addresses",
+      "link": "https://support.google.com/mail/answer/7436150?hl=en"
+    },
+    {
+      "rank": "27.",
       "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
       "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
     },
     {
-      "rank": "26.",
-      "title": "100 years to solve an integral: The history of the Mercator map",
-      "link": "https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html"
-    },
-    {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Who needs a case? The 3D Printed Mil-Plastic is here",
       "link": "https://back7.co/home/back7co-mil-plastic"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Is your chart a detective story or a police report?",
       "link": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Hartree-Fock on a superconducting qubit quantum computer",
       "link": "https://science.sciencemag.org/content/369/6507/1084"
-    },
-    {
-      "rank": "30.",
-      "title": "Notes on “Anthropology of Childhood”",
-      "link": "https://thewholesky.wordpress.com/2020/08/27/notes-on-anthropology-of-childhood-by-david-lancy/"
     }
   ],
   "metadata": {
