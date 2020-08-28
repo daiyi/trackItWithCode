@@ -22,133 +22,133 @@
     },
     {
       "rank": "5.",
-      "title": "Pluto.jl – a reactive, lightweight, simple notebook",
-      "link": "https://github.com/fonsp/Pluto.jl"
+      "title": "Arizona DMV Sells Drivers' Photos and SSNs to Private Investigators",
+      "link": "https://www.vice.com/en_us/article/pky8a8/dmv-mvd-sell-photo-ssn-private-investigators"
     },
     {
       "rank": "6.",
-      "title": "Testing Database Transactions in Go",
-      "link": "https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM"
-    },
-    {
-      "rank": "7.",
-      "title": "Surprising new feature in AMD Ryzen 3000",
-      "link": "https://www.agner.org/forum/viewtopic.php?t=41"
-    },
-    {
-      "rank": "8.",
       "title": "Using Microsoft Word with Git",
       "link": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/"
     },
     {
+      "rank": "7.",
+      "title": "Pluto.jl – a reactive, lightweight, simple notebook",
+      "link": "https://github.com/fonsp/Pluto.jl"
+    },
+    {
+      "rank": "8.",
+      "title": "Surprising new feature in AMD Ryzen 3000",
+      "link": "https://www.agner.org/forum/viewtopic.php?t=41"
+    },
+    {
       "rank": "9.",
-      "title": "Zoom still don't understand GDPR",
-      "link": "https://www.threatspike.com/blog/zoom_cookies.html"
+      "title": "Testing Database Transactions in Go",
+      "link": "https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM"
     },
     {
       "rank": "10.",
-      "title": "China Built a Vast New Infrastructure to Imprison Uighurs",
-      "link": "https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims"
-    },
-    {
-      "rank": "11.",
-      "title": "C++ Lightweight, cross-platform, HTML rendering engine for desktop apps",
-      "link": "https://github.com/ultralight-ux/Ultralight"
-    },
-    {
-      "rank": "12.",
-      "title": "Openbot: Turning Smartphones into Robots",
-      "link": "https://www.openbot.org/"
-    },
-    {
-      "rank": "13.",
-      "title": "Show HN: Little Ball of Fur 2.0 – A graph sampling Python library",
-      "link": "https://github.com/benedekrozemberczki/Littleballoffur"
-    },
-    {
-      "rank": "14.",
       "title": "Coronavirus is most deadly if you are older and male – new data reveal the risks",
       "link": "https://www.nature.com/articles/d41586-020-02483-2"
     },
     {
-      "rank": "15.",
-      "title": "Lego IKEA Bygglek – First Look",
-      "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
+      "rank": "11.",
+      "title": "Zoom still don't understand GDPR",
+      "link": "https://www.threatspike.com/blog/zoom_cookies.html"
     },
     {
-      "rank": "16.",
-      "title": "tilde.town: A social network over SSH",
-      "link": "https://tilde.town/"
+      "rank": "12.",
+      "title": "Mastodon apps must censor third-party content or be axed from Play Store",
+      "link": "https://mastodon.social/@Gargron/104763960269049818"
     },
     {
-      "rank": "17.",
-      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
-      "link": "https://github.com/sm0svx/svxlink"
-    },
-    {
-      "rank": "18.",
-      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
-      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
-    },
-    {
-      "rank": "19.",
-      "title": "Amazon: A New Kind of Antitrust Risk",
-      "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
-    },
-    {
-      "rank": "20.",
-      "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
-      "link": "https://remarkable.com/#What_Is_New"
-    },
-    {
-      "rank": "21.",
-      "title": "Notes on “Anthropology of Childhood”",
-      "link": "https://thewholesky.wordpress.com/2020/08/27/notes-on-anthropology-of-childhood-by-david-lancy/"
-    },
-    {
-      "rank": "22.",
-      "title": "Who needs a case? The 3D Printed Mil-Plastic is here",
-      "link": "https://back7.co/home/back7co-mil-plastic"
-    },
-    {
-      "rank": "23.",
-      "title": "Hartree-Fock on a superconducting qubit quantum computer",
-      "link": "https://science.sciencemag.org/content/369/6507/1084"
-    },
-    {
-      "rank": "24.",
-      "title": "Is your chart a detective story or a police report?",
-      "link": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/"
-    },
-    {
-      "rank": "25.",
+      "rank": "13.",
       "title": "Dots don't matter in Gmail addresses",
       "link": "https://support.google.com/mail/answer/7436150?hl=en"
     },
     {
+      "rank": "14.",
+      "title": "C++ Lightweight, cross-platform, HTML rendering engine for desktop apps",
+      "link": "https://github.com/ultralight-ux/Ultralight"
+    },
+    {
+      "rank": "15.",
+      "title": "Openbot: Turning Smartphones into Robots",
+      "link": "https://www.openbot.org/"
+    },
+    {
+      "rank": "16.",
+      "title": "China Built a Vast New Infrastructure to Imprison Uighurs",
+      "link": "https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims"
+    },
+    {
+      "rank": "17.",
+      "title": "Lego IKEA Bygglek – First Look",
+      "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
+    },
+    {
+      "rank": "18.",
+      "title": "Show HN: Little Ball of Fur 2.0 – A graph sampling Python library",
+      "link": "https://github.com/benedekrozemberczki/Littleballoffur"
+    },
+    {
+      "rank": "19.",
+      "title": "tilde.town: A social network over SSH",
+      "link": "https://tilde.town/"
+    },
+    {
+      "rank": "20.",
+      "title": "Amazon: A New Kind of Antitrust Risk",
+      "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
+    },
+    {
+      "rank": "21.",
+      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
+      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
+    },
+    {
+      "rank": "22.",
+      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
+      "link": "https://github.com/sm0svx/svxlink"
+    },
+    {
+      "rank": "23.",
+      "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
+      "link": "https://remarkable.com/#What_Is_New"
+    },
+    {
+      "rank": "24.",
+      "title": "Who needs a case? The 3D Printed Mil-Plastic is here",
+      "link": "https://back7.co/home/back7co-mil-plastic"
+    },
+    {
+      "rank": "25.",
+      "title": "Is your chart a detective story or a police report?",
+      "link": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/"
+    },
+    {
       "rank": "26.",
-      "title": "Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?",
-      "link": "https://twitter.com/SpencerDailey/status/1299063704483438593"
+      "title": "Hartree-Fock on a superconducting qubit quantum computer",
+      "link": "https://science.sciencemag.org/content/369/6507/1084"
     },
     {
       "rank": "27.",
+      "title": "Notes on “Anthropology of Childhood”",
+      "link": "https://thewholesky.wordpress.com/2020/08/27/notes-on-anthropology-of-childhood-by-david-lancy/"
+    },
+    {
+      "rank": "28.",
       "title": "Editor Overload",
       "link": "https://blog.iansinnott.com/editor-overload/"
     },
     {
-      "rank": "28.",
-      "title": "Rust-Style Futures in C",
-      "link": "https://axelforsman.tk/2020/08/24/rust-style-futures-in-c.html"
-    },
-    {
       "rank": "29.",
-      "title": "Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’",
-      "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
+      "title": "Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?",
+      "link": "https://twitter.com/SpencerDailey/status/1299063704483438593"
     },
     {
       "rank": "30.",
-      "title": "Computer scientists attempt to corner the Collatz conjecture",
-      "link": "https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/"
+      "title": "Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’",
+      "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
     }
   ],
   "metadata": {
