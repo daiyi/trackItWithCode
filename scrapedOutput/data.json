@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "Technical Debt Doesn’t Exist",
-      "link": "https://thehftguy.com/2020/08/26/technical-debt-doesnt-exist/"
+      "title": "RFC8890: The Internet Is for End Users",
+      "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
     },
     {
       "rank": "3.",
@@ -22,58 +22,58 @@
     },
     {
       "rank": "5.",
-      "title": "RFC8890: The Internet Is for End Users",
-      "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
-    },
-    {
-      "rank": "6.",
-      "title": "Hartree-Fock on a superconducting qubit quantum computer",
-      "link": "https://science.sciencemag.org/content/369/6507/1084"
-    },
-    {
-      "rank": "7.",
-      "title": "tilde.town: A social network over SSH",
-      "link": "https://tilde.town/"
-    },
-    {
-      "rank": "8.",
-      "title": "Lego IKEA Bygglek – First Look",
-      "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
-    },
-    {
-      "rank": "9.",
-      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
-      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
-    },
-    {
-      "rank": "10.",
-      "title": "Who needs a case? The 3D Printed Mil-Plastic is here",
-      "link": "https://back7.co/home/back7co-mil-plastic"
-    },
-    {
-      "rank": "11.",
       "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
       "link": "https://github.com/sm0svx/svxlink"
     },
     {
-      "rank": "12.",
+      "rank": "6.",
+      "title": "tilde.town: A social network over SSH",
+      "link": "https://tilde.town/"
+    },
+    {
+      "rank": "7.",
+      "title": "Lego IKEA Bygglek – First Look",
+      "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
+    },
+    {
+      "rank": "8.",
+      "title": "Hartree-Fock on a superconducting qubit quantum computer",
+      "link": "https://science.sciencemag.org/content/369/6507/1084"
+    },
+    {
+      "rank": "9.",
+      "title": "Who needs a case? The 3D Printed Mil-Plastic is here",
+      "link": "https://back7.co/home/back7co-mil-plastic"
+    },
+    {
+      "rank": "10.",
+      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
+      "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
+    },
+    {
+      "rank": "11.",
       "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
       "link": "https://remarkable.com/#What_Is_New"
     },
     {
+      "rank": "12.",
+      "title": "Prime Minister Abe Shinzo Intends to Step Down",
+      "link": "https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/"
+    },
+    {
       "rank": "13.",
+      "title": "(Visualization)What caused 1 Million U.S. wildfires over the last 30 years?",
+      "link": "http://wildfire.kyrixdemo.live/"
+    },
+    {
+      "rank": "14.",
       "title": "Amazon: A New Kind of Antitrust Risk",
       "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Bill Gates' nuclear venture plans reactor to complement solar, wind power boom",
       "link": "https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8"
-    },
-    {
-      "rank": "15.",
-      "title": "(Visualization)What caused 1 Million U.S. wildfires over the last 30 years?",
-      "link": "http://wildfire.kyrixdemo.live/"
     },
     {
       "rank": "16.",
@@ -82,23 +82,23 @@
     },
     {
       "rank": "17.",
-      "title": "Prime Minister Abe Shinzo Intends to Step Down",
-      "link": "https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/"
+      "title": "When Asbestos Was a Gift Fit for a King",
+      "link": "https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/"
     },
     {
       "rank": "18.",
-      "title": "Safari adopts the Chrome/Firefox extension model",
-      "link": "https://developer.apple.com/news/?id=kuswih5l"
-    },
-    {
-      "rank": "19.",
       "title": "The Rapier Physics Engine",
       "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
     },
     {
+      "rank": "19.",
+      "title": "Safari adopts the Chrome/Firefox extension model",
+      "link": "https://developer.apple.com/news/?id=kuswih5l"
+    },
+    {
       "rank": "20.",
-      "title": "When Asbestos Was a Gift Fit for a King",
-      "link": "https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/"
+      "title": "Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’",
+      "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
-      "link": "https://substack.com/jobs"
-    },
-    {
-      "rank": "23.",
-      "title": "Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’",
-      "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
-    },
-    {
-      "rank": "24.",
-      "title": "Is your chart a detective story or a police report?",
-      "link": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/"
-    },
-    {
-      "rank": "25.",
       "title": "Computer scientists attempt to corner the Collatz conjecture",
       "link": "https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/"
     },
     {
-      "rank": "26.",
+      "rank": "23.",
       "title": "Architecture Playbook",
       "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
     },
     {
-      "rank": "27.",
+      "rank": "24.",
+      "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
+      "link": "https://substack.com/jobs"
+    },
+    {
+      "rank": "25.",
       "title": "Editor Overload",
       "link": "https://blog.iansinnott.com/editor-overload/"
     },
     {
-      "rank": "28.",
+      "rank": "26.",
+      "title": "Is your chart a detective story or a police report?",
+      "link": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/"
+    },
+    {
+      "rank": "27.",
       "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
       "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Scrollbar Blindness",
       "link": "https://svenkadak.com/blog/scrollbar-blindness"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "In Ashgabat",
       "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
+    },
+    {
+      "rank": "30.",
+      "title": "The time it takes to run a paid newsletter",
+      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
     }
   ],
   "metadata": {
