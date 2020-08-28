@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "Lego IKEA Bygglek – First Look",
-      "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
+      "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
+      "link": "https://substack.com/jobs"
     },
     {
       "rank": "8.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Amazon: A New Kind of Antitrust Risk",
-      "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
+      "title": "Lego IKEA Bygglek – First Look",
+      "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
     },
     {
       "rank": "10.",
@@ -52,103 +52,103 @@
     },
     {
       "rank": "11.",
+      "title": "Amazon: A New Kind of Antitrust Risk",
+      "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
+    },
+    {
+      "rank": "12.",
       "title": "Bill Gates' nuclear venture plans reactor to complement solar, wind power boom",
       "link": "https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Safari adopts the Chrome/Firefox extension model",
       "link": "https://developer.apple.com/news/?id=kuswih5l"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "When Asbestos Was a Gift Fit for a King",
       "link": "https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
+      "title": "Motoko: A programming language for building directly on the internet",
+      "link": "https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/?cb=1"
+    },
+    {
+      "rank": "16.",
       "title": "The Rapier Physics Engine",
       "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
     },
     {
-      "rank": "15.",
+      "rank": "17.",
       "title": "The Lounge – Modern web IRC client designed for self-hosting",
       "link": "https://github.com/thelounge/thelounge"
     },
     {
-      "rank": "16.",
+      "rank": "18.",
       "title": "Architecture Playbook",
       "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
     },
     {
-      "rank": "17.",
+      "rank": "19.",
       "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
       "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
     },
     {
-      "rank": "18.",
+      "rank": "20.",
       "title": "Computer scientists attempt to corner the Collatz conjecture",
       "link": "https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "Not the 'Beowulf' You Think You Know",
       "link": "https://www.npr.org/2020/08/27/906423831/bro-this-is-not-the-beowulf-you-think-you-know"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
       "title": "Scrollbar Blindness",
       "link": "https://svenkadak.com/blog/scrollbar-blindness"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "The time it takes to run a paid newsletter",
       "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "In Ashgabat",
       "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Apple blocks Facebook update that called out 30-percent App Store ‘tax’",
       "link": "https://www.theverge.com/2020/8/28/21405140/apple-rejects-facebook-update-30-percent-cut"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "New Economic Challenges and the Fed's Monetary Policy Review",
       "link": "https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm"
     },
     {
-      "rank": "25.",
-      "title": "Convicted of sex crimes, but with no victims",
-      "link": "https://www.nytimes.com/2020/08/26/magazine/sex-offender-operation-net-nanny.html"
-    },
-    {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Rare plants that ‘bleed’ nickel",
       "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
       "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Constant Time LFU",
       "link": "https://arpitbhayani.me/blogs/lfu"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Confessions of an ID Theft Kingpin, Part II",
       "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
-    },
-    {
-      "rank": "30.",
-      "title": "Tesla Blown Away as Renault Dominates Europe’s July EV Sales Party",
-      "link": "https://www.forbes.com/sites/michaeltaylor/2020/08/27/tesla-blown-away-as-renault-dominates-europes-july-ev-sales-party/"
     }
   ],
   "metadata": {
