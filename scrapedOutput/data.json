@@ -2,53 +2,53 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Apple Removes Epic Games Account from App Store",
-      "link": "https://nintendosmash.com/apple-removes-epic-games-account-from-app-store-will-not-affect-unreal-engine-support/"
-    },
-    {
-      "rank": "2.",
       "title": "GNU/Linux Smartphone Librem 5 Evergreen Update: Mold and Milestones",
       "link": "https://puri.sm/posts/librem-5-evergreen-update-mold-and-milestones/"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "Ethereum Is a Dark Forest",
       "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
       "link": "https://qoto.org/@freemo/104765288863293481"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Game Design Curriculum",
       "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
     },
     {
-      "rank": "6.",
-      "title": "GoodRx S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
-    },
-    {
-      "rank": "7.",
-      "title": "Objective-Rust",
-      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
-    },
-    {
-      "rank": "8.",
-      "title": "Impact of Go AI on the professional Go world",
-      "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
-    },
-    {
-      "rank": "9.",
+      "rank": "5.",
       "title": "Netflix is now doing per-shot encoding for UHD content",
       "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
     },
     {
+      "rank": "6.",
+      "title": "Objective-Rust",
+      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
+    },
+    {
+      "rank": "7.",
+      "title": "GoodRx S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
+    },
+    {
+      "rank": "8.",
+      "title": "People",
+      "link": "https://patrickcollison.com/people"
+    },
+    {
+      "rank": "9.",
+      "title": "Impact of Go AI on the professional Go world",
+      "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
+    },
+    {
       "rank": "10.",
-      "title": "Show HN: Visualize Data Structures in VS Code",
-      "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
+      "title": "Apple Terminates Epic Games' Developer Account",
+      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
     },
     {
       "rank": "11.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "People",
-      "link": "https://patrickcollison.com/people"
+      "title": "Show HN: Visualize Data Structures in VS Code",
+      "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
     },
     {
       "rank": "13.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "Apple Terminates Epic Games' Developer Account",
-      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
+      "title": "Squad Wealth",
+      "link": "https://otherinter.net/squad-wealth/"
     },
     {
       "rank": "15.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "Squad Wealth",
-      "link": "https://otherinter.net/squad-wealth/"
+      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
+      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
     },
     {
       "rank": "17.",
@@ -87,38 +87,38 @@
     },
     {
       "rank": "18.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+      "title": "Show HN: Healthcare Is Dumb",
+      "link": "https://healthcareisdumb.com/"
     },
     {
       "rank": "19.",
-      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
-      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
-    },
-    {
-      "rank": "20.",
-      "title": "Why I’m Willing to Pay a Premium for Security, Privacy, and Peace of Mind",
-      "link": "https://tirania.org/blog/archive/2020/Aug-28.html"
-    },
-    {
-      "rank": "21.",
       "title": "Ham radio is not dying, it's evolving",
       "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
     },
     {
-      "rank": "22.",
+      "rank": "20.",
       "title": "Retrobatch – flexible batch image processing for Mac",
       "link": "https://flyingmeat.com/retrobatch/"
     },
     {
+      "rank": "21.",
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+    },
+    {
+      "rank": "22.",
+      "title": "Why I’m Willing to Pay a Premium for Security, Privacy, and Peace of Mind",
+      "link": "https://tirania.org/blog/archive/2020/Aug-28.html"
+    },
+    {
       "rank": "23.",
-      "title": "Robots that can walk are now striding to market",
-      "link": "https://www.economist.com/science-and-technology/2020/08/25/robots-that-can-walk-are-now-striding-to-market"
+      "title": "Pure and Applied Chess",
+      "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
     },
     {
       "rank": "24.",
-      "title": "Show HN: Healthcare Is Dumb",
-      "link": "https://healthcareisdumb.com/"
+      "title": "Robots that can walk are now striding to market",
+      "link": "https://www.economist.com/science-and-technology/2020/08/25/robots-that-can-walk-are-now-striding-to-market"
     },
     {
       "rank": "25.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "Pure and Applied Chess",
-      "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
+      "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
+      "link": "https://www.markeverglade.com/iscyberpunkdead"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
-      "link": "https://www.markeverglade.com/iscyberpunkdead"
-    },
-    {
-      "rank": "29.",
       "title": "RFC8890: The Internet Is for End Users",
       "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Redis Labs Raises $100M",
       "link": "https://redislabs.com/press/redis-labs-raises-100-million-series-f-financing/"
+    },
+    {
+      "rank": "30.",
+      "title": "Speaking Knots",
+      "link": "https://soender.blog/Speaking-Knots/"
     }
   ],
   "metadata": {
