@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "Lego IKEA Bygglek – First Look",
-      "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
+      "title": "Waymo Tests Autonomous Trucks in Texas",
+      "link": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas"
     },
     {
       "rank": "6.",
@@ -32,23 +32,23 @@
     },
     {
       "rank": "7.",
+      "title": "Lego IKEA Bygglek – First Look",
+      "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
+    },
+    {
+      "rank": "8.",
       "title": "When Asbestos Was a Gift Fit for a King",
       "link": "https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "The Lounge – Modern web IRC client designed for self-hosting",
       "link": "https://github.com/thelounge/thelounge"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "A Short Guide to Minimal Web Development (2018)",
       "link": "https://meiert.com/en/blog/minimal-web-development/"
-    },
-    {
-      "rank": "10.",
-      "title": "The time it takes to run a paid newsletter",
-      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
     },
     {
       "rank": "11.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
+      "title": "The time it takes to run a paid newsletter",
+      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
+    },
+    {
+      "rank": "13.",
       "title": "Show HN: Muse – Tool for Thought on iPad",
       "link": "https://launch-preview.museapp.com/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Architecture Playbook",
       "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
-    },
-    {
-      "rank": "14.",
-      "title": "An Archive of a Different Type",
-      "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
     },
     {
       "rank": "15.",
@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
+      "title": "An Archive of a Different Type",
+      "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
+    },
+    {
+      "rank": "17.",
       "title": "Hard work vs. Long work (2011)",
       "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Nitrokey",
       "link": "https://www.nitrokey.com/"
     },
     {
-      "rank": "18.",
-      "title": "In Ashgabat",
-      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
-    },
-    {
       "rank": "19.",
-      "title": "Constant Time LFU",
-      "link": "https://arpitbhayani.me/blogs/lfu"
+      "title": "Apple to start requiring written consent for third party API usage in apps",
+      "link": "https://9to5mac.com/2020/08/27/apple-rejects-watch-for-tesla-app-as-it-starts-requiring-written-consent-for-third-party-api-use/"
     },
     {
       "rank": "20.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Confessions of an ID Theft Kingpin, Part II",
-      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
+      "title": "Constant Time LFU",
+      "link": "https://arpitbhayani.me/blogs/lfu"
     },
     {
       "rank": "23.",
-      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
-      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
+      "title": "In Ashgabat",
+      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "Confessions of an ID Theft Kingpin, Part II",
+      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/"
+    },
+    {
+      "rank": "26.",
+      "title": "Discovery of scholar's notes shine light on race to decipher Rosetta Stone",
+      "link": "https://www.theguardian.com/culture/2020/aug/25/discovery-of-scholars-notes-shine-light-on-race-to-decipher-rosetta-stone"
+    },
+    {
+      "rank": "27.",
       "title": "Rare plants that ‘bleed’ nickel",
       "link": "https://www.bbc.com/future/article/20200825-indonesia-the-plants-that-mine-poisonous-metals"
     },
     {
-      "rank": "26.",
-      "title": "Rust 1.46",
-      "link": "https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html"
-    },
-    {
-      "rank": "27.",
-      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
-      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
-    },
-    {
       "rank": "28.",
-      "title": "Interview with Zig language creator Andrew Kelley [video]",
-      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
-    },
-    {
-      "rank": "29.",
       "title": "The magic of ion channels in the neurons",
       "link": "https://i-kh.net/2020/08/26/the-magic-of-ion-channels/"
     },
     {
+      "rank": "29.",
+      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
+      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
+    },
+    {
       "rank": "30.",
-      "title": "Circle Medical (YC S15) Is Hiring a Senior Front End Engineer in Montréal",
-      "link": "https://jobs.lever.co/circlemedical/46d8485b-0092-48a5-8a26-96262438353d"
+      "title": "Interview with Zig language creator Andrew Kelley [video]",
+      "link": "https://www.youtube.com/watch?v=ZvskDoP09Ao&feature=emb_logo"
     }
   ],
   "metadata": {
