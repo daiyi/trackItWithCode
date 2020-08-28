@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Netflix is now doing per-shot encoding for UHD content",
-      "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
+      "title": "Apple Terminates Epic Games' Developer Account",
+      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
     },
     {
       "rank": "2.",
-      "title": "Apple Terminates Epic Games' Developer Account",
-      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
+      "title": "Netflix is now doing per-shot encoding for UHD content",
+      "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
     },
     {
       "rank": "3.",
@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "The Joy of Cryptography",
-      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
+      "title": "Objective-Rust",
+      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
       "rank": "6.",
-      "title": "Objective-Rust",
-      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
+      "title": "The Joy of Cryptography",
+      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
       "rank": "7.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
-      "link": "https://qoto.org/@freemo/104765288863293481"
+      "title": "GNU/Linux Smartphone Librem 5 Evergreen Update: Mold and Milestones",
+      "link": "https://puri.sm/posts/librem-5-evergreen-update-mold-and-milestones/"
     },
     {
       "rank": "13.",
-      "title": "GNU/Linux Smartphone Librem 5 Evergreen Update: Mold and Milestones",
-      "link": "https://puri.sm/posts/librem-5-evergreen-update-mold-and-milestones/"
+      "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
+      "link": "https://qoto.org/@freemo/104765288863293481"
     },
     {
       "rank": "14.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "Retrobatch – flexible batch image processing for Mac",
-      "link": "https://flyingmeat.com/retrobatch/"
+      "title": "Show HN: 3D first person game rendered in CSS/HTML",
+      "link": "https://pantel.is/projects/css3d/"
     },
     {
       "rank": "17.",
@@ -87,28 +87,28 @@
     },
     {
       "rank": "18.",
-      "title": "Show HN: 3D first person game rendered in CSS/HTML",
-      "link": "https://pantel.is/projects/css3d/"
+      "title": "Retrobatch – flexible batch image processing for Mac",
+      "link": "https://flyingmeat.com/retrobatch/"
     },
     {
       "rank": "19.",
-      "title": "Millions of Americans could lose their electricity as shutoff moratoriums expire",
-      "link": "https://carbonswitch.co/energy-insecurity-and-covid-19"
+      "title": "Neuralink Progress Update, Summer 2020",
+      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
     },
     {
       "rank": "20.",
-      "title": "The Jellyfish Problem",
-      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
-    },
-    {
-      "rank": "21.",
       "title": "Zoom is now critical infrastructure – that’s a concern",
       "link": "https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/"
     },
     {
+      "rank": "21.",
+      "title": "The Jellyfish Problem",
+      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+    },
+    {
       "rank": "22.",
-      "title": "In Defense of the IPO, and How to Improve It",
-      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
+      "title": "Good vibrations: acoustic technologies in cars",
+      "link": "https://physicsworld.com/a/good-vibrations-acoustic-technologies-in-cars/"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Good vibrations: acoustic technologies in cars",
-      "link": "https://physicsworld.com/a/good-vibrations-acoustic-technologies-in-cars/"
+      "title": "Millions of Americans could lose their electricity as shutoff moratoriums expire",
+      "link": "https://carbonswitch.co/energy-insecurity-and-covid-19"
     },
     {
       "rank": "25.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+      "title": "In Defense of the IPO, and How to Improve It",
+      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
     },
     {
       "rank": "26.",
-      "title": "Firefox 80 and my confusion over its hardware accelerated video on Linux",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion"
-    },
-    {
-      "rank": "27.",
-      "title": "Robots that can walk are now striding to market",
-      "link": "https://www.economist.com/science-and-technology/2020/08/25/robots-that-can-walk-are-now-striding-to-market"
-    },
-    {
-      "rank": "28.",
-      "title": "Pure and Applied Chess",
-      "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
-    },
-    {
-      "rank": "29.",
       "title": "Why I’m Willing to Pay a Premium for Security, Privacy, and Peace of Mind",
       "link": "https://tirania.org/blog/archive/2020/Aug-28.html"
     },
     {
-      "rank": "30.",
+      "rank": "27.",
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+    },
+    {
+      "rank": "28.",
       "title": "The Magic of Engineered Serendipity",
       "link": "https://www.beondeck.com/post/the-magic-of-engineered-serendipity"
+    },
+    {
+      "rank": "29.",
+      "title": "Firefox 80 and my confusion over its hardware accelerated video on Linux",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion"
+    },
+    {
+      "rank": "30.",
+      "title": "Robots that can walk are now striding to market",
+      "link": "https://www.economist.com/science-and-technology/2020/08/25/robots-that-can-walk-are-now-striding-to-market"
     }
   ],
   "metadata": {
