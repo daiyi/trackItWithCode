@@ -22,23 +22,23 @@
     },
     {
       "rank": "5.",
+      "title": "Safari adopts the Chrome/Firefox extension model",
+      "link": "https://developer.apple.com/news/?id=kuswih5l"
+    },
+    {
+      "rank": "6.",
       "title": "Waymo Tests Autonomous Trucks in Texas",
       "link": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Scrollbar Blindness",
       "link": "https://svenkadak.com/blog/scrollbar-blindness"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Lego IKEA Bygglek – First Look",
       "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
-    },
-    {
-      "rank": "8.",
-      "title": "Safari adopts the Chrome/Firefox extension model",
-      "link": "https://developer.apple.com/news/?id=kuswih5l"
     },
     {
       "rank": "9.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Band-Limiting Procedural Textures",
-      "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
+      "title": "The time it takes to run a paid newsletter",
+      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
     },
     {
       "rank": "13.",
-      "title": "The time it takes to run a paid newsletter",
-      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
+      "title": "Band-Limiting Procedural Textures",
+      "link": "https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm"
     },
     {
       "rank": "14.",
@@ -82,48 +82,48 @@
     },
     {
       "rank": "17.",
-      "title": "Apple to start requiring written consent for third party API usage in apps",
-      "link": "https://9to5mac.com/2020/08/27/apple-rejects-watch-for-tesla-app-as-it-starts-requiring-written-consent-for-third-party-api-use/"
-    },
-    {
-      "rank": "18.",
       "title": "An Archive of a Different Type",
       "link": "http://blog.archive.org/2020/08/26/an-archive-of-a-different-type/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Hard work vs. Long work (2011)",
       "link": "https://seths.blog/2011/05/hard-work-vs-long-work/"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Nitrokey",
       "link": "https://www.nitrokey.com/"
     },
     {
+      "rank": "20.",
+      "title": "Apple to start requiring written consent for third party API usage in apps",
+      "link": "https://9to5mac.com/2020/08/27/apple-rejects-watch-for-tesla-app-as-it-starts-requiring-written-consent-for-third-party-api-use/"
+    },
+    {
       "rank": "21.",
+      "title": "In Ashgabat",
+      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
+    },
+    {
+      "rank": "22.",
       "title": "Hunting the Nearly-Invisible Personal Website",
       "link": "https://cheapskatesguide.org/articles/personal-website-hunting.html"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Anime-to-Real Clothing: Cosplay Costume Generation",
       "link": "https://arxiv.org/abs/2008.11479"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Constant Time LFU",
       "link": "https://arpitbhayani.me/blogs/lfu"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Antibiotics nearly double risk of developing IBD, doctors warn",
       "link": "https://www.studyfinds.org/antibiotics-double-ibd-risk/"
-    },
-    {
-      "rank": "25.",
-      "title": "In Ashgabat",
-      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
     },
     {
       "rank": "26.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "The magic of ion channels in the neurons",
-      "link": "https://i-kh.net/2020/08/26/the-magic-of-ion-channels/"
+      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
+      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
     },
     {
       "rank": "30.",
-      "title": "Show HN: Olaf – Acoustic Fingerprinting on the ESP32 and in the Browser",
-      "link": "https://0110.be/posts/Olaf_-_Acoustic_fingerprinting_on_the_ESP32_and_in_the_Browser"
+      "title": "The magic of ion channels in the neurons",
+      "link": "https://i-kh.net/2020/08/26/the-magic-of-ion-channels/"
     }
   ],
   "metadata": {
