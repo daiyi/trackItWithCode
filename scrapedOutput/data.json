@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
-      "title": "Zoom is now critical infrastructure – that’s a concern",
-      "link": "https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/"
-    },
-    {
-      "rank": "4.",
       "title": "The Magic of Engineered Serendipity",
       "link": "https://www.beondeck.com/post/the-magic-of-engineered-serendipity"
     },
     {
+      "rank": "4.",
+      "title": "Zoom is now critical infrastructure – that’s a concern",
+      "link": "https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/"
+    },
+    {
       "rank": "5.",
-      "title": "Show HN: 3D first person game rendered in CSS/HTML",
-      "link": "https://pantel.is/projects/css3d/"
+      "title": "Boeing yanks eight 787s from service over structural issue",
+      "link": "https://theaircurrent.com/aviation-safety/boeing-pulls-eight-787s-from-service-over-structural-issue/"
     },
     {
       "rank": "6.",
-      "title": "Boeing yanks eight 787s from service over structural issue",
-      "link": "https://theaircurrent.com/aviation-safety/boeing-pulls-eight-787s-from-service-over-structural-issue/"
+      "title": "Show HN: 3D first person game rendered in CSS/HTML",
+      "link": "https://pantel.is/projects/css3d/"
     },
     {
       "rank": "7.",
@@ -42,18 +42,18 @@
     },
     {
       "rank": "9.",
-      "title": "Robots that can walk are now striding to market",
-      "link": "https://www.economist.com/science-and-technology/2020/08/25/robots-that-can-walk-are-now-striding-to-market"
+      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
+      "link": "https://www.serialliterature.com/"
     },
     {
       "rank": "10.",
-      "title": "Redis Labs Raises $100M",
-      "link": "https://redislabs.com/press/redis-labs-raises-100-million-series-f-financing/"
+      "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
+      "link": "https://www.markeverglade.com/iscyberpunkdead"
     },
     {
       "rank": "11.",
-      "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
-      "link": "https://www.markeverglade.com/iscyberpunkdead"
+      "title": "Redis Labs Raises $100M",
+      "link": "https://redislabs.com/press/redis-labs-raises-100-million-series-f-financing/"
     },
     {
       "rank": "12.",
@@ -62,38 +62,38 @@
     },
     {
       "rank": "13.",
-      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
-      "link": "https://www.serialliterature.com/"
-    },
-    {
-      "rank": "14.",
       "title": "Investigating the Milk, MIT's Historic Dairy Product (2015)",
       "link": "https://alum.mit.edu/slice/investigating-milk-mits-historic-dairy-product"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Surprising new feature in AMD Ryzen 3000",
       "link": "https://www.agner.org/forum/viewtopic.php?t=41"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "RFC8890: The Internet Is for End Users",
       "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
     },
     {
+      "rank": "16.",
+      "title": "Robots that can walk are now striding to market",
+      "link": "https://www.economist.com/science-and-technology/2020/08/25/robots-that-can-walk-are-now-striding-to-market"
+    },
+    {
       "rank": "17.",
-      "title": "Bcrypt Step-by-Step",
-      "link": "https://qvault.io/2020/08/24/bcrypt-step-by-step/"
+      "title": "Powell’s says it won’t sell books on Amazon anymore",
+      "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
     },
     {
       "rank": "18.",
-      "title": "OCaml Workshop 2020 Online Conference is live now",
-      "link": "https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri"
+      "title": "Dots don't matter in Gmail addresses",
+      "link": "https://support.google.com/mail/answer/7436150?hl=en"
     },
     {
       "rank": "19.",
-      "title": "Powell’s says it won’t sell books on Amazon anymore",
-      "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
+      "title": "OCaml Workshop 2020 Online Conference is live now",
+      "link": "https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri"
     },
     {
       "rank": "20.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "Dots don't matter in Gmail addresses",
-      "link": "https://support.google.com/mail/answer/7436150?hl=en"
+      "title": "Bcrypt Step-by-Step",
+      "link": "https://qvault.io/2020/08/24/bcrypt-step-by-step/"
     },
     {
       "rank": "22.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Babylonian Mathematics (2003) [pdf]",
-      "link": "https://www.math.tamu.edu/~dallen/masters/egypt_babylon/babylon.pdf"
+      "title": "JS8Call – weak signal communication on HF with a keyboard-to-keyboard interface",
+      "link": "http://js8call.com"
     },
     {
       "rank": "25.",
-      "title": "Tarpn: Terrestrial Amateur Radio Packet Network",
-      "link": "http://tarpn.net/t/packet_radio_networking.html"
-    },
-    {
-      "rank": "26.",
-      "title": "Google announces plan to break password managers in name of security",
-      "link": "https://developers.googleblog.com/2020/08/guidance-for-our-effort-to-block-less-secure-browser-and-apps.html"
-    },
-    {
-      "rank": "27.",
       "title": "Painting a better life through side SaaS hustles",
       "link": "https://getmakerlog.com/stories/micah-iverson-founder-and-ceo-of-retrospect"
     },
     {
-      "rank": "28.",
-      "title": "Fox Two: The Story of the Aim-9 Sidewinder (2014)",
-      "link": "http://www.donhollway.com/foxtwo/"
+      "rank": "26.",
+      "title": "Babylonian Mathematics (2003) [pdf]",
+      "link": "https://www.math.tamu.edu/~dallen/masters/egypt_babylon/babylon.pdf"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
+      "title": "Tarpn: Terrestrial Amateur Radio Packet Network",
+      "link": "http://tarpn.net/t/packet_radio_networking.html"
+    },
+    {
+      "rank": "28.",
       "title": "One Year with ThinkPad and Linux (From MacBook Pro)",
       "link": "https://drikerf.com/one-year-with-thinkpad-and-linux-from-macbook-pro/"
     },
     {
+      "rank": "29.",
+      "title": "Fox Two: The Story of the Aim-9 Sidewinder (2014)",
+      "link": "http://www.donhollway.com/foxtwo/"
+    },
+    {
       "rank": "30.",
-      "title": "Step-by-Step Centralized Authentication for K8s with Keycloak and Ambassador",
-      "link": "https://blog.getambassador.io/centralized-authentication-with-keycloak-and-ambassador-edge-stack-d509ffbc7b6f"
+      "title": "Testing Database Transactions in Go",
+      "link": "https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM"
     }
   ],
   "metadata": {
