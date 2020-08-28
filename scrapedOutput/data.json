@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "C++ Lightweight, cross-platform, HTML rendering engine for desktop apps",
-      "link": "https://github.com/ultralight-ux/Ultralight"
-    },
-    {
-      "rank": "2.",
       "title": "RFC8890: The Internet Is for End Users",
       "link": "https://www.mnot.net/blog/2020/08/28/for_the_users"
     },
     {
+      "rank": "2.",
+      "title": "C++ Lightweight, cross-platform, HTML rendering engine for desktop apps",
+      "link": "https://github.com/ultralight-ux/Ultralight"
+    },
+    {
       "rank": "3.",
+      "title": "Hartree-Fock on a superconducting qubit quantum computer",
+      "link": "https://science.sciencemag.org/content/369/6507/1084"
+    },
+    {
+      "rank": "4.",
       "title": "Zoom still don't understand GDPR",
       "link": "https://www.threatspike.com/blog/zoom_cookies.html"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Does Facebook pay Apple 30% of revenue derived from ads made within its iOS app?",
       "link": "https://twitter.com/SpencerDailey/status/1299063704483438593"
-    },
-    {
-      "rank": "5.",
-      "title": "Hartree-Fock on a superconducting qubit quantum computer",
-      "link": "https://science.sciencemag.org/content/369/6507/1084"
     },
     {
       "rank": "6.",
@@ -32,53 +32,53 @@
     },
     {
       "rank": "7.",
-      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
-      "link": "https://github.com/sm0svx/svxlink"
-    },
-    {
-      "rank": "8.",
       "title": "Lego IKEA Bygglek – First Look",
       "link": "http://www.brickfinder.net/2020/07/11/lego-ikea-bygglek-first-look/"
     },
     {
+      "rank": "8.",
+      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
+      "link": "https://github.com/sm0svx/svxlink"
+    },
+    {
       "rank": "9.",
+      "title": "Using Microsoft Word with Git",
+      "link": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/"
+    },
+    {
+      "rank": "10.",
       "title": "Who needs a case? The 3D Printed Mil-Plastic is here",
       "link": "https://back7.co/home/back7co-mil-plastic"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Prime Minister Abe Shinzo Intends to Step Down",
       "link": "https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
       "link": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "ReMarkable 2.0 – A digital notebook that feels like paper",
       "link": "https://remarkable.com/#What_Is_New"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Amazon: A New Kind of Antitrust Risk",
       "link": "https://diff.substack.com/p/amazon-a-new-kind-of-antitrust-risk"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Bill Gates' nuclear venture plans reactor to complement solar, wind power boom",
       "link": "https://www.reuters.com/article/us-usa-nuclearpower-terrapower/bill-gates-nuclear-venture-plans-reactor-to-complement-solar-wind-power-boom-idUSKBN25N2U8"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "(Visualization)What caused 1 Million U.S. wildfires over the last 30 years?",
       "link": "http://wildfire.kyrixdemo.live/"
-    },
-    {
-      "rank": "16.",
-      "title": "Waymo Tests Autonomous Trucks in Texas",
-      "link": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas"
     },
     {
       "rank": "17.",
@@ -87,68 +87,68 @@
     },
     {
       "rank": "18.",
+      "title": "Waymo Tests Autonomous Trucks in Texas",
+      "link": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas"
+    },
+    {
+      "rank": "19.",
       "title": "When Asbestos Was a Gift Fit for a King",
       "link": "https://daily.jstor.org/when-asbestos-was-a-gift-fit-for-a-king/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Safari adopts the Chrome/Firefox extension model",
       "link": "https://developer.apple.com/news/?id=kuswih5l"
     },
     {
-      "rank": "20.",
-      "title": "Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’",
-      "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
-    },
-    {
       "rank": "21.",
-      "title": "Is your chart a detective story or a police report?",
-      "link": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/"
-    },
-    {
-      "rank": "22.",
-      "title": "The Lounge – Modern web IRC client designed for self-hosting",
-      "link": "https://github.com/thelounge/thelounge"
-    },
-    {
-      "rank": "23.",
-      "title": "Computer scientists attempt to corner the Collatz conjecture",
-      "link": "https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/"
-    },
-    {
-      "rank": "24.",
-      "title": "Architecture Playbook",
-      "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
-    },
-    {
-      "rank": "25.",
-      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
-      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
-    },
-    {
-      "rank": "26.",
       "title": "Editor Overload",
       "link": "https://blog.iansinnott.com/editor-overload/"
     },
     {
+      "rank": "22.",
+      "title": "Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’",
+      "link": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html"
+    },
+    {
+      "rank": "23.",
+      "title": "The Lounge – Modern web IRC client designed for self-hosting",
+      "link": "https://github.com/thelounge/thelounge"
+    },
+    {
+      "rank": "24.",
+      "title": "Openbot: Turning Smartphones into Robots",
+      "link": "https://www.openbot.org/"
+    },
+    {
+      "rank": "25.",
+      "title": "Is your chart a detective story or a police report?",
+      "link": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/"
+    },
+    {
+      "rank": "26.",
+      "title": "Computer scientists attempt to corner the Collatz conjecture",
+      "link": "https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/"
+    },
+    {
       "rank": "27.",
+      "title": "Architecture Playbook",
+      "link": "https://nocomplexity.com/documents/arplaybook/introduction.html"
+    },
+    {
+      "rank": "28.",
+      "title": "TSMC and Graphcore Prepare for AI Acceleration on 3nm",
+      "link": "https://www.anandtech.com/show/16040/tsmc-and-graphcore-prepare-for-ai-acceleration-on-3nm"
+    },
+    {
+      "rank": "29.",
       "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
       "link": "https://substack.com/jobs"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Scrollbar Blindness",
       "link": "https://svenkadak.com/blog/scrollbar-blindness"
-    },
-    {
-      "rank": "29.",
-      "title": "The time it takes to run a paid newsletter",
-      "link": "https://simonowens.substack.com/p/the-exact-time-commitment-it-takes"
-    },
-    {
-      "rank": "30.",
-      "title": "In Ashgabat",
-      "link": "https://www.lrb.co.uk/the-paper/v42/n15/james-lomax/diary"
     }
   ],
   "metadata": {
