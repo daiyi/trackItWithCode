@@ -2,7 +2,7 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "American Academy of Sleep Medicine: Eliminate daylight saving time",
+      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
       "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
+      "title": "Facebook Says Apple Blocked It from Informing About App Store 30% Fee",
+      "link": "https://www.nasdaq.com/articles/facebook-says-apple-blocked-it-from-informing-about-app-store-30-fee-2020-08-28#:~:text=Facebook%20Says%20Apple%20Blocked%20It%20From%20Informing%20About%20App%20Store%2030%25%20Fee,-Contributor&text=Facebook%20(NASDAQ%3A%20FB)%20is,to%20impart%20to%20its%20users.&text=According%20to%20Facebook%2C%20it%20asked,Image%20source%3A%20Getty%20Images."
+    },
+    {
+      "rank": "4.",
       "title": "Netflix is now doing per-shot encoding for UHD content",
       "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Game Design Curriculum",
       "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
-    },
-    {
-      "rank": "5.",
-      "title": "Intel's “cripple AMD” function (2019)",
-      "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
     },
     {
       "rank": "6.",
@@ -32,58 +32,58 @@
     },
     {
       "rank": "7.",
+      "title": "Intel's “cripple AMD” function (2019)",
+      "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
+    },
+    {
+      "rank": "8.",
       "title": "The Joy of Cryptography",
       "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Objective-Rust",
       "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "GoodRx S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Show HN: Visualize Data Structures in VS Code",
       "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Impact of Go AI on the professional Go world",
       "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
     },
     {
-      "rank": "12.",
-      "title": "The World of Legacy IT Systems",
-      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
-    },
-    {
       "rank": "13.",
-      "title": "Flexport is hiring employees all over the world",
-      "link": "https://www.flexport.com/careers"
-    },
-    {
-      "rank": "14.",
-      "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
-      "link": "https://qoto.org/@freemo/104765288863293481"
-    },
-    {
-      "rank": "15.",
       "title": "Ethereum Is a Dark Forest",
       "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
+      "rank": "14.",
+      "title": "The World of Legacy IT Systems",
+      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
+    },
+    {
+      "rank": "15.",
+      "title": "Flexport is hiring employees all over the world",
+      "link": "https://www.flexport.com/careers"
+    },
+    {
       "rank": "16.",
-      "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
-      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
+      "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
+      "link": "https://qoto.org/@freemo/104765288863293481"
     },
     {
       "rank": "17.",
-      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
-      "link": "https://www.serialliterature.com/"
+      "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
+      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
     },
     {
       "rank": "18.",
@@ -92,18 +92,18 @@
     },
     {
       "rank": "19.",
-      "title": "Ham radio is not dying, it's evolving",
-      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
+      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
+      "link": "https://www.serialliterature.com/"
     },
     {
       "rank": "20.",
-      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
-      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
+      "title": "Show HN: 3D first person game rendered in CSS/HTML",
+      "link": "https://pantel.is/projects/css3d/"
     },
     {
       "rank": "21.",
-      "title": "Show HN: 3D first person game rendered in CSS/HTML",
-      "link": "https://pantel.is/projects/css3d/"
+      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
+      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
     },
     {
       "rank": "22.",
@@ -122,7 +122,7 @@
     },
     {
       "rank": "25.",
-      "title": "In Defense of the IPO, and How to Improve It",
+      "title": "In defense of the IPO, and how to improve it",
       "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
     },
     {
