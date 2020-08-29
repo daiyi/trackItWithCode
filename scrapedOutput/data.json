@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Best Consumer Hard Drives: August 2020",
-      "link": "https://www.anandtech.com/show/12075/best-consumer-hdds"
+      "title": "Sendgrid Under Siege from Hacked Accounts",
+      "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
     },
     {
       "rank": "4.",
-      "title": "Sendgrid Under Siege from Hacked Accounts",
-      "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
+      "title": "Best Consumer Hard Drives: August 2020",
+      "link": "https://www.anandtech.com/show/12075/best-consumer-hdds"
     },
     {
       "rank": "5.",
@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Remote Code Execution in Slack desktop apps",
-      "link": "https://hackerone.com/reports/783877"
+      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
+      "link": "https://ncase.me/sim/"
     },
     {
       "rank": "7.",
-      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
-      "link": "https://ncase.me/sim/"
+      "title": "Remote Code Execution in Slack desktop apps",
+      "link": "https://hackerone.com/reports/783877"
     },
     {
       "rank": "8.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "She’s Got Game",
-      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
+      "title": "Don't trust default timeouts",
+      "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
       "rank": "11.",
-      "title": "Don't trust default timeouts",
-      "link": "https://robertovitillo.com/default-timeouts/"
+      "title": "Super Tux Kart – Linux racing game",
+      "link": "https://supertuxkart.net/"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
-      "title": "Super Tux Kart – Linux racing game",
-      "link": "https://supertuxkart.net/"
-    },
-    {
-      "rank": "14.",
       "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
       "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Life Is Short (2016)",
       "link": "http://paulgraham.com/vb.html"
+    },
+    {
+      "rank": "15.",
+      "title": "Lithium ranked the highest performance web application platform",
+      "link": "https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2"
     },
     {
       "rank": "16.",
@@ -82,68 +82,68 @@
     },
     {
       "rank": "17.",
-      "title": "Lithium ranked the highest performance web application platform",
-      "link": "https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2"
-    },
-    {
-      "rank": "18.",
-      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
-      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
-    },
-    {
-      "rank": "19.",
-      "title": "Apple Terminates Epic Games' Developer Account",
-      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
-    },
-    {
-      "rank": "20.",
-      "title": "How close are computers to automating mathematical reasoning?",
-      "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
-    },
-    {
-      "rank": "21.",
-      "title": "Top Biofuel Crops",
-      "link": "https://auto.howstuffworks.com/fuel-efficiency/biofuels/10-biofuel-crops.htm"
-    },
-    {
-      "rank": "22.",
-      "title": "Parsing: A Timeline (2014)",
-      "link": "http://blogs.perl.org/users/jeffrey_kegler/2014/09/parsing-a-timeline.html"
-    },
-    {
-      "rank": "23.",
-      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
-      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
-    },
-    {
-      "rank": "24.",
-      "title": "Now you C me, now you don't",
-      "link": "https://securitylab.github.com/research/now-you-c-me"
-    },
-    {
-      "rank": "25.",
-      "title": "What can 6,000 electric vehicles tell us about EV battery health?",
-      "link": "https://www.geotab.com/blog/ev-battery-health/"
-    },
-    {
-      "rank": "26.",
       "title": "Apple blocked Facebook's attempt to tell users about 30% App Store 'tax'",
       "link": "https://www.cnet.com/news/apple-blocked-facebooks-attempt-to-tell-users-about-30-app-store-tax/"
     },
     {
+      "rank": "18.",
+      "title": "She’s Got Game",
+      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
+    },
+    {
+      "rank": "19.",
+      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
+      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
+    },
+    {
+      "rank": "20.",
+      "title": "Top Biofuel Crops",
+      "link": "https://auto.howstuffworks.com/fuel-efficiency/biofuels/10-biofuel-crops.htm"
+    },
+    {
+      "rank": "21.",
+      "title": "Apple Terminates Epic Games' Developer Account",
+      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
+    },
+    {
+      "rank": "22.",
+      "title": "We Chose a Distributed SQL Database to Complement MySQL",
+      "link": "https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql"
+    },
+    {
+      "rank": "23.",
+      "title": "Writing math papers in pre-LaTeX era (2010)",
+      "link": "https://mathoverflow.net/questions/19930/writing-papers-in-pre-latex-era"
+    },
+    {
+      "rank": "24.",
+      "title": "Parsing: A Timeline (2014)",
+      "link": "http://blogs.perl.org/users/jeffrey_kegler/2014/09/parsing-a-timeline.html"
+    },
+    {
+      "rank": "25.",
+      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
+      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
+    },
+    {
+      "rank": "26.",
+      "title": "Now you C me, now you don't",
+      "link": "https://securitylab.github.com/research/now-you-c-me"
+    },
+    {
       "rank": "27.",
+      "title": "What can 6,000 electric vehicles tell us about EV battery health?",
+      "link": "https://www.geotab.com/blog/ev-battery-health/"
+    },
+    {
+      "rank": "28.",
       "title": "WebAssembly Is Not a Stack Machine (2019)",
       "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "GH Archive",
       "link": "https://www.gharchive.org/"
-    },
-    {
-      "rank": "29.",
-      "title": "We Chose a Distributed SQL Database to Complement MySQL",
-      "link": "https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql"
     },
     {
       "rank": "30.",
