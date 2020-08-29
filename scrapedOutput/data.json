@@ -27,28 +27,28 @@
     },
     {
       "rank": "6.",
+      "title": "She’s Got Game",
+      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
+    },
+    {
+      "rank": "7.",
       "title": "ArangoDB 3.7 – a big step forward for multi-model",
       "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
       "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Don't trust default timeouts",
       "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "What can 6,000 electric vehicles tell us about EV battery health?",
       "link": "https://www.geotab.com/blog/ev-battery-health/"
-    },
-    {
-      "rank": "10.",
-      "title": "She’s Got Game",
-      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
     },
     {
       "rank": "11.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "Life Is Short (2016)",
-      "link": "http://paulgraham.com/vb.html"
+      "title": "Top Biofuel Crops",
+      "link": "https://auto.howstuffworks.com/fuel-efficiency/biofuels/10-biofuel-crops.htm"
     },
     {
       "rank": "14.",
-      "title": "Top Biofuel Crops",
-      "link": "https://auto.howstuffworks.com/fuel-efficiency/biofuels/10-biofuel-crops.htm"
+      "title": "Life Is Short (2016)",
+      "link": "http://paulgraham.com/vb.html"
     },
     {
       "rank": "15.",
@@ -77,43 +77,43 @@
     },
     {
       "rank": "16.",
-      "title": "Apple Terminates Epic Games' Developer Account",
-      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
-    },
-    {
-      "rank": "17.",
-      "title": "Now you C me, now you don't",
-      "link": "https://securitylab.github.com/research/now-you-c-me"
-    },
-    {
-      "rank": "18.",
       "title": "Why Understanding Beats Knowledge",
       "link": "https://swizec.com/blog/why-understanding-beats-knowledge/"
     },
     {
-      "rank": "19.",
-      "title": "WebAssembly Is Not a Stack Machine (2019)",
-      "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
+      "rank": "17.",
+      "title": "Apple Terminates Epic Games' Developer Account",
+      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
     },
     {
-      "rank": "20.",
+      "rank": "18.",
+      "title": "Now you C me, now you don't",
+      "link": "https://securitylab.github.com/research/now-you-c-me"
+    },
+    {
+      "rank": "19.",
       "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
       "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
     },
     {
-      "rank": "21.",
-      "title": "Design Tip: Never Use Black (2012)",
-      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
-    },
-    {
-      "rank": "22.",
+      "rank": "20.",
       "title": "Google offers to help others with the tricky ethics of AI",
       "link": "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
+      "title": "WebAssembly Is Not a Stack Machine (2019)",
+      "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
+    },
+    {
+      "rank": "22.",
       "title": "GH Archive",
       "link": "https://www.gharchive.org/"
+    },
+    {
+      "rank": "23.",
+      "title": "Design Tip: Never Use Black (2012)",
+      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
     },
     {
       "rank": "24.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "The Dark Core of Personality (2018)",
-      "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
+      "title": "Hazel: A live functional programming environment featuring typed holes",
+      "link": "http://hazel.org/"
     },
     {
       "rank": "26.",
-      "title": "Hazel: A live functional programming environment featuring typed holes",
-      "link": "http://hazel.org/"
+      "title": "The Dark Core of Personality (2018)",
+      "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
     },
     {
       "rank": "27.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
-      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
+      "title": "How to Fix Gimbal Lock in N-Dimensions",
+      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
     },
     {
       "rank": "29.",
-      "title": "How to Fix Gimbal Lock in N-Dimensions",
-      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
+      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
+      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
     },
     {
       "rank": "30.",
