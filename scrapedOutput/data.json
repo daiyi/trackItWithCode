@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "A broken algorithm that poisoned American transportation",
-      "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
+      "title": "GH Archive",
+      "link": "https://www.gharchive.org/"
     },
     {
       "rank": "9.",
-      "title": "GH Archive",
-      "link": "https://www.gharchive.org/"
+      "title": "A broken algorithm that poisoned American transportation",
+      "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
     },
     {
       "rank": "10.",
@@ -77,28 +77,28 @@
     },
     {
       "rank": "16.",
-      "title": "WebAssembly Is Not a Stack Machine (2019)",
-      "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
-    },
-    {
-      "rank": "17.",
       "title": "Babylonian Multiplication in the shower (2016)",
       "link": "https://www.iquilezles.org/blog/?p=4582"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Objective-Rust",
       "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
+      "rank": "18.",
+      "title": "WebAssembly Is Not a Stack Machine (2019)",
+      "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
+    },
+    {
       "rank": "19.",
-      "title": "The Ekranoplan Is Stranded Off a Beach",
-      "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
     },
     {
       "rank": "20.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+      "title": "The Ekranoplan Is Stranded Off a Beach",
+      "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
     },
     {
       "rank": "21.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Show HN: Healthcare Is Dumb",
-      "link": "https://healthcareisdumb.com/"
-    },
-    {
-      "rank": "28.",
       "title": "Squad Wealth",
       "link": "https://otherinter.net/squad-wealth/"
     },
     {
+      "rank": "28.",
+      "title": "Show HN: Healthcare Is Dumb",
+      "link": "https://healthcareisdumb.com/"
+    },
+    {
       "rank": "29.",
-      "title": "Neuralink Progress Update [video]",
-      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
+      "title": "Retrobatch – flexible batch image processing for Mac",
+      "link": "https://flyingmeat.com/retrobatch/"
     },
     {
       "rank": "30.",
-      "title": "Retrobatch – flexible batch image processing for Mac",
-      "link": "https://flyingmeat.com/retrobatch/"
+      "title": "Neuralink Progress Update [video]",
+      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
     }
   ],
   "metadata": {
