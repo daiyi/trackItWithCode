@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Hazel: A live functional programming environment featuring typed holes",
-      "link": "http://hazel.org/"
+      "title": "Intel's “cripple AMD” function (2019)",
+      "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
     },
     {
       "rank": "8.",
-      "title": "Intel's “cripple AMD” function (2019)",
-      "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
+      "title": "Hazel: A live functional programming environment featuring typed holes",
+      "link": "http://hazel.org/"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "GoodRx S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
+      "title": "The Joy of Cryptography",
+      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
       "rank": "11.",
-      "title": "The Joy of Cryptography",
-      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
+      "title": "GoodRx S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
     },
     {
       "rank": "12.",
@@ -62,48 +62,48 @@
     },
     {
       "rank": "13.",
+      "title": "GH Archive",
+      "link": "https://www.gharchive.org/"
+    },
+    {
+      "rank": "14.",
       "title": "Ethereum Is a Dark Forest",
       "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
       "link": "https://www.serialliterature.com/"
     },
     {
-      "rank": "15.",
-      "title": "The Jellyfish Problem",
-      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
-    },
-    {
       "rank": "16.",
-      "title": "The World of Legacy IT Systems",
-      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
-    },
-    {
-      "rank": "17.",
       "title": "Tell HN: Check medium's localstorage if you use adblock",
       "link": "item?id=24310778"
     },
     {
+      "rank": "17.",
+      "title": "The World of Legacy IT Systems",
+      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
+    },
+    {
       "rank": "18.",
-      "title": "Lynn Conway's Career Retrospective",
-      "link": "https://ai.eecs.umich.edu/people/conway/RetrospectiveT.html"
+      "title": "The Jellyfish Problem",
+      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
     },
     {
       "rank": "19.",
+      "title": "Malloc Geiger Counter",
+      "link": "https://github.com/laserallan/malloc_geiger"
+    },
+    {
+      "rank": "20.",
       "title": "Neuralink Progress Update [video]",
       "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
     },
     {
-      "rank": "20.",
-      "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
-      "link": "item?id=24306572"
-    },
-    {
       "rank": "21.",
-      "title": "GH Archive",
-      "link": "https://www.gharchive.org/"
+      "title": "Lynn Conway's Career Retrospective",
+      "link": "https://ai.eecs.umich.edu/people/conway/RetrospectiveT.html"
     },
     {
       "rank": "22.",
@@ -112,28 +112,28 @@
     },
     {
       "rank": "23.",
-      "title": "Babylonian Multiplication in the shower (2016)",
-      "link": "https://www.iquilezles.org/blog/?p=4582"
+      "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
+      "link": "item?id=24306572"
     },
     {
       "rank": "24.",
+      "title": "Show HN: Healthcare Is Dumb",
+      "link": "https://healthcareisdumb.com/"
+    },
+    {
+      "rank": "25.",
       "title": "In defense of the IPO, and how to improve it",
       "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
     },
     {
-      "rank": "25.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
-    },
-    {
       "rank": "26.",
-      "title": "Speaking Knots",
-      "link": "https://soender.blog/Speaking-Knots/"
+      "title": "Retrobatch – flexible batch image processing for Mac",
+      "link": "https://flyingmeat.com/retrobatch/"
     },
     {
       "rank": "27.",
-      "title": "Show HN: Healthcare Is Dumb",
-      "link": "https://healthcareisdumb.com/"
+      "title": "Babylonian Multiplication in the shower (2016)",
+      "link": "https://www.iquilezles.org/blog/?p=4582"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Retrobatch – flexible batch image processing for Mac",
-      "link": "https://flyingmeat.com/retrobatch/"
+      "title": "Speaking Knots",
+      "link": "https://soender.blog/Speaking-Knots/"
     },
     {
       "rank": "30.",
-      "title": "Pure and Applied Chess",
-      "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
     }
   ],
   "metadata": {
