@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Apple Terminates Epic Games' Developer Account",
-      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
+      "title": "Remote Code Execution in Slack desktop apps",
+      "link": "https://hackerone.com/reports/783877"
     },
     {
       "rank": "3.",
-      "title": "Remote Code Execution in Slack desktop apps",
-      "link": "https://hackerone.com/reports/783877"
+      "title": "Apple Terminates Epic Games' Developer Account",
+      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
     },
     {
       "rank": "4.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "How to Fix Gimbal Lock in N-Dimensions",
-      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
+      "title": "GH Archive",
+      "link": "https://www.gharchive.org/"
     },
     {
       "rank": "9.",
-      "title": "GH Archive",
-      "link": "https://www.gharchive.org/"
+      "title": "How to Fix Gimbal Lock in N-Dimensions",
+      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
     },
     {
       "rank": "10.",
@@ -52,23 +52,23 @@
     },
     {
       "rank": "11.",
-      "title": "Game Design Curriculum",
-      "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
-    },
-    {
-      "rank": "12.",
       "title": "Hazel: A live functional programming environment featuring typed holes",
       "link": "http://hazel.org/"
     },
     {
+      "rank": "12.",
+      "title": "Game Design Curriculum",
+      "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
+    },
+    {
       "rank": "13.",
-      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
-      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
+      "title": "Intel's “cripple AMD” function (2019)",
+      "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
     },
     {
       "rank": "14.",
-      "title": "Intel's “cripple AMD” function (2019)",
-      "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
+      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
+      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
     },
     {
       "rank": "15.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "The Ekranoplan Is Stranded Off a Beach",
-      "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
+      "title": "Objective-Rust",
+      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
       "rank": "17.",
@@ -87,28 +87,28 @@
     },
     {
       "rank": "18.",
-      "title": "Objective-Rust",
-      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
-    },
-    {
-      "rank": "19.",
-      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
-      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
-    },
-    {
-      "rank": "20.",
       "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
       "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
     },
     {
-      "rank": "21.",
+      "rank": "19.",
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+    },
+    {
+      "rank": "20.",
       "title": "GoodRx S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
     },
     {
+      "rank": "21.",
+      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
+      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
+    },
+    {
       "rank": "22.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+      "title": "The Ekranoplan Is Stranded Off a Beach",
+      "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
     },
     {
       "rank": "23.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "The Jellyfish Problem",
-      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+      "title": "Squad Wealth",
+      "link": "https://otherinter.net/squad-wealth/"
     }
   ],
   "metadata": {
