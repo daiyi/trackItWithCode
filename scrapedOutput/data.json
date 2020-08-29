@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
-      "title": "Asciimatics – create full-screen text UIs on any platform",
-      "link": "https://github.com/peterbrittain/asciimatics"
-    },
-    {
-      "rank": "12.",
       "title": "Inventing Monads",
       "link": "https://stopa.io/post/247"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
       "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
+    },
+    {
+      "rank": "13.",
+      "title": "Asciimatics – create full-screen text UIs on any platform",
+      "link": "https://github.com/peterbrittain/asciimatics"
     },
     {
       "rank": "14.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
-      "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
+      "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
+      "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
     },
     {
       "rank": "18.",
-      "title": "Building storage-first serverless apps with HTTP APIs service integrations",
-      "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
+      "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
+      "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
-      "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
+      "title": "Building storage-first serverless apps with HTTP APIs service integrations",
+      "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
     },
     {
       "rank": "21.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "The mysterious Cold War case of unidentified aircraft descending on Loring AFB",
-      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
+      "title": "Apple doesn't let you disclose their 30% IAP fee to your customers",
+      "link": "https://twitter.com/getify/status/1299569045348454401"
     }
   ],
   "metadata": {
