@@ -17,33 +17,33 @@
     },
     {
       "rank": "4.",
+      "title": "Lithium is now the fastest web framework",
+      "link": "https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2"
+    },
+    {
+      "rank": "5.",
       "title": "Malloc Geiger Counter",
       "link": "https://github.com/laserallan/malloc_geiger"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Life Is Short (2016)",
       "link": "http://paulgraham.com/vb.html"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
       "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Netflix is now doing per-shot encoding for UHD content",
       "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "The Dark Core of Personality",
       "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
-    },
-    {
-      "rank": "9.",
-      "title": "GH Archive",
-      "link": "https://www.gharchive.org/"
     },
     {
       "rank": "10.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
+      "title": "GH Archive",
+      "link": "https://www.gharchive.org/"
+    },
+    {
+      "rank": "12.",
       "title": "Intel's “cripple AMD” function (2019)",
       "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "A broken algorithm that poisoned American transportation",
       "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
-    },
-    {
-      "rank": "13.",
-      "title": "How to Fix Gimbal Lock in N-Dimensions",
-      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
     },
     {
       "rank": "14.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
-      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
+      "title": "How to Fix Gimbal Lock in N-Dimensions",
+      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
     },
     {
       "rank": "16.",
-      "title": "Hazel: A live functional programming environment featuring typed holes",
-      "link": "http://hazel.org/"
+      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
+      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Objective-Rust",
-      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
+      "title": "Hazel: A live functional programming environment featuring typed holes",
+      "link": "http://hazel.org/"
     },
     {
       "rank": "19.",
-      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
-      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
+      "title": "Objective-Rust",
+      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
       "rank": "20.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
-      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
+      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
+      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
     },
     {
       "rank": "22.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+      "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
+      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
     },
     {
       "rank": "24.",
-      "title": "GoodRx S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
     },
     {
       "rank": "25.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "GoodRx S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
+    },
+    {
+      "rank": "28.",
       "title": "Tell HN: Check medium's localstorage if you use adblock",
       "link": "item?id=24310778"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Ethereum Is a Dark Forest",
       "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Squad Wealth",
       "link": "https://otherinter.net/squad-wealth/"
-    },
-    {
-      "rank": "30.",
-      "title": "Show HN: Healthcare Is Dumb",
-      "link": "https://healthcareisdumb.com/"
     }
   ],
   "metadata": {
