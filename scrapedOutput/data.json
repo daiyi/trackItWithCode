@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Game Design Curriculum",
-      "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
+      "title": "The World of Legacy IT Systems",
+      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
     },
     {
       "rank": "4.",
-      "title": "The World of Legacy IT Systems",
-      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
+      "title": "Game Design Curriculum",
+      "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
     },
     {
       "rank": "5.",
@@ -27,53 +27,53 @@
     },
     {
       "rank": "6.",
-      "title": "The Joy of Cryptography",
-      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
-    },
-    {
-      "rank": "7.",
       "title": "Objective-Rust",
       "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
-      "rank": "8.",
-      "title": "Ethereum Is a Dark Forest",
-      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
+      "rank": "7.",
+      "title": "The Joy of Cryptography",
+      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Show HN: Visualize Data Structures in VS Code",
       "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
     },
     {
-      "rank": "10.",
-      "title": "GoodRx S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
-    },
-    {
-      "rank": "11.",
+      "rank": "9.",
       "title": "Intel's “cripple AMD” function (2019)",
       "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
     },
     {
+      "rank": "10.",
+      "title": "Ethereum Is a Dark Forest",
+      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
+    },
+    {
+      "rank": "11.",
+      "title": "GoodRx S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
+    },
+    {
       "rank": "12.",
+      "title": "Neuralink Progress Update [video]",
+      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
+    },
+    {
+      "rank": "13.",
       "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
       "link": "https://qoto.org/@freemo/104765288863293481"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
       "link": "https://www.serialliterature.com/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
       "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
-    },
-    {
-      "rank": "15.",
-      "title": "Neuralink Progress Update, Summer 2020",
-      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Show HN: Healthcare Is Dumb",
-      "link": "https://healthcareisdumb.com/"
+      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
+      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
     },
     {
       "rank": "18.",
-      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
-      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
+      "title": "Show HN: Healthcare Is Dumb",
+      "link": "https://healthcareisdumb.com/"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Squad Wealth",
-      "link": "https://otherinter.net/squad-wealth/"
+      "title": "Show HN: GoFlip – Convert videos into Flip-Book-like versions of themselves",
+      "link": "https://github.com/Kadle11/GoFlip"
     },
     {
       "rank": "21.",
-      "title": "Retrobatch – flexible batch image processing for Mac",
-      "link": "https://flyingmeat.com/retrobatch/"
+      "title": "Squad Wealth",
+      "link": "https://otherinter.net/squad-wealth/"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
+      "title": "Retrobatch – flexible batch image processing for Mac",
+      "link": "https://flyingmeat.com/retrobatch/"
+    },
+    {
+      "rank": "24.",
       "title": "In Defense of the IPO, and How to Improve It",
       "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "GNU/Linux Smartphone Librem 5 Evergreen Update: Mold and Milestones",
       "link": "https://puri.sm/posts/librem-5-evergreen-update-mold-and-milestones/"
-    },
-    {
-      "rank": "25.",
-      "title": "Pure and Applied Chess",
-      "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "Pure and Applied Chess",
+      "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
+    },
+    {
+      "rank": "28.",
       "title": "Good vibrations: acoustic technologies in cars",
       "link": "https://physicsworld.com/a/good-vibrations-acoustic-technologies-in-cars/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
       "link": "https://www.markeverglade.com/iscyberpunkdead"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "The Jellyfish Problem",
       "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
-    },
-    {
-      "rank": "30.",
-      "title": "Robots that can walk are now striding to market",
-      "link": "https://www.economist.com/science-and-technology/2020/08/25/robots-that-can-walk-are-now-striding-to-market"
     }
   ],
   "metadata": {
