@@ -27,23 +27,23 @@
     },
     {
       "rank": "6.",
-      "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
-      "link": "https://archive.org/details/nasa-workmanship-standards"
-    },
-    {
-      "rank": "7.",
       "title": "Metcalf Sniper Attack",
       "link": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
     },
     {
+      "rank": "7.",
+      "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
+      "link": "https://archive.org/details/nasa-workmanship-standards"
+    },
+    {
       "rank": "8.",
-      "title": "The tyranny of chairs: why we need better design",
-      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
+      "title": "Inventing Monads",
+      "link": "https://stopa.io/post/247"
     },
     {
       "rank": "9.",
-      "title": "Inventing Monads",
-      "link": "https://stopa.io/post/247"
+      "title": "The tyranny of chairs: why we need better design",
+      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
     },
     {
       "rank": "10.",
@@ -72,28 +72,28 @@
     },
     {
       "rank": "15.",
-      "title": "Asciimatics – create full-screen text UIs on any platform",
-      "link": "https://github.com/peterbrittain/asciimatics"
-    },
-    {
-      "rank": "16.",
-      "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
-      "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
-    },
-    {
-      "rank": "17.",
       "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
       "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
+      "rank": "16.",
+      "title": "Asciimatics – create full-screen text UIs on any platform",
+      "link": "https://github.com/peterbrittain/asciimatics"
+    },
+    {
+      "rank": "17.",
+      "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
+      "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
+    },
+    {
       "rank": "18.",
-      "title": "Guide to Rustc Development",
-      "link": "https://rustc-dev-guide.rust-lang.org/"
+      "title": "Building storage-first serverless apps with HTTP APIs service integrations",
+      "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
     },
     {
       "rank": "19.",
-      "title": "Building storage-first serverless apps with HTTP APIs service integrations",
-      "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
+      "title": "Guide to Rustc Development",
+      "link": "https://rustc-dev-guide.rust-lang.org/"
     },
     {
       "rank": "20.",
@@ -107,43 +107,43 @@
     },
     {
       "rank": "22.",
-      "title": "ArangoDB 3.7 – a big step forward for multi-model",
-      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
-    },
-    {
-      "rank": "23.",
       "title": "Design Tip: Never Use Black (2012)",
       "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
     },
     {
-      "rank": "24.",
-      "title": "How close are computers to automating mathematical reasoning?",
-      "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
+      "rank": "23.",
+      "title": "ArangoDB 3.7 – a big step forward for multi-model",
+      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Super Tux Kart – Linux racing game",
       "link": "https://supertuxkart.net/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "What can 6,000 electric vehicles tell us about EV battery health?",
       "link": "https://www.geotab.com/blog/ev-battery-health/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
       "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
     },
     {
+      "rank": "27.",
+      "title": "How close are computers to automating mathematical reasoning?",
+      "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
+    },
+    {
       "rank": "28.",
-      "title": "Writing math papers in pre-LaTeX era (2010)",
-      "link": "https://mathoverflow.net/questions/19930/writing-papers-in-pre-latex-era"
+      "title": "The mysterious Cold War case of unidentified aircraft descending on Loring AFB",
+      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
     },
     {
       "rank": "29.",
-      "title": "The mysterious Cold War case of unidentified aircraft descending on Loring AFB",
-      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
+      "title": "Writing math papers in pre-LaTeX era (2010)",
+      "link": "https://mathoverflow.net/questions/19930/writing-papers-in-pre-latex-era"
     },
     {
       "rank": "30.",
