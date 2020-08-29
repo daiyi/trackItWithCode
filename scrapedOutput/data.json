@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
-      "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
+      "title": "I Thought I Would Have Accomplished a Lot More Today and Also Before I Was 35",
+      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
       "rank": "2.",
-      "title": "I Thought I Would Have Accomplished a Lot More Today and Also Before I Was 35",
-      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
+      "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
+      "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
     },
     {
       "rank": "3.",
@@ -27,83 +27,83 @@
     },
     {
       "rank": "6.",
-      "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
-      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
-    },
-    {
-      "rank": "7.",
       "title": "ArangoDB 3.7 – a big step forward for multi-model",
       "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
     },
     {
-      "rank": "8.",
-      "title": "What can 6,000 electric vehicles tell us about EV battery health?",
-      "link": "https://www.geotab.com/blog/ev-battery-health/"
+      "rank": "7.",
+      "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
+      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Don't trust default timeouts",
       "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
+      "rank": "9.",
+      "title": "What can 6,000 electric vehicles tell us about EV battery health?",
+      "link": "https://www.geotab.com/blog/ev-battery-health/"
+    },
+    {
       "rank": "10.",
+      "title": "She’s Got Game",
+      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
+    },
+    {
+      "rank": "11.",
       "title": "Malloc Geiger Counter",
       "link": "https://github.com/laserallan/malloc_geiger"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Lithium ranked the highest performance web application platform",
       "link": "https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Life Is Short (2016)",
       "link": "http://paulgraham.com/vb.html"
     },
     {
-      "rank": "13.",
-      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
-      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
-    },
-    {
       "rank": "14.",
-      "title": "Apple Terminates Epic Games' Developer Account",
-      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
-    },
-    {
-      "rank": "15.",
-      "title": "Now you C me, now you don't",
-      "link": "https://securitylab.github.com/research/now-you-c-me"
-    },
-    {
-      "rank": "16.",
-      "title": "Design Tip: Never Use Black (2012)",
-      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
-    },
-    {
-      "rank": "17.",
       "title": "Top Biofuel Crops",
       "link": "https://auto.howstuffworks.com/fuel-efficiency/biofuels/10-biofuel-crops.htm"
     },
     {
+      "rank": "15.",
+      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
+      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
+    },
+    {
+      "rank": "16.",
+      "title": "Apple Terminates Epic Games' Developer Account",
+      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
+    },
+    {
+      "rank": "17.",
+      "title": "Now you C me, now you don't",
+      "link": "https://securitylab.github.com/research/now-you-c-me"
+    },
+    {
       "rank": "18.",
-      "title": "WebAssembly Is Not a Stack Machine (2019)",
-      "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
-    },
-    {
-      "rank": "19.",
-      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
-      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
-    },
-    {
-      "rank": "20.",
       "title": "Why Understanding Beats Knowledge",
       "link": "https://swizec.com/blog/why-understanding-beats-knowledge/"
     },
     {
+      "rank": "19.",
+      "title": "WebAssembly Is Not a Stack Machine (2019)",
+      "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
+    },
+    {
+      "rank": "20.",
+      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
+      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
+    },
+    {
       "rank": "21.",
-      "title": "GH Archive",
-      "link": "https://www.gharchive.org/"
+      "title": "Design Tip: Never Use Black (2012)",
+      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
     },
     {
       "rank": "22.",
@@ -112,23 +112,23 @@
     },
     {
       "rank": "23.",
+      "title": "GH Archive",
+      "link": "https://www.gharchive.org/"
+    },
+    {
+      "rank": "24.",
       "title": "A broken algorithm that poisoned American transportation",
       "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "The Dark Core of Personality (2018)",
       "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Hazel: A live functional programming environment featuring typed holes",
       "link": "http://hazel.org/"
-    },
-    {
-      "rank": "26.",
-      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
-      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
+      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
+    },
+    {
+      "rank": "29.",
       "title": "How to Fix Gimbal Lock in N-Dimensions",
       "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Graphtage: A New Semantic Diffing Tool",
       "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
-    },
-    {
-      "rank": "30.",
-      "title": "Netflix is now doing per-shot encoding for UHD content",
-      "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
     }
   ],
   "metadata": {
