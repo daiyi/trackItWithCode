@@ -32,48 +32,48 @@
     },
     {
       "rank": "7.",
-      "title": "Impact of Go AI on the professional Go world",
-      "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
-    },
-    {
-      "rank": "8.",
       "title": "Objective-Rust",
       "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
-      "rank": "9.",
-      "title": "Flexport is hiring employees all over the world",
-      "link": "https://www.flexport.com/careers"
+      "rank": "8.",
+      "title": "Hazel: A live functional programming environment featuring typed holes",
+      "link": "http://hazel.org/"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "GoodRx S-1",
       "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
     },
     {
-      "rank": "11.",
-      "title": "Ethereum Is a Dark Forest",
-      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
-    },
-    {
-      "rank": "12.",
+      "rank": "10.",
       "title": "Show HN: Visualize Data Structures in VS Code",
       "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
     },
     {
-      "rank": "13.",
+      "rank": "11.",
       "title": "The World of Legacy IT Systems",
       "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
     },
     {
+      "rank": "12.",
+      "title": "Flexport is hiring employees all over the world",
+      "link": "https://www.flexport.com/careers"
+    },
+    {
+      "rank": "13.",
+      "title": "Impact of Go AI on the professional Go world",
+      "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
+    },
+    {
       "rank": "14.",
-      "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
-      "link": "https://qoto.org/@freemo/104765288863293481"
+      "title": "Ethereum Is a Dark Forest",
+      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
       "rank": "15.",
-      "title": "Neuralink Progress Update [video]",
-      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
+      "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
+      "link": "https://qoto.org/@freemo/104765288863293481"
     },
     {
       "rank": "16.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
-      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
+      "title": "Neuralink Progress Update [video]",
+      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
     },
     {
       "rank": "19.",
-      "title": "Show HN: 3D first person game rendered in CSS/HTML",
-      "link": "https://pantel.is/projects/css3d/"
+      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
+      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
     },
     {
       "rank": "20.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
+      "title": "Show HN: 3D first person game rendered in CSS/HTML",
+      "link": "https://pantel.is/projects/css3d/"
+    },
+    {
+      "rank": "22.",
       "title": "Show HN: Healthcare Is Dumb",
       "link": "https://healthcareisdumb.com/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Pure and Applied Chess",
       "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
-    },
-    {
-      "rank": "23.",
-      "title": "Hazel: A live functional programming environment featuring typed holes",
-      "link": "http://hazel.org/"
     },
     {
       "rank": "24.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "In Defense of the IPO, and How to Improve It",
-      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
+      "title": "Retrobatch – flexible batch image processing for Mac",
+      "link": "https://flyingmeat.com/retrobatch/"
     },
     {
       "rank": "26.",
-      "title": "Retrobatch – flexible batch image processing for Mac",
-      "link": "https://flyingmeat.com/retrobatch/"
+      "title": "Show HN: GoFlip – Convert videos into Flip-Book-like versions of themselves",
+      "link": "https://github.com/Kadle11/GoFlip"
     },
     {
       "rank": "27.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "Show HN: GoFlip – Convert videos into Flip-Book-like versions of themselves",
-      "link": "https://github.com/Kadle11/GoFlip"
+      "title": "In Defense of the IPO, and How to Improve It",
+      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
     },
     {
       "rank": "29.",
