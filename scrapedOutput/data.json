@@ -17,18 +17,18 @@
     },
     {
       "rank": "4.",
+      "title": "She’s Got Game",
+      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
+    },
+    {
+      "rank": "5.",
       "title": "Remote Code Execution in Slack desktop apps",
       "link": "https://hackerone.com/reports/783877"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "How close are computers to automating mathematical reasoning?",
       "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
-    },
-    {
-      "rank": "6.",
-      "title": "She’s Got Game",
-      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
     },
     {
       "rank": "7.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
-      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
+      "title": "Don't trust default timeouts",
+      "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
       "rank": "9.",
-      "title": "Don't trust default timeouts",
-      "link": "https://robertovitillo.com/default-timeouts/"
+      "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
+      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
     },
     {
       "rank": "10.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "Top Biofuel Crops",
-      "link": "https://auto.howstuffworks.com/fuel-efficiency/biofuels/10-biofuel-crops.htm"
+      "title": "Life Is Short (2016)",
+      "link": "http://paulgraham.com/vb.html"
     },
     {
       "rank": "14.",
-      "title": "Life Is Short (2016)",
-      "link": "http://paulgraham.com/vb.html"
+      "title": "Top Biofuel Crops",
+      "link": "https://auto.howstuffworks.com/fuel-efficiency/biofuels/10-biofuel-crops.htm"
     },
     {
       "rank": "15.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "Why Understanding Beats Knowledge",
-      "link": "https://swizec.com/blog/why-understanding-beats-knowledge/"
+      "title": "Google Graveyard – Killed by Google",
+      "link": "https://killedbygoogle.com/"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Now you C me, now you don't",
-      "link": "https://securitylab.github.com/research/now-you-c-me"
+      "title": "Why Understanding Beats Knowledge",
+      "link": "https://swizec.com/blog/why-understanding-beats-knowledge/"
     },
     {
       "rank": "19.",
-      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
-      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
+      "title": "Now you C me, now you don't",
+      "link": "https://securitylab.github.com/research/now-you-c-me"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "WebAssembly Is Not a Stack Machine (2019)",
-      "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
+      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
+      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
     },
     {
       "rank": "22.",
-      "title": "GH Archive",
-      "link": "https://www.gharchive.org/"
+      "title": "WebAssembly Is Not a Stack Machine (2019)",
+      "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "GH Archive",
+      "link": "https://www.gharchive.org/"
+    },
+    {
+      "rank": "25.",
       "title": "A broken algorithm that poisoned American transportation",
       "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Hazel: A live functional programming environment featuring typed holes",
       "link": "http://hazel.org/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "The Dark Core of Personality (2018)",
       "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "The Ekranoplan Is Stranded Off a Beach",
       "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "How to Fix Gimbal Lock in N-Dimensions",
       "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
       "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
-    },
-    {
-      "rank": "30.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
     }
   ],
   "metadata": {
