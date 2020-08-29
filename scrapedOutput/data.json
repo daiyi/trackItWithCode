@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
-      "link": "https://ncase.me/sim/"
+      "title": "SC-IM – An ncurses spreadsheet program for the terminal",
+      "link": "https://github.com/andmarti1424/sc-im"
     },
     {
       "rank": "6.",
-      "title": "DearPyGui",
-      "link": "https://github.com/hoffstadt/DearPyGui"
+      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
+      "link": "https://ncase.me/sim/"
     },
     {
       "rank": "7.",
@@ -37,118 +37,118 @@
     },
     {
       "rank": "8.",
-      "title": "Remote Code Execution in Slack desktop apps",
-      "link": "https://hackerone.com/reports/783877"
-    },
-    {
-      "rank": "9.",
-      "title": "We Chose a Distributed SQL Database to Complement MySQL",
-      "link": "https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql"
-    },
-    {
-      "rank": "10.",
       "title": "The tyranny of chairs: why we need better design",
       "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
     },
     {
+      "rank": "9.",
+      "title": "DearPyGui",
+      "link": "https://github.com/hoffstadt/DearPyGui"
+    },
+    {
+      "rank": "10.",
+      "title": "Remote Code Execution in Slack desktop apps",
+      "link": "https://hackerone.com/reports/783877"
+    },
+    {
       "rank": "11.",
-      "title": "SC-IM – An ncurses spreadsheet program for the terminal",
-      "link": "https://github.com/andmarti1424/sc-im"
+      "title": "Metcalf Sniper Attack",
+      "link": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
     },
     {
       "rank": "12.",
-      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
-      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
-    },
-    {
-      "rank": "13.",
       "title": "Guide to Rustc Development",
       "link": "https://rustc-dev-guide.rust-lang.org/"
     },
     {
+      "rank": "13.",
+      "title": "We Chose a Distributed SQL Database to Complement MySQL",
+      "link": "https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql"
+    },
+    {
       "rank": "14.",
+      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
+      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
+    },
+    {
+      "rank": "15.",
       "title": "How close are computers to automating mathematical reasoning?",
       "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]",
       "link": "http://www.vldb.org/pvldb/vol13/p3181-adams.pdf"
     },
     {
-      "rank": "16.",
-      "title": "Super Tux Kart – Linux racing game",
-      "link": "https://supertuxkart.net/"
-    },
-    {
       "rank": "17.",
-      "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
-      "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
-    },
-    {
-      "rank": "18.",
-      "title": "ArangoDB 3.7 – a big step forward for multi-model",
-      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
-    },
-    {
-      "rank": "19.",
-      "title": "What can 6,000 electric vehicles tell us about EV battery health?",
-      "link": "https://www.geotab.com/blog/ev-battery-health/"
-    },
-    {
-      "rank": "20.",
-      "title": "Design Tip: Never Use Black (2012)",
-      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
-    },
-    {
-      "rank": "21.",
-      "title": "The mysterious Cold War case of unidentified aircraft descending on Loring AFB",
-      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
-    },
-    {
-      "rank": "22.",
-      "title": "Writing math papers in pre-LaTeX era (2010)",
-      "link": "https://mathoverflow.net/questions/19930/writing-papers-in-pre-latex-era"
-    },
-    {
-      "rank": "23.",
       "title": "Don't trust default timeouts",
       "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
-      "rank": "24.",
+      "rank": "18.",
+      "title": "Babylonian Multiplication in the shower (2016)",
+      "link": "https://www.iquilezles.org/blog/?p=4582"
+    },
+    {
+      "rank": "19.",
       "title": "Building storage-first serverless apps with HTTP APIs service integrations",
       "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
     },
     {
+      "rank": "20.",
+      "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
+      "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
+    },
+    {
+      "rank": "21.",
+      "title": "Super Tux Kart – Linux racing game",
+      "link": "https://supertuxkart.net/"
+    },
+    {
+      "rank": "22.",
+      "title": "What can 6,000 electric vehicles tell us about EV battery health?",
+      "link": "https://www.geotab.com/blog/ev-battery-health/"
+    },
+    {
+      "rank": "23.",
+      "title": "ArangoDB 3.7 – a big step forward for multi-model",
+      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
+    },
+    {
+      "rank": "24.",
+      "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
+      "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
+    },
+    {
       "rank": "25.",
-      "title": "A broken algorithm that affected American transportation",
-      "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
+      "title": "Design Tip: Never Use Black (2012)",
+      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
     },
     {
       "rank": "26.",
-      "title": "Apple Terminates Epic Games' Developer Account",
-      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
+      "title": "Writing math papers in pre-LaTeX era (2010)",
+      "link": "https://mathoverflow.net/questions/19930/writing-papers-in-pre-latex-era"
     },
     {
       "rank": "27.",
+      "title": "The mysterious Cold War case of unidentified aircraft descending on Loring AFB",
+      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
+    },
+    {
+      "rank": "28.",
       "title": "She’s Got Game",
       "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
     },
     {
-      "rank": "28.",
-      "title": "Lithium ranked the highest performance web application platform",
-      "link": "https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2"
-    },
-    {
       "rank": "29.",
-      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
-      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
+      "title": "Apple Terminates Epic Games' Developer Account",
+      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
     },
     {
       "rank": "30.",
-      "title": "GH Archive",
-      "link": "https://www.gharchive.org/"
+      "title": "A broken algorithm that affected American transportation",
+      "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
     }
   ],
   "metadata": {
