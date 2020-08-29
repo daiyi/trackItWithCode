@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
+      "title": "Remote Code Execution in Slack desktop apps",
+      "link": "https://hackerone.com/reports/783877"
+    },
+    {
+      "rank": "4.",
       "title": "Malloc Geiger Counter",
       "link": "https://github.com/laserallan/malloc_geiger"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Life Is Short (2016)",
       "link": "http://paulgraham.com/vb.html"
-    },
-    {
-      "rank": "5.",
-      "title": "Remote Code Execution in Slack desktop apps",
-      "link": "https://hackerone.com/reports/783877"
     },
     {
       "rank": "6.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
-      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
-      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
-    },
-    {
-      "rank": "12.",
       "title": "Hazel: A live functional programming environment featuring typed holes",
       "link": "http://hazel.org/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Game Design Curriculum",
       "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
+    },
+    {
+      "rank": "13.",
+      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
+      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
     },
     {
       "rank": "14.",
@@ -102,23 +102,23 @@
     },
     {
       "rank": "21.",
-      "title": "Babylonian Multiplication in the shower (2016)",
-      "link": "https://www.iquilezles.org/blog/?p=4582"
+      "title": "The Ekranoplan Is Stranded Off a Beach",
+      "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
     },
     {
       "rank": "22.",
-      "title": "Tell HN: Check medium's localstorage if you use adblock",
-      "link": "item?id=24310778"
-    },
-    {
-      "rank": "23.",
       "title": "Ethereum Is a Dark Forest",
       "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
+      "rank": "23.",
+      "title": "Tell HN: Check medium's localstorage if you use adblock",
+      "link": "item?id=24310778"
+    },
+    {
       "rank": "24.",
-      "title": "The Jellyfish Problem",
-      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+      "title": "Babylonian Multiplication in the shower (2016)",
+      "link": "https://www.iquilezles.org/blog/?p=4582"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "The Jellyfish Problem",
+      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+    },
+    {
+      "rank": "27.",
       "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
       "link": "item?id=24306572"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Show HN: Healthcare Is Dumb",
       "link": "https://healthcareisdumb.com/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Retrobatch – flexible batch image processing for Mac",
       "link": "https://flyingmeat.com/retrobatch/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Squad Wealth",
       "link": "https://otherinter.net/squad-wealth/"
-    },
-    {
-      "rank": "30.",
-      "title": "The World of Legacy IT Systems",
-      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
     }
   ],
   "metadata": {
