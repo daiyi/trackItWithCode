@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
+      "title": "Hazel: A live functional programming environment featuring typed holes",
+      "link": "http://hazel.org/"
+    },
+    {
+      "rank": "7.",
       "title": "The Joy of Cryptography",
       "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Objective-Rust",
       "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
-    },
-    {
-      "rank": "8.",
-      "title": "Hazel: A live functional programming environment featuring typed holes",
-      "link": "http://hazel.org/"
     },
     {
       "rank": "9.",
@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "The World of Legacy IT Systems",
-      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
-    },
-    {
-      "rank": "12.",
-      "title": "Flexport is hiring employees all over the world",
-      "link": "https://www.flexport.com/careers"
-    },
-    {
-      "rank": "13.",
       "title": "Impact of Go AI on the professional Go world",
       "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
     },
     {
+      "rank": "12.",
+      "title": "The World of Legacy IT Systems",
+      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
+    },
+    {
+      "rank": "13.",
+      "title": "Flexport is hiring employees all over the world",
+      "link": "https://www.flexport.com/careers"
+    },
+    {
       "rank": "14.",
-      "title": "Ethereum Is a Dark Forest",
-      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
+      "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
+      "link": "https://qoto.org/@freemo/104765288863293481"
     },
     {
       "rank": "15.",
-      "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
-      "link": "https://qoto.org/@freemo/104765288863293481"
+      "title": "Ethereum Is a Dark Forest",
+      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
       "rank": "16.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
-      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
+      "title": "Ham radio is not dying, it's evolving",
+      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
     },
     {
       "rank": "20.",
-      "title": "Ham radio is not dying, it's evolving",
-      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
+      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
+      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
     },
     {
       "rank": "21.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "Retrobatch – flexible batch image processing for Mac",
-      "link": "https://flyingmeat.com/retrobatch/"
+      "title": "In Defense of the IPO, and How to Improve It",
+      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
     },
     {
       "rank": "26.",
-      "title": "Show HN: GoFlip – Convert videos into Flip-Book-like versions of themselves",
-      "link": "https://github.com/Kadle11/GoFlip"
+      "title": "Retrobatch – flexible batch image processing for Mac",
+      "link": "https://flyingmeat.com/retrobatch/"
     },
     {
       "rank": "27.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "In Defense of the IPO, and How to Improve It",
-      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
+      "title": "Show HN: GoFlip – Convert videos into Flip-Book-like versions of themselves",
+      "link": "https://github.com/Kadle11/GoFlip"
     },
     {
       "rank": "29.",
