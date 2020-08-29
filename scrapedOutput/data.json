@@ -7,58 +7,58 @@
     },
     {
       "rank": "2.",
+      "title": "I Thought I Would Have Accomplished a Lot More Today and Also Before I Was 35",
+      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
+    },
+    {
+      "rank": "3.",
       "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
       "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Remote Code Execution in Slack desktop apps",
       "link": "https://hackerone.com/reports/783877"
     },
     {
-      "rank": "4.",
-      "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
-      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
-    },
-    {
       "rank": "5.",
-      "title": "ArangoDB 3.7 – a big step forward for multi-model",
-      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
-    },
-    {
-      "rank": "6.",
       "title": "How close are computers to automating mathematical reasoning?",
       "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
     },
     {
+      "rank": "6.",
+      "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
+      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
+    },
+    {
       "rank": "7.",
+      "title": "ArangoDB 3.7 – a big step forward for multi-model",
+      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
+    },
+    {
+      "rank": "8.",
       "title": "What can 6,000 electric vehicles tell us about EV battery health?",
       "link": "https://www.geotab.com/blog/ev-battery-health/"
     },
     {
-      "rank": "8.",
-      "title": "Malloc Geiger Counter",
-      "link": "https://github.com/laserallan/malloc_geiger"
-    },
-    {
       "rank": "9.",
-      "title": "Lithium ranked the highest performance web application platform",
-      "link": "https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2"
-    },
-    {
-      "rank": "10.",
       "title": "Don't trust default timeouts",
       "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
+      "rank": "10.",
+      "title": "Malloc Geiger Counter",
+      "link": "https://github.com/laserallan/malloc_geiger"
+    },
+    {
       "rank": "11.",
-      "title": "Life Is Short (2016)",
-      "link": "http://paulgraham.com/vb.html"
+      "title": "Lithium ranked the highest performance web application platform",
+      "link": "https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2"
     },
     {
       "rank": "12.",
-      "title": "Zuckerberg Denounces Apple's Monopolistic “Stranglehold” on Your iPhone",
-      "link": "https://www.buzzfeednews.com/article/pranavdixit/zuckerberg-apple-monopoly"
+      "title": "Life Is Short (2016)",
+      "link": "http://paulgraham.com/vb.html"
     },
     {
       "rank": "13.",
@@ -72,83 +72,83 @@
     },
     {
       "rank": "15.",
-      "title": "Design Tip: Never Use Black (2012)",
-      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
-    },
-    {
-      "rank": "16.",
       "title": "Now you C me, now you don't",
       "link": "https://securitylab.github.com/research/now-you-c-me"
     },
     {
+      "rank": "16.",
+      "title": "Design Tip: Never Use Black (2012)",
+      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
+    },
+    {
       "rank": "17.",
-      "title": "Google offers to help others with the tricky ethics of AI",
-      "link": "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/"
+      "title": "Top Biofuel Crops",
+      "link": "https://auto.howstuffworks.com/fuel-efficiency/biofuels/10-biofuel-crops.htm"
     },
     {
       "rank": "18.",
-      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
-      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
-    },
-    {
-      "rank": "19.",
       "title": "WebAssembly Is Not a Stack Machine (2019)",
       "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
     },
     {
+      "rank": "19.",
+      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
+      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
+    },
+    {
       "rank": "20.",
-      "title": "GH Archive",
-      "link": "https://www.gharchive.org/"
-    },
-    {
-      "rank": "21.",
-      "title": "A broken algorithm that poisoned American transportation",
-      "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
-    },
-    {
-      "rank": "22.",
-      "title": "The Dark Core of Personality (2018)",
-      "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
-    },
-    {
-      "rank": "23.",
-      "title": "Hazel: A live functional programming environment featuring typed holes",
-      "link": "http://hazel.org/"
-    },
-    {
-      "rank": "24.",
-      "title": "The Ekranoplan Is Stranded Off a Beach",
-      "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
-    },
-    {
-      "rank": "25.",
-      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
-      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
-    },
-    {
-      "rank": "26.",
-      "title": "How to Fix Gimbal Lock in N-Dimensions",
-      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
-    },
-    {
-      "rank": "27.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
-    },
-    {
-      "rank": "28.",
-      "title": "Netflix is now doing per-shot encoding for UHD content",
-      "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
-    },
-    {
-      "rank": "29.",
       "title": "Why Understanding Beats Knowledge",
       "link": "https://swizec.com/blog/why-understanding-beats-knowledge/"
     },
     {
+      "rank": "21.",
+      "title": "GH Archive",
+      "link": "https://www.gharchive.org/"
+    },
+    {
+      "rank": "22.",
+      "title": "Google offers to help others with the tricky ethics of AI",
+      "link": "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/"
+    },
+    {
+      "rank": "23.",
+      "title": "A broken algorithm that poisoned American transportation",
+      "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
+    },
+    {
+      "rank": "24.",
+      "title": "The Dark Core of Personality (2018)",
+      "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
+    },
+    {
+      "rank": "25.",
+      "title": "Hazel: A live functional programming environment featuring typed holes",
+      "link": "http://hazel.org/"
+    },
+    {
+      "rank": "26.",
+      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
+      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
+    },
+    {
+      "rank": "27.",
+      "title": "The Ekranoplan Is Stranded Off a Beach",
+      "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
+    },
+    {
+      "rank": "28.",
+      "title": "How to Fix Gimbal Lock in N-Dimensions",
+      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
+    },
+    {
+      "rank": "29.",
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+    },
+    {
       "rank": "30.",
-      "title": "Tell HN: Check medium's localstorage if you use adblock",
-      "link": "item?id=24310778"
+      "title": "Netflix is now doing per-shot encoding for UHD content",
+      "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
     }
   ],
   "metadata": {
