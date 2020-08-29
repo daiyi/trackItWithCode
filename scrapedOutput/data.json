@@ -27,58 +27,58 @@
     },
     {
       "rank": "6.",
-      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
-      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
-    },
-    {
-      "rank": "7.",
       "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
       "link": "https://archive.org/details/nasa-workmanship-standards"
     },
     {
-      "rank": "8.",
-      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
-      "link": "https://ncase.me/sim/"
+      "rank": "7.",
+      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
+      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "DearPyGui",
       "link": "https://github.com/hoffstadt/DearPyGui"
     },
     {
-      "rank": "10.",
-      "title": "The tyranny of chairs: why we need better design",
-      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
+      "rank": "9.",
+      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
+      "link": "https://ncase.me/sim/"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]",
       "link": "http://www.vldb.org/pvldb/vol13/p3181-adams.pdf"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Asciimatics – create full-screen text UIs on any platform",
       "link": "https://github.com/peterbrittain/asciimatics"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Inventing Monads",
       "link": "https://stopa.io/post/247"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
       "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
     },
     {
+      "rank": "14.",
+      "title": "The tyranny of chairs: why we need better design",
+      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
+    },
+    {
       "rank": "15.",
-      "title": "We Chose a Distributed SQL Database to Complement MySQL",
-      "link": "https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql"
+      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
+      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
       "rank": "16.",
-      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
-      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
+      "title": "We Chose a Distributed SQL Database to Complement MySQL",
+      "link": "https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql"
     },
     {
       "rank": "17.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
+      "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
+      "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
+    },
+    {
+      "rank": "25.",
       "title": "ArangoDB 3.7 – a big step forward for multi-model",
       "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Super Tux Kart – Linux racing game",
       "link": "https://supertuxkart.net/"
-    },
-    {
-      "rank": "26.",
-      "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
-      "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
     },
     {
       "rank": "27.",
