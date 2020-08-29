@@ -42,88 +42,88 @@
     },
     {
       "rank": "9.",
-      "title": "WebAssembly Is Not a Stack Machine (2019)",
-      "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
-    },
-    {
-      "rank": "10.",
-      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
-      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
-    },
-    {
-      "rank": "11.",
       "title": "What can 6k electric vehicles tell us about EV battery health?",
       "link": "https://www.geotab.com/blog/ev-battery-health/"
     },
     {
-      "rank": "12.",
-      "title": "GH Archive",
-      "link": "https://www.gharchive.org/"
+      "rank": "10.",
+      "title": "WebAssembly Is Not a Stack Machine (2019)",
+      "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
     },
     {
-      "rank": "13.",
+      "rank": "11.",
+      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
+      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
+    },
+    {
+      "rank": "12.",
       "title": "Now you C me, now you don't",
       "link": "https://securitylab.github.com/research/now-you-c-me"
     },
     {
+      "rank": "13.",
+      "title": "Kenosha Militia FB Event Asking Attendees to Bring Weapons Reported 455 Times",
+      "link": "https://www.buzzfeednews.com/article/ryanmac/kenosha-militia-facebook-reported-455-times-moderators"
+    },
+    {
       "rank": "14.",
-      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
-      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
+      "title": "GH Archive",
+      "link": "https://www.gharchive.org/"
     },
     {
       "rank": "15.",
-      "title": "Hazel: A live functional programming environment featuring typed holes",
-      "link": "http://hazel.org/"
-    },
-    {
-      "rank": "16.",
-      "title": "The Joy of Cryptography",
-      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
-    },
-    {
-      "rank": "17.",
-      "title": "The Ekranoplan Is Stranded Off a Beach",
-      "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
-    },
-    {
-      "rank": "18.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
-    },
-    {
-      "rank": "19.",
       "title": "Don't Trust Default Timeouts",
       "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
-      "rank": "20.",
-      "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
-      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
+      "rank": "16.",
+      "title": "Hazel: A live functional programming environment featuring typed holes",
+      "link": "http://hazel.org/"
     },
     {
-      "rank": "21.",
+      "rank": "17.",
+      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
+      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
+    },
+    {
+      "rank": "18.",
+      "title": "The Joy of Cryptography",
+      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
+    },
+    {
+      "rank": "19.",
       "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
       "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
     },
     {
-      "rank": "22.",
-      "title": "The Dark Core of Personality",
-      "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
+      "rank": "20.",
+      "title": "The Ekranoplan Is Stranded Off a Beach",
+      "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
     },
     {
-      "rank": "23.",
-      "title": "How to Fix Gimbal Lock in N-Dimensions",
-      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
-    },
-    {
-      "rank": "24.",
+      "rank": "21.",
       "title": "Facebook’s Ties to India’s Ruling Party Complicate Its Fight Against Hate Speech",
       "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
     },
     {
+      "rank": "22.",
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+    },
+    {
+      "rank": "23.",
+      "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
+      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
+    },
+    {
+      "rank": "24.",
+      "title": "The Dark Core of Personality",
+      "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
+    },
+    {
       "rank": "25.",
-      "title": "Netflix is now doing per-shot encoding for UHD content",
-      "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
+      "title": "How to Fix Gimbal Lock in N-Dimensions",
+      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
     },
     {
       "rank": "26.",
@@ -132,18 +132,18 @@
     },
     {
       "rank": "27.",
-      "title": "Kenosha Militia FB Event Asking Attendees to Bring Weapons Reported 455 Times",
-      "link": "https://www.buzzfeednews.com/article/ryanmac/kenosha-militia-facebook-reported-455-times-moderators"
+      "title": "Netflix is now doing per-shot encoding for UHD content",
+      "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
     },
     {
       "rank": "28.",
-      "title": "Babylonian Multiplication in the shower (2016)",
-      "link": "https://www.iquilezles.org/blog/?p=4582"
+      "title": "Neuralink Progress Update [video]",
+      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
     },
     {
       "rank": "29.",
-      "title": "Neuralink Progress Update [video]",
-      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
+      "title": "Babylonian Multiplication in the shower (2016)",
+      "link": "https://www.iquilezles.org/blog/?p=4582"
     },
     {
       "rank": "30.",
