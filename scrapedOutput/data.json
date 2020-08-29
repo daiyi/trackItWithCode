@@ -27,48 +27,48 @@
     },
     {
       "rank": "6.",
-      "title": "Netflix is now doing per-shot encoding for UHD content",
-      "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
-    },
-    {
-      "rank": "7.",
-      "title": "GH Archive",
-      "link": "https://www.gharchive.org/"
-    },
-    {
-      "rank": "8.",
       "title": "The Dark Core of Personality",
       "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
     },
     {
+      "rank": "7.",
+      "title": "Netflix is now doing per-shot encoding for UHD content",
+      "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
+    },
+    {
+      "rank": "8.",
+      "title": "GH Archive",
+      "link": "https://www.gharchive.org/"
+    },
+    {
       "rank": "9.",
+      "title": "A broken algorithm that poisoned American transportation",
+      "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
+    },
+    {
+      "rank": "10.",
       "title": "Game Design Curriculum",
       "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Intel's “cripple AMD” function (2019)",
       "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Hazel: A live functional programming environment featuring typed holes",
       "link": "http://hazel.org/"
     },
     {
-      "rank": "12.",
-      "title": "Objective-Rust",
-      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
-    },
-    {
       "rank": "13.",
-      "title": "The Joy of Cryptography",
-      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
+      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
+      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
     },
     {
       "rank": "14.",
-      "title": "GoodRx S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
+      "title": "Objective-Rust",
+      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
       "rank": "15.",
@@ -82,23 +82,23 @@
     },
     {
       "rank": "17.",
-      "title": "Tell HN: Check medium's localstorage if you use adblock",
-      "link": "item?id=24310778"
+      "title": "The Joy of Cryptography",
+      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
       "rank": "18.",
-      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
-      "link": "https://www.serialliterature.com/"
+      "title": "GoodRx S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
     },
     {
       "rank": "19.",
-      "title": "A broken algorithm that poisoned American transportation",
-      "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
+      "title": "Babylonian Multiplication in the shower (2016)",
+      "link": "https://www.iquilezles.org/blog/?p=4582"
     },
     {
       "rank": "20.",
-      "title": "Babylonian Multiplication in the shower (2016)",
-      "link": "https://www.iquilezles.org/blog/?p=4582"
+      "title": "Tell HN: Check medium's localstorage if you use adblock",
+      "link": "item?id=24310778"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "The Jellyfish Problem",
-      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
+      "link": "https://www.serialliterature.com/"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "The Jellyfish Problem",
+      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+    },
+    {
+      "rank": "25.",
       "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
       "link": "item?id=24306572"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Speaking Knots",
       "link": "https://soender.blog/Speaking-Knots/"
     },
     {
-      "rank": "26.",
-      "title": "In defense of the IPO, and how to improve it",
-      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
-    },
-    {
       "rank": "27.",
-      "title": "Squad Wealth",
-      "link": "https://otherinter.net/squad-wealth/"
-    },
-    {
-      "rank": "28.",
       "title": "Retrobatch – flexible batch image processing for Mac",
       "link": "https://flyingmeat.com/retrobatch/"
     },
     {
+      "rank": "28.",
+      "title": "In defense of the IPO, and how to improve it",
+      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
+    },
+    {
       "rank": "29.",
-      "title": "Show HN: Healthcare Is Dumb",
-      "link": "https://healthcareisdumb.com/"
+      "title": "Squad Wealth",
+      "link": "https://otherinter.net/squad-wealth/"
     },
     {
       "rank": "30.",
-      "title": "The World of Legacy IT Systems",
-      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
+      "title": "Show HN: Healthcare Is Dumb",
+      "link": "https://healthcareisdumb.com/"
     }
   ],
   "metadata": {
