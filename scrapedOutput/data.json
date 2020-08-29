@@ -27,23 +27,23 @@
     },
     {
       "rank": "6.",
-      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
-      "link": "https://ncase.me/sim/"
-    },
-    {
-      "rank": "7.",
-      "title": "Inventing Monads",
-      "link": "https://stopa.io/post/247"
-    },
-    {
-      "rank": "8.",
       "title": "The tyranny of chairs: why we need better design",
       "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
     },
     {
-      "rank": "9.",
+      "rank": "7.",
+      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
+      "link": "https://ncase.me/sim/"
+    },
+    {
+      "rank": "8.",
       "title": "DearPyGui",
       "link": "https://github.com/hoffstadt/DearPyGui"
+    },
+    {
+      "rank": "9.",
+      "title": "Inventing Monads",
+      "link": "https://stopa.io/post/247"
     },
     {
       "rank": "10.",
@@ -72,58 +72,58 @@
     },
     {
       "rank": "15.",
-      "title": "How close are computers to automating mathematical reasoning?",
-      "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
-    },
-    {
-      "rank": "16.",
       "title": "Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]",
       "link": "http://www.vldb.org/pvldb/vol13/p3181-adams.pdf"
     },
     {
-      "rank": "17.",
-      "title": "Don't trust default timeouts",
-      "link": "https://robertovitillo.com/default-timeouts/"
-    },
-    {
-      "rank": "18.",
-      "title": "Babylonian Multiplication in the shower (2016)",
-      "link": "https://www.iquilezles.org/blog/?p=4582"
-    },
-    {
-      "rank": "19.",
-      "title": "Building storage-first serverless apps with HTTP APIs service integrations",
-      "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
-    },
-    {
-      "rank": "20.",
-      "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
-      "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
-    },
-    {
-      "rank": "21.",
-      "title": "Super Tux Kart – Linux racing game",
-      "link": "https://supertuxkart.net/"
-    },
-    {
-      "rank": "22.",
-      "title": "What can 6,000 electric vehicles tell us about EV battery health?",
-      "link": "https://www.geotab.com/blog/ev-battery-health/"
-    },
-    {
-      "rank": "23.",
-      "title": "ArangoDB 3.7 – a big step forward for multi-model",
-      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
-    },
-    {
-      "rank": "24.",
+      "rank": "16.",
       "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
       "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
     },
     {
-      "rank": "25.",
+      "rank": "17.",
+      "title": "How close are computers to automating mathematical reasoning?",
+      "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
+    },
+    {
+      "rank": "18.",
+      "title": "Don't trust default timeouts",
+      "link": "https://robertovitillo.com/default-timeouts/"
+    },
+    {
+      "rank": "19.",
+      "title": "Babylonian Multiplication in the shower (2016)",
+      "link": "https://www.iquilezles.org/blog/?p=4582"
+    },
+    {
+      "rank": "20.",
+      "title": "Super Tux Kart – Linux racing game",
+      "link": "https://supertuxkart.net/"
+    },
+    {
+      "rank": "21.",
+      "title": "What can 6,000 electric vehicles tell us about EV battery health?",
+      "link": "https://www.geotab.com/blog/ev-battery-health/"
+    },
+    {
+      "rank": "22.",
+      "title": "ArangoDB 3.7 – a big step forward for multi-model",
+      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
+    },
+    {
+      "rank": "23.",
       "title": "Design Tip: Never Use Black (2012)",
       "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
+    },
+    {
+      "rank": "24.",
+      "title": "Building storage-first serverless apps with HTTP APIs service integrations",
+      "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
+    },
+    {
+      "rank": "25.",
+      "title": "The mysterious Cold War case of unidentified aircraft descending on Loring AFB",
+      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
     },
     {
       "rank": "26.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "The mysterious Cold War case of unidentified aircraft descending on Loring AFB",
-      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
+      "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
+      "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
     },
     {
       "rank": "28.",
