@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
-      "title": "How to Fix Gimbal Lock in N-Dimensions",
-      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
-    },
-    {
-      "rank": "4.",
       "title": "Life Is Short (2016)",
       "link": "http://paulgraham.com/vb.html"
     },
     {
+      "rank": "4.",
+      "title": "How to Fix Gimbal Lock in N-Dimensions",
+      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
+    },
+    {
       "rank": "5.",
-      "title": "Netflix is now doing per-shot encoding for UHD content",
-      "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
+      "title": "Malloc Geiger Counter",
+      "link": "https://github.com/laserallan/malloc_geiger"
     },
     {
       "rank": "6.",
-      "title": "Malloc Geiger Counter",
-      "link": "https://github.com/laserallan/malloc_geiger"
+      "title": "Netflix is now doing per-shot encoding for UHD content",
+      "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
     },
     {
       "rank": "7.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Objective-Rust",
-      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
+      "title": "GH Archive",
+      "link": "https://www.gharchive.org/"
     },
     {
       "rank": "11.",
-      "title": "GoodRx S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
+      "title": "Objective-Rust",
+      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
+      "title": "GoodRx S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
+    },
+    {
+      "rank": "14.",
       "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
       "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Tell HN: Check medium's localstorage if you use adblock",
       "link": "item?id=24310778"
-    },
-    {
-      "rank": "15.",
-      "title": "GH Archive",
-      "link": "https://www.gharchive.org/"
     },
     {
       "rank": "16.",
@@ -82,68 +82,68 @@
     },
     {
       "rank": "17.",
-      "title": "Ethereum Is a Dark Forest",
-      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
-    },
-    {
-      "rank": "18.",
-      "title": "The World of Legacy IT Systems",
-      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
-    },
-    {
-      "rank": "19.",
-      "title": "The Jellyfish Problem",
-      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
-    },
-    {
-      "rank": "20.",
-      "title": "Neuralink Progress Update [video]",
-      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
-    },
-    {
-      "rank": "21.",
-      "title": "Show HN: 3D first person game rendered in CSS/HTML",
-      "link": "https://pantel.is/projects/css3d/"
-    },
-    {
-      "rank": "22.",
-      "title": "Lynn Conway's Career Retrospective",
-      "link": "https://ai.eecs.umich.edu/people/conway/RetrospectiveT.html"
-    },
-    {
-      "rank": "23.",
-      "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
-      "link": "item?id=24306572"
-    },
-    {
-      "rank": "24.",
-      "title": "In defense of the IPO, and how to improve it",
-      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
-    },
-    {
-      "rank": "25.",
-      "title": "Show HN: Healthcare Is Dumb",
-      "link": "https://healthcareisdumb.com/"
-    },
-    {
-      "rank": "26.",
-      "title": "Retrobatch – flexible batch image processing for Mac",
-      "link": "https://flyingmeat.com/retrobatch/"
-    },
-    {
-      "rank": "27.",
-      "title": "Speaking Knots",
-      "link": "https://soender.blog/Speaking-Knots/"
-    },
-    {
-      "rank": "28.",
       "title": "Graphtage: A New Semantic Diffing Tool",
       "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
     },
     {
+      "rank": "18.",
+      "title": "Lynn Conway's Career Retrospective",
+      "link": "https://ai.eecs.umich.edu/people/conway/RetrospectiveT.html"
+    },
+    {
+      "rank": "19.",
+      "title": "Ethereum Is a Dark Forest",
+      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
+    },
+    {
+      "rank": "20.",
+      "title": "The Jellyfish Problem",
+      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+    },
+    {
+      "rank": "21.",
+      "title": "The World of Legacy IT Systems",
+      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
+    },
+    {
+      "rank": "22.",
+      "title": "Show HN: 3D first person game rendered in CSS/HTML",
+      "link": "https://pantel.is/projects/css3d/"
+    },
+    {
+      "rank": "23.",
+      "title": "Neuralink Progress Update [video]",
+      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
+    },
+    {
+      "rank": "24.",
+      "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
+      "link": "item?id=24306572"
+    },
+    {
+      "rank": "25.",
+      "title": "Babylonian Multiplication in the shower (2016)",
+      "link": "https://www.iquilezles.org/blog/?p=4582"
+    },
+    {
+      "rank": "26.",
+      "title": "Speaking Knots",
+      "link": "https://soender.blog/Speaking-Knots/"
+    },
+    {
+      "rank": "27.",
+      "title": "In defense of the IPO, and how to improve it",
+      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
+    },
+    {
+      "rank": "28.",
+      "title": "Show HN: Healthcare Is Dumb",
+      "link": "https://healthcareisdumb.com/"
+    },
+    {
       "rank": "29.",
-      "title": "Flexport is hiring employees all over the world",
-      "link": "https://www.flexport.com/careers"
+      "title": "Retrobatch – flexible batch image processing for Mac",
+      "link": "https://flyingmeat.com/retrobatch/"
     },
     {
       "rank": "30.",
