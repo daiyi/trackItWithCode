@@ -22,18 +22,18 @@
     },
     {
       "rank": "5.",
+      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
+      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
+    },
+    {
+      "rank": "6.",
       "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
       "link": "https://archive.org/details/nasa-workmanship-standards"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Metcalf Sniper Attack",
       "link": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
-    },
-    {
-      "rank": "7.",
-      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
-      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
     },
     {
       "rank": "8.",
@@ -72,38 +72,38 @@
     },
     {
       "rank": "15.",
-      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
-      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
-    },
-    {
-      "rank": "16.",
       "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
       "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
     },
     {
-      "rank": "17.",
-      "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
-      "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
+      "rank": "16.",
+      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
+      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Building storage-first serverless apps with HTTP APIs service integrations",
       "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
     },
     {
-      "rank": "19.",
-      "title": "How close are computers to automating mathematical reasoning?",
-      "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
+      "rank": "18.",
+      "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
+      "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Asciimatics – create full-screen text UIs on any platform",
       "link": "https://github.com/peterbrittain/asciimatics"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Don't trust default timeouts",
       "link": "https://robertovitillo.com/default-timeouts/"
+    },
+    {
+      "rank": "21.",
+      "title": "Babylonian Multiplication in the shower (2016)",
+      "link": "https://www.iquilezles.org/blog/?p=4582"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "Babylonian Multiplication in the shower (2016)",
-      "link": "https://www.iquilezles.org/blog/?p=4582"
+      "title": "How close are computers to automating mathematical reasoning?",
+      "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
     },
     {
       "rank": "24.",
-      "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
-      "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
-    },
-    {
-      "rank": "25.",
       "title": "Design Tip: Never Use Black (2012)",
       "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "What can 6,000 electric vehicles tell us about EV battery health?",
       "link": "https://www.geotab.com/blog/ev-battery-health/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Super Tux Kart – Linux racing game",
       "link": "https://supertuxkart.net/"
     },
     {
-      "rank": "28.",
-      "title": "The mysterious Cold War case of unidentified aircraft descending on Loring AFB",
-      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
+      "rank": "27.",
+      "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
+      "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Writing math papers in pre-LaTeX era (2010)",
       "link": "https://mathoverflow.net/questions/19930/writing-papers-in-pre-latex-era"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "She’s Got Game",
       "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
+    },
+    {
+      "rank": "30.",
+      "title": "The mysterious Cold War case of unidentified aircraft descending on Loring AFB",
+      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
     }
   ],
   "metadata": {
