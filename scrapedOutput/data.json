@@ -42,63 +42,63 @@
     },
     {
       "rank": "9.",
-      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
-      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
+      "title": "Inventing Monads",
+      "link": "https://stopa.io/post/247"
     },
     {
       "rank": "10.",
-      "title": "How close are computers to automating mathematical reasoning?",
-      "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
-    },
-    {
-      "rank": "11.",
       "title": "We Chose a Distributed SQL Database to Complement MySQL",
       "link": "https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql"
     },
     {
+      "rank": "11.",
+      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
+      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
+    },
+    {
       "rank": "12.",
-      "title": "Don't trust default timeouts",
-      "link": "https://robertovitillo.com/default-timeouts/"
+      "title": "How close are computers to automating mathematical reasoning?",
+      "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
     },
     {
       "rank": "13.",
-      "title": "ArangoDB 3.7 – a big step forward for multi-model",
-      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
-    },
-    {
-      "rank": "14.",
-      "title": "What can 6,000 electric vehicles tell us about EV battery health?",
-      "link": "https://www.geotab.com/blog/ev-battery-health/"
-    },
-    {
-      "rank": "15.",
-      "title": "Super Tux Kart – Linux racing game",
-      "link": "https://supertuxkart.net/"
-    },
-    {
-      "rank": "16.",
-      "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
-      "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
-    },
-    {
-      "rank": "17.",
-      "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
-      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
-    },
-    {
-      "rank": "18.",
       "title": "The tyranny of chairs: why we need better design",
       "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
     },
     {
+      "rank": "14.",
+      "title": "Don't trust default timeouts",
+      "link": "https://robertovitillo.com/default-timeouts/"
+    },
+    {
+      "rank": "15.",
+      "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
+      "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
+    },
+    {
+      "rank": "16.",
+      "title": "ArangoDB 3.7 – a big step forward for multi-model",
+      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
+    },
+    {
+      "rank": "17.",
+      "title": "What can 6,000 electric vehicles tell us about EV battery health?",
+      "link": "https://www.geotab.com/blog/ev-battery-health/"
+    },
+    {
+      "rank": "18.",
+      "title": "Super Tux Kart – Linux racing game",
+      "link": "https://supertuxkart.net/"
+    },
+    {
       "rank": "19.",
-      "title": "Design Tip: Never Use Black (2012)",
-      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
+      "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
+      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
     },
     {
       "rank": "20.",
-      "title": "Life Is Short (2016)",
-      "link": "http://paulgraham.com/vb.html"
+      "title": "Design Tip: Never Use Black (2012)",
+      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
     },
     {
       "rank": "21.",
@@ -112,38 +112,38 @@
     },
     {
       "rank": "23.",
-      "title": "She’s Got Game",
-      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
-    },
-    {
-      "rank": "24.",
-      "title": "Lithium ranked the highest performance web application platform",
-      "link": "https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2"
-    },
-    {
-      "rank": "25.",
       "title": "A broken algorithm that affected American transportation",
       "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
     },
     {
-      "rank": "26.",
+      "rank": "24.",
+      "title": "She’s Got Game",
+      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
+    },
+    {
+      "rank": "25.",
       "title": "Apple Terminates Epic Games' Developer Account",
       "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Writing math papers in pre-LaTeX era (2010)",
       "link": "https://mathoverflow.net/questions/19930/writing-papers-in-pre-latex-era"
     },
     {
+      "rank": "27.",
+      "title": "Lithium ranked the highest performance web application platform",
+      "link": "https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2"
+    },
+    {
       "rank": "28.",
-      "title": "GH Archive",
-      "link": "https://www.gharchive.org/"
+      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
+      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
     },
     {
       "rank": "29.",
-      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
-      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
+      "title": "GH Archive",
+      "link": "https://www.gharchive.org/"
     },
     {
       "rank": "30.",
