@@ -27,38 +27,38 @@
     },
     {
       "rank": "6.",
+      "title": "Life Is Short",
+      "link": "http://paulgraham.com/vb.html"
+    },
+    {
+      "rank": "7.",
       "title": "Hazel: A live functional programming environment featuring typed holes",
       "link": "http://hazel.org/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Intel's “cripple AMD” function (2019)",
       "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
     },
     {
-      "rank": "8.",
-      "title": "Objective-Rust",
-      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
-    },
-    {
       "rank": "9.",
-      "title": "GoodRx S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
-    },
-    {
-      "rank": "10.",
-      "title": "The Joy of Cryptography",
-      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
-    },
-    {
-      "rank": "11.",
       "title": "Show HN: Visualize Data Structures in VS Code",
       "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
     },
     {
+      "rank": "10.",
+      "title": "GoodRx S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
+    },
+    {
+      "rank": "11.",
+      "title": "Objective-Rust",
+      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
+    },
+    {
       "rank": "12.",
-      "title": "Lynn Conway, transgender pioneer of VLSI design methodology",
-      "link": "https://ai.eecs.umich.edu/people/conway/RetrospectiveT.html"
+      "title": "The Joy of Cryptography",
+      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
       "rank": "13.",
@@ -82,33 +82,33 @@
     },
     {
       "rank": "17.",
-      "title": "Flexport is hiring employees all over the world",
-      "link": "https://www.flexport.com/careers"
-    },
-    {
-      "rank": "18.",
       "title": "Ethereum Is a Dark Forest",
       "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
       "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
     },
     {
-      "rank": "20.",
-      "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
-      "link": "item?id=24306572"
+      "rank": "19.",
+      "title": "Flexport is hiring employees all over the world",
+      "link": "https://www.flexport.com/careers"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
       "link": "https://www.serialliterature.com/"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Speaking Knots",
       "link": "https://soender.blog/Speaking-Knots/"
+    },
+    {
+      "rank": "22.",
+      "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
+      "link": "item?id=24306572"
     },
     {
       "rank": "23.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "Lynn Conway, transgender pioneer of VLSI design methodology",
+      "link": "https://ai.eecs.umich.edu/people/conway/RetrospectiveT.html"
+    },
+    {
+      "rank": "26.",
       "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
       "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
     },
     {
-      "rank": "26.",
-      "title": "Pure and Applied Chess",
-      "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
-    },
-    {
       "rank": "27.",
-      "title": "Show HN: Healthcare Is Dumb",
-      "link": "https://healthcareisdumb.com/"
-    },
-    {
-      "rank": "28.",
-      "title": "Squad Wealth",
-      "link": "https://otherinter.net/squad-wealth/"
-    },
-    {
-      "rank": "29.",
       "title": "In defense of the IPO, and how to improve it",
       "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
     },
     {
+      "rank": "28.",
+      "title": "Show HN: Healthcare Is Dumb",
+      "link": "https://healthcareisdumb.com/"
+    },
+    {
+      "rank": "29.",
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+    },
+    {
       "rank": "30.",
-      "title": "Retrobatch – flexible batch image processing for Mac",
-      "link": "https://flyingmeat.com/retrobatch/"
+      "title": "Pure and Applied Chess",
+      "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
     }
   ],
   "metadata": {
