@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
-      "title": "Neuralink Progress Update, Summer 2020",
-      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
+      "title": "Game Design Curriculum",
+      "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
     },
     {
       "rank": "4.",
-      "title": "The Joy of Cryptography",
-      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
+      "title": "Ethereum Is a Dark Forest",
+      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
       "rank": "5.",
-      "title": "Game Design Curriculum",
-      "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
+      "title": "The World of Legacy IT Systems",
+      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
     },
     {
       "rank": "6.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
-      "title": "Ethereum Is a Dark Forest",
-      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
+      "title": "The Joy of Cryptography",
+      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
       "rank": "8.",
-      "title": "The World of Legacy IT Systems",
-      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
+      "title": "GoodRx S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
     },
     {
       "rank": "9.",
-      "title": "GoodRx S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
+      "title": "Neuralink Progress Update, Summer 2020",
+      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
     },
     {
       "rank": "10.",
@@ -57,33 +57,33 @@
     },
     {
       "rank": "12.",
-      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
-      "link": "https://www.serialliterature.com/"
-    },
-    {
-      "rank": "13.",
       "title": "Intel's “cripple AMD” function (2019)",
       "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
       "link": "https://qoto.org/@freemo/104765288863293481"
     },
     {
-      "rank": "15.",
-      "title": "Show HN: Healthcare Is Dumb",
-      "link": "https://healthcareisdumb.com/"
+      "rank": "14.",
+      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
+      "link": "https://www.serialliterature.com/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Show HN: 3D first person game rendered in CSS/HTML",
       "link": "https://pantel.is/projects/css3d/"
     },
     {
+      "rank": "16.",
+      "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
+      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
+    },
+    {
       "rank": "17.",
-      "title": "In Defense of the IPO, and How to Improve It",
-      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
+      "title": "Show HN: Healthcare Is Dumb",
+      "link": "https://healthcareisdumb.com/"
     },
     {
       "rank": "18.",
@@ -92,63 +92,63 @@
     },
     {
       "rank": "19.",
-      "title": "GNU/Linux Smartphone Librem 5 Evergreen Update: Mold and Milestones",
-      "link": "https://puri.sm/posts/librem-5-evergreen-update-mold-and-milestones/"
-    },
-    {
-      "rank": "20.",
       "title": "Ham radio is not dying, it's evolving",
       "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
     },
     {
+      "rank": "20.",
+      "title": "In Defense of the IPO, and How to Improve It",
+      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
+    },
+    {
       "rank": "21.",
+      "title": "GNU/Linux Smartphone Librem 5 Evergreen Update: Mold and Milestones",
+      "link": "https://puri.sm/posts/librem-5-evergreen-update-mold-and-milestones/"
+    },
+    {
+      "rank": "22.",
       "title": "Zoom is now critical infrastructure – that’s a concern",
       "link": "https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Retrobatch – flexible batch image processing for Mac",
       "link": "https://flyingmeat.com/retrobatch/"
     },
     {
-      "rank": "23.",
-      "title": "The Jellyfish Problem",
-      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+      "rank": "24.",
+      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
+      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Good vibrations: acoustic technologies in cars",
       "link": "https://physicsworld.com/a/good-vibrations-acoustic-technologies-in-cars/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "The Jellyfish Problem",
+      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+    },
+    {
+      "rank": "27.",
       "title": "Pure and Applied Chess",
       "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Firefox 80 and my confusion over its hardware accelerated video on Linux",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "Robots that can walk are now striding to market",
       "link": "https://www.economist.com/science-and-technology/2020/08/25/robots-that-can-walk-are-now-striding-to-market"
     },
     {
-      "rank": "28.",
-      "title": "Why I’m Willing to Pay a Premium for Security, Privacy, and Peace of Mind",
-      "link": "https://tirania.org/blog/archive/2020/Aug-28.html"
-    },
-    {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
       "link": "https://www.markeverglade.com/iscyberpunkdead"
-    },
-    {
-      "rank": "30.",
-      "title": "The Magic of Engineered Serendipity",
-      "link": "https://www.beondeck.com/post/the-magic-of-engineered-serendipity"
     }
   ],
   "metadata": {
