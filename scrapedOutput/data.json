@@ -27,38 +27,38 @@
     },
     {
       "rank": "6.",
-      "title": "Impact of Go AI on the professional Go world",
-      "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
-    },
-    {
-      "rank": "7.",
       "title": "The Joy of Cryptography",
       "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
+      "rank": "7.",
+      "title": "Impact of Go AI on the professional Go world",
+      "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
+    },
+    {
       "rank": "8.",
-      "title": "Flexport is hiring employees all over the world",
-      "link": "https://www.flexport.com/careers"
-    },
-    {
-      "rank": "9.",
-      "title": "GoodRx S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
-    },
-    {
-      "rank": "10.",
       "title": "Objective-Rust",
       "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
+      "rank": "9.",
+      "title": "Flexport is hiring employees all over the world",
+      "link": "https://www.flexport.com/careers"
+    },
+    {
+      "rank": "10.",
+      "title": "GoodRx S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
+    },
+    {
       "rank": "11.",
-      "title": "Show HN: Visualize Data Structures in VS Code",
-      "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
+      "title": "Ethereum Is a Dark Forest",
+      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
       "rank": "12.",
-      "title": "Ethereum Is a Dark Forest",
-      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
+      "title": "Show HN: Visualize Data Structures in VS Code",
+      "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
     },
     {
       "rank": "13.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
-      "link": "https://www.serialliterature.com/"
+      "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
+      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
     },
     {
       "rank": "17.",
-      "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
-      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
+      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
+      "link": "https://www.serialliterature.com/"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Ham radio is not dying, it's evolving",
-      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
+      "title": "Show HN: 3D first person game rendered in CSS/HTML",
+      "link": "https://pantel.is/projects/css3d/"
     },
     {
       "rank": "20.",
-      "title": "Show HN: 3D first person game rendered in CSS/HTML",
-      "link": "https://pantel.is/projects/css3d/"
+      "title": "Ham radio is not dying, it's evolving",
+      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
     },
     {
       "rank": "21.",
@@ -107,43 +107,43 @@
     },
     {
       "rank": "22.",
-      "title": "Squad Wealth",
-      "link": "https://otherinter.net/squad-wealth/"
-    },
-    {
-      "rank": "23.",
-      "title": "In Defense of the IPO, and How to Improve It",
-      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
-    },
-    {
-      "rank": "24.",
-      "title": "Retrobatch – flexible batch image processing for Mac",
-      "link": "https://flyingmeat.com/retrobatch/"
-    },
-    {
-      "rank": "25.",
-      "title": "Zoom is now critical infrastructure – that’s a concern",
-      "link": "https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/"
-    },
-    {
-      "rank": "26.",
       "title": "Pure and Applied Chess",
       "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
     },
     {
+      "rank": "23.",
+      "title": "Hazel: A live functional programming environment featuring typed holes",
+      "link": "http://hazel.org/"
+    },
+    {
+      "rank": "24.",
+      "title": "Squad Wealth",
+      "link": "https://otherinter.net/squad-wealth/"
+    },
+    {
+      "rank": "25.",
+      "title": "In Defense of the IPO, and How to Improve It",
+      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
+    },
+    {
+      "rank": "26.",
+      "title": "Retrobatch – flexible batch image processing for Mac",
+      "link": "https://flyingmeat.com/retrobatch/"
+    },
+    {
       "rank": "27.",
+      "title": "Zoom is now critical infrastructure – that’s a concern",
+      "link": "https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/"
+    },
+    {
+      "rank": "28.",
       "title": "Show HN: GoFlip – Convert videos into Flip-Book-like versions of themselves",
       "link": "https://github.com/Kadle11/GoFlip"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Firefox 80 and my confusion over its hardware accelerated video on Linux",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion"
-    },
-    {
-      "rank": "29.",
-      "title": "GNU/Linux Smartphone Librem 5 Evergreen Update: Mold and Milestones",
-      "link": "https://puri.sm/posts/librem-5-evergreen-update-mold-and-milestones/"
     },
     {
       "rank": "30.",
