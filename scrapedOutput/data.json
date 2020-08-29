@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "GH Archive",
-      "link": "https://www.gharchive.org/"
+      "title": "How to Fix Gimbal Lock in N-Dimensions",
+      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
     },
     {
       "rank": "9.",
-      "title": "How to Fix Gimbal Lock in N-Dimensions",
-      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
+      "title": "GH Archive",
+      "link": "https://www.gharchive.org/"
     },
     {
       "rank": "10.",
@@ -62,43 +62,43 @@
     },
     {
       "rank": "13.",
-      "title": "Intel's “cripple AMD” function (2019)",
-      "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
-    },
-    {
-      "rank": "14.",
       "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
       "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
     },
     {
+      "rank": "14.",
+      "title": "Intel's “cripple AMD” function (2019)",
+      "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
+    },
+    {
       "rank": "15.",
-      "title": "The Ekranoplan Is Stranded Off a Beach",
-      "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
-    },
-    {
-      "rank": "16.",
-      "title": "The Joy of Cryptography",
-      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
-    },
-    {
-      "rank": "17.",
-      "title": "Objective-Rust",
-      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
-    },
-    {
-      "rank": "18.",
       "title": "Babylonian Multiplication in the shower (2016)",
       "link": "https://www.iquilezles.org/blog/?p=4582"
     },
     {
+      "rank": "16.",
+      "title": "The Ekranoplan Is Stranded Off a Beach",
+      "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
+    },
+    {
+      "rank": "17.",
+      "title": "The Joy of Cryptography",
+      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
+    },
+    {
+      "rank": "18.",
+      "title": "Objective-Rust",
+      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
+    },
+    {
       "rank": "19.",
-      "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
-      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
+      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
+      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
     },
     {
       "rank": "20.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+      "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
+      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
     },
     {
       "rank": "21.",
@@ -107,38 +107,38 @@
     },
     {
       "rank": "22.",
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+    },
+    {
+      "rank": "23.",
       "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
       "link": "https://www.serialliterature.com/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Tell HN: Check medium's localstorage if you use adblock",
       "link": "item?id=24310778"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Ethereum Is a Dark Forest",
       "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Show HN: Healthcare Is Dumb",
       "link": "https://healthcareisdumb.com/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
       "link": "item?id=24306572"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Neuralink Progress Update [video]",
       "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
-    },
-    {
-      "rank": "28.",
-      "title": "The Jellyfish Problem",
-      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Squad Wealth",
-      "link": "https://otherinter.net/squad-wealth/"
+      "title": "The Jellyfish Problem",
+      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
     }
   ],
   "metadata": {
