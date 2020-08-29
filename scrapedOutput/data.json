@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
-      "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
-      "link": "https://archive.org/details/nasa-workmanship-standards"
-    },
-    {
-      "rank": "4.",
       "title": "Best Consumer Hard Drives: August 2020",
       "link": "https://www.anandtech.com/show/12075/best-consumer-hdds"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Sendgrid Under Siege from Hacked Accounts",
       "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
+    },
+    {
+      "rank": "5.",
+      "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
+      "link": "https://archive.org/details/nasa-workmanship-standards"
     },
     {
       "rank": "6.",
@@ -32,28 +32,28 @@
     },
     {
       "rank": "7.",
-      "title": "DearPyGui",
-      "link": "https://github.com/hoffstadt/DearPyGui"
-    },
-    {
-      "rank": "8.",
-      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
-      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
-    },
-    {
-      "rank": "9.",
       "title": "Emoji simulator – a tool to make cellular automata, with emoji",
       "link": "https://ncase.me/sim/"
     },
     {
+      "rank": "8.",
+      "title": "DearPyGui",
+      "link": "https://github.com/hoffstadt/DearPyGui"
+    },
+    {
+      "rank": "9.",
+      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
+      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
+    },
+    {
       "rank": "10.",
-      "title": "Don't trust default timeouts",
-      "link": "https://robertovitillo.com/default-timeouts/"
+      "title": "She’s Got Game",
+      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
     },
     {
       "rank": "11.",
-      "title": "Super Tux Kart – Linux racing game",
-      "link": "https://supertuxkart.net/"
+      "title": "Don't trust default timeouts",
+      "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "She’s Got Game",
-      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
+      "title": "Super Tux Kart – Linux racing game",
+      "link": "https://supertuxkart.net/"
     },
     {
       "rank": "14.",
@@ -87,38 +87,38 @@
     },
     {
       "rank": "18.",
-      "title": "How close are computers to automating mathematical reasoning?",
-      "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
-    },
-    {
-      "rank": "19.",
       "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
       "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
     },
     {
-      "rank": "20.",
-      "title": "Parsing: A Timeline (2014)",
-      "link": "http://blogs.perl.org/users/jeffrey_kegler/2014/09/parsing-a-timeline.html"
-    },
-    {
-      "rank": "21.",
-      "title": "The Prophecies of Q: American conspiracy theories entering a dangerous new phase",
-      "link": "https://www.theatlantic.com/magazine/archive/2020/06/qanon-nothing-can-stop-what-is-coming/610567/"
-    },
-    {
-      "rank": "22.",
-      "title": "Top Biofuel Crops",
-      "link": "https://auto.howstuffworks.com/fuel-efficiency/biofuels/10-biofuel-crops.htm"
-    },
-    {
-      "rank": "23.",
+      "rank": "19.",
       "title": "Apple Terminates Epic Games' Developer Account",
       "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
     },
     {
-      "rank": "24.",
+      "rank": "20.",
+      "title": "How close are computers to automating mathematical reasoning?",
+      "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
+    },
+    {
+      "rank": "21.",
+      "title": "Top Biofuel Crops",
+      "link": "https://auto.howstuffworks.com/fuel-efficiency/biofuels/10-biofuel-crops.htm"
+    },
+    {
+      "rank": "22.",
+      "title": "Parsing: A Timeline (2014)",
+      "link": "http://blogs.perl.org/users/jeffrey_kegler/2014/09/parsing-a-timeline.html"
+    },
+    {
+      "rank": "23.",
       "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
       "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
+    },
+    {
+      "rank": "24.",
+      "title": "Now you C me, now you don't",
+      "link": "https://securitylab.github.com/research/now-you-c-me"
     },
     {
       "rank": "25.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "Now you C me, now you don't",
-      "link": "https://securitylab.github.com/research/now-you-c-me"
+      "title": "Apple blocked Facebook's attempt to tell users about 30% App Store 'tax'",
+      "link": "https://www.cnet.com/news/apple-blocked-facebooks-attempt-to-tell-users-about-30-app-store-tax/"
     },
     {
       "rank": "27.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Why Understanding Beats Knowledge",
-      "link": "https://swizec.com/blog/why-understanding-beats-knowledge/"
+      "title": "The Prophecies of Q: American conspiracy theories entering a dangerous new phase",
+      "link": "https://www.theatlantic.com/magazine/archive/2020/06/qanon-nothing-can-stop-what-is-coming/610567/"
     }
   ],
   "metadata": {
