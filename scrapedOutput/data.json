@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
+      "title": "Super Tux Kart – Linux racing game",
+      "link": "https://supertuxkart.net/"
+    },
+    {
+      "rank": "4.",
       "title": "She’s Got Game",
       "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Remote Code Execution in Slack desktop apps",
       "link": "https://hackerone.com/reports/783877"
-    },
-    {
-      "rank": "5.",
-      "title": "Super Tux Kart – Linux racing game",
-      "link": "https://supertuxkart.net/"
     },
     {
       "rank": "6.",
@@ -37,33 +37,33 @@
     },
     {
       "rank": "8.",
-      "title": "Don't trust default timeouts",
-      "link": "https://robertovitillo.com/default-timeouts/"
-    },
-    {
-      "rank": "9.",
-      "title": "ArangoDB 3.7 – a big step forward for multi-model",
-      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
-    },
-    {
-      "rank": "10.",
-      "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
-      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
-    },
-    {
-      "rank": "11.",
       "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
       "link": "https://archive.org/details/nasa-workmanship-standards"
     },
     {
+      "rank": "9.",
+      "title": "Don't trust default timeouts",
+      "link": "https://robertovitillo.com/default-timeouts/"
+    },
+    {
+      "rank": "10.",
+      "title": "Apple blocked Facebook's attempt to tell users about 30% App Store 'tax'",
+      "link": "https://www.cnet.com/news/apple-blocked-facebooks-attempt-to-tell-users-about-30-app-store-tax/"
+    },
+    {
+      "rank": "11.",
+      "title": "ArangoDB 3.7 – a big step forward for multi-model",
+      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
+    },
+    {
       "rank": "12.",
-      "title": "What can 6,000 electric vehicles tell us about EV battery health?",
-      "link": "https://www.geotab.com/blog/ev-battery-health/"
+      "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
+      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
     },
     {
       "rank": "13.",
-      "title": "Apple blocked Facebook's attempt to tell users about 30% App Store 'tax'",
-      "link": "https://www.cnet.com/news/apple-blocked-facebooks-attempt-to-tell-users-about-30-app-store-tax/"
+      "title": "DearPyGui",
+      "link": "https://github.com/hoffstadt/DearPyGui"
     },
     {
       "rank": "14.",
@@ -82,33 +82,33 @@
     },
     {
       "rank": "17.",
+      "title": "What can 6,000 electric vehicles tell us about EV battery health?",
+      "link": "https://www.geotab.com/blog/ev-battery-health/"
+    },
+    {
+      "rank": "18.",
       "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
       "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Top Biofuel Crops",
       "link": "https://auto.howstuffworks.com/fuel-efficiency/biofuels/10-biofuel-crops.htm"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Apple Terminates Epic Games' Developer Account",
       "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Now you C me, now you don't",
       "link": "https://securitylab.github.com/research/now-you-c-me"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Google offers to help others with the tricky ethics of AI",
       "link": "https://arstechnica.com/tech-policy/2020/08/google-offers-to-help-others-with-the-tricky-ethics-of-ai/"
-    },
-    {
-      "rank": "22.",
-      "title": "Why Understanding Beats Knowledge",
-      "link": "https://swizec.com/blog/why-understanding-beats-knowledge/"
     },
     {
       "rank": "23.",
@@ -117,28 +117,28 @@
     },
     {
       "rank": "24.",
+      "title": "Why Understanding Beats Knowledge",
+      "link": "https://swizec.com/blog/why-understanding-beats-knowledge/"
+    },
+    {
+      "rank": "25.",
       "title": "WebAssembly Is Not a Stack Machine (2019)",
       "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "GH Archive",
       "link": "https://www.gharchive.org/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Design Tip: Never Use Black (2012)",
       "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "A broken algorithm that poisoned American transportation",
       "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
-    },
-    {
-      "rank": "28.",
-      "title": "The US is going into hyperinflation",
-      "link": "https://seekingalpha.com/article/4371490-united-states-is-going-hyperinflation"
     },
     {
       "rank": "29.",
