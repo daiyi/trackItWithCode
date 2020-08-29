@@ -27,38 +27,38 @@
     },
     {
       "rank": "6.",
-      "title": "The tyranny of chairs: why we need better design",
-      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
-    },
-    {
-      "rank": "7.",
       "title": "Metcalf Sniper Attack",
       "link": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
     },
     {
+      "rank": "7.",
+      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
+      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
+    },
+    {
       "rank": "8.",
+      "title": "The tyranny of chairs: why we need better design",
+      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
+    },
+    {
+      "rank": "9.",
       "title": "Inventing Monads",
       "link": "https://stopa.io/post/247"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Emoji simulator – a tool to make cellular automata, with emoji",
       "link": "https://ncase.me/sim/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Remote Code Execution in Slack desktop apps",
       "link": "https://hackerone.com/reports/783877"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "DearPyGui",
       "link": "https://github.com/hoffstadt/DearPyGui"
-    },
-    {
-      "rank": "12.",
-      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
-      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
     },
     {
       "rank": "13.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
-      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
+      "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
+      "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
     },
     {
       "rank": "17.",
-      "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
-      "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
+      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
+      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
       "rank": "18.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
-      "title": "Building storage-first serverless apps with HTTP APIs service integrations",
-      "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
-    },
-    {
-      "rank": "22.",
       "title": "Babylonian Multiplication in the shower (2016)",
       "link": "https://www.iquilezles.org/blog/?p=4582"
     },
     {
+      "rank": "22.",
+      "title": "Building storage-first serverless apps with HTTP APIs service integrations",
+      "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
+    },
+    {
       "rank": "23.",
-      "title": "Super Tux Kart – Linux racing game",
-      "link": "https://supertuxkart.net/"
+      "title": "Design Tip: Never Use Black (2012)",
+      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
     },
     {
       "rank": "24.",
@@ -122,23 +122,23 @@
     },
     {
       "rank": "25.",
-      "title": "Design Tip: Never Use Black (2012)",
-      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
-    },
-    {
-      "rank": "26.",
       "title": "What can 6,000 electric vehicles tell us about EV battery health?",
       "link": "https://www.geotab.com/blog/ev-battery-health/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "ArangoDB 3.7 – a big step forward for multi-model",
       "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
     },
     {
+      "rank": "27.",
+      "title": "Super Tux Kart – Linux racing game",
+      "link": "https://supertuxkart.net/"
+    },
+    {
       "rank": "28.",
-      "title": "She’s Got Game",
-      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
+      "title": "Writing math papers in pre-LaTeX era (2010)",
+      "link": "https://mathoverflow.net/questions/19930/writing-papers-in-pre-latex-era"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Writing math papers in pre-LaTeX era (2010)",
-      "link": "https://mathoverflow.net/questions/19930/writing-papers-in-pre-latex-era"
+      "title": "She’s Got Game",
+      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
     }
   ],
   "metadata": {
