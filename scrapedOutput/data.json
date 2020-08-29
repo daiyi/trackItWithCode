@@ -17,48 +17,48 @@
     },
     {
       "rank": "4.",
-      "title": "Design Tip: Never Use Black (2012)",
-      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
-    },
-    {
-      "rank": "5.",
       "title": "What can 6,000 electric vehicles tell us about EV battery health?",
       "link": "https://www.geotab.com/blog/ev-battery-health/"
     },
     {
+      "rank": "5.",
+      "title": "Design Tip: Never Use Black (2012)",
+      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
+    },
+    {
       "rank": "6.",
+      "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
+      "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
+    },
+    {
+      "rank": "7.",
       "title": "Malloc Geiger Counter",
       "link": "https://github.com/laserallan/malloc_geiger"
     },
     {
-      "rank": "7.",
-      "title": "Don't trust default timeouts",
-      "link": "https://robertovitillo.com/default-timeouts/"
-    },
-    {
       "rank": "8.",
-      "title": "Life Is Short (2016)",
-      "link": "http://paulgraham.com/vb.html"
-    },
-    {
-      "rank": "9.",
       "title": "ArangoDB 3.7 – a big step forward for multi-model",
       "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
     },
     {
+      "rank": "9.",
+      "title": "Life Is Short (2016)",
+      "link": "http://paulgraham.com/vb.html"
+    },
+    {
       "rank": "10.",
-      "title": "Apple Terminates Epic Games' Developer Account",
-      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
+      "title": "Don't trust default timeouts",
+      "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
       "rank": "11.",
-      "title": "WebAssembly Is Not a Stack Machine (2019)",
-      "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
+      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
+      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
     },
     {
       "rank": "12.",
-      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
-      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
+      "title": "Apple Terminates Epic Games' Developer Account",
+      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
     },
     {
       "rank": "13.",
@@ -72,28 +72,28 @@
     },
     {
       "rank": "15.",
+      "title": "WebAssembly Is Not a Stack Machine (2019)",
+      "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
+    },
+    {
+      "rank": "16.",
       "title": "GH Archive",
       "link": "https://www.gharchive.org/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Hazel: A live functional programming environment featuring typed holes",
       "link": "http://hazel.org/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
       "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Graphtage: A New Semantic Diffing Tool",
       "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
-    },
-    {
-      "rank": "19.",
-      "title": "The Ekranoplan Is Stranded Off a Beach",
-      "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
     },
     {
       "rank": "20.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "Tell HN: Check medium's localstorage if you use adblock",
-      "link": "item?id=24310778"
+      "title": "The Ekranoplan Is Stranded Off a Beach",
+      "link": "https://www.popularmechanics.com/military/aviation/a33808381/russia-ekranoplan-plane-boat-wrecked/"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
+      "title": "Tell HN: Check medium's localstorage if you use adblock",
+      "link": "item?id=24310778"
+    },
+    {
+      "rank": "24.",
       "title": "Netflix is now doing per-shot encoding for UHD content",
       "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Babylonian Multiplication in the shower (2016)",
       "link": "https://www.iquilezles.org/blog/?p=4582"
-    },
-    {
-      "rank": "25.",
-      "title": "The Dark Core of Personality (2018)",
-      "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
     },
     {
       "rank": "26.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
-      "link": "item?id=24306572"
+      "title": "The Dark Core of Personality (2018)",
+      "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
     },
     {
       "rank": "29.",
-      "title": "In defense of the IPO, and how to improve it",
-      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
+      "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
+      "link": "item?id=24306572"
     },
     {
       "rank": "30.",
