@@ -47,38 +47,38 @@
     },
     {
       "rank": "10.",
+      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
+      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
+    },
+    {
+      "rank": "11.",
       "title": "Game Design Curriculum",
       "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Intel's “cripple AMD” function (2019)",
       "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Hazel: A live functional programming environment featuring typed holes",
       "link": "http://hazel.org/"
     },
     {
-      "rank": "13.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
-    },
-    {
       "rank": "14.",
-      "title": "Objective-Rust",
-      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
-    },
-    {
-      "rank": "15.",
       "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
       "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
     },
     {
+      "rank": "15.",
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+    },
+    {
       "rank": "16.",
-      "title": "The Joy of Cryptography",
-      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
+      "title": "Objective-Rust",
+      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
-      "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
+      "title": "The Joy of Cryptography",
+      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
       "rank": "19.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Babylonian Multiplication in the shower (2016)",
-      "link": "https://www.iquilezles.org/blog/?p=4582"
+      "title": "Ethereum Is a Dark Forest",
+      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
       "rank": "22.",
-      "title": "Ethereum Is a Dark Forest",
-      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
+      "title": "Babylonian Multiplication in the shower (2016)",
+      "link": "https://www.iquilezles.org/blog/?p=4582"
     },
     {
       "rank": "23.",
