@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "The Joy of Cryptography",
-      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
+      "title": "Impact of Go AI on the professional Go world",
+      "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
     },
     {
       "rank": "6.",
-      "title": "Ethereum Is a Dark Forest",
-      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
+      "title": "The Joy of Cryptography",
+      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
       "rank": "7.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
-      "title": "Impact of Go AI on the professional Go world",
-      "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
+      "title": "Ethereum Is a Dark Forest",
+      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
       "rank": "9.",
-      "title": "GoodRx S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
+      "title": "Show HN: Visualize Data Structures in VS Code",
+      "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
     },
     {
       "rank": "10.",
-      "title": "Show HN: Visualize Data Structures in VS Code",
-      "link": "https://github.com/hediet/vscode-debug-visualizer/tree/master/extension"
+      "title": "GoodRx S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
     },
     {
       "rank": "11.",
@@ -57,23 +57,23 @@
     },
     {
       "rank": "12.",
-      "title": "Neuralink Progress Update, Summer 2020",
-      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
-    },
-    {
-      "rank": "13.",
       "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
       "link": "https://qoto.org/@freemo/104765288863293481"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
       "link": "https://www.serialliterature.com/"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
       "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
+    },
+    {
+      "rank": "15.",
+      "title": "Neuralink Progress Update, Summer 2020",
+      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
     },
     {
       "rank": "16.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
-      "title": "Ham radio is not dying, it's evolving",
-      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
-    },
-    {
-      "rank": "19.",
-      "title": "Squad Wealth",
-      "link": "https://otherinter.net/squad-wealth/"
-    },
-    {
-      "rank": "20.",
       "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
       "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
     },
     {
+      "rank": "19.",
+      "title": "Ham radio is not dying, it's evolving",
+      "link": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/"
+    },
+    {
+      "rank": "20.",
+      "title": "Squad Wealth",
+      "link": "https://otherinter.net/squad-wealth/"
+    },
+    {
       "rank": "21.",
-      "title": "In Defense of the IPO, and How to Improve It",
-      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
+      "title": "Retrobatch – flexible batch image processing for Mac",
+      "link": "https://flyingmeat.com/retrobatch/"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "Retrobatch – flexible batch image processing for Mac",
-      "link": "https://flyingmeat.com/retrobatch/"
+      "title": "In Defense of the IPO, and How to Improve It",
+      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
     },
     {
       "rank": "24.",
@@ -122,28 +122,28 @@
     },
     {
       "rank": "25.",
-      "title": "Good vibrations: acoustic technologies in cars",
-      "link": "https://physicsworld.com/a/good-vibrations-acoustic-technologies-in-cars/"
-    },
-    {
-      "rank": "26.",
       "title": "Pure and Applied Chess",
       "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Firefox 80 and my confusion over its hardware accelerated video on Linux",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/web/Firefox80VideoAccelConfusion"
     },
     {
+      "rank": "27.",
+      "title": "Good vibrations: acoustic technologies in cars",
+      "link": "https://physicsworld.com/a/good-vibrations-acoustic-technologies-in-cars/"
+    },
+    {
       "rank": "28.",
-      "title": "The Jellyfish Problem",
-      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+      "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
+      "link": "https://www.markeverglade.com/iscyberpunkdead"
     },
     {
       "rank": "29.",
-      "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
-      "link": "https://www.markeverglade.com/iscyberpunkdead"
+      "title": "The Jellyfish Problem",
+      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
     },
     {
       "rank": "30.",
