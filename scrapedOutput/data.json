@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
-      "title": "Best Consumer Hard Drives: August 2020",
-      "link": "https://www.anandtech.com/show/12075/best-consumer-hdds"
-    },
-    {
-      "rank": "4.",
       "title": "Sendgrid Under Siege from Hacked Accounts",
       "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
     },
     {
+      "rank": "4.",
+      "title": "Best Consumer Hard Drives: August 2020",
+      "link": "https://www.anandtech.com/show/12075/best-consumer-hdds"
+    },
+    {
       "rank": "5.",
-      "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
-      "link": "https://archive.org/details/nasa-workmanship-standards"
+      "title": "SC-IM – An ncurses spreadsheet program for the terminal",
+      "link": "https://github.com/andmarti1424/sc-im"
     },
     {
       "rank": "6.",
-      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
-      "link": "https://ncase.me/sim/"
+      "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
+      "link": "https://archive.org/details/nasa-workmanship-standards"
     },
     {
       "rank": "7.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "DearPyGui",
-      "link": "https://github.com/hoffstadt/DearPyGui"
+      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
+      "link": "https://ncase.me/sim/"
     },
     {
       "rank": "9.",
-      "title": "SC-IM – An ncurses spreadsheet program for the terminal",
-      "link": "https://github.com/andmarti1424/sc-im"
+      "title": "DearPyGui",
+      "link": "https://github.com/hoffstadt/DearPyGui"
     },
     {
       "rank": "10.",
@@ -52,103 +52,103 @@
     },
     {
       "rank": "11.",
+      "title": "How close are computers to automating mathematical reasoning?",
+      "link": "https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/"
+    },
+    {
+      "rank": "12.",
       "title": "Don't trust default timeouts",
       "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
-      "rank": "12.",
-      "title": "Super Tux Kart – Linux racing game",
-      "link": "https://supertuxkart.net/"
-    },
-    {
       "rank": "13.",
-      "title": "ArangoDB 3.7 – a big step forward for multi-model",
-      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
-    },
-    {
-      "rank": "14.",
-      "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
-      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
-    },
-    {
-      "rank": "15.",
       "title": "We Chose a Distributed SQL Database to Complement MySQL",
       "link": "https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql"
     },
     {
+      "rank": "14.",
+      "title": "ArangoDB 3.7 – a big step forward for multi-model",
+      "link": "https://www.arangodb.com/2020/08/arangodb-3-7-a-big-step-forward-for-multi-model/"
+    },
+    {
+      "rank": "15.",
+      "title": "Super Tux Kart – Linux racing game",
+      "link": "https://supertuxkart.net/"
+    },
+    {
       "rank": "16.",
-      "title": "Life Is Short (2016)",
-      "link": "http://paulgraham.com/vb.html"
-    },
-    {
-      "rank": "17.",
-      "title": "Malloc Geiger Counter",
-      "link": "https://github.com/laserallan/malloc_geiger"
-    },
-    {
-      "rank": "18.",
-      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
-      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
-    },
-    {
-      "rank": "19.",
-      "title": "Apple blocked Facebook's attempt to tell users about 30% App Store 'tax'",
-      "link": "https://www.cnet.com/news/apple-blocked-facebooks-attempt-to-tell-users-about-30-app-store-tax/"
-    },
-    {
-      "rank": "20.",
-      "title": "Lithium ranked the highest performance web application platform",
-      "link": "https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2"
-    },
-    {
-      "rank": "21.",
-      "title": "Apple Terminates Epic Games' Developer Account",
-      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
-    },
-    {
-      "rank": "22.",
-      "title": "Top Biofuel Crops",
-      "link": "https://auto.howstuffworks.com/fuel-efficiency/biofuels/10-biofuel-crops.htm"
-    },
-    {
-      "rank": "23.",
-      "title": "She’s Got Game",
-      "link": "https://restofworld.org/2020/you-just-got-pwned-habibi/"
-    },
-    {
-      "rank": "24.",
-      "title": "Writing math papers in pre-LaTeX era (2010)",
-      "link": "https://mathoverflow.net/questions/19930/writing-papers-in-pre-latex-era"
-    },
-    {
-      "rank": "25.",
-      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
-      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
-    },
-    {
-      "rank": "26.",
       "title": "What can 6,000 electric vehicles tell us about EV battery health?",
       "link": "https://www.geotab.com/blog/ev-battery-health/"
     },
     {
+      "rank": "17.",
+      "title": "The Mysterious Cold War Case of Unidentified Aircraft Descending on Loring AFB",
+      "link": "https://www.thedrive.com/the-war-zone/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
+    },
+    {
+      "rank": "18.",
+      "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
+      "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
+    },
+    {
+      "rank": "19.",
+      "title": "Life Is Short (2016)",
+      "link": "http://paulgraham.com/vb.html"
+    },
+    {
+      "rank": "20.",
+      "title": "Design Tip: Never Use Black (2012)",
+      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
+    },
+    {
+      "rank": "21.",
+      "title": "Pinterest cancels office lease in unbuilt project, citing work-from-home shift",
+      "link": "https://www.sfchronicle.com/business/article/Pinterest-cancels-huge-SF-office-lease-in-unbuilt-15523170.php"
+    },
+    {
+      "rank": "22.",
+      "title": "Malloc Geiger Counter",
+      "link": "https://github.com/laserallan/malloc_geiger"
+    },
+    {
+      "rank": "23.",
+      "title": "A broken algorithm that affected American transportation",
+      "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
+    },
+    {
+      "rank": "24.",
+      "title": "Lithium ranked the highest performance web application platform",
+      "link": "https://www.techempower.com/benchmarks/#section=test&runid=57b25c85-082a-4013-b572-b0939006eaff&hw=ph&test=composite&a=2"
+    },
+    {
+      "rank": "25.",
+      "title": "Apple Terminates Epic Games' Developer Account",
+      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
+    },
+    {
+      "rank": "26.",
+      "title": "The tyranny of chairs: why we need better design",
+      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
+    },
+    {
       "rank": "27.",
-      "title": "Parsing: A Timeline (2014)",
-      "link": "http://blogs.perl.org/users/jeffrey_kegler/2014/09/parsing-a-timeline.html"
+      "title": "Writing math papers in pre-LaTeX era (2010)",
+      "link": "https://mathoverflow.net/questions/19930/writing-papers-in-pre-latex-era"
     },
     {
       "rank": "28.",
-      "title": "The Prophecies of Q: American conspiracy theories entering a dangerous new phase",
-      "link": "https://www.theatlantic.com/magazine/archive/2020/06/qanon-nothing-can-stop-what-is-coming/610567/"
+      "title": "Using machine learning to detect deficient coverage in colonoscopy screenings",
+      "link": "https://ai.googleblog.com/2020/08/using-machine-learning-to-detect.html"
     },
     {
       "rank": "29.",
-      "title": "Now you C me, now you don't",
-      "link": "https://securitylab.github.com/research/now-you-c-me"
+      "title": "GH Archive",
+      "link": "https://www.gharchive.org/"
     },
     {
       "rank": "30.",
-      "title": "WebAssembly Is Not a Stack Machine (2019)",
-      "link": "http://troubles.md/wasm-is-not-a-stack-machine/"
+      "title": "Now you C me, now you don't",
+      "link": "https://securitylab.github.com/research/now-you-c-me"
     }
   ],
   "metadata": {
