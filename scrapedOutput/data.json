@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "The Dark Core of Personality",
-      "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
+      "title": "Remote Code Execution in Slack desktop apps",
+      "link": "https://hackerone.com/reports/783877"
     },
     {
       "rank": "6.",
-      "title": "How to Fix Gimbal Lock in N-Dimensions",
-      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
+      "title": "The Dark Core of Personality",
+      "link": "https://blogs.scientificamerican.com/beautiful-minds/the-dark-core-of-personality/"
     },
     {
       "rank": "7.",
@@ -37,38 +37,38 @@
     },
     {
       "rank": "8.",
+      "title": "How to Fix Gimbal Lock in N-Dimensions",
+      "link": "https://medium.com/swlh/how-to-fix-gimbal-lock-in-n-dimensions-f2f7baec2b5e"
+    },
+    {
+      "rank": "9.",
       "title": "A broken algorithm that poisoned American transportation",
       "link": "https://www.vice.com/en_us/article/v7gxy9/the-broken-algorithm-that-poisoned-american-transportation-v27n3"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "GH Archive",
       "link": "https://www.gharchive.org/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "The coming collision between autonomous vehicles and the liability system (2012) [pdf]",
       "link": "https://pdfs.semanticscholar.org/88c1/11a1d16a44ff3adc681e966926e101067ae1.pdf"
     },
     {
-      "rank": "11.",
-      "title": "Game Design Curriculum",
-      "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
-    },
-    {
       "rank": "12.",
-      "title": "Intel's “cripple AMD” function (2019)",
-      "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
-    },
-    {
-      "rank": "13.",
       "title": "Hazel: A live functional programming environment featuring typed holes",
       "link": "http://hazel.org/"
     },
     {
+      "rank": "13.",
+      "title": "Game Design Curriculum",
+      "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
+    },
+    {
       "rank": "14.",
-      "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
-      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
+      "title": "Intel's “cripple AMD” function (2019)",
+      "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
     },
     {
       "rank": "15.",
@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
-      "title": "Objective-Rust",
-      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
-    },
-    {
-      "rank": "17.",
-      "title": "GoodRx S-1",
-      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
-    },
-    {
-      "rank": "18.",
       "title": "The Joy of Cryptography",
       "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
+      "rank": "17.",
+      "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
+      "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
+    },
+    {
+      "rank": "18.",
+      "title": "Objective-Rust",
+      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
+    },
+    {
       "rank": "19.",
-      "title": "Tell HN: Check medium's localstorage if you use adblock",
-      "link": "item?id=24310778"
+      "title": "GoodRx S-1",
+      "link": "https://www.sec.gov/Archives/edgar/data/1809519/000119312520234662/d949310ds1.htm"
     },
     {
       "rank": "20.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
-      "title": "Ethereum Is a Dark Forest",
-      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
-    },
-    {
-      "rank": "22.",
       "title": "Babylonian Multiplication in the shower (2016)",
       "link": "https://www.iquilezles.org/blog/?p=4582"
     },
     {
+      "rank": "22.",
+      "title": "Tell HN: Check medium's localstorage if you use adblock",
+      "link": "item?id=24310778"
+    },
+    {
       "rank": "23.",
-      "title": "Neuralink Progress Update [video]",
-      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
+      "title": "Ethereum Is a Dark Forest",
+      "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
       "rank": "24.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
-      "link": "item?id=24306572"
+      "title": "Neuralink Progress Update [video]",
+      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
     },
     {
       "rank": "26.",
-      "title": "Retrobatch – flexible batch image processing for Mac",
-      "link": "https://flyingmeat.com/retrobatch/"
+      "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
+      "link": "item?id=24306572"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Retrobatch – flexible batch image processing for Mac",
+      "link": "https://flyingmeat.com/retrobatch/"
+    },
+    {
+      "rank": "29.",
       "title": "Squad Wealth",
       "link": "https://otherinter.net/squad-wealth/"
     },
     {
-      "rank": "29.",
-      "title": "Speaking Knots",
-      "link": "https://soender.blog/Speaking-Knots/"
-    },
-    {
       "rank": "30.",
-      "title": "In defense of the IPO, and how to improve it",
-      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
+      "title": "The World of Legacy IT Systems",
+      "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
     }
   ],
   "metadata": {
