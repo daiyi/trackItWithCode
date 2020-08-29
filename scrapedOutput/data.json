@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Game Design Curriculum",
-      "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
+      "title": "The Joy of Cryptography",
+      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
       "rank": "5.",
-      "title": "The Joy of Cryptography",
-      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
+      "title": "Game Design Curriculum",
+      "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
     },
     {
       "rank": "6.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
+      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
+      "link": "https://www.serialliterature.com/"
+    },
+    {
+      "rank": "13.",
       "title": "Intel's “cripple AMD” function (2019)",
       "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
       "link": "https://qoto.org/@freemo/104765288863293481"
-    },
-    {
-      "rank": "14.",
-      "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
-      "link": "https://www.serialliterature.com/"
     },
     {
       "rank": "15.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
+      "title": "In Defense of the IPO, and How to Improve It",
+      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
+    },
+    {
+      "rank": "18.",
       "title": "Squad Wealth",
       "link": "https://otherinter.net/squad-wealth/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "GNU/Linux Smartphone Librem 5 Evergreen Update: Mold and Milestones",
       "link": "https://puri.sm/posts/librem-5-evergreen-update-mold-and-milestones/"
-    },
-    {
-      "rank": "19.",
-      "title": "In Defense of the IPO, and How to Improve It",
-      "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
     },
     {
       "rank": "20.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
-      "title": "Retrobatch – flexible batch image processing for Mac",
-      "link": "https://flyingmeat.com/retrobatch/"
-    },
-    {
-      "rank": "22.",
       "title": "Zoom is now critical infrastructure – that’s a concern",
       "link": "https://www.brookings.edu/blog/techtank/2020/08/27/zoom-is-now-critical-infrastructure-thats-a-concern/"
     },
     {
+      "rank": "22.",
+      "title": "Retrobatch – flexible batch image processing for Mac",
+      "link": "https://flyingmeat.com/retrobatch/"
+    },
+    {
       "rank": "23.",
-      "title": "Pure and Applied Chess",
-      "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
+      "title": "The Jellyfish Problem",
+      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "The Jellyfish Problem",
-      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+      "title": "Pure and Applied Chess",
+      "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
     },
     {
       "rank": "26.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Why I’m Willing to Pay a Premium for Security, Privacy, and Peace of Mind",
+      "link": "https://tirania.org/blog/archive/2020/Aug-28.html"
+    },
+    {
+      "rank": "29.",
       "title": "Is Cyberpunk Dead? A Conversation with Bruce Bethke",
       "link": "https://www.markeverglade.com/iscyberpunkdead"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "The Magic of Engineered Serendipity",
       "link": "https://www.beondeck.com/post/the-magic-of-engineered-serendipity"
-    },
-    {
-      "rank": "30.",
-      "title": "Why I’m Willing to Pay a Premium for Security, Privacy, and Peace of Mind",
-      "link": "https://tirania.org/blog/archive/2020/Aug-28.html"
     }
   ],
   "metadata": {
