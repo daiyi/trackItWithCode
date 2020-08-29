@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Facebook Says Apple Blocked It from Informing About App Store 30% Fee",
-      "link": "https://www.nasdaq.com/articles/facebook-says-apple-blocked-it-from-informing-about-app-store-30-fee-2020-08-28#:~:text=Facebook%20Says%20Apple%20Blocked%20It%20From%20Informing%20About%20App%20Store%2030%25%20Fee,-Contributor&text=Facebook%20(NASDAQ%3A%20FB)%20is,to%20impart%20to%20its%20users.&text=According%20to%20Facebook%2C%20it%20asked,Image%20source%3A%20Getty%20Images."
+      "title": "Apple Terminates Epic Games' Developer Account",
+      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
     },
     {
       "rank": "3.",
-      "title": "Apple Terminates Epic Games' Developer Account",
-      "link": "https://www.macrumors.com/2020/08/28/apple-terminates-epic-games-developer-account/"
+      "title": "Facebook says Apple blocked it from informing about App Store 30% fee",
+      "link": "https://www.nasdaq.com/articles/facebook-says-apple-blocked-it-from-informing-about-app-store-30-fee-2020-08-28#:~:text=Facebook%20Says%20Apple%20Blocked%20It%20From%20Informing%20About%20App%20Store%2030%25%20Fee,-Contributor&text=Facebook%20(NASDAQ%3A%20FB)%20is,to%20impart%20to%20its%20users.&text=According%20to%20Facebook%2C%20it%20asked,Image%20source%3A%20Getty%20Images."
     },
     {
       "rank": "4.",
@@ -22,28 +22,28 @@
     },
     {
       "rank": "5.",
-      "title": "Chadwick Boseman Is Dead",
-      "link": "https://www.bbc.com/news/world-us-canada-53955912"
-    },
-    {
-      "rank": "6.",
       "title": "Netflix is now doing per-shot encoding for UHD content",
       "link": "https://netflixtechblog.com/optimized-shot-based-encodes-for-4k-now-streaming-47b516b10bbb"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Game Design Curriculum",
       "link": "https://www.riotgames.com/en/urf-academy/curriculum-guide"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Hazel: A live functional programming environment featuring typed holes",
       "link": "http://hazel.org/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Intel's “cripple AMD” function (2019)",
       "link": "https://www.agner.org/forum/viewtopic.php?f=1&t=6"
+    },
+    {
+      "rank": "9.",
+      "title": "Tell HN: Check medium's localstorage if you use adblock",
+      "link": "item?id=24310778"
     },
     {
       "rank": "10.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "Objective-Rust",
-      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
+      "title": "The Joy of Cryptography",
+      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
     },
     {
       "rank": "12.",
@@ -62,93 +62,93 @@
     },
     {
       "rank": "13.",
-      "title": "The Joy of Cryptography",
-      "link": "http://web.engr.oregonstate.edu/~rosulekm/crypto/"
+      "title": "Objective-Rust",
+      "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
     },
     {
       "rank": "14.",
-      "title": "Impact of Go AI on the professional Go world",
-      "link": "https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2"
-    },
-    {
-      "rank": "15.",
-      "title": "Google is apparently taking down all/most Fediverse apps from the Play Store",
-      "link": "https://qoto.org/@freemo/104765288863293481"
-    },
-    {
-      "rank": "16.",
-      "title": "Tell HN: Check medium's localstorage if you use adblock",
-      "link": "item?id=24310778"
-    },
-    {
-      "rank": "17.",
       "title": "Scientists build army of a million microrobots that fit inside hypodermic needle",
       "link": "https://www.cnet.com/news/scientists-build-army-of-1-million-microrobots-that-can-fit-inside-a-hypodermic-needle/"
     },
     {
-      "rank": "18.",
+      "rank": "15.",
       "title": "The World of Legacy IT Systems",
       "link": "https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems"
     },
     {
-      "rank": "19.",
+      "rank": "16.",
       "title": "Ethereum Is a Dark Forest",
       "link": "https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff"
     },
     {
-      "rank": "20.",
+      "rank": "17.",
+      "title": "The Jellyfish Problem",
+      "link": "https://www.historytoday.com/archive/natural-histories/jellyfish-problem"
+    },
+    {
+      "rank": "18.",
       "title": "Show HN: Read The Count of Monte Cristo and others in installments in your email",
       "link": "https://www.serialliterature.com/"
     },
     {
-      "rank": "21.",
-      "title": "Flexport is hiring employees all over the world",
-      "link": "https://www.flexport.com/careers"
-    },
-    {
-      "rank": "22.",
-      "title": "Speaking Knots",
-      "link": "https://soender.blog/Speaking-Knots/"
-    },
-    {
-      "rank": "23.",
-      "title": "Graphtage: A New Semantic Diffing Tool",
-      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
-    },
-    {
-      "rank": "24.",
-      "title": "Neuralink Progress Update [video]",
-      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
-    },
-    {
-      "rank": "25.",
+      "rank": "19.",
       "title": "Launch HN: SuperTokens (YC S20) – Securely manage session tokens",
       "link": "item?id=24306572"
     },
     {
-      "rank": "26.",
-      "title": "Show HN: 3D first person game rendered in CSS/HTML",
-      "link": "https://pantel.is/projects/css3d/"
+      "rank": "20.",
+      "title": "Neuralink Progress Update [video]",
+      "link": "https://www.youtube.com/watch?v=DVvmgjBL74w&hn=1"
     },
     {
-      "rank": "27.",
-      "title": "Expert overclockers successfully push DOOM Eternal past 1k frames per second",
-      "link": "https://slayersclub.bethesda.net/en/article/48xD6yVj0VsulONXKAnr7n/doom-eternal-overclocked-at-1000-fps"
+      "rank": "21.",
+      "title": "Speaking Knots",
+      "link": "https://soender.blog/Speaking-Knots/"
     },
     {
-      "rank": "28.",
-      "title": "Lynn Conway, transgender pioneer of VLSI design methodology",
-      "link": "https://ai.eecs.umich.edu/people/conway/RetrospectiveT.html"
+      "rank": "22.",
+      "title": "Flexport is hiring employees all over the world",
+      "link": "https://www.flexport.com/careers"
     },
     {
-      "rank": "29.",
+      "rank": "23.",
       "title": "In defense of the IPO, and how to improve it",
       "link": "https://a16z.com/2020/08/28/in-defense-of-the-ipo/"
     },
     {
-      "rank": "30.",
+      "rank": "24.",
+      "title": "Show HN: 3D first person game rendered in CSS/HTML",
+      "link": "https://pantel.is/projects/css3d/"
+    },
+    {
+      "rank": "25.",
+      "title": "Graphtage: A New Semantic Diffing Tool",
+      "link": "https://blog.trailofbits.com/2020/08/28/graphtage/"
+    },
+    {
+      "rank": "26.",
       "title": "Show HN: Healthcare Is Dumb",
       "link": "https://healthcareisdumb.com/"
+    },
+    {
+      "rank": "27.",
+      "title": "Retrobatch – flexible batch image processing for Mac",
+      "link": "https://flyingmeat.com/retrobatch/"
+    },
+    {
+      "rank": "28.",
+      "title": "Pure and Applied Chess",
+      "link": "https://theelectricagora.com/2020/08/28/pure-and-applied-chess/"
+    },
+    {
+      "rank": "29.",
+      "title": "Lynn Conway, transgender pioneer of VLSI design methodology",
+      "link": "https://ai.eecs.umich.edu/people/conway/RetrospectiveT.html"
+    },
+    {
+      "rank": "30.",
+      "title": "Squad Wealth",
+      "link": "https://otherinter.net/squad-wealth/"
     }
   ],
   "metadata": {
