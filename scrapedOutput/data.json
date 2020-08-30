@@ -17,18 +17,18 @@
     },
     {
       "rank": "4.",
+      "title": "A terminal-based presentation tool with colors and effects",
+      "link": "https://github.com/vinayak-mehta/present"
+    },
+    {
+      "rank": "5.",
       "title": "The Recursive Universe",
       "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
       "link": "https://www.agner.org/optimize/microarchitecture.pdf"
-    },
-    {
-      "rank": "6.",
-      "title": "A terminal-based presentation tool with colors and effects",
-      "link": "https://github.com/vinayak-mehta/present"
     },
     {
       "rank": "7.",
@@ -37,33 +37,33 @@
     },
     {
       "rank": "8.",
-      "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
-      "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
-    },
-    {
-      "rank": "9.",
-      "title": "The “menu engineers” who optimize restaurant revenue",
-      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
-    },
-    {
-      "rank": "10.",
       "title": "An interesting mistake with Go's context package that I made",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
     },
     {
-      "rank": "11.",
-      "title": "Literate DevOps",
-      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
+      "rank": "9.",
+      "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
+      "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
     },
     {
-      "rank": "12.",
+      "rank": "10.",
+      "title": "The “menu engineers” who optimize restaurant revenue",
+      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
+    },
+    {
+      "rank": "11.",
       "title": "Photoreal Roman Emperor Project",
       "link": "https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f"
     },
     {
+      "rank": "12.",
+      "title": "Literate DevOps",
+      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
+    },
+    {
       "rank": "13.",
-      "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
-      "link": "item?id=24323778"
+      "title": "Multi-Tenant Architectures",
+      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
     },
     {
       "rank": "14.",
@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
-      "title": "Most common mistakes during interviews",
-      "link": "https://aitorvs.github.io/post/most_common_mistakes_during_interviews/"
+      "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
+      "link": "item?id=24323778"
     },
     {
       "rank": "17.",
-      "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
-      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
+      "title": "Ask HN: Has anyone built a SaaS for local municipalities?",
+      "link": "item?id=24314274"
     },
     {
       "rank": "18.",
-      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
-      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
+      "title": "WebBundles are built for content-addressable networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
     },
     {
       "rank": "19.",
-      "title": "WebBundles are built for content-addressable networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
+      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "So you want to roll your own crypto?",
-      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
+      "title": "Most common mistakes during interviews",
+      "link": "https://aitorvs.github.io/post/most_common_mistakes_during_interviews/"
     },
     {
       "rank": "22.",
-      "title": "Former Cisco engineer pleads guilty to causing Webex account chaos",
-      "link": "https://www.zdnet.com/article/former-cisco-engineer-pleads-guilty-to-network-damage-wiping-16000-webex-teams-accounts/"
+      "title": "So you want to roll your own crypto?",
+      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
-      "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
-    },
-    {
-      "rank": "25.",
-      "title": "Matplot++ – A Plotting Tool for C++",
-      "link": "https://github.com/alandefreitas/matplotplusplus"
-    },
-    {
-      "rank": "26.",
       "title": "I thought I would have accomplished a lot more today and also before I was 35",
       "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
-      "rank": "27.",
+      "rank": "25.",
       "title": "The Door Problem (2014)",
       "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
     },
     {
+      "rank": "26.",
+      "title": "Matplot++ – A Plotting Tool for C++",
+      "link": "https://github.com/alandefreitas/matplotplusplus"
+    },
+    {
+      "rank": "27.",
+      "title": "Airbnb Has a Hidden-Camera Problem (2019)",
+      "link": "https://www.theatlantic.com/technology/archive/2019/03/what-happens-when-you-find-cameras-your-airbnb/585007/"
+    },
+    {
       "rank": "28.",
+      "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
+      "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
+    },
+    {
+      "rank": "29.",
       "title": "New 50-metre deep crater opens up in Arctic tundra",
       "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
     },
     {
-      "rank": "29.",
-      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
-      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
-    },
-    {
       "rank": "30.",
-      "title": "Longevity FAQ: A beginner's guide to longevity research",
-      "link": "https://www.ldeming.com/longevityfaq"
+      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
+      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
     }
   ],
   "metadata": {
