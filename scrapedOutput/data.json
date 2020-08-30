@@ -2,143 +2,143 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Level 3 Global Outage",
+      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
+    },
+    {
+      "rank": "2.",
+      "title": "The Recursive Universe",
+      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
+    },
+    {
+      "rank": "3.",
       "title": "Cloudflare is experiencing failures in its connections to hosts",
       "link": "https://www.cloudflarestatus.com/incidents/hptvkprkvp23"
     },
     {
-      "rank": "2.",
-      "title": "Why I don't give .edu discounts",
-      "link": "https://questinglog.com/why-I-dont-give-edu-discounts/"
+      "rank": "4.",
+      "title": "Originality is not the only Way; It sometimes Pays to Copy",
+      "link": "https://leveragethoughts.substack.com/p/originality-is-not-the-only-way-it"
     },
     {
-      "rank": "3.",
+      "rank": "5.",
       "title": "New 50-metre deep crater opens up in Arctic tundra",
       "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
     },
     {
-      "rank": "4.",
-      "title": "Literate DevOps",
-      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
-    },
-    {
-      "rank": "5.",
-      "title": "The rise and fall of the industrial R&D lab",
-      "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
-    },
-    {
       "rank": "6.",
-      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
-      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
-    },
-    {
-      "rank": "7.",
-      "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
-      "link": "http://www.flexboxdefense.com/"
-    },
-    {
-      "rank": "8.",
-      "title": "Longevity FAQ: A beginner's guide to longevity research",
-      "link": "https://www.ldeming.com/longevityfaq"
-    },
-    {
-      "rank": "9.",
-      "title": "So you want to roll your own crypto?",
-      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
-    },
-    {
-      "rank": "10.",
-      "title": "Matplot++ – A Plotting Tool for C++",
-      "link": "https://github.com/alandefreitas/matplotplusplus"
-    },
-    {
-      "rank": "11.",
-      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
-      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
-    },
-    {
-      "rank": "12.",
-      "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
-      "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
-    },
-    {
-      "rank": "13.",
-      "title": "Ranger: A console file manager with VI key bindings",
-      "link": "https://github.com/ranger/ranger"
-    },
-    {
-      "rank": "14.",
-      "title": "WebBundles are built for content-addressable networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
-    },
-    {
-      "rank": "15.",
       "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
       "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
     },
     {
+      "rank": "7.",
+      "title": "Literate DevOps",
+      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
+    },
+    {
+      "rank": "8.",
+      "title": "The rise and fall of the industrial R&D lab",
+      "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
+    },
+    {
+      "rank": "9.",
+      "title": "Longevity FAQ: A beginner's guide to longevity research",
+      "link": "https://www.ldeming.com/longevityfaq"
+    },
+    {
+      "rank": "10.",
+      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
+      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
+    },
+    {
+      "rank": "11.",
+      "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
+      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
+    },
+    {
+      "rank": "12.",
+      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
+      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
+    },
+    {
+      "rank": "13.",
+      "title": "WebBundles are built for content-addressable networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+    },
+    {
+      "rank": "14.",
+      "title": "So you want to roll your own crypto?",
+      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
+    },
+    {
+      "rank": "15.",
+      "title": "Matplot++ – A Plotting Tool for C++",
+      "link": "https://github.com/alandefreitas/matplotplusplus"
+    },
+    {
       "rank": "16.",
-      "title": "I thought I would have accomplished a lot more today and also before I was 35",
-      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
+      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
+      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
     },
     {
       "rank": "17.",
-      "title": "Open Source Thinkpad T420 Battery Design",
-      "link": "https://github.com/iam4722202468/ThinkpadBattery"
-    },
-    {
-      "rank": "18.",
       "title": "The Door Problem (2014)",
       "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
     },
     {
+      "rank": "18.",
+      "title": "Ranger: A console file manager with VI key bindings",
+      "link": "https://github.com/ranger/ranger"
+    },
+    {
       "rank": "19.",
-      "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
-      "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
+      "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
+      "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
     },
     {
       "rank": "20.",
-      "title": "Kazuo Ishiguro (1989)",
-      "link": "https://bombmagazine.org/articles/kazuo-ishiguro/"
+      "title": "I thought I would have accomplished a lot more today and also before I was 35",
+      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
       "rank": "21.",
-      "title": "Optical Tweezers",
-      "link": "https://en.wikipedia.org/wiki/Optical_tweezers"
-    },
-    {
-      "rank": "22.",
-      "title": "Lord of the Manor: a medieval city builder game",
-      "link": "http://www.lordofthemanor.io/"
-    },
-    {
-      "rank": "23.",
-      "title": "Horcrux Encrypted Messaging",
-      "link": "https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d"
-    },
-    {
-      "rank": "24.",
-      "title": "AI Assistants Have Poor Usability: Study of Alexa, Google Assistant, Siri (2018)",
-      "link": "https://www.nngroup.com/articles/intelligent-assistant-usability/"
-    },
-    {
-      "rank": "25.",
       "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
       "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
+      "rank": "22.",
+      "title": "Horcrux Encrypted Messaging",
+      "link": "https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d"
+    },
+    {
+      "rank": "23.",
+      "title": "Mercedes Barcha, 1932-2020",
+      "link": "https://www.ft.com/content/4f9872c5-2132-4db3-b81c-b60da01655ce"
+    },
+    {
+      "rank": "24.",
+      "title": "Lord of the Manor: a medieval city builder game",
+      "link": "http://www.lordofthemanor.io/"
+    },
+    {
+      "rank": "25.",
+      "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
+      "link": "http://www.flexboxdefense.com/"
+    },
+    {
       "rank": "26.",
-      "title": "Asciimatics – create full-screen text UIs on any platform",
-      "link": "https://github.com/peterbrittain/asciimatics"
+      "title": "Kazuo Ishiguro (1989)",
+      "link": "https://bombmagazine.org/articles/kazuo-ishiguro/"
     },
     {
       "rank": "27.",
-      "title": "Nagara Rimba Nusa: A Take on Indonesia's New Capital City",
-      "link": "https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/"
+      "title": "Optical Tweezers",
+      "link": "https://en.wikipedia.org/wiki/Optical_tweezers"
     },
     {
       "rank": "28.",
-      "title": "Griffon: a desktop application development platform for the JVM",
-      "link": "http://griffon-framework.org/"
+      "title": "Nascar: The Science of Racing Safely",
+      "link": "https://physicsworld.com/a/nascar-the-science-of-racing-safely/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "TiDB: A Raft-based HTAP Database [pdf]",
-      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
+      "title": "Griffon: a desktop application development platform for the JVM",
+      "link": "http://griffon-framework.org/"
     }
   ],
   "metadata": {
