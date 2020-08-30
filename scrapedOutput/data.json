@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
-      "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
+      "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
+      "link": "http://www.flexboxdefense.com/"
     },
     {
       "rank": "3.",
-      "title": "Sendgrid under siege from hacked accounts",
-      "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
+      "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
+      "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
     },
     {
       "rank": "4.",
@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
-      "link": "http://www.flexboxdefense.com/"
+      "title": "Sendgrid under siege from hacked accounts",
+      "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
     },
     {
       "rank": "6.",
@@ -47,23 +47,23 @@
     },
     {
       "rank": "10.",
-      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
-      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
-    },
-    {
-      "rank": "11.",
       "title": "SC-IM – An ncurses spreadsheet program for the terminal",
       "link": "https://github.com/andmarti1424/sc-im"
     },
     {
+      "rank": "11.",
+      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
+      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
+    },
+    {
       "rank": "12.",
-      "title": "Cells solve mazes and respond at a distance using attractant breakdown",
-      "link": "https://science.sciencemag.org/content/369/6507/eaay9792"
+      "title": "Asciimatics – create full-screen text UIs on any platform",
+      "link": "https://github.com/peterbrittain/asciimatics"
     },
     {
       "rank": "13.",
-      "title": "Asciimatics – create full-screen text UIs on any platform",
-      "link": "https://github.com/peterbrittain/asciimatics"
+      "title": "Cells solve mazes and respond at a distance using attractant breakdown",
+      "link": "https://science.sciencemag.org/content/369/6507/eaay9792"
     },
     {
       "rank": "14.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]",
-      "link": "http://www.vldb.org/pvldb/vol13/p3181-adams.pdf"
+      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
+      "link": "https://ncase.me/sim/"
     },
     {
       "rank": "16.",
-      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
-      "link": "https://ncase.me/sim/"
+      "title": "Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]",
+      "link": "http://www.vldb.org/pvldb/vol13/p3181-adams.pdf"
     },
     {
       "rank": "17.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
-      "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
-    },
-    {
-      "rank": "24.",
-      "title": "Guide to Rustc Development",
-      "link": "https://rustc-dev-guide.rust-lang.org/"
-    },
-    {
-      "rank": "25.",
       "title": "Engineer admits he wiped 456 Cisco WebEx VMs from AWS after leaving",
       "link": "https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/"
     },
     {
+      "rank": "24.",
+      "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
+      "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
+    },
+    {
+      "rank": "25.",
+      "title": "Guide to Rustc Development",
+      "link": "https://rustc-dev-guide.rust-lang.org/"
+    },
+    {
       "rank": "26.",
+      "title": "Apple doesn't let you disclose their 30% IAP fee to your customers",
+      "link": "https://twitter.com/getify/status/1299569045348454401"
+    },
+    {
+      "rank": "27.",
       "title": "Building storage-first serverless apps with HTTP APIs service integrations",
       "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
       "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Don't trust default timeouts",
       "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Babylonian Multiplication in the shower (2016)",
       "link": "https://www.iquilezles.org/blog/?p=4582"
-    },
-    {
-      "rank": "30.",
-      "title": "Apple doesn't let you disclose their 30% IAP fee to your customers",
-      "link": "https://twitter.com/getify/status/1299569045348454401"
     }
   ],
   "metadata": {
