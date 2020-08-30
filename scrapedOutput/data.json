@@ -12,33 +12,33 @@
     },
     {
       "rank": "3.",
-      "title": "I thought I would have accomplished a lot more today and also before I was 35",
-      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
-    },
-    {
-      "rank": "4.",
       "title": "So you want to roll your own crypto?",
       "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
       "link": "http://www.flexboxdefense.com/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Matplot++ – A Plotting Tool for C++",
       "link": "https://github.com/alandefreitas/matplotplusplus"
     },
     {
+      "rank": "6.",
+      "title": "Kazuo Ishiguro (1989)",
+      "link": "https://bombmagazine.org/articles/kazuo-ishiguro/"
+    },
+    {
       "rank": "7.",
-      "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
-      "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
+      "title": "I thought I would have accomplished a lot more today and also before I was 35",
+      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
       "rank": "8.",
-      "title": "Deep Dive into PHP 8's JIT",
-      "link": "https://thephp.website/en/issue/php-8-jit/"
+      "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
+      "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Guaranteed Optimization: Proving Nullspace Properties of Compilers (2002)",
-      "link": "https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR564"
+      "title": "Open Source Thinkpad T420 Battery Design",
+      "link": "https://github.com/iam4722202468/ThinkpadBattery"
     },
     {
       "rank": "11.",
-      "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
-      "link": "https://archive.org/details/nasa-workmanship-standards"
+      "title": "Guaranteed Optimization: Proving Nullspace Properties of Compilers (2002)",
+      "link": "https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR564"
     },
     {
       "rank": "12.",
@@ -62,28 +62,28 @@
     },
     {
       "rank": "13.",
-      "title": "Open Source Thinkpad T420 Battery Design",
-      "link": "https://github.com/iam4722202468/ThinkpadBattery"
-    },
-    {
-      "rank": "14.",
       "title": "Nagara Rimba Nusa: A Take on Indonesia's New Capital City",
       "link": "https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/"
     },
     {
-      "rank": "15.",
-      "title": "Kazuo Ishiguro (1989)",
-      "link": "https://bombmagazine.org/articles/kazuo-ishiguro/"
-    },
-    {
-      "rank": "16.",
+      "rank": "14.",
       "title": "Longevity FAQ: A beginner's guide to longevity research",
       "link": "https://www.ldeming.com/longevityfaq"
     },
     {
-      "rank": "17.",
+      "rank": "15.",
+      "title": "Deep Dive into PHP 8's JIT",
+      "link": "https://thephp.website/en/issue/php-8-jit/"
+    },
+    {
+      "rank": "16.",
       "title": "Sendgrid under siege from hacked accounts",
       "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
+    },
+    {
+      "rank": "17.",
+      "title": "Pleroma 2.1",
+      "link": "https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/"
     },
     {
       "rank": "18.",
@@ -97,18 +97,18 @@
     },
     {
       "rank": "20.",
-      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
-      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
-    },
-    {
-      "rank": "21.",
       "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
       "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
+      "rank": "21.",
+      "title": "Asciimatics – create full-screen text UIs on any platform",
+      "link": "https://github.com/peterbrittain/asciimatics"
+    },
+    {
       "rank": "22.",
-      "title": "Pleroma 2.1",
-      "link": "https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/"
+      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
+      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
     },
     {
       "rank": "23.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "TiDB: A Raft-based HTAP Database [pdf]",
-      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
+      "title": "DearPyGui",
+      "link": "https://github.com/hoffstadt/DearPyGui"
     },
     {
       "rank": "25.",
-      "title": "Asciimatics – create full-screen text UIs on any platform",
-      "link": "https://github.com/peterbrittain/asciimatics"
+      "title": "TiDB: A Raft-based HTAP Database [pdf]",
+      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "DearPyGui",
-      "link": "https://github.com/hoffstadt/DearPyGui"
-    },
-    {
-      "rank": "28.",
       "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
       "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Emoji simulator – a tool to make cellular automata, with emoji",
       "link": "https://ncase.me/sim/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Inventing Monads",
       "link": "https://stopa.io/post/247"
+    },
+    {
+      "rank": "30.",
+      "title": "The tyranny of chairs: why we need better design",
+      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
     }
   ],
   "metadata": {
