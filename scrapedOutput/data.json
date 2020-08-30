@@ -27,78 +27,78 @@
     },
     {
       "rank": "6.",
-      "title": "Essentials of Programming Languages",
-      "link": "http://eopl3.com/"
-    },
-    {
-      "rank": "7.",
       "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
       "link": "http://vimacapp.com"
     },
     {
+      "rank": "7.",
+      "title": "Essentials of Programming Languages",
+      "link": "http://eopl3.com/"
+    },
+    {
       "rank": "8.",
-      "title": "After 48 years, Democrats endorse nuclear energy in platform",
-      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
-    },
-    {
-      "rank": "9.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
-    },
-    {
-      "rank": "10.",
-      "title": "The Recursive Universe",
-      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
-    },
-    {
-      "rank": "11.",
-      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
-      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
-    },
-    {
-      "rank": "12.",
-      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
-      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
-    },
-    {
-      "rank": "13.",
-      "title": "Multi-Tenant Architectures",
-      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
-    },
-    {
-      "rank": "14.",
-      "title": "The Unexpected Elegance of Irrigation Systems from Above",
-      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
-    },
-    {
-      "rank": "15.",
-      "title": "The “menu engineers” who optimize restaurant revenue",
-      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
-    },
-    {
-      "rank": "16.",
-      "title": "How to Write Unmaintainable Code",
-      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
-    },
-    {
-      "rank": "17.",
-      "title": "Facebook isn’t happy about Apple’s upcoming ad tracking restrictions",
-      "link": "https://techcrunch.com/2020/08/27/facebook-vs-apple-ad-tracking/"
-    },
-    {
-      "rank": "18.",
       "title": "Chrome is not the new IE",
       "link": "https://threadreaderapp.com/thread/1299136717027336192"
     },
     {
-      "rank": "19.",
+      "rank": "9.",
+      "title": "After 48 years, Democrats endorse nuclear energy in platform",
+      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+    },
+    {
+      "rank": "10.",
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+    },
+    {
+      "rank": "11.",
+      "title": "The Recursive Universe",
+      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
+    },
+    {
+      "rank": "12.",
+      "title": "How to Write Unmaintainable Code",
+      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
+    },
+    {
+      "rank": "13.",
+      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
+      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+    },
+    {
+      "rank": "14.",
+      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
+      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
+    },
+    {
+      "rank": "15.",
+      "title": "The Unexpected Elegance of Irrigation Systems from Above",
+      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
+    },
+    {
+      "rank": "16.",
+      "title": "Multi-Tenant Architectures",
+      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
+    },
+    {
+      "rank": "17.",
+      "title": "The “menu engineers” who optimize restaurant revenue",
+      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
+    },
+    {
+      "rank": "18.",
       "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
       "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Ask HN: Has anyone built a SaaS for local municipalities?",
       "link": "item?id=24314274"
+    },
+    {
+      "rank": "20.",
+      "title": "Facebook isn’t happy about Apple’s upcoming ad tracking restrictions",
+      "link": "https://techcrunch.com/2020/08/27/facebook-vs-apple-ad-tracking/"
     },
     {
       "rank": "21.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
-      "title": "Literate DevOps",
-      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
+      "title": "Evangelicals are looking for answers online. They’re finding QAnon instead",
+      "link": "https://www.technologyreview.com/2020/08/26/1007611/how-qanon-is-targeting-evangelicals/"
     },
     {
       "rank": "26.",
-      "title": "We Know How to Prevent Megafires",
-      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
+      "title": "Ask HN: How many of you are employed, self-taught SWEs?",
+      "link": "item?id=24325548"
     },
     {
       "rank": "27.",
-      "title": "Ask HN: How many of you are employed, self-taught SWEs?",
-      "link": "item?id=24325548"
+      "title": "We Know How to Prevent Megafires",
+      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Albanian Civil War",
-      "link": "https://en.wikipedia.org/wiki/Albanian_Civil_War"
+      "title": "Frank Ramsey: A more human philosophy",
+      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
     },
     {
       "rank": "30.",
-      "title": "Frank Ramsey: A more human philosophy",
-      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
+      "title": "Albanian Civil War",
+      "link": "https://en.wikipedia.org/wiki/Albanian_Civil_War"
     }
   ],
   "metadata": {
