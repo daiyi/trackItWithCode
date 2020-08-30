@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "Guaranteed Optimization: Proving Nullspace Properties of Compilers (2002)",
-      "link": "https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR564"
-    },
-    {
-      "rank": "12.",
       "title": "Lord of the Manor: a medieval city builder game",
       "link": "http://www.lordofthemanor.io/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Nagara Rimba Nusa: A Take on Indonesia's New Capital City",
       "link": "https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/"
     },
     {
+      "rank": "13.",
+      "title": "Guaranteed Optimization: Proving Nullspace Properties of Compilers (2002)",
+      "link": "https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR564"
+    },
+    {
       "rank": "14.",
-      "title": "Longevity FAQ: A beginner's guide to longevity research",
-      "link": "https://www.ldeming.com/longevityfaq"
+      "title": "Deep Dive into PHP 8's JIT",
+      "link": "https://thephp.website/en/issue/php-8-jit/"
     },
     {
       "rank": "15.",
-      "title": "Deep Dive into PHP 8's JIT",
-      "link": "https://thephp.website/en/issue/php-8-jit/"
+      "title": "Longevity FAQ: A beginner's guide to longevity research",
+      "link": "https://www.ldeming.com/longevityfaq"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
-      "title": "Pleroma 2.1",
-      "link": "https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/"
-    },
-    {
-      "rank": "18.",
       "title": "SC-IM – An ncurses spreadsheet program for the terminal",
       "link": "https://github.com/andmarti1424/sc-im"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
       "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
+    },
+    {
+      "rank": "19.",
+      "title": "Pleroma 2.1",
+      "link": "https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/"
     },
     {
       "rank": "20.",
@@ -117,33 +117,33 @@
     },
     {
       "rank": "24.",
+      "title": "Secrets of Elite College Admissions",
+      "link": "https://www.wsj.com/articles/the-secrets-of-elite-college-admissions-11598626784"
+    },
+    {
+      "rank": "25.",
       "title": "DearPyGui",
       "link": "https://github.com/hoffstadt/DearPyGui"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "TiDB: A Raft-based HTAP Database [pdf]",
       "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Griffon: a desktop application development platform for the JVM",
       "link": "http://griffon-framework.org/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
       "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Emoji simulator – a tool to make cellular automata, with emoji",
       "link": "https://ncase.me/sim/"
-    },
-    {
-      "rank": "29.",
-      "title": "Inventing Monads",
-      "link": "https://stopa.io/post/247"
     },
     {
       "rank": "30.",
