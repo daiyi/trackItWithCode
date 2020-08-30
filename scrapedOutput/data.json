@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
-      "link": "https://webrtcforthecurious.com/"
+      "title": "Players Are Fixing Microsoft Flight Simulator’s Monuments with Google Maps",
+      "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
     },
     {
       "rank": "3.",
-      "title": "Players Are Fixing Microsoft Flight Simulator’s Monuments with Google Maps",
-      "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
+      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
+      "link": "https://webrtcforthecurious.com/"
     },
     {
       "rank": "4.",
@@ -42,28 +42,28 @@
     },
     {
       "rank": "9.",
-      "title": "The Unexpected Elegance of Irrigation Systems from Above",
-      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
-    },
-    {
-      "rank": "10.",
-      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
-      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
-    },
-    {
-      "rank": "11.",
       "title": "After 48 years, Democrats endorse nuclear energy in platform",
       "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
     },
     {
-      "rank": "12.",
+      "rank": "10.",
       "title": "Multi-Tenant Architectures",
       "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
     },
     {
+      "rank": "11.",
+      "title": "The Unexpected Elegance of Irrigation Systems from Above",
+      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
+    },
+    {
+      "rank": "12.",
+      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
+      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
+    },
+    {
       "rank": "13.",
-      "title": "Yml Coding",
-      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
+      "title": "The Legend of GayBlade",
+      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
     },
     {
       "rank": "14.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
-      "title": "The Legend of GayBlade",
-      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
+      "title": "Yml Coding",
+      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
     },
     {
       "rank": "16.",
-      "title": "The “menu engineers” who optimize restaurant revenue",
-      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
+      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
+      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
     },
     {
       "rank": "17.",
-      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
-      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+      "title": "The “menu engineers” who optimize restaurant revenue",
+      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
     },
     {
       "rank": "18.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Airbnb Has a Hidden-Camera Problem (2019)",
-      "link": "https://www.theatlantic.com/technology/archive/2019/03/what-happens-when-you-find-cameras-your-airbnb/585007/"
+      "title": "The rise and fall of the industrial R&D lab",
+      "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
     },
     {
       "rank": "23.",
-      "title": "The rise and fall of the industrial R&D lab",
-      "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
+      "title": "Frank Ramsey: A more human philosophy",
+      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
     },
     {
       "rank": "24.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Frank Ramsey: A more human philosophy",
-      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
-    },
-    {
-      "rank": "27.",
-      "title": "An interesting mistake with Go's context package that I made",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
-    },
-    {
-      "rank": "28.",
       "title": "WebBundles are built for content-addressable networks",
       "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
       "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
       "link": "item?id=24323778"
     },
     {
-      "rank": "30.",
+      "rank": "28.",
+      "title": "An interesting mistake with Go's context package that I made",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
+    },
+    {
+      "rank": "29.",
       "title": "The Door Problem (2014)",
       "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
+    },
+    {
+      "rank": "30.",
+      "title": "I thought I would have accomplished a lot more today and also before I was 35",
+      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     }
   ],
   "metadata": {
