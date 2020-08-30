@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "A terminal-based presentation tool with colors and effects",
-      "link": "https://github.com/vinayak-mehta/present"
+      "title": "Players Are Fixing Microsoft Flight Simulator’s Monuments with Google Maps",
+      "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
     },
     {
       "rank": "4.",
-      "title": "Players Are Fixing Microsoft Flight Simulator’s Monuments with Google Maps",
-      "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
+      "title": "A terminal-based presentation tool with colors and effects",
+      "link": "https://github.com/vinayak-mehta/present"
     },
     {
       "rank": "5.",
@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+      "title": "The Recursive Universe",
+      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
     },
     {
       "rank": "8.",
-      "title": "The Recursive Universe",
-      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
       "rank": "9.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "Albanian Civil War",
-      "link": "https://en.wikipedia.org/wiki/Albanian_Civil_War"
+      "title": "After 48 years, Democrats endorse nuclear energy in platform",
+      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
     },
     {
       "rank": "12.",
@@ -67,33 +67,33 @@
     },
     {
       "rank": "14.",
-      "title": "After 48 years, Democrats endorse nuclear energy in platform",
-      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+      "title": "Albanian Civil War",
+      "link": "https://en.wikipedia.org/wiki/Albanian_Civil_War"
     },
     {
       "rank": "15.",
+      "title": "The Legend of GayBlade",
+      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
+    },
+    {
+      "rank": "16.",
       "title": "The “menu engineers” who optimize restaurant revenue",
       "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
     },
     {
-      "rank": "16.",
-      "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
-      "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
-    },
-    {
       "rank": "17.",
-      "title": "Ask HN: Has anyone built a SaaS for local municipalities?",
-      "link": "item?id=24314274"
-    },
-    {
-      "rank": "18.",
       "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
       "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
     },
     {
+      "rank": "18.",
+      "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
+      "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
+    },
+    {
       "rank": "19.",
-      "title": "Literate DevOps",
-      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
+      "title": "Ask HN: Has anyone built a SaaS for local municipalities?",
+      "link": "item?id=24314274"
     },
     {
       "rank": "20.",
@@ -102,28 +102,28 @@
     },
     {
       "rank": "21.",
-      "title": "Photoreal Roman Emperor Project",
-      "link": "https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f"
+      "title": "Literate DevOps",
+      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
     },
     {
       "rank": "22.",
-      "title": "The rise and fall of the industrial R&D lab",
-      "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
-    },
-    {
-      "rank": "23.",
-      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
-      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
-    },
-    {
-      "rank": "24.",
       "title": "Airbnb Has a Hidden-Camera Problem (2019)",
       "link": "https://www.theatlantic.com/technology/archive/2019/03/what-happens-when-you-find-cameras-your-airbnb/585007/"
     },
     {
+      "rank": "23.",
+      "title": "The rise and fall of the industrial R&D lab",
+      "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
+    },
+    {
+      "rank": "24.",
+      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
+      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
+    },
+    {
       "rank": "25.",
-      "title": "WebBundles are built for content-addressable networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+      "title": "Photoreal Roman Emperor Project",
+      "link": "https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "An interesting mistake with Go's context package that I made",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
+    },
+    {
+      "rank": "28.",
+      "title": "WebBundles are built for content-addressable networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+    },
+    {
+      "rank": "29.",
       "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
       "link": "item?id=24323778"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "The Door Problem (2014)",
       "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
-    },
-    {
-      "rank": "29.",
-      "title": "The Mega Constellations Are Already Here. The Time for Polite Concern Is Over",
-      "link": "https://www.forbes.com/sites/jonathanocallaghan/2020/08/28/the-mega-constellations-are-already-here-the-time-for-polite-concern-is-over/#5ae6bd0d3b87"
-    },
-    {
-      "rank": "30.",
-      "title": "An interesting mistake with Go's context package that I made",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
     }
   ],
   "metadata": {
