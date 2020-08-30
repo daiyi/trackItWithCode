@@ -7,28 +7,28 @@
     },
     {
       "rank": "2.",
-      "title": "A terminal-based presentation tool with colors and effects",
-      "link": "https://github.com/vinayak-mehta/present"
-    },
-    {
-      "rank": "3.",
       "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
       "link": "https://webrtcforthecurious.com/"
     },
     {
-      "rank": "4.",
-      "title": "Nano-diamond battery that \"lasts for 28k years\" closer to commercialization",
-      "link": "https://www.mining.com/nano-diamond-battery-that-lasts-for-28000-years-closer-to-becoming-commercial-product/"
-    },
-    {
-      "rank": "5.",
+      "rank": "3.",
       "title": "The Albanian Civil War in 1997 was sparked by pyramid scheme failures",
       "link": "https://en.wikipedia.org/wiki/Albanian_Civil_War"
     },
     {
-      "rank": "6.",
+      "rank": "4.",
+      "title": "A terminal-based presentation tool with colors and effects",
+      "link": "https://github.com/vinayak-mehta/present"
+    },
+    {
+      "rank": "5.",
       "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
       "link": "http://vimacapp.com"
+    },
+    {
+      "rank": "6.",
+      "title": "Essentials of Programming Languages",
+      "link": "http://eopl3.com/"
     },
     {
       "rank": "7.",
@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
-      "title": "Multi-Tenant Architectures",
-      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
-    },
-    {
-      "rank": "9.",
-      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
-      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
-    },
-    {
-      "rank": "10.",
       "title": "The Unexpected Elegance of Irrigation Systems from Above",
       "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
     },
     {
+      "rank": "9.",
+      "title": "Multi-Tenant Architectures",
+      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
+    },
+    {
+      "rank": "10.",
+      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
+      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
+    },
+    {
       "rank": "11.",
-      "title": "Essentials of Programming Languages",
-      "link": "http://eopl3.com/"
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
       "rank": "12.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Literate DevOps",
-      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
+      "title": "Ask HN: Has anyone built a SaaS for local municipalities?",
+      "link": "item?id=24314274"
     },
     {
       "rank": "16.",
@@ -82,38 +82,38 @@
     },
     {
       "rank": "17.",
+      "title": "Literate DevOps",
+      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
+    },
+    {
+      "rank": "18.",
+      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
+      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+    },
+    {
+      "rank": "19.",
+      "title": "Frank Ramsey: A more human philosophy",
+      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
+    },
+    {
+      "rank": "20.",
       "title": "The rise and fall of the industrial R&D lab",
       "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
     },
     {
-      "rank": "18.",
-      "title": "Ask HN: Has anyone built a SaaS for local municipalities?",
-      "link": "item?id=24314274"
-    },
-    {
-      "rank": "19.",
-      "title": "We Know How to Prevent Megafires",
-      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
-    },
-    {
-      "rank": "20.",
-      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
-      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
-    },
-    {
       "rank": "21.",
-      "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
-      "link": "item?id=24323778"
-    },
-    {
-      "rank": "22.",
       "title": "Airbnb Has a Hidden-Camera Problem (2019)",
       "link": "https://www.theatlantic.com/technology/archive/2019/03/what-happens-when-you-find-cameras-your-airbnb/585007/"
     },
     {
+      "rank": "22.",
+      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
+      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
+    },
+    {
       "rank": "23.",
-      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
-      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+      "title": "We Know How to Prevent Megafires",
+      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
+      "link": "item?id=24323778"
+    },
+    {
+      "rank": "26.",
+      "title": "The Mega Constellations Are Already Here. The Time for Polite Concern Is Over",
+      "link": "https://www.forbes.com/sites/jonathanocallaghan/2020/08/28/the-mega-constellations-are-already-here-the-time-for-polite-concern-is-over/#5ae6bd0d3b87"
+    },
+    {
+      "rank": "27.",
       "title": "WebBundles are built for content-addressable networks",
       "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "The Door Problem (2014)",
       "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
     },
     {
-      "rank": "27.",
-      "title": "Ranger: A console file manager with VI key bindings",
-      "link": "https://github.com/ranger/ranger"
-    },
-    {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Matplot++ – A Plotting Tool for C++",
       "link": "https://github.com/alandefreitas/matplotplusplus"
     },
     {
-      "rank": "29.",
-      "title": "I thought I would have accomplished a lot more today and also before I was 35",
-      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
-    },
-    {
       "rank": "30.",
-      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
-      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
+      "title": "Ranger: A console file manager with VI key bindings",
+      "link": "https://github.com/ranger/ranger"
     }
   ],
   "metadata": {
