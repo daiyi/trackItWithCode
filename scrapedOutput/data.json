@@ -42,58 +42,58 @@
     },
     {
       "rank": "9.",
-      "title": "The Recursive Universe",
-      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
-    },
-    {
-      "rank": "10.",
-      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
-      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
-    },
-    {
-      "rank": "11.",
-      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
-      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
-    },
-    {
-      "rank": "12.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
-    },
-    {
-      "rank": "13.",
-      "title": "The Unexpected Elegance of Irrigation Systems from Above",
-      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
-    },
-    {
-      "rank": "14.",
-      "title": "The “menu engineers” who optimize restaurant revenue",
-      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
-    },
-    {
-      "rank": "15.",
       "title": "What Shell Am I Using?",
       "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
     },
     {
-      "rank": "16.",
-      "title": "After 48 years, Democrats endorse nuclear energy in platform",
-      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+      "rank": "10.",
+      "title": "The Recursive Universe",
+      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
     },
     {
-      "rank": "17.",
+      "rank": "11.",
+      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
+      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+    },
+    {
+      "rank": "12.",
+      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
+      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
+    },
+    {
+      "rank": "13.",
+      "title": "The “menu engineers” who optimize restaurant revenue",
+      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
+    },
+    {
+      "rank": "14.",
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+    },
+    {
+      "rank": "15.",
+      "title": "The Unexpected Elegance of Irrigation Systems from Above",
+      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
+    },
+    {
+      "rank": "16.",
       "title": "How to Write Unmaintainable Code",
       "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
       "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
     },
     {
+      "rank": "18.",
+      "title": "After 48 years, Democrats endorse nuclear energy in platform",
+      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+    },
+    {
       "rank": "19.",
-      "title": "Multi-Tenant Architectures",
-      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
+      "title": "Tech my dad banned in our house when I was a kid",
+      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
     },
     {
       "rank": "20.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
-      "title": "Tech my dad banned in our house when I was a kid",
-      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
+      "title": "Multi-Tenant Architectures",
+      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
     },
     {
       "rank": "22.",
-      "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
-      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
+      "title": "Frank Ramsey: A more human philosophy",
+      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
     },
     {
       "rank": "23.",
-      "title": "Frank Ramsey: A more human philosophy",
-      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
+      "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
+      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
     },
     {
       "rank": "24.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "WebBundles are built for content-addressable networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+      "title": "The Door Problem (2014)",
+      "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
     },
     {
       "rank": "29.",
-      "title": "The Door Problem (2014)",
-      "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
+      "title": "WebBundles are built for content-addressable networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
     },
     {
       "rank": "30.",
