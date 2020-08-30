@@ -27,48 +27,48 @@
     },
     {
       "rank": "6.",
+      "title": "Ex-neuralink employees describe rushed timelines clashing with science’s pace",
+      "link": "https://www.statnews.com/2020/08/25/elon-musk-neuralink-update-brain-machine-implants/"
+    },
+    {
+      "rank": "7.",
       "title": "Chrome is not the new IE",
       "link": "https://threadreaderapp.com/thread/1299136717027336192"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Essentials of Programming Languages",
       "link": "http://eopl3.com/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
       "link": "http://vimacapp.com"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "What Shell Am I Using?",
       "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "The Recursive Universe",
       "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
       "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
       "link": "https://www.agner.org/optimize/microarchitecture.pdf"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "The “menu engineers” who optimize restaurant revenue",
       "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
-    },
-    {
-      "rank": "14.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
       "rank": "15.",
@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+    },
+    {
+      "rank": "17.",
       "title": "How to Write Unmaintainable Code",
       "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
       "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "After 48 years, Democrats endorse nuclear energy in platform",
       "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
-    },
-    {
-      "rank": "19.",
-      "title": "Tech my dad banned in our house when I was a kid",
-      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
     },
     {
       "rank": "20.",
@@ -102,28 +102,28 @@
     },
     {
       "rank": "21.",
+      "title": "Tech my dad banned in our house when I was a kid",
+      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
+    },
+    {
+      "rank": "22.",
       "title": "Multi-Tenant Architectures",
       "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Frank Ramsey: A more human philosophy",
       "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
       "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "We Know How to Prevent Megafires",
       "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
-    },
-    {
-      "rank": "25.",
-      "title": "Horcrux Encrypted Messaging",
-      "link": "https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d"
     },
     {
       "rank": "26.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "WebBundles are built for content-addressable networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
+      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
       "rank": "30.",
-      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
-      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
+      "title": "Photoreal Roman Emperor Project",
+      "link": "https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f"
     }
   ],
   "metadata": {
