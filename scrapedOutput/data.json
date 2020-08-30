@@ -12,28 +12,28 @@
     },
     {
       "rank": "3.",
-      "title": "Cloudflare is experiencing failures in its connections to hosts",
-      "link": "https://www.cloudflarestatus.com/incidents/hptvkprkvp23"
+      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
+      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
     },
     {
       "rank": "4.",
-      "title": "Originality is not the only Way; It sometimes Pays to Copy",
-      "link": "https://leveragethoughts.substack.com/p/originality-is-not-the-only-way-it"
-    },
-    {
-      "rank": "5.",
       "title": "New 50-metre deep crater opens up in Arctic tundra",
       "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
       "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Literate DevOps",
       "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
+    },
+    {
+      "rank": "7.",
+      "title": "We Know How to Prevent Megafires",
+      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
     },
     {
       "rank": "8.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
-      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
-      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
-    },
-    {
-      "rank": "11.",
       "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
       "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
       "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
+    },
+    {
+      "rank": "12.",
+      "title": "So you want to roll your own crypto?",
+      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
     },
     {
       "rank": "13.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "So you want to roll your own crypto?",
-      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
+      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
+      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
     },
     {
       "rank": "15.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
-      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
+      "title": "The Door Problem (2014)",
+      "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
     },
     {
       "rank": "17.",
-      "title": "The Door Problem (2014)",
-      "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
+      "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
+      "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
-      "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
+      "title": "I thought I would have accomplished a lot more today and also before I was 35",
+      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
       "rank": "20.",
-      "title": "I thought I would have accomplished a lot more today and also before I was 35",
-      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
+      "title": "Originality is not the only way",
+      "link": "https://leveragethoughts.substack.com/p/originality-is-not-the-only-way-it"
     },
     {
       "rank": "21.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "Mercedes Barcha, 1932-2020",
-      "link": "https://www.ft.com/content/4f9872c5-2132-4db3-b81c-b60da01655ce"
+      "title": "Nascar: The Science of Racing Safely",
+      "link": "https://physicsworld.com/a/nascar-the-science-of-racing-safely/"
     },
     {
       "rank": "24.",
-      "title": "Lord of the Manor: a medieval city builder game",
-      "link": "http://www.lordofthemanor.io/"
+      "title": "Mercedes Barcha, 1932-2020",
+      "link": "https://www.ft.com/content/4f9872c5-2132-4db3-b81c-b60da01655ce"
     },
     {
       "rank": "25.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
-      "title": "Kazuo Ishiguro (1989)",
-      "link": "https://bombmagazine.org/articles/kazuo-ishiguro/"
-    },
-    {
-      "rank": "27.",
       "title": "Optical Tweezers",
       "link": "https://en.wikipedia.org/wiki/Optical_tweezers"
     },
     {
+      "rank": "27.",
+      "title": "Kazuo Ishiguro (1989)",
+      "link": "https://bombmagazine.org/articles/kazuo-ishiguro/"
+    },
+    {
       "rank": "28.",
-      "title": "Nascar: The Science of Racing Safely",
-      "link": "https://physicsworld.com/a/nascar-the-science-of-racing-safely/"
+      "title": "Lord of the Manor: a medieval city builder game",
+      "link": "http://www.lordofthemanor.io/"
     },
     {
       "rank": "29.",
