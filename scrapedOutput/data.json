@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "The Legend of GayBlade",
-      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
+      "title": "A terminal-based presentation tool with colors and effects",
+      "link": "https://github.com/vinayak-mehta/present"
     },
     {
       "rank": "5.",
-      "title": "A terminal-based presentation tool with colors and effects",
-      "link": "https://github.com/vinayak-mehta/present"
+      "title": "The Legend of GayBlade",
+      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
     },
     {
       "rank": "6.",
@@ -42,108 +42,108 @@
     },
     {
       "rank": "9.",
-      "title": "How to Write Unmaintainable Code",
-      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
-    },
-    {
-      "rank": "10.",
       "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
       "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
       "link": "https://www.agner.org/optimize/microarchitecture.pdf"
     },
     {
-      "rank": "12.",
-      "title": "After 48 years, Democrats endorse nuclear energy in platform",
-      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
-    },
-    {
-      "rank": "13.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
-    },
-    {
-      "rank": "14.",
+      "rank": "11.",
       "title": "The Unexpected Elegance of Irrigation Systems from Above",
       "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
     },
     {
-      "rank": "15.",
-      "title": "Multi-Tenant Architectures",
-      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
+      "rank": "12.",
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
-      "rank": "16.",
+      "rank": "13.",
       "title": "The “menu engineers” who optimize restaurant revenue",
       "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
     },
     {
-      "rank": "17.",
+      "rank": "14.",
+      "title": "After 48 years, Democrats endorse nuclear energy in platform",
+      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+    },
+    {
+      "rank": "15.",
       "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
       "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
     },
     {
-      "rank": "18.",
+      "rank": "16.",
+      "title": "Multi-Tenant Architectures",
+      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
+    },
+    {
+      "rank": "17.",
       "title": "Tech my dad banned in our house when I was a kid",
       "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
     },
     {
+      "rank": "18.",
+      "title": "What Shell Am I Using?",
+      "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
+    },
+    {
       "rank": "19.",
+      "title": "How to Write Unmaintainable Code",
+      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
+    },
+    {
+      "rank": "20.",
       "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
       "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
     },
     {
-      "rank": "20.",
-      "title": "The Crazy-Tiny Next Generation of Computers (2015)",
-      "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
-    },
-    {
       "rank": "21.",
-      "title": "Facebook isn’t happy about Apple’s upcoming ad tracking restrictions",
-      "link": "https://techcrunch.com/2020/08/27/facebook-vs-apple-ad-tracking/"
+      "title": "I Was a U.S. Diplomat. Customs and Border Protection Only Cared That I Was Black",
+      "link": "https://www.politico.com/news/magazine/2020/08/30/black-us-diplomat-customs-border-protection-cbp-detained-harassed-325676"
     },
     {
       "rank": "22.",
-      "title": "Frank Ramsey: A more human philosophy",
-      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
-    },
-    {
-      "rank": "23.",
       "title": "We Know How to Prevent Megafires",
       "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
     },
     {
+      "rank": "23.",
+      "title": "Frank Ramsey: A more human philosophy",
+      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
+    },
+    {
       "rank": "24.",
-      "title": "Ask HN: How many of you are employed, self-taught SWEs?",
-      "link": "item?id=24325548"
+      "title": "Facebook isn’t happy about Apple’s upcoming ad tracking restrictions",
+      "link": "https://techcrunch.com/2020/08/27/facebook-vs-apple-ad-tracking/"
     },
     {
       "rank": "25.",
+      "title": "The Crazy-Tiny Next Generation of Computers (2015)",
+      "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
+    },
+    {
+      "rank": "26.",
       "title": "Horcrux Encrypted Messaging",
       "link": "https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "An interesting mistake with Go's context package",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
     },
     {
-      "rank": "27.",
-      "title": "Albanian Civil War",
-      "link": "https://en.wikipedia.org/wiki/Albanian_Civil_War"
-    },
-    {
       "rank": "28.",
-      "title": "WebBundles are built for content-addressable networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+      "title": "I thought I would have accomplished a lot more today and also before I was 35",
+      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
       "rank": "29.",
-      "title": "I thought I would have accomplished a lot more today and also before I was 35",
-      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
+      "title": "WebBundles are built for content-addressable networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
     },
     {
       "rank": "30.",
