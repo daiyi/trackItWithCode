@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "The Recursive Universe",
-      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
       "rank": "8.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+      "title": "The Recursive Universe",
+      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
     },
     {
       "rank": "9.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "The Unexpected Elegance of Irrigation Systems from Above",
-      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
+      "title": "Yml Coding",
+      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
     },
     {
       "rank": "12.",
@@ -62,23 +62,23 @@
     },
     {
       "rank": "13.",
-      "title": "The Legend of GayBlade",
-      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
+      "title": "The Unexpected Elegance of Irrigation Systems from Above",
+      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
     },
     {
       "rank": "14.",
+      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
+      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+    },
+    {
+      "rank": "15.",
       "title": "Albanian Civil War",
       "link": "https://en.wikipedia.org/wiki/Albanian_Civil_War"
     },
     {
-      "rank": "15.",
-      "title": "Yml Coding",
-      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
-    },
-    {
       "rank": "16.",
-      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
-      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+      "title": "The Legend of GayBlade",
+      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
-      "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
+      "title": "Facebook isn’t happy about Apple’s upcoming ad tracking restrictions",
+      "link": "https://techcrunch.com/2020/08/27/facebook-vs-apple-ad-tracking/"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Facebook isn’t happy about Apple’s upcoming ad tracking restrictions",
-      "link": "https://techcrunch.com/2020/08/27/facebook-vs-apple-ad-tracking/"
+      "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
+      "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
     },
     {
       "rank": "21.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "WebBundles are built for content-addressable networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
-    },
-    {
-      "rank": "27.",
       "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
       "link": "item?id=24323778"
     },
     {
-      "rank": "28.",
-      "title": "An interesting mistake with Go's context package that I made",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
+      "rank": "27.",
+      "title": "WebBundles are built for content-addressable networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "The Door Problem (2014)",
       "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "I thought I would have accomplished a lot more today and also before I was 35",
       "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
+    },
+    {
+      "rank": "30.",
+      "title": "Ranger: A console file manager with VI key bindings",
+      "link": "https://github.com/ranger/ranger"
     }
   ],
   "metadata": {
