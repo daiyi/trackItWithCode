@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
-      "title": "The Albanian Civil War in 1997 was sparked by pyramid scheme failures",
-      "link": "https://en.wikipedia.org/wiki/Albanian_Civil_War"
-    },
-    {
-      "rank": "3.",
       "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
       "link": "https://webrtcforthecurious.com/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "A terminal-based presentation tool with colors and effects",
       "link": "https://github.com/vinayak-mehta/present"
+    },
+    {
+      "rank": "4.",
+      "title": "Players Are Fixing Microsoft Flight Simulator’s Monuments with Google Maps",
+      "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
     },
     {
       "rank": "5.",
@@ -32,28 +32,28 @@
     },
     {
       "rank": "7.",
-      "title": "The Recursive Universe",
-      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
-    },
-    {
-      "rank": "8.",
-      "title": "Players Are Fixing Microsoft Flight Simulator’s Monuments with Google Maps",
-      "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
-    },
-    {
-      "rank": "9.",
       "title": "How to Read a Log Scale",
       "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
-      "rank": "10.",
+      "rank": "8.",
+      "title": "The Recursive Universe",
+      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
+    },
+    {
+      "rank": "9.",
       "title": "The Unexpected Elegance of Irrigation Systems from Above",
       "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
       "link": "https://www.agner.org/optimize/microarchitecture.pdf"
+    },
+    {
+      "rank": "11.",
+      "title": "Albanian Civil War",
+      "link": "https://en.wikipedia.org/wiki/Albanian_Civil_War"
     },
     {
       "rank": "12.",
@@ -67,38 +67,38 @@
     },
     {
       "rank": "14.",
-      "title": "An interesting mistake with Go's context package that I made",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
+      "title": "After 48 years, Democrats endorse nuclear energy in platform",
+      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
     },
     {
       "rank": "15.",
-      "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
-      "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
-    },
-    {
-      "rank": "16.",
       "title": "The “menu engineers” who optimize restaurant revenue",
       "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
     },
     {
-      "rank": "17.",
-      "title": "After 48 Years, Democrats Endorse Nuclear Energy in Platform",
-      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+      "rank": "16.",
+      "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
+      "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Ask HN: Has anyone built a SaaS for local municipalities?",
       "link": "item?id=24314274"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
       "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Literate DevOps",
       "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
+    },
+    {
+      "rank": "20.",
+      "title": "Facebook isn’t happy about Apple’s upcoming ad tracking restrictions",
+      "link": "https://techcrunch.com/2020/08/27/facebook-vs-apple-ad-tracking/"
     },
     {
       "rank": "21.",
@@ -122,23 +122,23 @@
     },
     {
       "rank": "25.",
+      "title": "WebBundles are built for content-addressable networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+    },
+    {
+      "rank": "26.",
       "title": "Frank Ramsey: A more human philosophy",
       "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
     },
     {
-      "rank": "26.",
-      "title": "Facebook isn’t happy about Apple’s upcoming ad tracking restrictions",
-      "link": "https://techcrunch.com/2020/08/27/facebook-vs-apple-ad-tracking/"
-    },
-    {
       "rank": "27.",
-      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
-      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
+      "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
+      "link": "item?id=24323778"
     },
     {
       "rank": "28.",
-      "title": "WebBundles are built for content-addressable networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+      "title": "The Door Problem (2014)",
+      "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
-      "link": "item?id=24323778"
+      "title": "An interesting mistake with Go's context package that I made",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
     }
   ],
   "metadata": {
