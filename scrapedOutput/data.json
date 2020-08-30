@@ -7,7 +7,7 @@
     },
     {
       "rank": "2.",
-      "title": "Players Are Fixing Microsoft Flight Simulator’s Monuments with Google Maps",
+      "title": "Players are fixing Microsoft Flight Simulator’s monuments with Google Maps",
       "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
     },
     {
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Yml Coding",
-      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
+      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
+      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
     },
     {
       "rank": "13.",
-      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
-      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+      "title": "Yml Coding",
+      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
     },
     {
       "rank": "14.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
-      "title": "Albanian Civil War",
-      "link": "https://en.wikipedia.org/wiki/Albanian_Civil_War"
+      "title": "An interesting mistake with Go's context package",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
     },
     {
       "rank": "21.",
-      "title": "The Crazy-Tiny Next Generation of Computers (2015)",
-      "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
-    },
-    {
-      "rank": "22.",
-      "title": "Literate DevOps",
-      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
-    },
-    {
-      "rank": "23.",
-      "title": "The rise and fall of the industrial R&D lab",
-      "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
-    },
-    {
-      "rank": "24.",
-      "title": "Frank Ramsey: A more human philosophy",
-      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
-    },
-    {
-      "rank": "25.",
-      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
-      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
-    },
-    {
-      "rank": "26.",
-      "title": "Photoreal Roman Emperor Project",
-      "link": "https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f"
-    },
-    {
-      "rank": "27.",
-      "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
-      "link": "item?id=24323778"
-    },
-    {
-      "rank": "28.",
-      "title": "WebBundles are built for content-addressable networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
-    },
-    {
-      "rank": "29.",
       "title": "Ask HN: How many of you are employed, self-taught SWEs?",
       "link": "item?id=24325548"
     },
     {
+      "rank": "22.",
+      "title": "Albanian Civil War",
+      "link": "https://en.wikipedia.org/wiki/Albanian_Civil_War"
+    },
+    {
+      "rank": "23.",
+      "title": "The Crazy-Tiny Next Generation of Computers (2015)",
+      "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
+    },
+    {
+      "rank": "24.",
+      "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
+      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
+    },
+    {
+      "rank": "25.",
+      "title": "We Know How to Prevent Megafires",
+      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
+    },
+    {
+      "rank": "26.",
+      "title": "Horcrux Encrypted Messaging",
+      "link": "https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d"
+    },
+    {
+      "rank": "27.",
+      "title": "Tech my dad banned in our house when I was a kid",
+      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
+    },
+    {
+      "rank": "28.",
+      "title": "Literate DevOps",
+      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
+    },
+    {
+      "rank": "29.",
+      "title": "The rise and fall of the industrial R&D lab",
+      "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
+    },
+    {
       "rank": "30.",
-      "title": "The Door Problem (2014)",
-      "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
+      "title": "Frank Ramsey: A more human philosophy",
+      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
     }
   ],
   "metadata": {
