@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "The Recursive Universe",
-      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
+      "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
+      "link": "http://vimacapp.com"
     },
     {
       "rank": "3.",
-      "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
-      "link": "http://vimacapp.com"
+      "title": "The Recursive Universe",
+      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
     },
     {
       "rank": "4.",
@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "Most common mistakes during interviews",
-      "link": "https://aitorvs.github.io/post/most_common_mistakes_during_interviews/"
+      "title": "The Unexpected Elegance of Irrigation Systems from Above",
+      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
     },
     {
       "rank": "6.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
-      "title": "An interesting mistake with Go's context package that I made",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
-    },
-    {
-      "rank": "8.",
       "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
       "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
     },
     {
+      "rank": "8.",
+      "title": "An interesting mistake with Go's context package that I made",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
+    },
+    {
       "rank": "9.",
-      "title": "New 50-metre deep crater opens up in Arctic tundra",
-      "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
+      "title": "The “menu engineers” who optimize restaurant revenue",
+      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
     },
     {
       "rank": "10.",
@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "The “menu engineers” who optimize restaurant revenue",
-      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
-    },
-    {
-      "rank": "12.",
-      "title": "We Know How to Prevent Megafires",
-      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
-    },
-    {
-      "rank": "13.",
       "title": "The rise and fall of the industrial R&D lab",
       "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
     },
     {
-      "rank": "14.",
+      "rank": "12.",
       "title": "Longevity FAQ: A beginner's guide to longevity research",
       "link": "https://www.ldeming.com/longevityfaq"
     },
     {
-      "rank": "15.",
+      "rank": "13.",
+      "title": "We Know How to Prevent Megafires",
+      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
+    },
+    {
+      "rank": "14.",
       "title": "WebBundles are built for content-addressable networks",
       "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+    },
+    {
+      "rank": "15.",
+      "title": "So you want to roll your own crypto?",
+      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
     },
     {
       "rank": "16.",
@@ -82,48 +82,48 @@
     },
     {
       "rank": "17.",
-      "title": "So you want to roll your own crypto?",
-      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
-    },
-    {
-      "rank": "18.",
       "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
       "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
       "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Ranger: A console file manager with VI key bindings",
       "link": "https://github.com/ranger/ranger"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
       "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
     },
     {
+      "rank": "21.",
+      "title": "Former Cisco engineer pleads guilty to causing Webex account chaos",
+      "link": "https://www.zdnet.com/article/former-cisco-engineer-pleads-guilty-to-network-damage-wiping-16000-webex-teams-accounts/"
+    },
+    {
       "rank": "22.",
+      "title": "Most common mistakes during interviews",
+      "link": "https://aitorvs.github.io/post/most_common_mistakes_during_interviews/"
+    },
+    {
+      "rank": "23.",
       "title": "The Door Problem (2014)",
       "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Matplot++ – A Plotting Tool for C++",
       "link": "https://github.com/alandefreitas/matplotplusplus"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "I thought I would have accomplished a lot more today and also before I was 35",
       "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
-    },
-    {
-      "rank": "25.",
-      "title": "Former Cisco engineer pleads guilty to causing Webex account chaos",
-      "link": "https://www.zdnet.com/article/former-cisco-engineer-pleads-guilty-to-network-damage-wiping-16000-webex-teams-accounts/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "New 50-metre deep crater opens up in Arctic tundra",
+      "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
+    },
+    {
+      "rank": "28.",
       "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
       "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Originality is not the only way",
       "link": "https://leveragethoughts.substack.com/p/originality-is-not-the-only-way-it"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Nascar: The Science of Racing Safely",
       "link": "https://physicsworld.com/a/nascar-the-science-of-racing-safely/"
-    },
-    {
-      "rank": "30.",
-      "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
-      "link": "http://www.flexboxdefense.com/"
     }
   ],
   "metadata": {
