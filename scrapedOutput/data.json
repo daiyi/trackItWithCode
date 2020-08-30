@@ -42,18 +42,18 @@
     },
     {
       "rank": "9.",
+      "title": "How to Pick a Quack: Data",
+      "link": "https://www.overcomingbias.com/2020/08/how-to-pick-a-quack.html"
+    },
+    {
+      "rank": "10.",
       "title": "SC-IM – An ncurses spreadsheet program for the terminal",
       "link": "https://github.com/andmarti1424/sc-im"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
       "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
-    },
-    {
-      "rank": "11.",
-      "title": "Asciimatics – create full-screen text UIs on any platform",
-      "link": "https://github.com/peterbrittain/asciimatics"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "How to Pick a Quack: Data",
-      "link": "https://www.overcomingbias.com/2020/08/how-to-pick-a-quack.html"
+      "title": "Asciimatics – create full-screen text UIs on any platform",
+      "link": "https://github.com/peterbrittain/asciimatics"
     },
     {
       "rank": "14.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
+      "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
+      "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
+    },
+    {
+      "rank": "16.",
       "title": "DearPyGui",
       "link": "https://github.com/hoffstadt/DearPyGui"
     },
     {
-      "rank": "16.",
-      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
-      "link": "https://ncase.me/sim/"
-    },
-    {
       "rank": "17.",
-      "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
-      "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
+      "title": "The tyranny of chairs: why we need better design",
+      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Inventing Monads",
-      "link": "https://stopa.io/post/247"
+      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
+      "link": "https://ncase.me/sim/"
     },
     {
       "rank": "20.",
-      "title": "The tyranny of chairs: why we need better design",
-      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
+      "title": "Inventing Monads",
+      "link": "https://stopa.io/post/247"
     },
     {
       "rank": "21.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
-      "title": "The Evolution of Psychiatry",
-      "link": "https://worksinprogress.co/issue/the-evolution-of-psychiatry/"
+      "title": "Open Source Thinkpad T420 Battery Design",
+      "link": "https://github.com/iam4722202468/ThinkpadBattery"
     },
     {
       "rank": "24.",
-      "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
-      "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
+      "title": "Engineer admits he wiped 456 Cisco WebEx VMs from AWS after leaving",
+      "link": "https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/"
     },
     {
       "rank": "25.",
-      "title": "Engineer admits he wiped 456 Cisco WebEx VMs from AWS after leaving",
-      "link": "https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/"
+      "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
+      "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
     },
     {
       "rank": "26.",
