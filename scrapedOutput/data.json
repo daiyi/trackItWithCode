@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "I thought I would have accomplished a lot more today and also before I was 35",
-      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
+      "title": "New 50-metre deep crater opens up in Arctic tundra",
+      "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
     },
     {
       "rank": "2.",
@@ -12,43 +12,43 @@
     },
     {
       "rank": "3.",
+      "title": "I thought I would have accomplished a lot more today and also before I was 35",
+      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
+    },
+    {
+      "rank": "4.",
       "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
       "link": "http://www.flexboxdefense.com/"
     },
     {
-      "rank": "4.",
-      "title": "New 50-metre deep crater opens up in Arctic tundra",
-      "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
-    },
-    {
       "rank": "5.",
-      "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
-      "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
-    },
-    {
-      "rank": "6.",
-      "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
-      "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
-    },
-    {
-      "rank": "7.",
-      "title": "Deep Dive into PHP 8's JIT",
-      "link": "https://thephp.website/en/issue/php-8-jit/"
-    },
-    {
-      "rank": "8.",
       "title": "So you want to roll your own crypto?",
       "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
     },
     {
-      "rank": "9.",
+      "rank": "6.",
+      "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
+      "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
+    },
+    {
+      "rank": "7.",
+      "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
+      "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
+    },
+    {
+      "rank": "8.",
       "title": "Metcalf Sniper Attack",
       "link": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
     },
     {
+      "rank": "9.",
+      "title": "Deep Dive into PHP 8's JIT",
+      "link": "https://thephp.website/en/issue/php-8-jit/"
+    },
+    {
       "rank": "10.",
-      "title": "Lord of the Manor: a medieval city builder game",
-      "link": "http://www.lordofthemanor.io/"
+      "title": "Sendgrid under siege from hacked accounts",
+      "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
     },
     {
       "rank": "11.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "Sendgrid under siege from hacked accounts",
-      "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
+      "title": "Lord of the Manor: a medieval city builder game",
+      "link": "http://www.lordofthemanor.io/"
     },
     {
       "rank": "13.",
@@ -67,28 +67,28 @@
     },
     {
       "rank": "14.",
-      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
-      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
-    },
-    {
-      "rank": "15.",
       "title": "Asciimatics – create full-screen text UIs on any platform",
       "link": "https://github.com/peterbrittain/asciimatics"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Griffon: a desktop application development platform for the JVM",
       "link": "http://griffon-framework.org/"
     },
     {
+      "rank": "16.",
+      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
+      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
+    },
+    {
       "rank": "17.",
-      "title": "TiDB: A Raft-based HTAP Database [pdf]",
-      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
+      "title": "Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]",
+      "link": "http://www.vldb.org/pvldb/vol13/p3181-adams.pdf"
     },
     {
       "rank": "18.",
-      "title": "Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]",
-      "link": "http://www.vldb.org/pvldb/vol13/p3181-adams.pdf"
+      "title": "Open Source Thinkpad T420 Battery Design",
+      "link": "https://github.com/iam4722202468/ThinkpadBattery"
     },
     {
       "rank": "19.",
@@ -102,33 +102,33 @@
     },
     {
       "rank": "21.",
+      "title": "TiDB: A Raft-based HTAP Database [pdf]",
+      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
+    },
+    {
+      "rank": "22.",
       "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
       "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "DearPyGui",
       "link": "https://github.com/hoffstadt/DearPyGui"
     },
     {
-      "rank": "23.",
-      "title": "Open Source Thinkpad T420 Battery Design",
-      "link": "https://github.com/iam4722202468/ThinkpadBattery"
+      "rank": "24.",
+      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
+      "link": "https://ncase.me/sim/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Inventing Monads",
       "link": "https://stopa.io/post/247"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "The tyranny of chairs: why we need better design",
       "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
-    },
-    {
-      "rank": "26.",
-      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
-      "link": "https://ncase.me/sim/"
     },
     {
       "rank": "27.",
