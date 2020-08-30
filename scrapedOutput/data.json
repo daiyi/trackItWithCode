@@ -2,68 +2,68 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
-      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
-    },
-    {
-      "rank": "2.",
-      "title": "New 50-metre deep crater opens up in Arctic tundra",
-      "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
-    },
-    {
-      "rank": "3.",
       "title": "The rise and fall of the industrial R&D lab",
       "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
     },
     {
+      "rank": "2.",
+      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
+      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
+    },
+    {
+      "rank": "3.",
+      "title": "New 50-metre deep crater opens up in Arctic tundra",
+      "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
+    },
+    {
       "rank": "4.",
-      "title": "So you want to roll your own crypto?",
-      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
-    },
-    {
-      "rank": "5.",
-      "title": "Longevity FAQ: A beginner's guide to longevity research",
-      "link": "https://www.ldeming.com/longevityfaq"
-    },
-    {
-      "rank": "6.",
-      "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
-      "link": "http://www.flexboxdefense.com/"
-    },
-    {
-      "rank": "7.",
-      "title": "Matplot++ – A Plotting Tool for C++",
-      "link": "https://github.com/alandefreitas/matplotplusplus"
-    },
-    {
-      "rank": "8.",
       "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
       "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
     },
     {
+      "rank": "5.",
+      "title": "So you want to roll your own crypto?",
+      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
+    },
+    {
+      "rank": "6.",
+      "title": "Longevity FAQ: A beginner's guide to longevity research",
+      "link": "https://www.ldeming.com/longevityfaq"
+    },
+    {
+      "rank": "7.",
+      "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
+      "link": "http://www.flexboxdefense.com/"
+    },
+    {
+      "rank": "8.",
+      "title": "Matplot++ – A Plotting Tool for C++",
+      "link": "https://github.com/alandefreitas/matplotplusplus"
+    },
+    {
       "rank": "9.",
+      "title": "Ranger: A console file manager with VI key bindings",
+      "link": "https://github.com/ranger/ranger"
+    },
+    {
+      "rank": "10.",
       "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
       "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "I thought I would have accomplished a lot more today and also before I was 35",
       "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Metcalf Sniper Attack",
       "link": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Open Source Thinkpad T420 Battery Design",
       "link": "https://github.com/iam4722202468/ThinkpadBattery"
-    },
-    {
-      "rank": "13.",
-      "title": "Kazuo Ishiguro (1989)",
-      "link": "https://bombmagazine.org/articles/kazuo-ishiguro/"
     },
     {
       "rank": "14.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Nagara Rimba Nusa: A Take on Indonesia's New Capital City",
-      "link": "https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/"
+      "title": "Kazuo Ishiguro (1989)",
+      "link": "https://bombmagazine.org/articles/kazuo-ishiguro/"
     },
     {
       "rank": "16.",
-      "title": "AI Assistants Have Poor Usability: Study of Alexa, Google Assistant, Siri (2018)",
-      "link": "https://www.nngroup.com/articles/intelligent-assistant-usability/"
+      "title": "Literate DevOps",
+      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
     },
     {
       "rank": "17.",
@@ -87,68 +87,68 @@
     },
     {
       "rank": "18.",
+      "title": "Nagara Rimba Nusa: A Take on Indonesia's New Capital City",
+      "link": "https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/"
+    },
+    {
+      "rank": "19.",
       "title": "SC-IM – An ncurses spreadsheet program for the terminal",
       "link": "https://github.com/andmarti1424/sc-im"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
       "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
       "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
-      "rank": "21.",
-      "title": "Optical Tweezers",
-      "link": "https://en.wikipedia.org/wiki/Optical_tweezers"
-    },
-    {
       "rank": "22.",
-      "title": "Pleroma 2.1",
-      "link": "https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/"
+      "title": "AI Assistants Have Poor Usability: Study of Alexa, Google Assistant, Siri (2018)",
+      "link": "https://www.nngroup.com/articles/intelligent-assistant-usability/"
     },
     {
       "rank": "23.",
-      "title": "Deep Dive into PHP 8's JIT",
-      "link": "https://thephp.website/en/issue/php-8-jit/"
-    },
-    {
-      "rank": "24.",
-      "title": "Griffon: a desktop application development platform for the JVM",
-      "link": "http://griffon-framework.org/"
-    },
-    {
-      "rank": "25.",
       "title": "Guaranteed Optimization: Proving Nullspace Properties of Compilers (2002)",
       "link": "https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR564"
     },
     {
+      "rank": "24.",
+      "title": "Deep Dive into PHP 8's JIT",
+      "link": "https://thephp.website/en/issue/php-8-jit/"
+    },
+    {
+      "rank": "25.",
+      "title": "Pleroma 2.1",
+      "link": "https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/"
+    },
+    {
       "rank": "26.",
+      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
+      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
+    },
+    {
+      "rank": "27.",
+      "title": "Griffon: a desktop application development platform for the JVM",
+      "link": "http://griffon-framework.org/"
+    },
+    {
+      "rank": "28.",
+      "title": "Optical Tweezers",
+      "link": "https://en.wikipedia.org/wiki/Optical_tweezers"
+    },
+    {
+      "rank": "29.",
       "title": "Sendgrid under siege from hacked accounts",
       "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
       "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
-    },
-    {
-      "rank": "28.",
-      "title": "TiDB: A Raft-based HTAP Database [pdf]",
-      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
-    },
-    {
-      "rank": "29.",
-      "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
-      "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
-    },
-    {
-      "rank": "30.",
-      "title": "Inventing Monads",
-      "link": "https://stopa.io/post/247"
     }
   ],
   "metadata": {
