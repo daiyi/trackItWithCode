@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "I thought I would have accomplished a lot more today and also before I was 35",
-      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
+      "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
+      "link": "http://www.flexboxdefense.com/"
     },
     {
       "rank": "2.",
-      "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
-      "link": "http://www.flexboxdefense.com/"
+      "title": "I thought I would have accomplished a lot more today and also before I was 35",
+      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
       "rank": "3.",
@@ -57,48 +57,48 @@
     },
     {
       "rank": "12.",
-      "title": "Why does the government let a company like Herbalife stay in business?",
-      "link": "https://www.latimes.com/business/story/2020-08-28/herbalife-lawbreaking-companies"
-    },
-    {
-      "rank": "13.",
       "title": "Asciimatics – create full-screen text UIs on any platform",
       "link": "https://github.com/peterbrittain/asciimatics"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]",
       "link": "http://www.vldb.org/pvldb/vol13/p3181-adams.pdf"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
       "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "DearPyGui",
       "link": "https://github.com/hoffstadt/DearPyGui"
     },
     {
-      "rank": "17.",
-      "title": "TiDB: A Raft-based HTAP Database [pdf]",
-      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
-    },
-    {
-      "rank": "18.",
+      "rank": "16.",
       "title": "A Command Line vs. GUI Meeting",
       "link": "https://gravitational.com/blog/command-line-vs-gui/"
     },
     {
-      "rank": "19.",
+      "rank": "17.",
       "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
       "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
-      "rank": "20.",
+      "rank": "18.",
+      "title": "TiDB: A Raft-based HTAP Database [pdf]",
+      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
+    },
+    {
+      "rank": "19.",
       "title": "The tyranny of chairs: why we need better design",
       "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
+    },
+    {
+      "rank": "20.",
+      "title": "Apple doesn't let you disclose their 30% IAP fee to your customers",
+      "link": "https://twitter.com/getify/status/1299569045348454401"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "Apple doesn't let you disclose their 30% IAP fee to your customers",
-      "link": "https://twitter.com/getify/status/1299569045348454401"
-    },
-    {
-      "rank": "23.",
       "title": "Inventing Monads",
       "link": "https://stopa.io/post/247"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Open Source Thinkpad T420 Battery Design",
       "link": "https://github.com/iam4722202468/ThinkpadBattery"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "We Chose a Distributed SQL Database to Complement MySQL",
       "link": "https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
       "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Engineer admits he wiped 456 Cisco WebEx VMs from AWS after leaving",
       "link": "https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Building storage-first serverless apps with HTTP APIs service integrations",
       "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Don't trust default timeouts",
       "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Facebook’s ties to India’s ruling party complicate its fight against hate speech",
       "link": "https://time.com/5883993/india-facebook-hate-speech-bjp/"
+    },
+    {
+      "rank": "30.",
+      "title": "Babylonian Multiplication in the shower (2016)",
+      "link": "https://www.iquilezles.org/blog/?p=4582"
     }
   ],
   "metadata": {
