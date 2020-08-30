@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
-      "link": "https://webrtcforthecurious.com/"
+      "title": "A terminal-based presentation tool with colors and effects",
+      "link": "https://github.com/vinayak-mehta/present"
     },
     {
       "rank": "3.",
-      "title": "A terminal-based presentation tool with colors and effects",
-      "link": "https://github.com/vinayak-mehta/present"
+      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
+      "link": "https://webrtcforthecurious.com/"
     },
     {
       "rank": "4.",
@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "The Recursive Universe",
-      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
+      "title": "Nano-diamond battery that \"lasts for 28k years\" closer to commercialization",
+      "link": "https://www.mining.com/nano-diamond-battery-that-lasts-for-28000-years-closer-to-becoming-commercial-product/"
     },
     {
       "rank": "6.",
-      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
-      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
+      "title": "The Recursive Universe",
+      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
     },
     {
       "rank": "7.",
@@ -37,118 +37,118 @@
     },
     {
       "rank": "8.",
+      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
+      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
+    },
+    {
+      "rank": "9.",
       "title": "An interesting mistake with Go's context package that I made",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
       "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "The “menu engineers” who optimize restaurant revenue",
       "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Multi-Tenant Architectures",
       "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Literate DevOps",
       "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Photoreal Roman Emperor Project",
       "link": "https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "The rise and fall of the industrial R&D lab",
       "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "We Know How to Prevent Megafires",
       "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
     },
     {
-      "rank": "16.",
-      "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
-      "link": "item?id=24323778"
-    },
-    {
       "rank": "17.",
-      "title": "Ask HN: Has anyone built a SaaS for local municipalities?",
-      "link": "item?id=24314274"
-    },
-    {
-      "rank": "18.",
-      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
-      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
-    },
-    {
-      "rank": "19.",
-      "title": "WebBundles are built for content-addressable networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
-    },
-    {
-      "rank": "20.",
-      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
-      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
-    },
-    {
-      "rank": "21.",
       "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
       "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
     },
     {
+      "rank": "18.",
+      "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
+      "link": "item?id=24323778"
+    },
+    {
+      "rank": "19.",
+      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
+      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
+    },
+    {
+      "rank": "20.",
+      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
+      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
+    },
+    {
+      "rank": "21.",
+      "title": "Airbnb Has a Hidden-Camera Problem (2019)",
+      "link": "https://www.theatlantic.com/technology/archive/2019/03/what-happens-when-you-find-cameras-your-airbnb/585007/"
+    },
+    {
       "rank": "22.",
+      "title": "WebBundles are built for content-addressable networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+    },
+    {
+      "rank": "23.",
+      "title": "Ask HN: Has anyone built a SaaS for local municipalities?",
+      "link": "item?id=24314274"
+    },
+    {
+      "rank": "24.",
       "title": "Ranger: A console file manager with VI key bindings",
       "link": "https://github.com/ranger/ranger"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "The Door Problem (2014)",
       "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "I thought I would have accomplished a lot more today and also before I was 35",
       "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Matplot++ – A Plotting Tool for C++",
       "link": "https://github.com/alandefreitas/matplotplusplus"
     },
     {
-      "rank": "26.",
-      "title": "Most common mistakes during interviews",
-      "link": "https://aitorvs.github.io/post/most_common_mistakes_during_interviews/"
+      "rank": "28.",
+      "title": "Pinterest pays $89.5M to terminate San Francisco office lease",
+      "link": "https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
       "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "New 50-metre deep crater opens up in Arctic tundra",
       "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
-    },
-    {
-      "rank": "29.",
-      "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
-      "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
-    },
-    {
-      "rank": "30.",
-      "title": "Airbnb Has a Hidden-Camera Problem (2019)",
-      "link": "https://www.theatlantic.com/technology/archive/2019/03/what-happens-when-you-find-cameras-your-airbnb/585007/"
     }
   ],
   "metadata": {
