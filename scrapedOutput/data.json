@@ -7,33 +7,33 @@
     },
     {
       "rank": "2.",
-      "title": "The rise and fall of the industrial R&D lab",
-      "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
-    },
-    {
-      "rank": "3.",
-      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
-      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
-    },
-    {
-      "rank": "4.",
-      "title": "New 50-metre deep crater opens up in Arctic tundra",
-      "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
-    },
-    {
-      "rank": "5.",
       "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
       "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
     },
     {
+      "rank": "3.",
+      "title": "The rise and fall of the industrial R&D lab",
+      "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
+    },
+    {
+      "rank": "4.",
+      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
+      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
+    },
+    {
+      "rank": "5.",
+      "title": "New 50-metre deep crater opens up in Arctic tundra",
+      "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
+    },
+    {
       "rank": "6.",
-      "title": "So you want to roll your own crypto?",
-      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
+      "title": "Longevity FAQ: A beginner's guide to longevity research",
+      "link": "https://www.ldeming.com/longevityfaq"
     },
     {
       "rank": "7.",
-      "title": "Longevity FAQ: A beginner's guide to longevity research",
-      "link": "https://www.ldeming.com/longevityfaq"
+      "title": "So you want to roll your own crypto?",
+      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
     },
     {
       "rank": "8.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
-      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
+      "title": "WebBundles are built for content-addressable networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
     },
     {
       "rank": "12.",
-      "title": "WebBundles are built for content-addressable networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
+      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
     },
     {
       "rank": "13.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "Optical Tweezers",
-      "link": "https://en.wikipedia.org/wiki/Optical_tweezers"
+      "title": "Horcrux Encrypted Messaging",
+      "link": "https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d"
     },
     {
       "rank": "17.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "Red: Improving Audio Quality with Redundancy",
-      "link": "https://webrtchacks.com/red-improving-audio-quality-with-redundancy/"
+      "title": "Optical Tweezers",
+      "link": "https://en.wikipedia.org/wiki/Optical_tweezers"
     },
     {
       "rank": "20.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "Red: Improving Audio Quality with Redundancy",
+      "link": "https://webrtchacks.com/red-improving-audio-quality-with-redundancy/"
+    },
+    {
+      "rank": "26.",
       "title": "Nagara Rimba Nusa: A Take on Indonesia's New Capital City",
       "link": "https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Pleroma 2.1",
       "link": "https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Griffon: a desktop application development platform for the JVM",
       "link": "http://griffon-framework.org/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Guaranteed Optimization: Proving Nullspace Properties of Compilers (2002)",
       "link": "https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR564"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "TiDB: A Raft-based HTAP Database [pdf]",
       "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
-    },
-    {
-      "rank": "30.",
-      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
-      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
     }
   ],
   "metadata": {
