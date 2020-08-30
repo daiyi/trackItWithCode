@@ -12,53 +12,53 @@
     },
     {
       "rank": "3.",
-      "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
-      "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
-    },
-    {
-      "rank": "4.",
       "title": "Sendgrid under siege from hacked accounts",
       "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
     },
     {
+      "rank": "4.",
+      "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
+      "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
+    },
+    {
       "rank": "5.",
-      "title": "Metcalf Sniper Attack",
-      "link": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
-    },
-    {
-      "rank": "6.",
-      "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
-      "link": "https://archive.org/details/nasa-workmanship-standards"
-    },
-    {
-      "rank": "7.",
-      "title": "SC-IM – An ncurses spreadsheet program for the terminal",
-      "link": "https://github.com/andmarti1424/sc-im"
-    },
-    {
-      "rank": "8.",
-      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
-      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
-    },
-    {
-      "rank": "9.",
-      "title": "Deep Dive into PHP 8's JIT",
-      "link": "https://thephp.website/en/issue/php-8-jit/"
-    },
-    {
-      "rank": "10.",
-      "title": "Cells solve mazes and respond at a distance using attractant breakdown",
-      "link": "https://science.sciencemag.org/content/369/6507/eaay9792"
-    },
-    {
-      "rank": "11.",
       "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
       "link": "http://www.flexboxdefense.com/"
     },
     {
-      "rank": "12.",
+      "rank": "6.",
+      "title": "Deep Dive into PHP 8's JIT",
+      "link": "https://thephp.website/en/issue/php-8-jit/"
+    },
+    {
+      "rank": "7.",
+      "title": "Metcalf Sniper Attack",
+      "link": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
+    },
+    {
+      "rank": "8.",
       "title": "How to Pick a Quack: Data",
       "link": "https://www.overcomingbias.com/2020/08/how-to-pick-a-quack.html"
+    },
+    {
+      "rank": "9.",
+      "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
+      "link": "https://archive.org/details/nasa-workmanship-standards"
+    },
+    {
+      "rank": "10.",
+      "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
+      "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
+    },
+    {
+      "rank": "11.",
+      "title": "SC-IM – An ncurses spreadsheet program for the terminal",
+      "link": "https://github.com/andmarti1424/sc-im"
+    },
+    {
+      "rank": "12.",
+      "title": "Cells solve mazes and respond at a distance using attractant breakdown",
+      "link": "https://science.sciencemag.org/content/369/6507/eaay9792"
     },
     {
       "rank": "13.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
-      "link": "https://ncase.me/sim/"
-    },
-    {
-      "rank": "16.",
       "title": "Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]",
       "link": "http://www.vldb.org/pvldb/vol13/p3181-adams.pdf"
     },
     {
+      "rank": "16.",
+      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
+      "link": "https://ncase.me/sim/"
+    },
+    {
       "rank": "17.",
-      "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
-      "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
+      "title": "Why does the government let a company like Herbalife stay in business?",
+      "link": "https://www.latimes.com/business/story/2020-08-28/herbalife-lawbreaking-companies"
     },
     {
       "rank": "18.",
-      "title": "The tyranny of chairs: why we need better design",
-      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
+      "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
+      "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Inventing Monads",
-      "link": "https://stopa.io/post/247"
+      "title": "The tyranny of chairs: why we need better design",
+      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
     },
     {
       "rank": "21.",
-      "title": "Why does the government let a company like Herbalife stay in business?",
-      "link": "https://www.latimes.com/business/story/2020-08-28/herbalife-lawbreaking-companies"
+      "title": "Inventing Monads",
+      "link": "https://stopa.io/post/247"
     },
     {
       "rank": "22.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "Building storage-first serverless apps with HTTP APIs service integrations",
-      "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
+      "title": "Engineer admits he wiped 456 Cisco WebEx VMs from AWS after leaving",
+      "link": "https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/"
     },
     {
       "rank": "26.",
-      "title": "Engineer admits he wiped 456 Cisco WebEx VMs from AWS after leaving",
-      "link": "https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/"
+      "title": "Building storage-first serverless apps with HTTP APIs service integrations",
+      "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Design Tip: Never Use Black (2012)",
-      "link": "https://ianstormtaylor.com/design-tip-never-use-black/"
-    },
-    {
-      "rank": "29.",
       "title": "Don't trust default timeouts",
       "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Babylonian Multiplication in the shower (2016)",
       "link": "https://www.iquilezles.org/blog/?p=4582"
+    },
+    {
+      "rank": "30.",
+      "title": "Apple doesn't let you disclose their 30% IAP fee to your customers",
+      "link": "https://twitter.com/getify/status/1299569045348454401"
     }
   ],
   "metadata": {
