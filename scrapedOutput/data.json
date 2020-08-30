@@ -27,28 +27,28 @@
     },
     {
       "rank": "6.",
+      "title": "Longevity FAQ: A beginner's guide to longevity research",
+      "link": "https://www.ldeming.com/longevityfaq"
+    },
+    {
+      "rank": "7.",
       "title": "Kazuo Ishiguro (1989)",
       "link": "https://bombmagazine.org/articles/kazuo-ishiguro/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "I thought I would have accomplished a lot more today and also before I was 35",
       "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
       "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Metcalf Sniper Attack",
       "link": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
-    },
-    {
-      "rank": "10.",
-      "title": "Open Source Thinkpad T420 Battery Design",
-      "link": "https://github.com/iam4722202468/ThinkpadBattery"
     },
     {
       "rank": "11.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "Guaranteed Optimization: Proving Nullspace Properties of Compilers (2002)",
-      "link": "https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR564"
+      "title": "Open Source Thinkpad T420 Battery Design",
+      "link": "https://github.com/iam4722202468/ThinkpadBattery"
     },
     {
       "rank": "14.",
@@ -72,83 +72,83 @@
     },
     {
       "rank": "15.",
-      "title": "Longevity FAQ: A beginner's guide to longevity research",
-      "link": "https://www.ldeming.com/longevityfaq"
+      "title": "Guaranteed Optimization: Proving Nullspace Properties of Compilers (2002)",
+      "link": "https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR564"
     },
     {
       "rank": "16.",
-      "title": "Sendgrid under siege from hacked accounts",
-      "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
-    },
-    {
-      "rank": "17.",
       "title": "SC-IM – An ncurses spreadsheet program for the terminal",
       "link": "https://github.com/andmarti1424/sc-im"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "A 189 Year Old Limitation on Inductor Size Has Been Broken",
       "link": "https://medium.com/starts-with-a-bang/the-last-barrier-to-ultra-miniaturized-electronics-is-broken-thanks-to-a-new-type-of-inductor-eb5c1a2c7460"
     },
     {
-      "rank": "19.",
-      "title": "Pleroma 2.1",
-      "link": "https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/"
+      "rank": "18.",
+      "title": "Sendgrid under siege from hacked accounts",
+      "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
       "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Asciimatics – create full-screen text UIs on any platform",
       "link": "https://github.com/peterbrittain/asciimatics"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "The Node Is Nonsense: Better ways to measure progress than Moore's law [pdf]",
       "link": "https://www.gwern.net/docs/cs/2020-moore.pdf"
     },
     {
+      "rank": "22.",
+      "title": "Pleroma 2.1",
+      "link": "https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/"
+    },
+    {
       "rank": "23.",
-      "title": "Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]",
-      "link": "http://www.vldb.org/pvldb/vol13/p3181-adams.pdf"
-    },
-    {
-      "rank": "24.",
-      "title": "Secrets of Elite College Admissions",
-      "link": "https://www.wsj.com/articles/the-secrets-of-elite-college-admissions-11598626784"
-    },
-    {
-      "rank": "25.",
-      "title": "DearPyGui",
-      "link": "https://github.com/hoffstadt/DearPyGui"
-    },
-    {
-      "rank": "26.",
-      "title": "TiDB: A Raft-based HTAP Database [pdf]",
-      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
-    },
-    {
-      "rank": "27.",
       "title": "Griffon: a desktop application development platform for the JVM",
       "link": "http://griffon-framework.org/"
     },
     {
-      "rank": "28.",
+      "rank": "24.",
+      "title": "TiDB: A Raft-based HTAP Database [pdf]",
+      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
+    },
+    {
+      "rank": "25.",
       "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
       "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
     },
     {
-      "rank": "29.",
+      "rank": "26.",
+      "title": "Secrets of Elite College Admissions",
+      "link": "https://www.wsj.com/articles/the-secrets-of-elite-college-admissions-11598626784"
+    },
+    {
+      "rank": "27.",
       "title": "Emoji simulator – a tool to make cellular automata, with emoji",
       "link": "https://ncase.me/sim/"
     },
     {
-      "rank": "30.",
+      "rank": "28.",
+      "title": "Inventing Monads",
+      "link": "https://stopa.io/post/247"
+    },
+    {
+      "rank": "29.",
       "title": "The tyranny of chairs: why we need better design",
       "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
+    },
+    {
+      "rank": "30.",
+      "title": "A Command Line vs. GUI Meeting",
+      "link": "https://gravitational.com/blog/command-line-vs-gui/"
     }
   ],
   "metadata": {
