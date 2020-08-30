@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
+      "title": "New 50-metre deep crater opens up in Arctic tundra",
+      "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
+    },
+    {
+      "rank": "4.",
       "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
       "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
       "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Deep Dive into PHP 8's JIT",
       "link": "https://thephp.website/en/issue/php-8-jit/"
-    },
-    {
-      "rank": "6.",
-      "title": "Sendgrid under siege from hacked accounts",
-      "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
     },
     {
       "rank": "7.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
-      "link": "https://archive.org/details/nasa-workmanship-standards"
+      "title": "Sendgrid under siege from hacked accounts",
+      "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
     },
     {
       "rank": "9.",
-      "title": "How to Pick a Quack: Data",
-      "link": "https://www.overcomingbias.com/2020/08/how-to-pick-a-quack.html"
+      "title": "I Compiled NASA‘s Workmanship Standards into a Single PDF",
+      "link": "https://archive.org/details/nasa-workmanship-standards"
     },
     {
       "rank": "10.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Asciimatics – create full-screen text UIs on any platform",
-      "link": "https://github.com/peterbrittain/asciimatics"
+      "title": "TiDB: A Raft-based HTAP Database [pdf]",
+      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
     },
     {
       "rank": "13.",
-      "title": "Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]",
-      "link": "http://www.vldb.org/pvldb/vol13/p3181-adams.pdf"
+      "title": "Asciimatics – create full-screen text UIs on any platform",
+      "link": "https://github.com/peterbrittain/asciimatics"
     },
     {
       "rank": "14.",
@@ -72,73 +72,73 @@
     },
     {
       "rank": "15.",
-      "title": "DearPyGui",
-      "link": "https://github.com/hoffstadt/DearPyGui"
+      "title": "Monarch: Google’s Planet-Scale In-Memory Time Series Database [pdf]",
+      "link": "http://www.vldb.org/pvldb/vol13/p3181-adams.pdf"
     },
     {
       "rank": "16.",
-      "title": "A Command Line vs. GUI Meeting",
-      "link": "https://gravitational.com/blog/command-line-vs-gui/"
-    },
-    {
-      "rank": "17.",
-      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
-      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
-    },
-    {
-      "rank": "18.",
-      "title": "TiDB: A Raft-based HTAP Database [pdf]",
-      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
-    },
-    {
-      "rank": "19.",
-      "title": "The tyranny of chairs: why we need better design",
-      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
-    },
-    {
-      "rank": "20.",
-      "title": "Apple doesn't let you disclose their 30% IAP fee to your customers",
-      "link": "https://twitter.com/getify/status/1299569045348454401"
-    },
-    {
-      "rank": "21.",
-      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
-      "link": "https://ncase.me/sim/"
-    },
-    {
-      "rank": "22.",
-      "title": "Inventing Monads",
-      "link": "https://stopa.io/post/247"
-    },
-    {
-      "rank": "23.",
       "title": "Open Source Thinkpad T420 Battery Design",
       "link": "https://github.com/iam4722202468/ThinkpadBattery"
     },
     {
+      "rank": "17.",
+      "title": "DearPyGui",
+      "link": "https://github.com/hoffstadt/DearPyGui"
+    },
+    {
+      "rank": "18.",
+      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
+      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
+    },
+    {
+      "rank": "19.",
+      "title": "Apple doesn't let you disclose their 30% IAP fee to your customers",
+      "link": "https://twitter.com/getify/status/1299569045348454401"
+    },
+    {
+      "rank": "20.",
+      "title": "A Command Line vs. GUI Meeting",
+      "link": "https://gravitational.com/blog/command-line-vs-gui/"
+    },
+    {
+      "rank": "21.",
+      "title": "The tyranny of chairs: why we need better design",
+      "link": "https://www.theguardian.com/artanddesign/2020/aug/25/the-tyranny-of-chairs"
+    },
+    {
+      "rank": "22.",
+      "title": "Lord of the Manor: a medieval city builder game",
+      "link": "http://www.lordofthemanor.io/"
+    },
+    {
+      "rank": "23.",
+      "title": "Emoji simulator – a tool to make cellular automata, with emoji",
+      "link": "https://ncase.me/sim/"
+    },
+    {
       "rank": "24.",
+      "title": "Inventing Monads",
+      "link": "https://stopa.io/post/247"
+    },
+    {
+      "rank": "25.",
       "title": "We Chose a Distributed SQL Database to Complement MySQL",
       "link": "https://pingcap.com/case-studies/why-we-chose-a-distributed-sql-database-to-complement-mysql"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
       "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Engineer admits he wiped 456 Cisco WebEx VMs from AWS after leaving",
       "link": "https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Building storage-first serverless apps with HTTP APIs service integrations",
       "link": "https://aws.amazon.com/blogs/compute/building-storage-first-applications-with-http-apis-service-integrations/"
-    },
-    {
-      "rank": "28.",
-      "title": "Don't trust default timeouts",
-      "link": "https://robertovitillo.com/default-timeouts/"
     },
     {
       "rank": "29.",
