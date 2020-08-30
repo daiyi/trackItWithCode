@@ -12,128 +12,128 @@
     },
     {
       "rank": "3.",
-      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
-      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
-    },
-    {
-      "rank": "4.",
       "title": "An interesting mistake with Go's context package that I made",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
     },
     {
+      "rank": "4.",
+      "title": "Most common mistakes during interviews",
+      "link": "https://aitorvs.github.io/post/most_common_mistakes_during_interviews/"
+    },
+    {
       "rank": "5.",
-      "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
-      "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
+      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
+      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
     },
     {
       "rank": "6.",
-      "title": "New 50-metre deep crater opens up in Arctic tundra",
-      "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
+      "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
+      "link": "http://vimacapp.com"
     },
     {
       "rank": "7.",
-      "title": "Literate DevOps",
-      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
-    },
-    {
-      "rank": "8.",
-      "title": "We Know How to Prevent Megafires",
-      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
-    },
-    {
-      "rank": "9.",
       "title": "Photoreal Roman Emperor Project",
       "link": "https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f"
     },
     {
+      "rank": "8.",
+      "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
+      "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
+    },
+    {
+      "rank": "9.",
+      "title": "New 50-metre deep crater opens up in Arctic tundra",
+      "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
+    },
+    {
       "rank": "10.",
+      "title": "Literate DevOps",
+      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
+    },
+    {
+      "rank": "11.",
+      "title": "We Know How to Prevent Megafires",
+      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
+    },
+    {
+      "rank": "12.",
       "title": "The rise and fall of the industrial R&D lab",
       "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
     },
     {
-      "rank": "11.",
+      "rank": "13.",
       "title": "Longevity FAQ: A beginner's guide to longevity research",
       "link": "https://www.ldeming.com/longevityfaq"
     },
     {
-      "rank": "12.",
-      "title": "WebBundles are built for content-addressable networks",
-      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
-    },
-    {
-      "rank": "13.",
-      "title": "So you want to roll your own crypto?",
-      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
-    },
-    {
       "rank": "14.",
-      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
-      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
-    },
-    {
-      "rank": "15.",
-      "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
-      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
-    },
-    {
-      "rank": "16.",
-      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
-      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
-    },
-    {
-      "rank": "17.",
-      "title": "Ranger: A console file manager with VI key bindings",
-      "link": "https://github.com/ranger/ranger"
-    },
-    {
-      "rank": "18.",
-      "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
-      "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
-    },
-    {
-      "rank": "19.",
-      "title": "Matplot++ – A Plotting Tool for C++",
-      "link": "https://github.com/alandefreitas/matplotplusplus"
-    },
-    {
-      "rank": "20.",
       "title": "The “menu engineers” who optimize restaurant revenue",
       "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
     },
     {
+      "rank": "15.",
+      "title": "WebBundles are built for content-addressable networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+    },
+    {
+      "rank": "16.",
+      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
+      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
+    },
+    {
+      "rank": "17.",
+      "title": "So you want to roll your own crypto?",
+      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
+    },
+    {
+      "rank": "18.",
+      "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
+      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
+    },
+    {
+      "rank": "19.",
+      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
+      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
+    },
+    {
+      "rank": "20.",
+      "title": "Ranger: A console file manager with VI key bindings",
+      "link": "https://github.com/ranger/ranger"
+    },
+    {
       "rank": "21.",
+      "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
+      "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
+    },
+    {
+      "rank": "22.",
+      "title": "Matplot++ – A Plotting Tool for C++",
+      "link": "https://github.com/alandefreitas/matplotplusplus"
+    },
+    {
+      "rank": "23.",
       "title": "I thought I would have accomplished a lot more today and also before I was 35",
       "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "The Door Problem (2014)",
       "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
     },
     {
-      "rank": "23.",
-      "title": "Originality is not the only way",
-      "link": "https://leveragethoughts.substack.com/p/originality-is-not-the-only-way-it"
-    },
-    {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Horcrux Encrypted Messaging",
       "link": "https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
       "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
-      "rank": "26.",
-      "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
-      "link": "http://www.flexboxdefense.com/"
-    },
-    {
       "rank": "27.",
-      "title": "Lord of the Manor: a medieval city builder game",
-      "link": "http://www.lordofthemanor.io/"
+      "title": "Originality is not the only way",
+      "link": "https://leveragethoughts.substack.com/p/originality-is-not-the-only-way-it"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Optical Tweezers",
-      "link": "https://en.wikipedia.org/wiki/Optical_tweezers"
+      "title": "Lord of the Manor: a medieval city builder game",
+      "link": "http://www.lordofthemanor.io/"
     },
     {
       "rank": "30.",
-      "title": "Kazuo Ishiguro (1989)",
-      "link": "https://bombmagazine.org/articles/kazuo-ishiguro/"
+      "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
+      "link": "http://www.flexboxdefense.com/"
     }
   ],
   "metadata": {
