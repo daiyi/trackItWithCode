@@ -22,18 +22,18 @@
     },
     {
       "rank": "5.",
+      "title": "So you want to roll your own crypto?",
+      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
+    },
+    {
+      "rank": "6.",
       "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
       "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
       "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
-    },
-    {
-      "rank": "7.",
-      "title": "So you want to roll your own crypto?",
-      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
     },
     {
       "rank": "8.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
-      "title": "Sendgrid under siege from hacked accounts",
-      "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
-    },
-    {
-      "rank": "12.",
       "title": "Lord of the Manor: a medieval city builder game",
       "link": "http://www.lordofthemanor.io/"
     },
     {
+      "rank": "12.",
+      "title": "Sendgrid under siege from hacked accounts",
+      "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
+    },
+    {
       "rank": "13.",
-      "title": "SC-IM – An ncurses spreadsheet program for the terminal",
-      "link": "https://github.com/andmarti1424/sc-im"
+      "title": "Nagara Rimba Nusa: A Take on Indonesia's New Capital City",
+      "link": "https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/"
     },
     {
       "rank": "14.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Asciimatics – create full-screen text UIs on any platform",
-      "link": "https://github.com/peterbrittain/asciimatics"
+      "title": "SC-IM – An ncurses spreadsheet program for the terminal",
+      "link": "https://github.com/andmarti1424/sc-im"
     },
     {
       "rank": "16.",
-      "title": "Griffon: a desktop application development platform for the JVM",
-      "link": "http://griffon-framework.org/"
+      "title": "Asciimatics – create full-screen text UIs on any platform",
+      "link": "https://github.com/peterbrittain/asciimatics"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Nagara Rimba Nusa: A Take on Indonesia's New Capital City",
-      "link": "https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/"
+      "title": "Apple doesn't let you disclose their 30% IAP fee to your customers",
+      "link": "https://twitter.com/getify/status/1299569045348454401"
     },
     {
       "rank": "19.",
-      "title": "Apple doesn't let you disclose their 30% IAP fee to your customers",
-      "link": "https://twitter.com/getify/status/1299569045348454401"
+      "title": "Griffon: a desktop application development platform for the JVM",
+      "link": "http://griffon-framework.org/"
     },
     {
       "rank": "20.",
@@ -127,23 +127,23 @@
     },
     {
       "rank": "26.",
-      "title": "TiDB: A Raft-based HTAP Database [pdf]",
-      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
-    },
-    {
-      "rank": "27.",
       "title": "Inventing Monads",
       "link": "https://stopa.io/post/247"
     },
     {
+      "rank": "27.",
+      "title": "TiDB: A Raft-based HTAP Database [pdf]",
+      "link": "http://www.vldb.org/pvldb/vol13/p3072-huang.pdf"
+    },
+    {
       "rank": "28.",
-      "title": "A Command Line vs. GUI Meeting",
-      "link": "https://gravitational.com/blog/command-line-vs-gui/"
+      "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
+      "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
     },
     {
       "rank": "29.",
-      "title": "Japan’s Entry in Flying-Car Race Takes to the Air",
-      "link": "https://www.wsj.com/articles/japans-entry-in-flying-car-race-takes-to-the-air-11598691548"
+      "title": "A Command Line vs. GUI Meeting",
+      "link": "https://gravitational.com/blog/command-line-vs-gui/"
     },
     {
       "rank": "30.",
