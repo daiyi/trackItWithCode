@@ -37,38 +37,38 @@
     },
     {
       "rank": "8.",
-      "title": "The Unexpected Elegance of Irrigation Systems from Above",
-      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
-    },
-    {
-      "rank": "9.",
-      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
-      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
-    },
-    {
-      "rank": "10.",
-      "title": "Multi-Tenant Architectures",
-      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
-    },
-    {
-      "rank": "11.",
       "title": "Players Are Fixing Microsoft Flight Simulator’s Monuments with Google Maps",
       "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
     },
     {
+      "rank": "9.",
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+    },
+    {
+      "rank": "10.",
+      "title": "The Unexpected Elegance of Irrigation Systems from Above",
+      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
+    },
+    {
+      "rank": "11.",
+      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
+      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
+    },
+    {
       "rank": "12.",
+      "title": "Multi-Tenant Architectures",
+      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
+    },
+    {
+      "rank": "13.",
       "title": "Yml Coding",
       "link": "https://cloud.google.com/workflows/docs/reference/syntax"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "An interesting mistake with Go's context package that I made",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
-    },
-    {
-      "rank": "14.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
       "rank": "15.",
@@ -82,33 +82,33 @@
     },
     {
       "rank": "17.",
-      "title": "Ask HN: Has anyone built a SaaS for local municipalities?",
-      "link": "item?id=24314274"
-    },
-    {
-      "rank": "18.",
-      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
-      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
-    },
-    {
-      "rank": "19.",
-      "title": "Literate DevOps",
-      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
-    },
-    {
-      "rank": "20.",
       "title": "After 48 Years, Democrats Endorse Nuclear Energy in Platform",
       "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
     },
     {
+      "rank": "18.",
+      "title": "Ask HN: Has anyone built a SaaS for local municipalities?",
+      "link": "item?id=24314274"
+    },
+    {
+      "rank": "19.",
+      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
+      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+    },
+    {
+      "rank": "20.",
+      "title": "Literate DevOps",
+      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
+    },
+    {
       "rank": "21.",
-      "title": "The rise and fall of the industrial R&D lab",
-      "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
+      "title": "Photoreal Roman Emperor Project",
+      "link": "https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f"
     },
     {
       "rank": "22.",
-      "title": "Frank Ramsey: A more human philosophy",
-      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
+      "title": "The rise and fall of the industrial R&D lab",
+      "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
     },
     {
       "rank": "23.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "Photoreal Roman Emperor Project",
-      "link": "https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f"
+      "title": "Airbnb Has a Hidden-Camera Problem (2019)",
+      "link": "https://www.theatlantic.com/technology/archive/2019/03/what-happens-when-you-find-cameras-your-airbnb/585007/"
     },
     {
       "rank": "25.",
-      "title": "Airbnb Has a Hidden-Camera Problem (2019)",
-      "link": "https://www.theatlantic.com/technology/archive/2019/03/what-happens-when-you-find-cameras-your-airbnb/585007/"
+      "title": "Frank Ramsey: A more human philosophy",
+      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
     },
     {
       "rank": "26.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
-      "link": "item?id=24323778"
+      "title": "The Mega Constellations Are Already Here. The Time for Polite Concern Is Over",
+      "link": "https://www.forbes.com/sites/jonathanocallaghan/2020/08/28/the-mega-constellations-are-already-here-the-time-for-polite-concern-is-over/#5ae6bd0d3b87"
     },
     {
       "rank": "30.",
-      "title": "The Mega Constellations Are Already Here. The Time for Polite Concern Is Over",
-      "link": "https://www.forbes.com/sites/jonathanocallaghan/2020/08/28/the-mega-constellations-are-already-here-the-time-for-polite-concern-is-over/#5ae6bd0d3b87"
+      "title": "Ask HN: How does your data science or machine learning team handle DevOps?",
+      "link": "item?id=24323778"
     }
   ],
   "metadata": {
