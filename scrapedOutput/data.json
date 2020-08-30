@@ -17,68 +17,68 @@
     },
     {
       "rank": "4.",
+      "title": "An interesting mistake with Go's context package that I made",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
+    },
+    {
+      "rank": "5.",
       "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
       "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "New 50-metre deep crater opens up in Arctic tundra",
       "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Literate DevOps",
       "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "We Know How to Prevent Megafires",
       "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
     },
     {
-      "rank": "8.",
-      "title": "Longevity FAQ: A beginner's guide to longevity research",
-      "link": "https://www.ldeming.com/longevityfaq"
+      "rank": "9.",
+      "title": "Photoreal Roman Emperor Project",
+      "link": "https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "The rise and fall of the industrial R&D lab",
       "link": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-american-rd-lab/"
     },
     {
-      "rank": "10.",
-      "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
-      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
-    },
-    {
       "rank": "11.",
-      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
-      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
+      "title": "Longevity FAQ: A beginner's guide to longevity research",
+      "link": "https://www.ldeming.com/longevityfaq"
     },
     {
       "rank": "12.",
-      "title": "So you want to roll your own crypto?",
-      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
-    },
-    {
-      "rank": "13.",
       "title": "WebBundles are built for content-addressable networks",
       "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
     },
     {
+      "rank": "13.",
+      "title": "So you want to roll your own crypto?",
+      "link": "https://vnhacker.blogspot.com/2020/08/so-you-want-to-roll-your-own-crypto.html?m=1"
+    },
+    {
       "rank": "14.",
-      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
-      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
+      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
+      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
     },
     {
       "rank": "15.",
-      "title": "Matplot++ – A Plotting Tool for C++",
-      "link": "https://github.com/alandefreitas/matplotplusplus"
+      "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
+      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
     },
     {
       "rank": "16.",
-      "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
-      "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
+      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
+      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
     },
     {
       "rank": "17.",
@@ -87,48 +87,48 @@
     },
     {
       "rank": "18.",
-      "title": "The Door Problem (2014)",
-      "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
+      "title": "Barbados introduces plan to allow visitors to work remotely there for a year",
+      "link": "https://money.yahoo.com/barbabos-introduces-plan-to-allow-visitors-to-work-remotely-there-for-a-year-192734193.html"
     },
     {
       "rank": "19.",
+      "title": "Matplot++ – A Plotting Tool for C++",
+      "link": "https://github.com/alandefreitas/matplotplusplus"
+    },
+    {
+      "rank": "20.",
+      "title": "The “menu engineers” who optimize restaurant revenue",
+      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
+    },
+    {
+      "rank": "21.",
       "title": "I thought I would have accomplished a lot more today and also before I was 35",
       "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
+      "title": "The Door Problem (2014)",
+      "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
+    },
+    {
+      "rank": "23.",
       "title": "Originality is not the only way",
       "link": "https://leveragethoughts.substack.com/p/originality-is-not-the-only-way-it"
     },
     {
-      "rank": "21.",
-      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
-      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
-    },
-    {
-      "rank": "22.",
+      "rank": "24.",
       "title": "Horcrux Encrypted Messaging",
       "link": "https://www.notion.so/Horcrux-Encrypted-Messaging-78af0a3f326244ebb0aedff7c298953d"
     },
     {
-      "rank": "23.",
-      "title": "Nascar: The Science of Racing Safely",
-      "link": "https://physicsworld.com/a/nascar-the-science-of-racing-safely/"
-    },
-    {
-      "rank": "24.",
-      "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
-      "link": "http://www.flexboxdefense.com/"
-    },
-    {
       "rank": "25.",
-      "title": "Mercedes Barcha, 1932-2020",
-      "link": "https://www.ft.com/content/4f9872c5-2132-4db3-b81c-b60da01655ce"
+      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
+      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
       "rank": "26.",
-      "title": "Optical Tweezers",
-      "link": "https://en.wikipedia.org/wiki/Optical_tweezers"
+      "title": "Tower Defense with a twist: all towers must be positioned with CSS Flexbox",
+      "link": "http://www.flexboxdefense.com/"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Kazuo Ishiguro (1989)",
-      "link": "https://bombmagazine.org/articles/kazuo-ishiguro/"
+      "title": "Nascar: The Science of Racing Safely",
+      "link": "https://physicsworld.com/a/nascar-the-science-of-racing-safely/"
     },
     {
       "rank": "29.",
-      "title": "The “menu engineers” who optimize restaurant revenue",
-      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
+      "title": "Optical Tweezers",
+      "link": "https://en.wikipedia.org/wiki/Optical_tweezers"
     },
     {
       "rank": "30.",
-      "title": "Tesla’s former CTO is building a giant lithium-ion battery recycling operation",
-      "link": "https://www.wsj.com/articles/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper-11598673630"
+      "title": "Kazuo Ishiguro (1989)",
+      "link": "https://bombmagazine.org/articles/kazuo-ishiguro/"
     }
   ],
   "metadata": {
