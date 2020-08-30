@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
-      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
+      "title": "Literate DevOps",
+      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
     },
     {
       "rank": "2.",
@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "New 50-metre deep crater opens up in Arctic tundra",
-      "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
+      "title": "Exploring mullender.c – A deep dive into the first IOCCC winner",
+      "link": "https://lainsystems.com/posts/exploring-mullender-dot-c/"
     },
     {
       "rank": "4.",
-      "title": "Literate DevOps",
-      "link": "http://www.howardism.org/Technical/Emacs/literate-devops.html"
+      "title": "New 50-metre deep crater opens up in Arctic tundra",
+      "link": "http://siberiantimes.com/other/others/news/giant-new-50-metre-deep-crater-opens-up-in-arctic-tundra/"
     },
     {
       "rank": "5.",
@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
-      "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
+      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
+      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
     },
     {
       "rank": "12.",
+      "title": "WebBundles are built for content-addressable networks",
+      "link": "https://adlrocha.substack.com/p/adlrocha-webbundles-are-built-for"
+    },
+    {
+      "rank": "13.",
       "title": "I thought I would have accomplished a lot more today and also before I was 35",
       "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
-      "rank": "13.",
-      "title": "Open Source Thinkpad T420 Battery Design",
-      "link": "https://github.com/iam4722202468/ThinkpadBattery"
-    },
-    {
       "rank": "14.",
-      "title": "Metcalf Sniper Attack",
-      "link": "https://en.wikipedia.org/wiki/Metcalf_sniper_attack"
+      "title": "First complete dinosaur skeleton ever found has finally been studied in detail",
+      "link": "https://phys.org/news/2020-08-dinosaur-skeleton-ready-closeup.html"
     },
     {
       "rank": "15.",
-      "title": "TSMC Builds a Dedicated 28nm Fab for Sony Orders",
-      "link": "http://image-sensors-world.blogspot.com/2020/07/tsmc-builds-dedicated-28nm-fab-for-sony.html?m=1"
+      "title": "Open Source Thinkpad T420 Battery Design",
+      "link": "https://github.com/iam4722202468/ThinkpadBattery"
     },
     {
       "rank": "16.",
@@ -92,48 +92,48 @@
     },
     {
       "rank": "19.",
+      "title": "Red: Improving Audio Quality with Redundancy",
+      "link": "https://webrtchacks.com/red-improving-audio-quality-with-redundancy/"
+    },
+    {
+      "rank": "20.",
       "title": "AI Assistants Have Poor Usability: Study of Alexa, Google Assistant, Siri (2018)",
       "link": "https://www.nngroup.com/articles/intelligent-assistant-usability/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Asciimatics – create full-screen text UIs on any platform",
       "link": "https://github.com/peterbrittain/asciimatics"
     },
     {
-      "rank": "21.",
-      "title": "SC-IM – An ncurses spreadsheet program for the terminal",
-      "link": "https://github.com/andmarti1424/sc-im"
-    },
-    {
       "rank": "22.",
-      "title": "Deep Dive into PHP 8's JIT",
-      "link": "https://thephp.website/en/issue/php-8-jit/"
-    },
-    {
-      "rank": "23.",
       "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
       "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     },
     {
+      "rank": "23.",
+      "title": "SC-IM – An ncurses spreadsheet program for the terminal",
+      "link": "https://github.com/andmarti1424/sc-im"
+    },
+    {
       "rank": "24.",
+      "title": "Deep Dive into PHP 8's JIT",
+      "link": "https://thephp.website/en/issue/php-8-jit/"
+    },
+    {
+      "rank": "25.",
       "title": "Nagara Rimba Nusa: A Take on Indonesia's New Capital City",
       "link": "https://community.simtropolis.com/forums/topic/758733-nagara-rimba-nusa-a-take-on-a-new-capital-city/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Pleroma 2.1",
       "link": "https://pleroma.social/blog/2020/08/28/releasing-pleroma-2-1-0/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Griffon: a desktop application development platform for the JVM",
       "link": "http://griffon-framework.org/"
-    },
-    {
-      "rank": "27.",
-      "title": "Sendgrid under siege from hacked accounts",
-      "link": "https://krebsonsecurity.com/2020/08/sendgrid-under-siege-from-hacked-accounts/"
     },
     {
       "rank": "28.",
