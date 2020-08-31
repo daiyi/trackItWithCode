@@ -12,43 +12,43 @@
     },
     {
       "rank": "3.",
-      "title": "I just lost 1,400 BTC ($16M)",
-      "link": "https://github.com/spesmilo/electrum/issues/5072#issuecomment-683356052"
-    },
-    {
-      "rank": "4.",
       "title": "The Architecture of Open Source Applications",
       "link": "https://aosabook.org/en/index.html"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Keli: A programming language to make Functional Programming a joy for users",
       "link": "https://keli-language.gitbook.io/doc/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Interchange in Houston Is the Same Size as an Entire City Center in Italy",
       "link": "https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Mathematicians Report New Discovery About the Dodecahedron",
       "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "How NASA and ISRO discovered water on the Moon",
       "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
     },
     {
+      "rank": "8.",
+      "title": "Show HN: ML From Scratch – free online textbook",
+      "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
+    },
+    {
       "rank": "9.",
-      "title": "Enveritas (YC S18) Is Hiring a JavaScript/React Lead Developer",
-      "link": "https://www.enveritas.org/jobs/engineering/"
+      "title": "I just lost 1,400 BTC",
+      "link": "https://github.com/spesmilo/electrum/issues/5072#issuecomment-683356052"
     },
     {
       "rank": "10.",
-      "title": "Show HN: ML From Scratch – free online textbook",
-      "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
+      "title": "Enveritas (YC S18) Is Hiring a JavaScript/React Lead Developer",
+      "link": "https://www.enveritas.org/jobs/engineering/"
     },
     {
       "rank": "11.",
@@ -62,23 +62,23 @@
     },
     {
       "rank": "13.",
-      "title": "FedEx feeder plane takes flight without pilot in test for Reliable Robotics",
-      "link": "https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/"
-    },
-    {
-      "rank": "14.",
-      "title": "Don't Be a Sucker",
-      "link": "https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00"
-    },
-    {
-      "rank": "15.",
       "title": "Ruby: We have decided to go forward to 3.0 this year",
       "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
     },
     {
-      "rank": "16.",
+      "rank": "14.",
+      "title": "FedEx feeder plane takes flight without pilot in test for Reliable Robotics",
+      "link": "https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/"
+    },
+    {
+      "rank": "15.",
       "title": "As above, so below, part 2. Bare metal Rust generics",
       "link": "https://www.ecorax.net/as-above-so-below-2/"
+    },
+    {
+      "rank": "16.",
+      "title": "Don't Be a Sucker",
+      "link": "https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00"
     },
     {
       "rank": "17.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Tracing at Slack: Thinking in Causal Graphs",
-      "link": "https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/"
+      "title": "Self – Fun Through Simplicity",
+      "link": "https://selflanguage.org/"
     },
     {
       "rank": "20.",
-      "title": "Cracking Phobos UUID",
-      "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
+      "title": "Tracing at Slack: Thinking in Causal Graphs",
+      "link": "https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Self – Fun Through Simplicity",
-      "link": "https://selflanguage.org/"
+      "title": "Cracking Phobos UUID",
+      "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
     },
     {
       "rank": "23.",
-      "title": "Italian Ruby",
-      "link": "https://github.com/Pluvie/italian-ruby"
+      "title": "Bevy: A Game Engine in Rust",
+      "link": "https://bevyengine.org/"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "Do we really travel through time with the speed of light?",
-      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
+      "title": "Italian Ruby",
+      "link": "https://github.com/Pluvie/italian-ruby"
     },
     {
       "rank": "26.",
-      "title": "Padding Oracles: An Animated Primer",
-      "link": "https://dylanpindur.com/blog/padding-oracles-an-animated-primer/"
-    },
-    {
-      "rank": "27.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
+      "rank": "27.",
+      "title": "Do we really travel through time with the speed of light?",
+      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
+    },
+    {
       "rank": "28.",
+      "title": "Padding Oracles: An Animated Primer",
+      "link": "https://dylanpindur.com/blog/padding-oracles-an-animated-primer/"
+    },
+    {
+      "rank": "29.",
       "title": "Google, the Stupidity Amplifier (2016)",
       "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Analysis of Today's CenturyLink/Level(3) Outage",
       "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
-    },
-    {
-      "rank": "30.",
-      "title": "Self-charging ‘thousand-year’ battery completes lab tests",
-      "link": "https://www.electronics-lab.com/self-charging-thousand-year-battery-completes-lab-tests/"
     }
   ],
   "metadata": {
