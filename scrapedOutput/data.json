@@ -12,38 +12,38 @@
     },
     {
       "rank": "3.",
-      "title": "Level 3 Global Outage",
-      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
-    },
-    {
-      "rank": "4.",
       "title": "Players are fixing Microsoft Flight Simulator’s monuments with Google Maps",
       "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
       "link": "https://webrtcforthecurious.com/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "A terminal-based presentation tool with colors and effects",
       "link": "https://github.com/vinayak-mehta/present"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "The Legend of GayBlade",
       "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Essentials of Programming Languages",
       "link": "http://eopl3.com/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
       "link": "http://vimacapp.com"
+    },
+    {
+      "rank": "9.",
+      "title": "Level 3 Global Outage",
+      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
     },
     {
       "rank": "10.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "The Unexpected Elegance of Irrigation Systems from Above",
-      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
+      "title": "An overview of the science on function length",
+      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
     },
     {
       "rank": "18.",
-      "title": "An overview of the science on function length",
-      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
+      "title": "The Unexpected Elegance of Irrigation Systems from Above",
+      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
     },
     {
       "rank": "19.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "An interesting mistake with Go's context package",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
-    },
-    {
-      "rank": "29.",
       "title": "Frank Ramsey: A more human philosophy",
       "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "We Know How to Prevent Megafires",
       "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
+    },
+    {
+      "rank": "30.",
+      "title": "I thought I would have accomplished a lot more today and also before I was 35",
+      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     }
   ],
   "metadata": {
