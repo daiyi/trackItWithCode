@@ -2,93 +2,93 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "The Big Tesla Hack: A hacker gained control over the entire fleet",
-      "link": "https://electrek.co/2020/08/27/tesla-hack-control-over-entire-fleet/"
-    },
-    {
-      "rank": "2.",
-      "title": "Why are there 5280 feet in a mile?",
-      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
-    },
-    {
-      "rank": "3.",
       "title": "Players are fixing Microsoft Flight Simulator’s monuments with Google Maps",
       "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
     },
     {
-      "rank": "4.",
+      "rank": "2.",
       "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
       "link": "https://webrtcforthecurious.com/"
     },
     {
-      "rank": "5.",
+      "rank": "3.",
       "title": "A terminal-based presentation tool with colors and effects",
       "link": "https://github.com/vinayak-mehta/present"
     },
     {
-      "rank": "6.",
+      "rank": "4.",
       "title": "The Legend of GayBlade",
       "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
     },
     {
-      "rank": "7.",
+      "rank": "5.",
       "title": "Essentials of Programming Languages",
       "link": "http://eopl3.com/"
     },
     {
-      "rank": "8.",
+      "rank": "6.",
       "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
       "link": "http://vimacapp.com"
     },
     {
-      "rank": "9.",
-      "title": "What Shell Am I Using?",
-      "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
-    },
-    {
-      "rank": "10.",
-      "title": "Level 3 Global Outage",
-      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
-    },
-    {
-      "rank": "11.",
-      "title": "The Recursive Universe",
-      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
-    },
-    {
-      "rank": "12.",
-      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
-      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
-    },
-    {
-      "rank": "13.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
-    },
-    {
-      "rank": "14.",
-      "title": "An overview of the science on function length",
-      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
-    },
-    {
-      "rank": "15.",
+      "rank": "7.",
       "title": "Sum Types in Julia and Rust",
       "link": "https://andreaskroepelin.de/blog/sum_types/"
     },
     {
+      "rank": "8.",
+      "title": "What Shell Am I Using?",
+      "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
+    },
+    {
+      "rank": "9.",
+      "title": "Level 3 Global Outage",
+      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
+    },
+    {
+      "rank": "10.",
+      "title": "Why are there 5280 feet in a mile?",
+      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
+    },
+    {
+      "rank": "11.",
+      "title": "K-Stash: A search engine for your useful links – for devs and researchers",
+      "link": "https://k-stash.com"
+    },
+    {
+      "rank": "12.",
+      "title": "The Recursive Universe",
+      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
+    },
+    {
+      "rank": "13.",
+      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
+      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+    },
+    {
+      "rank": "14.",
+      "title": "High-tech tracking reveals ‘secret world of birds’",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
+    },
+    {
+      "rank": "15.",
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+    },
+    {
       "rank": "16.",
+      "title": "An overview of the science on function length",
+      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
+    },
+    {
+      "rank": "17.",
       "title": "Waiting for Gödel (2016)",
       "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "The Unexpected Elegance of Irrigation Systems from Above",
       "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
-    },
-    {
-      "rank": "18.",
-      "title": "High-tech tracking reveals ‘secret world of birds’",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
     },
     {
       "rank": "19.",
@@ -97,28 +97,28 @@
     },
     {
       "rank": "20.",
-      "title": "Tech my dad banned in our house when I was a kid",
-      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
-    },
-    {
-      "rank": "21.",
       "title": "After 48 years, Democrats endorse nuclear energy in platform",
       "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
     },
     {
+      "rank": "21.",
+      "title": "Self-driving cars learn to read the body language of people on the street",
+      "link": "https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street"
+    },
+    {
       "rank": "22.",
-      "title": "Last Week on My Mac: Is macOS Becoming Unmaintainable?",
-      "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
+      "title": "Tech my dad banned in our house when I was a kid",
+      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
     },
     {
       "rank": "23.",
-      "title": "K-Stash: A search engine for your useful links – for devs and researchers",
-      "link": "https://k-stash.com"
+      "title": "Multi-Tenant Architectures",
+      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
     },
     {
       "rank": "24.",
-      "title": "Multi-Tenant Architectures",
-      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
+      "title": "Last Week on My Mac: Is macOS Becoming Unmaintainable?",
+      "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
     },
     {
       "rank": "25.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
+      "title": "The Crazy-Tiny Next Generation of Computers (2015)",
+      "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
+    },
+    {
+      "rank": "27.",
       "title": "How to Write Unmaintainable Code",
       "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Frank Ramsey: A more human philosophy",
       "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
-    },
-    {
-      "rank": "28.",
-      "title": "We Know How to Prevent Megafires",
-      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "The Crazy-Tiny Next Generation of Computers (2015)",
-      "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
+      "title": "We Know How to Prevent Megafires",
+      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
     }
   ],
   "metadata": {
