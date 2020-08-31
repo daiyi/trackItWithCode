@@ -2,38 +2,38 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Players are fixing Microsoft Flight Simulator’s monuments with Google Maps",
-      "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
-    },
-    {
-      "rank": "2.",
-      "title": "Level 3 Global Outage",
-      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
-    },
-    {
-      "rank": "3.",
-      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
-      "link": "https://webrtcforthecurious.com/"
-    },
-    {
-      "rank": "4.",
-      "title": "A terminal-based presentation tool with colors and effects",
-      "link": "https://github.com/vinayak-mehta/present"
-    },
-    {
-      "rank": "5.",
-      "title": "The Legend of GayBlade",
-      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
-    },
-    {
-      "rank": "6.",
       "title": "Ex-neuralink employees describe rushed timelines clashing with science’s pace",
       "link": "https://www.statnews.com/2020/08/25/elon-musk-neuralink-update-brain-machine-implants/"
     },
     {
+      "rank": "2.",
+      "title": "Players are fixing Microsoft Flight Simulator’s monuments with Google Maps",
+      "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
+    },
+    {
+      "rank": "3.",
+      "title": "Level 3 Global Outage",
+      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
+    },
+    {
+      "rank": "4.",
+      "title": "Drug Cartel Now Assassinates Its Enemies with Bomb-Toting Drones",
+      "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
+    },
+    {
+      "rank": "5.",
+      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
+      "link": "https://webrtcforthecurious.com/"
+    },
+    {
+      "rank": "6.",
+      "title": "A terminal-based presentation tool with colors and effects",
+      "link": "https://github.com/vinayak-mehta/present"
+    },
+    {
       "rank": "7.",
-      "title": "Chrome is not the new IE",
-      "link": "https://threadreaderapp.com/thread/1299136717027336192"
+      "title": "The Legend of GayBlade",
+      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
     },
     {
       "rank": "8.",
@@ -47,38 +47,38 @@
     },
     {
       "rank": "10.",
+      "title": "Chrome is not the new IE",
+      "link": "https://threadreaderapp.com/thread/1299136717027336192"
+    },
+    {
+      "rank": "11.",
       "title": "What Shell Am I Using?",
       "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "The Recursive Universe",
       "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
+      "title": "The Big Tesla Hack: A hacker gained control over the entire fleet",
+      "link": "https://electrek.co/2020/08/27/tesla-hack-control-over-entire-fleet/"
+    },
+    {
+      "rank": "14.",
       "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
       "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
     },
     {
-      "rank": "13.",
+      "rank": "15.",
       "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
       "link": "https://www.agner.org/optimize/microarchitecture.pdf"
     },
     {
-      "rank": "14.",
+      "rank": "16.",
       "title": "The “menu engineers” who optimize restaurant revenue",
       "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
-    },
-    {
-      "rank": "15.",
-      "title": "The Unexpected Elegance of Irrigation Systems from Above",
-      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
-    },
-    {
-      "rank": "16.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
       "rank": "17.",
@@ -87,68 +87,68 @@
     },
     {
       "rank": "18.",
+      "title": "The Unexpected Elegance of Irrigation Systems from Above",
+      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
+    },
+    {
+      "rank": "19.",
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+    },
+    {
+      "rank": "20.",
+      "title": "Banks create money out of thin air, but it's less impressive than it sounds",
+      "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
+    },
+    {
+      "rank": "21.",
       "title": "Physicists found a new quantum paradox that casts doubt on a pillar of reality",
       "link": "https://www.sciencealert.com/a-new-quantum-paradox-throws-the-foundations-of-observed-reality-into-question"
     },
     {
-      "rank": "19.",
-      "title": "After 48 years, Democrats endorse nuclear energy in platform",
-      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
-    },
-    {
-      "rank": "20.",
+      "rank": "22.",
       "title": "The Crazy-Tiny Next Generation of Computers (2015)",
       "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "Tech my dad banned in our house when I was a kid",
       "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "Multi-Tenant Architectures",
       "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
     },
     {
-      "rank": "23.",
-      "title": "Frank Ramsey: A more human philosophy",
-      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
-    },
-    {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
       "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "Frank Ramsey: A more human philosophy",
+      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
+    },
+    {
+      "rank": "27.",
+      "title": "After 48 years, Democrats endorse nuclear energy in platform",
+      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+    },
+    {
+      "rank": "28.",
       "title": "We Know How to Prevent Megafires",
       "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
     },
     {
-      "rank": "26.",
+      "rank": "29.",
       "title": "An interesting mistake with Go's context package",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "I thought I would have accomplished a lot more today and also before I was 35",
       "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
-    },
-    {
-      "rank": "28.",
-      "title": "The Door Problem (2014)",
-      "link": "http://www.lizengland.com/blog/2014/04/the-door-problem/"
-    },
-    {
-      "rank": "29.",
-      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
-      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
-    },
-    {
-      "rank": "30.",
-      "title": "Photoreal Roman Emperor Project",
-      "link": "https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f"
     }
   ],
   "metadata": {
