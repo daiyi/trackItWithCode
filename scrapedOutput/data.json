@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
-      "title": "Keli: A programming language to make Functional Programming a joy for users",
-      "link": "https://keli-language.gitbook.io/doc/"
-    },
-    {
-      "rank": "9.",
       "title": "2020's Existentialist Turn",
       "link": "https://bostonreview.net/philosophy-religion/carmen-lea-dege-2020s-existentialist-turn"
     },
     {
+      "rank": "9.",
+      "title": "Keli: A programming language to make Functional Programming a joy for users",
+      "link": "https://keli-language.gitbook.io/doc/"
+    },
+    {
       "rank": "10.",
-      "title": "Show HN: ML From Scratch – free online textbook",
-      "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
+      "title": "Why Doctors Hate Their Computers (2018)",
+      "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
     },
     {
       "rank": "11.",
@@ -57,28 +57,28 @@
     },
     {
       "rank": "12.",
+      "title": "Show HN: ML From Scratch – free online textbook",
+      "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
+    },
+    {
+      "rank": "13.",
       "title": "Mathematicians Report New Discovery About the Dodecahedron",
       "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "PinePhone Manjaro Community Edition",
       "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "How NASA and ISRO discovered water on the Moon",
       "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "3D face: fast, accurate and stable reconstruction",
       "link": "https://github.com/cleardusk/3DDFA_V2"
-    },
-    {
-      "rank": "16.",
-      "title": "Ruby: We have decided to go forward to 3.0 this year",
-      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "How should we build the APIs of tomorrow?",
-      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
+      "title": "Ruby: We have decided to go forward to 3.0 this year",
+      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
+      "title": "How should we build the APIs of tomorrow?",
+      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
+    },
+    {
+      "rank": "21.",
       "title": "Show HN: Friendly Fire – Open-source, Metroidvania-style game in the browser",
       "link": "https://friendlyfiregame.com/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Cracking Phobos UUID",
       "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
     },
     {
-      "rank": "22.",
-      "title": "EUtility Electric Tractor is powered by a battery, not diesel",
-      "link": "https://newatlas.com/environment/solectrac-eutility-electric-tractor/"
-    },
-    {
       "rank": "23.",
-      "title": "Looking for the vulture assist with Neolithic burials",
-      "link": "http://johnhawks.net/weblog/reviews/archaeology/neolithic/burials-vulture-excarnation-pilloud-2016.html"
+      "title": "How to Learn Everything: The MasterClass Diaries",
+      "link": "https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/"
     },
     {
       "rank": "24.",
-      "title": "Google, the Stupidity Amplifier (2016)",
-      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
-    },
-    {
-      "rank": "25.",
-      "title": "As above, so below, part 2. Bare metal Rust generics",
-      "link": "https://www.ecorax.net/as-above-so-below-2/"
-    },
-    {
-      "rank": "26.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
-      "rank": "27.",
-      "title": "Battleshorts, exaptations, and the limits of STAMP",
-      "link": "https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/"
+      "rank": "25.",
+      "title": "EUtility Electric Tractor is powered by a battery, not diesel",
+      "link": "https://newatlas.com/environment/solectrac-eutility-electric-tractor/"
     },
     {
-      "rank": "28.",
+      "rank": "26.",
+      "title": "Google, the Stupidity Amplifier (2016)",
+      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
+    },
+    {
+      "rank": "27.",
       "title": "Robotic Manipulation (Online Textbook)",
       "link": "http://manipulation.csail.mit.edu/"
     },
     {
+      "rank": "28.",
+      "title": "As above, so below, part 2. Bare metal Rust generics",
+      "link": "https://www.ecorax.net/as-above-so-below-2/"
+    },
+    {
       "rank": "29.",
-      "title": "Effective testing for machine learning systems",
-      "link": "https://www.jeremyjordan.me/testing-ml/"
+      "title": "Looking for the vulture assist with Neolithic burials",
+      "link": "http://johnhawks.net/weblog/reviews/archaeology/neolithic/burials-vulture-excarnation-pilloud-2016.html"
     },
     {
       "rank": "30.",
-      "title": "Italian Ruby",
-      "link": "https://github.com/Pluvie/italian-ruby"
+      "title": "Battleshorts, exaptations, and the limits of STAMP",
+      "link": "https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/"
     }
   ],
   "metadata": {
