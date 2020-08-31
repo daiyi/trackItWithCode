@@ -67,28 +67,28 @@
     },
     {
       "rank": "14.",
-      "title": "Ruby: We have decided to go forward to 3.0 this year",
-      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
-    },
-    {
-      "rank": "15.",
       "title": "PinePhone Manjaro Community Edition",
       "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Self – Fun Through Simplicity",
       "link": "https://selflanguage.org/"
     },
     {
+      "rank": "16.",
+      "title": "Ruby: We have decided to go forward to 3.0 this year",
+      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
+    },
+    {
       "rank": "17.",
-      "title": "Self-charging ‘thousand-year’ battery completes lab tests",
-      "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
+      "title": "How should we build the APIs of tomorrow?",
+      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
     },
     {
       "rank": "18.",
-      "title": "How should we build the APIs of tomorrow?",
-      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
+      "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
+      "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
-      "title": "As above, so below, part 2. Bare metal Rust generics",
-      "link": "https://www.ecorax.net/as-above-so-below-2/"
+      "title": "Single-family housing in the Bay Area linked to more racially segregated cities",
+      "link": "https://www.mercurynews.com/2020/08/20/single-family-housing-in-the-bay-area-linked-to-more-racially-segregated-cities-report/"
     },
     {
       "rank": "21.",
-      "title": "Battleshorts, exaptations, and the limits of STAMP",
-      "link": "https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/"
-    },
-    {
-      "rank": "22.",
-      "title": "3D face: fast, accurate and stable reconstruction",
-      "link": "https://github.com/cleardusk/3DDFA_V2"
-    },
-    {
-      "rank": "23.",
       "title": "Show HN: Friendly Fire – Open-source, Metroidvania-style game in the browser",
       "link": "https://friendlyfiregame.com/"
     },
     {
+      "rank": "22.",
+      "title": "Looking for the vulture assist with Neolithic burials",
+      "link": "http://johnhawks.net/weblog/reviews/archaeology/neolithic/burials-vulture-excarnation-pilloud-2016.html"
+    },
+    {
+      "rank": "23.",
+      "title": "As above, so below, part 2. Bare metal Rust generics",
+      "link": "https://www.ecorax.net/as-above-so-below-2/"
+    },
+    {
       "rank": "24.",
+      "title": "3D face: fast, accurate and stable reconstruction",
+      "link": "https://github.com/cleardusk/3DDFA_V2"
+    },
+    {
+      "rank": "25.",
       "title": "Robotic Manipulation (Online Textbook)",
       "link": "http://manipulation.csail.mit.edu/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "Battleshorts, exaptations, and the limits of STAMP",
+      "link": "https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/"
+    },
+    {
+      "rank": "27.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
+      "title": "Google, the Stupidity Amplifier (2016)",
+      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
+    },
+    {
+      "rank": "29.",
       "title": "Effective testing for machine learning systems",
       "link": "https://www.jeremyjordan.me/testing-ml/"
     },
     {
-      "rank": "27.",
-      "title": "Price collapsing – Audi e-tron Forum",
-      "link": "https://www.e-tronforum.com/threads/price-collapsing.1580/"
-    },
-    {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Blender 2.90",
       "link": "https://www.blender.org/download/releases/2-90/"
-    },
-    {
-      "rank": "29.",
-      "title": "Italian Ruby",
-      "link": "https://github.com/Pluvie/italian-ruby"
-    },
-    {
-      "rank": "30.",
-      "title": "Tracing at Slack: Thinking in Causal Graphs",
-      "link": "https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/"
     }
   ],
   "metadata": {
