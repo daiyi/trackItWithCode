@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "The Big Tesla Hack: A hacker gained control over the entire fleet",
+      "link": "https://electrek.co/2020/08/27/tesla-hack-control-over-entire-fleet/"
+    },
+    {
+      "rank": "2.",
       "title": "Drug cartel assassinates its enemies with bomb-toting drones",
       "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Level 3 Global Outage",
       "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
-    },
-    {
-      "rank": "3.",
-      "title": "The Big Tesla Hack: A hacker gained control over the entire fleet",
-      "link": "https://electrek.co/2020/08/27/tesla-hack-control-over-entire-fleet/"
     },
     {
       "rank": "4.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "The Recursive Universe",
-      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
+      "title": "Banks create money out of thin air, but it's less impressive than it sounds",
+      "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
     },
     {
       "rank": "12.",
-      "title": "Banks create money out of thin air, but it's less impressive than it sounds",
-      "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
+      "title": "The Recursive Universe",
+      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
     },
     {
       "rank": "13.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "How to Write Unmaintainable Code",
-      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
+      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
+      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
     },
     {
       "rank": "15.",
-      "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
-      "link": "https://www.agner.org/optimize/microarchitecture.pdf"
+      "title": "How to Write Unmaintainable Code",
+      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+      "title": "Multi-Tenant Architectures",
+      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
     },
     {
       "rank": "18.",
-      "title": "Multi-Tenant Architectures",
-      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Tech my dad banned in our house when I was a kid",
-      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
+      "title": "Waiting for Gödel (2016)",
+      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
     },
     {
       "rank": "21.",
@@ -107,28 +107,28 @@
     },
     {
       "rank": "22.",
-      "title": "The Crazy-Tiny Next Generation of Computers (2015)",
-      "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
-    },
-    {
-      "rank": "23.",
       "title": "Ex-Neuralink employees describe rushed timelines clashing with science’s pace",
       "link": "https://www.dailymail.co.uk/sciencetech/article-8662975/Elon-Musks-brain-chip-Neuralink-plagued-turmoil-rushed-timelines-former-employees-claim.html"
     },
     {
+      "rank": "23.",
+      "title": "Tech my dad banned in our house when I was a kid",
+      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
+    },
+    {
       "rank": "24.",
+      "title": "The Crazy-Tiny Next Generation of Computers (2015)",
+      "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
+    },
+    {
+      "rank": "25.",
       "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
       "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Frank Ramsey: A more human philosophy",
       "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
-    },
-    {
-      "rank": "26.",
-      "title": "We Know How to Prevent Megafires",
-      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "We Know How to Prevent Megafires",
+      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
+    },
+    {
+      "rank": "29.",
       "title": "An interesting mistake with Go's context package",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Asana co-founder Dustin Moskovitz exclusive interview",
       "link": "https://www.forbes.com/sites/alexkonrad/2020/08/26/asana-facebook-cofounder-dustin-moskovitz-slow-burn-second-act/#33e27ae37adc"
-    },
-    {
-      "rank": "30.",
-      "title": "I thought I would have accomplished a lot more today and also before I was 35",
-      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     }
   ],
   "metadata": {
