@@ -32,73 +32,73 @@
     },
     {
       "rank": "7.",
-      "title": "Banks create money, but it's less impressive than it sounds",
-      "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
-    },
-    {
-      "rank": "8.",
-      "title": "Visualizing TSNE Maps with Three.js",
-      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
-    },
-    {
-      "rank": "9.",
-      "title": "The Legend of GayBlade",
-      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
-    },
-    {
-      "rank": "10.",
-      "title": "Essentials of Programming Languages",
-      "link": "http://eopl3.com/"
-    },
-    {
-      "rank": "11.",
-      "title": "K-Stash: A search engine for your useful links – for devs and researchers",
-      "link": "https://k-stash.com"
-    },
-    {
-      "rank": "12.",
-      "title": "Level 3 Global Outage",
-      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
-    },
-    {
-      "rank": "13.",
-      "title": "How to Write Unmaintainable Code (2003)",
-      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
-    },
-    {
-      "rank": "14.",
-      "title": "What Shell Am I Using?",
-      "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
-    },
-    {
-      "rank": "15.",
-      "title": "We Replaced an SSD with Storage Class Memory",
-      "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
-    },
-    {
-      "rank": "16.",
-      "title": "Self-driving cars learn to read the body language of people on the street",
-      "link": "https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street"
-    },
-    {
-      "rank": "17.",
-      "title": "Is macOS Becoming Unmaintainable?",
-      "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
-    },
-    {
-      "rank": "18.",
-      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
-      "link": "https://webrtcforthecurious.com/"
-    },
-    {
-      "rank": "19.",
       "title": "Unusual Maps",
       "link": "https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI"
     },
     {
+      "rank": "8.",
+      "title": "Banks create money, but it's less impressive than it sounds",
+      "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
+    },
+    {
+      "rank": "9.",
+      "title": "Visualizing TSNE Maps with Three.js",
+      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
+    },
+    {
+      "rank": "10.",
+      "title": "The Legend of GayBlade",
+      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
+    },
+    {
+      "rank": "11.",
+      "title": "Essentials of Programming Languages",
+      "link": "http://eopl3.com/"
+    },
+    {
+      "rank": "12.",
+      "title": "K-Stash: A search engine for your useful links – for devs and researchers",
+      "link": "https://k-stash.com"
+    },
+    {
+      "rank": "13.",
+      "title": "What Shell Am I Using?",
+      "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
+    },
+    {
+      "rank": "14.",
+      "title": "Level 3 Global Outage",
+      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
+    },
+    {
+      "rank": "15.",
+      "title": "How to Write Unmaintainable Code (2003)",
+      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
+    },
+    {
+      "rank": "16.",
+      "title": "We Replaced an SSD with Storage Class Memory",
+      "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
+    },
+    {
+      "rank": "17.",
+      "title": "Don't Get Stuck",
+      "link": "https://stitcher.io/blog/dont-get-stuck"
+    },
+    {
+      "rank": "18.",
+      "title": "Self-driving cars learn to read the body language of people on the street",
+      "link": "https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street"
+    },
+    {
+      "rank": "19.",
+      "title": "Is macOS Becoming Unmaintainable?",
+      "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
+    },
+    {
       "rank": "20.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
+      "link": "https://webrtcforthecurious.com/"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "Writing a Lisp to x86-64 compiler",
-      "link": "item?id=24328998"
+      "title": "The Easy Ones – Three Bugs Hiding in the Open",
+      "link": "https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/"
     },
     {
       "rank": "23.",
-      "title": "An overview of the science on function length",
-      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
       "rank": "24.",
-      "title": "A terminal-based presentation tool with colors and effects",
-      "link": "https://github.com/vinayak-mehta/present"
-    },
-    {
-      "rank": "25.",
-      "title": "Don't Get Stuck",
-      "link": "https://stitcher.io/blog/dont-get-stuck"
-    },
-    {
-      "rank": "26.",
-      "title": "Yml Coding",
-      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
-    },
-    {
-      "rank": "27.",
-      "title": "High-tech tracking reveals ‘secret world of birds’",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
-    },
-    {
-      "rank": "28.",
-      "title": "Meeting lengths are changing during coronavirus remote work",
-      "link": "https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths"
-    },
-    {
-      "rank": "29.",
       "title": "Win “Active Hours” underscores how you’re not in control of your devices (2016)",
       "link": "https://www.ctrl.blog/entry/windows-active-hours.html"
     },
     {
+      "rank": "25.",
+      "title": "Writing a Lisp to x86-64 compiler",
+      "link": "item?id=24328998"
+    },
+    {
+      "rank": "26.",
+      "title": "An overview of the science on function length",
+      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
+    },
+    {
+      "rank": "27.",
+      "title": "A terminal-based presentation tool with colors and effects",
+      "link": "https://github.com/vinayak-mehta/present"
+    },
+    {
+      "rank": "28.",
+      "title": "Yml Coding",
+      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
+    },
+    {
+      "rank": "29.",
+      "title": "Meeting lengths are changing during coronavirus remote work",
+      "link": "https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths"
+    },
+    {
       "rank": "30.",
-      "title": "After 48 years, Democrats endorse nuclear energy in platform",
-      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+      "title": "High-tech tracking reveals ‘secret world of birds’",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
     }
   ],
   "metadata": {
