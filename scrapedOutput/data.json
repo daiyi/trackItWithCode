@@ -2,153 +2,153 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Keli: A programming language to make Functional Programming a joy for users",
+      "link": "https://keli-language.gitbook.io/doc/"
+    },
+    {
+      "rank": "2.",
+      "title": "Interchange in Houston Is the Same Size as an Entire City Center in Italy",
+      "link": "https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/"
+    },
+    {
+      "rank": "3.",
       "title": "PinePhone Manjaro Community Edition",
       "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
     },
     {
-      "rank": "2.",
+      "rank": "4.",
       "title": "Google, the Stupidity Amplifier (2016)",
       "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
     },
     {
-      "rank": "3.",
+      "rank": "5.",
       "title": "Do we really travel through time with the speed of light?",
       "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
     },
     {
-      "rank": "4.",
+      "rank": "6.",
       "title": "Bits of History, Words of Advice",
       "link": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html"
     },
     {
-      "rank": "5.",
+      "rank": "7.",
       "title": "Sled Theoretical Performance Guide",
       "link": "http://sled.rs/perf.html"
     },
     {
-      "rank": "6.",
+      "rank": "8.",
+      "title": "NASA and ISRO discovered water on the Moon",
+      "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
+    },
+    {
+      "rank": "9.",
       "title": "Analysis of Today's CenturyLink/Level(3) Outage",
       "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
     },
     {
-      "rank": "7.",
+      "rank": "10.",
       "title": "Nim – version 1.2.6 and 1.0.8 released",
       "link": "https://nim-lang.org/blog/2020/07/30/versions-126-and-108-released.html"
     },
     {
-      "rank": "8.",
+      "rank": "11.",
       "title": "China again boosts R&D spending by more than 10%",
       "link": "https://www.sciencemag.org/news/2020/08/china-again-boosts-rd-spending-more-10"
     },
     {
-      "rank": "9.",
+      "rank": "12.",
       "title": "Unusual Maps",
       "link": "https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI"
     },
     {
-      "rank": "10.",
+      "rank": "13.",
+      "title": "Making Navigation Work (2017)",
+      "link": "http://gameshelf.jmac.org/2017/05/making-navigation-work/"
+    },
+    {
+      "rank": "14.",
       "title": "The basic dramatic situations, according to 1919 manual for screenwriters",
       "link": "http://www.openculture.com/2020/08/37-possible-stories.html"
     },
     {
-      "rank": "11.",
+      "rank": "15.",
       "title": "Why are there 5280 feet in a mile?",
       "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
     },
     {
-      "rank": "12.",
+      "rank": "16.",
       "title": "François Chollet (Keras creator): we're witnessing a deep learning recession",
       "link": "https://twitter.com/fchollet/status/1300137812872765440"
     },
     {
-      "rank": "13.",
-      "title": "Sum Types in Julia and Rust",
-      "link": "https://andreaskroepelin.de/blog/sum_types/"
-    },
-    {
-      "rank": "14.",
+      "rank": "17.",
       "title": "Italian Ruby",
       "link": "https://github.com/Pluvie/italian-ruby"
     },
     {
-      "rank": "15.",
-      "title": "Identifying People by Their Browsing Histories",
-      "link": "https://www.schneier.com/blog/archives/2020/08/identifying_peo_9.html"
+      "rank": "18.",
+      "title": "Sum Types in Julia and Rust",
+      "link": "https://andreaskroepelin.de/blog/sum_types/"
     },
     {
-      "rank": "16.",
+      "rank": "19.",
       "title": "Banks create money, but it's less impressive than it sounds",
       "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
     },
     {
-      "rank": "17.",
-      "title": "Drug cartel assassinates its enemies with bomb-toting drones",
-      "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
+      "rank": "20.",
+      "title": "Identifying People by Their Browsing Histories",
+      "link": "https://www.schneier.com/blog/archives/2020/08/identifying_peo_9.html"
     },
     {
-      "rank": "18.",
+      "rank": "21.",
       "title": "The Easy Ones – Three Bugs Hiding in the Open",
       "link": "https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/"
     },
     {
-      "rank": "19.",
-      "title": "Visualizing TSNE Maps with Three.js",
-      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
-    },
-    {
-      "rank": "20.",
-      "title": "Don't Get Stuck",
-      "link": "https://stitcher.io/blog/dont-get-stuck"
-    },
-    {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Do-it-Yourself Vaccines for Covid-19",
       "link": "https://www.scientificamerican.com/article/do-it-yourself-vaccines-for-covid-19/"
     },
     {
-      "rank": "22.",
-      "title": "Ubuntu 20.04’s zsys adds ZFS snapshots to package management",
-      "link": "https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/"
-    },
-    {
       "rank": "23.",
-      "title": "Level 3 Global Outage",
-      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
+      "title": "Visualizing TSNE Maps with Three.js",
+      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
     },
     {
       "rank": "24.",
-      "title": "We Replaced an SSD with Storage Class Memory",
-      "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
+      "title": "Don't Get Stuck",
+      "link": "https://stitcher.io/blog/dont-get-stuck"
     },
     {
       "rank": "25.",
-      "title": "K-Stash: A search engine for your useful links – for devs and researchers",
-      "link": "https://k-stash.com"
-    },
-    {
-      "rank": "26.",
       "title": "Pinterest pays $89.5M to terminate San Francisco office lease",
       "link": "https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php"
     },
     {
+      "rank": "26.",
+      "title": "We Replaced an SSD with Storage Class Memory",
+      "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
+    },
+    {
       "rank": "27.",
-      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
-      "link": "https://webrtcforthecurious.com/"
+      "title": "Level 3 Global Outage",
+      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
     },
     {
       "rank": "28.",
-      "title": "Players are fixing Microsoft Flight Simulator’s monuments with Google Maps",
-      "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
+      "title": "Ubuntu 20.04’s zsys adds ZFS snapshots to package management",
+      "link": "https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/"
     },
     {
       "rank": "29.",
-      "title": "High-tech tracking reveals ‘secret world of birds’",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
+      "title": "K-Stash: A search engine for your useful links – for devs and researchers",
+      "link": "https://k-stash.com"
     },
     {
       "rank": "30.",
-      "title": "Converting Boolean-Logic Decision Trees to Finite State Machines",
-      "link": "https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2"
+      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
+      "link": "https://webrtcforthecurious.com/"
     }
   ],
   "metadata": {
