@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
-      "title": "Self – Fun Through Simplicity",
-      "link": "https://selflanguage.org/"
-    },
-    {
-      "rank": "16.",
       "title": "Ruby: We have decided to go forward to 3.0 this year",
       "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "3D face: fast, accurate and stable reconstruction",
       "link": "https://github.com/cleardusk/3DDFA_V2"
+    },
+    {
+      "rank": "17.",
+      "title": "Self – Fun Through Simplicity",
+      "link": "https://selflanguage.org/"
     },
     {
       "rank": "18.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "EUtility Electric Tractor is powered by a battery, not diesel",
-      "link": "https://newatlas.com/environment/solectrac-eutility-electric-tractor/"
+      "title": "Cracking Phobos UUID",
+      "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Cracking Phobos UUID",
-      "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
+      "title": "Show HN: Friendly Fire – Open-source, Metroidvania-style game in the browser",
+      "link": "https://friendlyfiregame.com/"
     },
     {
       "rank": "22.",
-      "title": "Show HN: Friendly Fire – Open-source, Metroidvania-style game in the browser",
-      "link": "https://friendlyfiregame.com/"
+      "title": "EUtility Electric Tractor is powered by a battery, not diesel",
+      "link": "https://newatlas.com/environment/solectrac-eutility-electric-tractor/"
     },
     {
       "rank": "23.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "Intel MKL on AMD Zen",
-      "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
-    },
-    {
-      "rank": "26.",
-      "title": "Looking for the vulture assist with Neolithic burials",
-      "link": "http://johnhawks.net/weblog/reviews/archaeology/neolithic/burials-vulture-excarnation-pilloud-2016.html"
-    },
-    {
-      "rank": "27.",
-      "title": "Single-family housing in the Bay Area linked to more racially segregated cities",
-      "link": "https://www.mercurynews.com/2020/08/20/single-family-housing-in-the-bay-area-linked-to-more-racially-segregated-cities-report/"
-    },
-    {
-      "rank": "28.",
-      "title": "Battleshorts, exaptations, and the limits of STAMP",
-      "link": "https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/"
-    },
-    {
-      "rank": "29.",
       "title": "Robotic Manipulation (Online Textbook)",
       "link": "http://manipulation.csail.mit.edu/"
     },
     {
-      "rank": "30.",
+      "rank": "26.",
+      "title": "Battleshorts, exaptations, and the limits of STAMP",
+      "link": "https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/"
+    },
+    {
+      "rank": "27.",
+      "title": "Intel MKL on AMD Zen",
+      "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
+    },
+    {
+      "rank": "28.",
+      "title": "Looking for the vulture assist with Neolithic burials",
+      "link": "http://johnhawks.net/weblog/reviews/archaeology/neolithic/burials-vulture-excarnation-pilloud-2016.html"
+    },
+    {
+      "rank": "29.",
       "title": "Effective testing for machine learning systems",
       "link": "https://www.jeremyjordan.me/testing-ml/"
+    },
+    {
+      "rank": "30.",
+      "title": "Italian Ruby",
+      "link": "https://github.com/Pluvie/italian-ruby"
     }
   ],
   "metadata": {
