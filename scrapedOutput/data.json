@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
+      "title": "Analysis of Today's CenturyLink/Level(3) Outage",
+      "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
+    },
+    {
+      "rank": "3.",
       "title": "Why are there 5280 feet in a mile?",
       "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Players are fixing Microsoft Flight Simulator’s monuments with Google Maps",
       "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
-    },
-    {
-      "rank": "4.",
-      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
-      "link": "https://webrtcforthecurious.com/"
     },
     {
       "rank": "5.",
@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
+      "title": "Sum Types in Julia and Rust",
+      "link": "https://andreaskroepelin.de/blog/sum_types/"
+    },
+    {
+      "rank": "7.",
       "title": "A terminal-based presentation tool with colors and effects",
       "link": "https://github.com/vinayak-mehta/present"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "The Legend of GayBlade",
       "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
-    },
-    {
-      "rank": "8.",
-      "title": "Sum Types in Julia and Rust",
-      "link": "https://andreaskroepelin.de/blog/sum_types/"
     },
     {
       "rank": "9.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "Visualizing TSNE Maps with Three.js",
-      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
+      "title": "K-Stash: A search engine for your useful links – for devs and researchers",
+      "link": "https://k-stash.com"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "Self-driving cars learn to read the body language of people on the street",
-      "link": "https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street"
+      "title": "Visualizing TSNE Maps with Three.js",
+      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "K-Stash: A search engine for your useful links – for devs and researchers",
-      "link": "https://k-stash.com"
+      "title": "Self-driving cars learn to read the body language of people on the street",
+      "link": "https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street"
     },
     {
       "rank": "16.",
@@ -87,18 +87,18 @@
     },
     {
       "rank": "18.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
+      "link": "https://webrtcforthecurious.com/"
     },
     {
       "rank": "19.",
-      "title": "Meeting lengths are changing during coronavirus remote work",
-      "link": "https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths"
+      "title": "Is macOS Becoming Unmaintainable?",
+      "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
     },
     {
       "rank": "20.",
-      "title": "High-tech tracking reveals ‘secret world of birds’",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
       "rank": "21.",
@@ -107,18 +107,18 @@
     },
     {
       "rank": "22.",
-      "title": "Last Week on My Mac: Is macOS Becoming Unmaintainable?",
-      "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
+      "title": "High-tech tracking reveals ‘secret world of birds’",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
     },
     {
       "rank": "23.",
-      "title": "Cloudlfare's Analysis of Today's CenturyLink/Level(3) Outage",
-      "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
+      "title": "Meeting lengths are changing during coronavirus remote work",
+      "link": "https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths"
     },
     {
       "rank": "24.",
-      "title": "Waiting for Gödel (2016)",
-      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
+      "title": "Multi-Tenant Architectures",
+      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
     },
     {
       "rank": "25.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
-      "title": "The Unexpected Elegance of Irrigation Systems from Above",
-      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
+      "title": "Waiting for Gödel (2016)",
+      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
     },
     {
       "rank": "27.",
-      "title": "Multi-Tenant Architectures",
-      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
+      "title": "After 48 years, Democrats endorse nuclear energy in platform",
+      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
     },
     {
       "rank": "28.",
-      "title": "After 48 years, Democrats endorse nuclear energy in platform",
-      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+      "title": "FB Executive Supported India’s Modi, Disparaged Opp. In Internal Messages",
+      "link": "https://www.wsj.com/articles/facebook-executive-supported-indias-modi-disparaged-opposition-in-internal-messages-11598809348"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Frank Ramsey: A more human philosophy",
-      "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
+      "title": "Win “Active Hours” underscores how you’re not in control of your devices (2016)",
+      "link": "https://www.ctrl.blog/entry/windows-active-hours.html"
     }
   ],
   "metadata": {
