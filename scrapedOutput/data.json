@@ -27,43 +27,43 @@
     },
     {
       "rank": "6.",
-      "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
-      "link": "http://vimacapp.com"
-    },
-    {
-      "rank": "7.",
       "title": "Sum Types in Julia and Rust",
       "link": "https://andreaskroepelin.de/blog/sum_types/"
     },
     {
+      "rank": "7.",
+      "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
+      "link": "http://vimacapp.com"
+    },
+    {
       "rank": "8.",
-      "title": "What Shell Am I Using?",
-      "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
-    },
-    {
-      "rank": "9.",
-      "title": "Level 3 Global Outage",
-      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
-    },
-    {
-      "rank": "10.",
-      "title": "Why are there 5280 feet in a mile?",
-      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
-    },
-    {
-      "rank": "11.",
       "title": "K-Stash: A search engine for your useful links – for devs and researchers",
       "link": "https://k-stash.com"
     },
     {
+      "rank": "9.",
+      "title": "What Shell Am I Using?",
+      "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
+    },
+    {
+      "rank": "10.",
+      "title": "Level 3 Global Outage",
+      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
+    },
+    {
+      "rank": "11.",
+      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
+      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+    },
+    {
       "rank": "12.",
-      "title": "The Recursive Universe",
-      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
+      "title": "Why are there 5280 feet in a mile?",
+      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
     },
     {
       "rank": "13.",
-      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
-      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+      "title": "Waiting for Gödel (2016)",
+      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Waiting for Gödel (2016)",
-      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
+      "title": "Self-driving cars learn to read the body language of people on the street",
+      "link": "https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street"
     },
     {
       "rank": "18.",
@@ -92,23 +92,23 @@
     },
     {
       "rank": "19.",
+      "title": "Tech my dad banned in our house when I was a kid",
+      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
+    },
+    {
+      "rank": "20.",
       "title": "Yml Coding",
       "link": "https://cloud.google.com/workflows/docs/reference/syntax"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "After 48 years, Democrats endorse nuclear energy in platform",
       "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
     },
     {
-      "rank": "21.",
-      "title": "Self-driving cars learn to read the body language of people on the street",
-      "link": "https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street"
-    },
-    {
       "rank": "22.",
-      "title": "Tech my dad banned in our house when I was a kid",
-      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
+      "title": "Last Week on My Mac: Is macOS Becoming Unmaintainable?",
+      "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
     },
     {
       "rank": "23.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "Last Week on My Mac: Is macOS Becoming Unmaintainable?",
-      "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
+      "title": "How to Write Unmaintainable Code",
+      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
     },
     {
       "rank": "25.",
-      "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
-      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
+      "title": "The Recursive Universe",
+      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "How to Write Unmaintainable Code",
-      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
-    },
-    {
-      "rank": "28.",
       "title": "Frank Ramsey: A more human philosophy",
       "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "I thought I would have accomplished a lot more today and also before I was 35",
       "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "We Know How to Prevent Megafires",
       "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
+    },
+    {
+      "rank": "30.",
+      "title": "American Academy of Sleep Medicine calls for elimination of daylight saving time",
+      "link": "https://aasm.org/american-academy-of-sleep-medicine-calls-for-elimination-of-daylight-saving-time/"
     }
   ],
   "metadata": {
