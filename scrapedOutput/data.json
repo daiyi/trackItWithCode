@@ -27,23 +27,23 @@
     },
     {
       "rank": "6.",
+      "title": "Deep learning job postings have collapsed in the past six months",
+      "link": "https://twitter.com/fchollet/status/1300137812872765440"
+    },
+    {
+      "rank": "7.",
       "title": "BuildZoom (better way to build custom homes) is hiring a principal engineer",
       "link": "https://jobs.lever.co/buildzoom"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Show HN: ML From Scratch – free online textbook",
       "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Mathematicians Report New Discovery About the Dodecahedron",
       "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
-    },
-    {
-      "rank": "9.",
-      "title": "Deep learning job postings have collapsed in the past six months",
-      "link": "https://twitter.com/fchollet/status/1300137812872765440"
     },
     {
       "rank": "10.",
@@ -57,33 +57,33 @@
     },
     {
       "rank": "12.",
-      "title": "PinePhone Manjaro Community Edition",
-      "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
-    },
-    {
-      "rank": "13.",
-      "title": "Ruby: We have decided to go forward to 3.0 this year",
-      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
-    },
-    {
-      "rank": "14.",
-      "title": "As above, so below, part 2. Bare metal Rust generics",
-      "link": "https://www.ecorax.net/as-above-so-below-2/"
-    },
-    {
-      "rank": "15.",
       "title": "The surreal art of ‘unnatural lighting’",
       "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
     },
     {
-      "rank": "16.",
+      "rank": "13.",
+      "title": "PinePhone Manjaro Community Edition",
+      "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
+    },
+    {
+      "rank": "14.",
+      "title": "Ruby: We have decided to go forward to 3.0 this year",
+      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
+    },
+    {
+      "rank": "15.",
       "title": "Self – Fun Through Simplicity",
       "link": "https://selflanguage.org/"
     },
     {
+      "rank": "16.",
+      "title": "As above, so below, part 2. Bare metal Rust generics",
+      "link": "https://www.ecorax.net/as-above-so-below-2/"
+    },
+    {
       "rank": "17.",
-      "title": "Don't Be a Sucker",
-      "link": "https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00"
+      "title": "How should we build the APIs of tomorrow?",
+      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "How should we build the APIs of tomorrow?",
-      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
+      "title": "Battleshorts, exaptations, and the limits of STAMP",
+      "link": "https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/"
     },
     {
       "rank": "20.",
-      "title": "Battleshorts, exaptations, and the limits of STAMP",
-      "link": "https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/"
+      "title": "3D face: fast, accurate and stable reconstruction",
+      "link": "https://github.com/cleardusk/3DDFA_V2"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Show HN: Friendly Fire – Open-source, Metroidvania-style game in the browser",
-      "link": "https://friendlyfiregame.com/"
+      "title": "Don't Be a Sucker",
+      "link": "https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00"
     },
     {
       "rank": "23.",
-      "title": "Robotic Manipulation (Online Textbook)",
-      "link": "http://manipulation.csail.mit.edu/"
+      "title": "Cracking Phobos UUID",
+      "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "Cracking Phobos UUID",
-      "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
+      "title": "Show HN: Friendly Fire – Open-source, Metroidvania-style game in the browser",
+      "link": "https://friendlyfiregame.com/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Significant sex differences in Covid-19 immune response",
-      "link": "https://news.yale.edu/2020/08/26/sex-differences-covid-19-immune-responses-affect-patient-outcomes?"
-    },
-    {
-      "rank": "28.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
+      "rank": "28.",
+      "title": "Significant sex differences in Covid-19 immune response",
+      "link": "https://news.yale.edu/2020/08/26/sex-differences-covid-19-immune-responses-affect-patient-outcomes?"
+    },
+    {
       "rank": "29.",
-      "title": "Do we really travel through time with the speed of light?",
-      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
+      "title": "Robotic Manipulation (Online Textbook)",
+      "link": "http://manipulation.csail.mit.edu/"
     },
     {
       "rank": "30.",
-      "title": "3D face: fast, accurate and stable reconstruction",
-      "link": "https://github.com/cleardusk/3DDFA_V2"
+      "title": "Do we really travel through time with the speed of light?",
+      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
     }
   ],
   "metadata": {
