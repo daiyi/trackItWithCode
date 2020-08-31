@@ -32,33 +32,33 @@
     },
     {
       "rank": "7.",
-      "title": "The Legend of GayBlade",
-      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
-    },
-    {
-      "rank": "8.",
-      "title": "Essentials of Programming Languages",
-      "link": "http://eopl3.com/"
-    },
-    {
-      "rank": "9.",
       "title": "Banks create money, but it's less impressive than it sounds",
       "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
     },
     {
+      "rank": "8.",
+      "title": "The Legend of GayBlade",
+      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
+    },
+    {
+      "rank": "9.",
+      "title": "Essentials of Programming Languages",
+      "link": "http://eopl3.com/"
+    },
+    {
       "rank": "10.",
+      "title": "Visualizing TSNE Maps with Three.js",
+      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
+    },
+    {
+      "rank": "11.",
       "title": "K-Stash: A search engine for your useful links – for devs and researchers",
       "link": "https://k-stash.com"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "How to Write Unmaintainable Code (2003)",
       "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
-    },
-    {
-      "rank": "12.",
-      "title": "What Shell Am I Using?",
-      "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
     },
     {
       "rank": "13.",
@@ -67,28 +67,28 @@
     },
     {
       "rank": "14.",
+      "title": "What Shell Am I Using?",
+      "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
+    },
+    {
+      "rank": "15.",
       "title": "Self-driving cars learn to read the body language of people on the street",
       "link": "https://spectrum.ieee.org/transportation/self-driving/selfdriving-cars-learn-to-read-the-body-language-of-people-on-the-street"
     },
     {
-      "rank": "15.",
-      "title": "Converting Boolean-Logic Decision Trees to Finite State Machines",
-      "link": "https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2"
-    },
-    {
       "rank": "16.",
-      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
-      "link": "https://webrtcforthecurious.com/"
-    },
-    {
-      "rank": "17.",
       "title": "We Replaced an SSD with Storage Class Memory",
       "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
     },
     {
+      "rank": "17.",
+      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
+      "link": "https://webrtcforthecurious.com/"
+    },
+    {
       "rank": "18.",
-      "title": "Visualizing TSNE Maps with Three.js",
-      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
+      "title": "Converting Boolean-Logic Decision Trees to Finite State Machines",
+      "link": "https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
-      "title": "FB Executive Supported India’s Modi, Disparaged Opp. In Internal Messages",
-      "link": "https://www.wsj.com/articles/facebook-executive-supported-indias-modi-disparaged-opposition-in-internal-messages-11598809348"
-    },
-    {
-      "rank": "21.",
       "title": "How to Read a Log Scale",
       "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "An overview of the science on function length",
       "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "High-tech tracking reveals ‘secret world of birds’",
       "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
     },
     {
-      "rank": "24.",
-      "title": "Writing a Lisp to x86-64 compiler",
-      "link": "item?id=24328998"
-    },
-    {
-      "rank": "25.",
-      "title": "A terminal-based presentation tool with colors and effects",
-      "link": "https://github.com/vinayak-mehta/present"
-    },
-    {
-      "rank": "26.",
-      "title": "Win “Active Hours” underscores how you’re not in control of your devices (2016)",
-      "link": "https://www.ctrl.blog/entry/windows-active-hours.html"
-    },
-    {
-      "rank": "27.",
+      "rank": "23.",
       "title": "Multi-Tenant Architectures",
       "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
     },
     {
-      "rank": "28.",
+      "rank": "24.",
+      "title": "A terminal-based presentation tool with colors and effects",
+      "link": "https://github.com/vinayak-mehta/present"
+    },
+    {
+      "rank": "25.",
       "title": "Yml Coding",
       "link": "https://cloud.google.com/workflows/docs/reference/syntax"
     },
     {
-      "rank": "29.",
+      "rank": "26.",
       "title": "Meeting lengths are changing during coronavirus remote work",
       "link": "https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths"
     },
     {
-      "rank": "30.",
+      "rank": "27.",
+      "title": "Win “Active Hours” underscores how you’re not in control of your devices (2016)",
+      "link": "https://www.ctrl.blog/entry/windows-active-hours.html"
+    },
+    {
+      "rank": "28.",
+      "title": "Writing a Lisp to x86-64 compiler",
+      "link": "item?id=24328998"
+    },
+    {
+      "rank": "29.",
       "title": "Waiting for Gödel (2016)",
       "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
+    },
+    {
+      "rank": "30.",
+      "title": "After 48 years, Democrats endorse nuclear energy in platform",
+      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
     }
   ],
   "metadata": {
