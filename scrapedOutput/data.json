@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "The basic dramatic situations, according to 1919 manual for screenwriters",
-      "link": "http://www.openculture.com/2020/08/37-possible-stories.html"
+      "title": "Why Smalltalk Has Failed",
+      "link": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html?m=1"
     },
     {
       "rank": "7.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Why are there 5280 feet in a mile?",
-      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
+      "title": "The basic dramatic situations, according to 1919 manual for screenwriters",
+      "link": "http://www.openculture.com/2020/08/37-possible-stories.html"
     },
     {
       "rank": "9.",
-      "title": "An Argument for Race Abolitionism (2020)",
-      "link": "https://www.spiked-online.com/2020/08/04/we-need-to-abolish-race/"
+      "title": "Why are there 5280 feet in a mile?",
+      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
     },
     {
       "rank": "10.",
@@ -57,28 +57,28 @@
     },
     {
       "rank": "12.",
-      "title": "Why Smalltalk Has Failed",
-      "link": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html?m=1"
+      "title": "Pinterest pays $89.5M to terminate San Francisco office lease",
+      "link": "https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php"
     },
     {
       "rank": "13.",
+      "title": "Banks create money, but it's less impressive than it sounds",
+      "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
+    },
+    {
+      "rank": "14.",
       "title": "Drug cartel assassinates its enemies with bomb-toting drones",
       "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Ubuntu 20.04’s zsys adds ZFS snapshots to package management",
       "link": "https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "The Easy Ones – Three Bugs Hiding in the Open",
       "link": "https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/"
-    },
-    {
-      "rank": "16.",
-      "title": "Banks create money, but it's less impressive than it sounds",
-      "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
     },
     {
       "rank": "17.",
@@ -92,28 +92,28 @@
     },
     {
       "rank": "19.",
+      "title": "An Argument for Race Abolitionism (2020)",
+      "link": "https://www.spiked-online.com/2020/08/04/we-need-to-abolish-race/"
+    },
+    {
+      "rank": "20.",
       "title": "What Shell Am I Using?",
       "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "K-Stash: A search engine for your useful links – for devs and researchers",
       "link": "https://k-stash.com"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Level 3 Global Outage",
       "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "How to Write Unmaintainable Code (2003)",
       "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
-    },
-    {
-      "rank": "23.",
-      "title": "Pinterest pays $89.5M to terminate San Francisco office lease",
-      "link": "https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "Do-it-Yourself Vaccines for Covid-19",
+      "link": "https://www.scientificamerican.com/article/do-it-yourself-vaccines-for-covid-19/"
+    },
+    {
+      "rank": "26.",
       "title": "Don't Get Stuck",
       "link": "https://stitcher.io/blog/dont-get-stuck"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
+      "title": "François Chollet (Keras creator): we're witnessing a deep learning recession",
+      "link": "https://twitter.com/fchollet/status/1300137812872765440"
+    },
+    {
+      "rank": "28.",
       "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
       "link": "https://webrtcforthecurious.com/"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "Players are fixing Microsoft Flight Simulator’s monuments with Google Maps",
       "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
     },
     {
-      "rank": "28.",
-      "title": "Win “Active Hours” underscores how you’re not in control of your devices (2016)",
-      "link": "https://www.ctrl.blog/entry/windows-active-hours.html"
-    },
-    {
-      "rank": "29.",
-      "title": "Yml Coding",
-      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
-    },
-    {
       "rank": "30.",
-      "title": "A terminal-based presentation tool with colors and effects",
-      "link": "https://github.com/vinayak-mehta/present"
+      "title": "Writing a Lisp to x86-64 compiler",
+      "link": "item?id=24328998"
     }
   ],
   "metadata": {
