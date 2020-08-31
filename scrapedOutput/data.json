@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Do we really travel through time with the speed of light?",
-      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
+      "title": "Google, the Stupidity Amplifier",
+      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
     },
     {
       "rank": "2.",
-      "title": "Google, the Stupidity Amplifier",
-      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
+      "title": "Do we really travel through time with the speed of light?",
+      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
     },
     {
       "rank": "3.",
@@ -17,28 +17,28 @@
     },
     {
       "rank": "4.",
-      "title": "Why are there 5280 feet in a mile?",
-      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
-    },
-    {
-      "rank": "5.",
       "title": "Unusual Maps",
       "link": "https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI"
     },
     {
-      "rank": "6.",
-      "title": "Players are fixing Microsoft Flight Simulator’s monuments with Google Maps",
-      "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
+      "rank": "5.",
+      "title": "Why are there 5280 feet in a mile?",
+      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Sum Types in Julia and Rust",
       "link": "https://andreaskroepelin.de/blog/sum_types/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Drug cartel assassinates its enemies with bomb-toting drones",
       "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
+    },
+    {
+      "rank": "8.",
+      "title": "The basic dramatic situations, according to 1919 manual for screenwriters",
+      "link": "http://www.openculture.com/2020/08/37-possible-stories.html"
     },
     {
       "rank": "9.",
@@ -47,93 +47,93 @@
     },
     {
       "rank": "10.",
-      "title": "Visualizing TSNE Maps with Three.js",
-      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
-    },
-    {
-      "rank": "11.",
       "title": "The Legend of GayBlade",
       "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
     },
     {
-      "rank": "12.",
-      "title": "Essentials of Programming Languages",
-      "link": "http://eopl3.com/"
-    },
-    {
-      "rank": "13.",
+      "rank": "11.",
       "title": "The Easy Ones – Three Bugs Hiding in the Open",
       "link": "https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/"
     },
     {
-      "rank": "14.",
+      "rank": "12.",
+      "title": "Visualizing TSNE Maps with Three.js",
+      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
+    },
+    {
+      "rank": "13.",
       "title": "We Replaced an SSD with Storage Class Memory",
       "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "K-Stash: A search engine for your useful links – for devs and researchers",
       "link": "https://k-stash.com"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "What Shell Am I Using?",
       "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Level 3 Global Outage",
       "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "How to Write Unmaintainable Code (2003)",
       "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Is macOS Becoming Unmaintainable?",
       "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
     },
     {
-      "rank": "20.",
-      "title": "Don't Get Stuck",
-      "link": "https://stitcher.io/blog/dont-get-stuck"
-    },
-    {
-      "rank": "21.",
+      "rank": "19.",
       "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
       "link": "https://webrtcforthecurious.com/"
     },
     {
-      "rank": "22.",
-      "title": "Converting Boolean-Logic Decision Trees to Finite State Machines",
-      "link": "https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2"
+      "rank": "20.",
+      "title": "Players are fixing Microsoft Flight Simulator’s monuments with Google Maps",
+      "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
+      "title": "Don't Get Stuck",
+      "link": "https://stitcher.io/blog/dont-get-stuck"
+    },
+    {
+      "rank": "22.",
       "title": "How to Read a Log Scale",
       "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
+      "rank": "23.",
+      "title": "Converting Boolean-Logic Decision Trees to Finite State Machines",
+      "link": "https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2"
+    },
+    {
       "rank": "24.",
-      "title": "Writing a Lisp to x86-64 compiler",
-      "link": "item?id=24328998"
+      "title": "Ubuntu 20.04’s zsys adds ZFS snapshots to package management",
+      "link": "https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/"
     },
     {
       "rank": "25.",
-      "title": "Win “Active Hours” underscores how you’re not in control of your devices (2016)",
-      "link": "https://www.ctrl.blog/entry/windows-active-hours.html"
-    },
-    {
-      "rank": "26.",
       "title": "An overview of the science on function length",
       "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
     },
     {
+      "rank": "26.",
+      "title": "Win “Active Hours” underscores how you’re not in control of your devices (2016)",
+      "link": "https://www.ctrl.blog/entry/windows-active-hours.html"
+    },
+    {
       "rank": "27.",
-      "title": "High-tech tracking reveals ‘secret world of birds’",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
+      "title": "Writing a Lisp to x86-64 compiler",
+      "link": "item?id=24328998"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Yml Coding",
-      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
+      "title": "High-tech tracking reveals ‘secret world of birds’",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
     },
     {
       "rank": "30.",
-      "title": "Meeting lengths are changing during coronavirus remote work",
-      "link": "https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths"
+      "title": "Yml Coding",
+      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
     }
   ],
   "metadata": {
