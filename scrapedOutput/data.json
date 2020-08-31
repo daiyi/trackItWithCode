@@ -57,38 +57,38 @@
     },
     {
       "rank": "12.",
-      "title": "Sum Types in Julia and Rust",
-      "link": "https://andreaskroepelin.de/blog/sum_types/"
-    },
-    {
-      "rank": "13.",
       "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
       "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "How to Read a Log Scale",
       "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
-      "rank": "15.",
-      "title": "Waiting for Gödel (2016)",
-      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
-    },
-    {
-      "rank": "16.",
+      "rank": "14.",
       "title": "An overview of the science on function length",
       "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
     },
     {
+      "rank": "15.",
+      "title": "Sum Types in Julia and Rust",
+      "link": "https://andreaskroepelin.de/blog/sum_types/"
+    },
+    {
+      "rank": "16.",
+      "title": "Waiting for Gödel (2016)",
+      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
+    },
+    {
       "rank": "17.",
-      "title": "High-tech tracking reveals ‘secret world of birds’",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
+      "title": "The Unexpected Elegance of Irrigation Systems from Above",
+      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
     },
     {
       "rank": "18.",
-      "title": "The Unexpected Elegance of Irrigation Systems from Above",
-      "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
+      "title": "High-tech tracking reveals ‘secret world of birds’",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
     },
     {
       "rank": "19.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Last Week on My Mac: Is macOS Becoming Unmaintainable?",
-      "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
+      "title": "After 48 years, Democrats endorse nuclear energy in platform",
+      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
     },
     {
       "rank": "22.",
-      "title": "After 48 years, Democrats endorse nuclear energy in platform",
-      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+      "title": "Last Week on My Mac: Is macOS Becoming Unmaintainable?",
+      "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
     },
     {
       "rank": "23.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "We Know How to Prevent Megafires",
-      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
-    },
-    {
-      "rank": "28.",
       "title": "Frank Ramsey: A more human philosophy",
       "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
     },
     {
+      "rank": "28.",
+      "title": "We Know How to Prevent Megafires",
+      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
+    },
+    {
       "rank": "29.",
-      "title": "The Crazy-Tiny Next Generation of Computers (2015)",
-      "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
+      "title": "I thought I would have accomplished a lot more today and also before I was 35",
+      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     },
     {
       "rank": "30.",
-      "title": "I thought I would have accomplished a lot more today and also before I was 35",
-      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
+      "title": "The Crazy-Tiny Next Generation of Computers (2015)",
+      "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
     }
   ],
   "metadata": {
