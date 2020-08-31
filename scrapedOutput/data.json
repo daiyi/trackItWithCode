@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "Level 3 Global Outage",
-      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
+      "title": "How to Write Unmaintainable Code (2003)",
+      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
     },
     {
       "rank": "14.",
-      "title": "How to Write Unmaintainable Code (2003)",
-      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
+      "title": "Level 3 Global Outage",
+      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
     },
     {
       "rank": "15.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "Visualizing TSNE Maps with Three.js",
-      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
+      "title": "We Replaced an SSD with Storage Class Memory",
+      "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
     },
     {
       "rank": "17.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
+      "title": "Visualizing TSNE Maps with Three.js",
+      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
+    },
+    {
+      "rank": "19.",
       "title": "Converting Boolean-Logic Decision Trees to Finite State Machines",
       "link": "https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "FB Executive Supported India’s Modi, Disparaged Opp. In Internal Messages",
       "link": "https://www.wsj.com/articles/facebook-executive-supported-indias-modi-disparaged-opposition-in-internal-messages-11598809348"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "How to Read a Log Scale",
       "link": "https://blog.datawrapper.de/weeklychart-logscale/"
-    },
-    {
-      "rank": "21.",
-      "title": "High-tech tracking reveals ‘secret world of birds’",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
     },
     {
       "rank": "22.",
@@ -112,33 +112,33 @@
     },
     {
       "rank": "23.",
-      "title": "An overview of the science on function length",
-      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
-    },
-    {
-      "rank": "24.",
       "title": "Writing a Lisp to x86-64 compiler",
       "link": "item?id=24328998"
     },
     {
+      "rank": "24.",
+      "title": "High-tech tracking reveals ‘secret world of birds’",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
+    },
+    {
       "rank": "25.",
-      "title": "Multi-Tenant Architectures",
-      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
+      "title": "An overview of the science on function length",
+      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
     },
     {
       "rank": "26.",
-      "title": "Waiting for Gödel (2016)",
-      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
-    },
-    {
-      "rank": "27.",
       "title": "Yml Coding",
       "link": "https://cloud.google.com/workflows/docs/reference/syntax"
     },
     {
+      "rank": "27.",
+      "title": "Multi-Tenant Architectures",
+      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
+    },
+    {
       "rank": "28.",
-      "title": "Meeting lengths are changing during coronavirus remote work",
-      "link": "https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths"
+      "title": "Waiting for Gödel (2016)",
+      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
-      "link": "http://vimacapp.com"
+      "title": "Meeting lengths are changing during coronavirus remote work",
+      "link": "https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths"
     }
   ],
   "metadata": {
