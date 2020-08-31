@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "How to Write Unmaintainable Code",
-      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
+      "title": "Waiting for Gödel (2016)",
+      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Multi-Tenant Architectures",
-      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
+      "title": "How to Write Unmaintainable Code",
+      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
     },
     {
       "rank": "18.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+      "title": "Multi-Tenant Architectures",
+      "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Waiting for Gödel (2016)",
-      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
+      "title": "How to Read a Log Scale",
+      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Ex-Neuralink employees describe rushed timelines clashing with science’s pace",
-      "link": "https://www.dailymail.co.uk/sciencetech/article-8662975/Elon-Musks-brain-chip-Neuralink-plagued-turmoil-rushed-timelines-former-employees-claim.html"
+      "title": "Tech my dad banned in our house when I was a kid",
+      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
     },
     {
       "rank": "23.",
-      "title": "Tech my dad banned in our house when I was a kid",
-      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
+      "title": "Ex-Neuralink employees describe rushed timelines clashing with science’s pace",
+      "link": "https://www.dailymail.co.uk/sciencetech/article-8662975/Elon-Musks-brain-chip-Neuralink-plagued-turmoil-rushed-timelines-former-employees-claim.html"
     },
     {
       "rank": "24.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
+      "title": "After 48 years, Democrats endorse nuclear energy in platform",
+      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+    },
+    {
+      "rank": "26.",
       "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
       "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Frank Ramsey: A more human philosophy",
       "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
-    },
-    {
-      "rank": "27.",
-      "title": "After 48 years, Democrats endorse nuclear energy in platform",
-      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Asana co-founder Dustin Moskovitz exclusive interview",
-      "link": "https://www.forbes.com/sites/alexkonrad/2020/08/26/asana-facebook-cofounder-dustin-moskovitz-slow-burn-second-act/#33e27ae37adc"
+      "title": "I thought I would have accomplished a lot more today and also before I was 35",
+      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     }
   ],
   "metadata": {
