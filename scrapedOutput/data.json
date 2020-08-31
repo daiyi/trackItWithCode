@@ -7,58 +7,58 @@
     },
     {
       "rank": "2.",
+      "title": "Blender 2.90",
+      "link": "https://www.blender.org/download/releases/2-90/"
+    },
+    {
+      "rank": "3.",
       "title": "The Architecture of Open Source Applications",
       "link": "https://aosabook.org/en/index.html"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Keli: A programming language to make Functional Programming a joy for users",
       "link": "https://keli-language.gitbook.io/doc/"
     },
     {
-      "rank": "4.",
-      "title": "FedEx feeder plane takes flight without pilot in test for Reliable Robotics",
-      "link": "https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/"
-    },
-    {
       "rank": "5.",
-      "title": "Mathematicians Report New Discovery About the Dodecahedron",
-      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
-    },
-    {
-      "rank": "6.",
-      "title": "How NASA and ISRO discovered water on the Moon",
-      "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
-    },
-    {
-      "rank": "7.",
       "title": "Interchange in Houston Is the Same Size as an Entire City Center in Italy",
       "link": "https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/"
     },
     {
-      "rank": "8.",
-      "title": "Enveritas (YC S18) Is Hiring a JavaScript/React Lead Developer",
-      "link": "https://www.enveritas.org/jobs/engineering/"
+      "rank": "6.",
+      "title": "Mathematicians Report New Discovery About the Dodecahedron",
+      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
     },
     {
-      "rank": "9.",
+      "rank": "7.",
       "title": "Show HN: ML From Scratch – free online textbook",
       "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
     },
     {
+      "rank": "8.",
+      "title": "How NASA and ISRO discovered water on the Moon",
+      "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
+    },
+    {
+      "rank": "9.",
+      "title": "Enveritas (YC S18) Is Hiring a JavaScript/React Lead Developer",
+      "link": "https://www.enveritas.org/jobs/engineering/"
+    },
+    {
       "rank": "10.",
+      "title": "FedEx feeder plane takes flight without pilot in test for Reliable Robotics",
+      "link": "https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/"
+    },
+    {
+      "rank": "11.",
       "title": "PinePhone Manjaro Community Edition",
       "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Deep learning job postings have collapsed in the past six months",
       "link": "https://twitter.com/fchollet/status/1300137812872765440"
-    },
-    {
-      "rank": "12.",
-      "title": "As above, so below, part 2. Bare metal Rust generics",
-      "link": "https://www.ecorax.net/as-above-so-below-2/"
     },
     {
       "rank": "13.",
@@ -67,23 +67,23 @@
     },
     {
       "rank": "14.",
-      "title": "Self-charging ‘thousand-year’ battery completes lab tests",
-      "link": "https://www.electronics-lab.com/self-charging-thousand-year-battery-completes-lab-tests/"
+      "title": "As above, so below, part 2. Bare metal Rust generics",
+      "link": "https://www.ecorax.net/as-above-so-below-2/"
     },
     {
       "rank": "15.",
-      "title": "Ruby: We have decided to go forward to 3.0 this year",
-      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
-    },
-    {
-      "rank": "16.",
       "title": "How should we build the APIs of tomorrow?",
       "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
     },
     {
+      "rank": "16.",
+      "title": "Ruby: We have decided to go forward to 3.0 this year",
+      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
+    },
+    {
       "rank": "17.",
-      "title": "Tracing at Slack: Thinking in Causal Graphs",
-      "link": "https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/"
+      "title": "Cracking Phobos UUID",
+      "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
     },
     {
       "rank": "18.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
+      "title": "Tracing at Slack: Thinking in Causal Graphs",
+      "link": "https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/"
+    },
+    {
+      "rank": "21.",
       "title": "Self – Fun Through Simplicity",
       "link": "https://selflanguage.org/"
     },
     {
-      "rank": "21.",
-      "title": "Italian Ruby",
-      "link": "https://github.com/Pluvie/italian-ruby"
+      "rank": "22.",
+      "title": "Self-charging ‘thousand-year’ battery completes lab tests",
+      "link": "https://www.electronics-lab.com/self-charging-thousand-year-battery-completes-lab-tests/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "3D face: fast, accurate and stable reconstruction",
       "link": "https://github.com/cleardusk/3DDFA_V2"
     },
     {
-      "rank": "23.",
-      "title": "Do we really travel through time with the speed of light?",
-      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
-    },
-    {
       "rank": "24.",
-      "title": "Google, the Stupidity Amplifier (2016)",
-      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
+      "title": "Italian Ruby",
+      "link": "https://github.com/Pluvie/italian-ruby"
     },
     {
       "rank": "25.",
-      "title": "Cracking Phobos UUID",
-      "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
-    },
-    {
-      "rank": "26.",
       "title": "Padding Oracles: An Animated Primer",
       "link": "https://dylanpindur.com/blog/padding-oracles-an-animated-primer/"
     },
     {
+      "rank": "26.",
+      "title": "Intel MKL on AMD Zen",
+      "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
+    },
+    {
       "rank": "27.",
+      "title": "Do we really travel through time with the speed of light?",
+      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
+    },
+    {
+      "rank": "28.",
+      "title": "Google, the Stupidity Amplifier (2016)",
+      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
+    },
+    {
+      "rank": "29.",
       "title": "Analysis of Today's CenturyLink/Level(3) Outage",
       "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
     },
     {
-      "rank": "28.",
-      "title": "Thriverism",
-      "link": "https://www.sonyasupposedly.com/thriverism/"
-    },
-    {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Bits of History, Words of Advice",
       "link": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html"
-    },
-    {
-      "rank": "30.",
-      "title": "Making Navigation Work (2017)",
-      "link": "http://gameshelf.jmac.org/2017/05/making-navigation-work/"
     }
   ],
   "metadata": {
