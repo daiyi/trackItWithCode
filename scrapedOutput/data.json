@@ -22,33 +22,33 @@
     },
     {
       "rank": "5.",
+      "title": "Why are there 5280 feet in a mile?",
+      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
+    },
+    {
+      "rank": "6.",
       "title": "A terminal-based presentation tool with colors and effects",
       "link": "https://github.com/vinayak-mehta/present"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "The Legend of GayBlade",
       "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Essentials of Programming Languages",
       "link": "http://eopl3.com/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
       "link": "http://vimacapp.com"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "What Shell Am I Using?",
       "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
-    },
-    {
-      "rank": "10.",
-      "title": "Why are there 5280 feet in a mile?",
-      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
     },
     {
       "rank": "11.",
@@ -57,43 +57,43 @@
     },
     {
       "rank": "12.",
-      "title": "How to Write Unmaintainable Code",
-      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
-    },
-    {
-      "rank": "13.",
       "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
       "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Low-level details of the Zen 2 microarchitecture [pdf]",
       "link": "https://www.agner.org/optimize/microarchitecture.pdf"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Waiting for Gödel (2016)",
       "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "How to Read a Log Scale",
       "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "The Unexpected Elegance of Irrigation Systems from Above",
       "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "An overview of the science on function length",
       "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Yml Coding",
       "link": "https://cloud.google.com/workflows/docs/reference/syntax"
+    },
+    {
+      "rank": "19.",
+      "title": "Tech my dad banned in our house when I was a kid",
+      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
     },
     {
       "rank": "20.",
@@ -102,23 +102,23 @@
     },
     {
       "rank": "21.",
-      "title": "Drug cartel assassinates its enemies with bomb-toting drones",
-      "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
-    },
-    {
-      "rank": "22.",
-      "title": "Tech my dad banned in our house when I was a kid",
-      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
-    },
-    {
-      "rank": "23.",
       "title": "After 48 years, Democrats endorse nuclear energy in platform",
       "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
     },
     {
-      "rank": "24.",
+      "rank": "22.",
       "title": "Last Week on My Mac: Is macOS Becoming Unmaintainable?",
       "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
+    },
+    {
+      "rank": "23.",
+      "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
+      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
+    },
+    {
+      "rank": "24.",
+      "title": "Drug cartel assassinates its enemies with bomb-toting drones",
+      "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
     },
     {
       "rank": "25.",
@@ -127,23 +127,23 @@
     },
     {
       "rank": "26.",
-      "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
-      "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
-    },
-    {
-      "rank": "27.",
       "title": "Frank Ramsey: A more human philosophy",
       "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
     },
     {
+      "rank": "27.",
+      "title": "An interesting mistake with Go's context package",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
+    },
+    {
       "rank": "28.",
-      "title": "We Know How to Prevent Megafires",
-      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
+      "title": "How to Write Unmaintainable Code",
+      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
     },
     {
       "rank": "29.",
-      "title": "An interesting mistake with Go's context package",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
+      "title": "We Know How to Prevent Megafires",
+      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
     },
     {
       "rank": "30.",
