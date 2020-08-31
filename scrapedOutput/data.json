@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Google, the Stupidity Amplifier (2012)",
-      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
+      "title": "Italian Ruby",
+      "link": "https://github.com/Pluvie/italian-ruby"
     },
     {
       "rank": "3.",
-      "title": "Italian Ruby",
-      "link": "https://github.com/Pluvie/italian-ruby"
+      "title": "Google, the Stupidity Amplifier (2012)",
+      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
     },
     {
       "rank": "4.",
@@ -27,33 +27,33 @@
     },
     {
       "rank": "6.",
-      "title": "Alarm as FDA willing to issue Covid-19 vaccine before stringent safety testing",
-      "link": "https://mindhive.org/challenges/1273/overview/brief"
-    },
-    {
-      "rank": "7.",
       "title": "Unusual Maps",
       "link": "https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Why are there 5280 feet in a mile?",
       "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "The basic dramatic situations, according to 1919 manual for screenwriters",
       "link": "http://www.openculture.com/2020/08/37-possible-stories.html"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Sum Types in Julia and Rust",
       "link": "https://andreaskroepelin.de/blog/sum_types/"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Drug cartel assassinates its enemies with bomb-toting drones",
       "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
+    },
+    {
+      "rank": "11.",
+      "title": "Banks create money, but it's less impressive than it sounds",
+      "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
     },
     {
       "rank": "12.",
@@ -62,28 +62,28 @@
     },
     {
       "rank": "13.",
-      "title": "Banks create money, but it's less impressive than it sounds",
-      "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
-    },
-    {
-      "rank": "14.",
       "title": "We Replaced an SSD with Storage Class Memory",
       "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "The Easy Ones – Three Bugs Hiding in the Open",
       "link": "https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Visualizing TSNE Maps with Three.js",
       "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "What Shell Am I Using?",
       "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
+    },
+    {
+      "rank": "17.",
+      "title": "Level 3 Global Outage",
+      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
     },
     {
       "rank": "18.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "Level 3 Global Outage",
-      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
+      "title": "How to Write Unmaintainable Code (2003)",
+      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "How to Write Unmaintainable Code (2003)",
-      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
+      "title": "Don't Get Stuck",
+      "link": "https://stitcher.io/blog/dont-get-stuck"
     },
     {
       "rank": "22.",
-      "title": "Don't Get Stuck",
-      "link": "https://stitcher.io/blog/dont-get-stuck"
+      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
+      "link": "https://webrtcforthecurious.com/"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
-      "link": "https://webrtcforthecurious.com/"
-    },
-    {
-      "rank": "25.",
       "title": "Win “Active Hours” underscores how you’re not in control of your devices (2016)",
       "link": "https://www.ctrl.blog/entry/windows-active-hours.html"
     },
     {
+      "rank": "25.",
+      "title": "Pinterest pays $89.5M to terminate San Francisco office lease",
+      "link": "https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php"
+    },
+    {
       "rank": "26.",
-      "title": "A terminal-based presentation tool with colors and effects",
-      "link": "https://github.com/vinayak-mehta/present"
-    },
-    {
-      "rank": "27.",
-      "title": "Yml Coding",
-      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
-    },
-    {
-      "rank": "28.",
-      "title": "An overview of the science on function length",
-      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
-    },
-    {
-      "rank": "29.",
       "title": "High-tech tracking reveals ‘secret world of birds’",
       "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
     },
     {
+      "rank": "27.",
+      "title": "A terminal-based presentation tool with colors and effects",
+      "link": "https://github.com/vinayak-mehta/present"
+    },
+    {
+      "rank": "28.",
+      "title": "Yml Coding",
+      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
+    },
+    {
+      "rank": "29.",
+      "title": "An overview of the science on function length",
+      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
+    },
+    {
       "rank": "30.",
-      "title": "'swapping bodies' with a friend changes our sense of self",
-      "link": "https://www.sciencedaily.com/releases/2020/08/200826110322.htm"
+      "title": "Writing a Lisp to x86-64 compiler",
+      "link": "item?id=24328998"
     }
   ],
   "metadata": {
