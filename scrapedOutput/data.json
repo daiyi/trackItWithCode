@@ -7,48 +7,48 @@
     },
     {
       "rank": "2.",
-      "title": "PinePhone Manjaro Community Edition",
-      "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
-    },
-    {
-      "rank": "3.",
-      "title": "Interchange in Houston Is the Same Size as an Entire City Center in Italy",
-      "link": "https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/"
-    },
-    {
-      "rank": "4.",
       "title": "NASA and ISRO discovered water on the Moon",
       "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
     },
     {
-      "rank": "5.",
+      "rank": "3.",
+      "title": "PinePhone Manjaro Community Edition",
+      "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
+    },
+    {
+      "rank": "4.",
       "title": "Google, the Stupidity Amplifier (2016)",
       "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Do we really travel through time with the speed of light?",
       "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Making Navigation Work (2017)",
       "link": "http://gameshelf.jmac.org/2017/05/making-navigation-work/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Bits of History, Words of Advice",
       "link": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Sled Theoretical Performance Guide",
       "link": "http://sled.rs/perf.html"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Analysis of Today's CenturyLink/Level(3) Outage",
       "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
+    },
+    {
+      "rank": "10.",
+      "title": "Nim – version 1.2.6 and 1.0.8 released",
+      "link": "https://nim-lang.org/blog/2020/07/30/versions-126-and-108-released.html"
     },
     {
       "rank": "11.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Nim – version 1.2.6 and 1.0.8 released",
-      "link": "https://nim-lang.org/blog/2020/07/30/versions-126-and-108-released.html"
+      "title": "Unusual Maps",
+      "link": "https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI"
     },
     {
       "rank": "13.",
-      "title": "Unusual Maps",
-      "link": "https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI"
+      "title": "Why are there 5280 feet in a mile?",
+      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
     },
     {
       "rank": "14.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
-      "title": "Why are there 5280 feet in a mile?",
-      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
-    },
-    {
-      "rank": "16.",
       "title": "Identifying People by Their Browsing Histories",
       "link": "https://www.schneier.com/blog/archives/2020/08/identifying_peo_9.html"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "François Chollet (Keras creator): we're witnessing a deep learning recession",
       "link": "https://twitter.com/fchollet/status/1300137812872765440"
+    },
+    {
+      "rank": "17.",
+      "title": "Italian Ruby",
+      "link": "https://github.com/Pluvie/italian-ruby"
     },
     {
       "rank": "18.",
@@ -92,58 +92,58 @@
     },
     {
       "rank": "19.",
-      "title": "Banks create money, but it's less impressive than it sounds",
-      "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
-    },
-    {
-      "rank": "20.",
-      "title": "Italian Ruby",
-      "link": "https://github.com/Pluvie/italian-ruby"
-    },
-    {
-      "rank": "21.",
-      "title": "The Easy Ones – Three Bugs Hiding in the Open",
-      "link": "https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/"
-    },
-    {
-      "rank": "22.",
       "title": "Pinterest pays $89.5M to terminate San Francisco office lease",
       "link": "https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php"
     },
     {
-      "rank": "23.",
+      "rank": "20.",
+      "title": "The Easy Ones – Three Bugs Hiding in the Open",
+      "link": "https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/"
+    },
+    {
+      "rank": "21.",
       "title": "Do-it-Yourself Vaccines for Covid-19",
       "link": "https://www.scientificamerican.com/article/do-it-yourself-vaccines-for-covid-19/"
     },
     {
-      "rank": "24.",
-      "title": "Visualizing TSNE Maps with Three.js",
-      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
-    },
-    {
-      "rank": "25.",
+      "rank": "22.",
       "title": "We Replaced an SSD with Storage Class Memory",
       "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
     },
     {
-      "rank": "26.",
+      "rank": "23.",
+      "title": "Visualizing TSNE Maps with Three.js",
+      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
+    },
+    {
+      "rank": "24.",
       "title": "Level 3 Global Outage",
       "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
     },
     {
-      "rank": "27.",
+      "rank": "25.",
+      "title": "Interchange in Houston Is the Same Size as an Entire City Center in Italy",
+      "link": "https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/"
+    },
+    {
+      "rank": "26.",
       "title": "K-Stash: A search engine for your useful links – for devs and researchers",
       "link": "https://k-stash.com"
     },
     {
+      "rank": "27.",
+      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
+      "link": "https://webrtcforthecurious.com/"
+    },
+    {
       "rank": "28.",
-      "title": "Ubuntu 20.04’s zsys adds ZFS snapshots to package management",
-      "link": "https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/"
+      "title": "Should Google’s Ad Market Be Regulated Like the Stock Market?",
+      "link": "https://www.wired.com/story/google-ad-market-regulated-like-stock-market/"
     },
     {
       "rank": "29.",
-      "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
-      "link": "https://webrtcforthecurious.com/"
+      "title": "Ubuntu 20.04’s zsys adds ZFS snapshots to package management",
+      "link": "https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/"
     },
     {
       "rank": "30.",
