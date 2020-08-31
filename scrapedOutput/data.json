@@ -47,28 +47,28 @@
     },
     {
       "rank": "10.",
-      "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
-      "link": "http://vimacapp.com"
-    },
-    {
-      "rank": "11.",
       "title": "Banks create money, but it's less impressive than it sounds",
       "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "What Shell Am I Using?",
       "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Level 3 Global Outage",
       "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "How to Write Unmaintainable Code (2003)",
       "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
+    },
+    {
+      "rank": "14.",
+      "title": "Visualizing TSNE Maps with Three.js",
+      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
     },
     {
       "rank": "15.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
-      "title": "All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995)",
-      "link": "https://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
-    },
-    {
-      "rank": "18.",
       "title": "How to Read a Log Scale",
       "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Last Week on My Mac: Is macOS Becoming Unmaintainable?",
       "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
+    },
+    {
+      "rank": "19.",
+      "title": "An overview of the science on function length",
+      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "An overview of the science on function length",
-      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
+      "title": "High-tech tracking reveals ‘secret world of birds’",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
     },
     {
       "rank": "22.",
-      "title": "High-tech tracking reveals ‘secret world of birds’",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
+      "title": "Cloudlfare's Analysis of Today's CenturyLink/Level(3) Outage",
+      "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "Cloudlfare Analysis of Today's CenturyLink/Level(3) Outage",
-      "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
+      "title": "After 48 years, Democrats endorse nuclear energy in platform",
+      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "After 48 years, Democrats endorse nuclear energy in platform",
-      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
-    },
-    {
-      "rank": "27.",
       "title": "Yml Coding",
       "link": "https://cloud.google.com/workflows/docs/reference/syntax"
     },
     {
-      "rank": "28.",
-      "title": "Tech my dad banned in our house when I was a kid",
-      "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
+      "rank": "27.",
+      "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
+      "link": "http://vimacapp.com"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Multi-Tenant Architectures",
       "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Frank Ramsey: A more human philosophy",
       "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
+    },
+    {
+      "rank": "30.",
+      "title": "The Recursive Universe",
+      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
     }
   ],
   "metadata": {
