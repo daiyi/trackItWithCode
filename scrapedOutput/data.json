@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Bevy: A Game Engine in Rust",
-      "link": "https://bevyengine.org/"
-    },
-    {
-      "rank": "2.",
       "title": "App Review process updates",
       "link": "https://developer.apple.com/news/?id=84w3e5bm"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "The Architecture of Open Source Applications",
       "link": "https://aosabook.org/en/index.html"
+    },
+    {
+      "rank": "3.",
+      "title": "Interchange in Houston Is the Same Size as an Entire City Center in Italy",
+      "link": "https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/"
     },
     {
       "rank": "4.",
@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Interchange in Houston Is the Same Size as an Entire City Center in Italy",
-      "link": "https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/"
+      "title": "Show HN: ML From Scratch – free online textbook",
+      "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
     },
     {
       "rank": "6.",
-      "title": "Deep learning job postings have collapsed in the past six months",
-      "link": "https://twitter.com/fchollet/status/1300137812872765440"
+      "title": "The surreal art of ‘unnatural lighting’",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
     },
     {
       "rank": "7.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Show HN: ML From Scratch – free online textbook",
-      "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
+      "title": "Deep learning job postings have collapsed in the past six months",
+      "link": "https://twitter.com/fchollet/status/1300137812872765440"
     },
     {
       "rank": "9.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
-      "title": "The surreal art of ‘unnatural lighting’",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
-    },
-    {
-      "rank": "13.",
       "title": "PinePhone Manjaro Community Edition",
       "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Ruby: We have decided to go forward to 3.0 this year",
       "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
+    },
+    {
+      "rank": "14.",
+      "title": "Supporting Linux kernel development in Rust",
+      "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
     },
     {
       "rank": "15.",
@@ -82,73 +82,73 @@
     },
     {
       "rank": "17.",
+      "title": "2020's Existentialist Turn",
+      "link": "https://bostonreview.net/philosophy-religion/carmen-lea-dege-2020s-existentialist-turn"
+    },
+    {
+      "rank": "18.",
       "title": "How should we build the APIs of tomorrow?",
       "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Effective testing for machine learning systems",
       "link": "https://www.jeremyjordan.me/testing-ml/"
     },
     {
-      "rank": "19.",
-      "title": "Battleshorts, exaptations, and the limits of STAMP",
-      "link": "https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/"
-    },
-    {
       "rank": "20.",
-      "title": "3D face: fast, accurate and stable reconstruction",
-      "link": "https://github.com/cleardusk/3DDFA_V2"
-    },
-    {
-      "rank": "21.",
-      "title": "Blender 2.90",
-      "link": "https://www.blender.org/download/releases/2-90/"
-    },
-    {
-      "rank": "22.",
-      "title": "Don't Be a Sucker",
-      "link": "https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00"
-    },
-    {
-      "rank": "23.",
       "title": "Cracking Phobos UUID",
       "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
     },
     {
-      "rank": "24.",
+      "rank": "21.",
+      "title": "Battleshorts, exaptations, and the limits of STAMP",
+      "link": "https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/"
+    },
+    {
+      "rank": "22.",
+      "title": "3D face: fast, accurate and stable reconstruction",
+      "link": "https://github.com/cleardusk/3DDFA_V2"
+    },
+    {
+      "rank": "23.",
       "title": "Tracing at Slack: Thinking in Causal Graphs",
       "link": "https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Show HN: Friendly Fire – Open-source, Metroidvania-style game in the browser",
       "link": "https://friendlyfiregame.com/"
     },
     {
-      "rank": "26.",
-      "title": "Italian Ruby",
-      "link": "https://github.com/Pluvie/italian-ruby"
+      "rank": "25.",
+      "title": "Blender 2.90",
+      "link": "https://www.blender.org/download/releases/2-90/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
+      "rank": "27.",
+      "title": "Italian Ruby",
+      "link": "https://github.com/Pluvie/italian-ruby"
+    },
+    {
       "rank": "28.",
+      "title": "Do we really travel through time with the speed of light?",
+      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
+    },
+    {
+      "rank": "29.",
       "title": "Significant sex differences in Covid-19 immune response",
       "link": "https://news.yale.edu/2020/08/26/sex-differences-covid-19-immune-responses-affect-patient-outcomes?"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Robotic Manipulation (Online Textbook)",
       "link": "http://manipulation.csail.mit.edu/"
-    },
-    {
-      "rank": "30.",
-      "title": "Do we really travel through time with the speed of light?",
-      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
     }
   ],
   "metadata": {
