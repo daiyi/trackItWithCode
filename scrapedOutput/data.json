@@ -2,7 +2,7 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Google, the Stupidity Amplifier",
+      "title": "Google, the Stupidity Amplifier (2012)",
       "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "The basic dramatic situations, according to 1919 manual for screenwriters",
-      "link": "http://www.openculture.com/2020/08/37-possible-stories.html"
+      "title": "Ubuntu 20.04’s zsys adds ZFS snapshots to package management",
+      "link": "https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/"
     },
     {
       "rank": "9.",
@@ -47,8 +47,8 @@
     },
     {
       "rank": "10.",
-      "title": "The Legend of GayBlade",
-      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
+      "title": "The basic dramatic situations, according to 1919 manual for screenwriters",
+      "link": "http://www.openculture.com/2020/08/37-possible-stories.html"
     },
     {
       "rank": "11.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Visualizing TSNE Maps with Three.js",
-      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
+      "title": "We Replaced an SSD with Storage Class Memory",
+      "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
     },
     {
       "rank": "13.",
-      "title": "We Replaced an SSD with Storage Class Memory",
-      "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
+      "title": "Visualizing TSNE Maps with Three.js",
+      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
     },
     {
       "rank": "14.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "Is macOS Becoming Unmaintainable?",
-      "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
+      "title": "Don't Get Stuck",
+      "link": "https://stitcher.io/blog/dont-get-stuck"
     },
     {
       "rank": "19.",
@@ -102,28 +102,28 @@
     },
     {
       "rank": "21.",
-      "title": "Don't Get Stuck",
-      "link": "https://stitcher.io/blog/dont-get-stuck"
-    },
-    {
-      "rank": "22.",
-      "title": "How to Read a Log Scale",
-      "link": "https://blog.datawrapper.de/weeklychart-logscale/"
-    },
-    {
-      "rank": "23.",
       "title": "Converting Boolean-Logic Decision Trees to Finite State Machines",
       "link": "https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2"
     },
     {
+      "rank": "22.",
+      "title": "Writing a Lisp to x86-64 compiler",
+      "link": "item?id=24328998"
+    },
+    {
+      "rank": "23.",
+      "title": "High-tech tracking reveals ‘secret world of birds’",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
+    },
+    {
       "rank": "24.",
-      "title": "Ubuntu 20.04’s zsys adds ZFS snapshots to package management",
-      "link": "https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/"
+      "title": "An overview of the science on function length",
+      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
     },
     {
       "rank": "25.",
-      "title": "An overview of the science on function length",
-      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
+      "title": "A terminal-based presentation tool with colors and effects",
+      "link": "https://github.com/vinayak-mehta/present"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Writing a Lisp to x86-64 compiler",
-      "link": "item?id=24328998"
+      "title": "Yml Coding",
+      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
     },
     {
       "rank": "28.",
-      "title": "A terminal-based presentation tool with colors and effects",
-      "link": "https://github.com/vinayak-mehta/present"
+      "title": "The Legend of GayBlade",
+      "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
     },
     {
       "rank": "29.",
-      "title": "High-tech tracking reveals ‘secret world of birds’",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
+      "title": "Essentials of Programming Languages",
+      "link": "http://eopl3.com/"
     },
     {
       "rank": "30.",
-      "title": "Yml Coding",
-      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
+      "title": "Waiting for Gödel (2016)",
+      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
     }
   ],
   "metadata": {
