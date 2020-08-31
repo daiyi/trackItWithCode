@@ -22,63 +22,63 @@
     },
     {
       "rank": "5.",
-      "title": "Mathematicians Report New Discovery About the Dodecahedron",
-      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
-    },
-    {
-      "rank": "6.",
-      "title": "PinePhone Manjaro Community Edition",
-      "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
-    },
-    {
-      "rank": "7.",
-      "title": "Interchange in Houston Is the Same Size as an Entire City Center in Italy",
-      "link": "https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/"
-    },
-    {
-      "rank": "8.",
-      "title": "How should we build the APIs of tomorrow?",
-      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
-    },
-    {
-      "rank": "9.",
       "title": "FedEx feeder plane takes flight without pilot in test for Reliable Robotics",
       "link": "https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/"
     },
     {
-      "rank": "10.",
-      "title": "Effective testing for machine learning systems",
-      "link": "https://www.jeremyjordan.me/testing-ml/"
+      "rank": "6.",
+      "title": "Enveritas (YC S18) Is Hiring a JavaScript/React Lead Developer",
+      "link": "https://www.enveritas.org/jobs/engineering/"
     },
     {
-      "rank": "11.",
+      "rank": "7.",
+      "title": "Mathematicians Report New Discovery About the Dodecahedron",
+      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
+    },
+    {
+      "rank": "8.",
+      "title": "PinePhone Manjaro Community Edition",
+      "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
+    },
+    {
+      "rank": "9.",
+      "title": "Interchange in Houston Is the Same Size as an Entire City Center in Italy",
+      "link": "https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/"
+    },
+    {
+      "rank": "10.",
       "title": "Show HN: ML From Scratch – free online textbook",
       "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
     },
     {
-      "rank": "12.",
-      "title": "Deep learning job postings have collapsed in the past six months",
-      "link": "https://twitter.com/fchollet/status/1300137812872765440"
-    },
-    {
-      "rank": "13.",
+      "rank": "11.",
       "title": "Don't Be a Sucker",
       "link": "https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00"
     },
     {
-      "rank": "14.",
-      "title": "Significant sex differences in Covid-19 immune response",
-      "link": "https://news.yale.edu/2020/08/26/sex-differences-covid-19-immune-responses-affect-patient-outcomes?"
-    },
-    {
-      "rank": "15.",
+      "rank": "12.",
       "title": "As above, so below, part 2. Bare metal Rust generics",
       "link": "https://www.ecorax.net/as-above-so-below-2/"
     },
     {
+      "rank": "13.",
+      "title": "Deep learning job postings have collapsed in the past six months",
+      "link": "https://twitter.com/fchollet/status/1300137812872765440"
+    },
+    {
+      "rank": "14.",
+      "title": "How should we build the APIs of tomorrow?",
+      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
+    },
+    {
+      "rank": "15.",
+      "title": "Effective testing for machine learning systems",
+      "link": "https://www.jeremyjordan.me/testing-ml/"
+    },
+    {
       "rank": "16.",
-      "title": "Italian Ruby",
-      "link": "https://github.com/Pluvie/italian-ruby"
+      "title": "Significant sex differences in Covid-19 immune response",
+      "link": "https://news.yale.edu/2020/08/26/sex-differences-covid-19-immune-responses-affect-patient-outcomes?"
     },
     {
       "rank": "17.",
@@ -87,18 +87,18 @@
     },
     {
       "rank": "18.",
-      "title": "Google, the Stupidity Amplifier (2016)",
-      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
+      "title": "Self-charging ‘thousand-year’ battery completes lab tests",
+      "link": "https://www.electronics-lab.com/self-charging-thousand-year-battery-completes-lab-tests/"
     },
     {
       "rank": "19.",
-      "title": "Tracing at Slack: Thinking in Causal Graphs",
-      "link": "https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/"
+      "title": "Italian Ruby",
+      "link": "https://github.com/Pluvie/italian-ruby"
     },
     {
       "rank": "20.",
-      "title": "Self-charging ‘thousand-year’ battery completes lab tests",
-      "link": "https://www.electronics-lab.com/self-charging-thousand-year-battery-completes-lab-tests/"
+      "title": "Google, the Stupidity Amplifier (2016)",
+      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "Making Navigation Work (2017)",
-      "link": "http://gameshelf.jmac.org/2017/05/making-navigation-work/"
+      "title": "Tracing at Slack: Thinking in Causal Graphs",
+      "link": "https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/"
     },
     {
       "rank": "23.",
+      "title": "Thriverism",
+      "link": "https://www.sonyasupposedly.com/thriverism/"
+    },
+    {
+      "rank": "24.",
       "title": "Padding Oracles: An Animated Primer",
       "link": "https://dylanpindur.com/blog/padding-oracles-an-animated-primer/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
+      "title": "Making Navigation Work (2017)",
+      "link": "http://gameshelf.jmac.org/2017/05/making-navigation-work/"
+    },
+    {
+      "rank": "26.",
       "title": "Bits of History, Words of Advice",
       "link": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Analysis of Today's CenturyLink/Level(3) Outage",
       "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Sled Theoretical Performance Guide",
       "link": "http://sled.rs/perf.html"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "Unusual Maps",
       "link": "https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "China again boosts R&D spending by more than 10%",
       "link": "https://www.sciencemag.org/news/2020/08/china-again-boosts-rd-spending-more-10"
-    },
-    {
-      "rank": "29.",
-      "title": "The basic dramatic situations, according to 1919 manual for screenwriters",
-      "link": "http://www.openculture.com/2020/08/37-possible-stories.html"
-    },
-    {
-      "rank": "30.",
-      "title": "Why are there 5280 feet in a mile?",
-      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
     }
   ],
   "metadata": {
