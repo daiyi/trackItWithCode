@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
+      "title": "Why are there 5280 feet in a mile?",
+      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
+    },
+    {
+      "rank": "3.",
       "title": "Level 3 Global Outage",
       "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Players are fixing Microsoft Flight Simulator’s monuments with Google Maps",
       "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
-    },
-    {
-      "rank": "4.",
-      "title": "Why are there 5280 feet in a mile?",
-      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
     },
     {
       "rank": "5.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "Waiting for Gödel (2016)",
-      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
+      "title": "Physics Is Cool",
+      "link": "https://twitter.com/engineeringvids/status/1299024794642391040"
     },
     {
       "rank": "13.",
@@ -72,53 +72,53 @@
     },
     {
       "rank": "15.",
+      "title": "Waiting for Gödel (2016)",
+      "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
+    },
+    {
+      "rank": "16.",
       "title": "How to Read a Log Scale",
       "link": "https://blog.datawrapper.de/weeklychart-logscale/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "The Unexpected Elegance of Irrigation Systems from Above",
       "link": "https://www.atlasobscura.com/articles/why-do-farms-look-like-circles-from-planes"
     },
     {
-      "rank": "17.",
-      "title": "K-Stash: A search engine for your useful links – for devs and researchers",
-      "link": "https://k-stash.com"
-    },
-    {
       "rank": "18.",
-      "title": "Yml Coding",
-      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
-    },
-    {
-      "rank": "19.",
       "title": "An overview of the science on function length",
       "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
     },
     {
+      "rank": "19.",
+      "title": "Yml Coding",
+      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
+    },
+    {
       "rank": "20.",
+      "title": "K-Stash: A search engine for your useful links – for devs and researchers",
+      "link": "https://k-stash.com"
+    },
+    {
+      "rank": "21.",
       "title": "Tech my dad banned in our house when I was a kid",
       "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Multi-Tenant Architectures",
       "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "After 48 years, Democrats endorse nuclear energy in platform",
       "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Last Week on My Mac: Is macOS Becoming Unmaintainable?",
       "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
-    },
-    {
-      "rank": "24.",
-      "title": "Drug cartel assassinates its enemies with bomb-toting drones",
-      "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Physics Is Cool",
-      "link": "https://twitter.com/engineeringvids/status/1299024794642391040"
-    },
-    {
-      "rank": "27.",
       "title": "Using the Linux kernel's Case-insensitive feature in Ext4",
       "link": "https://www.collabora.com/news-and-blog/blog/2020/08/27/using-the-linux-kernel-case-insensitive-feature-in-ext4/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "The Crazy-Tiny Next Generation of Computers (2015)",
       "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "An interesting mistake with Go's context package",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Frank Ramsey: A more human philosophy",
       "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
+    },
+    {
+      "rank": "30.",
+      "title": "We Know How to Prevent Megafires",
+      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
     }
   ],
   "metadata": {
