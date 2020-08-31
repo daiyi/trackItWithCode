@@ -2,38 +2,38 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "App Review process updates",
-      "link": "https://developer.apple.com/news/?id=84w3e5bm"
-    },
-    {
-      "rank": "2.",
       "title": "Blender 2.90",
       "link": "https://www.blender.org/download/releases/2-90/"
     },
     {
+      "rank": "2.",
+      "title": "App Review process updates",
+      "link": "https://developer.apple.com/news/?id=84w3e5bm"
+    },
+    {
       "rank": "3.",
+      "title": "I just lost 1,400 BTC ($16M)",
+      "link": "https://github.com/spesmilo/electrum/issues/5072#issuecomment-683356052"
+    },
+    {
+      "rank": "4.",
       "title": "The Architecture of Open Source Applications",
       "link": "https://aosabook.org/en/index.html"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Keli: A programming language to make Functional Programming a joy for users",
       "link": "https://keli-language.gitbook.io/doc/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Interchange in Houston Is the Same Size as an Entire City Center in Italy",
       "link": "https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Mathematicians Report New Discovery About the Dodecahedron",
       "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
-    },
-    {
-      "rank": "7.",
-      "title": "Show HN: ML From Scratch – free online textbook",
-      "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
     },
     {
       "rank": "8.",
@@ -47,43 +47,43 @@
     },
     {
       "rank": "10.",
-      "title": "FedEx feeder plane takes flight without pilot in test for Reliable Robotics",
-      "link": "https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/"
+      "title": "Show HN: ML From Scratch – free online textbook",
+      "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
     },
     {
       "rank": "11.",
-      "title": "PinePhone Manjaro Community Edition",
-      "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
-    },
-    {
-      "rank": "12.",
       "title": "Deep learning job postings have collapsed in the past six months",
       "link": "https://twitter.com/fchollet/status/1300137812872765440"
     },
     {
+      "rank": "12.",
+      "title": "PinePhone Manjaro Community Edition",
+      "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
+    },
+    {
       "rank": "13.",
+      "title": "FedEx feeder plane takes flight without pilot in test for Reliable Robotics",
+      "link": "https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/"
+    },
+    {
+      "rank": "14.",
       "title": "Don't Be a Sucker",
       "link": "https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00"
     },
     {
-      "rank": "14.",
-      "title": "As above, so below, part 2. Bare metal Rust generics",
-      "link": "https://www.ecorax.net/as-above-so-below-2/"
-    },
-    {
       "rank": "15.",
-      "title": "How should we build the APIs of tomorrow?",
-      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
-    },
-    {
-      "rank": "16.",
       "title": "Ruby: We have decided to go forward to 3.0 this year",
       "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
     },
     {
+      "rank": "16.",
+      "title": "As above, so below, part 2. Bare metal Rust generics",
+      "link": "https://www.ecorax.net/as-above-so-below-2/"
+    },
+    {
       "rank": "17.",
-      "title": "Cracking Phobos UUID",
-      "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
+      "title": "How should we build the APIs of tomorrow?",
+      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
     },
     {
       "rank": "18.",
@@ -92,48 +92,48 @@
     },
     {
       "rank": "19.",
-      "title": "Significant sex differences in Covid-19 immune response",
-      "link": "https://news.yale.edu/2020/08/26/sex-differences-covid-19-immune-responses-affect-patient-outcomes?"
-    },
-    {
-      "rank": "20.",
       "title": "Tracing at Slack: Thinking in Causal Graphs",
       "link": "https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/"
     },
     {
+      "rank": "20.",
+      "title": "Cracking Phobos UUID",
+      "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
+    },
+    {
       "rank": "21.",
+      "title": "Significant sex differences in Covid-19 immune response",
+      "link": "https://news.yale.edu/2020/08/26/sex-differences-covid-19-immune-responses-affect-patient-outcomes?"
+    },
+    {
+      "rank": "22.",
       "title": "Self – Fun Through Simplicity",
       "link": "https://selflanguage.org/"
     },
     {
-      "rank": "22.",
-      "title": "Self-charging ‘thousand-year’ battery completes lab tests",
-      "link": "https://www.electronics-lab.com/self-charging-thousand-year-battery-completes-lab-tests/"
-    },
-    {
       "rank": "23.",
-      "title": "3D face: fast, accurate and stable reconstruction",
-      "link": "https://github.com/cleardusk/3DDFA_V2"
-    },
-    {
-      "rank": "24.",
       "title": "Italian Ruby",
       "link": "https://github.com/Pluvie/italian-ruby"
     },
     {
+      "rank": "24.",
+      "title": "3D face: fast, accurate and stable reconstruction",
+      "link": "https://github.com/cleardusk/3DDFA_V2"
+    },
+    {
       "rank": "25.",
+      "title": "Do we really travel through time with the speed of light?",
+      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
+    },
+    {
+      "rank": "26.",
       "title": "Padding Oracles: An Animated Primer",
       "link": "https://dylanpindur.com/blog/padding-oracles-an-animated-primer/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
-    },
-    {
-      "rank": "27.",
-      "title": "Do we really travel through time with the speed of light?",
-      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Bits of History, Words of Advice",
-      "link": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html"
+      "title": "Self-charging ‘thousand-year’ battery completes lab tests",
+      "link": "https://www.electronics-lab.com/self-charging-thousand-year-battery-completes-lab-tests/"
     }
   ],
   "metadata": {
