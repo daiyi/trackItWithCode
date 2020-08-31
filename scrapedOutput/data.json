@@ -17,48 +17,48 @@
     },
     {
       "rank": "4.",
-      "title": "Drug cartel assassinates its enemies with bomb-toting drones",
-      "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
-    },
-    {
-      "rank": "5.",
       "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
       "link": "https://webrtcforthecurious.com/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "A terminal-based presentation tool with colors and effects",
       "link": "https://github.com/vinayak-mehta/present"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "The Legend of GayBlade",
       "link": "https://blog.archive.org/2020/08/28/the-legend-of-gayblade/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Essentials of Programming Languages",
       "link": "http://eopl3.com/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Show HN: Vimac – Productive macOS keyboard-driven navigation",
       "link": "http://vimacapp.com"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "What Shell Am I Using?",
       "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
     },
     {
+      "rank": "10.",
+      "title": "The Recursive Universe",
+      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
+    },
+    {
       "rank": "11.",
-      "title": "Banks create money out of thin air, but it's less impressive than it sounds",
-      "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
+      "title": "Drug cartel assassinates its enemies with bomb-toting drones",
+      "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
     },
     {
       "rank": "12.",
-      "title": "The Recursive Universe",
-      "link": "http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/"
+      "title": "How to Write Unmaintainable Code",
+      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
     },
     {
       "rank": "13.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "How to Write Unmaintainable Code",
-      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
-    },
-    {
-      "rank": "16.",
-      "title": "The “menu engineers” who optimize restaurant revenue",
-      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
-    },
-    {
-      "rank": "17.",
       "title": "Waiting for Gödel (2016)",
       "link": "https://www.newyorker.com/tech/annals-of-technology/waiting-for-godel"
     },
     {
-      "rank": "18.",
+      "rank": "16.",
+      "title": "An overview of the science on function length",
+      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
+    },
+    {
+      "rank": "17.",
       "title": "How to Read a Log Scale",
       "link": "https://blog.datawrapper.de/weeklychart-logscale/"
+    },
+    {
+      "rank": "18.",
+      "title": "The “menu engineers” who optimize restaurant revenue",
+      "link": "https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/"
     },
     {
       "rank": "19.",
@@ -107,18 +107,18 @@
     },
     {
       "rank": "22.",
-      "title": "The Crazy-Tiny Next Generation of Computers (2015)",
-      "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
-    },
-    {
-      "rank": "23.",
       "title": "Tech my dad banned in our house when I was a kid",
       "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "After 48 years, Democrats endorse nuclear energy in platform",
       "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+    },
+    {
+      "rank": "24.",
+      "title": "The Crazy-Tiny Next Generation of Computers (2015)",
+      "link": "https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Ex-Neuralink employees describe rushed timelines clashing with science’s pace",
-      "link": "https://www.dailymail.co.uk/sciencetech/article-8662975/Elon-Musks-brain-chip-Neuralink-plagued-turmoil-rushed-timelines-former-employees-claim.html"
-    },
-    {
-      "rank": "27.",
       "title": "Frank Ramsey: A more human philosophy",
       "link": "https://www.the-tls.co.uk/articles/frank-ramsey-a-more-human-philosophy/"
     },
     {
-      "rank": "28.",
-      "title": "We Know How to Prevent Megafires",
-      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
+      "rank": "27.",
+      "title": "Last Week on My Mac: Is macOS Becoming Unmaintainable?",
+      "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "An interesting mistake with Go's context package",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake"
     },
     {
+      "rank": "29.",
+      "title": "We Know How to Prevent Megafires",
+      "link": "https://www.propublica.org/article/they-know-how-to-prevent-megafires-why-wont-anybody-listen/"
+    },
+    {
       "rank": "30.",
-      "title": "Last Week on My Mac: Is macOS Becoming Unmaintainable?",
-      "link": "https://eclecticlight.co/2020/08/30/last-week-on-my-mac-is-macos-becoming-unmaintainable/"
+      "title": "I thought I would have accomplished a lot more today and also before I was 35",
+      "link": "https://www.newyorker.com/humor/daily-shouts/i-thought-i-would-have-accomplished-a-lot-more-today-and-also-by-the-time-i-was-thirty-five"
     }
   ],
   "metadata": {
