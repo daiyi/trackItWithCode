@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Keli: A programming language to make Functional Programming a joy for users",
-      "link": "https://keli-language.gitbook.io/doc/"
+      "title": "How NASA and ISRO discovered water on the Moon",
+      "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
     },
     {
       "rank": "2.",
-      "title": "How NASA and ISRO discovered water on the Moon",
-      "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
+      "title": "Keli: A programming language to make Functional Programming a joy for users",
+      "link": "https://keli-language.gitbook.io/doc/"
     },
     {
       "rank": "3.",
@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Making Navigation Work (2017)",
-      "link": "http://gameshelf.jmac.org/2017/05/making-navigation-work/"
+      "title": "Effective testing for machine learning systems",
+      "link": "https://www.jeremyjordan.me/testing-ml/"
     },
     {
       "rank": "5.",
-      "title": "Google, the Stupidity Amplifier (2016)",
-      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
+      "title": "Mathematicians Report New Discovery About the Dodecahedron",
+      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
     },
     {
       "rank": "6.",
@@ -32,28 +32,28 @@
     },
     {
       "rank": "7.",
+      "title": "Google, the Stupidity Amplifier (2016)",
+      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
+    },
+    {
+      "rank": "8.",
+      "title": "Ruby: We have decided to go forward to 3.0 this year",
+      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
+    },
+    {
+      "rank": "9.",
+      "title": "Making Navigation Work (2017)",
+      "link": "http://gameshelf.jmac.org/2017/05/making-navigation-work/"
+    },
+    {
+      "rank": "10.",
       "title": "Do we really travel through time with the speed of light?",
       "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
     },
     {
-      "rank": "8.",
-      "title": "Mathematicians Report New Discovery About the Dodecahedron",
-      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
-    },
-    {
-      "rank": "9.",
-      "title": "Bits of History, Words of Advice",
-      "link": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html"
-    },
-    {
-      "rank": "10.",
-      "title": "Effective testing for machine learning systems",
-      "link": "https://www.jeremyjordan.me/testing-ml/"
-    },
-    {
       "rank": "11.",
-      "title": "Sled Theoretical Performance Guide",
-      "link": "http://sled.rs/perf.html"
+      "title": "Analysis of Today's CenturyLink/Level(3) Outage",
+      "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
     },
     {
       "rank": "12.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "Analysis of Today's CenturyLink/Level(3) Outage",
-      "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
+      "title": "Bits of History, Words of Advice",
+      "link": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html"
     },
     {
       "rank": "14.",
-      "title": "The CDC's Grossly Contradictory Death Numbers",
-      "link": "http://wordpress.jmcgowan.com/wp/video-article-the-cdcs-grossly-contradictory-death-numbers/"
+      "title": "Sled Theoretical Performance Guide",
+      "link": "http://sled.rs/perf.html"
     },
     {
       "rank": "15.",
@@ -87,68 +87,68 @@
     },
     {
       "rank": "18.",
+      "title": "Apple changes App Review process",
+      "link": "https://developer.apple.com/news/?id=84w3e5bm"
+    },
+    {
+      "rank": "19.",
       "title": "Why are there 5280 feet in a mile?",
       "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
     },
     {
-      "rank": "19.",
-      "title": "François Chollet (Keras creator): we're witnessing a deep learning recession",
-      "link": "https://twitter.com/fchollet/status/1300137812872765440"
-    },
-    {
       "rank": "20.",
-      "title": "Identifying People by Their Browsing Histories",
-      "link": "https://www.schneier.com/blog/archives/2020/08/identifying_peo_9.html"
-    },
-    {
-      "rank": "21.",
-      "title": "Ruby: We have decided to go forward to 3.0 this year",
-      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
-    },
-    {
-      "rank": "22.",
-      "title": "Sum Types in Julia and Rust",
-      "link": "https://andreaskroepelin.de/blog/sum_types/"
-    },
-    {
-      "rank": "23.",
-      "title": "Italian Ruby",
-      "link": "https://github.com/Pluvie/italian-ruby"
-    },
-    {
-      "rank": "24.",
       "title": "America Is Facing a Monkey Shortage",
       "link": "https://www.theatlantic.com/science/archive/2020/08/america-facing-monkey-shortage/615799/"
     },
     {
-      "rank": "25.",
-      "title": "Pinterest pays $89.5M to terminate San Francisco office lease",
-      "link": "https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php"
+      "rank": "21.",
+      "title": "François Chollet (Keras creator): we're witnessing a deep learning recession",
+      "link": "https://twitter.com/fchollet/status/1300137812872765440"
     },
     {
-      "rank": "26.",
+      "rank": "22.",
+      "title": "Identifying People by Their Browsing Histories",
+      "link": "https://www.schneier.com/blog/archives/2020/08/identifying_peo_9.html"
+    },
+    {
+      "rank": "23.",
+      "title": "Sum Types in Julia and Rust",
+      "link": "https://andreaskroepelin.de/blog/sum_types/"
+    },
+    {
+      "rank": "24.",
+      "title": "Italian Ruby",
+      "link": "https://github.com/Pluvie/italian-ruby"
+    },
+    {
+      "rank": "25.",
       "title": "The Easy Ones – Three Bugs Hiding in the Open",
       "link": "https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/"
     },
     {
-      "rank": "27.",
-      "title": "We Replaced an SSD with Storage Class Memory",
-      "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
-    },
-    {
-      "rank": "28.",
-      "title": "Do-it-Yourself Vaccines for Covid-19",
-      "link": "https://www.scientificamerican.com/article/do-it-yourself-vaccines-for-covid-19/"
-    },
-    {
-      "rank": "29.",
+      "rank": "26.",
       "title": "Should Google’s Ad Market Be Regulated Like the Stock Market?",
       "link": "https://www.wired.com/story/google-ad-market-regulated-like-stock-market/"
     },
     {
-      "rank": "30.",
+      "rank": "27.",
+      "title": "Pinterest pays $89.5M to terminate San Francisco office lease",
+      "link": "https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php"
+    },
+    {
+      "rank": "28.",
+      "title": "We Replaced an SSD with Storage Class Memory",
+      "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
+    },
+    {
+      "rank": "29.",
       "title": "Visualizing TSNE Maps with Three.js",
       "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
+    },
+    {
+      "rank": "30.",
+      "title": "Deep Learning for Knowledge Graph Embeddings",
+      "link": "https://cxlabs.sap.com/2020/08/31/deep-learning-for-knowledge-graph-embeddings/"
     }
   ],
   "metadata": {
