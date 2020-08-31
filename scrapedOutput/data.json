@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Keli: A programming language to make Functional Programming a joy for users",
-      "link": "https://keli-language.gitbook.io/doc/"
+      "title": "Mathematicians Report New Discovery About the Dodecahedron",
+      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
     },
     {
       "rank": "4.",
-      "title": "Mathematicians Report New Discovery About the Dodecahedron",
-      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
+      "title": "The Architecture of Open Source Applications",
+      "link": "https://aosabook.org/en/index.html"
     },
     {
       "rank": "5.",
@@ -32,123 +32,123 @@
     },
     {
       "rank": "7.",
+      "title": "Keli: A programming language to make Functional Programming a joy for users",
+      "link": "https://keli-language.gitbook.io/doc/"
+    },
+    {
+      "rank": "8.",
+      "title": "Deep learning job postings have collapsed in the past six months",
+      "link": "https://twitter.com/fchollet/status/1300137812872765440"
+    },
+    {
+      "rank": "9.",
       "title": "As above, so below, part 2. Bare metal Rust generics",
       "link": "https://www.ecorax.net/as-above-so-below-2/"
     },
     {
-      "rank": "8.",
-      "title": "The Architecture of Open Source Applications",
-      "link": "https://aosabook.org/en/index.html"
-    },
-    {
-      "rank": "9.",
-      "title": "Ruby: We have decided to go forward to 3.0 this year",
-      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
-    },
-    {
       "rank": "10.",
-      "title": "Tracing at Slack: Thinking in Causal Graphs",
-      "link": "https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/"
-    },
-    {
-      "rank": "11.",
-      "title": "Google, the Stupidity Amplifier (2016)",
-      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
-    },
-    {
-      "rank": "12.",
-      "title": "Making Navigation Work (2017)",
-      "link": "http://gameshelf.jmac.org/2017/05/making-navigation-work/"
-    },
-    {
-      "rank": "13.",
-      "title": "How should we build the APIs of tomorrow?",
-      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
-    },
-    {
-      "rank": "14.",
-      "title": "Do we really travel through time with the speed of light?",
-      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
-    },
-    {
-      "rank": "15.",
       "title": "Show HN: ML From Scratch – free online textbook",
       "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
     },
     {
-      "rank": "16.",
-      "title": "Significant sex differences in Covid-19 immune response",
-      "link": "https://news.yale.edu/2020/08/26/sex-differences-covid-19-immune-responses-affect-patient-outcomes?"
+      "rank": "11.",
+      "title": "How should we build the APIs of tomorrow?",
+      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
     },
     {
-      "rank": "17.",
-      "title": "Bits of History, Words of Advice",
-      "link": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html"
-    },
-    {
-      "rank": "18.",
-      "title": "Analysis of Today's CenturyLink/Level(3) Outage",
-      "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
-    },
-    {
-      "rank": "19.",
-      "title": "Sled Theoretical Performance Guide",
-      "link": "http://sled.rs/perf.html"
-    },
-    {
-      "rank": "20.",
-      "title": "Nim – version 1.2.6 and 1.0.8 released",
-      "link": "https://nim-lang.org/blog/2020/07/30/versions-126-and-108-released.html"
-    },
-    {
-      "rank": "21.",
-      "title": "Padding Oracles: An Animated Primer",
-      "link": "https://dylanpindur.com/blog/padding-oracles-an-animated-primer/"
-    },
-    {
-      "rank": "22.",
-      "title": "China again boosts R&D spending by more than 10%",
-      "link": "https://www.sciencemag.org/news/2020/08/china-again-boosts-rd-spending-more-10"
-    },
-    {
-      "rank": "23.",
-      "title": "Unusual Maps",
-      "link": "https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI"
-    },
-    {
-      "rank": "24.",
-      "title": "The basic dramatic situations, according to 1919 manual for screenwriters",
-      "link": "http://www.openculture.com/2020/08/37-possible-stories.html"
-    },
-    {
-      "rank": "25.",
-      "title": "Why are there 5280 feet in a mile?",
-      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
-    },
-    {
-      "rank": "26.",
-      "title": "François Chollet (Keras creator): we're witnessing a deep learning recession",
-      "link": "https://twitter.com/fchollet/status/1300137812872765440"
-    },
-    {
-      "rank": "27.",
-      "title": "America Is Facing a Monkey Shortage",
-      "link": "https://www.theatlantic.com/science/archive/2020/08/america-facing-monkey-shortage/615799/"
-    },
-    {
-      "rank": "28.",
-      "title": "Sum Types in Julia and Rust",
-      "link": "https://andreaskroepelin.de/blog/sum_types/"
-    },
-    {
-      "rank": "29.",
+      "rank": "12.",
       "title": "Italian Ruby",
       "link": "https://github.com/Pluvie/italian-ruby"
     },
     {
+      "rank": "13.",
+      "title": "Significant sex differences in Covid-19 immune response",
+      "link": "https://news.yale.edu/2020/08/26/sex-differences-covid-19-immune-responses-affect-patient-outcomes?"
+    },
+    {
+      "rank": "14.",
+      "title": "Don't Be a Sucker",
+      "link": "https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00"
+    },
+    {
+      "rank": "15.",
+      "title": "Tracing at Slack: Thinking in Causal Graphs",
+      "link": "https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/"
+    },
+    {
+      "rank": "16.",
+      "title": "Google, the Stupidity Amplifier (2016)",
+      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
+    },
+    {
+      "rank": "17.",
+      "title": "Ruby: We have decided to go forward to 3.0 this year",
+      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
+    },
+    {
+      "rank": "18.",
+      "title": "Do we really travel through time with the speed of light?",
+      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
+    },
+    {
+      "rank": "19.",
+      "title": "Making Navigation Work (2017)",
+      "link": "http://gameshelf.jmac.org/2017/05/making-navigation-work/"
+    },
+    {
+      "rank": "20.",
+      "title": "Padding Oracles: An Animated Primer",
+      "link": "https://dylanpindur.com/blog/padding-oracles-an-animated-primer/"
+    },
+    {
+      "rank": "21.",
+      "title": "Bits of History, Words of Advice",
+      "link": "https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html"
+    },
+    {
+      "rank": "22.",
+      "title": "Analysis of Today's CenturyLink/Level(3) Outage",
+      "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
+    },
+    {
+      "rank": "23.",
+      "title": "Sled Theoretical Performance Guide",
+      "link": "http://sled.rs/perf.html"
+    },
+    {
+      "rank": "24.",
+      "title": "Unusual Maps",
+      "link": "https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI"
+    },
+    {
+      "rank": "25.",
+      "title": "China again boosts R&D spending by more than 10%",
+      "link": "https://www.sciencemag.org/news/2020/08/china-again-boosts-rd-spending-more-10"
+    },
+    {
+      "rank": "26.",
+      "title": "The basic dramatic situations, according to 1919 manual for screenwriters",
+      "link": "http://www.openculture.com/2020/08/37-possible-stories.html"
+    },
+    {
+      "rank": "27.",
+      "title": "Why are there 5280 feet in a mile?",
+      "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
+    },
+    {
+      "rank": "28.",
+      "title": "Self-charging ‘thousand-year’ battery completes lab tests",
+      "link": "https://www.electronics-lab.com/self-charging-thousand-year-battery-completes-lab-tests/"
+    },
+    {
+      "rank": "29.",
+      "title": "Blessed Are the JavaScript Developers",
+      "link": "https://twitter.com/frontenddude/status/1300420130346864641"
+    },
+    {
       "rank": "30.",
-      "title": "Identifying People by Their Browsing Histories",
-      "link": "https://www.schneier.com/blog/archives/2020/08/identifying_peo_9.html"
+      "title": "Sum Types in Julia and Rust",
+      "link": "https://andreaskroepelin.de/blog/sum_types/"
     }
   ],
   "metadata": {
