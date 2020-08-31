@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "PinePhone Manjaro Community Edition",
+      "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
+    },
+    {
+      "rank": "2.",
       "title": "Google, the Stupidity Amplifier (2012)",
       "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Do we really travel through time with the speed of light?",
       "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
-    },
-    {
-      "rank": "3.",
-      "title": "PinePhone Manjaro Community Edition",
-      "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
     },
     {
       "rank": "4.",
@@ -22,18 +22,18 @@
     },
     {
       "rank": "5.",
+      "title": "The basic dramatic situations, according to 1919 manual for screenwriters",
+      "link": "http://www.openculture.com/2020/08/37-possible-stories.html"
+    },
+    {
+      "rank": "6.",
       "title": "Unusual Maps",
       "link": "https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Why are there 5280 feet in a mile?",
       "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
-    },
-    {
-      "rank": "7.",
-      "title": "The basic dramatic situations, according to 1919 manual for screenwriters",
-      "link": "http://www.openculture.com/2020/08/37-possible-stories.html"
     },
     {
       "rank": "8.",
@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
+      "title": "Alarm as FDA willing to issue Covid-19 vaccine before stringent safety testing",
+      "link": "https://mindhive.org/challenges/1273/overview/brief"
+    },
+    {
+      "rank": "10.",
       "title": "Drug cartel assassinates its enemies with bomb-toting drones",
       "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Ubuntu 20.04’s zsys adds ZFS snapshots to package management",
       "link": "https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Banks create money, but it's less impressive than it sounds",
       "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
-    },
-    {
-      "rank": "12.",
-      "title": "Alarm as FDA willing to issue Covid-19 vaccine before stringent safety testing",
-      "link": "https://mindhive.org/challenges/1273/overview/brief"
     },
     {
       "rank": "13.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Don't Get Stuck",
-      "link": "https://stitcher.io/blog/dont-get-stuck"
+      "title": "K-Stash: A search engine for your useful links – for devs and researchers",
+      "link": "https://k-stash.com"
     },
     {
       "rank": "19.",
-      "title": "K-Stash: A search engine for your useful links – for devs and researchers",
-      "link": "https://k-stash.com"
+      "title": "Don't Get Stuck",
+      "link": "https://stitcher.io/blog/dont-get-stuck"
     },
     {
       "rank": "20.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
-      "title": "An overview of the science on function length",
-      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
+      "title": "Yml Coding",
+      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
     },
     {
       "rank": "26.",
-      "title": "Writing a Lisp to x86-64 compiler",
-      "link": "item?id=24328998"
+      "title": "A terminal-based presentation tool with colors and effects",
+      "link": "https://github.com/vinayak-mehta/present"
     },
     {
       "rank": "27.",
-      "title": "A terminal-based presentation tool with colors and effects",
-      "link": "https://github.com/vinayak-mehta/present"
+      "title": "An overview of the science on function length",
+      "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
     },
     {
       "rank": "28.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "Yml Coding",
-      "link": "https://cloud.google.com/workflows/docs/reference/syntax"
+      "title": "Writing a Lisp to x86-64 compiler",
+      "link": "item?id=24328998"
     },
     {
       "rank": "30.",
