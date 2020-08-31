@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
-      "title": "Drug cartel assassinates its enemies with bomb-toting drones",
-      "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
-    },
-    {
-      "rank": "4.",
       "title": "Players are fixing Microsoft Flight Simulator’s monuments with Google Maps",
       "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
       "link": "https://webrtcforthecurious.com/"
+    },
+    {
+      "rank": "5.",
+      "title": "Drug cartel assassinates its enemies with bomb-toting drones",
+      "link": "https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones"
     },
     {
       "rank": "6.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Sum Types in Julia and Rust",
-      "link": "https://andreaskroepelin.de/blog/sum_types/"
+      "title": "Essentials of Programming Languages",
+      "link": "http://eopl3.com/"
     },
     {
       "rank": "9.",
-      "title": "Essentials of Programming Languages",
-      "link": "http://eopl3.com/"
+      "title": "Sum Types in Julia and Rust",
+      "link": "https://andreaskroepelin.de/blog/sum_types/"
     },
     {
       "rank": "10.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "How to Write Unmaintainable Code (2003)",
-      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
+      "title": "Level 3 Global Outage",
+      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
     },
     {
       "rank": "14.",
-      "title": "Level 3 Global Outage",
-      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
+      "title": "How to Write Unmaintainable Code (2003)",
+      "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
     },
     {
       "rank": "15.",
@@ -97,18 +97,18 @@
     },
     {
       "rank": "20.",
+      "title": "Meeting lengths are changing during coronavirus remote work",
+      "link": "https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths"
+    },
+    {
+      "rank": "21.",
       "title": "An overview of the science on function length",
       "link": "https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "High-tech tracking reveals ‘secret world of birds’",
       "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
-    },
-    {
-      "rank": "22.",
-      "title": "Meeting lengths are changing during coronavirus remote work",
-      "link": "https://www.fastcompany.com/90543500/one-thing-that-the-pandemic-could-be-changing-meeting-lengths"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "After 48 years, Democrats endorse nuclear energy in platform",
-      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+      "title": "Cloudlfare Analysis of Today's CenturyLink/Level(3) Outage",
+      "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
     },
     {
       "rank": "25.",
@@ -127,23 +127,23 @@
     },
     {
       "rank": "26.",
+      "title": "After 48 years, Democrats endorse nuclear energy in platform",
+      "link": "https://www.forbes.com/sites/robertbryce/2020/08/23/after-48-years-democrats-endorse-nuclear-energy-in-platform/#3c7687df5829"
+    },
+    {
+      "rank": "27.",
       "title": "Yml Coding",
       "link": "https://cloud.google.com/workflows/docs/reference/syntax"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Tech my dad banned in our house when I was a kid",
       "link": "https://gizmodo.com/the-tech-my-dad-banned-from-our-house-1844777825"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Multi-Tenant Architectures",
       "link": "https://blog.codonomics.com/2020/08/multi-tenant-architectures.html"
-    },
-    {
-      "rank": "29.",
-      "title": "Cloudlfare Analysis of Today's CenturyLink/Level(3) Outage",
-      "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
     },
     {
       "rank": "30.",
