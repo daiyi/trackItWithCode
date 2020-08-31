@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "App Review process updates",
-      "link": "https://developer.apple.com/news/?id=84w3e5bm"
+      "title": "Bevy: A Game Engine in Rust",
+      "link": "https://bevyengine.org/"
     },
     {
       "rank": "2.",
-      "title": "Bevy: A Game Engine in Rust",
-      "link": "https://bevyengine.org/"
+      "title": "App Review process updates",
+      "link": "https://developer.apple.com/news/?id=84w3e5bm"
     },
     {
       "rank": "3.",
@@ -27,33 +27,33 @@
     },
     {
       "rank": "6.",
+      "title": "BuildZoom (better way to build custom homes) is hiring a principal engineer",
+      "link": "https://jobs.lever.co/buildzoom"
+    },
+    {
+      "rank": "7.",
       "title": "Show HN: ML From Scratch – free online textbook",
       "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Mathematicians Report New Discovery About the Dodecahedron",
       "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Deep learning job postings have collapsed in the past six months",
       "link": "https://twitter.com/fchollet/status/1300137812872765440"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "How NASA and ISRO discovered water on the Moon",
       "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "FedEx feeder plane takes flight without pilot in test for Reliable Robotics",
       "link": "https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/"
-    },
-    {
-      "rank": "11.",
-      "title": "Enveritas (YC S18 Nonprofit) Is Hiring a JavaScript/React Lead Developer",
-      "link": "https://www.enveritas.org/jobs/engineering/"
     },
     {
       "rank": "12.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Battleshorts, exaptations, and the limits of STAMP",
-      "link": "https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/"
+      "title": "Don't Be a Sucker",
+      "link": "https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00"
     },
     {
       "rank": "18.",
-      "title": "Blender 2.90",
-      "link": "https://www.blender.org/download/releases/2-90/"
+      "title": "Effective testing for machine learning systems",
+      "link": "https://www.jeremyjordan.me/testing-ml/"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Effective testing for machine learning systems",
-      "link": "https://www.jeremyjordan.me/testing-ml/"
+      "title": "Battleshorts, exaptations, and the limits of STAMP",
+      "link": "https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/"
     },
     {
       "rank": "21.",
-      "title": "Don't Be a Sucker",
-      "link": "https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00"
+      "title": "Blender 2.90",
+      "link": "https://www.blender.org/download/releases/2-90/"
     },
     {
       "rank": "22.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "3D face: fast, accurate and stable reconstruction",
-      "link": "https://github.com/cleardusk/3DDFA_V2"
+      "title": "Do we really travel through time with the speed of light?",
+      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
     },
     {
       "rank": "30.",
-      "title": "Do we really travel through time with the speed of light?",
-      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
+      "title": "3D face: fast, accurate and stable reconstruction",
+      "link": "https://github.com/cleardusk/3DDFA_V2"
     }
   ],
   "metadata": {
