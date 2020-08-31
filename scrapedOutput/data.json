@@ -22,23 +22,23 @@
     },
     {
       "rank": "5.",
-      "title": "Italian Ruby",
-      "link": "https://github.com/Pluvie/italian-ruby"
-    },
-    {
-      "rank": "6.",
       "title": "Analysis of Today's CenturyLink/Level(3) Outage",
       "link": "https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/"
     },
     {
+      "rank": "6.",
+      "title": "Italian Ruby",
+      "link": "https://github.com/Pluvie/italian-ruby"
+    },
+    {
       "rank": "7.",
-      "title": "Common Mistakes to Avoid in HTML",
-      "link": "https://iamshadmirza.com/5-common-mistakes-to-avoid-in-html"
+      "title": "Sled Theoretical Performance Guide",
+      "link": "http://sled.rs/perf.html"
     },
     {
       "rank": "8.",
-      "title": "Sled Theoretical Performance Guide",
-      "link": "http://sled.rs/perf.html"
+      "title": "Unusual Maps",
+      "link": "https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI"
     },
     {
       "rank": "9.",
@@ -47,23 +47,23 @@
     },
     {
       "rank": "10.",
-      "title": "Unusual Maps",
-      "link": "https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI"
-    },
-    {
-      "rank": "11.",
       "title": "Why are there 5280 feet in a mile?",
       "link": "https://petersmagnusson.org/2009/09/15/why-are-there-5280-feet-in-a-mile/"
     },
     {
+      "rank": "11.",
+      "title": "Common Mistakes to Avoid in HTML",
+      "link": "https://iamshadmirza.com/5-common-mistakes-to-avoid-in-html"
+    },
+    {
       "rank": "12.",
-      "title": "François Chollet (Keras creator): we're witnessing a deep learning recession",
-      "link": "https://twitter.com/fchollet/status/1300137812872765440"
+      "title": "Sum Types in Julia and Rust",
+      "link": "https://andreaskroepelin.de/blog/sum_types/"
     },
     {
       "rank": "13.",
-      "title": "Sum Types in Julia and Rust",
-      "link": "https://andreaskroepelin.de/blog/sum_types/"
+      "title": "François Chollet (Keras creator): we're witnessing a deep learning recession",
+      "link": "https://twitter.com/fchollet/status/1300137812872765440"
     },
     {
       "rank": "14.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "Pinterest pays $89.5M to terminate San Francisco office lease",
-      "link": "https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php"
+      "title": "Ubuntu 20.04’s zsys adds ZFS snapshots to package management",
+      "link": "https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Ubuntu 20.04’s zsys adds ZFS snapshots to package management",
-      "link": "https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/"
+      "title": "Visualizing TSNE Maps with Three.js",
+      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
     },
     {
       "rank": "19.",
-      "title": "Visualizing TSNE Maps with Three.js",
-      "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
+      "title": "Don't Get Stuck",
+      "link": "https://stitcher.io/blog/dont-get-stuck"
     },
     {
       "rank": "20.",
@@ -102,53 +102,53 @@
     },
     {
       "rank": "21.",
-      "title": "Don't Get Stuck",
-      "link": "https://stitcher.io/blog/dont-get-stuck"
+      "title": "Identifying People by Their Browsing Histories",
+      "link": "https://www.schneier.com/blog/archives/2020/08/identifying_peo_9.html"
     },
     {
       "rank": "22.",
-      "title": "Level 3 Global Outage",
-      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
-    },
-    {
-      "rank": "23.",
       "title": "Do-it-Yourself Vaccines for Covid-19",
       "link": "https://www.scientificamerican.com/article/do-it-yourself-vaccines-for-covid-19/"
     },
     {
+      "rank": "23.",
+      "title": "Level 3 Global Outage",
+      "link": "https://puck.nether.net/pipermail/outages/2020-August/013187.html"
+    },
+    {
       "rank": "24.",
+      "title": "Pinterest pays $89.5M to terminate San Francisco office lease",
+      "link": "https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php"
+    },
+    {
+      "rank": "25.",
       "title": "Converting Boolean-Logic Decision Trees to Finite State Machines",
       "link": "https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "K-Stash: A search engine for your useful links – for devs and researchers",
       "link": "https://k-stash.com"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Show HN: Learn how WebRTC actually works. A book on the protocols, not just APIs",
       "link": "https://webrtcforthecurious.com/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Players are fixing Microsoft Flight Simulator’s monuments with Google Maps",
       "link": "https://www.rockpapershotgun.com/2020/08/28/players-are-fixing-microsoft-flight-simulators-missing-monuments-with-google-maps/"
     },
     {
-      "rank": "28.",
-      "title": "High-tech tracking reveals ‘secret world of birds’",
-      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
-    },
-    {
       "rank": "29.",
-      "title": "Writing a Lisp to x86-64 compiler",
-      "link": "item?id=24328998"
+      "title": "Nim – version 1.2.6 and 1.0.8 released",
+      "link": "https://nim-lang.org/blog/2020/07/30/versions-126-and-108-released.html"
     },
     {
       "rank": "30.",
-      "title": "A terminal-based presentation tool with colors and effects",
-      "link": "https://github.com/vinayak-mehta/present"
+      "title": "High-tech tracking reveals ‘secret world of birds’",
+      "link": "https://www.smithsonianmag.com/smithsonian-institution/high-tech-tracking-reveals-birds-movement-beyond-migration-180975673/"
     }
   ],
   "metadata": {
