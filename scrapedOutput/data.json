@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Blender 2.90",
-      "link": "https://www.blender.org/download/releases/2-90/"
+      "title": "App Review process updates",
+      "link": "https://developer.apple.com/news/?id=84w3e5bm"
     },
     {
       "rank": "2.",
-      "title": "App Review process updates",
-      "link": "https://developer.apple.com/news/?id=84w3e5bm"
+      "title": "Bevy: A Game Engine in Rust",
+      "link": "https://bevyengine.org/"
     },
     {
       "rank": "3.",
@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Mathematicians Report New Discovery About the Dodecahedron",
-      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
+      "title": "Show HN: ML From Scratch – free online textbook",
+      "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
     },
     {
       "rank": "7.",
-      "title": "Show HN: ML From Scratch – free online textbook",
-      "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
+      "title": "Mathematicians Report New Discovery About the Dodecahedron",
+      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
     },
     {
       "rank": "8.",
@@ -42,18 +42,18 @@
     },
     {
       "rank": "9.",
+      "title": "How NASA and ISRO discovered water on the Moon",
+      "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
+    },
+    {
+      "rank": "10.",
       "title": "FedEx feeder plane takes flight without pilot in test for Reliable Robotics",
       "link": "https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/"
     },
     {
-      "rank": "10.",
-      "title": "Enveritas (YC S18) Is Hiring a JavaScript/React Lead Developer",
-      "link": "https://www.enveritas.org/jobs/engineering/"
-    },
-    {
       "rank": "11.",
-      "title": "How NASA and ISRO discovered water on the Moon",
-      "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
+      "title": "Enveritas (YC S18 Nonprofit) Is Hiring a JavaScript/React Lead Developer",
+      "link": "https://www.enveritas.org/jobs/engineering/"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
-      "title": "Bevy: A Game Engine in Rust",
-      "link": "https://bevyengine.org/"
-    },
-    {
-      "rank": "14.",
       "title": "Ruby: We have decided to go forward to 3.0 this year",
       "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "As above, so below, part 2. Bare metal Rust generics",
       "link": "https://www.ecorax.net/as-above-so-below-2/"
+    },
+    {
+      "rank": "15.",
+      "title": "The surreal art of ‘unnatural lighting’",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
     },
     {
       "rank": "16.",
@@ -82,48 +82,48 @@
     },
     {
       "rank": "17.",
-      "title": "How should we build the APIs of tomorrow?",
-      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
-    },
-    {
-      "rank": "18.",
-      "title": "Don't Be a Sucker",
-      "link": "https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00"
-    },
-    {
-      "rank": "19.",
-      "title": "Cracking Phobos UUID",
-      "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
-    },
-    {
-      "rank": "20.",
-      "title": "Show HN: Friendly Fire – Open-source, Metroidvania-style game in the browser",
-      "link": "https://friendlyfiregame.com/"
-    },
-    {
-      "rank": "21.",
-      "title": "Effective testing for machine learning systems",
-      "link": "https://www.jeremyjordan.me/testing-ml/"
-    },
-    {
-      "rank": "22.",
-      "title": "Tracing at Slack: Thinking in Causal Graphs",
-      "link": "https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/"
-    },
-    {
-      "rank": "23.",
       "title": "Battleshorts, exaptations, and the limits of STAMP",
       "link": "https://surfingcomplexity.blog/2020/08/16/battleshorts-exapting-and-the-limits-of-stamp/"
     },
     {
+      "rank": "18.",
+      "title": "Blender 2.90",
+      "link": "https://www.blender.org/download/releases/2-90/"
+    },
+    {
+      "rank": "19.",
+      "title": "How should we build the APIs of tomorrow?",
+      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
+    },
+    {
+      "rank": "20.",
+      "title": "Effective testing for machine learning systems",
+      "link": "https://www.jeremyjordan.me/testing-ml/"
+    },
+    {
+      "rank": "21.",
+      "title": "Don't Be a Sucker",
+      "link": "https://archive.org/details/0022_Dont_Be_a_Sucker_22_33_53_00"
+    },
+    {
+      "rank": "22.",
+      "title": "Show HN: Friendly Fire – Open-source, Metroidvania-style game in the browser",
+      "link": "https://friendlyfiregame.com/"
+    },
+    {
+      "rank": "23.",
+      "title": "Robotic Manipulation (Online Textbook)",
+      "link": "http://manipulation.csail.mit.edu/"
+    },
+    {
       "rank": "24.",
-      "title": "3D face: fast, accurate and stable reconstruction",
-      "link": "https://github.com/cleardusk/3DDFA_V2"
+      "title": "Tracing at Slack: Thinking in Causal Graphs",
+      "link": "https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/"
     },
     {
       "rank": "25.",
-      "title": "Significant sex differences in Covid-19 immune response",
-      "link": "https://news.yale.edu/2020/08/26/sex-differences-covid-19-immune-responses-affect-patient-outcomes?"
+      "title": "Cracking Phobos UUID",
+      "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "Significant sex differences in Covid-19 immune response",
+      "link": "https://news.yale.edu/2020/08/26/sex-differences-covid-19-immune-responses-affect-patient-outcomes?"
+    },
+    {
+      "rank": "28.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
-      "rank": "28.",
-      "title": "Do we really travel through time with the speed of light?",
-      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
-    },
-    {
       "rank": "29.",
-      "title": "Padding Oracles: An Animated Primer",
-      "link": "https://dylanpindur.com/blog/padding-oracles-an-animated-primer/"
+      "title": "3D face: fast, accurate and stable reconstruction",
+      "link": "https://github.com/cleardusk/3DDFA_V2"
     },
     {
       "rank": "30.",
-      "title": "Google, the Stupidity Amplifier (2016)",
-      "link": "http://www.gregegan.net/ESSAYS/GOOGLE/Google.html"
+      "title": "Do we really travel through time with the speed of light?",
+      "link": "https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html"
     }
   ],
   "metadata": {
