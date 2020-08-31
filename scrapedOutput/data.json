@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Pinterest pays $89.5M to terminate San Francisco office lease",
-      "link": "https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php"
+      "title": "Banks create money, but it's less impressive than it sounds",
+      "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
     },
     {
       "rank": "13.",
-      "title": "Banks create money, but it's less impressive than it sounds",
-      "link": "https://www.attejuvonen.fi/money-out-of-thin-air/"
+      "title": "Ubuntu 20.04’s zsys adds ZFS snapshots to package management",
+      "link": "https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/"
     },
     {
       "rank": "14.",
@@ -72,33 +72,33 @@
     },
     {
       "rank": "15.",
-      "title": "Ubuntu 20.04’s zsys adds ZFS snapshots to package management",
-      "link": "https://arstechnica.com/gadgets/2020/03/ubuntu-20-04s-zsys-adds-zfs-snapshots-to-package-management/"
-    },
-    {
-      "rank": "16.",
       "title": "The Easy Ones – Three Bugs Hiding in the Open",
       "link": "https://randomascii.wordpress.com/2020/08/30/the-easy-ones-three-bugs-hiding-in-the-open/"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "We Replaced an SSD with Storage Class Memory",
       "link": "https://engineering.mongodb.com/post/we-replaced-an-ssd-with-storage-class-memory-here-is-what-we-learned"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Visualizing TSNE Maps with Three.js",
       "link": "https://douglasduhaime.com/posts/visualizing-tsne-maps-with-three-js.html"
     },
     {
+      "rank": "18.",
+      "title": "François Chollet (Keras creator): we're witnessing a deep learning recession",
+      "link": "https://twitter.com/fchollet/status/1300137812872765440"
+    },
+    {
       "rank": "19.",
-      "title": "An Argument for Race Abolitionism (2020)",
-      "link": "https://www.spiked-online.com/2020/08/04/we-need-to-abolish-race/"
+      "title": "What Shell Am I Using?",
+      "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
     },
     {
       "rank": "20.",
-      "title": "What Shell Am I Using?",
-      "link": "https://nil.wallyjones.com/what-shell-am-i-using/"
+      "title": "An Argument for Race Abolitionism (2020)",
+      "link": "https://www.spiked-online.com/2020/08/04/we-need-to-abolish-race/"
     },
     {
       "rank": "21.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
+      "title": "Pinterest pays $89.5M to terminate San Francisco office lease",
+      "link": "https://www.sfgate.com/business/article/Pinterest-terminate-SF-office-lease-88-Bluxome-15525421.php"
+    },
+    {
+      "rank": "24.",
       "title": "How to Write Unmaintainable Code (2003)",
       "link": "https://github.com/Droogans/unmaintainable-code/blob/master/README.md"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Converting Boolean-Logic Decision Trees to Finite State Machines",
       "link": "https://medium.com/analytics-vidhya/converting-boolean-logic-decision-trees-to-finite-state-machines-180ad195abf2"
-    },
-    {
-      "rank": "25.",
-      "title": "Do-it-Yourself Vaccines for Covid-19",
-      "link": "https://www.scientificamerican.com/article/do-it-yourself-vaccines-for-covid-19/"
     },
     {
       "rank": "26.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "François Chollet (Keras creator): we're witnessing a deep learning recession",
-      "link": "https://twitter.com/fchollet/status/1300137812872765440"
+      "title": "Do-it-Yourself Vaccines for Covid-19",
+      "link": "https://www.scientificamerican.com/article/do-it-yourself-vaccines-for-covid-19/"
     },
     {
       "rank": "28.",
