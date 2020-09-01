@@ -17,48 +17,48 @@
     },
     {
       "rank": "4.",
-      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
-      "link": "https://lunar.fyi"
-    },
-    {
-      "rank": "5.",
       "title": "Mozilla research: Browsing histories are unique enough to identify users",
       "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
     },
     {
-      "rank": "6.",
-      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
-      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
+      "rank": "5.",
+      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
+      "link": "https://lunar.fyi"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Bottlerocket, an open source Linux distribution built to run containers",
       "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
     },
     {
+      "rank": "7.",
+      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
+      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
+    },
+    {
       "rank": "8.",
-      "title": "Ask HN: Who is hiring? (September 2020)",
-      "link": "item?id=24342498"
+      "title": "Transit Costs Project",
+      "link": "https://transitcosts.com/about/"
     },
     {
       "rank": "9.",
-      "title": "GitHub Container Registry",
-      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
-    },
-    {
-      "rank": "10.",
-      "title": "Amazon drivers are hanging smartphones in trees to get more work",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
-    },
-    {
-      "rank": "11.",
       "title": "# of days since the last alg=none JWT vulnerability",
       "link": "https://www.howmanydayssinceajwtalgnonevuln.com"
     },
     {
+      "rank": "10.",
+      "title": "Ask HN: Who is hiring? (September 2020)",
+      "link": "item?id=24342498"
+    },
+    {
+      "rank": "11.",
+      "title": "GitHub Container Registry",
+      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
+    },
+    {
       "rank": "12.",
-      "title": "Transit Costs Project",
-      "link": "https://transitcosts.com/about/"
+      "title": "Amazon drivers are hanging smartphones in trees to get more work",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     },
     {
       "rank": "13.",
@@ -67,18 +67,18 @@
     },
     {
       "rank": "14.",
-      "title": "JITSploitation I: A JIT Bug",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
-    },
-    {
-      "rank": "15.",
       "title": "Mind Emulation Foundation",
       "link": "https://mindemulation.org/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
       "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
+    },
+    {
+      "rank": "16.",
+      "title": "JITSploitation I: A JIT Bug",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+      "title": "A Saudi prince's attempt to silence critics on Twitter",
+      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
     },
     {
       "rank": "19.",
-      "title": "A Saudi prince's attempt to silence critics on Twitter",
-      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
       "rank": "20.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Seeking Dark Matter, They Detected Another Mystery",
-      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
+      "title": "The Sony “Star Eater” (2017)",
+      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
     },
     {
       "rank": "23.",
-      "title": "The Sony “Star Eater” (2017)",
-      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
+      "title": "Seeking Dark Matter, They Detected Another Mystery",
+      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
     },
     {
       "rank": "24.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Htop 3.0",
-      "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
+      "title": "Walmart Plus takes on Amazon Prime",
+      "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
     },
     {
       "rank": "28.",
-      "title": "Walmart Plus takes on Amazon Prime",
-      "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
+      "title": "Htop 3.0",
+      "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
     },
     {
       "rank": "29.",
