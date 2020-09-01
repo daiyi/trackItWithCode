@@ -22,23 +22,23 @@
     },
     {
       "rank": "5.",
-      "title": "RxDB – a realtime database on top of PouchDB",
-      "link": "https://github.com/pubkey/rxdb/blob/master/README.md"
-    },
-    {
-      "rank": "6.",
-      "title": "Nessie – Lightweight Web Browser",
-      "link": "https://www.radsix.com/"
-    },
-    {
-      "rank": "7.",
       "title": "Taking a look at Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
+      "rank": "6.",
+      "title": "RxDB – a realtime database on top of PouchDB",
+      "link": "https://github.com/pubkey/rxdb/blob/master/README.md"
+    },
+    {
+      "rank": "7.",
+      "title": "Nessie – Lightweight Web Browser",
+      "link": "https://www.radsix.com/"
+    },
+    {
       "rank": "8.",
-      "title": "Science and steely nerves spared Houston from a nightmare hurricane evacuation",
-      "link": "https://arstechnica.com/science/2020/09/science-and-steely-nerves-spared-houston-from-a-nightmare-hurricane-evacuation/"
+      "title": "AWS Boilerplate",
+      "link": "https://github.com/apptension/aws-boilerplate"
     },
     {
       "rank": "9.",
@@ -47,83 +47,83 @@
     },
     {
       "rank": "10.",
-      "title": "AWS Boilerplate",
-      "link": "https://github.com/apptension/aws-boilerplate"
-    },
-    {
-      "rank": "11.",
       "title": "Police Across Canada Are Using Predictive Policing Algorithms, Report Finds",
       "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
     },
     {
-      "rank": "12.",
-      "title": "Apple Accidentally Approved Malware to Run on macOS",
-      "link": "https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/"
-    },
-    {
-      "rank": "13.",
-      "title": "Honey bee venom found to kill breast cancer cells",
-      "link": "https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064"
-    },
-    {
-      "rank": "14.",
-      "title": "The database I wish I had",
-      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
-    },
-    {
-      "rank": "15.",
+      "rank": "11.",
       "title": "Case-Insensitive Ext4",
       "link": "https://lwn.net/Articles/784041/"
     },
     {
-      "rank": "16.",
-      "title": "Why we are suing the Administration",
-      "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
+      "rank": "12.",
+      "title": "Honey bee venom found to kill breast cancer cells",
+      "link": "https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064"
     },
     {
-      "rank": "17.",
+      "rank": "13.",
+      "title": "The database I wish I had",
+      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
+    },
+    {
+      "rank": "14.",
+      "title": "Apple Accidentally Approved Malware to Run on macOS",
+      "link": "https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/"
+    },
+    {
+      "rank": "15.",
       "title": "Feline coronavirus drug inhibits the main protease of SARS-CoV-2",
       "link": "https://www.nature.com/articles/s41467-020-18096-2"
     },
     {
-      "rank": "18.",
+      "rank": "16.",
       "title": "A California wildfire nearly destroyed the historic Lick observatory",
       "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
     },
     {
-      "rank": "19.",
+      "rank": "17.",
+      "title": "Why we are suing the Administration",
+      "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
+    },
+    {
+      "rank": "18.",
       "title": "PNG and Hidden Pixels",
       "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Deep Learning for Compilers",
       "link": "https://era.ed.ac.uk/handle/1842/36866"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "NewLisp",
       "link": "http://www.newlisp.org/"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
       "link": "https://github.com/FreeCol/freecol"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Amazon's Surveillance Infrastructure and Revitalizing Worker Power",
       "link": "https://www.theregister.com/2020/09/01/amazon_staff_spying/"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Show HN: I built FabHomePages so your home can have its own homepage in minutes",
       "link": "https://fabhomepages.com/"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Admiral Grace Hopper Explains the Nanosecond",
       "link": "https://www.youtube.com/watch?v=9eyFDBPk4Yw"
+    },
+    {
+      "rank": "25.",
+      "title": "New Federal Court Rulings Find Geofence Warrants Unconstitutional",
+      "link": "https://www.eff.org/deeplinks/2020/08/new-federal-court-rulings-find-geofence-warrants-unconstitutional-0"
     },
     {
       "rank": "26.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "The Puzzle Toad",
-      "link": "http://www.cs.cmu.edu/puzzle/index.html"
-    },
-    {
-      "rank": "29.",
       "title": "Immortal Beloved (1812)",
       "link": "https://lettersofnote.com/2011/06/10/immortal-beloved/"
     },
     {
+      "rank": "29.",
+      "title": "The Puzzle Toad",
+      "link": "http://www.cs.cmu.edu/puzzle/index.html"
+    },
+    {
       "rank": "30.",
-      "title": "A Neural-Based Program Decompiler (2019)",
-      "link": "https://arxiv.org/abs/1906.12029"
+      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
+      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
     }
   ],
   "metadata": {
