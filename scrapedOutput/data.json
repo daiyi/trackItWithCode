@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Scanwell is hiring a product designer to design the first at-home Covid-19 test",
-      "link": "https://scanwell-health.breezy.hr/p/cfdf55d8fb85-product-designer"
+      "title": "Ask HN: Who is hiring? (September 2020)",
+      "link": "item?id=24342498"
     },
     {
       "rank": "8.",
-      "title": "Ask HN: Who is hiring? (September 2020)",
-      "link": "item?id=24342498"
+      "title": "Scanwell is hiring a product designer to design the first at-home Covid-19 test",
+      "link": "https://scanwell-health.breezy.hr/p/cfdf55d8fb85-product-designer"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "CERN at Home: Building a Particle Detector",
-      "link": "https://clanhouse.com/cern-at-home-building-a-particle-detector"
+      "title": "Mozilla research: Browsing histories are unique enough to identify users",
+      "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
     },
     {
       "rank": "11.",
-      "title": "Transit Costs Project",
-      "link": "https://transitcosts.com/about/"
+      "title": "CERN at Home: Building a Particle Detector",
+      "link": "https://clanhouse.com/cern-at-home-building-a-particle-detector"
     },
     {
       "rank": "12.",
@@ -62,73 +62,73 @@
     },
     {
       "rank": "13.",
-      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
-      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
-    },
-    {
-      "rank": "14.",
-      "title": "Seeking Dark Matter, They Detected Another Mystery",
-      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
-    },
-    {
-      "rank": "15.",
-      "title": "JITSploitation I: A JIT Bug",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
-    },
-    {
-      "rank": "16.",
-      "title": "Ask HN: Who wants to be hired? (September 2020)",
-      "link": "item?id=24342496"
-    },
-    {
-      "rank": "17.",
-      "title": "A Saudi prince's attempt to silence critics on Twitter",
-      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
-    },
-    {
-      "rank": "18.",
-      "title": "The Sony “Star Eater” (2017)",
-      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
-    },
-    {
-      "rank": "19.",
-      "title": "Why Privacy Matters",
-      "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
-    },
-    {
-      "rank": "20.",
-      "title": "Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
-    },
-    {
-      "rank": "21.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
-    },
-    {
-      "rank": "22.",
-      "title": "Police across Canada are using predictive policing algorithms, report finds",
-      "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
-    },
-    {
-      "rank": "23.",
-      "title": "Algebra Driven Design",
-      "link": "https://algebradriven.design/"
-    },
-    {
-      "rank": "24.",
       "title": "# of days since the last alg=none JWT vulnerability",
       "link": "https://www.howmanydayssinceajwtalgnonevuln.com"
     },
     {
+      "rank": "14.",
+      "title": "Transit Costs Project",
+      "link": "https://transitcosts.com/about/"
+    },
+    {
+      "rank": "15.",
+      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
+      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
+    },
+    {
+      "rank": "16.",
+      "title": "JITSploitation I: A JIT Bug",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
+    },
+    {
+      "rank": "17.",
+      "title": "Seeking Dark Matter, They Detected Another Mystery",
+      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
+    },
+    {
+      "rank": "18.",
+      "title": "Ask HN: Who wants to be hired? (September 2020)",
+      "link": "item?id=24342496"
+    },
+    {
+      "rank": "19.",
+      "title": "A Saudi prince's attempt to silence critics on Twitter",
+      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
+    },
+    {
+      "rank": "20.",
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+    },
+    {
+      "rank": "21.",
+      "title": "Why Privacy Matters",
+      "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
+    },
+    {
+      "rank": "22.",
+      "title": "The Sony “Star Eater” (2017)",
+      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
+    },
+    {
+      "rank": "23.",
+      "title": "Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+    },
+    {
+      "rank": "24.",
+      "title": "Police across Canada are using predictive policing algorithms, report finds",
+      "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
+    },
+    {
       "rank": "25.",
-      "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
-      "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
+      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
+      "link": "https://www.bbc.com/news/business-53979625"
     },
     {
       "rank": "26.",
-      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
-      "link": "https://www.bbc.com/news/business-53979625"
+      "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
+      "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
     },
     {
       "rank": "27.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "Your mind will not be uploaded (2014)",
-      "link": "http://www.softmachines.org/wordpress/?p=1558"
+      "title": "Walmart Plus takes on Amazon Prime",
+      "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
     },
     {
       "rank": "29.",
-      "title": "Walmart Plus takes on Amazon Prime",
-      "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
+      "title": "Your mind will not be uploaded (2014)",
+      "link": "http://www.softmachines.org/wordpress/?p=1558"
     },
     {
       "rank": "30.",
