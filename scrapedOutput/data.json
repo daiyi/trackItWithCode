@@ -22,38 +22,38 @@
     },
     {
       "rank": "5.",
-      "title": "Why Doctors Hate Their Computers (2018)",
-      "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
-    },
-    {
-      "rank": "6.",
-      "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
-      "link": "https://github.com/FreeCol/freecol"
-    },
-    {
-      "rank": "7.",
       "title": "A California wildfire nearly destroyed the historic Lick observatory",
       "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
     },
     {
+      "rank": "6.",
+      "title": "Why Doctors Hate Their Computers (2018)",
+      "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
+    },
+    {
+      "rank": "7.",
+      "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
+      "link": "https://github.com/FreeCol/freecol"
+    },
+    {
       "rank": "8.",
+      "title": "I Was Excited for Neuralink. Then I Watched the Demo",
+      "link": "https://thenextweb.com/neural/2020/08/31/i-was-excited-for-neuralink-then-i-watched-elon-musks-stupid-demo/"
+    },
+    {
+      "rank": "9.",
       "title": "Applebot",
       "link": "https://support.apple.com/en-us/HT204683"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "How to Learn Everything: The MasterClass Diaries",
       "link": "https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Supporting Linux kernel development in Rust",
       "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
-    },
-    {
-      "rank": "11.",
-      "title": "What should go into an allocator benchmark?",
-      "link": "https://twitter.com/chewedwire/status/1300129033699627012"
     },
     {
       "rank": "12.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Hacker News – Terms of Use (2014)",
-      "link": "https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/"
+      "title": "What should go into an allocator benchmark?",
+      "link": "https://twitter.com/chewedwire/status/1300129033699627012"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Ask HN: Captcha Alternatives?",
-      "link": "item?id=24334657"
+      "title": "NewLISP – puts the fun back in Lisp",
+      "link": "http://www.newlisp.org/"
     },
     {
       "rank": "18.",
-      "title": "I Was Excited for Neuralink. Then I Watched the Demo",
-      "link": "https://thenextweb.com/neural/2020/08/31/i-was-excited-for-neuralink-then-i-watched-elon-musks-stupid-demo/"
+      "title": "Hacker News – Terms of Use (2014)",
+      "link": "https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/"
     },
     {
       "rank": "19.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "How Predictable Is Fiction?",
+      "link": "https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/"
+    },
+    {
+      "rank": "27.",
       "title": "The surreal art of ‘unnatural lighting’",
       "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "When is it okay for a lawyer to lie? (2018)",
       "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "The Architecture of Open Source Applications",
       "link": "https://aosabook.org/en/index.html"
     },
     {
-      "rank": "29.",
-      "title": "Hapax Legomenon",
-      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
-    },
-    {
       "rank": "30.",
-      "title": "Interchange in Houston is the same size as an entire city center in Italy",
-      "link": "https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/"
+      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
+      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
     }
   ],
   "metadata": {
