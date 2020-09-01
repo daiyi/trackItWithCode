@@ -7,33 +7,33 @@
     },
     {
       "rank": "2.",
-      "title": "Htop Version 3.0.0 Released",
+      "title": "Htop 3.0.0",
       "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
     },
     {
       "rank": "3.",
-      "title": "Nvidia launches Ampere-based 30XX GPU lineup (video)",
-      "link": "https://www.nvidia.com/en-us/geforce/special-event/?nvid=nv-int-gfhm-55882#cid=_nv-int-gfhm_en-us"
-    },
-    {
-      "rank": "4.",
       "title": "Ask HN: Who is hiring? (September 2020)",
       "link": "item?id=24342498"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Ask HN: Who wants to be hired? (September 2020)",
       "link": "item?id=24342496"
     },
     {
+      "rank": "5.",
+      "title": "Algebra Driven Design",
+      "link": "https://algebradriven.design/"
+    },
+    {
       "rank": "6.",
-      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
-      "link": "https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs"
+      "title": "Why Privacy Matters",
+      "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
     },
     {
       "rank": "7.",
-      "title": "Algebra Driven Design",
-      "link": "https://algebradriven.design/"
+      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
+      "link": "https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs"
     },
     {
       "rank": "8.",
@@ -42,18 +42,18 @@
     },
     {
       "rank": "9.",
-      "title": "Why Privacy Matters",
-      "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
-    },
-    {
-      "rank": "10.",
       "title": "Taking a look at Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Amazon Is Hiring an Intelligence Analyst to Track 'Labor Organizing Threats'",
       "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
+    },
+    {
+      "rank": "11.",
+      "title": "California duplex bill, SB 1120, dies: Assembly approval comes too late",
+      "link": "https://www.latimes.com/homeless-housing/story/2020-09-01/california-assembly-sb-1120-duplexes"
     },
     {
       "rank": "12.",
@@ -62,93 +62,93 @@
     },
     {
       "rank": "13.",
+      "title": "Nvidia launches Ampere-based 30XX GPU lineup [video]",
+      "link": "https://www.nvidia.com/en-us/geforce/special-event/?nvid=nv-int-gfhm-55882#cid=_nv-int-gfhm_en-us"
+    },
+    {
+      "rank": "14.",
       "title": "A Saudi Prince's Attempt to Silence Critics on Twitter",
       "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Nessie – Lightweight Web Browser",
       "link": "https://www.radsix.com/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "‘Five Eyes’ Nations Release Joint Cybersecurity Advisory",
       "link": "https://www.meritalk.com/articles/five-eyes-nations-release-joint-cybersecurity-advisory/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
+      "title": "Lunar – macOS utility to set brightness on external monitors",
+      "link": "https://lunar.fyi"
+    },
+    {
+      "rank": "18.",
       "title": "Welcome to masterWiki: stolen from MasterClass, republished as wikiHow",
       "link": "https://masterwiki.how/"
     },
     {
-      "rank": "17.",
+      "rank": "19.",
       "title": "How to resume a SSH encrypted and x11 forwarded session",
       "link": "https://dwaves.org/2019/01/21/how-to-resume-a-ssh-encrypted-and-x11-forwarded-session/"
     },
     {
-      "rank": "18.",
+      "rank": "20.",
       "title": "Platforms: Current Attempts to Regulate Misinformation Amplify Opinion Power",
       "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "Amazon Drivers Are Hanging Smartphones in Trees to Get More Work",
       "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     },
     {
-      "rank": "20.",
-      "title": "New Federal Court Rulings Find Geofence Warrants Unconstitutional",
-      "link": "https://www.eff.org/deeplinks/2020/08/new-federal-court-rulings-find-geofence-warrants-unconstitutional-0"
-    },
-    {
-      "rank": "21.",
+      "rank": "22.",
       "title": "AWS Boilerplate",
       "link": "https://github.com/apptension/aws-boilerplate"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
+      "title": "New Federal Court Rulings Find Geofence Warrants Unconstitutional",
+      "link": "https://www.eff.org/deeplinks/2020/08/new-federal-court-rulings-find-geofence-warrants-unconstitutional-0"
+    },
+    {
+      "rank": "24.",
+      "title": "Why has college gotten so expensive? The gov handed them a blank check in 1993",
+      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
+    },
+    {
+      "rank": "25.",
       "title": "Police Across Canada Are Using Predictive Policing Algorithms, Report Finds",
       "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
     },
     {
-      "rank": "23.",
+      "rank": "26.",
       "title": "A California wildfire nearly destroyed the historic Lick observatory",
       "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
     },
     {
-      "rank": "24.",
+      "rank": "27.",
       "title": "Why we are suing the Administration",
       "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
     },
     {
-      "rank": "25.",
+      "rank": "28.",
       "title": "Feline coronavirus drug inhibits the main protease of SARS-CoV-2",
       "link": "https://www.nature.com/articles/s41467-020-18096-2"
     },
     {
-      "rank": "26.",
+      "rank": "29.",
       "title": "Deep Learning for Compilers",
       "link": "https://era.ed.ac.uk/handle/1842/36866"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "Honey bee venom found to kill breast cancer cells",
       "link": "https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064"
-    },
-    {
-      "rank": "28.",
-      "title": "PNG and Hidden Pixels",
-      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
-    },
-    {
-      "rank": "29.",
-      "title": "Making the case for fewer assertions in tests",
-      "link": "https://assertless.org/"
-    },
-    {
-      "rank": "30.",
-      "title": "Apple Accidentally Approved Malware to Run on macOS",
-      "link": "https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/"
     }
   ],
   "metadata": {
