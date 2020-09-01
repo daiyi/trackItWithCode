@@ -7,23 +7,23 @@
     },
     {
       "rank": "2.",
-      "title": "The database I wish I had",
-      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
-    },
-    {
-      "rank": "3.",
-      "title": "Applebot",
-      "link": "https://support.apple.com/en-us/HT204683"
-    },
-    {
-      "rank": "4.",
       "title": "First Impressions of GitHub Codespaces",
       "link": "https://www.aristotlemetadata.com/blog/2020/08/first-impressions-github-codespaces.html"
     },
     {
-      "rank": "5.",
+      "rank": "3.",
+      "title": "The database I wish I had",
+      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
+    },
+    {
+      "rank": "4.",
       "title": "PNG and Hidden Pixels",
       "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
+    },
+    {
+      "rank": "5.",
+      "title": "Applebot",
+      "link": "https://support.apple.com/en-us/HT204683"
     },
     {
       "rank": "6.",
@@ -92,18 +92,18 @@
     },
     {
       "rank": "19.",
+      "title": "Standing on the outside looking in: X-rays through glass",
+      "link": "https://physicsworld.com/a/standing-on-the-outside-looking-in-x-rays-through-glass/"
+    },
+    {
+      "rank": "20.",
       "title": "3D face: fast, accurate and stable reconstruction",
       "link": "https://github.com/cleardusk/3DDFA_V2"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
-    },
-    {
-      "rank": "21.",
-      "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
-      "link": "https://github.com/pypa/setuptools/issues/2350"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "A grim outlook on the future of browser add-ons",
-      "link": "https://palant.info/2020/08/31/a-grim-outlook-on-the-future-of-browser-add-ons/"
+      "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
+      "link": "https://github.com/pypa/setuptools/issues/2350"
     },
     {
       "rank": "24.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "How Predictable Is Fiction?",
-      "link": "https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/"
+      "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
+      "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
     },
     {
       "rank": "26.",
-      "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
-      "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
+      "title": "How Predictable Is Fiction?",
+      "link": "https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/"
     },
     {
       "rank": "27.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "Palantir's S-1 has a paragraph warning its AI technology may do unethical things",
-      "link": "https://nitter.net/tsimonite/status/1298711894241366019#m"
+      "title": "A grim outlook on the future of browser add-ons",
+      "link": "https://palant.info/2020/08/31/a-grim-outlook-on-the-future-of-browser-add-ons/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Hapax Legomenon",
-      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
+      "title": "When is it okay for a lawyer to lie? (2018)",
+      "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
     }
   ],
   "metadata": {
