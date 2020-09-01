@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "An Update About Changes to Facebook’s Services in Australia",
-      "link": "https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/"
+      "title": "Supporting Linux kernel development in Rust",
+      "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
     },
     {
       "rank": "2.",
-      "title": "Supporting Linux kernel development in Rust",
-      "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
+      "title": "An Update About Changes to Facebook’s Services in Australia",
+      "link": "https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/"
     },
     {
       "rank": "3.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Ruby: We have decided to go forward to 3.0 this year",
-      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
+      "title": "When is it okay for a lawyer to lie? (2018)",
+      "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
     },
     {
       "rank": "18.",
@@ -92,28 +92,28 @@
     },
     {
       "rank": "19.",
+      "title": "Ruby: We have decided to go forward to 3.0 this year",
+      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
+    },
+    {
+      "rank": "20.",
       "title": "How NASA and ISRO discovered water on the Moon",
       "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Ask HN: Captcha Alternatives?",
       "link": "item?id=24334657"
     },
     {
-      "rank": "21.",
-      "title": "Amazon wins FAA approval for Prime Air drone delivery fleet",
-      "link": "https://www.cnbc.com/2020/08/31/amazon-prime-now-drone-delivery-fleet-gets-faa-approval.html"
-    },
-    {
       "rank": "22.",
-      "title": "When is it okay for a lawyer to lie? (2018)",
-      "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
+      "title": "Hapax Legomenon",
+      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
     },
     {
       "rank": "23.",
-      "title": "Hapax Legomenon",
-      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
+      "title": "Amazon wins FAA approval for Prime Air drone delivery fleet",
+      "link": "https://www.cnbc.com/2020/08/31/amazon-prime-now-drone-delivery-fleet-gets-faa-approval.html"
     },
     {
       "rank": "24.",
