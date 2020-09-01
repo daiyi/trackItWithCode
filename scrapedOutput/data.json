@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
-      "title": "AWS Boilerplate",
-      "link": "https://github.com/apptension/aws-boilerplate"
-    },
-    {
-      "rank": "9.",
       "title": "Welcome to masterWiki: stolen from MasterClass, republished as wikiHow",
       "link": "https://masterwiki.how/"
     },
     {
-      "rank": "10.",
-      "title": "Case-Insensitive Ext4",
-      "link": "https://lwn.net/Articles/784041/"
+      "rank": "9.",
+      "title": "AWS Boilerplate",
+      "link": "https://github.com/apptension/aws-boilerplate"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Police Across Canada Are Using Predictive Policing Algorithms, Report Finds",
       "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Honey bee venom found to kill breast cancer cells",
       "link": "https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064"
+    },
+    {
+      "rank": "12.",
+      "title": "New Federal Court Rulings Find Geofence Warrants Unconstitutional",
+      "link": "https://www.eff.org/deeplinks/2020/08/new-federal-court-rulings-find-geofence-warrants-unconstitutional-0"
     },
     {
       "rank": "13.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "New Federal Court Rulings Find Geofence Warrants Unconstitutional",
-      "link": "https://www.eff.org/deeplinks/2020/08/new-federal-court-rulings-find-geofence-warrants-unconstitutional-0"
+      "title": "Apple Accidentally Approved Malware to Run on macOS",
+      "link": "https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/"
     },
     {
       "rank": "15.",
-      "title": "Apple Accidentally Approved Malware to Run on macOS",
-      "link": "https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/"
+      "title": "Amazon Drivers Are Hanging Smartphones in Trees to Get More Work",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "A California wildfire nearly destroyed the historic Lick observatory",
-      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
+      "title": "Why we are suing the Administration",
+      "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
     },
     {
       "rank": "18.",
-      "title": "Why we are suing the Administration",
-      "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
+      "title": "A California wildfire nearly destroyed the historic Lick observatory",
+      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
     },
     {
       "rank": "19.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
-      "title": "NewLisp",
-      "link": "http://www.newlisp.org/"
-    },
-    {
-      "rank": "22.",
       "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
       "link": "https://github.com/FreeCol/freecol"
     },
     {
+      "rank": "22.",
+      "title": "NewLisp",
+      "link": "http://www.newlisp.org/"
+    },
+    {
       "rank": "23.",
-      "title": "Amazon Drivers Are Hanging Smartphones in Trees to Get More Work",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
+      "title": "Admiral Grace Hopper Explains the Nanosecond",
+      "link": "https://www.youtube.com/watch?v=9eyFDBPk4Yw"
     },
     {
       "rank": "24.",
@@ -122,28 +122,28 @@
     },
     {
       "rank": "25.",
-      "title": "Admiral Grace Hopper Explains the Nanosecond",
-      "link": "https://www.youtube.com/watch?v=9eyFDBPk4Yw"
-    },
-    {
-      "rank": "26.",
       "title": "Show HN: I built FabHomePages so your home can have its own homepage in minutes",
       "link": "https://fabhomepages.com/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Supporting Linux kernel development in Rust",
       "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Applebot",
       "link": "https://support.apple.com/en-us/HT204683"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Immortal Beloved (1812)",
       "link": "https://lettersofnote.com/2011/06/10/immortal-beloved/"
+    },
+    {
+      "rank": "29.",
+      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
+      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
     },
     {
       "rank": "30.",
