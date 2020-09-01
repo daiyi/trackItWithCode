@@ -7,38 +7,38 @@
     },
     {
       "rank": "2.",
-      "title": "Why Doctors Hate Their Computers (2018)",
-      "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
-    },
-    {
-      "rank": "3.",
-      "title": "An Update About Changes to Facebook’s Services in Australia",
-      "link": "https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/"
-    },
-    {
-      "rank": "4.",
       "title": "Modernizing the OpenBSD Console",
       "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
     },
     {
-      "rank": "5.",
+      "rank": "3.",
+      "title": "Why Doctors Hate Their Computers (2018)",
+      "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
+    },
+    {
+      "rank": "4.",
       "title": "App Review process updates",
       "link": "https://developer.apple.com/news/?id=84w3e5bm"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "The surreal art of ‘unnatural lighting’",
       "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "The Architecture of Open Source Applications",
       "link": "https://aosabook.org/en/index.html"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "How to Learn Everything: The MasterClass Diaries",
       "link": "https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/"
+    },
+    {
+      "rank": "8.",
+      "title": "An Update About Changes to Facebook’s Services in Australia",
+      "link": "https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/"
     },
     {
       "rank": "9.",
@@ -67,28 +67,28 @@
     },
     {
       "rank": "14.",
-      "title": "When is it okay for a lawyer to lie? (2018)",
-      "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
-    },
-    {
-      "rank": "15.",
-      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
-      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
-    },
-    {
-      "rank": "16.",
       "title": "FedEx feeder plane takes flight without pilot in test for Reliable Robotics",
       "link": "https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/"
     },
     {
+      "rank": "15.",
+      "title": "When is it okay for a lawyer to lie? (2018)",
+      "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
+    },
+    {
+      "rank": "16.",
+      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
+      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
+    },
+    {
       "rank": "17.",
-      "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
-      "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
+      "title": "Mathematicians Report New Discovery About the Dodecahedron",
+      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
     },
     {
       "rank": "18.",
-      "title": "Mathematicians Report New Discovery About the Dodecahedron",
-      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
+      "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
+      "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Hapax Legomenon",
-      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
+      "title": "How NASA and ISRO discovered water on the Moon",
+      "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
     },
     {
       "rank": "21.",
-      "title": "How NASA and ISRO discovered water on the Moon",
-      "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
+      "title": "Intel MKL on AMD Zen",
+      "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "3D face: fast, accurate and stable reconstruction",
-      "link": "https://github.com/cleardusk/3DDFA_V2"
-    },
-    {
-      "rank": "24.",
-      "title": "Intel MKL on AMD Zen",
-      "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
-    },
-    {
-      "rank": "25.",
-      "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
-      "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
-    },
-    {
-      "rank": "26.",
-      "title": "Amazon wins FAA approval for Prime Air drone delivery fleet",
-      "link": "https://www.cnbc.com/2020/08/31/amazon-prime-now-drone-delivery-fleet-gets-faa-approval.html"
-    },
-    {
-      "rank": "27.",
-      "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
-      "link": "https://github.com/pypa/setuptools/issues/2350"
-    },
-    {
-      "rank": "28.",
-      "title": "How should we build the APIs of tomorrow?",
-      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
-    },
-    {
-      "rank": "29.",
       "title": "The database I wish I had",
       "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
     },
     {
+      "rank": "24.",
+      "title": "Hapax Legomenon",
+      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
+    },
+    {
+      "rank": "25.",
+      "title": "3D face: fast, accurate and stable reconstruction",
+      "link": "https://github.com/cleardusk/3DDFA_V2"
+    },
+    {
+      "rank": "26.",
+      "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
+      "link": "https://github.com/pypa/setuptools/issues/2350"
+    },
+    {
+      "rank": "27.",
+      "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
+      "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
+    },
+    {
+      "rank": "28.",
+      "title": "The Ecommerce Surge",
+      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
+    },
+    {
+      "rank": "29.",
+      "title": "How should we build the APIs of tomorrow?",
+      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
+    },
+    {
       "rank": "30.",
-      "title": "Effective testing for machine learning systems",
-      "link": "https://www.jeremyjordan.me/testing-ml/"
+      "title": "Amazon wins FAA approval for Prime Air drone delivery fleet",
+      "link": "https://www.cnbc.com/2020/08/31/amazon-prime-now-drone-delivery-fleet-gets-faa-approval.html"
     }
   ],
   "metadata": {
