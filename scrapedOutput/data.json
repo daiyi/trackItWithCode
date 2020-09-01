@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Mask wearers are “dramatically less likely” to get a severe case of Covid-19",
-      "link": "https://www.inverse.com/mind-body/masks-breathing-in-less-coronavirus-means-you-get-less-sick"
+      "title": "App Review process updates",
+      "link": "https://developer.apple.com/news/?id=84w3e5bm"
     },
     {
       "rank": "3.",
-      "title": "App Review process updates",
-      "link": "https://developer.apple.com/news/?id=84w3e5bm"
+      "title": "Why Doctors Hate Their Computers (2018)",
+      "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
     },
     {
       "rank": "4.",
@@ -37,7 +37,7 @@
     },
     {
       "rank": "8.",
-      "title": "Keli: A programming language to make Functional Programming a joy for users",
+      "title": "Motivation – Keli Language",
       "link": "https://keli-language.gitbook.io/doc/"
     },
     {
@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
-      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
-    },
-    {
-      "rank": "12.",
-      "title": "FedEx feeder plane takes flight without pilot in test for Reliable Robotics",
-      "link": "https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/"
-    },
-    {
-      "rank": "13.",
       "title": "Show HN: ML From Scratch – free online textbook",
       "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
     },
     {
-      "rank": "14.",
+      "rank": "12.",
       "title": "PinePhone Manjaro Community Edition",
       "link": "https://www.pine64.org/2020/08/31/pinephone-manjaro-community-edition/"
     },
     {
-      "rank": "15.",
+      "rank": "13.",
+      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
+      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
+    },
+    {
+      "rank": "14.",
       "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
       "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
+    },
+    {
+      "rank": "15.",
+      "title": "FedEx feeder plane takes flight without pilot in test for Reliable Robotics",
+      "link": "https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/"
     },
     {
       "rank": "16.",
@@ -82,73 +82,73 @@
     },
     {
       "rank": "17.",
-      "title": "How NASA and ISRO discovered water on the Moon",
-      "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
-    },
-    {
-      "rank": "18.",
       "title": "3D face: fast, accurate and stable reconstruction",
       "link": "https://github.com/cleardusk/3DDFA_V2"
     },
     {
-      "rank": "19.",
-      "title": "Hapax Legomenon",
-      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
+      "rank": "18.",
+      "title": "How NASA and ISRO discovered water on the Moon",
+      "link": "https://jatan.space/how-nasa-and-chandrayaan-discovered-water-on-the-moon/"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Ruby: We have decided to go forward to 3.0 this year",
       "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
     },
     {
+      "rank": "20.",
+      "title": "Ask HN: Captcha Alternatives?",
+      "link": "item?id=24334657"
+    },
+    {
       "rank": "21.",
+      "title": "Hapax Legomenon",
+      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
+    },
+    {
+      "rank": "22.",
       "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
       "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
     },
     {
-      "rank": "22.",
-      "title": "How should we build the APIs of tomorrow?",
-      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
-    },
-    {
       "rank": "23.",
-      "title": "Robotic Manipulation (Online Textbook)",
-      "link": "http://manipulation.csail.mit.edu/"
-    },
-    {
-      "rank": "24.",
-      "title": "Self – Fun Through Simplicity",
-      "link": "https://selflanguage.org/"
-    },
-    {
-      "rank": "25.",
-      "title": "Considerations for Updating the Bootloader Over-the-Air (OTA)",
-      "link": "https://www.embedded-computing.com/home-page/considerations-for-updating-the-over-the-air-bootloader"
-    },
-    {
-      "rank": "26.",
       "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
       "link": "https://github.com/pypa/setuptools/issues/2350"
     },
     {
-      "rank": "27.",
+      "rank": "24.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
-      "rank": "28.",
+      "rank": "25.",
+      "title": "How should we build the APIs of tomorrow?",
+      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
+    },
+    {
+      "rank": "26.",
+      "title": "Self – Fun Through Simplicity",
+      "link": "https://selflanguage.org/"
+    },
+    {
+      "rank": "27.",
       "title": "Show HN: Friendly Fire – Open-source, Metroidvania-style game in the browser",
       "link": "https://friendlyfiregame.com/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "EUtility Electric Tractor is powered by a battery, not diesel",
       "link": "https://newatlas.com/environment/solectrac-eutility-electric-tractor/"
     },
     {
+      "rank": "29.",
+      "title": "Effective testing for machine learning systems",
+      "link": "https://www.jeremyjordan.me/testing-ml/"
+    },
+    {
       "rank": "30.",
-      "title": "Cracking Phobos UUID",
-      "link": "https://breakpoint.purrfect.fr/article/cracking_phobos_uuid.html"
+      "title": "Considerations for Updating the Bootloader Over-the-Air (OTA)",
+      "link": "https://www.embedded-computing.com/home-page/considerations-for-updating-the-over-the-air-bootloader"
     }
   ],
   "metadata": {
