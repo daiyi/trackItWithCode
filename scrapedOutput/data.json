@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Why Doctors Hate Their Computers (2018)",
-      "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
+      "title": "A grim outlook on the future of browser add-ons",
+      "link": "https://palant.info/2020/08/31/a-grim-outlook-on-the-future-of-browser-add-ons/"
     },
     {
       "rank": "5.",
-      "title": "A grim outlook on the future of browser add-ons",
-      "link": "https://palant.info/2020/08/31/a-grim-outlook-on-the-future-of-browser-add-ons/"
+      "title": "Why Doctors Hate Their Computers (2018)",
+      "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
     },
     {
       "rank": "6.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Modernizing the OpenBSD Console",
-      "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
+      "title": "The Puzzle Toad",
+      "link": "http://www.cs.cmu.edu/puzzle/index.html"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "The Architecture of Open Source Applications",
-      "link": "https://aosabook.org/en/index.html"
+      "title": "Modernizing the OpenBSD Console",
+      "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
     },
     {
       "rank": "11.",
-      "title": "The Puzzle Toad",
-      "link": "http://www.cs.cmu.edu/puzzle/index.html"
+      "title": "The Architecture of Open Source Applications",
+      "link": "https://aosabook.org/en/index.html"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
-      "link": "https://github.com/FreeCol/freecol"
+      "title": "The Ecommerce Surge",
+      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "The Ecommerce Surge",
-      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
+      "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
+      "link": "https://github.com/FreeCol/freecol"
     },
     {
       "rank": "16.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Mathematicians Report New Discovery About the Dodecahedron",
-      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
+      "title": "Ask HN: Captcha Alternatives?",
+      "link": "item?id=24334657"
     },
     {
       "rank": "21.",
@@ -107,23 +107,23 @@
     },
     {
       "rank": "22.",
+      "title": "Mathematicians Report New Discovery About the Dodecahedron",
+      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
+    },
+    {
+      "rank": "23.",
       "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
       "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "MIT Drake",
       "link": "https://drake.mit.edu/"
     },
     {
-      "rank": "24.",
-      "title": "Ask HN: Captcha Alternatives?",
-      "link": "item?id=24334657"
-    },
-    {
       "rank": "25.",
-      "title": "Ruby: We have decided to go forward to 3.0 this year",
-      "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
+      "title": "3D face: fast, accurate and stable reconstruction",
+      "link": "https://github.com/cleardusk/3DDFA_V2"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "3D face: fast, accurate and stable reconstruction",
-      "link": "https://github.com/cleardusk/3DDFA_V2"
-    },
-    {
-      "rank": "28.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
       "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Hapax Legomenon",
       "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
+    },
+    {
+      "rank": "30.",
+      "title": "How should we build the APIs of tomorrow?",
+      "link": "https://increment.com/apis/how-we-should-build-apis-tomorrow/"
     }
   ],
   "metadata": {
