@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Automatically Render Latex Equations from Python Math Code",
-      "link": "https://github.com/connorferster/handcalcs"
+      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
+      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
       "rank": "3.",
-      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
-      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
+      "title": "Automatically Render Latex Equations from Python Math Code",
+      "link": "https://github.com/connorferster/handcalcs"
     },
     {
       "rank": "4.",
@@ -32,33 +32,33 @@
     },
     {
       "rank": "7.",
-      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
-      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
-    },
-    {
-      "rank": "8.",
       "title": "# of days since the last alg=none JWT vulnerability",
       "link": "https://www.howmanydayssinceajwtalgnonevuln.com"
     },
     {
+      "rank": "8.",
+      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
+      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
+    },
+    {
       "rank": "9.",
-      "title": "GitHub Container Registry",
-      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
-    },
-    {
-      "rank": "10.",
-      "title": "Transit Costs Project",
-      "link": "https://transitcosts.com/about/"
-    },
-    {
-      "rank": "11.",
       "title": "Ask HN: Who is hiring? (September 2020)",
       "link": "item?id=24342498"
     },
     {
-      "rank": "12.",
+      "rank": "10.",
       "title": "Amazon drivers are hanging smartphones in trees to get more work",
       "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
+    },
+    {
+      "rank": "11.",
+      "title": "Transit Costs Project",
+      "link": "https://transitcosts.com/about/"
+    },
+    {
+      "rank": "12.",
+      "title": "GitHub Container Registry",
+      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
     },
     {
       "rank": "13.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "JITSploitation I: A JIT Bug",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
+      "title": "Ask HN: Who wants to be hired? (September 2020)",
+      "link": "item?id=24342496"
     },
     {
       "rank": "17.",
-      "title": "Ask HN: Who wants to be hired? (September 2020)",
-      "link": "item?id=24342496"
+      "title": "JITSploitation I: A JIT Bug",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
     },
     {
       "rank": "18.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
-      "title": "Seeking Dark Matter, They Detected Another Mystery",
-      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
-    },
-    {
-      "rank": "26.",
       "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
       "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Htop 3.0",
       "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
+    },
+    {
+      "rank": "27.",
+      "title": "Seeking Dark Matter, They Detected Another Mystery",
+      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
     },
     {
       "rank": "28.",
