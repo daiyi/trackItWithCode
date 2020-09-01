@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "The database I wish I had",
-      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
+      "title": "Nessie – Lightweight Web Browser",
+      "link": "https://www.radsix.com/"
     },
     {
       "rank": "3.",
@@ -17,8 +17,8 @@
     },
     {
       "rank": "4.",
-      "title": "Show HN: I built FabHomePages so your home can have its own homepage in minutes",
-      "link": "https://fabhomepages.com/"
+      "title": "The database I wish I had",
+      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
     },
     {
       "rank": "5.",
@@ -27,38 +27,38 @@
     },
     {
       "rank": "6.",
+      "title": "Show HN: I built FabHomePages so your home can have its own homepage in minutes",
+      "link": "https://fabhomepages.com/"
+    },
+    {
+      "rank": "7.",
       "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
       "link": "https://github.com/FreeCol/freecol"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Why Doctors Hate Their Computers (2018)",
       "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
     },
     {
-      "rank": "8.",
-      "title": "I was excited for Neuralink, then I watched the demo",
-      "link": "https://thenextweb.com/neural/2020/08/31/i-was-excited-for-neuralink-then-i-watched-elon-musks-stupid-demo/"
-    },
-    {
       "rank": "9.",
-      "title": "Applebot",
-      "link": "https://support.apple.com/en-us/HT204683"
-    },
-    {
-      "rank": "10.",
       "title": "How to Learn Everything: The MasterClass Diaries",
       "link": "https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/"
     },
     {
+      "rank": "10.",
+      "title": "Applebot",
+      "link": "https://support.apple.com/en-us/HT204683"
+    },
+    {
       "rank": "11.",
-      "title": "Supporting Linux kernel development in Rust",
-      "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
+      "title": "NewLisp",
+      "link": "http://www.newlisp.org/"
     },
     {
       "rank": "12.",
-      "title": "NewLisp",
-      "link": "http://www.newlisp.org/"
+      "title": "Supporting Linux kernel development in Rust",
+      "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
     },
     {
       "rank": "13.",
@@ -72,38 +72,38 @@
     },
     {
       "rank": "15.",
-      "title": "I sold my side-project for $30k",
-      "link": "https://marc.io/tweet-photo-acquired"
-    },
-    {
-      "rank": "16.",
       "title": "A Neural-Based Program Decompiler (2019)",
       "link": "https://arxiv.org/abs/1906.12029"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "What should go into an allocator benchmark?",
       "link": "https://twitter.com/chewedwire/status/1300129033699627012"
     },
     {
-      "rank": "18.",
-      "title": "Hacker News – Terms of Use (2014)",
-      "link": "https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/"
+      "rank": "17.",
+      "title": "I sold my side-project for $30k",
+      "link": "https://marc.io/tweet-photo-acquired"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
       "link": "https://github.com/pypa/setuptools/issues/2350"
     },
     {
+      "rank": "19.",
+      "title": "Understanding How the Time-Based One-Time Password Algorithm Works",
+      "link": "https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/"
+    },
+    {
       "rank": "20.",
-      "title": "MIT Drake",
-      "link": "https://drake.mit.edu/"
+      "title": "Hacker News – Terms of Use (2014)",
+      "link": "https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/"
     },
     {
       "rank": "21.",
-      "title": "Understanding How the Time-Based One-Time Password Algorithm Works",
-      "link": "https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/"
+      "title": "MIT Drake",
+      "link": "https://drake.mit.edu/"
     },
     {
       "rank": "22.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "The surreal art of ‘unnatural lighting’",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
+      "title": "How Predictable Is Fiction?",
+      "link": "https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/"
     },
     {
       "rank": "26.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "How Predictable Is Fiction?",
-      "link": "https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/"
+      "title": "The surreal art of ‘unnatural lighting’",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
     },
     {
       "rank": "28.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "Hapax Legomenon",
-      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
+      "title": "The Architecture of Open Source Applications",
+      "link": "https://aosabook.org/en/index.html"
     },
     {
       "rank": "30.",
