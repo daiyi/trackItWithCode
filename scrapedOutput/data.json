@@ -17,68 +17,68 @@
     },
     {
       "rank": "4.",
-      "title": "Why Doctors Hate Their Computers (2018)",
-      "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
-    },
-    {
-      "rank": "5.",
       "title": "Show HN: I built FabHomePages so your home can have its own homepage in minutes",
       "link": "https://fabhomepages.com/"
     },
     {
+      "rank": "5.",
+      "title": "Why Doctors Hate Their Computers (2018)",
+      "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
+    },
+    {
       "rank": "6.",
-      "title": "How to Learn Everything: The MasterClass Diaries",
-      "link": "https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/"
-    },
-    {
-      "rank": "7.",
-      "title": "Applebot",
-      "link": "https://support.apple.com/en-us/HT204683"
-    },
-    {
-      "rank": "8.",
-      "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
-      "link": "https://github.com/FreeCol/freecol"
-    },
-    {
-      "rank": "9.",
-      "title": "A Neural-Based Program Decompiler (2019)",
-      "link": "https://arxiv.org/abs/1906.12029"
-    },
-    {
-      "rank": "10.",
-      "title": "Modernizing the OpenBSD Console",
-      "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
-    },
-    {
-      "rank": "11.",
-      "title": "Hacker News – Terms of Use (2014)",
-      "link": "https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/"
-    },
-    {
-      "rank": "12.",
       "title": "A California wildfire nearly destroyed the historic Lick observatory",
       "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
     },
     {
-      "rank": "13.",
+      "rank": "7.",
+      "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
+      "link": "https://github.com/FreeCol/freecol"
+    },
+    {
+      "rank": "8.",
+      "title": "How to Learn Everything: The MasterClass Diaries",
+      "link": "https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/"
+    },
+    {
+      "rank": "9.",
+      "title": "Applebot",
+      "link": "https://support.apple.com/en-us/HT204683"
+    },
+    {
+      "rank": "10.",
       "title": "The Puzzle Toad",
       "link": "http://www.cs.cmu.edu/puzzle/index.html"
     },
     {
+      "rank": "11.",
+      "title": "A Neural-Based Program Decompiler (2019)",
+      "link": "https://arxiv.org/abs/1906.12029"
+    },
+    {
+      "rank": "12.",
+      "title": "Modernizing the OpenBSD Console",
+      "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
+    },
+    {
+      "rank": "13.",
+      "title": "What should go into an allocator benchmark?",
+      "link": "https://twitter.com/chewedwire/status/1300129033699627012"
+    },
+    {
       "rank": "14.",
-      "title": "Ask HN: Captcha Alternatives?",
-      "link": "item?id=24334657"
+      "title": "Hacker News – Terms of Use (2014)",
+      "link": "https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/"
     },
     {
       "rank": "15.",
-      "title": "First Impressions of GitHub Codespaces",
-      "link": "https://www.aristotlemetadata.com/blog/2020/08/first-impressions-github-codespaces.html"
+      "title": "The Ecommerce Surge",
+      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
     },
     {
       "rank": "16.",
-      "title": "The Ecommerce Surge",
-      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
+      "title": "Ask HN: Captcha Alternatives?",
+      "link": "item?id=24334657"
     },
     {
       "rank": "17.",
@@ -87,18 +87,18 @@
     },
     {
       "rank": "18.",
+      "title": "First Impressions of GitHub Codespaces",
+      "link": "https://www.aristotlemetadata.com/blog/2020/08/first-impressions-github-codespaces.html"
+    },
+    {
+      "rank": "19.",
       "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
       "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
     },
     {
-      "rank": "19.",
-      "title": "MIT Drake",
-      "link": "https://drake.mit.edu/"
-    },
-    {
       "rank": "20.",
-      "title": "What should go into an allocator benchmark?",
-      "link": "https://twitter.com/chewedwire/status/1300129033699627012"
+      "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
+      "link": "https://github.com/pypa/setuptools/issues/2350"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
-      "link": "https://github.com/pypa/setuptools/issues/2350"
+      "title": "MIT Drake",
+      "link": "https://drake.mit.edu/"
     },
     {
       "rank": "23.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "App Review process updates",
-      "link": "https://developer.apple.com/news/?id=84w3e5bm"
-    },
-    {
-      "rank": "26.",
       "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
       "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
     },
     {
-      "rank": "27.",
-      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
-      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
+      "rank": "26.",
+      "title": "App Review process updates",
+      "link": "https://developer.apple.com/news/?id=84w3e5bm"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "The surreal art of ‘unnatural lighting’",
       "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
     },
     {
+      "rank": "28.",
+      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
+      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
+    },
+    {
       "rank": "29.",
-      "title": "The Architecture of Open Source Applications",
-      "link": "https://aosabook.org/en/index.html"
+      "title": "When is it okay for a lawyer to lie? (2018)",
+      "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
     },
     {
       "rank": "30.",
-      "title": "When is it okay for a lawyer to lie? (2018)",
-      "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
+      "title": "The Architecture of Open Source Applications",
+      "link": "https://aosabook.org/en/index.html"
     }
   ],
   "metadata": {
