@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Bottlerocket, an open source Linux distribution built to run containers",
-      "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
+      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
+      "link": "https://lunar.fyi"
     },
     {
       "rank": "4.",
-      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
-      "link": "https://lunar.fyi"
+      "title": "Bottlerocket, an open source Linux distribution built to run containers",
+      "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
     },
     {
       "rank": "5.",
@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Scanwell is hiring a product designer to design the first at-home Covid-19 test",
-      "link": "https://scanwell-health.breezy.hr/p/cfdf55d8fb85-product-designer"
+      "title": "Ask HN: Who is hiring? (September 2020)",
+      "link": "item?id=24342498"
     },
     {
       "rank": "7.",
-      "title": "Ask HN: Who is hiring? (September 2020)",
-      "link": "item?id=24342498"
+      "title": "Scanwell is hiring a product designer to design the first at-home Covid-19 test",
+      "link": "https://scanwell-health.breezy.hr/p/cfdf55d8fb85-product-designer"
     },
     {
       "rank": "8.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "CERN at Home: Building a Particle Detector",
-      "link": "https://clanhouse.com/cern-at-home-building-a-particle-detector"
+      "title": "Automatically Render Latex Equations from Python Math Code",
+      "link": "https://github.com/connorferster/handcalcs"
     },
     {
       "rank": "10.",
-      "title": "Seeking Dark Matter, They Detected Another Mystery",
-      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
+      "title": "CERN at Home: Building a Particle Detector",
+      "link": "https://clanhouse.com/cern-at-home-building-a-particle-detector"
     },
     {
       "rank": "11.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "JITSploitation I: A JIT Bug",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
+      "title": "Seeking Dark Matter, They Detected Another Mystery",
+      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
     },
     {
       "rank": "13.",
@@ -67,38 +67,38 @@
     },
     {
       "rank": "14.",
-      "title": "Ask HN: Who wants to be hired? (September 2020)",
-      "link": "item?id=24342496"
-    },
-    {
-      "rank": "15.",
-      "title": "A Saudi prince's attempt to silence critics on Twitter",
-      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
-    },
-    {
-      "rank": "16.",
       "title": "Transit Costs Project",
       "link": "https://transitcosts.com/about/"
     },
     {
+      "rank": "15.",
+      "title": "JITSploitation I: A JIT Bug",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
+    },
+    {
+      "rank": "16.",
+      "title": "Ask HN: Who wants to be hired? (September 2020)",
+      "link": "item?id=24342496"
+    },
+    {
       "rank": "17.",
+      "title": "A Saudi prince's attempt to silence critics on Twitter",
+      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
+    },
+    {
+      "rank": "18.",
       "title": "The Sony “Star Eater” (2017)",
       "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Why Privacy Matters",
       "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
-    },
-    {
-      "rank": "20.",
-      "title": "Algebra Driven Design",
-      "link": "https://algebradriven.design/"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
-      "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
+      "title": "Algebra Driven Design",
+      "link": "https://algebradriven.design/"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Your mind will not be uploaded (2014)",
-      "link": "http://www.softmachines.org/wordpress/?p=1558"
+      "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
+      "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
     },
     {
       "rank": "25.",
-      "title": "Htop 3.0",
-      "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
-    },
-    {
-      "rank": "26.",
       "title": "Best Practices for Testing in Java (2019)",
       "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
+      "rank": "26.",
+      "title": "Your mind will not be uploaded (2014)",
+      "link": "http://www.softmachines.org/wordpress/?p=1558"
+    },
+    {
       "rank": "27.",
+      "title": "Htop 3.0",
+      "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
+    },
+    {
+      "rank": "28.",
       "title": "Walmart Plus takes on Amazon Prime",
       "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Platforms' current attempts to regulate misinformation amplify opinion power",
       "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "RxDB – a real-time database on top of PouchDB",
       "link": "https://github.com/pubkey/rxdb/blob/master/README.md"
-    },
-    {
-      "rank": "30.",
-      "title": "Science and steely nerves spared Houston from a nightmare hurricane evacuation",
-      "link": "https://arstechnica.com/science/2020/09/science-and-steely-nerves-spared-houston-from-a-nightmare-hurricane-evacuation/"
     }
   ],
   "metadata": {
