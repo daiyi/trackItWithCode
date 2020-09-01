@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
+      "title": "GitHub Container Registry",
+      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
+    },
+    {
+      "rank": "9.",
       "title": "Scanwell is hiring a product designer to design the first at-home Covid-19 test",
       "link": "https://scanwell-health.breezy.hr/p/cfdf55d8fb85-product-designer"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "# of days since the last alg=none JWT vulnerability",
       "link": "https://www.howmanydayssinceajwtalgnonevuln.com"
-    },
-    {
-      "rank": "10.",
-      "title": "GitHub Container Registry",
-      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
     },
     {
       "rank": "11.",
@@ -77,28 +77,28 @@
     },
     {
       "rank": "16.",
-      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
-      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
       "rank": "17.",
-      "title": "A Saudi prince's attempt to silence critics on Twitter",
-      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
-    },
-    {
-      "rank": "18.",
       "title": "Ask HN: Who wants to be hired? (September 2020)",
       "link": "item?id=24342496"
     },
     {
+      "rank": "18.",
+      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
+      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
+    },
+    {
       "rank": "19.",
-      "title": "Seeking Dark Matter, They Detected Another Mystery",
-      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
+      "title": "A Saudi prince's attempt to silence critics on Twitter",
+      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
     },
     {
       "rank": "20.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+      "title": "Seeking Dark Matter, They Detected Another Mystery",
+      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
     },
     {
       "rank": "21.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Your mind will not be uploaded (2014)",
-      "link": "http://www.softmachines.org/wordpress/?p=1558"
-    },
-    {
-      "rank": "28.",
       "title": "Walmart Plus takes on Amazon Prime",
       "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Htop 3.0",
       "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Platforms' current attempts to regulate misinformation amplify opinion power",
       "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
+    },
+    {
+      "rank": "30.",
+      "title": "RxDB – a real-time database on top of PouchDB",
+      "link": "https://github.com/pubkey/rxdb/blob/master/README.md"
     }
   ],
   "metadata": {
