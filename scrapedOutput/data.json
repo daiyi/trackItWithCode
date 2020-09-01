@@ -27,38 +27,38 @@
     },
     {
       "rank": "6.",
-      "title": "App Review process updates",
-      "link": "https://developer.apple.com/news/?id=84w3e5bm"
-    },
-    {
-      "rank": "7.",
       "title": "A Neural-Based Program Decompiler (2019)",
       "link": "https://arxiv.org/abs/1906.12029"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "The Puzzle Toad",
       "link": "http://www.cs.cmu.edu/puzzle/index.html"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "How to Learn Everything: The MasterClass Diaries",
       "link": "https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/"
     },
     {
-      "rank": "10.",
-      "title": "The Architecture of Open Source Applications",
-      "link": "https://aosabook.org/en/index.html"
-    },
-    {
-      "rank": "11.",
+      "rank": "9.",
       "title": "The surreal art of ‘unnatural lighting’",
       "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
     },
     {
-      "rank": "12.",
+      "rank": "10.",
       "title": "Modernizing the OpenBSD Console",
       "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
+    },
+    {
+      "rank": "11.",
+      "title": "Why is America running out of water?",
+      "link": "https://www.nationalgeographic.com/science/2020/03/partner-content-americas-looming-water-crisis"
+    },
+    {
+      "rank": "12.",
+      "title": "A battery that'd last for decades",
+      "link": "https://newatlas.com/energy/nano-diamond-battery-interview-ndb/"
     },
     {
       "rank": "13.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
-      "title": "Show HN: ML From Scratch – free online textbook",
-      "link": "https://dafriedman97.github.io/mlbook/content/introduction.html"
-    },
-    {
-      "rank": "16.",
       "title": "FedEx feeder plane takes flight without pilot in test for Reliable Robotics",
       "link": "https://www.commercialappeal.com/story/money/industries/logistics/2020/08/28/fedex-plane-autonomous-flight-reliable-robotics/5655258002/"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "MIT Drake",
       "link": "https://drake.mit.edu/"
+    },
+    {
+      "rank": "17.",
+      "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
+      "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
     },
     {
       "rank": "18.",
@@ -92,58 +92,58 @@
     },
     {
       "rank": "19.",
-      "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
-      "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
-    },
-    {
-      "rank": "20.",
       "title": "Ask HN: Captcha Alternatives?",
       "link": "item?id=24334657"
     },
     {
-      "rank": "21.",
-      "title": "Mathematicians Report New Discovery About the Dodecahedron",
-      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
-    },
-    {
-      "rank": "22.",
-      "title": "When is it okay for a lawyer to lie? (2018)",
-      "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
-    },
-    {
-      "rank": "23.",
-      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
-      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
-    },
-    {
-      "rank": "24.",
+      "rank": "20.",
       "title": "3D face: fast, accurate and stable reconstruction",
       "link": "https://github.com/cleardusk/3DDFA_V2"
     },
     {
-      "rank": "25.",
+      "rank": "21.",
+      "title": "When is it okay for a lawyer to lie? (2018)",
+      "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
+    },
+    {
+      "rank": "22.",
+      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
+      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
+    },
+    {
+      "rank": "23.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
-      "rank": "26.",
-      "title": "How Predictable Is Fiction?",
-      "link": "https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/"
+      "rank": "24.",
+      "title": "Delaying Herd Immunity Is Costing Lives",
+      "link": "https://www.aier.org/article/delaying-herd-immunity-is-costing-lives/"
     },
     {
-      "rank": "27.",
+      "rank": "25.",
+      "title": "App Review process updates",
+      "link": "https://developer.apple.com/news/?id=84w3e5bm"
+    },
+    {
+      "rank": "26.",
       "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
       "link": "https://github.com/pypa/setuptools/issues/2350"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
       "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
     },
     {
+      "rank": "28.",
+      "title": "How Predictable Is Fiction?",
+      "link": "https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/"
+    },
+    {
       "rank": "29.",
-      "title": "Hapax Legomenon",
-      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
+      "title": "Understanding How the Time-Based One-Time Password Algorithm Works",
+      "link": "https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/"
     },
     {
       "rank": "30.",
