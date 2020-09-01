@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
-      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
+      "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
+      "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
     },
     {
       "rank": "2.",
@@ -12,38 +12,38 @@
     },
     {
       "rank": "3.",
-      "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
-      "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
+      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
+      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
       "rank": "4.",
+      "title": "Amazon Bottlerocket OS",
+      "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
+    },
+    {
+      "rank": "5.",
       "title": "Ask HN: Who is hiring? (September 2020)",
       "link": "item?id=24342498"
     },
     {
-      "rank": "5.",
-      "title": "Mind Emulation Foundation",
-      "link": "https://mindemulation.org/"
+      "rank": "6.",
+      "title": "Amazon drivers are hanging smartphones in trees to get more work",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "CERN at Home: Building a Particle Detector",
       "link": "https://clanhouse.com/cern-at-home-building-a-particle-detector"
     },
     {
-      "rank": "7.",
-      "title": "Ask HN: Who wants to be hired? (September 2020)",
-      "link": "item?id=24342496"
-    },
-    {
       "rank": "8.",
-      "title": "Algebra Driven Design",
-      "link": "https://algebradriven.design/"
+      "title": "Mind Emulation Foundation",
+      "link": "https://mindemulation.org/"
     },
     {
       "rank": "9.",
-      "title": "Amazon Bottlerocket OS",
-      "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
+      "title": "Algebra Driven Design",
+      "link": "https://algebradriven.design/"
     },
     {
       "rank": "10.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
+      "title": "Ask HN: Who wants to be hired? (September 2020)",
+      "link": "item?id=24342496"
+    },
+    {
+      "rank": "12.",
       "title": "The Sony “Star Eater” (2017)",
       "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Why Privacy Matters",
       "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
-    },
-    {
-      "rank": "13.",
-      "title": "Disney Studios stops theaters from screening Black Panther",
-      "link": "https://www.cbr.com/drive-in-show-42-disney-prevents-black-panther/"
     },
     {
       "rank": "14.",
@@ -77,78 +77,78 @@
     },
     {
       "rank": "16.",
+      "title": "Lockheed Martin receives $187.5M for mesh network of 10 small satellites",
+      "link": "https://defence-blog.com/news/lockheed-martin-receives-187-5-million-for-mesh-network-of-10-small-satellites.html"
+    },
+    {
+      "rank": "17.",
       "title": "Taking a look at Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "RxDB – a realtime database on top of PouchDB",
       "link": "https://github.com/pubkey/rxdb/blob/master/README.md"
     },
     {
-      "rank": "18.",
-      "title": "Walmart Plus takes on Amazon Prime with $98-a-year membership fee",
-      "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
+      "rank": "19.",
+      "title": "Science and steely nerves spared Houston from a nightmare hurricane evacuation",
+      "link": "https://arstechnica.com/science/2020/09/science-and-steely-nerves-spared-houston-from-a-nightmare-hurricane-evacuation/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "‘Five Eyes’ Nations Release Joint Cybersecurity Advisory",
       "link": "https://www.meritalk.com/articles/five-eyes-nations-release-joint-cybersecurity-advisory/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
+      "title": "GitHub Container Registry",
+      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
+    },
+    {
+      "rank": "22.",
       "title": "A Saudi Prince's Attempt to Silence Critics on Twitter",
       "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "Nessie – Lightweight Web Browser",
       "link": "https://www.radsix.com/"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "Welcome to masterWiki: stolen from MasterClass, republished as wikiHow",
       "link": "https://masterwiki.how/"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Why has college gotten so expensive? The gov handed them a blank check in 1993",
       "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "How to resume a SSH encrypted and x11 forwarded session",
       "link": "https://dwaves.org/2019/01/21/how-to-resume-a-ssh-encrypted-and-x11-forwarded-session/"
     },
     {
-      "rank": "25.",
-      "title": "Platforms: Current Attempts to Regulate Misinformation Amplify Opinion Power",
-      "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
-    },
-    {
-      "rank": "26.",
-      "title": "Amazon Drivers Are Hanging Smartphones in Trees to Get More Work",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
-    },
-    {
       "rank": "27.",
-      "title": "AWS Boilerplate",
-      "link": "https://github.com/apptension/aws-boilerplate"
-    },
-    {
-      "rank": "28.",
       "title": "Silicon “sandwiches” make for lightweight, high-capacity batteries",
       "link": "https://newatlas.com/energy/buckypaper-sandwiches-lightweight-high-capacity-silicon-anode-lithium-batteries/"
     },
     {
+      "rank": "28.",
+      "title": "AWS Boilerplate",
+      "link": "https://github.com/apptension/aws-boilerplate"
+    },
+    {
       "rank": "29.",
-      "title": "New Federal Court Rulings Find Geofence Warrants Unconstitutional",
-      "link": "https://www.eff.org/deeplinks/2020/08/new-federal-court-rulings-find-geofence-warrants-unconstitutional-0"
+      "title": "Platforms: Current Attempts to Regulate Misinformation Amplify Opinion Power",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
     },
     {
       "rank": "30.",
-      "title": "A California wildfire nearly destroyed the historic Lick observatory",
-      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
+      "title": "New Federal Court Rulings Find Geofence Warrants Unconstitutional",
+      "link": "https://www.eff.org/deeplinks/2020/08/new-federal-court-rulings-find-geofence-warrants-unconstitutional-0"
     }
   ],
   "metadata": {
