@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Palantir's S-1 has a paragraph warning its AI technology may do unethical things",
+      "link": "https://nitter.net/tsimonite/status/1298711894241366019#m"
+    },
+    {
+      "rank": "2.",
       "title": "Supporting Linux kernel development in Rust",
       "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
+      "title": "Why is America running out of water?",
+      "link": "https://www.nationalgeographic.com/science/2020/03/partner-content-americas-looming-water-crisis"
+    },
+    {
+      "rank": "4.",
       "title": "Applebot",
       "link": "https://support.apple.com/en-us/HT204683"
     },
     {
-      "rank": "3.",
+      "rank": "5.",
       "title": "The database I wish I had",
       "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
-    },
-    {
-      "rank": "4.",
-      "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
-      "link": "https://github.com/FreeCol/freecol"
-    },
-    {
-      "rank": "5.",
-      "title": "Why is America running out of water?",
-      "link": "https://www.nationalgeographic.com/science/2020/03/partner-content-americas-looming-water-crisis"
     },
     {
       "rank": "6.",
@@ -32,43 +32,43 @@
     },
     {
       "rank": "7.",
-      "title": "Palantir's S-1 has a paragraph warning its AI technology may do unethical things",
-      "link": "https://nitter.net/tsimonite/status/1298711894241366019#m"
+      "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
+      "link": "https://github.com/FreeCol/freecol"
     },
     {
       "rank": "8.",
-      "title": "How to Learn Everything: The MasterClass Diaries",
-      "link": "https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/"
-    },
-    {
-      "rank": "9.",
-      "title": "A Neural-Based Program Decompiler (2019)",
-      "link": "https://arxiv.org/abs/1906.12029"
-    },
-    {
-      "rank": "10.",
-      "title": "The Puzzle Toad",
-      "link": "http://www.cs.cmu.edu/puzzle/index.html"
-    },
-    {
-      "rank": "11.",
-      "title": "The surreal art of ‘unnatural lighting’",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
-    },
-    {
-      "rank": "12.",
-      "title": "Modernizing the OpenBSD Console",
-      "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
-    },
-    {
-      "rank": "13.",
       "title": "PNG and Hidden Pixels",
       "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
     },
     {
+      "rank": "9.",
+      "title": "First Impressions of GitHub Codespaces",
+      "link": "https://www.aristotlemetadata.com/blog/2020/08/first-impressions-github-codespaces.html"
+    },
+    {
+      "rank": "10.",
+      "title": "A Neural-Based Program Decompiler (2019)",
+      "link": "https://arxiv.org/abs/1906.12029"
+    },
+    {
+      "rank": "11.",
+      "title": "How to Learn Everything: The MasterClass Diaries",
+      "link": "https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/"
+    },
+    {
+      "rank": "12.",
+      "title": "The surreal art of ‘unnatural lighting’",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
+    },
+    {
+      "rank": "13.",
+      "title": "Modernizing the OpenBSD Console",
+      "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
+    },
+    {
       "rank": "14.",
-      "title": "The Ecommerce Surge",
-      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
+      "title": "The Puzzle Toad",
+      "link": "http://www.cs.cmu.edu/puzzle/index.html"
     },
     {
       "rank": "15.",
@@ -77,18 +77,18 @@
     },
     {
       "rank": "16.",
-      "title": "A grim outlook on the future of browser add-ons",
-      "link": "https://palant.info/2020/08/31/a-grim-outlook-on-the-future-of-browser-add-ons/"
+      "title": "The Ecommerce Surge",
+      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
     },
     {
       "rank": "17.",
-      "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
-      "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
+      "title": "MIT Drake",
+      "link": "https://drake.mit.edu/"
     },
     {
       "rank": "18.",
-      "title": "MIT Drake",
-      "link": "https://drake.mit.edu/"
+      "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
+      "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "When is it okay for a lawyer to lie? (2018)",
-      "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
+      "title": "Ask HN: Captcha Alternatives?",
+      "link": "item?id=24334657"
     },
     {
       "rank": "21.",
-      "title": "Ask HN: Captcha Alternatives?",
-      "link": "item?id=24334657"
+      "title": "When is it okay for a lawyer to lie? (2018)",
+      "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
+      "title": "A grim outlook on the future of browser add-ons",
+      "link": "https://palant.info/2020/08/31/a-grim-outlook-on-the-future-of-browser-add-ons/"
+    },
+    {
+      "rank": "24.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
-      "rank": "24.",
-      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
-      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
-    },
-    {
       "rank": "25.",
-      "title": "An Analog IC Design Book Draft",
-      "link": "https://hackaday.com/2020/08/31/an-analog-ic-design-book-draft/"
-    },
-    {
-      "rank": "26.",
       "title": "App Review process updates",
       "link": "https://developer.apple.com/news/?id=84w3e5bm"
     },
     {
+      "rank": "26.",
+      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
+      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
+    },
+    {
       "rank": "27.",
-      "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
-      "link": "https://github.com/pypa/setuptools/issues/2350"
-    },
-    {
-      "rank": "28.",
-      "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
-      "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
-    },
-    {
-      "rank": "29.",
       "title": "Understanding How the Time-Based One-Time Password Algorithm Works",
       "link": "https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/"
     },
     {
+      "rank": "28.",
+      "title": "An Analog IC Design Book Draft",
+      "link": "https://hackaday.com/2020/08/31/an-analog-ic-design-book-draft/"
+    },
+    {
+      "rank": "29.",
+      "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
+      "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
+    },
+    {
       "rank": "30.",
-      "title": "How Predictable Is Fiction?",
-      "link": "https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/"
+      "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
+      "link": "https://github.com/pypa/setuptools/issues/2350"
     }
   ],
   "metadata": {
