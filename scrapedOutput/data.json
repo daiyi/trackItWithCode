@@ -7,23 +7,23 @@
     },
     {
       "rank": "2.",
-      "title": "RxDB – a realtime database on top of PouchDB",
-      "link": "https://github.com/pubkey/rxdb/blob/master/README.md"
-    },
-    {
-      "rank": "3.",
       "title": "Airline Pilots Landing at Lax Report “A Guy in Jetpack” Flying Alongside Them",
       "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
+      "rank": "3.",
+      "title": "RxDB – a realtime database on top of PouchDB",
+      "link": "https://github.com/pubkey/rxdb/blob/master/README.md"
+    },
+    {
       "rank": "4.",
-      "title": "Nessie – Lightweight Web Browser",
-      "link": "https://www.radsix.com/"
+      "title": "Platforms: Current Attempts to Regulate Misinformation Amplify Opinion Power",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
     },
     {
       "rank": "5.",
-      "title": "Platforms: Current Attempts to Regulate Misinformation Amplify Opinion Power",
-      "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
+      "title": "Nessie – Lightweight Web Browser",
+      "link": "https://www.radsix.com/"
     },
     {
       "rank": "6.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "AWS Boilerplate",
-      "link": "https://github.com/apptension/aws-boilerplate"
+      "title": "Police Across Canada Are Using Predictive Policing Algorithms, Report Finds",
+      "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
     },
     {
       "rank": "10.",
-      "title": "Police Across Canada Are Using Predictive Policing Algorithms, Report Finds",
-      "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
+      "title": "AWS Boilerplate",
+      "link": "https://github.com/apptension/aws-boilerplate"
     },
     {
       "rank": "11.",
@@ -62,43 +62,43 @@
     },
     {
       "rank": "13.",
-      "title": "Feline coronavirus drug inhibits the main protease of SARS-CoV-2",
-      "link": "https://www.nature.com/articles/s41467-020-18096-2"
-    },
-    {
-      "rank": "14.",
       "title": "Honey bee venom found to kill breast cancer cells",
       "link": "https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064"
     },
     {
+      "rank": "14.",
+      "title": "Feline coronavirus drug inhibits the main protease of SARS-CoV-2",
+      "link": "https://www.nature.com/articles/s41467-020-18096-2"
+    },
+    {
       "rank": "15.",
-      "title": "A California wildfire nearly destroyed the historic Lick observatory",
-      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
+      "title": "Case-Insensitive Ext4",
+      "link": "https://lwn.net/Articles/784041/"
     },
     {
       "rank": "16.",
-      "title": "PNG and Hidden Pixels",
-      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
-    },
-    {
-      "rank": "17.",
       "title": "Why we are suing the Administration",
       "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
     },
     {
+      "rank": "17.",
+      "title": "A California wildfire nearly destroyed the historic Lick observatory",
+      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
+    },
+    {
       "rank": "18.",
+      "title": "PNG and Hidden Pixels",
+      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
+    },
+    {
+      "rank": "19.",
       "title": "Deep Learning for Compilers",
       "link": "https://era.ed.ac.uk/handle/1842/36866"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "NewLisp",
       "link": "http://www.newlisp.org/"
-    },
-    {
-      "rank": "20.",
-      "title": "Case-Insensitive Ext4",
-      "link": "https://lwn.net/Articles/784041/"
     },
     {
       "rank": "21.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
+      "title": "Admiral Grace Hopper Explains the Nanosecond",
+      "link": "https://www.youtube.com/watch?v=9eyFDBPk4Yw"
+    },
+    {
+      "rank": "27.",
       "title": "Applebot",
       "link": "https://support.apple.com/en-us/HT204683"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Immortal Beloved (1812)",
       "link": "https://lettersofnote.com/2011/06/10/immortal-beloved/"
-    },
-    {
-      "rank": "28.",
-      "title": "The Puzzle Toad",
-      "link": "http://www.cs.cmu.edu/puzzle/index.html"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Admiral Grace Hopper Explains the Nanosecond",
-      "link": "https://www.youtube.com/watch?v=9eyFDBPk4Yw"
+      "title": "The Puzzle Toad",
+      "link": "http://www.cs.cmu.edu/puzzle/index.html"
     }
   ],
   "metadata": {
