@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Applebot",
-      "link": "https://support.apple.com/en-us/HT204683"
+      "title": "Supporting Linux kernel development in Rust",
+      "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
     },
     {
       "rank": "2.",
-      "title": "Supporting Linux kernel development in Rust",
-      "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
+      "title": "Applebot",
+      "link": "https://support.apple.com/en-us/HT204683"
     },
     {
       "rank": "3.",
@@ -67,18 +67,18 @@
     },
     {
       "rank": "14.",
-      "title": "A Neural-Based Program Decompiler (2019)",
-      "link": "https://arxiv.org/abs/1906.12029"
-    },
-    {
-      "rank": "15.",
       "title": "The Ecommerce Surge",
       "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Motivation – Keli Language",
       "link": "https://keli-language.gitbook.io/doc/"
+    },
+    {
+      "rank": "16.",
+      "title": "A Neural-Based Program Decompiler (2019)",
+      "link": "https://arxiv.org/abs/1906.12029"
     },
     {
       "rank": "17.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "MIT Drake",
-      "link": "https://drake.mit.edu/"
+      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
+      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
     },
     {
       "rank": "23.",
-      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
-      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
+      "title": "MIT Drake",
+      "link": "https://drake.mit.edu/"
     },
     {
       "rank": "24.",
@@ -132,18 +132,18 @@
     },
     {
       "rank": "27.",
-      "title": "An Update About Changes to Facebook’s Services in Australia",
-      "link": "https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/"
-    },
-    {
-      "rank": "28.",
       "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
       "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Hapax Legomenon",
       "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
+    },
+    {
+      "rank": "29.",
+      "title": "An Update About Changes to Facebook’s Services in Australia",
+      "link": "https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/"
     },
     {
       "rank": "30.",
