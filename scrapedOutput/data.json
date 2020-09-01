@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
-      "title": "Transit Costs Project",
-      "link": "https://transitcosts.com/about/"
-    },
-    {
-      "rank": "9.",
       "title": "# of days since the last alg=none JWT vulnerability",
       "link": "https://www.howmanydayssinceajwtalgnonevuln.com"
     },
     {
+      "rank": "9.",
+      "title": "GitHub Container Registry",
+      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
+    },
+    {
       "rank": "10.",
-      "title": "Ask HN: Who is hiring? (September 2020)",
-      "link": "item?id=24342498"
+      "title": "Transit Costs Project",
+      "link": "https://transitcosts.com/about/"
     },
     {
       "rank": "11.",
-      "title": "GitHub Container Registry",
-      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
+      "title": "Ask HN: Who is hiring? (September 2020)",
+      "link": "item?id=24342498"
     },
     {
       "rank": "12.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Mind Emulation Foundation",
-      "link": "https://mindemulation.org/"
+      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
+      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
     },
     {
       "rank": "15.",
-      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
-      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
+      "title": "Mind Emulation Foundation",
+      "link": "https://mindemulation.org/"
     },
     {
       "rank": "16.",
@@ -92,28 +92,28 @@
     },
     {
       "rank": "19.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
-    },
-    {
-      "rank": "20.",
       "title": "Why Privacy Matters",
       "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Police across Canada are using predictive policing algorithms, report finds",
       "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "The Sony “Star Eater” (2017)",
       "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
     },
     {
+      "rank": "22.",
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+    },
+    {
       "rank": "23.",
-      "title": "Seeking Dark Matter, They Detected Another Mystery",
-      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
+      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
+      "link": "https://www.bbc.com/news/business-53979625"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
-      "link": "https://www.bbc.com/news/business-53979625"
+      "title": "Seeking Dark Matter, They Detected Another Mystery",
+      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Walmart Plus takes on Amazon Prime",
-      "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
+      "title": "Htop 3.0",
+      "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
     },
     {
       "rank": "28.",
-      "title": "Htop 3.0",
-      "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
+      "title": "Walmart Plus takes on Amazon Prime",
+      "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
     },
     {
       "rank": "29.",
