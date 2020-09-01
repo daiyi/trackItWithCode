@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
-      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
-      "link": "https://lunar.fyi"
-    },
-    {
-      "rank": "4.",
       "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
       "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
+      "rank": "4.",
+      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
+      "link": "https://lunar.fyi"
+    },
+    {
       "rank": "5.",
-      "title": "Ask HN: Who is hiring? (September 2020)",
-      "link": "item?id=24342498"
+      "title": "Lockheed Martin receives $187.5M for mesh network of 10 small satellites",
+      "link": "https://defence-blog.com/news/lockheed-martin-receives-187-5-million-for-mesh-network-of-10-small-satellites.html"
     },
     {
       "rank": "6.",
-      "title": "Lockheed Martin receives $187.5M for mesh network of 10 small satellites",
-      "link": "https://defence-blog.com/news/lockheed-martin-receives-187-5-million-for-mesh-network-of-10-small-satellites.html"
+      "title": "Ask HN: Who is hiring? (September 2020)",
+      "link": "item?id=24342498"
     },
     {
       "rank": "7.",
@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
-      "title": "Mind Emulation Foundation",
-      "link": "https://mindemulation.org/"
-    },
-    {
-      "rank": "10.",
       "title": "Ask HN: Who wants to be hired? (September 2020)",
       "link": "item?id=24342496"
     },
     {
+      "rank": "10.",
+      "title": "Algebra Driven Design",
+      "link": "https://algebradriven.design/"
+    },
+    {
       "rank": "11.",
-      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
-      "link": "https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs"
+      "title": "AMZN scraps job ad targeting “labor, activist groups, hostile political leaders”",
+      "link": "https://web.archive.org/web/20200901125228/https://www.amazon.jobs/en/jobs/1026060/intelligence-analyst"
     },
     {
       "rank": "12.",
-      "title": "Algebra Driven Design",
-      "link": "https://algebradriven.design/"
+      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
+      "link": "https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs"
     },
     {
       "rank": "13.",
@@ -77,28 +77,28 @@
     },
     {
       "rank": "16.",
+      "title": "GitHub Container Registry",
+      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
+    },
+    {
+      "rank": "17.",
       "title": "Police across Canada are using predictive policing algorithms, report finds",
       "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Htop 3.0",
       "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
     },
     {
-      "rank": "18.",
-      "title": "Platforms' current attempts to regulate misinformation amplify opinion power",
-      "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
-    },
-    {
       "rank": "19.",
-      "title": "Taking a look at Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
+      "link": "https://www.bbc.com/news/business-53979625"
     },
     {
       "rank": "20.",
-      "title": "GitHub Container Registry",
-      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
+      "title": "Taking a look at Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
       "rank": "21.",
@@ -107,18 +107,18 @@
     },
     {
       "rank": "22.",
-      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
-      "link": "https://www.bbc.com/news/business-53979625"
+      "title": "Platforms' current attempts to regulate misinformation amplify opinion power",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
     },
     {
       "rank": "23.",
-      "title": "‘Five Eyes’ Nations Release Joint Cybersecurity Advisory",
-      "link": "https://www.meritalk.com/articles/five-eyes-nations-release-joint-cybersecurity-advisory/"
+      "title": "RxDB – a realtime database on top of PouchDB",
+      "link": "https://github.com/pubkey/rxdb/blob/master/README.md"
     },
     {
       "rank": "24.",
-      "title": "RxDB – a realtime database on top of PouchDB",
-      "link": "https://github.com/pubkey/rxdb/blob/master/README.md"
+      "title": "‘Five Eyes’ Nations Release Joint Cybersecurity Advisory",
+      "link": "https://www.meritalk.com/articles/five-eyes-nations-release-joint-cybersecurity-advisory/"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
-      "link": "https://www.cnbc.com/2020/09/01/amazon-seeks-intelligence-analyst-to-track-labor-organizing-threats.html"
-    },
-    {
-      "rank": "27.",
-      "title": "A Saudi Prince's Attempt to Silence Critics on Twitter",
-      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
-    },
-    {
-      "rank": "28.",
       "title": "Nessie – Lightweight Web Browser",
       "link": "https://www.radsix.com/"
     },
     {
+      "rank": "27.",
+      "title": "Silicon “sandwiches” make for lightweight, high-capacity batteries",
+      "link": "https://newatlas.com/energy/buckypaper-sandwiches-lightweight-high-capacity-silicon-anode-lithium-batteries/"
+    },
+    {
+      "rank": "28.",
+      "title": "A Saudi Prince's Attempt to Silence Critics on Twitter",
+      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
+    },
+    {
       "rank": "29.",
-      "title": "Welcome to masterWiki: stolen from MasterClass, republished as wikiHow",
-      "link": "https://masterwiki.how/"
+      "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
+      "link": "https://www.cnbc.com/2020/09/01/amazon-seeks-intelligence-analyst-to-track-labor-organizing-threats.html"
     },
     {
       "rank": "30.",
-      "title": "Silicon “sandwiches” make for lightweight, high-capacity batteries",
-      "link": "https://newatlas.com/energy/buckypaper-sandwiches-lightweight-high-capacity-silicon-anode-lithium-batteries/"
+      "title": "Welcome to masterWiki: stolen from MasterClass, republished as wikiHow",
+      "link": "https://masterwiki.how/"
     }
   ],
   "metadata": {
