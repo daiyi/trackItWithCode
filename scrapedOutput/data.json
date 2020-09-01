@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "A Neural-Based Program Decompiler (2019)",
-      "link": "https://arxiv.org/abs/1906.12029"
+      "title": "App Review process updates",
+      "link": "https://developer.apple.com/news/?id=84w3e5bm"
     },
     {
       "rank": "7.",
-      "title": "App Review process updates",
-      "link": "https://developer.apple.com/news/?id=84w3e5bm"
+      "title": "A Neural-Based Program Decompiler (2019)",
+      "link": "https://arxiv.org/abs/1906.12029"
     },
     {
       "rank": "8.",
@@ -92,28 +92,28 @@
     },
     {
       "rank": "19.",
-      "title": "Ask HN: Captcha Alternatives?",
-      "link": "item?id=24334657"
-    },
-    {
-      "rank": "20.",
       "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
       "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
     },
     {
+      "rank": "20.",
+      "title": "Ask HN: Captcha Alternatives?",
+      "link": "item?id=24334657"
+    },
+    {
       "rank": "21.",
+      "title": "Mathematicians Report New Discovery About the Dodecahedron",
+      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
+    },
+    {
+      "rank": "22.",
       "title": "When is it okay for a lawyer to lie? (2018)",
       "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
       "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
-    },
-    {
-      "rank": "23.",
-      "title": "Mathematicians Report New Discovery About the Dodecahedron",
-      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
     },
     {
       "rank": "24.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "How Predictable Is Fiction?",
-      "link": "https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/"
+      "title": "Intel MKL on AMD Zen",
+      "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
       "rank": "26.",
-      "title": "Intel MKL on AMD Zen",
-      "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
+      "title": "How Predictable Is Fiction?",
+      "link": "https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/"
     },
     {
       "rank": "27.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Understanding How the Time-Based One-Time Password Algorithm Works",
-      "link": "https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/"
+      "title": "An Analog IC Design Book Draft",
+      "link": "https://hackaday.com/2020/08/31/an-analog-ic-design-book-draft/"
     }
   ],
   "metadata": {
