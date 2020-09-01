@@ -27,23 +27,23 @@
     },
     {
       "rank": "6.",
-      "title": "Why we are suing the Administration",
-      "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
-    },
-    {
-      "rank": "7.",
       "title": "AWS Boilerplate",
       "link": "https://github.com/apptension/aws-boilerplate"
     },
     {
+      "rank": "7.",
+      "title": "Why we are suing the Administration",
+      "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
+    },
+    {
       "rank": "8.",
-      "title": "PNG and Hidden Pixels",
-      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
+      "title": "Apple Accidentally Approved Malware to Run on macOS",
+      "link": "https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/"
     },
     {
       "rank": "9.",
-      "title": "Feline coronavirus drug inhibits the main protease of SARS-CoV-2",
-      "link": "https://www.nature.com/articles/s41467-020-18096-2"
+      "title": "PNG and Hidden Pixels",
+      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
     },
     {
       "rank": "10.",
@@ -52,33 +52,33 @@
     },
     {
       "rank": "11.",
+      "title": "Feline coronavirus drug inhibits the main protease of SARS-CoV-2",
+      "link": "https://www.nature.com/articles/s41467-020-18096-2"
+    },
+    {
+      "rank": "12.",
       "title": "The database I wish I had",
       "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Show HN: I built FabHomePages so your home can have its own homepage in minutes",
       "link": "https://fabhomepages.com/"
     },
     {
-      "rank": "13.",
-      "title": "Apple Accidentally Approved Malware to Run on macOS",
-      "link": "https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/"
-    },
-    {
       "rank": "14.",
-      "title": "Honey bee venom found to kill breast cancer cells",
-      "link": "https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064"
-    },
-    {
-      "rank": "15.",
       "title": "NewLisp",
       "link": "http://www.newlisp.org/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Amazon's Surveillance Infrastructure and Revitalizing Worker Power",
       "link": "https://www.theregister.com/2020/09/01/amazon_staff_spying/"
+    },
+    {
+      "rank": "16.",
+      "title": "Honey bee venom found to kill breast cancer cells",
+      "link": "https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064"
     },
     {
       "rank": "17.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Case-Insensitive Ext4",
-      "link": "https://lwn.net/Articles/784041/"
+      "title": "Applebot",
+      "link": "https://support.apple.com/en-us/HT204683"
     },
     {
       "rank": "21.",
-      "title": "Applebot",
-      "link": "https://support.apple.com/en-us/HT204683"
+      "title": "Case-Insensitive Ext4",
+      "link": "https://lwn.net/Articles/784041/"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
+      "title": "What should go into an allocator benchmark?",
+      "link": "https://twitter.com/chewedwire/status/1300129033699627012"
+    },
+    {
+      "rank": "24.",
       "title": "The Puzzle Toad",
       "link": "http://www.cs.cmu.edu/puzzle/index.html"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Deep Learning for Compilers",
       "link": "https://era.ed.ac.uk/handle/1842/36866"
-    },
-    {
-      "rank": "25.",
-      "title": "What should go into an allocator benchmark?",
-      "link": "https://twitter.com/chewedwire/status/1300129033699627012"
     },
     {
       "rank": "26.",
