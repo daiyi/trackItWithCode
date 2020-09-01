@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "AMZN scraps job ad targeting “labor, activist groups, hostile political leaders”",
-      "link": "https://web.archive.org/web/20200901125228/https://www.amazon.jobs/en/jobs/1026060/intelligence-analyst"
+      "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
+      "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
     },
     {
       "rank": "2.",
-      "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
-      "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
+      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
+      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
       "rank": "3.",
@@ -17,138 +17,138 @@
     },
     {
       "rank": "4.",
-      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
-      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
-    },
-    {
-      "rank": "5.",
       "title": "Lunar – macOS utility to set brightness and volume on external monitors",
       "link": "https://lunar.fyi"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Lockheed Martin receives $187.5M for mesh network of 10 small satellites",
       "link": "https://defence-blog.com/news/lockheed-martin-receives-187-5-million-for-mesh-network-of-10-small-satellites.html"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Ask HN: Who is hiring? (September 2020)",
       "link": "item?id=24342498"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Amazon drivers are hanging smartphones in trees to get more work",
       "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "CERN at Home: Building a Particle Detector",
       "link": "https://clanhouse.com/cern-at-home-building-a-particle-detector"
     },
     {
+      "rank": "9.",
+      "title": "Mind Emulation Foundation",
+      "link": "https://mindemulation.org/"
+    },
+    {
       "rank": "10.",
-      "title": "Ask HN: Who wants to be hired? (September 2020)",
-      "link": "item?id=24342496"
+      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
+      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
     },
     {
       "rank": "11.",
-      "title": "Algebra Driven Design",
-      "link": "https://algebradriven.design/"
-    },
-    {
-      "rank": "12.",
-      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
-      "link": "https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs"
-    },
-    {
-      "rank": "13.",
       "title": "GitHub Container Registry",
       "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
     },
     {
+      "rank": "12.",
+      "title": "Ask HN: Who wants to be hired? (September 2020)",
+      "link": "item?id=24342496"
+    },
+    {
+      "rank": "13.",
+      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
+      "link": "https://www.workatastartup.com/jobs?role=eng&utm_source=hn_jobs"
+    },
+    {
       "rank": "14.",
+      "title": "Algebra Driven Design",
+      "link": "https://algebradriven.design/"
+    },
+    {
+      "rank": "15.",
       "title": "The Sony “Star Eater” (2017)",
       "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
     },
     {
-      "rank": "15.",
-      "title": "Why Privacy Matters",
-      "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
-    },
-    {
       "rank": "16.",
-      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
-      "link": "https://www.bbc.com/news/business-53979625"
+      "title": "An “Intelligence Analyst” job ad scrapped by Amazon",
+      "link": "https://web.archive.org/web/20200901125228/https://www.amazon.jobs/en/jobs/1026060/intelligence-analyst"
     },
     {
       "rank": "17.",
-      "title": "Amazon Is Hiring an Intelligence Analyst to Track 'Labor Organizing Threats'",
-      "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
-    },
-    {
-      "rank": "18.",
       "title": "JITSploitation I: A JIT Bug",
       "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
     },
     {
+      "rank": "18.",
+      "title": "Why Privacy Matters",
+      "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
+    },
+    {
       "rank": "19.",
+      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
+      "link": "https://www.bbc.com/news/business-53979625"
+    },
+    {
+      "rank": "20.",
+      "title": "Amazon Is Hiring an Intelligence Analyst to Track 'Labor Organizing Threats'",
+      "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
+    },
+    {
+      "rank": "21.",
       "title": "Police across Canada are using predictive policing algorithms, report finds",
       "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
       "title": "Htop 3.0",
       "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "Your mind will not be uploaded (2014)",
       "link": "http://www.softmachines.org/wordpress/?p=1558"
     },
     {
-      "rank": "22.",
-      "title": "Taking a look at Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
-    },
-    {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Platforms' current attempts to regulate misinformation amplify opinion power",
       "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
     },
     {
-      "rank": "24.",
-      "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
-      "link": "https://www.cnbc.com/2020/09/01/amazon-seeks-intelligence-analyst-to-track-labor-organizing-threats.html"
+      "rank": "25.",
+      "title": "Taking a look at Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "Walmart Plus takes on Amazon Prime",
+      "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
+    },
+    {
+      "rank": "27.",
       "title": "‘Five Eyes’ Nations Release Joint Cybersecurity Advisory",
       "link": "https://www.meritalk.com/articles/five-eyes-nations-release-joint-cybersecurity-advisory/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
+      "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
+      "link": "https://www.cnbc.com/2020/09/01/amazon-seeks-intelligence-analyst-to-track-labor-organizing-threats.html"
+    },
+    {
+      "rank": "29.",
       "title": "Science and steely nerves spared Houston from a nightmare hurricane evacuation",
       "link": "https://arstechnica.com/science/2020/09/science-and-steely-nerves-spared-houston-from-a-nightmare-hurricane-evacuation/"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "RxDB – a realtime database on top of PouchDB",
       "link": "https://github.com/pubkey/rxdb/blob/master/README.md"
-    },
-    {
-      "rank": "28.",
-      "title": "Welcome to masterWiki: stolen from MasterClass, republished as wikiHow",
-      "link": "https://masterwiki.how/"
-    },
-    {
-      "rank": "29.",
-      "title": "Nessie – Lightweight Web Browser",
-      "link": "https://www.radsix.com/"
-    },
-    {
-      "rank": "30.",
-      "title": "A Saudi Prince's Attempt to Silence Critics on Twitter",
-      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
     }
   ],
   "metadata": {
