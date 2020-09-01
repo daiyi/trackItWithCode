@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Amazon drivers are hanging smartphones in trees to get more work",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
+      "title": "Automatically Render Latex Equations from Python Math Code",
+      "link": "https://github.com/connorferster/handcalcs"
     },
     {
       "rank": "6.",
-      "title": "Ask HN: Who is hiring? (September 2020)",
-      "link": "item?id=24342498"
+      "title": "Amazon drivers are hanging smartphones in trees to get more work",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     },
     {
       "rank": "7.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "GitHub Container Registry",
-      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
+      "title": "Ask HN: Who is hiring? (September 2020)",
+      "link": "item?id=24342498"
     },
     {
       "rank": "9.",
-      "title": "Automatically Render Latex Equations from Python Math Code",
-      "link": "https://github.com/connorferster/handcalcs"
+      "title": "GitHub Container Registry",
+      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "Mind Emulation Foundation",
-      "link": "https://mindemulation.org/"
+      "title": "Transit Costs Project",
+      "link": "https://transitcosts.com/about/"
     },
     {
       "rank": "12.",
-      "title": "Seeking Dark Matter, They Detected Another Mystery",
-      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
+      "title": "Mind Emulation Foundation",
+      "link": "https://mindemulation.org/"
     },
     {
       "rank": "13.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "Transit Costs Project",
-      "link": "https://transitcosts.com/about/"
+      "title": "Seeking Dark Matter, They Detected Another Mystery",
+      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
     },
     {
       "rank": "15.",
@@ -102,33 +102,33 @@
     },
     {
       "rank": "21.",
-      "title": "Police across Canada are using predictive policing algorithms, report finds",
-      "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
-    },
-    {
-      "rank": "22.",
-      "title": "Algebra Driven Design",
-      "link": "https://algebradriven.design/"
-    },
-    {
-      "rank": "23.",
-      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
-      "link": "https://www.bbc.com/news/business-53979625"
-    },
-    {
-      "rank": "24.",
-      "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
-      "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
-    },
-    {
-      "rank": "25.",
       "title": "Best Practices for Testing in Java (2019)",
       "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
+      "rank": "22.",
+      "title": "Police across Canada are using predictive policing algorithms, report finds",
+      "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
+    },
+    {
+      "rank": "23.",
+      "title": "Algebra Driven Design",
+      "link": "https://algebradriven.design/"
+    },
+    {
+      "rank": "24.",
+      "title": "# of days since the last alg=none JWT vulnerability",
+      "link": "https://www.howmanydayssinceajwtalgnonevuln.com"
+    },
+    {
+      "rank": "25.",
+      "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
+      "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
+    },
+    {
       "rank": "26.",
-      "title": "Your mind will not be uploaded (2014)",
-      "link": "http://www.softmachines.org/wordpress/?p=1558"
+      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
+      "link": "https://www.bbc.com/news/business-53979625"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Your mind will not be uploaded (2014)",
+      "link": "http://www.softmachines.org/wordpress/?p=1558"
+    },
+    {
+      "rank": "29.",
       "title": "Walmart Plus takes on Amazon Prime",
       "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Platforms' current attempts to regulate misinformation amplify opinion power",
       "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
-    },
-    {
-      "rank": "30.",
-      "title": "RxDB – a real-time database on top of PouchDB",
-      "link": "https://github.com/pubkey/rxdb/blob/master/README.md"
     }
   ],
   "metadata": {
