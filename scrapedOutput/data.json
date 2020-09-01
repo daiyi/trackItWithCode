@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Bottlerocket, an open source Linux distribution built to run containers",
-      "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
+      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
+      "link": "https://lunar.fyi"
     },
     {
       "rank": "4.",
-      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
-      "link": "https://lunar.fyi"
+      "title": "Bottlerocket, an open source Linux distribution built to run containers",
+      "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
     },
     {
       "rank": "5.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
-      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
-      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
-    },
-    {
-      "rank": "11.",
       "title": "GitHub Container Registry",
       "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
     },
     {
+      "rank": "11.",
+      "title": "Amazon job ad for an intelligence analyst to track 'labor organizing threats'",
+      "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
+    },
+    {
       "rank": "12.",
-      "title": "Ask HN: Who wants to be hired? (September 2020)",
-      "link": "item?id=24342496"
+      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
+      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
     },
     {
       "rank": "13.",
@@ -72,68 +72,68 @@
     },
     {
       "rank": "15.",
+      "title": "Ask HN: Who wants to be hired? (September 2020)",
+      "link": "item?id=24342496"
+    },
+    {
+      "rank": "16.",
       "title": "The Sony “Star Eater” (2017)",
       "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
     },
     {
-      "rank": "16.",
-      "title": "An “Intelligence Analyst” job ad scrapped by Amazon",
-      "link": "https://web.archive.org/web/20200901125228/https://www.amazon.jobs/en/jobs/1026060/intelligence-analyst"
-    },
-    {
       "rank": "17.",
-      "title": "JITSploitation I: A JIT Bug",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
-    },
-    {
-      "rank": "18.",
       "title": "Why Privacy Matters",
       "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
     },
     {
-      "rank": "19.",
-      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
-      "link": "https://www.bbc.com/news/business-53979625"
+      "rank": "18.",
+      "title": "Seeking Dark Matter, They Detected Another Mystery",
+      "link": "https://www.nytimes.com/2020/06/17/science/xenon-axions-neutrinos-tritium.html"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Amazon Is Hiring an Intelligence Analyst to Track 'Labor Organizing Threats'",
       "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
     },
     {
+      "rank": "20.",
+      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
+      "link": "https://www.bbc.com/news/business-53979625"
+    },
+    {
       "rank": "21.",
+      "title": "JITSploitation I: A JIT Bug",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
+    },
+    {
+      "rank": "22.",
       "title": "Police across Canada are using predictive policing algorithms, report finds",
       "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Htop 3.0",
       "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Your mind will not be uploaded (2014)",
       "link": "http://www.softmachines.org/wordpress/?p=1558"
     },
     {
-      "rank": "24.",
-      "title": "Platforms' current attempts to regulate misinformation amplify opinion power",
-      "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
-    },
-    {
       "rank": "25.",
-      "title": "Taking a look at Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
-    },
-    {
-      "rank": "26.",
       "title": "Walmart Plus takes on Amazon Prime",
       "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
     },
     {
+      "rank": "26.",
+      "title": "Taking a look at Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+    },
+    {
       "rank": "27.",
-      "title": "‘Five Eyes’ Nations Release Joint Cybersecurity Advisory",
-      "link": "https://www.meritalk.com/articles/five-eyes-nations-release-joint-cybersecurity-advisory/"
+      "title": "Platforms' current attempts to regulate misinformation amplify opinion power",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
     },
     {
       "rank": "28.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "Science and steely nerves spared Houston from a nightmare hurricane evacuation",
-      "link": "https://arstechnica.com/science/2020/09/science-and-steely-nerves-spared-houston-from-a-nightmare-hurricane-evacuation/"
+      "title": "‘Five Eyes’ Nations Release Joint Cybersecurity Advisory",
+      "link": "https://www.meritalk.com/articles/five-eyes-nations-release-joint-cybersecurity-advisory/"
     },
     {
       "rank": "30.",
