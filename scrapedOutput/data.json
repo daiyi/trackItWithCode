@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Hacker News – Terms of Use (2014)",
+      "link": "https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/"
+    },
+    {
+      "rank": "2.",
       "title": "First Impressions of GitHub Codespaces",
       "link": "https://www.aristotlemetadata.com/blog/2020/08/first-impressions-github-codespaces.html"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Supporting Linux kernel development in Rust",
       "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
-    },
-    {
-      "rank": "3.",
-      "title": "PNG and Hidden Pixels",
-      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
     },
     {
       "rank": "4.",
@@ -22,18 +22,18 @@
     },
     {
       "rank": "5.",
+      "title": "PNG and Hidden Pixels",
+      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
+    },
+    {
+      "rank": "6.",
       "title": "Applebot",
       "link": "https://support.apple.com/en-us/HT204683"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Why Doctors Hate Their Computers (2018)",
       "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
-    },
-    {
-      "rank": "7.",
-      "title": "Hacker News – Terms of Use (2014)",
-      "link": "https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/"
     },
     {
       "rank": "8.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "A Neural-Based Program Decompiler (2019)",
-      "link": "https://arxiv.org/abs/1906.12029"
+      "title": "The surreal art of ‘unnatural lighting’",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
     },
     {
       "rank": "11.",
-      "title": "The surreal art of ‘unnatural lighting’",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
+      "title": "A Neural-Based Program Decompiler (2019)",
+      "link": "https://arxiv.org/abs/1906.12029"
     },
     {
       "rank": "12.",
@@ -87,38 +87,38 @@
     },
     {
       "rank": "18.",
+      "title": "A California wildfire nearly destroyed the historic Lick observatory",
+      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
+    },
+    {
+      "rank": "19.",
       "title": "MIT Drake",
       "link": "https://drake.mit.edu/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "2020's Existentialist Turn",
       "link": "https://bostonreview.net/philosophy-religion/carmen-lea-dege-2020s-existentialist-turn"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "3D face: fast, accurate and stable reconstruction",
       "link": "https://github.com/cleardusk/3DDFA_V2"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
-      "rank": "22.",
-      "title": "Standing on the outside looking in: X-rays through glass",
-      "link": "https://physicsworld.com/a/standing-on-the-outside-looking-in-x-rays-through-glass/"
-    },
-    {
       "rank": "23.",
-      "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
-      "link": "https://github.com/pypa/setuptools/issues/2350"
+      "title": "Understanding How the Time-Based One-Time Password Algorithm Works",
+      "link": "https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/"
     },
     {
       "rank": "24.",
-      "title": "Understanding How the Time-Based One-Time Password Algorithm Works",
-      "link": "https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/"
+      "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
+      "link": "https://github.com/pypa/setuptools/issues/2350"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
-      "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
+      "title": "Standing on the outside looking in: X-rays through glass",
+      "link": "https://physicsworld.com/a/standing-on-the-outside-looking-in-x-rays-through-glass/"
     },
     {
       "rank": "27.",
-      "title": "Palantir's S-1 has a paragraph warning its AI technology may do unethical things",
-      "link": "https://nitter.net/tsimonite/status/1298711894241366019#m"
-    },
-    {
-      "rank": "28.",
       "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
       "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
     },
     {
+      "rank": "28.",
+      "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
+      "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
+    },
+    {
       "rank": "29.",
-      "title": "How Predictable Is Fiction?",
-      "link": "https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/"
+      "title": "I sold my side-project for $30k",
+      "link": "https://marc.io/tweet-photo-acquired"
     },
     {
       "rank": "30.",
-      "title": "I sold my side-project for $30k",
-      "link": "https://marc.io/tweet-photo-acquired"
+      "title": "When is it okay for a lawyer to lie? (2018)",
+      "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
     }
   ],
   "metadata": {
