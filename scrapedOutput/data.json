@@ -22,38 +22,38 @@
     },
     {
       "rank": "5.",
-      "title": "A California wildfire nearly destroyed the historic Lick observatory",
-      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
-    },
-    {
-      "rank": "6.",
-      "title": "PNG and Hidden Pixels",
-      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
-    },
-    {
-      "rank": "7.",
-      "title": "The database I wish I had",
-      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
-    },
-    {
-      "rank": "8.",
-      "title": "Show HN: I built FabHomePages so your home can have its own homepage in minutes",
-      "link": "https://fabhomepages.com/"
-    },
-    {
-      "rank": "9.",
       "title": "AWS Boilerplate",
       "link": "https://github.com/apptension/aws-boilerplate"
     },
     {
+      "rank": "6.",
+      "title": "A California wildfire nearly destroyed the historic Lick observatory",
+      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
+    },
+    {
+      "rank": "7.",
+      "title": "PNG and Hidden Pixels",
+      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
+    },
+    {
+      "rank": "8.",
+      "title": "The database I wish I had",
+      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
+    },
+    {
+      "rank": "9.",
+      "title": "Show HN: I built FabHomePages so your home can have its own homepage in minutes",
+      "link": "https://fabhomepages.com/"
+    },
+    {
       "rank": "10.",
-      "title": "Amazon's Surveillance Infrastructure and Revitalizing Worker Power",
-      "link": "https://www.theregister.com/2020/09/01/amazon_staff_spying/"
+      "title": "Feline coronavirus drug inhibits the main protease of SARS-CoV-2",
+      "link": "https://www.nature.com/articles/s41467-020-18096-2"
     },
     {
       "rank": "11.",
-      "title": "Feline coronavirus drug inhibits the main protease of SARS-CoV-2",
-      "link": "https://www.nature.com/articles/s41467-020-18096-2"
+      "title": "Amazon's Surveillance Infrastructure and Revitalizing Worker Power",
+      "link": "https://www.theregister.com/2020/09/01/amazon_staff_spying/"
     },
     {
       "rank": "12.",
@@ -97,33 +97,33 @@
     },
     {
       "rank": "20.",
+      "title": "Apple Accidentally Approved Malware to Run on macOS",
+      "link": "https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/"
+    },
+    {
+      "rank": "21.",
       "title": "A Neural-Based Program Decompiler (2019)",
       "link": "https://arxiv.org/abs/1906.12029"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Modernizing the OpenBSD Console",
       "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Understanding How the Time-Based One-Time Password Algorithm Works",
       "link": "https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
       "link": "https://github.com/pypa/setuptools/issues/2350"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "What should go into an allocator benchmark?",
       "link": "https://twitter.com/chewedwire/status/1300129033699627012"
-    },
-    {
-      "rank": "25.",
-      "title": "Apple Accidentally Approved Malware to Run on macOS",
-      "link": "https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/"
     },
     {
       "rank": "26.",
@@ -132,18 +132,18 @@
     },
     {
       "rank": "27.",
+      "title": "MIT Drake",
+      "link": "https://drake.mit.edu/"
+    },
+    {
+      "rank": "28.",
       "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
       "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
       "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
-    },
-    {
-      "rank": "29.",
-      "title": "MIT Drake",
-      "link": "https://drake.mit.edu/"
     },
     {
       "rank": "30.",
