@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "TikTok: We Are Suing the Administration",
+      "title": "Why we are suing the Administration",
       "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
     },
     {
       "rank": "2.",
-      "title": "PNG and Hidden Pixels",
-      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
+      "title": "The database I wish I had",
+      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
     },
     {
       "rank": "3.",
-      "title": "The database I wish I had",
-      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
+      "title": "PNG and Hidden Pixels",
+      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
     },
     {
       "rank": "4.",
@@ -27,17 +27,17 @@
     },
     {
       "rank": "6.",
-      "title": "Why Doctors Hate Their Computers (2018)",
-      "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
-    },
-    {
-      "rank": "7.",
       "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
       "link": "https://github.com/FreeCol/freecol"
     },
     {
+      "rank": "7.",
+      "title": "Why Doctors Hate Their Computers (2018)",
+      "link": "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
+    },
+    {
       "rank": "8.",
-      "title": "I Was Excited for Neuralink. Then I Watched the Demo",
+      "title": "I was excited for Neuralink, then I watched the demo",
       "link": "https://thenextweb.com/neural/2020/08/31/i-was-excited-for-neuralink-then-i-watched-elon-musks-stupid-demo/"
     },
     {
@@ -57,33 +57,33 @@
     },
     {
       "rank": "12.",
+      "title": "NewLisp",
+      "link": "http://www.newlisp.org/"
+    },
+    {
+      "rank": "13.",
       "title": "The Puzzle Toad",
       "link": "http://www.cs.cmu.edu/puzzle/index.html"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Modernizing the OpenBSD Console",
       "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
     },
     {
-      "rank": "14.",
-      "title": "A Neural-Based Program Decompiler (2019)",
-      "link": "https://arxiv.org/abs/1906.12029"
-    },
-    {
       "rank": "15.",
-      "title": "What should go into an allocator benchmark?",
-      "link": "https://twitter.com/chewedwire/status/1300129033699627012"
-    },
-    {
-      "rank": "16.",
       "title": "I sold my side-project for $30k",
       "link": "https://marc.io/tweet-photo-acquired"
     },
     {
+      "rank": "16.",
+      "title": "A Neural-Based Program Decompiler (2019)",
+      "link": "https://arxiv.org/abs/1906.12029"
+    },
+    {
       "rank": "17.",
-      "title": "NewLISP – puts the fun back in Lisp",
-      "link": "http://www.newlisp.org/"
+      "title": "What should go into an allocator benchmark?",
+      "link": "https://twitter.com/chewedwire/status/1300129033699627012"
     },
     {
       "rank": "18.",
@@ -92,48 +92,48 @@
     },
     {
       "rank": "19.",
-      "title": "The Ecommerce Surge",
-      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
-    },
-    {
-      "rank": "20.",
-      "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
-      "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
-    },
-    {
-      "rank": "21.",
       "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
       "link": "https://github.com/pypa/setuptools/issues/2350"
     },
     {
-      "rank": "22.",
+      "rank": "20.",
       "title": "MIT Drake",
       "link": "https://drake.mit.edu/"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
       "title": "Understanding How the Time-Based One-Time Password Algorithm Works",
       "link": "https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/"
     },
     {
-      "rank": "24.",
-      "title": "First Impressions of GitHub Codespaces",
-      "link": "https://www.aristotlemetadata.com/blog/2020/08/first-impressions-github-codespaces.html"
+      "rank": "22.",
+      "title": "The Ecommerce Surge",
+      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
     },
     {
-      "rank": "25.",
+      "rank": "23.",
+      "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
+      "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
+    },
+    {
+      "rank": "24.",
       "title": "App Review process updates",
       "link": "https://developer.apple.com/news/?id=84w3e5bm"
     },
     {
+      "rank": "25.",
+      "title": "The surreal art of ‘unnatural lighting’",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
+    },
+    {
       "rank": "26.",
-      "title": "How Predictable Is Fiction?",
-      "link": "https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/"
+      "title": "First Impressions of GitHub Codespaces",
+      "link": "https://www.aristotlemetadata.com/blog/2020/08/first-impressions-github-codespaces.html"
     },
     {
       "rank": "27.",
-      "title": "The surreal art of ‘unnatural lighting’",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
+      "title": "How Predictable Is Fiction?",
+      "link": "https://tedunderwood.com/2020/07/05/how-predictable-is-fiction/"
     },
     {
       "rank": "28.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "The Architecture of Open Source Applications",
-      "link": "https://aosabook.org/en/index.html"
+      "title": "Hapax Legomenon",
+      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
     },
     {
       "rank": "30.",
