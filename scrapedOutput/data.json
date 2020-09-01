@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "An Update About Changes to Facebook’s Services in Australia",
-      "link": "https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/"
+      "title": "The database I wish I had",
+      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
     },
     {
       "rank": "10.",
-      "title": "Motivation – Keli Language",
-      "link": "https://keli-language.gitbook.io/doc/"
+      "title": "An Update About Changes to Facebook’s Services in Australia",
+      "link": "https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/"
     },
     {
       "rank": "11.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "The database I wish I had",
-      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
+      "title": "Motivation – Keli Language",
+      "link": "https://keli-language.gitbook.io/doc/"
     },
     {
       "rank": "13.",
@@ -77,33 +77,33 @@
     },
     {
       "rank": "16.",
-      "title": "Mathematicians Report New Discovery About the Dodecahedron",
-      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
-    },
-    {
-      "rank": "17.",
       "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
       "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "When is it okay for a lawyer to lie? (2018)",
       "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
     },
     {
-      "rank": "19.",
-      "title": "The Ecommerce Surge",
-      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
+      "rank": "18.",
+      "title": "Mathematicians Report New Discovery About the Dodecahedron",
+      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Ruby: We have decided to go forward to 3.0 this year",
       "link": "https://github.com/ruby/ruby/commit/21c62fb670b1646c5051a46d29081523cd782f11"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
       "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
+    },
+    {
+      "rank": "21.",
+      "title": "The Ecommerce Surge",
+      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
     },
     {
       "rank": "22.",
@@ -112,33 +112,33 @@
     },
     {
       "rank": "23.",
-      "title": "Hapax Legomenon",
-      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
-    },
-    {
-      "rank": "24.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
     {
-      "rank": "25.",
-      "title": "Ask HN: Captcha Alternatives?",
-      "link": "item?id=24334657"
+      "rank": "24.",
+      "title": "Hapax Legomenon",
+      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "3D face: fast, accurate and stable reconstruction",
       "link": "https://github.com/cleardusk/3DDFA_V2"
     },
     {
+      "rank": "26.",
+      "title": "Ask HN: Captcha Alternatives?",
+      "link": "item?id=24334657"
+    },
+    {
       "rank": "27.",
-      "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
-      "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
+      "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
+      "link": "https://github.com/pypa/setuptools/issues/2350"
     },
     {
       "rank": "28.",
-      "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
-      "link": "https://github.com/pypa/setuptools/issues/2350"
+      "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
+      "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
     },
     {
       "rank": "29.",
