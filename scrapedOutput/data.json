@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Supporting Linux kernel development in Rust",
-      "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
+      "title": "TikTok: We Are Suing the Administration",
+      "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
     },
     {
       "rank": "2.",
@@ -27,53 +27,53 @@
     },
     {
       "rank": "6.",
-      "title": "A California wildfire nearly destroyed the historic Lick observatory",
-      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
-    },
-    {
-      "rank": "7.",
       "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
       "link": "https://github.com/FreeCol/freecol"
     },
     {
-      "rank": "8.",
-      "title": "How to Learn Everything: The MasterClass Diaries",
-      "link": "https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/"
-    },
-    {
-      "rank": "9.",
+      "rank": "7.",
       "title": "Applebot",
       "link": "https://support.apple.com/en-us/HT204683"
     },
     {
+      "rank": "8.",
+      "title": "A California wildfire nearly destroyed the historic Lick observatory",
+      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
+    },
+    {
+      "rank": "9.",
+      "title": "How to Learn Everything: The MasterClass Diaries",
+      "link": "https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/"
+    },
+    {
       "rank": "10.",
-      "title": "The Puzzle Toad",
-      "link": "http://www.cs.cmu.edu/puzzle/index.html"
+      "title": "Supporting Linux kernel development in Rust",
+      "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
     },
     {
       "rank": "11.",
-      "title": "A Neural-Based Program Decompiler (2019)",
-      "link": "https://arxiv.org/abs/1906.12029"
-    },
-    {
-      "rank": "12.",
-      "title": "Modernizing the OpenBSD Console",
-      "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
-    },
-    {
-      "rank": "13.",
       "title": "What should go into an allocator benchmark?",
       "link": "https://twitter.com/chewedwire/status/1300129033699627012"
     },
     {
+      "rank": "12.",
+      "title": "The Puzzle Toad",
+      "link": "http://www.cs.cmu.edu/puzzle/index.html"
+    },
+    {
+      "rank": "13.",
+      "title": "A Neural-Based Program Decompiler (2019)",
+      "link": "https://arxiv.org/abs/1906.12029"
+    },
+    {
       "rank": "14.",
-      "title": "Hacker News – Terms of Use (2014)",
-      "link": "https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/"
+      "title": "Modernizing the OpenBSD Console",
+      "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
     },
     {
       "rank": "15.",
-      "title": "The Ecommerce Surge",
-      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
+      "title": "Hacker News – Terms of Use (2014)",
+      "link": "https://web.archive.org/web/20140715041043/http://www.ycombinator.com/legal/"
     },
     {
       "rank": "16.",
@@ -87,68 +87,68 @@
     },
     {
       "rank": "18.",
-      "title": "First Impressions of GitHub Codespaces",
-      "link": "https://www.aristotlemetadata.com/blog/2020/08/first-impressions-github-codespaces.html"
+      "title": "The Ecommerce Surge",
+      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
     },
     {
       "rank": "19.",
-      "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
-      "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
-    },
-    {
-      "rank": "20.",
       "title": "Python setuptools v50 breaks pip installation on Debian/Ubuntu",
       "link": "https://github.com/pypa/setuptools/issues/2350"
     },
     {
-      "rank": "21.",
-      "title": "2020's Existentialist Turn",
-      "link": "https://bostonreview.net/philosophy-religion/carmen-lea-dege-2020s-existentialist-turn"
-    },
-    {
-      "rank": "22.",
+      "rank": "20.",
       "title": "MIT Drake",
       "link": "https://drake.mit.edu/"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
+      "title": "Show HN: I've built self-opening trash bin, I relax myself feeding garbage to it",
+      "link": "https://github.com/ivanilves/arduino-sketches/tree/master/basurito"
+    },
+    {
+      "rank": "22.",
       "title": "Understanding How the Time-Based One-Time Password Algorithm Works",
       "link": "https://blog.digitalbunker.dev/2020/08/27/how-do-time-based-one-time-password-totp-services-work/"
     },
     {
-      "rank": "24.",
-      "title": "Intel MKL on AMD Zen",
-      "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
-    },
-    {
-      "rank": "25.",
-      "title": "Researchers are developing a battery powered by diamonds made from nuclear waste",
-      "link": "https://www.wired.com/story/are-radioactive-diamond-batteries-a-cure-for-nuclear-waste/"
-    },
-    {
-      "rank": "26.",
+      "rank": "23.",
       "title": "App Review process updates",
       "link": "https://developer.apple.com/news/?id=84w3e5bm"
     },
     {
-      "rank": "27.",
+      "rank": "24.",
+      "title": "First Impressions of GitHub Codespaces",
+      "link": "https://www.aristotlemetadata.com/blog/2020/08/first-impressions-github-codespaces.html"
+    },
+    {
+      "rank": "25.",
       "title": "The surreal art of ‘unnatural lighting’",
       "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
     },
     {
-      "rank": "28.",
-      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
-      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
-    },
-    {
-      "rank": "29.",
+      "rank": "26.",
       "title": "When is it okay for a lawyer to lie? (2018)",
       "link": "https://www.americanbar.org/news/abanews/publications/youraba/2018/december-2018/when-is-it-okay-for-a-lawyer-to-lie--/"
     },
     {
-      "rank": "30.",
+      "rank": "27.",
+      "title": "Hapax Legomenon",
+      "link": "https://www.atlasobscura.com/articles/hapax-legomenon-hapaxes"
+    },
+    {
+      "rank": "28.",
       "title": "The Architecture of Open Source Applications",
       "link": "https://aosabook.org/en/index.html"
+    },
+    {
+      "rank": "29.",
+      "title": "Interchange in Houston is the same size as an entire city center in Italy",
+      "link": "https://www.texasmonthly.com/politics/highway-interchange-houston-same-size-city-italy/"
+    },
+    {
+      "rank": "30.",
+      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
+      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
     }
   ],
   "metadata": {
