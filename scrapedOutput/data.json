@@ -2,33 +2,33 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Airline Pilots Landing at Lax Report “A Guy in Jetpack” Flying Alongside Them",
+      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
       "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
       "rank": "2.",
-      "title": "Htop 3.0",
-      "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
-    },
-    {
-      "rank": "3.",
       "title": "Ask HN: Who is hiring? (September 2020)",
       "link": "item?id=24342498"
     },
     {
-      "rank": "4.",
-      "title": "‘Giant Step into the Future’: Nvidia CEO Unveils GeForce RTX 30 Series GPUs",
-      "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
+      "rank": "3.",
+      "title": "Lunar – macOS utility to set brightness on external monitors",
+      "link": "https://lunar.fyi"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Ask HN: Who wants to be hired? (September 2020)",
       "link": "item?id=24342496"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Algebra Driven Design",
       "link": "https://algebradriven.design/"
+    },
+    {
+      "rank": "6.",
+      "title": "‘Giant Step into the Future’: Nvidia CEO Unveils GeForce RTX 30 Series GPUs",
+      "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
     },
     {
       "rank": "7.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
-      "title": "Lunar – macOS utility to set brightness on external monitors",
-      "link": "https://lunar.fyi"
-    },
-    {
-      "rank": "9.",
       "title": "Why Privacy Matters",
       "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
     },
     {
+      "rank": "9.",
+      "title": "Htop 3.0",
+      "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
+    },
+    {
       "rank": "10.",
-      "title": "Taking a look at Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+      "title": "California duplex bill, SB 1120, dies: Assembly approval comes too late",
+      "link": "https://www.latimes.com/homeless-housing/story/2020-09-01/california-assembly-sb-1120-duplexes"
     },
     {
       "rank": "11.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "California duplex bill, SB 1120, dies: Assembly approval comes too late",
-      "link": "https://www.latimes.com/homeless-housing/story/2020-09-01/california-assembly-sb-1120-duplexes"
+      "title": "Taking a look at Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
       "rank": "13.",
@@ -67,18 +67,18 @@
     },
     {
       "rank": "14.",
-      "title": "Nvidia launches Ampere-based 30XX GPU lineup [video]",
-      "link": "https://www.nvidia.com/en-us/geforce/special-event/?nvid=nv-int-gfhm-55882#cid=_nv-int-gfhm_en-us"
-    },
-    {
-      "rank": "15.",
       "title": "A Saudi Prince's Attempt to Silence Critics on Twitter",
       "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Nessie – Lightweight Web Browser",
       "link": "https://www.radsix.com/"
+    },
+    {
+      "rank": "16.",
+      "title": "Why has college gotten so expensive? The gov handed them a blank check in 1993",
+      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
     },
     {
       "rank": "17.",
@@ -92,23 +92,23 @@
     },
     {
       "rank": "19.",
-      "title": "Platforms: Current Attempts to Regulate Misinformation Amplify Opinion Power",
-      "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
-    },
-    {
-      "rank": "20.",
-      "title": "Why has college gotten so expensive? The gov handed them a blank check in 1993",
-      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
-    },
-    {
-      "rank": "21.",
       "title": "How to resume a SSH encrypted and x11 forwarded session",
       "link": "https://dwaves.org/2019/01/21/how-to-resume-a-ssh-encrypted-and-x11-forwarded-session/"
     },
     {
-      "rank": "22.",
+      "rank": "20.",
+      "title": "Nvidia launches Ampere-based 30XX GPU lineup [video]",
+      "link": "https://www.nvidia.com/en-us/geforce/special-event/?nvid=nv-int-gfhm-55882#cid=_nv-int-gfhm_en-us"
+    },
+    {
+      "rank": "21.",
       "title": "Amazon Drivers Are Hanging Smartphones in Trees to Get More Work",
       "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
+    },
+    {
+      "rank": "22.",
+      "title": "Platforms: Current Attempts to Regulate Misinformation Amplify Opinion Power",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
     },
     {
       "rank": "23.",
@@ -127,23 +127,23 @@
     },
     {
       "rank": "26.",
-      "title": "Police Across Canada Are Using Predictive Policing Algorithms, Report Finds",
-      "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
+      "title": "Walmart Plus takes on Amazon Prime with $98-a-year membership fee",
+      "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
     },
     {
       "rank": "27.",
-      "title": "Why we are suing the Administration",
-      "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
-    },
-    {
-      "rank": "28.",
       "title": "Deep Learning for Compilers",
       "link": "https://era.ed.ac.uk/handle/1842/36866"
     },
     {
+      "rank": "28.",
+      "title": "Police Across Canada Are Using Predictive Policing Algorithms, Report Finds",
+      "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
+    },
+    {
       "rank": "29.",
-      "title": "Honey bee venom found to kill breast cancer cells",
-      "link": "https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064"
+      "title": "Why we are suing the Administration",
+      "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
     },
     {
       "rank": "30.",
