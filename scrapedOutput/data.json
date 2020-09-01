@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Ask HN: Who wants to be hired? (September 2020)",
-      "link": "item?id=24342496"
+      "title": "Why Privacy Matters",
+      "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
     },
     {
       "rank": "4.",
-      "title": "Why Privacy Matters",
-      "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
+      "title": "Taking a look at Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
       "rank": "5.",
@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Taking a look at Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+      "title": "TaxProper (YC S19) Is Hiring Software Engineers",
+      "link": "https://www.notion.so/TaxProper-is-Hiring-5a21e3adc5e249aaa3282875936bbfd6"
     },
     {
       "rank": "7.",
@@ -37,118 +37,118 @@
     },
     {
       "rank": "8.",
+      "title": "Ask HN: Who wants to be hired? (September 2020)",
+      "link": "item?id=24342496"
+    },
+    {
+      "rank": "9.",
       "title": "Nessie – Lightweight Web Browser",
       "link": "https://www.radsix.com/"
     },
     {
-      "rank": "9.",
-      "title": "Welcome to masterWiki: stolen from MasterClass, republished as wikiHow",
-      "link": "https://masterwiki.how/"
-    },
-    {
       "rank": "10.",
-      "title": "Amazon Drivers Are Hanging Smartphones in Trees to Get More Work",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
+      "title": "Algebra Driven Design",
+      "link": "https://algebradriven.design/"
     },
     {
       "rank": "11.",
-      "title": "AWS Boilerplate",
-      "link": "https://github.com/apptension/aws-boilerplate"
-    },
-    {
-      "rank": "12.",
-      "title": "Making the case for fewer assertions in tests",
-      "link": "https://assertless.org/"
-    },
-    {
-      "rank": "13.",
-      "title": "New Federal Court Rulings Find Geofence Warrants Unconstitutional",
-      "link": "https://www.eff.org/deeplinks/2020/08/new-federal-court-rulings-find-geofence-warrants-unconstitutional-0"
-    },
-    {
-      "rank": "14.",
-      "title": "How to resume a SSH encrypted and x11 forwarded session",
-      "link": "https://dwaves.org/2019/01/21/how-to-resume-a-ssh-encrypted-and-x11-forwarded-session/"
-    },
-    {
-      "rank": "15.",
-      "title": "Police Across Canada Are Using Predictive Policing Algorithms, Report Finds",
-      "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
-    },
-    {
-      "rank": "16.",
-      "title": "Honey bee venom found to kill breast cancer cells",
-      "link": "https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064"
-    },
-    {
-      "rank": "17.",
-      "title": "A California wildfire nearly destroyed the historic Lick observatory",
-      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
-    },
-    {
-      "rank": "18.",
-      "title": "Why we are suing the Administration",
-      "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
-    },
-    {
-      "rank": "19.",
-      "title": "Feline coronavirus drug inhibits the main protease of SARS-CoV-2",
-      "link": "https://www.nature.com/articles/s41467-020-18096-2"
-    },
-    {
-      "rank": "20.",
-      "title": "PNG and Hidden Pixels",
-      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
-    },
-    {
-      "rank": "21.",
-      "title": "Apple Accidentally Approved Malware to Run on macOS",
-      "link": "https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/"
-    },
-    {
-      "rank": "22.",
-      "title": "Deep Learning for Compilers",
-      "link": "https://era.ed.ac.uk/handle/1842/36866"
-    },
-    {
-      "rank": "23.",
-      "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
-      "link": "https://github.com/FreeCol/freecol"
-    },
-    {
-      "rank": "24.",
       "title": "A Saudi Prince's Attempt to Silence Critics on Twitter",
       "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
     },
     {
+      "rank": "12.",
+      "title": "Welcome to masterWiki: stolen from MasterClass, republished as wikiHow",
+      "link": "https://masterwiki.how/"
+    },
+    {
+      "rank": "13.",
+      "title": "How to resume a SSH encrypted and x11 forwarded session",
+      "link": "https://dwaves.org/2019/01/21/how-to-resume-a-ssh-encrypted-and-x11-forwarded-session/"
+    },
+    {
+      "rank": "14.",
+      "title": "Amazon Drivers Are Hanging Smartphones in Trees to Get More Work",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
+    },
+    {
+      "rank": "15.",
+      "title": "AWS Boilerplate",
+      "link": "https://github.com/apptension/aws-boilerplate"
+    },
+    {
+      "rank": "16.",
+      "title": "New Federal Court Rulings Find Geofence Warrants Unconstitutional",
+      "link": "https://www.eff.org/deeplinks/2020/08/new-federal-court-rulings-find-geofence-warrants-unconstitutional-0"
+    },
+    {
+      "rank": "17.",
+      "title": "Making the case for fewer assertions in tests",
+      "link": "https://assertless.org/"
+    },
+    {
+      "rank": "18.",
+      "title": "Police Across Canada Are Using Predictive Policing Algorithms, Report Finds",
+      "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
+    },
+    {
+      "rank": "19.",
+      "title": "Honey bee venom found to kill breast cancer cells",
+      "link": "https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064"
+    },
+    {
+      "rank": "20.",
+      "title": "A California wildfire nearly destroyed the historic Lick observatory",
+      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
+    },
+    {
+      "rank": "21.",
+      "title": "Why we are suing the Administration",
+      "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
+    },
+    {
+      "rank": "22.",
+      "title": "Feline coronavirus drug inhibits the main protease of SARS-CoV-2",
+      "link": "https://www.nature.com/articles/s41467-020-18096-2"
+    },
+    {
+      "rank": "23.",
+      "title": "PNG and Hidden Pixels",
+      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
+    },
+    {
+      "rank": "24.",
+      "title": "Deep Learning for Compilers",
+      "link": "https://era.ed.ac.uk/handle/1842/36866"
+    },
+    {
       "rank": "25.",
-      "title": "NewLisp",
-      "link": "http://www.newlisp.org/"
+      "title": "Apple Accidentally Approved Malware to Run on macOS",
+      "link": "https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/"
     },
     {
       "rank": "26.",
+      "title": "‘Five Eyes’ Nations Release Joint Cybersecurity Advisory",
+      "link": "https://www.meritalk.com/articles/five-eyes-nations-release-joint-cybersecurity-advisory/"
+    },
+    {
+      "rank": "27.",
+      "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
+      "link": "https://github.com/FreeCol/freecol"
+    },
+    {
+      "rank": "28.",
+      "title": "TypeScript: Template string types and mapped type 'as' clauses",
+      "link": "https://github.com/microsoft/TypeScript/pull/40336"
+    },
+    {
+      "rank": "29.",
       "title": "Admiral Grace Hopper Explains the Nanosecond",
       "link": "https://www.youtube.com/watch?v=9eyFDBPk4Yw"
     },
     {
-      "rank": "27.",
-      "title": "Amazon's Surveillance Infrastructure and Revitalizing Worker Power",
-      "link": "https://www.theregister.com/2020/09/01/amazon_staff_spying/"
-    },
-    {
-      "rank": "28.",
-      "title": "Supporting Linux kernel development in Rust",
-      "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
-    },
-    {
-      "rank": "29.",
-      "title": "Show HN: I built FabHomePages so your home can have its own homepage in minutes",
-      "link": "https://fabhomepages.com/"
-    },
-    {
       "rank": "30.",
-      "title": "Applebot",
-      "link": "https://support.apple.com/en-us/HT204683"
+      "title": "NewLisp",
+      "link": "http://www.newlisp.org/"
     }
   ],
   "metadata": {
