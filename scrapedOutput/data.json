@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "PNG and Hidden Pixels",
-      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
+      "title": "The database I wish I had",
+      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
     },
     {
       "rank": "10.",
-      "title": "A California wildfire nearly destroyed the historic Lick observatory",
-      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
+      "title": "PNG and Hidden Pixels",
+      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
     },
     {
       "rank": "11.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "The database I wish I had",
-      "link": "https://euandre.org/2020/08/31/the-database-i-wish-i-had.html"
+      "title": "A California wildfire nearly destroyed the historic Lick observatory",
+      "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
     },
     {
       "rank": "13.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Amazon's Surveillance Infrastructure and Revitalizing Worker Power",
-      "link": "https://www.theregister.com/2020/09/01/amazon_staff_spying/"
+      "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
+      "link": "https://github.com/FreeCol/freecol"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
-      "link": "https://github.com/FreeCol/freecol"
+      "title": "Amazon's Surveillance Infrastructure and Revitalizing Worker Power",
+      "link": "https://www.theregister.com/2020/09/01/amazon_staff_spying/"
     },
     {
       "rank": "18.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "Case-Insensitive Ext4",
-      "link": "https://lwn.net/Articles/784041/"
+      "title": "Deep Learning for Compilers",
+      "link": "https://era.ed.ac.uk/handle/1842/36866"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "What should go into an allocator benchmark?",
-      "link": "https://twitter.com/chewedwire/status/1300129033699627012"
+      "title": "Case-Insensitive Ext4",
+      "link": "https://lwn.net/Articles/784041/"
     },
     {
       "rank": "24.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
-      "title": "Deep Learning for Compilers",
-      "link": "https://era.ed.ac.uk/handle/1842/36866"
+      "title": "What should go into an allocator benchmark?",
+      "link": "https://twitter.com/chewedwire/status/1300129033699627012"
     },
     {
       "rank": "26.",
-      "title": "A Neural-Based Program Decompiler (2019)",
-      "link": "https://arxiv.org/abs/1906.12029"
+      "title": "Police Across Canada Are Using Predictive Policing Algorithms, Report Finds",
+      "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
     },
     {
       "rank": "27.",
-      "title": "Modernizing the OpenBSD Console",
-      "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
+      "title": "A Neural-Based Program Decompiler (2019)",
+      "link": "https://arxiv.org/abs/1906.12029"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "The Ecommerce Surge",
-      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
+      "title": "Modernizing the OpenBSD Console",
+      "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
     },
     {
       "rank": "30.",
-      "title": "Jerry.ai (YC S17) Is Hiring Senior Software Devs (Toronto, SF Bay Area, Boston)",
-      "link": "https://apply.workable.com/jerry/j/F4762CDFF8/"
+      "title": "The Ecommerce Surge",
+      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
     }
   ],
   "metadata": {
