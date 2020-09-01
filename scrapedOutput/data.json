@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Modernizing the OpenBSD Console",
-      "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
+      "title": "The Puzzle Toad",
+      "link": "http://www.cs.cmu.edu/puzzle/index.html"
     },
     {
       "rank": "9.",
-      "title": "The Puzzle Toad",
-      "link": "http://www.cs.cmu.edu/puzzle/index.html"
+      "title": "Modernizing the OpenBSD Console",
+      "link": "https://www.cambus.net/modernizing-the-openbsd-console/"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "The surreal art of ‘unnatural lighting’",
-      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
+      "title": "The Architecture of Open Source Applications",
+      "link": "https://aosabook.org/en/index.html"
     },
     {
       "rank": "12.",
-      "title": "The Architecture of Open Source Applications",
-      "link": "https://aosabook.org/en/index.html"
+      "title": "The surreal art of ‘unnatural lighting’",
+      "link": "https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/"
     },
     {
       "rank": "13.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "The Ecommerce Surge",
-      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
+      "title": "A Neural-Based Program Decompiler (2019)",
+      "link": "https://arxiv.org/abs/1906.12029"
     },
     {
       "rank": "15.",
-      "title": "A Neural-Based Program Decompiler (2019)",
-      "link": "https://arxiv.org/abs/1906.12029"
+      "title": "The Ecommerce Surge",
+      "link": "https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge"
     },
     {
       "rank": "16.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "MIT Drake",
-      "link": "https://drake.mit.edu/"
+      "title": "Mathematicians Report New Discovery About the Dodecahedron",
+      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "Mathematicians Report New Discovery About the Dodecahedron",
-      "link": "https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/"
+      "title": "MIT Drake",
+      "link": "https://drake.mit.edu/"
     },
     {
       "rank": "24.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
-      "title": "An Update About Changes to Facebook’s Services in Australia",
-      "link": "https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/"
-    },
-    {
-      "rank": "26.",
       "title": "3D face: fast, accurate and stable reconstruction",
       "link": "https://github.com/cleardusk/3DDFA_V2"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Intel MKL on AMD Zen",
       "link": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
+    },
+    {
+      "rank": "27.",
+      "title": "An Update About Changes to Facebook’s Services in Australia",
+      "link": "https://about.fb.com/news/2020/08/changes-to-facebooks-services-in-australia/"
     },
     {
       "rank": "28.",
