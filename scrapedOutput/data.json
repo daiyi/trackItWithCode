@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
-      "title": "TaxProper (YC S19) Is Hiring Software Engineers",
-      "link": "https://www.notion.so/TaxProper-is-Hiring-5a21e3adc5e249aaa3282875936bbfd6"
-    },
-    {
-      "rank": "7.",
       "title": "RxDB – a realtime database on top of PouchDB",
       "link": "https://github.com/pubkey/rxdb/blob/master/README.md"
     },
     {
+      "rank": "7.",
+      "title": "TaxProper (YC S19) Is Hiring Software Engineers",
+      "link": "https://www.notion.so/TaxProper-is-Hiring-5a21e3adc5e249aaa3282875936bbfd6"
+    },
+    {
       "rank": "8.",
-      "title": "Ask HN: Who wants to be hired? (September 2020)",
-      "link": "item?id=24342496"
+      "title": "Algebra Driven Design",
+      "link": "https://algebradriven.design/"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Algebra Driven Design",
-      "link": "https://algebradriven.design/"
+      "title": "A Saudi Prince's Attempt to Silence Critics on Twitter",
+      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
     },
     {
       "rank": "11.",
-      "title": "A Saudi Prince's Attempt to Silence Critics on Twitter",
-      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
+      "title": "Ask HN: Who wants to be hired? (September 2020)",
+      "link": "item?id=24342496"
     },
     {
       "rank": "12.",
@@ -62,93 +62,93 @@
     },
     {
       "rank": "13.",
+      "title": "Amazon Is Hiring an Intelligence Analyst to Track 'Labor Organizing Threats'",
+      "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
+    },
+    {
+      "rank": "14.",
       "title": "How to resume a SSH encrypted and x11 forwarded session",
       "link": "https://dwaves.org/2019/01/21/how-to-resume-a-ssh-encrypted-and-x11-forwarded-session/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Amazon Drivers Are Hanging Smartphones in Trees to Get More Work",
       "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "AWS Boilerplate",
       "link": "https://github.com/apptension/aws-boilerplate"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "New Federal Court Rulings Find Geofence Warrants Unconstitutional",
       "link": "https://www.eff.org/deeplinks/2020/08/new-federal-court-rulings-find-geofence-warrants-unconstitutional-0"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Making the case for fewer assertions in tests",
       "link": "https://assertless.org/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Police Across Canada Are Using Predictive Policing Algorithms, Report Finds",
       "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Honey bee venom found to kill breast cancer cells",
       "link": "https://www.abc.net.au/news/2020-09-01/new-aus-research-finds-honey-bee-venom-kills-breast-cancer-cells/12618064"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "A California wildfire nearly destroyed the historic Lick observatory",
       "link": "https://arstechnica.com/science/2020/08/a-california-wildfire-nearly-destroyed-the-historic-lick-observatory/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Why we are suing the Administration",
       "link": "https://newsroom.tiktok.com/en-us/tiktok-files-lawsuit"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Feline coronavirus drug inhibits the main protease of SARS-CoV-2",
       "link": "https://www.nature.com/articles/s41467-020-18096-2"
     },
     {
-      "rank": "23.",
-      "title": "PNG and Hidden Pixels",
-      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
-    },
-    {
       "rank": "24.",
-      "title": "Deep Learning for Compilers",
-      "link": "https://era.ed.ac.uk/handle/1842/36866"
-    },
-    {
-      "rank": "25.",
-      "title": "Apple Accidentally Approved Malware to Run on macOS",
-      "link": "https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/"
-    },
-    {
-      "rank": "26.",
       "title": "‘Five Eyes’ Nations Release Joint Cybersecurity Advisory",
       "link": "https://www.meritalk.com/articles/five-eyes-nations-release-joint-cybersecurity-advisory/"
     },
     {
+      "rank": "25.",
+      "title": "PNG and Hidden Pixels",
+      "link": "https://www.hackerfactor.com/blog/index.php?/archives/894-PNG-and-Hidden-Pixels.html"
+    },
+    {
+      "rank": "26.",
+      "title": "Deep Learning for Compilers",
+      "link": "https://era.ed.ac.uk/handle/1842/36866"
+    },
+    {
       "rank": "27.",
+      "title": "Apple Accidentally Approved Malware to Run on macOS",
+      "link": "https://www.wired.com/story/apple-approved-malware-macos-notarization-shlayer/"
+    },
+    {
+      "rank": "28.",
       "title": "FreeCol: Turn-based strategy game based on the old game Colonization",
       "link": "https://github.com/FreeCol/freecol"
     },
     {
-      "rank": "28.",
-      "title": "TypeScript: Template string types and mapped type 'as' clauses",
-      "link": "https://github.com/microsoft/TypeScript/pull/40336"
-    },
-    {
       "rank": "29.",
-      "title": "Admiral Grace Hopper Explains the Nanosecond",
-      "link": "https://www.youtube.com/watch?v=9eyFDBPk4Yw"
+      "title": "Why San Francisco Is in Trouble – 19,000 City Employees Earned $150k+",
+      "link": "https://www.forbes.com/sites/adamandrzejewski/2020/09/01/why-san-francisco-is-in-trouble--19000-highly-compensated-city-employees-earned-150000-in-pay--perks/"
     },
     {
       "rank": "30.",
-      "title": "NewLisp",
-      "link": "http://www.newlisp.org/"
+      "title": "Admiral Grace Hopper Explains the Nanosecond",
+      "link": "https://www.youtube.com/watch?v=9eyFDBPk4Yw"
     }
   ],
   "metadata": {
