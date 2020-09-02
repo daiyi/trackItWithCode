@@ -12,8 +12,8 @@
     },
     {
       "rank": "3.",
-      "title": "Unix Wars",
-      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
+      "title": "I Actively Discourage Online Tooling Like Jwt.io and Online JSON Validators",
+      "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
     },
     {
       "rank": "4.",
@@ -22,133 +22,133 @@
     },
     {
       "rank": "5.",
+      "title": "Unix Wars",
+      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
+    },
+    {
+      "rank": "6.",
       "title": "Kubernetes: Make your services faster by removing CPU limits",
       "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Smarking (YC W15) is hiring a Tech Lead Back end to scale mobility tech infra",
       "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "To design and develop an interactive globe",
       "link": "https://stripe.com/blog/globe"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
+      "title": "Anatomy of a Bubble – Tesla and Bitcoin",
+      "link": "https://endlessmetrics.substack.com/p/anatomy-of-a-bubble-tesla-and-bitcoin"
+    },
+    {
+      "rank": "10.",
       "title": "How big is a neutron star?",
       "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
     },
     {
-      "rank": "9.",
+      "rank": "11.",
       "title": "A round-up of topology-based papers at ICML 2020",
       "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
     },
     {
-      "rank": "10.",
+      "rank": "12.",
       "title": "Fast Supernovae Detection Using Neural Networks",
       "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
     },
     {
-      "rank": "11.",
+      "rank": "13.",
       "title": "Lo-Fi Player",
       "link": "https://magenta.tensorflow.org/lofi-player"
     },
     {
-      "rank": "12.",
-      "title": "Handcalcs: Automatically render Latex equations from Python math code",
-      "link": "https://github.com/connorferster/handcalcs"
-    },
-    {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Patreon Raises $90M Series E at $1.2B Valuation",
       "link": "https://blog.patreon.com/patreon-series-e-announcement"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
       "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
     },
     {
-      "rank": "15.",
-      "title": "Multiple Western Digital 5400RPM drives are actually 7200RPM drives",
-      "link": "https://old.reddit.com/r/DataHoarder/comments/ikk0rv/psa_multiple_wd_5400rpm_drives_are_actually/"
-    },
-    {
       "rank": "16.",
-      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
-      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
-    },
-    {
-      "rank": "17.",
       "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping proceeds",
       "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
     },
     {
+      "rank": "17.",
+      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
+      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
+    },
+    {
       "rank": "18.",
+      "title": "Multiple Western Digital 5400RPM drives are actually 7200RPM drives",
+      "link": "https://old.reddit.com/r/DataHoarder/comments/ikk0rv/psa_multiple_wd_5400rpm_drives_are_actually/"
+    },
+    {
+      "rank": "19.",
       "title": "Tips for stable and portable software",
       "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Show HN: asroute - view unique networks traversed by traceroute",
       "link": "https://github.com/stevenpack/asroute"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Transit Costs Project",
       "link": "https://transitcosts.com/about/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
+      "title": "Russia’s ‘slow-motion Chernobyl’ at sea",
+      "link": "https://www.bbc.com/future/article/20200901-the-radioactive-risk-of-sunken-nuclear-soviet-submarines"
+    },
+    {
+      "rank": "24.",
       "title": "Mozilla research: Browsing histories are unique enough to identify users",
       "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
     },
     {
-      "rank": "23.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+      "rank": "25.",
+      "title": "Handcalcs: Automatically render Latex equations from Python math code",
+      "link": "https://github.com/connorferster/handcalcs"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "Lunar – macOS utility to set brightness and volume on external monitors",
       "link": "https://lunar.fyi"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Bottlerocket, an open source Linux distribution built to run containers",
       "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+    },
+    {
+      "rank": "29.",
       "title": "Pasukon – The easy JavaScript parser generator",
       "link": "https://pasukon.rocks/"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "Amazon drivers are hanging smartphones in trees to get more work",
       "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
-    },
-    {
-      "rank": "28.",
-      "title": "GitHub Container Registry",
-      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
-    },
-    {
-      "rank": "29.",
-      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
-      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
-    },
-    {
-      "rank": "30.",
-      "title": "Ask HN: Who is hiring? (September 2020)",
-      "link": "item?id=24342498"
     }
   ],
   "metadata": {
