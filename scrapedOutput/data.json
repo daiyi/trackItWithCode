@@ -72,58 +72,58 @@
     },
     {
       "rank": "15.",
-      "title": "Mozilla research: Browsing histories are unique enough to identify users",
-      "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
-    },
-    {
-      "rank": "16.",
-      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
-      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
-    },
-    {
-      "rank": "17.",
       "title": "Ask HN: Who wants to be hired? (September 2020)",
       "link": "item?id=24342496"
     },
     {
+      "rank": "16.",
+      "title": "Mozilla research: Browsing histories are unique enough to identify users",
+      "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
+    },
+    {
+      "rank": "17.",
+      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
+      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
+    },
+    {
       "rank": "18.",
-      "title": "Mind Emulation Foundation",
-      "link": "https://mindemulation.org/"
-    },
-    {
-      "rank": "19.",
-      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
-      "link": "https://www.bbc.com/news/business-53979625"
-    },
-    {
-      "rank": "20.",
-      "title": "Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
-    },
-    {
-      "rank": "21.",
       "title": "Why Privacy Matters",
       "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
     },
     {
-      "rank": "22.",
-      "title": "The Sony “Star Eater” (2017)",
-      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
+      "rank": "19.",
+      "title": "Mind Emulation Foundation",
+      "link": "https://mindemulation.org/"
     },
     {
-      "rank": "23.",
+      "rank": "20.",
+      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
+      "link": "https://www.bbc.com/news/business-53979625"
+    },
+    {
+      "rank": "21.",
+      "title": "Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+    },
+    {
+      "rank": "22.",
       "title": "Best Practices for Testing in Java (2019)",
       "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
+      "rank": "23.",
+      "title": "The Sony “Star Eater” (2017)",
+      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
+    },
+    {
       "rank": "24.",
-      "title": "JITSploitation I: A JIT Bug",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
+      "title": "Walmart Plus takes on Amazon Prime",
+      "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
     },
     {
       "rank": "25.",
-      "title": "Walmart Plus takes on Amazon Prime",
-      "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
+      "title": "JITSploitation I: A JIT Bug",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
     },
     {
       "rank": "26.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Pasukon – The easy JavaScript parser generator",
-      "link": "https://pasukon.rocks/"
-    },
-    {
-      "rank": "29.",
       "title": "Platforms' current attempts to regulate misinformation amplify opinion power",
       "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
       "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
+    },
+    {
+      "rank": "30.",
+      "title": "Pasukon – The easy JavaScript parser generator",
+      "link": "https://pasukon.rocks/"
     }
   ],
   "metadata": {
