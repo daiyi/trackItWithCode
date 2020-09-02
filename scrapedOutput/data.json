@@ -17,8 +17,8 @@
     },
     {
       "rank": "4.",
-      "title": "Possible detection of a black hole with a mass thought to be impossible (2019)",
-      "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
+      "title": "“The Odyssey” – Homer (late 8th century B.C)",
+      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
     },
     {
       "rank": "5.",
@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "“The Odyssey” – Homer (late 8th century B.C)",
-      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
+      "title": "Possible detection of a black hole with a mass thought to be impossible (2019)",
+      "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
     },
     {
       "rank": "7.",
@@ -62,53 +62,53 @@
     },
     {
       "rank": "13.",
-      "title": "Lo-Fi Player",
-      "link": "https://magenta.tensorflow.org/lofi-player"
+      "title": "Accidental Cameras",
+      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
     },
     {
       "rank": "14.",
-      "title": "Fast Supernovae Detection Using Neural Networks",
-      "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
-    },
-    {
-      "rank": "15.",
-      "title": "A round-up of topology-based papers at ICML 2020",
-      "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
-    },
-    {
-      "rank": "16.",
       "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping proceeds",
       "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
     },
     {
+      "rank": "15.",
+      "title": "Lo-Fi Player",
+      "link": "https://magenta.tensorflow.org/lofi-player"
+    },
+    {
+      "rank": "16.",
+      "title": "A round-up of topology-based papers at ICML 2020",
+      "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
+    },
+    {
       "rank": "17.",
+      "title": "Fast Supernovae Detection Using Neural Networks",
+      "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
+    },
+    {
+      "rank": "18.",
       "title": "Teens' anxiety levels dropped during pandemic, study finds",
       "link": "https://www.bbc.com/news/uk-53884401"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Russia’s ‘slow-motion Chernobyl’ at sea",
       "link": "https://www.bbc.com/future/article/20200901-the-radioactive-risk-of-sunken-nuclear-soviet-submarines"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Anatomy of a Bubble – Tesla and Bitcoin",
       "link": "https://endlessmetrics.substack.com/p/anatomy-of-a-bubble-tesla-and-bitcoin"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
       "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Multiple Western Digital 5400RPM drives are actually 7200RPM drives",
       "link": "https://old.reddit.com/r/DataHoarder/comments/ikk0rv/psa_multiple_wd_5400rpm_drives_are_actually/"
-    },
-    {
-      "rank": "22.",
-      "title": "Tips for stable and portable software",
-      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
     },
     {
       "rank": "23.",
@@ -117,23 +117,23 @@
     },
     {
       "rank": "24.",
+      "title": "Tips for stable and portable software",
+      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
+    },
+    {
+      "rank": "25.",
       "title": "Show HN: asroute - view unique networks traversed by traceroute",
       "link": "https://github.com/stevenpack/asroute"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Transit Costs Project",
       "link": "https://transitcosts.com/about/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
-    },
-    {
-      "rank": "27.",
-      "title": "Mozilla research: Browsing histories are unique enough to identify users",
-      "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Handcalcs: Automatically render Latex equations from Python math code",
-      "link": "https://github.com/connorferster/handcalcs"
+      "title": "Mozilla research: Browsing histories are unique enough to identify users",
+      "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
     },
     {
       "rank": "30.",
-      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
-      "link": "https://lunar.fyi"
+      "title": "Handcalcs: Automatically render Latex equations from Python math code",
+      "link": "https://github.com/connorferster/handcalcs"
     }
   ],
   "metadata": {
