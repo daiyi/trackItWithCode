@@ -17,18 +17,18 @@
     },
     {
       "rank": "4.",
+      "title": "Lo-Fi Player",
+      "link": "https://magenta.tensorflow.org/lofi-player"
+    },
+    {
+      "rank": "5.",
       "title": "Lunar – macOS utility to set brightness and volume on external monitors",
       "link": "https://lunar.fyi"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Bottlerocket, an open source Linux distribution built to run containers",
       "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
-    },
-    {
-      "rank": "6.",
-      "title": "Lo-Fi Player",
-      "link": "https://magenta.tensorflow.org/lofi-player"
     },
     {
       "rank": "7.",
@@ -57,43 +57,43 @@
     },
     {
       "rank": "12.",
+      "title": "The Race to Save 'Contact Languages'",
+      "link": "https://www.bbc.com/future/article/20200901-the-fragile-state-of-contact-languages"
+    },
+    {
+      "rank": "13.",
       "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
       "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Transit Costs Project",
       "link": "https://transitcosts.com/about/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "CERN at Home: Building a Particle Detector",
       "link": "https://clanhouse.com/cern-at-home-building-a-particle-detector"
     },
     {
-      "rank": "15.",
-      "title": "Mozilla research: Browsing histories are unique enough to identify users",
-      "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
+      "rank": "16.",
+      "title": "San Francisco Troubles – 19,000 Highly Paid City Employees Earned $150k",
+      "link": "https://www.forbes.com/sites/adamandrzejewski/2020/09/01/why-san-francisco-is-in-trouble--19000-highly-compensated-city-employees-earned-150000-in-pay--perks/#59287f283769"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Ask HN: Who wants to be hired? (September 2020)",
       "link": "item?id=24342496"
     },
     {
-      "rank": "17.",
-      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
-      "link": "https://www.bbc.com/news/business-53979625"
-    },
-    {
       "rank": "18.",
-      "title": "NeoAxis Game Engine 2020.5 Released – .NET Core, VSCode, Improved Built-In GUI",
-      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
+      "title": "Mozilla research: Browsing histories are unique enough to identify users",
+      "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
     },
     {
       "rank": "19.",
-      "title": "Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
+      "link": "https://www.bbc.com/news/business-53979625"
     },
     {
       "rank": "20.",
@@ -102,38 +102,38 @@
     },
     {
       "rank": "21.",
+      "title": "NeoAxis Game Engine 2020.5 Released – .NET Core, VSCode, Improved Built-In GUI",
+      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
+    },
+    {
+      "rank": "22.",
       "title": "Best Practices for Testing in Java (2019)",
       "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
+      "title": "Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+    },
+    {
+      "rank": "24.",
       "title": "Pasukon – The easy JavaScript parser generator",
       "link": "https://pasukon.rocks/"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Mind Emulation Foundation",
       "link": "https://mindemulation.org/"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "Walmart Plus takes on Amazon Prime",
       "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "The Sony “Star Eater” (2017)",
       "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
-    },
-    {
-      "rank": "26.",
-      "title": "Htop 3.0",
-      "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
-    },
-    {
-      "rank": "27.",
-      "title": "A Saudi prince's attempt to silence critics on Twitter",
-      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
-      "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
+      "title": "Show HN: asroute - view unique networks traversed by traceroute",
+      "link": "https://github.com/stevenpack/asroute"
     },
     {
       "rank": "30.",
-      "title": "San Francisco Troubles – 19,000 Highly Paid City Employees Earned $150k",
-      "link": "https://www.forbes.com/sites/adamandrzejewski/2020/09/01/why-san-francisco-is-in-trouble--19000-highly-compensated-city-employees-earned-150000-in-pay--perks/#59287f283769"
+      "title": "A Saudi prince's attempt to silence critics on Twitter",
+      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
     }
   ],
   "metadata": {
