@@ -2,43 +2,43 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Half of Americans fear a health-related bankruptcy",
-      "link": "https://www.axios.com/health-bankruptcy-fears-poll-ce3c4905-53c6-4f43-ba4f-fde22f4ef849.html"
-    },
-    {
-      "rank": "2.",
-      "title": "Intel Launches 11th Gen Core Tiger Lake: Up to 4.8 GHz at 50 W, 2x GPU with Xe",
-      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
-    },
-    {
-      "rank": "3.",
       "title": "Programming with Categories",
       "link": "http://brendanfong.com/programmingcats.html"
     },
     {
-      "rank": "4.",
+      "rank": "2.",
       "title": "Inside the HP Nanoprocessor",
       "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
-      "rank": "5.",
+      "rank": "3.",
       "title": "Most-favorited Hacker News posts",
       "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
-      "rank": "6.",
+      "rank": "4.",
       "title": "Essential C (2003) [pdf]",
       "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
     },
     {
-      "rank": "7.",
+      "rank": "5.",
       "title": "XLS: Accelerated HW Synthesis",
       "link": "https://google.github.io/xls/"
     },
     {
-      "rank": "8.",
+      "rank": "6.",
       "title": "Craigstarter: DIY Replacement for Kickstarter",
       "link": "https://github.com/cmod/craigstarter"
+    },
+    {
+      "rank": "7.",
+      "title": "Intel Launches 11th Gen Core Tiger Lake",
+      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
+    },
+    {
+      "rank": "8.",
+      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
+      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
     },
     {
       "rank": "9.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
-      "title": "On Modern Hardware the Min-Max Heap Beats a Binary Heap",
+      "title": "On modern hardware the min-max heap beats a binary heap",
       "link": "https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/"
     },
     {
       "rank": "12.",
-      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
-      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
+      "title": "Using Clojure in the command line with Babashka",
+      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
     },
     {
       "rank": "13.",
-      "title": "Using Clojure in Command Line with Babashka",
-      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
+      "title": "Supercomputer analysis of Covid-19 leads to new theory",
+      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
     },
     {
       "rank": "14.",
@@ -72,48 +72,48 @@
     },
     {
       "rank": "15.",
-      "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
-      "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
-    },
-    {
-      "rank": "16.",
-      "title": "A supercomputer analyzed Covid-19 and a new theory has emerged",
-      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
-    },
-    {
-      "rank": "17.",
-      "title": "Accidental Cameras (2014)",
+      "title": "Accidental Pinhole and Pinspeck Cameras (2014)",
       "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
     },
     {
-      "rank": "18.",
-      "title": "The Odyssey",
-      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
-    },
-    {
-      "rank": "19.",
+      "rank": "16.",
       "title": "Lesser-known Web APIs",
       "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
     },
     {
-      "rank": "20.",
+      "rank": "17.",
+      "title": "The Odyssey, translated by Alexander Pope",
+      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
+    },
+    {
+      "rank": "18.",
       "title": "Solar Foods closes Series A financing for its first commercial factory",
       "link": "https://solarfoods.fi/our-news/solar-foods-closes-series-a-financing-for-its-first-commercial-factory/"
     },
     {
-      "rank": "21.",
+      "rank": "19.",
+      "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
+      "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
+    },
+    {
+      "rank": "20.",
       "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
       "link": "https://www.bbc.com/news/technology-53998205"
     },
     {
+      "rank": "21.",
+      "title": "Two musings on the design of compiler warnings",
+      "link": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/"
+    },
+    {
       "rank": "22.",
-      "title": "Git-Based Wiki",
-      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
+      "title": "Half of Americans fear a health-related bankruptcy",
+      "link": "https://www.axios.com/health-bankruptcy-fears-poll-ce3c4905-53c6-4f43-ba4f-fde22f4ef849.html"
     },
     {
       "rank": "23.",
-      "title": "Show HN: DNS-based alternative to the web for structured data",
-      "link": "https://www.num.uk/blog/announcing-num"
+      "title": "Git-Based Wiki",
+      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "What the world can learn from the UK's A-level grading fiasco",
-      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/"
+      "title": "Show HN: DNS-based alternative to the web for structured data",
+      "link": "https://www.num.uk/blog/announcing-num"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Burning the Books: A History of Knowledge Under Attack",
-      "link": "https://literaryreview.co.uk/bonfires-of-reason"
+      "title": "Teens' anxiety levels dropped during pandemic, study finds",
+      "link": "https://www.bbc.com/news/uk-53884401"
     },
     {
       "rank": "28.",
-      "title": "Show HN: Funding model for the web, users choose between ads or micropayments",
-      "link": "http://satotious.com"
+      "title": "What the world can learn from the UK's A-level grading fiasco",
+      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/"
     },
     {
       "rank": "29.",
-      "title": "Unix Wars",
+      "title": "Unix Wars (2000)",
       "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
     },
     {
       "rank": "30.",
-      "title": "Two musings on the design of compiler warnings",
-      "link": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/"
+      "title": "Burning the Books: A history of knowledge under attack",
+      "link": "https://literaryreview.co.uk/bonfires-of-reason"
     }
   ],
   "metadata": {
