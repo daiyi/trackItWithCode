@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "18.S097: Programming with Categories",
-      "link": "http://brendanfong.com/programmingcats.html"
+      "title": "TSA tries out another (illegal) biometric “ID verification” system",
+      "link": "https://papersplease.org/wp/2020/09/01/tsa-tries-out-another-illegal-biometric-id-verification-system/"
     },
     {
       "rank": "2.",
-      "title": "Most favorited Hacker News posts of all time",
-      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
+      "title": "18.S097: Programming with Categories",
+      "link": "http://brendanfong.com/programmingcats.html"
     },
     {
       "rank": "3.",
@@ -17,28 +17,28 @@
     },
     {
       "rank": "4.",
+      "title": "Most favorited Hacker News posts of all time",
+      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
+    },
+    {
+      "rank": "5.",
+      "title": "Russia opposition leader poisoned with Novichok",
+      "link": "https://www.bbc.com/news/world-europe-54002880"
+    },
+    {
+      "rank": "6.",
       "title": "Accidental Cameras (2014)",
       "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
     },
     {
-      "rank": "5.",
+      "rank": "7.",
       "title": "A Supercomputer Analyzed Covid-19 and an Interesting New Theory Has Emerged",
       "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
     },
     {
-      "rank": "6.",
-      "title": "Lesser-known Web APIs",
-      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
-    },
-    {
-      "rank": "7.",
-      "title": "Possible detection of a black hole with a mass thought to be impossible",
-      "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
-    },
-    {
       "rank": "8.",
-      "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
-      "link": "https://www.bbc.com/news/technology-53998205"
+      "title": "Craigstarter: DIY Replacement for Kickstarter",
+      "link": "https://github.com/cmod/craigstarter"
     },
     {
       "rank": "9.",
@@ -47,108 +47,108 @@
     },
     {
       "rank": "10.",
-      "title": "AWS Tagging Best Practices: Using Terraform and CloudFormation to Enforce Tags",
-      "link": "https://cloudforecast.io/blog/aws-tagging-best-practices-guide-part-2/"
+      "title": "Lesser-known Web APIs",
+      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
     },
     {
       "rank": "11.",
-      "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
-      "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
+      "title": "Possible detection of a black hole with a mass thought to be impossible",
+      "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
     },
     {
       "rank": "12.",
-      "title": "How big is a neutron star?",
-      "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
+      "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
+      "link": "https://www.bbc.com/news/technology-53998205"
     },
     {
       "rank": "13.",
-      "title": "Unix Wars",
-      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
-    },
-    {
-      "rank": "14.",
-      "title": "Patreon Raises $90M Series E at $1.2B Valuation",
-      "link": "https://blog.patreon.com/patreon-series-e-announcement"
-    },
-    {
-      "rank": "15.",
-      "title": "Craigstarter: DIY Replacement for Kickstarter",
-      "link": "https://github.com/cmod/craigstarter"
-    },
-    {
-      "rank": "16.",
-      "title": "To design and develop an interactive globe",
-      "link": "https://stripe.com/blog/globe"
-    },
-    {
-      "rank": "17.",
-      "title": "Hints and Principles for Computer System Design [pdf]",
-      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
-    },
-    {
-      "rank": "18.",
-      "title": "Kubernetes: Make your services faster by removing CPU limits",
-      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
-    },
-    {
-      "rank": "19.",
-      "title": "Solar Foods closes Series A financing for it's first commercial factory",
-      "link": "https://solarfoods.fi/our-news/solar-foods-closes-series-a-financing-for-its-first-commercial-factory/"
-    },
-    {
-      "rank": "20.",
       "title": "Using Clojure in Command Line with Babashka",
       "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
     },
     {
-      "rank": "21.",
+      "rank": "14.",
+      "title": "Solar Foods closes Series A financing for its first commercial factory",
+      "link": "https://solarfoods.fi/our-news/solar-foods-closes-series-a-financing-for-its-first-commercial-factory/"
+    },
+    {
+      "rank": "15.",
+      "title": "AWS Tagging Best Practices: Using Terraform and CloudFormation to Enforce Tags",
+      "link": "https://cloudforecast.io/blog/aws-tagging-best-practices-guide-part-2/"
+    },
+    {
+      "rank": "16.",
+      "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
+      "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
+    },
+    {
+      "rank": "17.",
+      "title": "How big is a neutron star?",
+      "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
+    },
+    {
+      "rank": "18.",
       "title": "On Modern Hardware the Min-Max Heap Beats a Binary Heap",
       "link": "https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/"
     },
     {
+      "rank": "19.",
+      "title": "Unix Wars",
+      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
+    },
+    {
+      "rank": "20.",
+      "title": "Patreon Raises $90M Series E at $1.2B Valuation",
+      "link": "https://blog.patreon.com/patreon-series-e-announcement"
+    },
+    {
+      "rank": "21.",
+      "title": "To design and develop an interactive globe",
+      "link": "https://stripe.com/blog/globe"
+    },
+    {
       "rank": "22.",
-      "title": "Russia opposition leader poisoned with Novichok",
-      "link": "https://www.bbc.com/news/world-europe-54002880"
+      "title": "Hints and Principles for Computer System Design [pdf]",
+      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
     },
     {
       "rank": "23.",
+      "title": "Kubernetes: Make your services faster by removing CPU limits",
+      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
+    },
+    {
+      "rank": "24.",
       "title": "Lo-Fi Player",
       "link": "https://magenta.tensorflow.org/lofi-player"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Teens' anxiety levels dropped during pandemic, study finds",
       "link": "https://www.bbc.com/news/uk-53884401"
     },
     {
-      "rank": "25.",
-      "title": "A round-up of topology-based papers at ICML 2020",
-      "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
-    },
-    {
       "rank": "26.",
-      "title": "Fast Supernovae Detection Using Neural Networks",
-      "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
-    },
-    {
-      "rank": "27.",
       "title": "Burning the Books: A History of Knowledge Under Attack",
       "link": "https://literaryreview.co.uk/bonfires-of-reason"
     },
     {
+      "rank": "27.",
+      "title": "A round-up of topology-based papers at ICML 2020",
+      "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
+    },
+    {
       "rank": "28.",
-      "title": "Nyxt Browser 2.0.0 Pre-release",
-      "link": "item?id=24353927"
+      "title": "Fast Supernovae Detection Using Neural Networks",
+      "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
     },
     {
       "rank": "29.",
-      "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping proceeds",
-      "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
+      "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
+      "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
     },
     {
       "rank": "30.",
-      "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
-      "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
+      "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping proceeds",
+      "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
     }
   ],
   "metadata": {
