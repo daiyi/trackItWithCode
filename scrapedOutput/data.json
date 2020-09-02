@@ -22,23 +22,23 @@
     },
     {
       "rank": "5.",
-      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
-      "link": "https://lunar.fyi"
-    },
-    {
-      "rank": "6.",
       "title": "Bottlerocket, an open source Linux distribution built to run containers",
       "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
     },
     {
+      "rank": "6.",
+      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
+      "link": "https://lunar.fyi"
+    },
+    {
       "rank": "7.",
-      "title": "Amazon drivers are hanging smartphones in trees to get more work",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
+      "title": "Lo-Fi Player",
+      "link": "https://magenta.tensorflow.org/lofi-player"
     },
     {
       "rank": "8.",
-      "title": "Lo-Fi Player",
-      "link": "https://magenta.tensorflow.org/lofi-player"
+      "title": "Amazon drivers are hanging smartphones in trees to get more work",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     },
     {
       "rank": "9.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "NeoAxis Game Engine 2020.5 Released – .NET Core, VSCode, Improved Built-In GUI",
-      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
+      "title": "Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
       "rank": "20.",
-      "title": "Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+      "title": "NeoAxis Game Engine 2020.5 Released – .NET Core, VSCode, Improved Built-In GUI",
+      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
     },
     {
       "rank": "21.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "Pasukon – The easy JavaScript parser generator",
-      "link": "https://pasukon.rocks/"
+      "title": "Divorce rates in America soar 34% during Covid; surge not unexpected",
+      "link": "https://roselawgroupreporter.com/2020/08/divorce-rates-in-america-soar-34-during-covid/"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "A Saudi prince's attempt to silence critics on Twitter",
-      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
-    },
-    {
-      "rank": "29.",
       "title": "Platforms' current attempts to regulate misinformation amplify opinion power",
       "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
     },
     {
+      "rank": "29.",
+      "title": "A Saudi prince's attempt to silence critics on Twitter",
+      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
+    },
+    {
       "rank": "30.",
-      "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
-      "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
+      "title": "Pasukon – The easy JavaScript parser generator",
+      "link": "https://pasukon.rocks/"
     }
   ],
   "metadata": {
