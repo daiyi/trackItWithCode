@@ -17,23 +17,23 @@
     },
     {
       "rank": "4.",
+      "title": "Git-Based Wiki",
+      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
+    },
+    {
+      "rank": "5.",
       "title": "To design and develop an interactive globe",
       "link": "https://stripe.com/blog/globe"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Kubernetes: Make your services faster by removing CPU limits",
       "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "A round-up of topology-based papers at ICML 2020",
       "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
-    },
-    {
-      "rank": "7.",
-      "title": "Git-Based Wiki",
-      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
     },
     {
       "rank": "8.",
@@ -67,7 +67,7 @@
     },
     {
       "rank": "14.",
-      "title": "Code that lasts for decades",
+      "title": "Tips for stable and portable software",
       "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
     },
     {
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "Show HN: asroute - view unique networks traversed by traceroute",
-      "link": "https://github.com/stevenpack/asroute"
+      "title": "Transit Costs Project",
+      "link": "https://transitcosts.com/about/"
     },
     {
       "rank": "17.",
-      "title": "Transit Costs Project",
-      "link": "https://transitcosts.com/about/"
+      "title": "Show HN: asroute - view unique networks traversed by traceroute",
+      "link": "https://github.com/stevenpack/asroute"
     },
     {
       "rank": "18.",
@@ -97,18 +97,18 @@
     },
     {
       "rank": "20.",
+      "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping the profit",
+      "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
+    },
+    {
+      "rank": "21.",
       "title": "Bottlerocket, an open source Linux distribution built to run containers",
       "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Lunar – macOS utility to set brightness and volume on external monitors",
       "link": "https://lunar.fyi"
-    },
-    {
-      "rank": "22.",
-      "title": "SQRL: Secure Quick Reliable Login",
-      "link": "https://www.grc.com/sqrl/sqrl.htm"
     },
     {
       "rank": "23.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
-      "title": "Pasukon – The easy JavaScript parser generator",
-      "link": "https://pasukon.rocks/"
+      "title": "SQRL: Secure Quick Reliable Login",
+      "link": "https://www.grc.com/sqrl/sqrl.htm"
     },
     {
       "rank": "25.",
-      "title": "Ice Sheet Melting Is in Line with Our Worst-Case Scenario, Scientists Warn",
-      "link": "https://www.sciencealert.com/ice-sheet-melting-is-perfectly-in-line-with-our-worst-case-scenario-scientists-warn"
+      "title": "JITSploitation I: A JIT Bug",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
     },
     {
       "rank": "26.",
-      "title": "JITSploitation I: A JIT Bug",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
+      "title": "Pasukon – The easy JavaScript parser generator",
+      "link": "https://pasukon.rocks/"
     },
     {
       "rank": "27.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
-      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
+      "title": "Ice Sheet Melting Is in Line with Our Worst-Case Scenario, Scientists Warn",
+      "link": "https://www.sciencealert.com/ice-sheet-melting-is-perfectly-in-line-with-our-worst-case-scenario-scientists-warn"
     }
   ],
   "metadata": {
