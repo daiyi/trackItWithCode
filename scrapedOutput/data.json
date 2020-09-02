@@ -22,43 +22,43 @@
     },
     {
       "rank": "5.",
-      "title": "Fast Supernovae Detection Using Neural Networks",
-      "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
+      "title": "Most favorited Hacker News posts of all time",
+      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
       "rank": "6.",
-      "title": "Lo-Fi Player",
-      "link": "https://magenta.tensorflow.org/lofi-player"
-    },
-    {
-      "rank": "7.",
-      "title": "Handcalcs: Automatically render Latex equations from Python math code",
-      "link": "https://github.com/connorferster/handcalcs"
-    },
-    {
-      "rank": "8.",
-      "title": "Patreon Raises $90M Series E at $1.2B Valuation",
-      "link": "https://blog.patreon.com/patreon-series-e-announcement"
-    },
-    {
-      "rank": "9.",
       "title": "Git-Based Wiki",
       "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
     },
     {
+      "rank": "7.",
+      "title": "Fast Supernovae Detection Using Neural Networks",
+      "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
+    },
+    {
+      "rank": "8.",
+      "title": "Kubernetes: Make your services faster by removing CPU limits",
+      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
+    },
+    {
+      "rank": "9.",
+      "title": "Lo-Fi Player",
+      "link": "https://magenta.tensorflow.org/lofi-player"
+    },
+    {
       "rank": "10.",
-      "title": "The secret “anti-languages” you’re not supposed to know",
-      "link": "https://www.bbc.com/future/article/20160211-the-secret-anti-languages-youre-not-supposed-to-know"
+      "title": "Handcalcs: Automatically render Latex equations from Python math code",
+      "link": "https://github.com/connorferster/handcalcs"
     },
     {
       "rank": "11.",
-      "title": "Pakistan blocks 'immoral' Tinder, Grindr and other apps",
-      "link": "https://www.theguardian.com/world/2020/sep/02/pakistan-blocks-immoral-tinder-grinder-and-other-apps"
+      "title": "Patreon Raises $90M Series E at $1.2B Valuation",
+      "link": "https://blog.patreon.com/patreon-series-e-announcement"
     },
     {
       "rank": "12.",
-      "title": "Teens' anxiety levels dropped during pandemic, study finds",
-      "link": "https://www.bbc.com/news/uk-53884401"
+      "title": "Pakistan blocks 'immoral' Tinder, Grindr and other apps",
+      "link": "https://www.theguardian.com/world/2020/sep/02/pakistan-blocks-immoral-tinder-grinder-and-other-apps"
     },
     {
       "rank": "13.",
@@ -67,18 +67,18 @@
     },
     {
       "rank": "14.",
-      "title": "Most favorited Hacker News posts of all time",
-      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
-    },
-    {
-      "rank": "15.",
       "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
       "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Multiple Western Digital 5400RPM drives are actually 7200RPM drives",
       "link": "https://old.reddit.com/r/DataHoarder/comments/ikk0rv/psa_multiple_wd_5400rpm_drives_are_actually/"
+    },
+    {
+      "rank": "16.",
+      "title": "Code that lasts for decades",
+      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Code that lasts for decades",
-      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
+      "title": "Transit Costs Project",
+      "link": "https://transitcosts.com/about/"
     },
     {
       "rank": "19.",
-      "title": "Transit Costs Project",
-      "link": "https://transitcosts.com/about/"
+      "title": "Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
       "rank": "20.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+      "title": "SQRL: Secure Quick Reliable Login",
+      "link": "https://www.grc.com/sqrl/sqrl.htm"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "SQRL: Secure Quick Reliable Login",
-      "link": "https://www.grc.com/sqrl/sqrl.htm"
+      "title": "Teens' anxiety levels dropped during pandemic, study finds",
+      "link": "https://www.bbc.com/news/uk-53884401"
     },
     {
       "rank": "24.",
@@ -122,23 +122,23 @@
     },
     {
       "rank": "25.",
-      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
-      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
-    },
-    {
-      "rank": "26.",
       "title": "Bottlerocket, an open source Linux distribution built to run containers",
       "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
     },
     {
+      "rank": "26.",
+      "title": "Pasukon – The easy JavaScript parser generator",
+      "link": "https://pasukon.rocks/"
+    },
+    {
       "rank": "27.",
-      "title": "JITSploitation I: A JIT Bug",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
+      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
+      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
     },
     {
       "rank": "28.",
-      "title": "Pasukon – The easy JavaScript parser generator",
-      "link": "https://pasukon.rocks/"
+      "title": "JITSploitation I: A JIT Bug",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
     },
     {
       "rank": "29.",
