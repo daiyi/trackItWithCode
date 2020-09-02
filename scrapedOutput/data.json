@@ -12,8 +12,8 @@
     },
     {
       "rank": "3.",
-      "title": "Teens' anxiety levels dropped during pandemic, study finds",
-      "link": "https://www.bbc.com/news/uk-53884401"
+      "title": "To design and develop an interactive globe",
+      "link": "https://stripe.com/blog/globe"
     },
     {
       "rank": "4.",
@@ -27,53 +27,53 @@
     },
     {
       "rank": "6.",
-      "title": "To design and develop an interactive globe",
-      "link": "https://stripe.com/blog/globe"
-    },
-    {
-      "rank": "7.",
       "title": "Lo-Fi Player",
       "link": "https://magenta.tensorflow.org/lofi-player"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Handcalcs: Automatically render Latex equations from Python math code",
       "link": "https://github.com/connorferster/handcalcs"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Patreon Raises $90M Series E at $1.2B Valuation",
       "link": "https://blog.patreon.com/patreon-series-e-announcement"
     },
     {
-      "rank": "10.",
-      "title": "Pakistan blocks 'immoral' Tinder, Grindr and other apps",
-      "link": "https://www.theguardian.com/world/2020/sep/02/pakistan-blocks-immoral-tinder-grinder-and-other-apps"
-    },
-    {
-      "rank": "11.",
-      "title": "What the world can learn from the UK's A-level grading fiasco",
-      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/"
-    },
-    {
-      "rank": "12.",
-      "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
-      "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
-    },
-    {
-      "rank": "13.",
+      "rank": "9.",
       "title": "Git-Based Wiki",
       "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
     },
     {
+      "rank": "10.",
+      "title": "The secret “anti-languages” you’re not supposed to know",
+      "link": "https://www.bbc.com/future/article/20160211-the-secret-anti-languages-youre-not-supposed-to-know"
+    },
+    {
+      "rank": "11.",
+      "title": "Pakistan blocks 'immoral' Tinder, Grindr and other apps",
+      "link": "https://www.theguardian.com/world/2020/sep/02/pakistan-blocks-immoral-tinder-grinder-and-other-apps"
+    },
+    {
+      "rank": "12.",
+      "title": "Teens' anxiety levels dropped during pandemic, study finds",
+      "link": "https://www.bbc.com/news/uk-53884401"
+    },
+    {
+      "rank": "13.",
+      "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
+      "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
+    },
+    {
       "rank": "14.",
-      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
-      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
+      "title": "Most favorited Hacker News posts of all time",
+      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
       "rank": "15.",
-      "title": "The secret “anti-languages” you’re not supposed to know",
-      "link": "https://www.bbc.com/future/article/20160211-the-secret-anti-languages-youre-not-supposed-to-know"
+      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
+      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
       "rank": "16.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "SQRL: Secure Quick Reliable Login",
-      "link": "https://www.grc.com/sqrl/sqrl.htm"
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
       "rank": "23.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+      "title": "SQRL: Secure Quick Reliable Login",
+      "link": "https://www.grc.com/sqrl/sqrl.htm"
     },
     {
       "rank": "24.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Ice Sheet Melting Is in Line with Our Worst-Case Scenario, Scientists Warn",
-      "link": "https://www.sciencealert.com/ice-sheet-melting-is-perfectly-in-line-with-our-worst-case-scenario-scientists-warn"
+      "title": "Amazon drivers are hanging smartphones in trees to get more work",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     },
     {
       "rank": "30.",
-      "title": "Amazon drivers are hanging smartphones in trees to get more work",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
+      "title": "GitHub Container Registry",
+      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
     }
   ],
   "metadata": {
