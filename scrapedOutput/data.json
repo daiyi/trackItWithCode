@@ -17,23 +17,23 @@
     },
     {
       "rank": "4.",
+      "title": "Release of methane gas from the seafloor in the Southern Hemisphere",
+      "link": "https://lnu.se/en/meet-linnaeus-university/current/news/2020/massive-release-of-methane-gas-from-the-seafloor-linked-to-global-warming-discovered-for-the-first-time-in-the-southern-hemisphere/"
+    },
+    {
+      "rank": "5.",
       "title": "Programming with Categories",
       "link": "http://brendanfong.com/programmingcats.html"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Gertrude Elion, a woman who gave the world antiviral drugs",
       "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Most-favorited Hacker News posts",
       "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
-    },
-    {
-      "rank": "7.",
-      "title": "Release of methane gas from the seafloor in the Southern Hemisphere",
-      "link": "https://lnu.se/en/meet-linnaeus-university/current/news/2020/massive-release-of-methane-gas-from-the-seafloor-linked-to-global-warming-discovered-for-the-first-time-in-the-southern-hemisphere/"
     },
     {
       "rank": "8.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
+      "title": "Essential C (2003) [pdf]",
+      "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
+    },
+    {
+      "rank": "11.",
       "title": "The Economics of Skyscraper Height",
       "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Inside the HP Nanoprocessor",
       "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
-    },
-    {
-      "rank": "12.",
-      "title": "Essential C (2003) [pdf]",
-      "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
     },
     {
       "rank": "13.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
-    },
-    {
-      "rank": "16.",
       "title": "Intel Launches 11th Gen Core Tiger Lake",
       "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     },
     {
+      "rank": "16.",
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
+    },
+    {
       "rank": "17.",
-      "title": "Craigstarter: DIY Replacement for Kickstarter",
-      "link": "https://github.com/cmod/craigstarter"
+      "title": "Using Clojure in the command line with Babashka",
+      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
     },
     {
       "rank": "18.",
-      "title": "Using Clojure in the command line with Babashka",
-      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
+      "title": "Craigstarter: DIY Replacement for Kickstarter",
+      "link": "https://github.com/cmod/craigstarter"
     },
     {
       "rank": "19.",
@@ -97,23 +97,23 @@
     },
     {
       "rank": "20.",
-      "title": "XLS: Accelerated HW Synthesis",
-      "link": "https://google.github.io/xls/"
-    },
-    {
-      "rank": "21.",
       "title": "Hints and Principles for Computer System Design [pdf]",
       "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
     },
     {
+      "rank": "21.",
+      "title": "XLS: Accelerated HW Synthesis",
+      "link": "https://google.github.io/xls/"
+    },
+    {
       "rank": "22.",
-      "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
-      "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
+      "title": "Show HN: Lacona – Search and natural language commands for Mac",
+      "link": "https://lacona.app"
     },
     {
       "rank": "23.",
-      "title": "Shared salary spreadsheet reveals Microsoft employee earnings for a second year",
-      "link": "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
+      "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
+      "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
     },
     {
       "rank": "24.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
+      "title": "Shared salary spreadsheet reveals Microsoft employee earnings for a second year",
+      "link": "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
+    },
+    {
+      "rank": "26.",
       "title": "Accidental Pinhole and Pinspeck Cameras (2014)",
       "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "The Odyssey, translated by Alexander Pope (1725)",
       "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
-    },
-    {
-      "rank": "27.",
-      "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
-      "link": "https://www.bbc.com/news/technology-53998205"
     },
     {
       "rank": "28.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "Git-Based Wiki",
-      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
+      "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
+      "link": "https://www.bbc.com/news/technology-53998205"
     },
     {
       "rank": "30.",
