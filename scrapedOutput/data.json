@@ -27,33 +27,33 @@
     },
     {
       "rank": "6.",
+      "title": "Compound (YC S19) is hiring engineers to build financial products",
+      "link": "https://withcompound.com/careers"
+    },
+    {
+      "rank": "7.",
       "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
       "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "How big is a neutron star?",
       "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Unix Wars",
       "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Patreon Raises $90M Series E at $1.2B Valuation",
       "link": "https://blog.patreon.com/patreon-series-e-announcement"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Git-Based Wiki",
       "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
-    },
-    {
-      "rank": "11.",
-      "title": "Smarking (YC W15) is hiring a Tech Lead Back end to scale mobility tech infra",
-      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping proceeds",
-      "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
+      "title": "Kubernetes: Make your services faster by removing CPU limits",
+      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
     },
     {
       "rank": "14.",
@@ -77,33 +77,33 @@
     },
     {
       "rank": "16.",
-      "title": "Fast Supernovae Detection Using Neural Networks",
-      "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
-    },
-    {
-      "rank": "17.",
       "title": "A round-up of topology-based papers at ICML 2020",
       "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
     },
     {
-      "rank": "18.",
-      "title": "Anatomy of a Bubble – Tesla and Bitcoin",
-      "link": "https://endlessmetrics.substack.com/p/anatomy-of-a-bubble-tesla-and-bitcoin"
+      "rank": "17.",
+      "title": "Fast Supernovae Detection Using Neural Networks",
+      "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Russia’s ‘slow-motion Chernobyl’ at sea",
       "link": "https://www.bbc.com/future/article/20200901-the-radioactive-risk-of-sunken-nuclear-soviet-submarines"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
       "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
       "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
+    },
+    {
+      "rank": "21.",
+      "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping proceeds",
+      "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
-      "title": "Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
-    },
-    {
-      "rank": "24.",
       "title": "Show HN: asroute - view unique networks traversed by traceroute",
       "link": "https://github.com/stevenpack/asroute"
     },
     {
+      "rank": "24.",
+      "title": "Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+    },
+    {
       "rank": "25.",
-      "title": "Handcalcs: Automatically render Latex equations from Python math code",
-      "link": "https://github.com/connorferster/handcalcs"
+      "title": "The first battery-free Game Boy wants to power a gaming revolution",
+      "link": "https://www.cnet.com/features/the-first-battery-free-game-boy-wants-to-power-a-gaming-revolution/"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
-      "link": "https://lunar.fyi"
+      "title": "Handcalcs: Automatically render Latex equations from Python math code",
+      "link": "https://github.com/connorferster/handcalcs"
     },
     {
       "rank": "28.",
-      "title": "Kubernetes: Make your services faster by removing CPU limits",
-      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
+      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
+      "link": "https://lunar.fyi"
     },
     {
       "rank": "29.",
