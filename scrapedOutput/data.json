@@ -7,12 +7,12 @@
     },
     {
       "rank": "2.",
-      "title": "18.S097: Programming with Categories",
+      "title": "Programming with Categories",
       "link": "http://brendanfong.com/programmingcats.html"
     },
     {
       "rank": "3.",
-      "title": "Google's XLS: Accelerated HW Synthesis",
+      "title": "XLS: Accelerated HW Synthesis",
       "link": "https://google.github.io/xls/"
     },
     {
@@ -22,78 +22,78 @@
     },
     {
       "rank": "5.",
-      "title": "Russia opposition leader poisoned with Novichok",
-      "link": "https://www.bbc.com/news/world-europe-54002880"
-    },
-    {
-      "rank": "6.",
       "title": "Craigstarter: DIY Replacement for Kickstarter",
       "link": "https://github.com/cmod/craigstarter"
     },
     {
+      "rank": "6.",
+      "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
+      "link": "https://substack.com/jobs"
+    },
+    {
       "rank": "7.",
-      "title": "Accidental Cameras (2014)",
-      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
-    },
-    {
-      "rank": "8.",
-      "title": "A Supercomputer Analyzed Covid-19 and an Interesting New Theory Has Emerged",
-      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
-    },
-    {
-      "rank": "9.",
-      "title": "Lesser-known Web APIs",
-      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
-    },
-    {
-      "rank": "10.",
-      "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
-      "link": "https://www.bbc.com/news/technology-53998205"
-    },
-    {
-      "rank": "11.",
-      "title": "Compound (YC S19) is hiring engineers to fix wealth management",
-      "link": "https://withcompound.com/careers"
-    },
-    {
-      "rank": "12.",
-      "title": "Using Clojure in Command Line with Babashka",
-      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
-    },
-    {
-      "rank": "13.",
-      "title": "On Modern Hardware the Min-Max Heap Beats a Binary Heap",
-      "link": "https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/"
-    },
-    {
-      "rank": "14.",
-      "title": "Possible detection of a black hole with a mass thought to be impossible",
-      "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
-    },
-    {
-      "rank": "15.",
-      "title": "Solar Foods closes Series A financing for its first commercial factory",
-      "link": "https://solarfoods.fi/our-news/solar-foods-closes-series-a-financing-for-its-first-commercial-factory/"
-    },
-    {
-      "rank": "16.",
-      "title": "AWS Tagging Best Practices: Using Terraform and CloudFormation to Enforce Tags",
-      "link": "https://cloudforecast.io/blog/aws-tagging-best-practices-guide-part-2/"
-    },
-    {
-      "rank": "17.",
       "title": "Inside the HP Nanoprocessor",
       "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
+      "rank": "8.",
+      "title": "Using Clojure in Command Line with Babashka",
+      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
+    },
+    {
+      "rank": "9.",
+      "title": "Russia opposition leader poisoned with Novichok",
+      "link": "https://www.bbc.com/news/world-europe-54002880"
+    },
+    {
+      "rank": "10.",
+      "title": "Accidental Cameras (2014)",
+      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
+    },
+    {
+      "rank": "11.",
+      "title": "A supercomputer analyzed Covid-19 and a new theory has emerged",
+      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
+    },
+    {
+      "rank": "12.",
+      "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
+      "link": "https://www.bbc.com/news/technology-53998205"
+    },
+    {
+      "rank": "13.",
+      "title": "Lesser-known Web APIs",
+      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
+    },
+    {
+      "rank": "14.",
+      "title": "On Modern Hardware the Min-Max Heap Beats a Binary Heap",
+      "link": "https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/"
+    },
+    {
+      "rank": "15.",
+      "title": "Possible detection of a black hole with a mass thought to be impossible",
+      "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
+    },
+    {
+      "rank": "16.",
+      "title": "Solar Foods closes Series A financing for its first commercial factory",
+      "link": "https://solarfoods.fi/our-news/solar-foods-closes-series-a-financing-for-its-first-commercial-factory/"
+    },
+    {
+      "rank": "17.",
+      "title": "AWS Tagging Best Practices: Using Terraform and CloudFormation to Enforce Tags",
+      "link": "https://cloudforecast.io/blog/aws-tagging-best-practices-guide-part-2/"
+    },
+    {
       "rank": "18.",
-      "title": "How big is a neutron star?",
-      "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
+      "title": "Burning the Books: A History of Knowledge Under Attack",
+      "link": "https://literaryreview.co.uk/bonfires-of-reason"
     },
     {
       "rank": "19.",
-      "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
-      "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
+      "title": "Two musings on the design of compiler warnings",
+      "link": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/"
     },
     {
       "rank": "20.",
@@ -102,53 +102,53 @@
     },
     {
       "rank": "21.",
-      "title": "Burning the Books: A History of Knowledge Under Attack",
-      "link": "https://literaryreview.co.uk/bonfires-of-reason"
+      "title": "Covid-19 Can Wreck Your Heart, Even If You Haven't Had Any Symptoms",
+      "link": "https://www.scientificamerican.com/article/covid-19-can-wreck-your-heart-even-if-you-havent-had-any-symptoms/"
     },
     {
       "rank": "22.",
+      "title": "How big is a neutron star?",
+      "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
+    },
+    {
+      "rank": "23.",
+      "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
+      "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
+    },
+    {
+      "rank": "24.",
       "title": "To design and develop an interactive globe",
       "link": "https://stripe.com/blog/globe"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Hints and Principles for Computer System Design [pdf]",
       "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
     },
     {
-      "rank": "24.",
-      "title": "Two musings on the design of compiler warnings",
-      "link": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/"
+      "rank": "26.",
+      "title": "Show HN: DNS-based alternative to the web for structured data",
+      "link": "https://www.num.uk/blog/announcing-num"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Kubernetes: Make your services faster by removing CPU limits",
       "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Teens' anxiety levels dropped during pandemic, study finds",
       "link": "https://www.bbc.com/news/uk-53884401"
     },
     {
-      "rank": "27.",
-      "title": "Lo-Fi Player",
-      "link": "https://magenta.tensorflow.org/lofi-player"
-    },
-    {
-      "rank": "28.",
+      "rank": "29.",
       "title": "A round-up of topology-based papers at ICML 2020",
       "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
       "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
-    },
-    {
-      "rank": "30.",
-      "title": "Fast Supernovae Detection Using Neural Networks",
-      "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
     }
   ],
   "metadata": {
