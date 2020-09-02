@@ -22,18 +22,18 @@
     },
     {
       "rank": "5.",
+      "title": "Inside the HP Nanoprocessor",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+    },
+    {
+      "rank": "6.",
       "title": "Craigstarter: DIY Replacement for Kickstarter",
       "link": "https://github.com/cmod/craigstarter"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
       "link": "https://substack.com/jobs"
-    },
-    {
-      "rank": "7.",
-      "title": "Inside the HP Nanoprocessor",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
       "rank": "8.",
@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "A supercomputer analyzed Covid-19 and a new theory has emerged",
-      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
-    },
-    {
-      "rank": "12.",
       "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
       "link": "https://www.bbc.com/news/technology-53998205"
     },
     {
-      "rank": "13.",
-      "title": "Lesser-known Web APIs",
-      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
-    },
-    {
-      "rank": "14.",
+      "rank": "12.",
       "title": "On Modern Hardware the Min-Max Heap Beats a Binary Heap",
       "link": "https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/"
     },
     {
+      "rank": "13.",
+      "title": "A supercomputer analyzed Covid-19 and a new theory has emerged",
+      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
+    },
+    {
+      "rank": "14.",
+      "title": "Lesser-known Web APIs",
+      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
+    },
+    {
       "rank": "15.",
-      "title": "Possible detection of a black hole with a mass thought to be impossible",
-      "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
+      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
+      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
+      "title": "Possible detection of a black hole with a mass thought to be impossible",
+      "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
+    },
+    {
+      "rank": "18.",
       "title": "AWS Tagging Best Practices: Using Terraform and CloudFormation to Enforce Tags",
       "link": "https://cloudforecast.io/blog/aws-tagging-best-practices-guide-part-2/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Burning the Books: A History of Knowledge Under Attack",
       "link": "https://literaryreview.co.uk/bonfires-of-reason"
-    },
-    {
-      "rank": "19.",
-      "title": "Two musings on the design of compiler warnings",
-      "link": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Covid-19 Can Wreck Your Heart, Even If You Haven't Had Any Symptoms",
-      "link": "https://www.scientificamerican.com/article/covid-19-can-wreck-your-heart-even-if-you-havent-had-any-symptoms/"
+      "title": "How big is a neutron star?",
+      "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
     },
     {
       "rank": "22.",
-      "title": "How big is a neutron star?",
-      "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
+      "title": "Two musings on the design of compiler warnings",
+      "link": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/"
     },
     {
       "rank": "23.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
+      "title": "Thoughts on User Growth and Product",
+      "link": "https://blog.jonlu.ca/posts/thoughts-on-product"
+    },
+    {
+      "rank": "25.",
       "title": "To design and develop an interactive globe",
       "link": "https://stripe.com/blog/globe"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Hints and Principles for Computer System Design [pdf]",
       "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
-    },
-    {
-      "rank": "26.",
-      "title": "Show HN: DNS-based alternative to the web for structured data",
-      "link": "https://www.num.uk/blog/announcing-num"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Show HN: DNS-based alternative to the web for structured data",
+      "link": "https://www.num.uk/blog/announcing-num"
+    },
+    {
+      "rank": "29.",
       "title": "Teens' anxiety levels dropped during pandemic, study finds",
       "link": "https://www.bbc.com/news/uk-53884401"
     },
     {
-      "rank": "29.",
-      "title": "A round-up of topology-based papers at ICML 2020",
-      "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
-    },
-    {
       "rank": "30.",
-      "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
-      "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
+      "title": "A New Way of Modulating Color Emissions from Transparent Films",
+      "link": "https://www.tus.ac.jp/en/mediarelations/archive/20200902_4455.html"
     }
   ],
   "metadata": {
