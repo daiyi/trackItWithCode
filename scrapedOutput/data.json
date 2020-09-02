@@ -22,23 +22,23 @@
     },
     {
       "rank": "5.",
-      "title": "Patreon Raises $90M Series E at $1.2B Valuation",
-      "link": "https://blog.patreon.com/patreon-series-e-announcement"
-    },
-    {
-      "rank": "6.",
       "title": "Lo-Fi Player",
       "link": "https://magenta.tensorflow.org/lofi-player"
     },
     {
+      "rank": "6.",
+      "title": "Patreon Raises $90M Series E at $1.2B Valuation",
+      "link": "https://blog.patreon.com/patreon-series-e-announcement"
+    },
+    {
       "rank": "7.",
-      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
-      "link": "https://lunar.fyi"
+      "title": "Handcalcs: Automatically render Latex equations from Python math code",
+      "link": "https://github.com/connorferster/handcalcs"
     },
     {
       "rank": "8.",
-      "title": "Handcalcs: Automatically render Latex equations from Python math code",
-      "link": "https://github.com/connorferster/handcalcs"
+      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
+      "link": "https://lunar.fyi"
     },
     {
       "rank": "9.",
@@ -57,23 +57,23 @@
     },
     {
       "rank": "12.",
-      "title": "The Race to Save 'Contact Languages'",
-      "link": "https://www.bbc.com/future/article/20200901-the-fragile-state-of-contact-languages"
-    },
-    {
-      "rank": "13.",
       "title": "CERN at Home: Building a Particle Detector",
       "link": "https://clanhouse.com/cern-at-home-building-a-particle-detector"
     },
     {
+      "rank": "13.",
+      "title": "The Race to Save 'Contact Languages'",
+      "link": "https://www.bbc.com/future/article/20200901-the-fragile-state-of-contact-languages"
+    },
+    {
       "rank": "14.",
-      "title": "Transit Costs Project",
-      "link": "https://transitcosts.com/about/"
+      "title": "Code that lasts for decades",
+      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
     },
     {
       "rank": "15.",
-      "title": "Code that lasts for decades",
-      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
+      "title": "Transit Costs Project",
+      "link": "https://transitcosts.com/about/"
     },
     {
       "rank": "16.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Show HN: asroute - view unique networks traversed by traceroute",
-      "link": "https://github.com/stevenpack/asroute"
+      "title": "Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
       "rank": "19.",
-      "title": "Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+      "title": "Show HN: asroute - view unique networks traversed by traceroute",
+      "link": "https://github.com/stevenpack/asroute"
     },
     {
       "rank": "20.",
@@ -112,23 +112,23 @@
     },
     {
       "rank": "23.",
-      "title": "NeoAxis Game Engine 2020.5",
-      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
       "rank": "24.",
-      "title": "JITSploitation I: A JIT Bug",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
-    },
-    {
-      "rank": "25.",
       "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
       "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
     },
     {
+      "rank": "25.",
+      "title": "JITSploitation I: A JIT Bug",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
+    },
+    {
       "rank": "26.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+      "title": "NeoAxis Game Engine 2020.5",
+      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
     },
     {
       "rank": "27.",
