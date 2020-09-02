@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
-      "title": "Anatomy of a Bubble – Tesla and Bitcoin",
-      "link": "https://endlessmetrics.substack.com/p/anatomy-of-a-bubble-tesla-and-bitcoin"
-    },
-    {
-      "rank": "4.",
       "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
       "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Possible detection of a black hole with a mass thought to be impossible (2019)",
       "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "How big is a neutron star?",
       "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
+    },
+    {
+      "rank": "6.",
+      "title": "“The Odyssey” – Homer (late 8th century B.C)",
+      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
     },
     {
       "rank": "7.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "To design and develop an interactive globe",
-      "link": "https://stripe.com/blog/globe"
+      "title": "Patreon Raises $90M Series E at $1.2B Valuation",
+      "link": "https://blog.patreon.com/patreon-series-e-announcement"
     },
     {
       "rank": "11.",
-      "title": "A round-up of topology-based papers at ICML 2020",
-      "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
+      "title": "To design and develop an interactive globe",
+      "link": "https://stripe.com/blog/globe"
     },
     {
       "rank": "12.",
@@ -62,28 +62,28 @@
     },
     {
       "rank": "13.",
-      "title": "Fast Supernovae Detection Using Neural Networks",
-      "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
-    },
-    {
-      "rank": "14.",
       "title": "Lo-Fi Player",
       "link": "https://magenta.tensorflow.org/lofi-player"
     },
     {
+      "rank": "14.",
+      "title": "Fast Supernovae Detection Using Neural Networks",
+      "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
+    },
+    {
       "rank": "15.",
+      "title": "A round-up of topology-based papers at ICML 2020",
+      "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
+    },
+    {
+      "rank": "16.",
       "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping proceeds",
       "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
     },
     {
-      "rank": "16.",
-      "title": "“The Odyssey” – Homer (late 8th century B.C)",
-      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
-    },
-    {
       "rank": "17.",
-      "title": "Patreon Raises $90M Series E at $1.2B Valuation",
-      "link": "https://blog.patreon.com/patreon-series-e-announcement"
+      "title": "Teens' anxiety levels dropped during pandemic, study finds",
+      "link": "https://www.bbc.com/news/uk-53884401"
     },
     {
       "rank": "18.",
@@ -92,18 +92,18 @@
     },
     {
       "rank": "19.",
+      "title": "Anatomy of a Bubble – Tesla and Bitcoin",
+      "link": "https://endlessmetrics.substack.com/p/anatomy-of-a-bubble-tesla-and-bitcoin"
+    },
+    {
+      "rank": "20.",
       "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
       "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Multiple Western Digital 5400RPM drives are actually 7200RPM drives",
       "link": "https://old.reddit.com/r/DataHoarder/comments/ikk0rv/psa_multiple_wd_5400rpm_drives_are_actually/"
-    },
-    {
-      "rank": "21.",
-      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
-      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "Sea level rise from ice sheets track worst-case climate change scenario",
-      "link": "https://www.sciencedaily.com/releases/2020/08/200831112101.htm"
+      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
+      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
       "rank": "24.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+    },
+    {
+      "rank": "29.",
       "title": "Handcalcs: Automatically render Latex equations from Python math code",
       "link": "https://github.com/connorferster/handcalcs"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Lunar – macOS utility to set brightness and volume on external monitors",
       "link": "https://lunar.fyi"
-    },
-    {
-      "rank": "30.",
-      "title": "Bottlerocket, an open source Linux distribution built to run containers",
-      "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
     }
   ],
   "metadata": {
