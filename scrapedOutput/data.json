@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "A round-up of topology-based papers at ICML 2020",
-      "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
+      "title": "Lesser-known Web APIs you may want to use",
+      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
     },
     {
       "rank": "2.",
-      "title": "Lesser-known Web APIs you may want to use",
-      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
+      "title": "A round-up of topology-based papers at ICML 2020",
+      "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
     },
     {
       "rank": "3.",
@@ -42,78 +42,78 @@
     },
     {
       "rank": "9.",
+      "title": "Teens' anxiety levels dropped during pandemic, study finds",
+      "link": "https://www.bbc.com/news/uk-53884401"
+    },
+    {
+      "rank": "10.",
       "title": "Bottlerocket, an open source Linux distribution built to run containers",
       "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
+      "title": "What the world can learn from the UK's A-level grading fiasco",
+      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/"
+    },
+    {
+      "rank": "12.",
+      "title": "Fast Supernovae Detection Using Neural Networks",
+      "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
+    },
+    {
+      "rank": "13.",
       "title": "GitHub Container Registry",
       "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
     },
     {
-      "rank": "11.",
+      "rank": "14.",
       "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
       "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
-      "rank": "12.",
+      "rank": "15.",
       "title": "CERN at Home: Building a Particle Detector",
       "link": "https://clanhouse.com/cern-at-home-building-a-particle-detector"
     },
     {
-      "rank": "13.",
-      "title": "The Race to Save 'Contact Languages'",
-      "link": "https://www.bbc.com/future/article/20200901-the-fragile-state-of-contact-languages"
-    },
-    {
-      "rank": "14.",
-      "title": "Code that lasts for decades",
-      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
-    },
-    {
-      "rank": "15.",
-      "title": "Transit Costs Project",
-      "link": "https://transitcosts.com/about/"
-    },
-    {
       "rank": "16.",
-      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
-      "link": "https://www.bbc.com/news/business-53979625"
-    },
-    {
-      "rank": "17.",
-      "title": "Mozilla research: Browsing histories are unique enough to identify users",
-      "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
-    },
-    {
-      "rank": "18.",
-      "title": "Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
-    },
-    {
-      "rank": "19.",
       "title": "Show HN: asroute - view unique networks traversed by traceroute",
       "link": "https://github.com/stevenpack/asroute"
     },
     {
+      "rank": "17.",
+      "title": "Bella Thorne, OnlyFans and the battle over monetising content",
+      "link": "https://www.bbc.com/news/business-53979625"
+    },
+    {
+      "rank": "18.",
+      "title": "Transit Costs Project",
+      "link": "https://transitcosts.com/about/"
+    },
+    {
+      "rank": "19.",
+      "title": "Code that lasts for decades",
+      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
+    },
+    {
       "rank": "20.",
+      "title": "Mozilla research: Browsing histories are unique enough to identify users",
+      "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
+    },
+    {
+      "rank": "21.",
+      "title": "Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+    },
+    {
+      "rank": "22.",
       "title": "The Sony “Star Eater” (2017)",
       "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "Pasukon – The easy JavaScript parser generator",
       "link": "https://pasukon.rocks/"
-    },
-    {
-      "rank": "22.",
-      "title": "Mind Emulation Foundation",
-      "link": "https://mindemulation.org/"
-    },
-    {
-      "rank": "23.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "Mind Emulation Foundation",
+      "link": "https://mindemulation.org/"
+    },
+    {
+      "rank": "26.",
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+    },
+    {
+      "rank": "27.",
       "title": "JITSploitation I: A JIT Bug",
       "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
     },
     {
-      "rank": "26.",
-      "title": "NeoAxis Game Engine 2020.5",
-      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
-    },
-    {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Amazon drivers are hanging smartphones in trees to get more work",
       "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     },
     {
-      "rank": "28.",
-      "title": "Blast from Past: Smashing the Stack for Fun and Profit (1996)",
-      "link": "http://www.phrack.org/issues/49/14.html#article"
-    },
-    {
       "rank": "29.",
-      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
-      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
+      "title": "NeoAxis Game Engine 2020.5",
+      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
     },
     {
       "rank": "30.",
-      "title": "Ask HN: Who is hiring? (September 2020)",
-      "link": "item?id=24342498"
+      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
+      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
     }
   ],
   "metadata": {
