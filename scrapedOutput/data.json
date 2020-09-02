@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Inside the HP Nanoprocessor",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+      "title": "Intel Launches 11th Gen Core Tiger Lake: Up to 4.8 GHz at 50 W, 2x GPU with Xe",
+      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     },
     {
       "rank": "3.",
-      "title": "Intel Launches 11th Gen Core Tiger Lake: Up to 4.8 GHz at 50 W, 2x GPU with Xe",
-      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
+      "title": "Inside the HP Nanoprocessor",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
       "rank": "4.",
@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "TSA tries out another biometric system",
-      "link": "https://papersplease.org/wp/2020/09/01/tsa-tries-out-another-illegal-biometric-id-verification-system/"
+      "title": "Craigstarter: DIY Replacement for Kickstarter",
+      "link": "https://github.com/cmod/craigstarter"
     },
     {
       "rank": "7.",
-      "title": "Craigstarter: DIY Replacement for Kickstarter",
-      "link": "https://github.com/cmod/craigstarter"
+      "title": "TSA tries out another biometric system",
+      "link": "https://papersplease.org/wp/2020/09/01/tsa-tries-out-another-illegal-biometric-id-verification-system/"
     },
     {
       "rank": "8.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "Russia opposition leader poisoned with Novichok",
-      "link": "https://www.bbc.com/news/world-europe-54002880"
+      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
+      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
     },
     {
       "rank": "12.",
@@ -62,93 +62,93 @@
     },
     {
       "rank": "13.",
-      "title": "Accidental Cameras (2014)",
-      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
-    },
-    {
-      "rank": "14.",
-      "title": "The Odyssey",
-      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
-    },
-    {
-      "rank": "15.",
-      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
-      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
-    },
-    {
-      "rank": "16.",
-      "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
-      "link": "https://www.bbc.com/news/technology-53998205"
-    },
-    {
-      "rank": "17.",
-      "title": "Lesser-known Web APIs",
-      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
-    },
-    {
-      "rank": "18.",
-      "title": "Solar Foods closes Series A financing for its first commercial factory",
-      "link": "https://solarfoods.fi/our-news/solar-foods-closes-series-a-financing-for-its-first-commercial-factory/"
-    },
-    {
-      "rank": "19.",
       "title": "In Defense of a Switch",
       "link": "https://pkolaczk.github.io/in-defense-of-switch/"
     },
     {
+      "rank": "14.",
+      "title": "Accidental Cameras (2014)",
+      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
+    },
+    {
+      "rank": "15.",
+      "title": "The Odyssey",
+      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
+    },
+    {
+      "rank": "16.",
+      "title": "Lesser-known Web APIs",
+      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
+    },
+    {
+      "rank": "17.",
+      "title": "Essential C (2003) [pdf]",
+      "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
+    },
+    {
+      "rank": "18.",
+      "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
+      "link": "https://www.bbc.com/news/technology-53998205"
+    },
+    {
+      "rank": "19.",
+      "title": "Solar Foods closes Series A financing for its first commercial factory",
+      "link": "https://solarfoods.fi/our-news/solar-foods-closes-series-a-financing-for-its-first-commercial-factory/"
+    },
+    {
       "rank": "20.",
-      "title": "Show HN: DNS-based alternative to the web for structured data",
-      "link": "https://www.num.uk/blog/announcing-num"
+      "title": "Half of Americans fear a health-related bankruptcy",
+      "link": "https://www.axios.com/health-bankruptcy-fears-poll-ce3c4905-53c6-4f43-ba4f-fde22f4ef849.html"
     },
     {
       "rank": "21.",
-      "title": "Git-Based Wiki",
-      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
-    },
-    {
-      "rank": "22.",
-      "title": "Possible detection of a black hole with a mass thought to be impossible",
-      "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
-    },
-    {
-      "rank": "23.",
-      "title": "What the world can learn from the UK's A-level grading fiasco",
-      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/"
-    },
-    {
-      "rank": "24.",
-      "title": "Burning the Books: A History of Knowledge Under Attack",
-      "link": "https://literaryreview.co.uk/bonfires-of-reason"
-    },
-    {
-      "rank": "25.",
-      "title": "AWS Tagging Best Practices: Using Terraform and CloudFormation to Enforce Tags",
-      "link": "https://cloudforecast.io/blog/aws-tagging-best-practices-guide-part-2/"
-    },
-    {
-      "rank": "26.",
-      "title": "Unix Wars",
-      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
-    },
-    {
-      "rank": "27.",
-      "title": "Two musings on the design of compiler warnings",
-      "link": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/"
-    },
-    {
-      "rank": "28.",
-      "title": "How big is a neutron star?",
-      "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
-    },
-    {
-      "rank": "29.",
       "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
       "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
     },
     {
+      "rank": "22.",
+      "title": "Git-Based Wiki",
+      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
+    },
+    {
+      "rank": "23.",
+      "title": "Show HN: DNS-based alternative to the web for structured data",
+      "link": "https://www.num.uk/blog/announcing-num"
+    },
+    {
+      "rank": "24.",
+      "title": "Possible detection of a black hole with a mass thought to be impossible",
+      "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
+    },
+    {
+      "rank": "25.",
+      "title": "What the world can learn from the UK's A-level grading fiasco",
+      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/"
+    },
+    {
+      "rank": "26.",
+      "title": "AWS Tagging Best Practices: Using Terraform and CloudFormation to Enforce Tags",
+      "link": "https://cloudforecast.io/blog/aws-tagging-best-practices-guide-part-2/"
+    },
+    {
+      "rank": "27.",
+      "title": "Burning the Books: A History of Knowledge Under Attack",
+      "link": "https://literaryreview.co.uk/bonfires-of-reason"
+    },
+    {
+      "rank": "28.",
+      "title": "Unix Wars",
+      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
+    },
+    {
+      "rank": "29.",
+      "title": "How big is a neutron star?",
+      "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
+    },
+    {
       "rank": "30.",
-      "title": "The Race to Save 'Contact Languages'",
-      "link": "https://www.bbc.com/future/article/20200901-the-fragile-state-of-contact-languages"
+      "title": "Two musings on the design of compiler warnings",
+      "link": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/"
     }
   ],
   "metadata": {
