@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Inside the HP Nanoprocessor",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+      "title": "Intel Launches 11th Gen Core Tiger Lake: Up to 4.8 GHz at 50 W, 2x GPU with Xe",
+      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     },
     {
       "rank": "6.",
-      "title": "Craigstarter: DIY Replacement for Kickstarter",
-      "link": "https://github.com/cmod/craigstarter"
+      "title": "Inside the HP Nanoprocessor",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
       "rank": "7.",
@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
+      "title": "Craigstarter: DIY Replacement for Kickstarter",
+      "link": "https://github.com/cmod/craigstarter"
+    },
+    {
+      "rank": "9.",
       "title": "Russia opposition leader poisoned with Novichok",
       "link": "https://www.bbc.com/news/world-europe-54002880"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Using Clojure in Command Line with Babashka",
       "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "On Modern Hardware the Min-Max Heap Beats a Binary Heap",
       "link": "https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Accidental Cameras (2014)",
       "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
-    },
-    {
-      "rank": "12.",
-      "title": "A supercomputer analyzed Covid-19 and a new theory has emerged",
-      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
     },
     {
       "rank": "13.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
-      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
+      "title": "A supercomputer analyzed Covid-19 and a new theory has emerged",
+      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
     },
     {
       "rank": "15.",
@@ -77,28 +77,28 @@
     },
     {
       "rank": "16.",
+      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
+      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
+    },
+    {
+      "rank": "17.",
       "title": "Solar Foods closes Series A financing for its first commercial factory",
       "link": "https://solarfoods.fi/our-news/solar-foods-closes-series-a-financing-for-its-first-commercial-factory/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Possible detection of a black hole with a mass thought to be impossible",
       "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "AWS Tagging Best Practices: Using Terraform and CloudFormation to Enforce Tags",
       "link": "https://cloudforecast.io/blog/aws-tagging-best-practices-guide-part-2/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Show HN: DNS-based alternative to the web for structured data",
       "link": "https://www.num.uk/blog/announcing-num"
-    },
-    {
-      "rank": "20.",
-      "title": "Thoughts on User Growth and Product",
-      "link": "https://blog.jonlu.ca/posts/thoughts-on-product"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "Two musings on the design of compiler warnings",
-      "link": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/"
-    },
-    {
-      "rank": "23.",
       "title": "Unix Wars",
       "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
     },
     {
+      "rank": "23.",
+      "title": "Thoughts on User Growth and Product",
+      "link": "https://blog.jonlu.ca/posts/thoughts-on-product"
+    },
+    {
       "rank": "24.",
+      "title": "Two musings on the design of compiler warnings",
+      "link": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/"
+    },
+    {
+      "rank": "25.",
       "title": "How big is a neutron star?",
       "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
       "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Hints and Principles for Computer System Design [pdf]",
       "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "To design and develop an interactive globe",
       "link": "https://stripe.com/blog/globe"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Kubernetes: Make your services faster by removing CPU limits",
       "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Teens' anxiety levels dropped during pandemic, study finds",
       "link": "https://www.bbc.com/news/uk-53884401"
-    },
-    {
-      "rank": "30.",
-      "title": "A round-up of topology-based papers at ICML 2020",
-      "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
     }
   ],
   "metadata": {
