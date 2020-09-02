@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "San Francisco Troubles – 19,000 Highly Paid City Employees Earned $150k",
-      "link": "https://www.forbes.com/sites/adamandrzejewski/2020/09/01/why-san-francisco-is-in-trouble--19000-highly-compensated-city-employees-earned-150000-in-pay--perks/#59287f283769"
+      "title": "The Race to Save 'Contact Languages'",
+      "link": "https://www.bbc.com/future/article/20200901-the-fragile-state-of-contact-languages"
     },
     {
       "rank": "12.",
@@ -67,48 +67,48 @@
     },
     {
       "rank": "14.",
-      "title": "The Race to Save 'Contact Languages'",
-      "link": "https://www.bbc.com/future/article/20200901-the-fragile-state-of-contact-languages"
-    },
-    {
-      "rank": "15.",
       "title": "CERN at Home: Building a Particle Detector",
       "link": "https://clanhouse.com/cern-at-home-building-a-particle-detector"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Mozilla research: Browsing histories are unique enough to identify users",
       "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Ask HN: Who wants to be hired? (September 2020)",
       "link": "item?id=24342496"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Bella Thorne, OnlyFans and the battle over monetising content",
       "link": "https://www.bbc.com/news/business-53979625"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "NeoAxis Game Engine 2020.5 Released – .NET Core, VSCode, Improved Built-In GUI",
       "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
       "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Best Practices for Testing in Java (2019)",
       "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+    },
+    {
+      "rank": "22.",
+      "title": "Walmart Plus takes on Amazon Prime",
+      "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
     },
     {
       "rank": "23.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "Walmart Plus takes on Amazon Prime",
-      "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
+      "title": "The Sony “Star Eater” (2017)",
+      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
     },
     {
       "rank": "26.",
-      "title": "The Sony “Star Eater” (2017)",
-      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
+      "title": "A Saudi prince's attempt to silence critics on Twitter",
+      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "A Saudi prince's attempt to silence critics on Twitter",
-      "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
-    },
-    {
-      "rank": "29.",
       "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
       "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Show HN: asroute - view unique networks traversed by traceroute",
       "link": "https://github.com/stevenpack/asroute"
+    },
+    {
+      "rank": "30.",
+      "title": "Pentagon: China Now Has World’s Largest Navy",
+      "link": "https://news.usni.org/2020/09/01/pentagon-report-china-now-has-worlds-largest-navy-as-beijing-expands-military-influence"
     }
   ],
   "metadata": {
