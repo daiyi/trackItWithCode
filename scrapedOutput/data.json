@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Inside the HP Nanoprocessor",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+      "title": "Most-favorited Hacker News posts",
+      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
       "rank": "3.",
-      "title": "Most-favorited Hacker News posts",
-      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
+      "title": "Inside the HP Nanoprocessor",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
       "rank": "4.",
@@ -22,133 +22,133 @@
     },
     {
       "rank": "5.",
-      "title": "XLS: Accelerated HW Synthesis",
-      "link": "https://google.github.io/xls/"
-    },
-    {
-      "rank": "6.",
-      "title": "Craigstarter: DIY Replacement for Kickstarter",
-      "link": "https://github.com/cmod/craigstarter"
-    },
-    {
-      "rank": "7.",
-      "title": "Intel Launches 11th Gen Core Tiger Lake",
-      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
-    },
-    {
-      "rank": "8.",
       "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
       "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
     },
     {
-      "rank": "9.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
+      "rank": "6.",
+      "title": "XLS: Accelerated HW Synthesis",
+      "link": "https://google.github.io/xls/"
     },
     {
-      "rank": "10.",
-      "title": "TSA tries out another biometric system",
-      "link": "https://papersplease.org/wp/2020/09/01/tsa-tries-out-another-illegal-biometric-id-verification-system/"
+      "rank": "7.",
+      "title": "Craigstarter: DIY Replacement for Kickstarter",
+      "link": "https://github.com/cmod/craigstarter"
     },
     {
-      "rank": "11.",
+      "rank": "8.",
       "title": "On modern hardware the min-max heap beats a binary heap",
       "link": "https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/"
     },
     {
-      "rank": "12.",
+      "rank": "9.",
       "title": "Using Clojure in the command line with Babashka",
       "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
     },
     {
+      "rank": "10.",
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
+    },
+    {
+      "rank": "11.",
+      "title": "TSA tries out another biometric system",
+      "link": "https://papersplease.org/wp/2020/09/01/tsa-tries-out-another-illegal-biometric-id-verification-system/"
+    },
+    {
+      "rank": "12.",
+      "title": "Intel Launches 11th Gen Core Tiger Lake",
+      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
+    },
+    {
       "rank": "13.",
-      "title": "Supercomputer analysis of Covid-19 leads to new theory",
-      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
+      "title": "Hints and Principles for Computer System Design [pdf]",
+      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
     },
     {
       "rank": "14.",
-      "title": "In Defense of a Switch",
-      "link": "https://pkolaczk.github.io/in-defense-of-switch/"
+      "title": "Leaked salary spreadsheet reveals Microsoft employee earnings for a second year",
+      "link": "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
     },
     {
       "rank": "15.",
-      "title": "Accidental Pinhole and Pinspeck Cameras (2014)",
-      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
-    },
-    {
-      "rank": "16.",
-      "title": "Lesser-known Web APIs",
-      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
-    },
-    {
-      "rank": "17.",
-      "title": "The Odyssey, translated by Alexander Pope",
-      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
-    },
-    {
-      "rank": "18.",
-      "title": "Solar Foods closes Series A financing for its first commercial factory",
-      "link": "https://solarfoods.fi/our-news/solar-foods-closes-series-a-financing-for-its-first-commercial-factory/"
-    },
-    {
-      "rank": "19.",
       "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
       "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
     },
     {
+      "rank": "16.",
+      "title": "Supercomputer analysis of Covid-19 leads to new theory",
+      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
+    },
+    {
+      "rank": "17.",
+      "title": "Lesser-known Web APIs",
+      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
+    },
+    {
+      "rank": "18.",
+      "title": "Accidental Pinhole and Pinspeck Cameras (2014)",
+      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
+    },
+    {
+      "rank": "19.",
+      "title": "The Odyssey, translated by Alexander Pope",
+      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
+    },
+    {
       "rank": "20.",
+      "title": "In Defense of a Switch",
+      "link": "https://pkolaczk.github.io/in-defense-of-switch/"
+    },
+    {
+      "rank": "21.",
+      "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
+      "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
+    },
+    {
+      "rank": "22.",
+      "title": "Solar Foods closes Series A financing for its first commercial factory",
+      "link": "https://solarfoods.fi/our-news/solar-foods-closes-series-a-financing-for-its-first-commercial-factory/"
+    },
+    {
+      "rank": "23.",
       "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
       "link": "https://www.bbc.com/news/technology-53998205"
     },
     {
-      "rank": "21.",
+      "rank": "24.",
       "title": "Two musings on the design of compiler warnings",
       "link": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/"
     },
     {
-      "rank": "22.",
-      "title": "Half of Americans fear a health-related bankruptcy",
-      "link": "https://www.axios.com/health-bankruptcy-fears-poll-ce3c4905-53c6-4f43-ba4f-fde22f4ef849.html"
+      "rank": "25.",
+      "title": "Ask HN: What is your favorite method of sending large files?",
+      "link": "item?id=24351111"
     },
     {
-      "rank": "23.",
+      "rank": "26.",
       "title": "Git-Based Wiki",
       "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
     },
     {
-      "rank": "24.",
+      "rank": "27.",
+      "title": "Kubernetes: Make your services faster by removing CPU limits",
+      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
+    },
+    {
+      "rank": "28.",
       "title": "Possible detection of a black hole with a mass thought to be impossible",
       "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
     },
     {
-      "rank": "25.",
-      "title": "Show HN: DNS-based alternative to the web for structured data",
-      "link": "https://www.num.uk/blog/announcing-num"
-    },
-    {
-      "rank": "26.",
-      "title": "AWS Tagging Best Practices: Using Terraform and CloudFormation to Enforce Tags",
-      "link": "https://cloudforecast.io/blog/aws-tagging-best-practices-guide-part-2/"
-    },
-    {
-      "rank": "27.",
+      "rank": "29.",
       "title": "Teens' anxiety levels dropped during pandemic, study finds",
       "link": "https://www.bbc.com/news/uk-53884401"
     },
     {
-      "rank": "28.",
-      "title": "What the world can learn from the UK's A-level grading fiasco",
-      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/"
-    },
-    {
-      "rank": "29.",
-      "title": "Unix Wars (2000)",
-      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
-    },
-    {
       "rank": "30.",
-      "title": "Burning the Books: A history of knowledge under attack",
-      "link": "https://literaryreview.co.uk/bonfires-of-reason"
+      "title": "AWS Tagging Best Practices: Using Terraform and CloudFormation to Enforce Tags",
+      "link": "https://cloudforecast.io/blog/aws-tagging-best-practices-guide-part-2/"
     }
   ],
   "metadata": {
