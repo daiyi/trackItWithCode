@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
-      "title": "Lesser-known Web APIs",
-      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
-    },
-    {
-      "rank": "3.",
       "title": "Most favorited Hacker News posts of all time",
       "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
+      "rank": "3.",
+      "title": "Lesser-known Web APIs",
+      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
+    },
+    {
       "rank": "4.",
-      "title": "Git-Based Wiki",
-      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
+      "title": "A Black Hole So Big It ‘Should Not Exist’",
+      "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
     },
     {
       "rank": "5.",
@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
+      "title": "Git-Based Wiki",
+      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
+    },
+    {
+      "rank": "9.",
       "title": "Unix Wars",
       "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Kubernetes: Make your services faster by removing CPU limits",
       "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "To design and develop an interactive globe",
       "link": "https://stripe.com/blog/globe"
-    },
-    {
-      "rank": "11.",
-      "title": "A Black Hole So Big It ‘Should Not Exist’",
-      "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
     },
     {
       "rank": "12.",
@@ -92,18 +92,18 @@
     },
     {
       "rank": "19.",
+      "title": "Russia’s ‘slow-motion Chernobyl’ at sea",
+      "link": "https://www.bbc.com/future/article/20200901-the-radioactive-risk-of-sunken-nuclear-soviet-submarines"
+    },
+    {
+      "rank": "20.",
       "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
       "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Tips for stable and portable software",
       "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
-    },
-    {
-      "rank": "21.",
-      "title": "Russia’s ‘slow-motion Chernobyl’ at sea",
-      "link": "https://www.bbc.com/future/article/20200901-the-radioactive-risk-of-sunken-nuclear-soviet-submarines"
     },
     {
       "rank": "22.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Pasukon – The easy JavaScript parser generator",
-      "link": "https://pasukon.rocks/"
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
       "rank": "30.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+      "title": "Pasukon – The easy JavaScript parser generator",
+      "link": "https://pasukon.rocks/"
     }
   ],
   "metadata": {
