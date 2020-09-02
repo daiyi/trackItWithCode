@@ -17,28 +17,28 @@
     },
     {
       "rank": "4.",
-      "title": "“The Odyssey” – Homer (late 8th century B.C)",
-      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
-    },
-    {
-      "rank": "5.",
       "title": "Possible detection of a black hole with a mass thought to be impossible",
       "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
     },
     {
+      "rank": "5.",
+      "title": "“The Odyssey” – Homer (late 8th century B.C)",
+      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
+    },
+    {
       "rank": "6.",
-      "title": "Compound (YC S19) is hiring engineers to build financial products",
-      "link": "https://withcompound.com/careers"
+      "title": "How big is a neutron star?",
+      "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
     },
     {
       "rank": "7.",
-      "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
-      "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
+      "title": "Compound (YC S19) is hiring engineers to fix wealth management",
+      "link": "https://withcompound.com/careers"
     },
     {
       "rank": "8.",
-      "title": "How big is a neutron star?",
-      "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
+      "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
+      "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
     },
     {
       "rank": "9.",
@@ -62,43 +62,43 @@
     },
     {
       "rank": "13.",
+      "title": "Hints and Principles for Computer System Design – Butler Lampson (2020) [pdf]",
+      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
+    },
+    {
+      "rank": "14.",
       "title": "Kubernetes: Make your services faster by removing CPU limits",
       "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Lo-Fi Player",
       "link": "https://magenta.tensorflow.org/lofi-player"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Teens' anxiety levels dropped during pandemic, study finds",
       "link": "https://www.bbc.com/news/uk-53884401"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "A round-up of topology-based papers at ICML 2020",
       "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Fast Supernovae Detection Using Neural Networks",
       "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Russia’s ‘slow-motion Chernobyl’ at sea",
       "link": "https://www.bbc.com/future/article/20200901-the-radioactive-risk-of-sunken-nuclear-soviet-submarines"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
       "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
-    },
-    {
-      "rank": "20.",
-      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
-      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
       "rank": "21.",
@@ -107,28 +107,28 @@
     },
     {
       "rank": "22.",
+      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
+      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
+    },
+    {
+      "rank": "23.",
       "title": "Multiple Western Digital 5400RPM drives are actually 7200RPM drives",
       "link": "https://old.reddit.com/r/DataHoarder/comments/ikk0rv/psa_multiple_wd_5400rpm_drives_are_actually/"
     },
     {
-      "rank": "23.",
-      "title": "Show HN: asroute - view unique networks traversed by traceroute",
-      "link": "https://github.com/stevenpack/asroute"
-    },
-    {
       "rank": "24.",
-      "title": "Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
-    },
-    {
-      "rank": "25.",
       "title": "The first battery-free Game Boy wants to power a gaming revolution",
       "link": "https://www.cnet.com/features/the-first-battery-free-game-boy-wants-to-power-a-gaming-revolution/"
     },
     {
+      "rank": "25.",
+      "title": "Show HN: asroute - view unique networks traversed by traceroute",
+      "link": "https://github.com/stevenpack/asroute"
+    },
+    {
       "rank": "26.",
-      "title": "Tips for stable and portable software",
-      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
+      "title": "Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
       "rank": "27.",
