@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
+      "title": "Lo-Fi Player",
+      "link": "https://magenta.tensorflow.org/lofi-player"
+    },
+    {
+      "rank": "12.",
       "title": "Transit Costs Project",
       "link": "https://transitcosts.com/about/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "CERN at Home: Building a Particle Detector",
       "link": "https://clanhouse.com/cern-at-home-building-a-particle-detector"
-    },
-    {
-      "rank": "13.",
-      "title": "Lo-Fi Player",
-      "link": "https://magenta.tensorflow.org/lofi-player"
     },
     {
       "rank": "14.",
@@ -92,28 +92,28 @@
     },
     {
       "rank": "19.",
-      "title": "Why Privacy Matters",
-      "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
-    },
-    {
-      "rank": "20.",
       "title": "Bella Thorne, OnlyFans and the battle over monetising content",
       "link": "https://www.bbc.com/news/business-53979625"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
+      "rank": "21.",
+      "title": "Why Privacy Matters",
+      "link": "https://thistooshallgrow.com/blog/privacy-security-roundup"
+    },
+    {
       "rank": "22.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+      "title": "The Sony “Star Eater” (2017)",
+      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
     },
     {
       "rank": "23.",
-      "title": "The Sony “Star Eater” (2017)",
-      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
       "rank": "24.",
