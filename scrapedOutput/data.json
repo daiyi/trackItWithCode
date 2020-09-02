@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Programming with Categories",
-      "link": "http://brendanfong.com/programmingcats.html"
+      "title": "How I built a Keyboard/Video/Mouse switch for my two 4K monitors for $30",
+      "link": "https://haim.dev/posts/2020-07-28-dual-monitor-kvm/"
     },
     {
       "rank": "3.",
-      "title": "Leaked salary spreadsheet reveals Microsoft employee earnings for a second year",
-      "link": "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
+      "title": "Programming with Categories",
+      "link": "http://brendanfong.com/programmingcats.html"
     },
     {
       "rank": "4.",
@@ -22,18 +22,18 @@
     },
     {
       "rank": "5.",
+      "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
+      "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
+    },
+    {
+      "rank": "6.",
       "title": "Essential C (2003) [pdf]",
       "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Inside the HP Nanoprocessor",
       "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
-    },
-    {
-      "rank": "7.",
-      "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
-      "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
     },
     {
       "rank": "8.",
@@ -42,28 +42,28 @@
     },
     {
       "rank": "9.",
-      "title": "Intel Launches 11th Gen Core Tiger Lake",
-      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
+      "title": "Leaked salary spreadsheet reveals Microsoft employee earnings for a second year",
+      "link": "https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309"
     },
     {
       "rank": "10.",
-      "title": "On modern hardware the min-max heap beats a binary heap",
-      "link": "https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/"
-    },
-    {
-      "rank": "11.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
-    },
-    {
-      "rank": "12.",
       "title": "Ask HN: What is your favorite method of sending large files?",
       "link": "item?id=24351111"
     },
     {
+      "rank": "11.",
+      "title": "Intel Launches 11th Gen Core Tiger Lake",
+      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
+    },
+    {
+      "rank": "12.",
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
+    },
+    {
       "rank": "13.",
-      "title": "Craigstarter: DIY Replacement for Kickstarter",
-      "link": "https://github.com/cmod/craigstarter"
+      "title": "On modern hardware the min-max heap beats a binary heap",
+      "link": "https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/"
     },
     {
       "rank": "14.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
+      "title": "Craigstarter: DIY Replacement for Kickstarter",
+      "link": "https://github.com/cmod/craigstarter"
+    },
+    {
+      "rank": "16.",
       "title": "XLS: Accelerated HW Synthesis",
       "link": "https://google.github.io/xls/"
     },
     {
-      "rank": "16.",
-      "title": "Using Clojure in the command line with Babashka",
-      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
-    },
-    {
       "rank": "17.",
-      "title": "Hints and Principles for Computer System Design [pdf]",
-      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
+      "title": "The Economics of Skyscraper Height",
+      "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
     },
     {
       "rank": "18.",
-      "title": "TSA tries out another biometric system",
-      "link": "https://papersplease.org/wp/2020/09/01/tsa-tries-out-another-illegal-biometric-id-verification-system/"
+      "title": "Using Clojure in the command line with Babashka",
+      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
     },
     {
       "rank": "19.",
@@ -97,38 +97,38 @@
     },
     {
       "rank": "20.",
+      "title": "Hints and Principles for Computer System Design [pdf]",
+      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
+    },
+    {
+      "rank": "21.",
+      "title": "TSA tries out another biometric system",
+      "link": "https://papersplease.org/wp/2020/09/01/tsa-tries-out-another-illegal-biometric-id-verification-system/"
+    },
+    {
+      "rank": "22.",
       "title": "Supercomputer analysis of Covid-19 leads to new theory",
       "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "Accidental Pinhole and Pinspeck Cameras (2014)",
       "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
       "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
     },
     {
-      "rank": "23.",
-      "title": "The Economics of Skyscraper Height",
-      "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
-    },
-    {
-      "rank": "24.",
+      "rank": "25.",
       "title": "The Odyssey, translated by Alexander Pope (1725)",
       "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
     },
     {
-      "rank": "25.",
-      "title": "Half of Americans fear a health-related bankruptcy",
-      "link": "https://www.axios.com/health-bankruptcy-fears-poll-ce3c4905-53c6-4f43-ba4f-fde22f4ef849.html"
-    },
-    {
       "rank": "26.",
-      "title": "How I built a Keyboard/Video/Mouse switch for my two 4K monitors for $30",
-      "link": "https://haim.dev/posts/2020-07-28-dual-monitor-kvm/"
+      "title": "In Defense of a Switch",
+      "link": "https://pkolaczk.github.io/in-defense-of-switch/"
     },
     {
       "rank": "27.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "In Defense of a Switch",
-      "link": "https://pkolaczk.github.io/in-defense-of-switch/"
+      "title": "Kubernetes: Make your services faster by removing CPU limits",
+      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
     },
     {
       "rank": "30.",
-      "title": "Kubernetes: Make your services faster by removing CPU limits",
-      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
+      "title": "Half of Americans fear a health-related bankruptcy",
+      "link": "https://www.axios.com/health-bankruptcy-fears-poll-ce3c4905-53c6-4f43-ba4f-fde22f4ef849.html"
     }
   ],
   "metadata": {
