@@ -37,58 +37,58 @@
     },
     {
       "rank": "8.",
-      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
-      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
-    },
-    {
-      "rank": "9.",
       "title": "GitHub Container Registry",
       "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
     },
     {
-      "rank": "10.",
-      "title": "The Race to Save 'Contact Languages'",
-      "link": "https://www.bbc.com/future/article/20200901-the-fragile-state-of-contact-languages"
-    },
-    {
-      "rank": "11.",
+      "rank": "9.",
       "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
       "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
-      "rank": "12.",
+      "rank": "10.",
+      "title": "Lesser-known Web APIs you may want to use",
+      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
+    },
+    {
+      "rank": "11.",
       "title": "CERN at Home: Building a Particle Detector",
       "link": "https://clanhouse.com/cern-at-home-building-a-particle-detector"
     },
     {
-      "rank": "13.",
-      "title": "Show HN: asroute - view unique networks traversed by traceroute",
-      "link": "https://github.com/stevenpack/asroute"
+      "rank": "12.",
+      "title": "The Race to Save 'Contact Languages'",
+      "link": "https://www.bbc.com/future/article/20200901-the-fragile-state-of-contact-languages"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Transit Costs Project",
       "link": "https://transitcosts.com/about/"
     },
     {
+      "rank": "14.",
+      "title": "Show HN: asroute - view unique networks traversed by traceroute",
+      "link": "https://github.com/stevenpack/asroute"
+    },
+    {
       "rank": "15.",
+      "title": "To design and develop an interactive globe",
+      "link": "https://stripe.com/blog/globe"
+    },
+    {
+      "rank": "16.",
       "title": "Bella Thorne, OnlyFans and the battle over monetising content",
       "link": "https://www.bbc.com/news/business-53979625"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Mozilla research: Browsing histories are unique enough to identify users",
       "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
-    },
-    {
-      "rank": "18.",
-      "title": "The Sony “Star Eater” (2017)",
-      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Pasukon – The easy JavaScript parser generator",
-      "link": "https://pasukon.rocks/"
+      "title": "The Sony “Star Eater” (2017)",
+      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
     },
     {
       "rank": "21.",
-      "title": "NeoAxis Game Engine 2020.5",
-      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
+      "title": "Pasukon – The easy JavaScript parser generator",
+      "link": "https://pasukon.rocks/"
     },
     {
       "rank": "22.",
@@ -112,38 +112,38 @@
     },
     {
       "rank": "23.",
-      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
-      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
+      "title": "NeoAxis Game Engine 2020.5",
+      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
     },
     {
       "rank": "24.",
-      "title": "Show HN: Alarmism.watch – I made a website that tracks alarmist predictions",
-      "link": "https://alarmism.watch/"
-    },
-    {
-      "rank": "25.",
       "title": "JITSploitation I: A JIT Bug",
       "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
     },
     {
-      "rank": "26.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+      "rank": "25.",
+      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
+      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Amazon drivers are hanging smartphones in trees to get more work",
       "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     },
     {
+      "rank": "27.",
+      "title": "Show HN: Alarmism.watch – I made a website that tracks alarmist predictions",
+      "link": "https://alarmism.watch/"
+    },
+    {
       "rank": "28.",
-      "title": "Ask HN: Who is hiring? (September 2020)",
-      "link": "item?id=24342498"
+      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
+      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
     },
     {
       "rank": "29.",
-      "title": "Show HN: Trivial script to spin up a Debian MIPS|PPC|arm|x86|x64 VM",
-      "link": "https://gist.github.com/cellularmitosis/54d3cc18e1b128b9286d7ceed3c5bdb7"
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
       "rank": "30.",
