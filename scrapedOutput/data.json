@@ -7,43 +7,43 @@
     },
     {
       "rank": "2.",
-      "title": "I Actively Discourage Online Tooling Like Jwt.io and Online JSON Validators",
-      "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
-    },
-    {
-      "rank": "3.",
       "title": "Lesser-known Web APIs",
       "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Anatomy of a Bubble – Tesla and Bitcoin",
       "link": "https://endlessmetrics.substack.com/p/anatomy-of-a-bubble-tesla-and-bitcoin"
     },
     {
+      "rank": "4.",
+      "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
+      "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
+    },
+    {
       "rank": "5.",
-      "title": "A Black Hole So Big It ‘Should Not Exist’",
+      "title": "Possible detection of a black hole with a mass thought to be impossible (2019)",
       "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
     },
     {
       "rank": "6.",
-      "title": "Unix Wars",
-      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
-    },
-    {
-      "rank": "7.",
       "title": "How big is a neutron star?",
       "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
     },
     {
+      "rank": "7.",
+      "title": "Unix Wars",
+      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
+    },
+    {
       "rank": "8.",
-      "title": "Smarking (YC W15) is hiring a Tech Lead Back end to scale mobility tech infra",
-      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
+      "title": "Git-Based Wiki",
+      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
     },
     {
       "rank": "9.",
-      "title": "Git-Based Wiki",
-      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
+      "title": "Smarking (YC W15) is hiring a Tech Lead Back end to scale mobility tech infra",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
     },
     {
       "rank": "10.",
@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
+      "title": "“The Odyssey” – Homer (late 8th century B.C)",
+      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
+    },
+    {
+      "rank": "17.",
       "title": "Patreon Raises $90M Series E at $1.2B Valuation",
       "link": "https://blog.patreon.com/patreon-series-e-announcement"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Russia’s ‘slow-motion Chernobyl’ at sea",
       "link": "https://www.bbc.com/future/article/20200901-the-radioactive-risk-of-sunken-nuclear-soviet-submarines"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
       "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
-    },
-    {
-      "rank": "19.",
-      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
-      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
       "rank": "20.",
@@ -102,53 +102,53 @@
     },
     {
       "rank": "21.",
+      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
+      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
+    },
+    {
+      "rank": "22.",
       "title": "Tips for stable and portable software",
       "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
+      "title": "Sea level rise from ice sheets track worst-case climate change scenario",
+      "link": "https://www.sciencedaily.com/releases/2020/08/200831112101.htm"
+    },
+    {
+      "rank": "24.",
       "title": "Show HN: asroute - view unique networks traversed by traceroute",
       "link": "https://github.com/stevenpack/asroute"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Transit Costs Project",
       "link": "https://transitcosts.com/about/"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Mozilla research: Browsing histories are unique enough to identify users",
       "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Handcalcs: Automatically render Latex equations from Python math code",
       "link": "https://github.com/connorferster/handcalcs"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "Lunar – macOS utility to set brightness and volume on external monitors",
       "link": "https://lunar.fyi"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Bottlerocket, an open source Linux distribution built to run containers",
       "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
-    },
-    {
-      "rank": "29.",
-      "title": "Pasukon – The easy JavaScript parser generator",
-      "link": "https://pasukon.rocks/"
-    },
-    {
-      "rank": "30.",
-      "title": "Amazon drivers are hanging smartphones in trees to get more work",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     }
   ],
   "metadata": {
