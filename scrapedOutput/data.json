@@ -2,33 +2,33 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Lesser-known Web APIs you may want to use",
+      "title": "Lesser-known Web APIs",
       "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
     },
     {
       "rank": "2.",
-      "title": "Teens' anxiety levels dropped during pandemic, study finds",
-      "link": "https://www.bbc.com/news/uk-53884401"
-    },
-    {
-      "rank": "3.",
-      "title": "A round-up of topology-based papers at ICML 2020",
-      "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
-    },
-    {
-      "rank": "4.",
-      "title": "To design and develop an interactive globe",
-      "link": "https://stripe.com/blog/globe"
-    },
-    {
-      "rank": "5.",
       "title": "Unix Wars",
       "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
     },
     {
-      "rank": "6.",
+      "rank": "3.",
+      "title": "Teens' anxiety levels dropped during pandemic, study finds",
+      "link": "https://www.bbc.com/news/uk-53884401"
+    },
+    {
+      "rank": "4.",
+      "title": "A round-up of topology-based papers at ICML 2020",
+      "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
+    },
+    {
+      "rank": "5.",
       "title": "Fast Supernovae Detection Using Neural Networks",
       "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
+    },
+    {
+      "rank": "6.",
+      "title": "To design and develop an interactive globe",
+      "link": "https://stripe.com/blog/globe"
     },
     {
       "rank": "7.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "What the world can learn from the UK's A-level grading fiasco",
-      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/"
+      "title": "Pakistan blocks 'immoral' Tinder, Grindr and other apps",
+      "link": "https://www.theguardian.com/world/2020/sep/02/pakistan-blocks-immoral-tinder-grinder-and-other-apps"
     },
     {
       "rank": "11.",
-      "title": "College student uses GPT-3 to write fake blogs and ends up top of Hacker News",
-      "link": "https://www.theverge.com/2020/8/16/21371049/gpt3-hacker-news-ai-blog"
+      "title": "What the world can learn from the UK's A-level grading fiasco",
+      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2020/08/26/fk-the-algorithm-what-the-world-can-learn-from-the-uks-a-level-grading-fiasco/"
     },
     {
       "rank": "12.",
@@ -62,93 +62,93 @@
     },
     {
       "rank": "13.",
+      "title": "Git-Based Wiki",
+      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
+    },
+    {
+      "rank": "14.",
       "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
       "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
-      "rank": "14.",
-      "title": "Code that lasts for decades",
-      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
-    },
-    {
       "rank": "15.",
-      "title": "Transit Costs Project",
-      "link": "https://transitcosts.com/about/"
+      "title": "The secret “anti-languages” you’re not supposed to know",
+      "link": "https://www.bbc.com/future/article/20160211-the-secret-anti-languages-youre-not-supposed-to-know"
     },
     {
       "rank": "16.",
-      "title": "Show HN: asroute - view unique networks traversed by traceroute",
-      "link": "https://github.com/stevenpack/asroute"
-    },
-    {
-      "rank": "17.",
       "title": "Multiple Western Digital 5400RPM drives are actually 7200RPM drives",
       "link": "https://old.reddit.com/r/DataHoarder/comments/ikk0rv/psa_multiple_wd_5400rpm_drives_are_actually/"
     },
     {
+      "rank": "17.",
+      "title": "Show HN: asroute - view unique networks traversed by traceroute",
+      "link": "https://github.com/stevenpack/asroute"
+    },
+    {
       "rank": "18.",
+      "title": "Code that lasts for decades",
+      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
+    },
+    {
+      "rank": "19.",
+      "title": "Transit Costs Project",
+      "link": "https://transitcosts.com/about/"
+    },
+    {
+      "rank": "20.",
       "title": "Mozilla research: Browsing histories are unique enough to identify users",
       "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
-      "rank": "20.",
-      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
-      "link": "https://lunar.fyi"
-    },
-    {
-      "rank": "21.",
-      "title": "Bottlerocket, an open source Linux distribution built to run containers",
-      "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
-    },
-    {
       "rank": "22.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
-    },
-    {
-      "rank": "23.",
-      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
-      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
-    },
-    {
-      "rank": "24.",
       "title": "SQRL: Secure Quick Reliable Login",
       "link": "https://www.grc.com/sqrl/sqrl.htm"
     },
     {
+      "rank": "23.",
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+    },
+    {
+      "rank": "24.",
+      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
+      "link": "https://lunar.fyi"
+    },
+    {
       "rank": "25.",
+      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
+      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
+    },
+    {
+      "rank": "26.",
+      "title": "Bottlerocket, an open source Linux distribution built to run containers",
+      "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
+    },
+    {
+      "rank": "27.",
       "title": "JITSploitation I: A JIT Bug",
       "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Pasukon – The easy JavaScript parser generator",
       "link": "https://pasukon.rocks/"
     },
     {
-      "rank": "27.",
-      "title": "Amazon drivers are hanging smartphones in trees to get more work",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
-    },
-    {
-      "rank": "28.",
-      "title": "GitHub Container Registry",
-      "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
-    },
-    {
       "rank": "29.",
-      "title": "NeoAxis Game Engine 2020.5",
-      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
+      "title": "Ice Sheet Melting Is in Line with Our Worst-Case Scenario, Scientists Warn",
+      "link": "https://www.sciencealert.com/ice-sheet-melting-is-perfectly-in-line-with-our-worst-case-scenario-scientists-warn"
     },
     {
       "rank": "30.",
-      "title": "Pakistan blocks 'immoral' Tinder, Grindr and other apps",
-      "link": "https://www.theguardian.com/world/2020/sep/02/pakistan-blocks-immoral-tinder-grinder-and-other-apps"
+      "title": "Amazon drivers are hanging smartphones in trees to get more work",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     }
   ],
   "metadata": {
