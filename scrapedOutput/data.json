@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Programming with Categories",
-      "link": "http://brendanfong.com/programmingcats.html"
+      "title": "Intel Launches 11th Gen Core Tiger Lake: Up to 4.8 GHz at 50 W, 2x GPU with Xe",
+      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     },
     {
       "rank": "3.",
-      "title": "Intel Launches 11th Gen Core Tiger Lake: Up to 4.8 GHz at 50 W, 2x GPU with Xe",
-      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
+      "title": "Programming with Categories",
+      "link": "http://brendanfong.com/programmingcats.html"
     },
     {
       "rank": "4.",
@@ -22,7 +22,7 @@
     },
     {
       "rank": "5.",
-      "title": "Most favorited Hacker News posts of all time",
+      "title": "Most-favorited Hacker News posts",
       "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Accidental Cameras (2014)",
-      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
+      "title": "A supercomputer analyzed Covid-19 and a new theory has emerged",
+      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
     },
     {
       "rank": "13.",
-      "title": "A supercomputer analyzed Covid-19 and a new theory has emerged",
-      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
+      "title": "Accidental Cameras (2014)",
+      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
     },
     {
       "rank": "14.",
@@ -92,63 +92,63 @@
     },
     {
       "rank": "19.",
-      "title": "AWS Tagging Best Practices: Using Terraform and CloudFormation to Enforce Tags",
-      "link": "https://cloudforecast.io/blog/aws-tagging-best-practices-guide-part-2/"
-    },
-    {
-      "rank": "20.",
       "title": "Show HN: DNS-based alternative to the web for structured data",
       "link": "https://www.num.uk/blog/announcing-num"
     },
     {
+      "rank": "20.",
+      "title": "AWS Tagging Best Practices: Using Terraform and CloudFormation to Enforce Tags",
+      "link": "https://cloudforecast.io/blog/aws-tagging-best-practices-guide-part-2/"
+    },
+    {
       "rank": "21.",
+      "title": "In Defense of a Switch",
+      "link": "https://pkolaczk.github.io/in-defense-of-switch/"
+    },
+    {
+      "rank": "22.",
       "title": "Burning the Books: A History of Knowledge Under Attack",
       "link": "https://literaryreview.co.uk/bonfires-of-reason"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Two musings on the design of compiler warnings",
       "link": "https://quuxplusone.github.io/blog/2020/09/02/wparentheses/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Unix Wars",
       "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "How big is a neutron star?",
       "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "The Race to Save 'Contact Languages'",
+      "link": "https://www.bbc.com/future/article/20200901-the-fragile-state-of-contact-languages"
+    },
+    {
+      "rank": "27.",
       "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
       "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Hints and Principles for Computer System Design [pdf]",
       "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "To design and develop an interactive globe",
       "link": "https://stripe.com/blog/globe"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Thoughts on User Growth and Product",
       "link": "https://blog.jonlu.ca/posts/thoughts-on-product"
-    },
-    {
-      "rank": "29.",
-      "title": "Kubernetes: Make your services faster by removing CPU limits",
-      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
-    },
-    {
-      "rank": "30.",
-      "title": "Teens' anxiety levels dropped during pandemic, study finds",
-      "link": "https://www.bbc.com/news/uk-53884401"
     }
   ],
   "metadata": {
