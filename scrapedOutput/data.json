@@ -37,43 +37,43 @@
     },
     {
       "rank": "8.",
-      "title": "Using Clojure in Command Line with Babashka",
-      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
-    },
-    {
-      "rank": "9.",
       "title": "Russia opposition leader poisoned with Novichok",
       "link": "https://www.bbc.com/news/world-europe-54002880"
     },
     {
+      "rank": "9.",
+      "title": "Using Clojure in Command Line with Babashka",
+      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
+    },
+    {
       "rank": "10.",
-      "title": "Accidental Cameras (2014)",
-      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
-    },
-    {
-      "rank": "11.",
-      "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
-      "link": "https://www.bbc.com/news/technology-53998205"
-    },
-    {
-      "rank": "12.",
       "title": "On Modern Hardware the Min-Max Heap Beats a Binary Heap",
       "link": "https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/"
     },
     {
-      "rank": "13.",
+      "rank": "11.",
+      "title": "Accidental Cameras (2014)",
+      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
+    },
+    {
+      "rank": "12.",
       "title": "A supercomputer analyzed Covid-19 and a new theory has emerged",
       "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
     },
     {
+      "rank": "13.",
+      "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
+      "link": "https://www.bbc.com/news/technology-53998205"
+    },
+    {
       "rank": "14.",
-      "title": "Lesser-known Web APIs",
-      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
+      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
+      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
     },
     {
       "rank": "15.",
-      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
-      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
+      "title": "Lesser-known Web APIs",
+      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
     },
     {
       "rank": "16.",
@@ -92,18 +92,18 @@
     },
     {
       "rank": "19.",
-      "title": "Burning the Books: A History of Knowledge Under Attack",
-      "link": "https://literaryreview.co.uk/bonfires-of-reason"
+      "title": "Show HN: DNS-based alternative to the web for structured data",
+      "link": "https://www.num.uk/blog/announcing-num"
     },
     {
       "rank": "20.",
-      "title": "Unix Wars",
-      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
+      "title": "Thoughts on User Growth and Product",
+      "link": "https://blog.jonlu.ca/posts/thoughts-on-product"
     },
     {
       "rank": "21.",
-      "title": "How big is a neutron star?",
-      "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
+      "title": "Burning the Books: A History of Knowledge Under Attack",
+      "link": "https://literaryreview.co.uk/bonfires-of-reason"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
-      "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
-      "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
+      "title": "Unix Wars",
+      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
     },
     {
       "rank": "24.",
-      "title": "Thoughts on User Growth and Product",
-      "link": "https://blog.jonlu.ca/posts/thoughts-on-product"
+      "title": "How big is a neutron star?",
+      "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
     },
     {
       "rank": "25.",
-      "title": "To design and develop an interactive globe",
-      "link": "https://stripe.com/blog/globe"
+      "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
+      "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Kubernetes: Make your services faster by removing CPU limits",
-      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
+      "title": "To design and develop an interactive globe",
+      "link": "https://stripe.com/blog/globe"
     },
     {
       "rank": "28.",
-      "title": "Show HN: DNS-based alternative to the web for structured data",
-      "link": "https://www.num.uk/blog/announcing-num"
+      "title": "Kubernetes: Make your services faster by removing CPU limits",
+      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "A New Way of Modulating Color Emissions from Transparent Films",
-      "link": "https://www.tus.ac.jp/en/mediarelations/archive/20200902_4455.html"
+      "title": "A round-up of topology-based papers at ICML 2020",
+      "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
     }
   ],
   "metadata": {
