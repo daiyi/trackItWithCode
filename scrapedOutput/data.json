@@ -77,33 +77,33 @@
     },
     {
       "rank": "16.",
-      "title": "Transit Costs Project",
-      "link": "https://transitcosts.com/about/"
-    },
-    {
-      "rank": "17.",
       "title": "Show HN: asroute - view unique networks traversed by traceroute",
       "link": "https://github.com/stevenpack/asroute"
     },
     {
+      "rank": "17.",
+      "title": "Transit Costs Project",
+      "link": "https://transitcosts.com/about/"
+    },
+    {
       "rank": "18.",
+      "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping proceeds",
+      "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
+    },
+    {
+      "rank": "19.",
       "title": "Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
-      "rank": "19.",
-      "title": "Mozilla research: Browsing histories are unique enough to identify users",
-      "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
-    },
-    {
       "rank": "20.",
-      "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping the profit",
-      "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
       "rank": "21.",
-      "title": "Bottlerocket, an open source Linux distribution built to run containers",
-      "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
+      "title": "Mozilla research: Browsing histories are unique enough to identify users",
+      "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+      "title": "Bottlerocket, an open source Linux distribution built to run containers",
+      "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
     },
     {
       "rank": "24.",
-      "title": "SQRL: Secure Quick Reliable Login",
-      "link": "https://www.grc.com/sqrl/sqrl.htm"
-    },
-    {
-      "rank": "25.",
       "title": "JITSploitation I: A JIT Bug",
       "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Pasukon – The easy JavaScript parser generator",
       "link": "https://pasukon.rocks/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Amazon drivers are hanging smartphones in trees to get more work",
       "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "GitHub Container Registry",
       "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
       "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
     },
     {
+      "rank": "29.",
+      "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
+      "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
+    },
+    {
       "rank": "30.",
-      "title": "Ice Sheet Melting Is in Line with Our Worst-Case Scenario, Scientists Warn",
-      "link": "https://www.sciencealert.com/ice-sheet-melting-is-perfectly-in-line-with-our-worst-case-scenario-scientists-warn"
+      "title": "NeoAxis Game Engine 2020.5",
+      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
     }
   ],
   "metadata": {
