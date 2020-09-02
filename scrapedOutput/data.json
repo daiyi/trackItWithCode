@@ -22,53 +22,53 @@
     },
     {
       "rank": "5.",
-      "title": "To design and develop an interactive globe",
-      "link": "https://stripe.com/blog/globe"
-    },
-    {
-      "rank": "6.",
       "title": "Kubernetes: Make your services faster by removing CPU limits",
       "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
     },
     {
+      "rank": "6.",
+      "title": "Smarking (YC W15) is hiring a Tech Lead Back end to scale mobility tech infra",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
+    },
+    {
       "rank": "7.",
+      "title": "To design and develop an interactive globe",
+      "link": "https://stripe.com/blog/globe"
+    },
+    {
+      "rank": "8.",
+      "title": "How big is a neutron star?",
+      "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
+    },
+    {
+      "rank": "9.",
       "title": "A round-up of topology-based papers at ICML 2020",
       "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
     },
     {
-      "rank": "8.",
+      "rank": "10.",
       "title": "Fast Supernovae Detection Using Neural Networks",
       "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
     },
     {
-      "rank": "9.",
+      "rank": "11.",
       "title": "Lo-Fi Player",
       "link": "https://magenta.tensorflow.org/lofi-player"
     },
     {
-      "rank": "10.",
+      "rank": "12.",
       "title": "Handcalcs: Automatically render Latex equations from Python math code",
       "link": "https://github.com/connorferster/handcalcs"
     },
     {
-      "rank": "11.",
+      "rank": "13.",
       "title": "Patreon Raises $90M Series E at $1.2B Valuation",
       "link": "https://blog.patreon.com/patreon-series-e-announcement"
     },
     {
-      "rank": "12.",
+      "rank": "14.",
       "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
       "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
-    },
-    {
-      "rank": "13.",
-      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
-      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
-    },
-    {
-      "rank": "14.",
-      "title": "Tips for stable and portable software",
-      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
     },
     {
       "rank": "15.",
@@ -77,68 +77,68 @@
     },
     {
       "rank": "16.",
-      "title": "Show HN: asroute - view unique networks traversed by traceroute",
-      "link": "https://github.com/stevenpack/asroute"
+      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
+      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
       "rank": "17.",
-      "title": "Transit Costs Project",
-      "link": "https://transitcosts.com/about/"
-    },
-    {
-      "rank": "18.",
       "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping proceeds",
       "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
     },
     {
+      "rank": "18.",
+      "title": "Tips for stable and portable software",
+      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
+    },
+    {
       "rank": "19.",
+      "title": "Show HN: asroute - view unique networks traversed by traceroute",
+      "link": "https://github.com/stevenpack/asroute"
+    },
+    {
+      "rank": "20.",
+      "title": "Transit Costs Project",
+      "link": "https://transitcosts.com/about/"
+    },
+    {
+      "rank": "21.",
       "title": "Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
-      "rank": "20.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
-    },
-    {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Mozilla research: Browsing histories are unique enough to identify users",
       "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
+      "title": "Best Practices for Testing in Java (2019)",
+      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+    },
+    {
+      "rank": "24.",
       "title": "Lunar – macOS utility to set brightness and volume on external monitors",
       "link": "https://lunar.fyi"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Bottlerocket, an open source Linux distribution built to run containers",
       "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
     },
     {
-      "rank": "24.",
-      "title": "JITSploitation I: A JIT Bug",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
-    },
-    {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Pasukon – The easy JavaScript parser generator",
       "link": "https://pasukon.rocks/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Amazon drivers are hanging smartphones in trees to get more work",
       "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "GitHub Container Registry",
       "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
-    },
-    {
-      "rank": "28.",
-      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
-      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "NeoAxis Game Engine 2020.5",
-      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
+      "title": "Ask HN: Who is hiring? (September 2020)",
+      "link": "item?id=24342498"
     }
   ],
   "metadata": {
