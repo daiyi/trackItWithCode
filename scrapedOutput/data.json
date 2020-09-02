@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Lesser-known Web APIs",
-      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
+      "title": "A Supercomputer Analyzed Covid-19 and an Interesting New Theory Has Emerged",
+      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
     },
     {
       "rank": "5.",
-      "title": "A Supercomputer Analyzed Covid-19 and an Interesting New Theory Has Emerged",
-      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
+      "title": "Lesser-known Web APIs",
+      "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
     },
     {
       "rank": "6.",
@@ -32,23 +32,23 @@
     },
     {
       "rank": "7.",
+      "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
+      "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
+    },
+    {
+      "rank": "8.",
       "title": "Compound (YC S19) is hiring engineers to fix wealth management",
       "link": "https://withcompound.com/careers"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "How big is a neutron star?",
       "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Unix Wars",
       "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
-    },
-    {
-      "rank": "10.",
-      "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
-      "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
     },
     {
       "rank": "11.",
@@ -57,98 +57,98 @@
     },
     {
       "rank": "12.",
-      "title": "Hints and Principles for Computer System Design [pdf]",
-      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
-    },
-    {
-      "rank": "13.",
       "title": "To design and develop an interactive globe",
       "link": "https://stripe.com/blog/globe"
     },
     {
-      "rank": "14.",
-      "title": "Kubernetes: Make your services faster by removing CPU limits",
-      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
-    },
-    {
-      "rank": "15.",
-      "title": "Git-Based Wiki",
-      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
-    },
-    {
-      "rank": "16.",
+      "rank": "13.",
       "title": "AWS Tagging Best Practices: Using Terraform and CloudFormation to Enforce Tags",
       "link": "https://cloudforecast.io/blog/aws-tagging-best-practices-guide-part-2/"
     },
     {
+      "rank": "14.",
+      "title": "Hints and Principles for Computer System Design [pdf]",
+      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
+    },
+    {
+      "rank": "15.",
+      "title": "Kubernetes: Make your services faster by removing CPU limits",
+      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
+    },
+    {
+      "rank": "16.",
+      "title": "Solar Foods closes Series A financing for it's first commercial factory",
+      "link": "https://solarfoods.fi/our-news/solar-foods-closes-series-a-financing-for-its-first-commercial-factory/"
+    },
+    {
       "rank": "17.",
+      "title": "India bans PUBG, Baidu and more than 100 apps linked to China",
+      "link": "https://www.bbc.com/news/technology-53998205"
+    },
+    {
+      "rank": "18.",
+      "title": "Git-Based Wiki",
+      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
+    },
+    {
+      "rank": "19.",
       "title": "Lo-Fi Player",
       "link": "https://magenta.tensorflow.org/lofi-player"
     },
     {
-      "rank": "18.",
+      "rank": "20.",
+      "title": "Burning the Books: A History of Knowledge Under Attack",
+      "link": "https://literaryreview.co.uk/bonfires-of-reason"
+    },
+    {
+      "rank": "21.",
       "title": "Teens' anxiety levels dropped during pandemic, study finds",
       "link": "https://www.bbc.com/news/uk-53884401"
     },
     {
-      "rank": "19.",
+      "rank": "22.",
       "title": "A round-up of topology-based papers at ICML 2020",
       "link": "https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/"
     },
     {
-      "rank": "20.",
+      "rank": "23.",
       "title": "Fast Supernovae Detection Using Neural Networks",
       "link": "https://blog.tensorflow.org/2020/09/fast-supernovae-detection-using-neural-networks.html"
     },
     {
-      "rank": "21.",
-      "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
-      "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
-    },
-    {
-      "rank": "22.",
-      "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping proceeds",
-      "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
-    },
-    {
-      "rank": "23.",
-      "title": "Russia’s ‘slow-motion Chernobyl’ at sea",
-      "link": "https://www.bbc.com/future/article/20200901-the-radioactive-risk-of-sunken-nuclear-soviet-submarines"
-    },
-    {
       "rank": "24.",
-      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
-      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
-    },
-    {
-      "rank": "25.",
-      "title": "“The Odyssey” – Homer (late 8th century B.C)",
-      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
-    },
-    {
-      "rank": "26.",
-      "title": "Multiple Western Digital 5400RPM drives are actually 7200RPM drives",
-      "link": "https://old.reddit.com/r/DataHoarder/comments/ikk0rv/psa_multiple_wd_5400rpm_drives_are_actually/"
-    },
-    {
-      "rank": "27.",
       "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
       "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
     },
     {
+      "rank": "25.",
+      "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping proceeds",
+      "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
+    },
+    {
+      "rank": "26.",
+      "title": "Nvidia Unveils GeForce RTX 30 Series GPUs",
+      "link": "https://blogs.nvidia.com/blog/2020/09/01/nvidia-ceo-geforce-rtx-30-series-gpus/"
+    },
+    {
+      "rank": "27.",
+      "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
+      "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
+    },
+    {
       "rank": "28.",
-      "title": "How to Spot Toxic Software Jobs from Their Descriptions",
-      "link": "https://medium.com/swlh/how-to-spot-toxic-software-jobs-from-their-descriptions-c53cf224417f"
+      "title": "Russia’s ‘slow-motion Chernobyl’ at sea",
+      "link": "https://www.bbc.com/future/article/20200901-the-radioactive-risk-of-sunken-nuclear-soviet-submarines"
     },
     {
       "rank": "29.",
-      "title": "Show HN: asroute - view unique networks traversed by traceroute",
-      "link": "https://github.com/stevenpack/asroute"
+      "title": "The first battery-free Game Boy wants to power a gaming revolution",
+      "link": "https://www.cnet.com/features/the-first-battery-free-game-boy-wants-to-power-a-gaming-revolution/"
     },
     {
       "rank": "30.",
-      "title": "Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+      "title": "Multiple Western Digital 5400RPM drives are actually 7200RPM drives",
+      "link": "https://old.reddit.com/r/DataHoarder/comments/ikk0rv/psa_multiple_wd_5400rpm_drives_are_actually/"
     }
   ],
   "metadata": {
