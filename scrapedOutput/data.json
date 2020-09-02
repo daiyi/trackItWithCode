@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
+      "title": "Lo-Fi Player",
+      "link": "https://magenta.tensorflow.org/lofi-player"
+    },
+    {
+      "rank": "9.",
       "title": "GitHub Container Registry",
       "link": "https://github.blog/2020-09-01-introducing-github-container-registry/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Ask HN: Who is hiring? (September 2020)",
       "link": "item?id=24342498"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Why has college gotten so expensive in the last 30 years? A blank check in 1993",
       "link": "https://medium.com/@andrewghobrial/why-has-college-gotten-so-expensive-in-the-last-30-years-3505af9aded8"
-    },
-    {
-      "rank": "11.",
-      "title": "Lo-Fi Player",
-      "link": "https://magenta.tensorflow.org/lofi-player"
     },
     {
       "rank": "12.",
@@ -82,23 +82,23 @@
     },
     {
       "rank": "17.",
-      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
-      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
-    },
-    {
-      "rank": "18.",
       "title": "Bella Thorne, OnlyFans and the battle over monetising content",
       "link": "https://www.bbc.com/news/business-53979625"
     },
     {
+      "rank": "18.",
+      "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
+      "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
+    },
+    {
       "rank": "19.",
-      "title": "Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+      "title": "NeoAxis Game Engine 2020.5 Released – .NET Core, VSCode, Improved Built-In GUI",
+      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
     },
     {
       "rank": "20.",
-      "title": "Mind Emulation Foundation",
-      "link": "https://mindemulation.org/"
+      "title": "Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "NeoAxis Game Engine 2020.5 Released – .NET Core, VSCode, Improved Built-In GUI",
-      "link": "https://www.neoaxis.com/news/neoaxis_engine_2020_5_released"
+      "title": "Mind Emulation Foundation",
+      "link": "https://mindemulation.org/"
     },
     {
       "rank": "23.",
@@ -127,23 +127,23 @@
     },
     {
       "rank": "26.",
+      "title": "Pasukon – The easy JavaScript parser generator",
+      "link": "https://pasukon.rocks/"
+    },
+    {
+      "rank": "27.",
       "title": "JITSploitation I: A JIT Bug",
       "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "A Saudi prince's attempt to silence critics on Twitter",
       "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Platforms' current attempts to regulate misinformation amplify opinion power",
       "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
-    },
-    {
-      "rank": "29.",
-      "title": "Pasukon – The easy JavaScript parser generator",
-      "link": "https://pasukon.rocks/"
     },
     {
       "rank": "30.",
