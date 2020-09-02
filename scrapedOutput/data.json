@@ -7,68 +7,68 @@
     },
     {
       "rank": "2.",
+      "title": "Accidental Cameras (2014)",
+      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
+    },
+    {
+      "rank": "3.",
       "title": "Lesser-known Web APIs",
       "link": "https://blog.greenroots.info/10-lesser-known-web-apis-you-may-want-to-use-ckejv75cr012y70s158n85yhn"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Why I Actively Discourage Online Tooling like jwt.io and Online JSON Validators",
       "link": "https://www.jvt.me/posts/2020/09/01/against-online-tooling/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "“The Odyssey” – Homer (late 8th century B.C)",
       "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "How big is a neutron star?",
       "link": "https://www.symmetrymagazine.org/article/how-big-is-a-neutron-star"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Possible detection of a black hole with a mass thought to be impossible (2019)",
       "link": "https://www.quantamagazine.org/a-black-hole-so-big-it-should-not-exist-20200902/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Unix Wars",
       "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
     },
     {
-      "rank": "8.",
-      "title": "Git-Based Wiki",
-      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
-    },
-    {
       "rank": "9.",
-      "title": "Smarking (YC W15) is hiring a Tech Lead Back end to scale mobility tech infra",
-      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
-    },
-    {
-      "rank": "10.",
       "title": "Patreon Raises $90M Series E at $1.2B Valuation",
       "link": "https://blog.patreon.com/patreon-series-e-announcement"
     },
     {
+      "rank": "10.",
+      "title": "Smarking (YC W15) is hiring a Tech Lead Back end to scale mobility tech infra",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
+    },
+    {
       "rank": "11.",
+      "title": "Git-Based Wiki",
+      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
+    },
+    {
+      "rank": "12.",
       "title": "To design and develop an interactive globe",
       "link": "https://stripe.com/blog/globe"
     },
     {
-      "rank": "12.",
-      "title": "Kubernetes: Make your services faster by removing CPU limits",
-      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
-    },
-    {
       "rank": "13.",
-      "title": "Accidental Cameras",
-      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
+      "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping proceeds",
+      "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
     },
     {
       "rank": "14.",
-      "title": "Law allows police to seize and sell cars of non-lawbreakers, keeping proceeds",
-      "link": "https://kstp.com/news/controversial-law-allows-police-to-seize-and-sell-cars-of-non-lawbreakers-keeping-the-proceeds-august-24-2020/5838303/"
+      "title": "Kubernetes: Make your services faster by removing CPU limits",
+      "link": "https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/"
     },
     {
       "rank": "15.",
@@ -107,18 +107,18 @@
     },
     {
       "rank": "22.",
-      "title": "Multiple Western Digital 5400RPM drives are actually 7200RPM drives",
-      "link": "https://old.reddit.com/r/DataHoarder/comments/ikk0rv/psa_multiple_wd_5400rpm_drives_are_actually/"
-    },
-    {
-      "rank": "23.",
       "title": "Airline pilots landing at LAX report “a guy in jetpack” flying alongside them",
       "link": "https://www.thedrive.com/the-war-zone/36096/airline-pilots-landing-at-lax-report-a-guy-in-jetpack-flying-alongside-them-on"
     },
     {
+      "rank": "23.",
+      "title": "Multiple Western Digital 5400RPM drives are actually 7200RPM drives",
+      "link": "https://old.reddit.com/r/DataHoarder/comments/ikk0rv/psa_multiple_wd_5400rpm_drives_are_actually/"
+    },
+    {
       "rank": "24.",
-      "title": "Tips for stable and portable software",
-      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
+      "title": "Gerät 32620: the machine that powered numerous number stations",
+      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Transit Costs Project",
-      "link": "https://transitcosts.com/about/"
+      "title": "Handcalcs: Automatically render Latex equations from Python math code",
+      "link": "https://github.com/connorferster/handcalcs"
     },
     {
       "rank": "27.",
-      "title": "Gerät 32620: the machine that powered numerous number stations",
-      "link": "https://blog.ardy.io/2020/8/geraet-32620/"
+      "title": "Lunar – macOS utility to set brightness and volume on external monitors",
+      "link": "https://lunar.fyi"
     },
     {
       "rank": "28.",
-      "title": "Best Practices for Testing in Java (2019)",
-      "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
+      "title": "Bottlerocket, an open source Linux distribution built to run containers",
+      "link": "https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/"
     },
     {
       "rank": "29.",
-      "title": "Mozilla research: Browsing histories are unique enough to identify users",
-      "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
+      "title": "Tips for stable and portable software",
+      "link": "https://begriffs.com/posts/2020-08-31-portable-stable-software.html?hn=3"
     },
     {
       "rank": "30.",
-      "title": "Handcalcs: Automatically render Latex equations from Python math code",
-      "link": "https://github.com/connorferster/handcalcs"
+      "title": "Amazon drivers are hanging smartphones in trees to get more work",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-01/amazon-drivers-are-hanging-smartphones-in-trees-to-get-more-work"
     }
   ],
   "metadata": {
