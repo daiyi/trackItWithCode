@@ -57,43 +57,43 @@
     },
     {
       "rank": "12.",
+      "title": "Lo-Fi Player",
+      "link": "https://magenta.tensorflow.org/lofi-player"
+    },
+    {
+      "rank": "13.",
       "title": "CERN at Home: Building a Particle Detector",
       "link": "https://clanhouse.com/cern-at-home-building-a-particle-detector"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Mozilla research: Browsing histories are unique enough to identify users",
       "link": "https://www.zdnet.com/article/mozilla-research-browsing-histories-are-unique-enough-to-reliably-identify-users/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Lazy Lantern (YC S19) Is Hiring a Senior Data Scientist",
       "link": "https://angel.co/company/lazylantern/jobs/931470-data-scientist"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Police across Canada are using predictive policing algorithms, report finds",
       "link": "https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Ask HN: Who wants to be hired? (September 2020)",
       "link": "item?id=24342496"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Mind Emulation Foundation",
       "link": "https://mindemulation.org/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Gerät 32620: the machine that powered numerous number stations",
       "link": "https://blog.ardy.io/2020/8/geraet-32620/"
-    },
-    {
-      "rank": "19.",
-      "title": "JITSploitation I: A JIT Bug",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "The Sony “Star Eater” (2017)",
-      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
+      "title": "Pasukon – The easy JavaScript parser generator",
+      "link": "https://pasukon.rocks/"
     },
     {
       "rank": "22.",
-      "title": "Pasukon – The easy JavaScript parser generator",
-      "link": "https://pasukon.rocks/"
+      "title": "JITSploitation I: A JIT Bug",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "The Sony “Star Eater” (2017)",
+      "link": "http://www.markshelley.co.uk/Astronomy/SonyA7S/sonystareater.html"
+    },
+    {
+      "rank": "25.",
       "title": "A Saudi prince's attempt to silence critics on Twitter",
       "link": "https://www.wired.com/story/mohammed-bin-salman-twitter-investigation/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Htop 3.0",
       "link": "https://github.com/htop-dev/htop/blob/master/ChangeLog"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Walmart Plus takes on Amazon Prime",
       "link": "https://www.cnet.com/news/walmart-plus-takes-on-amazon-prime-with-98-a-year-membership-fee/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Best Practices for Testing in Java (2019)",
       "link": "https://phauer.com/2019/modern-best-practices-testing-java/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Amazon deletes job listings for analysts to track ‘labor organizing threats’",
       "link": "https://www.vice.com/en_us/article/qj4aqw/amazon-hiring-intelligence-analyst-to-track-labor-organizing-threats"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Platforms' current attempts to regulate misinformation amplify opinion power",
       "link": "https://www.tandfonline.com/doi/full/10.1080/21670811.2020.1773888"
-    },
-    {
-      "rank": "30.",
-      "title": "RxDB – a real-time database on top of PouchDB",
-      "link": "https://github.com/pubkey/rxdb/blob/master/README.md"
     }
   ],
   "metadata": {
