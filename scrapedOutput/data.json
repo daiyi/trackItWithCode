@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "Programming with Categories",
-      "link": "http://brendanfong.com/programmingcats.html"
+      "title": "Ask HN: What is your favorite method of sending large files?",
+      "link": "item?id=24351111"
     },
     {
       "rank": "12.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Ask HN: What is your favorite method of sending large files?",
-      "link": "item?id=24351111"
+      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
+      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
     },
     {
       "rank": "15.",
-      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
-      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
+      "title": "Even in Go, concurrency is still not easy",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
+      "title": "Inside the HP Nanoprocessor",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+    },
+    {
+      "rank": "18.",
       "title": "New research provides solution for the 'Dust Bowl paradox'",
       "link": "https://phys.org/news/2020-09-solution-bowl-paradox.html"
     },
     {
-      "rank": "18.",
-      "title": "Even in Go, concurrency is still not easy",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy"
-    },
-    {
       "rank": "19.",
-      "title": "Inside the HP Nanoprocessor",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+      "title": "GPT-3 pricing for API usage announced to beta users to go in effect from October",
+      "link": "https://www.reddit.com/r/GPT3/comments/ikorgs/oa_api_preliminary_beta_pricing_announced/"
     },
     {
       "rank": "20.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "Creating Holographic User Interfaces",
-      "link": "https://blog.lookingglassfactory.com/learn/creating-holographic-user-interfaces/"
-    },
-    {
-      "rank": "24.",
       "title": "Linux from Scratch 10.0",
       "link": "http://www.linuxfromscratch.org/news.html"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Gertrude Elion's “antiviral odyssey”",
       "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
     },
     {
+      "rank": "25.",
+      "title": "Creating Holographic User Interfaces",
+      "link": "https://blog.lookingglassfactory.com/learn/creating-holographic-user-interfaces/"
+    },
+    {
       "rank": "26.",
-      "title": "GPT-3 pricing for API usage announced to beta users to go in effect from October",
-      "link": "https://www.reddit.com/r/GPT3/comments/ikorgs/oa_api_preliminary_beta_pricing_announced/"
+      "title": "The butcher's shop that lasted 300 years (give or take)",
+      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
     },
     {
       "rank": "27.",
-      "title": "Hints and Principles for Computer System Design [pdf]",
-      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
-    },
-    {
-      "rank": "28.",
       "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
       "link": "https://www.tesorio.com/careers#job-openings"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Intel Launches 11th Gen Core Tiger Lake",
       "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     },
     {
+      "rank": "29.",
+      "title": "Programming with Categories",
+      "link": "http://brendanfong.com/programmingcats.html"
+    },
+    {
       "rank": "30.",
-      "title": "The butcher's shop that lasted 300 years (give or take)",
-      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
+      "title": "In Defense of a Switch",
+      "link": "https://pkolaczk.github.io/in-defense-of-switch/"
     }
   ],
   "metadata": {
