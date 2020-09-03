@@ -57,43 +57,43 @@
     },
     {
       "rank": "12.",
+      "title": "Introduction to Ada Programming",
+      "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
+    },
+    {
+      "rank": "13.",
       "title": "Ask HN: What is your favorite method of sending large files?",
       "link": "item?id=24351111"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
       "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Inside the HP Nanoprocessor",
       "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Gertrude Elion's “antiviral odyssey”",
       "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "The Economics of Skyscraper Height",
       "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
       "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "The Odyssey – Alexander Pope translation (1725)",
       "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
-    },
-    {
-      "rank": "19.",
-      "title": "The butcher's shop that lasted 300 years (give or take)",
-      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
     },
     {
       "rank": "20.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
+      "title": "The butcher's shop that lasted 300 years (give or take)",
+      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
+    },
+    {
+      "rank": "24.",
       "title": "Linux from Scratch 10.0",
       "link": "http://www.linuxfromscratch.org/news.html"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Hints and Principles for Computer System Design [pdf]",
       "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
       "link": "https://www.tesorio.com/careers#job-openings"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Tawk of the Town",
       "link": "https://literaryreview.co.uk/tawk-of-the-town"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Intel Launches 11th Gen Core Tiger Lake",
       "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Using Clojure in the command line with Babashka",
       "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "XLS: Accelerated HW Synthesis",
       "link": "https://google.github.io/xls/"
-    },
-    {
-      "rank": "30.",
-      "title": "Supercomputer analysis of Covid-19 leads to new theory",
-      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
     }
   ],
   "metadata": {
