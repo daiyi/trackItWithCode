@@ -2,17 +2,17 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Apple to delay privacy change threatening Facebook, mobile ad market",
-      "link": "https://mobile.reuters.com/article/idUSKBN25U2JU"
-    },
-    {
-      "rank": "2.",
       "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
       "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
     },
     {
+      "rank": "2.",
+      "title": "Apple to delay privacy change threatening Facebook, mobile ad market",
+      "link": "https://mobile.reuters.com/article/idUSKBN25U2JU"
+    },
+    {
       "rank": "3.",
-      "title": "The new contender to GANs: score matching with Langevin Sampling",
+      "title": "Score matching with Langevin Sampling: a new contender to GANs",
       "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
     },
     {
@@ -27,43 +27,43 @@
     },
     {
       "rank": "6.",
-      "title": "Skia + Rust = a Serverside Canvas for Node",
-      "link": "https://github.com/samizdatco/skia-canvas"
-    },
-    {
-      "rank": "7.",
-      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
-      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
-    },
-    {
-      "rank": "8.",
       "title": "Optimizely to be acquired by Episerver",
       "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
     },
     {
-      "rank": "9.",
+      "rank": "7.",
+      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
+      "link": "https://github.com/samizdatco/skia-canvas"
+    },
+    {
+      "rank": "8.",
       "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
       "link": "item?id=24364811"
     },
     {
-      "rank": "10.",
-      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
-      "link": "https://jatan.space/exploring-moon-mountains/"
+      "rank": "9.",
+      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
+      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Nothing can now be believed which is seen in a newspaper (1807)",
       "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
     },
     {
+      "rank": "11.",
+      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
+      "link": "https://jatan.space/exploring-moon-mountains/"
+    },
+    {
       "rank": "12.",
-      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
-      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
+      "title": "Show HN: A proactive way of securing your Linux server",
+      "link": "https://github.com/prashantgupta24/firewalld-rest"
     },
     {
       "rank": "13.",
-      "title": "Show HN: A proactive way of securing your Linux server",
-      "link": "https://github.com/prashantgupta24/firewalld-rest"
+      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
+      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
     },
     {
       "rank": "14.",
@@ -77,18 +77,18 @@
     },
     {
       "rank": "16.",
+      "title": "Coping with Cats",
+      "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
+    },
+    {
+      "rank": "17.",
       "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
       "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Using Vim for C++ Development",
       "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
-    },
-    {
-      "rank": "18.",
-      "title": "Planning the 2021 Roadmap",
-      "link": "https://blog.rust-lang.org/2020/09/03/Planning-2021-Roadmap.html"
     },
     {
       "rank": "19.",
@@ -107,43 +107,43 @@
     },
     {
       "rank": "22.",
-      "title": "Coping with Cats",
-      "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
-    },
-    {
-      "rank": "23.",
-      "title": "Home Office Projects Series: Air conditioner setup",
-      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
-    },
-    {
-      "rank": "24.",
       "title": "EMule 0.60a",
       "link": "https://forum.emule-project.net/index.php?showtopic=165281"
     },
     {
-      "rank": "25.",
+      "rank": "23.",
       "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
       "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
     },
     {
-      "rank": "26.",
+      "rank": "24.",
+      "title": "Home Office Projects Series: Air conditioner setup",
+      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
+    },
+    {
+      "rank": "25.",
       "title": "React is becoming a black box",
       "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Heuristics to Generate Startup Ideas (2019)",
       "link": "https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Show HN: Automated Health Dashboard",
       "link": "https://github.com/TwinProduction/gatus"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "The Unix `Who` Command",
       "link": "https://gauthier.uk/blog/who/"
+    },
+    {
+      "rank": "29.",
+      "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
+      "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
     },
     {
       "rank": "30.",
