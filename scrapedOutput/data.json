@@ -57,38 +57,38 @@
     },
     {
       "rank": "12.",
-      "title": "Even in Go, concurrency is still not easy",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy"
-    },
-    {
-      "rank": "13.",
       "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
       "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Ask HN: What is your favorite method of sending large files?",
       "link": "item?id=24351111"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Essential C (2003) [pdf]",
       "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "GPT-3 pricing for API usage announced to beta users to go in effect from October",
       "link": "https://www.reddit.com/r/GPT3/comments/ikorgs/oa_api_preliminary_beta_pricing_announced/"
     },
     {
+      "rank": "16.",
+      "title": "Bodybuilding supplement promotes healthy aging and extends life span (in mice)",
+      "link": "https://www.sciencemag.org/news/2020/09/bodybuilding-supplement-promotes-healthy-aging-and-extends-life-span-least-mice"
+    },
+    {
       "rank": "17.",
-      "title": "Words Preserved Against a Day of Fear: Remembering Joseph Brodsky",
-      "link": "https://theamericanscholar.org/words-preserved-against-a-day-of-fear/#.X08fni-z1QJ"
+      "title": "The Economics of Skyscraper Height",
+      "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
     },
     {
       "rank": "18.",
-      "title": "The Economics of Skyscraper Height",
-      "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
+      "title": "Words Preserved Against a Day of Fear: Remembering Joseph Brodsky",
+      "link": "https://theamericanscholar.org/words-preserved-against-a-day-of-fear/#.X08fni-z1QJ"
     },
     {
       "rank": "19.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Bodybuilding supplement promotes healthy aging and extends life span (in mice)",
-      "link": "https://www.sciencemag.org/news/2020/09/bodybuilding-supplement-promotes-healthy-aging-and-extends-life-span-least-mice"
+      "title": "Unix Wars (2000)",
+      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
     },
     {
       "rank": "22.",
-      "title": "Unix Wars (2000)",
-      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
+      "title": "Linux from Scratch 10.0",
+      "link": "http://www.linuxfromscratch.org/news.html"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "Linux from Scratch 10.0",
-      "link": "http://www.linuxfromscratch.org/news.html"
+      "title": "The butcher's shop that lasted 300 years (give or take)",
+      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
     },
     {
       "rank": "25.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "The butcher's shop that lasted 300 years (give or take)",
-      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
+      "title": "Intel Launches 11th Gen Core Tiger Lake",
+      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     },
     {
       "rank": "28.",
-      "title": "Intel Launches 11th Gen Core Tiger Lake",
-      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
+      "title": "Even in Go, concurrency is still not easy",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
+      "title": "Creating Holographic User Interfaces",
+      "link": "https://blog.lookingglassfactory.com/learn/creating-holographic-user-interfaces/"
     }
   ],
   "metadata": {
