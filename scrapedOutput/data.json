@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "The joys of owning an ‘OG’ email account",
-      "link": "https://krebsonsecurity.com/2020/09/the-joys-of-owning-an-og-email-account/"
+      "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
+      "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
     },
     {
       "rank": "6.",
-      "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
-      "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
+      "title": "The joys of owning an ‘OG’ email account",
+      "link": "https://krebsonsecurity.com/2020/09/the-joys-of-owning-an-og-email-account/"
     },
     {
       "rank": "7.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Most-favorited Hacker News posts",
-      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
+      "title": "Hermann Hauser: ‘It’s in Nvidia’s Interests to Destroy Arm’",
+      "link": "https://tech.newstatesman.com/business/hermann-hauser-nvidia-destroy-arm"
     },
     {
       "rank": "10.",
-      "title": "Hermann Hauser: ‘It’s in Nvidia’s Interests to Destroy Arm’",
-      "link": "https://tech.newstatesman.com/business/hermann-hauser-nvidia-destroy-arm"
+      "title": "Most-favorited Hacker News posts",
+      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
       "rank": "11.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
+      "title": "Code Completion with Antlr4-C3",
+      "link": "https://tomassetti.me/code-completion-with-antlr4-c3/"
+    },
+    {
+      "rank": "18.",
       "title": "Bodybuilding supplement promotes healthy aging and extends life span in mice",
       "link": "https://www.sciencemag.org/news/2020/09/bodybuilding-supplement-promotes-healthy-aging-and-extends-life-span-least-mice"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Show HN: We made a meeting companion app on macOS to improve remote meetings",
       "link": "https://apps.apple.com/us/app/meetingninja/id1527536623?mt=12"
-    },
-    {
-      "rank": "19.",
-      "title": "Code Completion with Antlr4-C3",
-      "link": "https://tomassetti.me/code-completion-with-antlr4-c3/"
     },
     {
       "rank": "20.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "When Two Bacteria Become One",
-      "link": "https://www.udel.edu/udaily/2020/september/eleftherios-papoutsakis-bacterial-fusion/"
+      "title": "The butcher's shop that lasted 300 years (give or take)",
+      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
     },
     {
       "rank": "26.",
-      "title": "The butcher's shop that lasted 300 years (give or take)",
-      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
+      "title": "When Two Bacteria Become One",
+      "link": "https://www.udel.edu/udaily/2020/september/eleftherios-papoutsakis-bacterial-fusion/"
     },
     {
       "rank": "27.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "How to Be Indistractable",
-      "link": "https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you"
+      "title": "Programming with Categories",
+      "link": "http://brendanfong.com/programmingcats.html"
     },
     {
       "rank": "29.",
-      "title": "Programming with Categories",
-      "link": "http://brendanfong.com/programmingcats.html"
+      "title": "How to Be Indistractable",
+      "link": "https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you"
     },
     {
       "rank": "30.",
