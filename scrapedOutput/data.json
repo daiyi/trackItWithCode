@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
+      "title": "WhatsApp Security Advisories",
+      "link": "https://www.whatsapp.com/security/advisories"
     },
     {
       "rank": "5.",
-      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
-      "link": "https://github.com/samizdatco/skia-canvas"
+      "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
     },
     {
       "rank": "6.",
@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "Optimizely to be acquired by Episerver",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
+      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
+      "link": "https://github.com/samizdatco/skia-canvas"
     },
     {
       "rank": "8.",
@@ -42,53 +42,53 @@
     },
     {
       "rank": "9.",
+      "title": "Optimizely to be acquired by Episerver",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
+    },
+    {
+      "rank": "10.",
       "title": "Show HN: A proactive way of securing your Linux server",
       "link": "https://github.com/prashantgupta24/firewalld-rest"
     },
     {
-      "rank": "10.",
-      "title": "Apple to delay privacy change threatening Facebook, mobile ad market",
-      "link": "https://mobile.reuters.com/article/idUSKBN25U2JU"
-    },
-    {
       "rank": "11.",
-      "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
-      "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
-    },
-    {
-      "rank": "12.",
       "title": "Radioactivity in Antiques",
       "link": "https://www.epa.gov/radtown/radioactivity-antiques"
     },
     {
+      "rank": "12.",
+      "title": "Apple to delay privacy change threatening Facebook, mobile ad market",
+      "link": "https://mobile.reuters.com/article/idUSKBN25U2JU"
+    },
+    {
       "rank": "13.",
+      "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
+      "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
+    },
+    {
+      "rank": "14.",
       "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
       "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
     },
     {
-      "rank": "14.",
-      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
-      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
-    },
-    {
       "rank": "15.",
-      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
-      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
-    },
-    {
-      "rank": "16.",
       "title": "Home Office Projects Series: Air conditioner setup",
       "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
     },
     {
+      "rank": "16.",
+      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
+      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
+    },
+    {
       "rank": "17.",
-      "title": "30-35 percent of Covid-19-positive Big Ten athletes had myocarditis",
-      "link": "https://www.centredaily.com/sports/college/penn-state-university/psu-football/article245448050.html"
+      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
+      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
     },
     {
       "rank": "18.",
-      "title": "Eulerian Video Magnification",
-      "link": "https://people.csail.mit.edu/mrub/evm/"
+      "title": "Beginner's Guide to Understanding Daemons",
+      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
       "rank": "19.",
@@ -97,28 +97,28 @@
     },
     {
       "rank": "20.",
+      "title": "Using Vim for C++ Development",
+      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
+    },
+    {
+      "rank": "21.",
+      "title": "30-35 percent of Covid-19-positive Big Ten athletes had myocarditis",
+      "link": "https://www.centredaily.com/sports/college/penn-state-university/psu-football/article245448050.html"
+    },
+    {
+      "rank": "22.",
       "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
       "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
-      "rank": "21.",
-      "title": "Beginner's Guide to Understanding Daemons",
-      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
-    },
-    {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
       "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
     },
     {
-      "rank": "23.",
-      "title": "WhatsApp Security Advisories",
-      "link": "https://www.whatsapp.com/security/advisories"
-    },
-    {
       "rank": "24.",
-      "title": "Using Vim for C++ Development",
-      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
+      "title": "Eulerian Video Magnification",
+      "link": "https://people.csail.mit.edu/mrub/evm/"
     },
     {
       "rank": "25.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "EMule 0.60a",
-      "link": "https://forum.emule-project.net/index.php?showtopic=165281"
+      "title": "Battery-free Game Boy runs forever",
+      "link": "https://techxplore.com/news/2020-09-battery-free-game-boy.html"
     },
     {
       "rank": "28.",
-      "title": "React is becoming a black box",
-      "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
+      "title": "EMule 0.60a",
+      "link": "https://forum.emule-project.net/index.php?showtopic=165281"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
-      "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
+      "title": "React is becoming a black box",
+      "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
     }
   ],
   "metadata": {
