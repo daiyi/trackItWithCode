@@ -37,48 +37,48 @@
     },
     {
       "rank": "8.",
+      "title": "Skia + Rust = a Serverside Canvas for Node",
+      "link": "https://github.com/samizdatco/skia-canvas"
+    },
+    {
+      "rank": "9.",
       "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
       "link": "https://newstorycharity.org/careers/brand-designer"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Show HN: Automated Health Dashboard",
       "link": "https://github.com/TwinProduction/gatus"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "EMule 0.60a",
       "link": "https://forum.emule-project.net/index.php?showtopic=165281"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Pasco, Florida’s predictive policing system monitors and harasses residents",
       "link": "https://www.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/"
     },
     {
-      "rank": "12.",
-      "title": "Fertilizing the Ocean with Iron (2007)",
-      "link": "https://www.whoi.edu/oceanus/feature/fertilizing-the-ocean-with-iron/"
-    },
-    {
       "rank": "13.",
-      "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
-      "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
-    },
-    {
-      "rank": "14.",
       "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
       "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
     },
     {
+      "rank": "14.",
+      "title": "Fertilizing the Ocean with Iron (2007)",
+      "link": "https://www.whoi.edu/oceanus/feature/fertilizing-the-ocean-with-iron/"
+    },
+    {
       "rank": "15.",
-      "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
-      "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
+      "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
+      "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
     },
     {
       "rank": "16.",
-      "title": "Skia + Rust = a Serverside Canvas for Node",
-      "link": "https://github.com/samizdatco/skia-canvas"
+      "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
+      "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
-      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
+      "title": "A new Live Fourier Transform demonstration (2014) [video]",
+      "link": "https://www.youtube.com/watch?v=aiKrrGR57aI"
     },
     {
       "rank": "19.",
-      "title": "A new Live Fourier Transform demonstration (2014) [video]",
-      "link": "https://www.youtube.com/watch?v=aiKrrGR57aI"
+      "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
+      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
     },
     {
       "rank": "20.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Impossible Colors",
-      "link": "https://en.wikipedia.org/wiki/Impossible_color"
-    },
-    {
-      "rank": "25.",
-      "title": "Ask HN: Is it possible to be objectively good at something?",
-      "link": "item?id=24364817"
-    },
-    {
-      "rank": "26.",
-      "title": "NASA Funded Scientists Claim Breakthrough in Propellantless Propulsion",
-      "link": "https://www.wired.com/story/mach-effect-thrusters-interstellar-travel/"
-    },
-    {
-      "rank": "27.",
       "title": "How to Be Indistractable",
       "link": "https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you"
     },
     {
-      "rank": "28.",
+      "rank": "25.",
+      "title": "NASA Funded Scientists Claim Breakthrough in Propellantless Propulsion",
+      "link": "https://www.wired.com/story/mach-effect-thrusters-interstellar-travel/"
+    },
+    {
+      "rank": "26.",
       "title": "Hermann Hauser: ‘It’s in Nvidia’s Interests to Destroy Arm’",
       "link": "https://tech.newstatesman.com/business/hermann-hauser-nvidia-destroy-arm"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
+      "title": "The butcher's shop that lasted 300 years (give or take)",
+      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
+    },
+    {
+      "rank": "28.",
       "title": "SpaceX Launch: Starlink 12 [video]",
       "link": "https://www.youtube.com/watch?v=_j4xR7LMCGY"
     },
     {
+      "rank": "29.",
+      "title": "Ask HN: Is it possible to be objectively good at something?",
+      "link": "item?id=24364817"
+    },
+    {
       "rank": "30.",
-      "title": "The butcher's shop that lasted 300 years (give or take)",
-      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
+      "title": "How to build a handwriting reader from scratch with deep learning",
+      "link": "https://nanonets.com/blog/handwritten-character-recognition/"
     }
   ],
   "metadata": {
