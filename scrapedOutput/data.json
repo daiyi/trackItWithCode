@@ -22,18 +22,18 @@
     },
     {
       "rank": "5.",
-      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
-      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
-    },
-    {
-      "rank": "6.",
       "title": "David Graeber has died",
       "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Skia + Rust = a Serverside Canvas for Node",
       "link": "https://github.com/samizdatco/skia-canvas"
+    },
+    {
+      "rank": "7.",
+      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
+      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
     },
     {
       "rank": "8.",
@@ -67,23 +67,23 @@
     },
     {
       "rank": "14.",
+      "title": "30-35 percent of Covid-19-positive Big Ten athletes had myocarditis",
+      "link": "https://www.centredaily.com/sports/college/penn-state-university/psu-football/article245448050.html"
+    },
+    {
+      "rank": "15.",
       "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
       "link": "https://newstorycharity.org/careers/brand-designer"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
       "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Using Vim for C++ Development",
       "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
-    },
-    {
-      "rank": "17.",
-      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
-      "link": "https://github.com/Seb-C/kiss-orm"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
-      "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
+      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
+      "link": "https://github.com/Seb-C/kiss-orm"
     },
     {
       "rank": "20.",
-      "title": "30-35 percent of Covid-19-positive Big Ten athletes had myocarditis",
-      "link": "https://www.centredaily.com/sports/college/penn-state-university/psu-football/article245448050.html"
+      "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
+      "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
     },
     {
       "rank": "21.",
@@ -107,23 +107,23 @@
     },
     {
       "rank": "22.",
+      "title": "Coping with Cats",
+      "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
+    },
+    {
+      "rank": "23.",
+      "title": "Home Office Projects Series: Air conditioner setup",
+      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
+    },
+    {
+      "rank": "24.",
       "title": "EMule 0.60a",
       "link": "https://forum.emule-project.net/index.php?showtopic=165281"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
       "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
-    },
-    {
-      "rank": "24.",
-      "title": "Heuristics to Generate Startup Ideas (2019)",
-      "link": "https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/"
-    },
-    {
-      "rank": "25.",
-      "title": "Home Office Projects Series: Air conditioner setup",
-      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "Heuristics to Generate Startup Ideas (2019)",
+      "link": "https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/"
+    },
+    {
+      "rank": "28.",
       "title": "Show HN: Automated Health Dashboard",
       "link": "https://github.com/TwinProduction/gatus"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "The Unix `Who` Command",
       "link": "https://gauthier.uk/blog/who/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Pasco, Florida’s predictive policing system monitors and harasses residents",
       "link": "https://www.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/"
-    },
-    {
-      "rank": "30.",
-      "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
-      "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
     }
   ],
   "metadata": {
