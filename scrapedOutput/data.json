@@ -2,98 +2,98 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
-      "link": "https://github.com/Seb-C/kiss-orm"
-    },
-    {
-      "rank": "2.",
       "title": "Using Vim for C++ Development",
       "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
     },
     {
-      "rank": "3.",
-      "title": "Undefined behavior is often a scary and terrible thing for C programmers (2011)",
-      "link": "https://blog.llvm.org/posts/2011-05-14-what-every-c-programmer-should-know_14/"
-    },
-    {
-      "rank": "4.",
+      "rank": "2.",
       "title": "Show HN: Automated Health Dashboard",
       "link": "https://github.com/TwinProduction/gatus"
     },
     {
+      "rank": "3.",
+      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
+      "link": "https://github.com/Seb-C/kiss-orm"
+    },
+    {
+      "rank": "4.",
+      "title": "Undefined behavior is often a scary and terrible thing for C programmers (2011)",
+      "link": "https://blog.llvm.org/posts/2011-05-14-what-every-c-programmer-should-know_14/"
+    },
+    {
       "rank": "5.",
+      "title": "Pasco FL's predictive policing system monitors and harasses residents",
+      "link": "https://www.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/"
+    },
+    {
+      "rank": "6.",
       "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
       "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
       "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
+      "title": "A deep look into Japanese Air Conditioners and their automation",
+      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
+    },
+    {
+      "rank": "9.",
       "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
       "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
     },
     {
-      "rank": "8.",
-      "title": "Florida Is a Police State",
-      "link": "https://www.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/"
-    },
-    {
-      "rank": "9.",
-      "title": "React is becoming a black box",
-      "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
-    },
-    {
       "rank": "10.",
-      "title": "Jupiter (YC S19) is hiring Software Engineers to put groceries on autopilot",
-      "link": "https://jupiter.co/careers/software-engineer"
-    },
-    {
-      "rank": "11.",
       "title": "The joys of owning an ‘OG’ email account",
       "link": "https://krebsonsecurity.com/2020/09/the-joys-of-owning-an-og-email-account/"
     },
     {
+      "rank": "11.",
+      "title": "Jupiter (YC S19) is hiring Software Engineers to put groceries on autopilot",
+      "link": "https://jupiter.co/careers/software-engineer"
+    },
+    {
       "rank": "12.",
+      "title": "React is becoming a black box",
+      "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
+    },
+    {
+      "rank": "13.",
       "title": "The Unix `Who` Command",
       "link": "https://gauthier.uk/blog/who/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Staff Report on Algorithmic Trading in U.S. Capital Markets [pdf]",
       "link": "https://www.sec.gov/files/Algo_Trading_Report_2020.pdf"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Most-favorited Hacker News posts",
       "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "EMule 0.60a",
       "link": "https://forum.emule-project.net/index.php?showtopic=165281"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Impossible Colors",
       "link": "https://en.wikipedia.org/wiki/Impossible_color"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Hermann Hauser: ‘It’s in Nvidia’s Interests to Destroy Arm’",
       "link": "https://tech.newstatesman.com/business/hermann-hauser-nvidia-destroy-arm"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "NASA Funded Scientists Claim Breakthrough in Propellantless Propulsion",
       "link": "https://www.wired.com/story/mach-effect-thrusters-interstellar-travel/"
-    },
-    {
-      "rank": "19.",
-      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
-      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
     },
     {
       "rank": "20.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "Bodybuilding supplement promotes healthy aging and extends life span in mice",
-      "link": "https://www.sciencemag.org/news/2020/09/bodybuilding-supplement-promotes-healthy-aging-and-extends-life-span-least-mice"
+      "title": "Introduction to Ada Programming",
+      "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "Bodybuilding supplement promotes healthy aging and extends life span in mice",
+      "link": "https://www.sciencemag.org/news/2020/09/bodybuilding-supplement-promotes-healthy-aging-and-extends-life-span-least-mice"
+    },
+    {
+      "rank": "27.",
       "title": "Words Preserved Against a Day of Fear: Remembering Joseph Brodsky",
       "link": "https://theamericanscholar.org/words-preserved-against-a-day-of-fear/#.X08fni-z1QJ"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
+      "title": "How to build a handwriting reader from scratch with deep learning",
+      "link": "https://nanonets.com/blog/handwritten-character-recognition/"
+    },
+    {
+      "rank": "29.",
       "title": "Code Completion with Antlr4-C3",
       "link": "https://tomassetti.me/code-completion-with-antlr4-c3/"
     },
     {
-      "rank": "28.",
-      "title": "Introduction to Ada Programming",
-      "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
-    },
-    {
-      "rank": "29.",
+      "rank": "30.",
       "title": "The Odyssey – Alexander Pope translation (1725)",
       "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
-    },
-    {
-      "rank": "30.",
-      "title": "Bardcore",
-      "link": "https://en.wikipedia.org/wiki/Bardcore"
     }
   ],
   "metadata": {
