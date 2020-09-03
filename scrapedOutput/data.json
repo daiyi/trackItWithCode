@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "Release of methane gas from the seafloor in the Southern Hemisphere",
-      "link": "https://lnu.se/en/meet-linnaeus-university/current/news/2020/massive-release-of-methane-gas-from-the-seafloor-linked-to-global-warming-discovered-for-the-first-time-in-the-southern-hemisphere/"
+      "title": "The joys of owning an ‘OG’ email account",
+      "link": "https://krebsonsecurity.com/2020/09/the-joys-of-owning-an-og-email-account/"
     },
     {
       "rank": "6.",
@@ -32,48 +32,48 @@
     },
     {
       "rank": "7.",
+      "title": "Release of methane gas from the seafloor in the Southern Hemisphere",
+      "link": "https://lnu.se/en/meet-linnaeus-university/current/news/2020/massive-release-of-methane-gas-from-the-seafloor-linked-to-global-warming-discovered-for-the-first-time-in-the-southern-hemisphere/"
+    },
+    {
+      "rank": "8.",
       "title": "Most-favorited Hacker News posts",
       "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Programming with Categories",
       "link": "http://brendanfong.com/programmingcats.html"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Oysters That Knew What Time It Was",
       "link": "https://www.wired.com/story/oysters-that-knew-what-time-it-was/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Essential C (2003) [pdf]",
       "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "On modern hardware the min-max heap beats a binary heap",
       "link": "https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Inside the HP Nanoprocessor",
       "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
-      "rank": "13.",
-      "title": "Saying No to unjust computing even once is help",
-      "link": "https://www.gnu.org/philosophy/saying-no-even-once.en.html"
-    },
-    {
       "rank": "14.",
-      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
-      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
+      "title": "Ask HN: What is your favorite method of sending large files?",
+      "link": "item?id=24351111"
     },
     {
       "rank": "15.",
-      "title": "Ask HN: What is your favorite method of sending large files?",
-      "link": "item?id=24351111"
+      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
+      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
     },
     {
       "rank": "16.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
-      "title": "Rolling Funds",
-      "link": "https://rolling.substack.com/p/rolling-fund-faq-what-is-a-rolling"
-    },
-    {
-      "rank": "24.",
       "title": "Linux from Scratch 10.0",
       "link": "http://www.linuxfromscratch.org/news.html"
     },
     {
+      "rank": "24.",
+      "title": "Hints and Principles for Computer System Design [pdf]",
+      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
+    },
+    {
       "rank": "25.",
-      "title": "The butcher's shop that lasted 300 years (give or take)",
-      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
+      "title": "Using Clojure in the command line with Babashka",
+      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Hints and Principles for Computer System Design [pdf]",
-      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
-    },
-    {
-      "rank": "28.",
       "title": "Intel Launches 11th Gen Core Tiger Lake",
       "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     },
     {
+      "rank": "28.",
+      "title": "Rolling Funds",
+      "link": "https://rolling.substack.com/p/rolling-fund-faq-what-is-a-rolling"
+    },
+    {
       "rank": "29.",
-      "title": "Using Clojure in the command line with Babashka",
-      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
+      "title": "The butcher's shop that lasted 300 years (give or take)",
+      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
     },
     {
       "rank": "30.",
-      "title": "Tawk of the Town",
-      "link": "https://literaryreview.co.uk/tawk-of-the-town"
+      "title": "XLS: Accelerated HW Synthesis",
+      "link": "https://google.github.io/xls/"
     }
   ],
   "metadata": {
