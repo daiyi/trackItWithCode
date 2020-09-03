@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Programming with Categories",
-      "link": "http://brendanfong.com/programmingcats.html"
+      "title": "Saying No to unjust computing even once is help",
+      "link": "https://www.gnu.org/philosophy/saying-no-even-once.en.html"
     },
     {
       "rank": "8.",
-      "title": "Saying No to unjust computing even once is help",
-      "link": "https://www.gnu.org/philosophy/saying-no-even-once.en.html"
+      "title": "Programming with Categories",
+      "link": "http://brendanfong.com/programmingcats.html"
     },
     {
       "rank": "9.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Ask HN: What is your favorite method of sending large files?",
-      "link": "item?id=24351111"
+      "title": "Tawk of the Town",
+      "link": "https://literaryreview.co.uk/tawk-of-the-town"
     },
     {
       "rank": "15.",
-      "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
-      "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
+      "title": "The Economics of Skyscraper Height",
+      "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
     },
     {
       "rank": "16.",
@@ -82,33 +82,33 @@
     },
     {
       "rank": "17.",
+      "title": "Ask HN: What is your favorite method of sending large files?",
+      "link": "item?id=24351111"
+    },
+    {
+      "rank": "18.",
+      "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
+      "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
+    },
+    {
+      "rank": "19.",
       "title": "The Odyssey – Alexander Pope translation (1725)",
       "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
     },
     {
-      "rank": "18.",
-      "title": "Tawk of the Town",
-      "link": "https://literaryreview.co.uk/tawk-of-the-town"
-    },
-    {
-      "rank": "19.",
-      "title": "Craigstarter: DIY Replacement for Kickstarter",
-      "link": "https://github.com/cmod/craigstarter"
-    },
-    {
       "rank": "20.",
+      "title": "Unix Wars (2000)",
+      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
+    },
+    {
+      "rank": "21.",
       "title": "Linux from Scratch 10.0",
       "link": "http://www.linuxfromscratch.org/news.html"
     },
     {
-      "rank": "21.",
-      "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
-      "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
-    },
-    {
       "rank": "22.",
-      "title": "Hints and Principles for Computer System Design [pdf]",
-      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
+      "title": "Craigstarter: DIY Replacement for Kickstarter",
+      "link": "https://github.com/cmod/craigstarter"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
+      "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
+    },
+    {
+      "rank": "25.",
+      "title": "Hints and Principles for Computer System Design [pdf]",
+      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
+    },
+    {
+      "rank": "26.",
       "title": "Intel Launches 11th Gen Core Tiger Lake",
       "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Using Clojure in the command line with Babashka",
       "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Most-favorited Hacker News posts",
       "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "XLS: Accelerated HW Synthesis",
       "link": "https://google.github.io/xls/"
     },
     {
-      "rank": "28.",
-      "title": "Show HN: Lacona – Search and natural language commands for Mac",
-      "link": "https://lacona.app"
-    },
-    {
-      "rank": "29.",
-      "title": "Accidental Pinhole and Pinspeck Cameras (2014)",
-      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
-    },
-    {
       "rank": "30.",
-      "title": "Supercomputer analysis of Covid-19 leads to new theory",
-      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
+      "title": "Victor Hugo, a SEO tool for Hugo based sites (opinions pls)",
+      "link": "https://github.com/doncabreraphone/victorhugo"
     }
   ],
   "metadata": {
