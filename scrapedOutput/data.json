@@ -3,22 +3,22 @@
     {
       "rank": "1.",
       "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
-      "link": "https://news.yahoo.com/court-rules-nsa-phone-snooping-181157311.html"
+      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
     },
     {
       "rank": "2.",
+      "title": "Staff Report on Algorithmic Trading in U.S. Capital Markets [pdf]",
+      "link": "https://www.sec.gov/files/Algo_Trading_Report_2020.pdf"
+    },
+    {
+      "rank": "3.",
       "title": "How I built a keyboard/video/mouse switch for my two 4k monitors",
       "link": "https://haim.dev/posts/2020-07-28-dual-monitor-kvm/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Release of methane gas from the seafloor in the Southern Hemisphere",
       "link": "https://lnu.se/en/meet-linnaeus-university/current/news/2020/massive-release-of-methane-gas-from-the-seafloor-linked-to-global-warming-discovered-for-the-first-time-in-the-southern-hemisphere/"
-    },
-    {
-      "rank": "4.",
-      "title": "SEC report on algorithmic trading in US capital markets [pdf]",
-      "link": "https://www.sec.gov/files/Algo_Trading_Report_2020.pdf"
     },
     {
       "rank": "5.",
@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Linux from Scratch 10.0 Released",
-      "link": "http://www.linuxfromscratch.org/news.html"
+      "title": "Programming with Categories",
+      "link": "http://brendanfong.com/programmingcats.html"
     },
     {
       "rank": "7.",
-      "title": "Programming with Categories",
-      "link": "http://brendanfong.com/programmingcats.html"
+      "title": "Victor Hugo, a SEO tool for Hugo based sites (opinions pls)",
+      "link": "https://github.com/doncabreraphone/victorhugo"
     },
     {
       "rank": "8.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "The Economics of Skyscraper Height",
-      "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
+      "title": "Ask HN: What is your favorite method of sending large files?",
+      "link": "item?id=24351111"
     },
     {
       "rank": "14.",
-      "title": "Ask HN: What is your favorite method of sending large files?",
-      "link": "item?id=24351111"
+      "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
+      "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
     },
     {
       "rank": "15.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
-      "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
+      "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
+      "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
     },
     {
       "rank": "17.",
@@ -87,28 +87,28 @@
     },
     {
       "rank": "18.",
-      "title": "Show HN: Lacona – Search and natural language commands for Mac",
-      "link": "https://lacona.app"
+      "title": "Linux from Scratch 10.0",
+      "link": "http://www.linuxfromscratch.org/news.html"
     },
     {
       "rank": "19.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
-    },
-    {
-      "rank": "20.",
-      "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
-      "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
-    },
-    {
-      "rank": "21.",
       "title": "Intel Launches 11th Gen Core Tiger Lake",
       "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     },
     {
-      "rank": "22.",
+      "rank": "20.",
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
+    },
+    {
+      "rank": "21.",
       "title": "Hints and Principles for Computer System Design [pdf]",
       "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
+    },
+    {
+      "rank": "22.",
+      "title": "Show HN: Lacona – Search and natural language commands for Mac",
+      "link": "https://lacona.app"
     },
     {
       "rank": "23.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "The Odyssey, translated by Alexander Pope (1725)",
+      "title": "The Odyssey – Alexander Pope translation (1725)",
       "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
     },
     {
       "rank": "27.",
+      "title": "Git-Based Wiki",
+      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
+    },
+    {
+      "rank": "28.",
+      "title": "Oysters That Knew What Time It Was",
+      "link": "https://www.wired.com/story/oysters-that-knew-what-time-it-was/"
+    },
+    {
+      "rank": "29.",
       "title": "Accidental Pinhole and Pinspeck Cameras (2014)",
       "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Why is OOP still so widely spread?",
       "link": "https://stackoverflow.blog/2020/09/02/if-everyone-hates-it-why-is-oop-still-so-widely-spread/"
-    },
-    {
-      "rank": "29.",
-      "title": "In Defense of a Switch",
-      "link": "https://pkolaczk.github.io/in-defense-of-switch/"
-    },
-    {
-      "rank": "30.",
-      "title": "Git-Based Wiki",
-      "link": "https://www.bit-101.com/blog/2020/09/git-based-wiki/"
     }
   ],
   "metadata": {
