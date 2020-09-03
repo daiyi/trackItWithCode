@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
+      "title": "Introduction to Ada Programming",
+      "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
+    },
+    {
+      "rank": "14.",
       "title": "Oysters That Knew What Time It Was",
       "link": "https://www.wired.com/story/oysters-that-knew-what-time-it-was/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Bodybuilding supplement promotes healthy aging and extends life span in mice",
       "link": "https://www.sciencemag.org/news/2020/09/bodybuilding-supplement-promotes-healthy-aging-and-extends-life-span-least-mice"
-    },
-    {
-      "rank": "15.",
-      "title": "Introduction to Ada Programming",
-      "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
     },
     {
       "rank": "16.",
@@ -102,23 +102,23 @@
     },
     {
       "rank": "21.",
-      "title": "Linux from Scratch 10.0",
-      "link": "http://www.linuxfromscratch.org/news.html"
-    },
-    {
-      "rank": "22.",
       "title": "Bardcore",
       "link": "https://en.wikipedia.org/wiki/Bardcore"
     },
     {
+      "rank": "22.",
+      "title": "Linux from Scratch 10.0",
+      "link": "http://www.linuxfromscratch.org/news.html"
+    },
+    {
       "rank": "23.",
-      "title": "Unix Wars (2000)",
-      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
+      "title": "When Two Bacteria Become One",
+      "link": "https://www.udel.edu/udaily/2020/september/eleftherios-papoutsakis-bacterial-fusion/"
     },
     {
       "rank": "24.",
-      "title": "When Two Bacteria Become One",
-      "link": "https://www.udel.edu/udaily/2020/september/eleftherios-papoutsakis-bacterial-fusion/"
+      "title": "Unix Wars (2000)",
+      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
     },
     {
       "rank": "25.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "GPT-3 pricing for API usage announced to beta users to go in effect from October",
-      "link": "https://www.reddit.com/r/GPT3/comments/ikorgs/oa_api_preliminary_beta_pricing_announced/"
+      "title": "How to Be Indistractable",
+      "link": "https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you"
     },
     {
       "rank": "28.",
-      "title": "How to Be Indistractable",
-      "link": "https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you"
+      "title": "GPT-3 pricing for API usage announced to beta users to go in effect from October",
+      "link": "https://www.reddit.com/r/GPT3/comments/ikorgs/oa_api_preliminary_beta_pricing_announced/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "US sanctions International Criminal Court officials",
-      "link": "https://edition.cnn.com/2020/09/02/politics/us-icc-sanctions/index.html"
+      "title": "Gertrude Elion's “antiviral odyssey”",
+      "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
     }
   ],
   "metadata": {
