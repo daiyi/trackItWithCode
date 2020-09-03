@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Introduction to Ada Programming",
-      "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
+      "title": "How I built a keyboard/video/mouse switch for my two 4k monitors",
+      "link": "https://haim.dev/posts/2020-07-28-dual-monitor-kvm/"
     },
     {
       "rank": "5.",
-      "title": "How I built a keyboard/video/mouse switch for my two 4k monitors",
-      "link": "https://haim.dev/posts/2020-07-28-dual-monitor-kvm/"
+      "title": "Introduction to Ada Programming",
+      "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
     },
     {
       "rank": "6.",
@@ -37,38 +37,38 @@
     },
     {
       "rank": "8.",
-      "title": "Release of methane gas from the seafloor in the Southern Hemisphere",
-      "link": "https://lnu.se/en/meet-linnaeus-university/current/news/2020/massive-release-of-methane-gas-from-the-seafloor-linked-to-global-warming-discovered-for-the-first-time-in-the-southern-hemisphere/"
-    },
-    {
-      "rank": "9.",
       "title": "US sanctions International Criminal Court officials",
       "link": "https://edition.cnn.com/2020/09/02/politics/us-icc-sanctions/index.html"
     },
     {
+      "rank": "9.",
+      "title": "Release of methane gas from the seafloor in the Southern Hemisphere",
+      "link": "https://lnu.se/en/meet-linnaeus-university/current/news/2020/massive-release-of-methane-gas-from-the-seafloor-linked-to-global-warming-discovered-for-the-first-time-in-the-southern-hemisphere/"
+    },
+    {
       "rank": "10.",
+      "title": "How to Be Indistractable",
+      "link": "https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you"
+    },
+    {
+      "rank": "11.",
       "title": "Oysters That Knew What Time It Was",
       "link": "https://www.wired.com/story/oysters-that-knew-what-time-it-was/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Even in Go, concurrency is still not easy",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Essential C (2003) [pdf]",
       "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Ask HN: What is your favorite method of sending large files?",
       "link": "item?id=24351111"
-    },
-    {
-      "rank": "14.",
-      "title": "How to Be Indistractable",
-      "link": "https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you"
     },
     {
       "rank": "15.",
@@ -77,33 +77,33 @@
     },
     {
       "rank": "16.",
+      "title": "Words Preserved Against a Day of Fear: Remembering Joseph Brodsky",
+      "link": "https://theamericanscholar.org/words-preserved-against-a-day-of-fear/#.X08fni-z1QJ"
+    },
+    {
+      "rank": "17.",
       "title": "Inside the HP Nanoprocessor",
       "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "The Economics of Skyscraper Height",
       "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
     },
     {
-      "rank": "18.",
-      "title": "CAC is not S&M",
-      "link": "https://www.causal.app/blog/cac-is-not-sales-marketing-expense"
-    },
-    {
       "rank": "19.",
-      "title": "GPT-3 pricing for API usage announced to beta users to go in effect from October",
-      "link": "https://www.reddit.com/r/GPT3/comments/ikorgs/oa_api_preliminary_beta_pricing_announced/"
-    },
-    {
-      "rank": "20.",
       "title": "The Odyssey – Alexander Pope translation (1725)",
       "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
     },
     {
+      "rank": "20.",
+      "title": "GPT-3 pricing for API usage announced to beta users to go in effect from October",
+      "link": "https://www.reddit.com/r/GPT3/comments/ikorgs/oa_api_preliminary_beta_pricing_announced/"
+    },
+    {
       "rank": "21.",
-      "title": "New research provides solution for the 'Dust Bowl paradox'",
-      "link": "https://phys.org/news/2020-09-solution-bowl-paradox.html"
+      "title": "CAC is not S&M",
+      "link": "https://www.causal.app/blog/cac-is-not-sales-marketing-expense"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "Words Preserved Against a Day of Fear: Remembering Joseph Brodsky",
-      "link": "https://theamericanscholar.org/words-preserved-against-a-day-of-fear/#.X08fni-z1QJ"
+      "title": "Bodybuilding supplement promotes healthy aging and extends life span (in mice)",
+      "link": "https://www.sciencemag.org/news/2020/09/bodybuilding-supplement-promotes-healthy-aging-and-extends-life-span-least-mice"
     },
     {
       "rank": "24.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "New research provides solution for the 'Dust Bowl paradox'",
+      "link": "https://phys.org/news/2020-09-solution-bowl-paradox.html"
+    },
+    {
+      "rank": "27.",
       "title": "The butcher's shop that lasted 300 years (give or take)",
       "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Intel Launches 11th Gen Core Tiger Lake",
       "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Creating Holographic User Interfaces",
       "link": "https://blog.lookingglassfactory.com/learn/creating-holographic-user-interfaces/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
       "link": "https://www.tesorio.com/careers#job-openings"
-    },
-    {
-      "rank": "30.",
-      "title": "Bodybuilding supplement promotes healthy aging and extends life span (in mice)",
-      "link": "https://www.sciencemag.org/news/2020/09/bodybuilding-supplement-promotes-healthy-aging-and-extends-life-span-least-mice"
     }
   ],
   "metadata": {
