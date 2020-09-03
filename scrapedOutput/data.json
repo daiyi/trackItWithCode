@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Saying No to unjust computing even once is help",
-      "link": "https://www.gnu.org/philosophy/saying-no-even-once.en.html"
+      "title": "How I built a keyboard/video/mouse switch for my two 4k monitors",
+      "link": "https://haim.dev/posts/2020-07-28-dual-monitor-kvm/"
     },
     {
       "rank": "4.",
-      "title": "How I built a keyboard/video/mouse switch for my two 4k monitors",
-      "link": "https://haim.dev/posts/2020-07-28-dual-monitor-kvm/"
+      "title": "Introduction to Ada Programming",
+      "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
     },
     {
       "rank": "5.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Introduction to Ada Programming",
-      "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
+      "title": "Inside the HP Nanoprocessor",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
       "rank": "13.",
-      "title": "Ask HN: What is your favorite method of sending large files?",
-      "link": "item?id=24351111"
+      "title": "Saying No to unjust computing even once is help",
+      "link": "https://www.gnu.org/philosophy/saying-no-even-once.en.html"
     },
     {
       "rank": "14.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
-      "title": "Inside the HP Nanoprocessor",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+      "title": "Ask HN: What is your favorite method of sending large files?",
+      "link": "item?id=24351111"
     },
     {
       "rank": "16.",
-      "title": "Gertrude Elion's “antiviral odyssey”",
-      "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
+      "title": "The Economics of Skyscraper Height",
+      "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
     },
     {
       "rank": "17.",
-      "title": "The Economics of Skyscraper Height",
-      "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
+      "title": "Gertrude Elion's “antiviral odyssey”",
+      "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
     },
     {
       "rank": "18.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "The butcher's shop that lasted 300 years (give or take)",
-      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
+      "title": "Rolling Funds",
+      "link": "https://rolling.substack.com/p/rolling-fund-faq-what-is-a-rolling"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "Hints and Principles for Computer System Design [pdf]",
-      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
+      "title": "The butcher's shop that lasted 300 years (give or take)",
+      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
     },
     {
       "rank": "26.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "Tawk of the Town",
-      "link": "https://literaryreview.co.uk/tawk-of-the-town"
+      "title": "Hints and Principles for Computer System Design [pdf]",
+      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "XLS: Accelerated HW Synthesis",
-      "link": "https://google.github.io/xls/"
+      "title": "Tawk of the Town",
+      "link": "https://literaryreview.co.uk/tawk-of-the-town"
     }
   ],
   "metadata": {
