@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Show HN: Automated Health Dashboard",
-      "link": "https://github.com/TwinProduction/gatus"
+      "title": "Using Vim for C++ Development",
+      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
     },
     {
       "rank": "3.",
-      "title": "Using Vim for C++ Development",
-      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
+      "title": "Show HN: Automated Health Dashboard",
+      "link": "https://github.com/TwinProduction/gatus"
     },
     {
       "rank": "4.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Impossible Colors",
-      "link": "https://en.wikipedia.org/wiki/Impossible_color"
+      "title": "React is becoming a black box",
+      "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
     },
     {
       "rank": "9.",
@@ -47,8 +47,8 @@
     },
     {
       "rank": "10.",
-      "title": "React is becoming a black box",
-      "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
+      "title": "Impossible Colors",
+      "link": "https://en.wikipedia.org/wiki/Impossible_color"
     },
     {
       "rank": "11.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
-      "title": "The Unix `Who` Command",
-      "link": "https://gauthier.uk/blog/who/"
-    },
-    {
-      "rank": "14.",
       "title": "Hermann Hauser: ‘It’s in Nvidia’s Interests to Destroy Arm’",
       "link": "https://tech.newstatesman.com/business/hermann-hauser-nvidia-destroy-arm"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Most-favorited Hacker News posts",
       "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
+    },
+    {
+      "rank": "15.",
+      "title": "The Unix `Who` Command",
+      "link": "https://gauthier.uk/blog/who/"
     },
     {
       "rank": "16.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Thoughts on user growth and product",
-      "link": "https://blog.jonlu.ca/posts/thoughts-on-product"
+      "title": "How I built a keyboard/video/mouse switch for my two 4k monitors",
+      "link": "https://haim.dev/posts/2020-07-28-dual-monitor-kvm/"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "How I built a keyboard/video/mouse switch for my two 4k monitors",
-      "link": "https://haim.dev/posts/2020-07-28-dual-monitor-kvm/"
-    },
-    {
-      "rank": "25.",
       "title": "Introduction to Ada Programming",
       "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Words Preserved Against a Day of Fear: Remembering Joseph Brodsky",
       "link": "https://theamericanscholar.org/words-preserved-against-a-day-of-fear/#.X08fni-z1QJ"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "How to build a handwriting reader from scratch with deep learning",
       "link": "https://nanonets.com/blog/handwritten-character-recognition/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "The Odyssey – Alexander Pope translation (1725)",
       "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Bardcore",
       "link": "https://en.wikipedia.org/wiki/Bardcore"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "New research provides solution for the 'Dust Bowl paradox'",
       "link": "https://phys.org/news/2020-09-solution-bowl-paradox.html"
+    },
+    {
+      "rank": "30.",
+      "title": "Unix Wars (2000)",
+      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
     }
   ],
   "metadata": {
