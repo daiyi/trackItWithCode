@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
-      "link": "https://github.com/Seb-C/kiss-orm"
+      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
+      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
     },
     {
       "rank": "4.",
-      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
-      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
+      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
+      "link": "https://github.com/Seb-C/kiss-orm"
     },
     {
       "rank": "5.",
@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
+      "title": "Skia + Rust = a Serverside Canvas for Node",
+      "link": "https://github.com/samizdatco/skia-canvas"
+    },
+    {
+      "rank": "7.",
       "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
       "link": "item?id=24364811"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "React is becoming a black box",
       "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
-    },
-    {
-      "rank": "8.",
-      "title": "Skia + Rust = a Serverside Canvas for Node",
-      "link": "https://github.com/samizdatco/skia-canvas"
     },
     {
       "rank": "9.",
@@ -67,33 +67,33 @@
     },
     {
       "rank": "14.",
-      "title": "Fertilizing the Ocean with Iron (2007)",
-      "link": "https://www.whoi.edu/oceanus/feature/fertilizing-the-ocean-with-iron/"
-    },
-    {
-      "rank": "15.",
       "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
       "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
     },
     {
-      "rank": "16.",
-      "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
-      "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
+      "rank": "15.",
+      "title": "Fertilizing the Ocean with Iron (2007)",
+      "link": "https://www.whoi.edu/oceanus/feature/fertilizing-the-ocean-with-iron/"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "The Unix `Who` Command",
       "link": "https://gauthier.uk/blog/who/"
     },
     {
+      "rank": "17.",
+      "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
+      "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
+    },
+    {
       "rank": "18.",
-      "title": "A new Live Fourier Transform demonstration (2014) [video]",
-      "link": "https://www.youtube.com/watch?v=aiKrrGR57aI"
+      "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
+      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
     },
     {
       "rank": "19.",
-      "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
-      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
+      "title": "A new Live Fourier Transform demonstration (2014) [video]",
+      "link": "https://www.youtube.com/watch?v=aiKrrGR57aI"
     },
     {
       "rank": "20.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "How to Be Indistractable",
-      "link": "https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you"
+      "title": "Atul Gawande on COVID and healthcare logistics",
+      "link": "https://www.newyorker.com/science/medical-dispatch/we-can-solve-the-coronavirus-test-mess-now-if-we-want-to"
     },
     {
       "rank": "25.",
-      "title": "NASA Funded Scientists Claim Breakthrough in Propellantless Propulsion",
-      "link": "https://www.wired.com/story/mach-effect-thrusters-interstellar-travel/"
+      "title": "How to Be Indistractable",
+      "link": "https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "The butcher's shop that lasted 300 years (give or take)",
-      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
-    },
-    {
-      "rank": "28.",
       "title": "SpaceX Launch: Starlink 12 [video]",
       "link": "https://www.youtube.com/watch?v=_j4xR7LMCGY"
     },
     {
+      "rank": "28.",
+      "title": "The butcher's shop that lasted 300 years (give or take)",
+      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
+    },
+    {
       "rank": "29.",
-      "title": "Ask HN: Is it possible to be objectively good at something?",
-      "link": "item?id=24364817"
+      "title": "NASA Funded Scientists Claim Breakthrough in Propellantless Propulsion",
+      "link": "https://www.wired.com/story/mach-effect-thrusters-interstellar-travel/"
     },
     {
       "rank": "30.",
-      "title": "How to build a handwriting reader from scratch with deep learning",
-      "link": "https://nanonets.com/blog/handwritten-character-recognition/"
+      "title": "Impossible Colors",
+      "link": "https://en.wikipedia.org/wiki/Impossible_color"
     }
   ],
   "metadata": {
