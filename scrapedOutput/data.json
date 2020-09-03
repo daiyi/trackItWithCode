@@ -7,23 +7,23 @@
     },
     {
       "rank": "2.",
+      "title": "Chrome anchors are broken, Google has locked and is ignoring bug thread",
+      "link": "https://support.google.com/chrome/thread/11993079?hl=en"
+    },
+    {
+      "rank": "3.",
       "title": "Score matching with Langevin Sampling: a new contender to GANs",
       "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "David Graeber has died",
       "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
       "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
-    },
-    {
-      "rank": "5.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
     },
     {
       "rank": "6.",
@@ -32,53 +32,53 @@
     },
     {
       "rank": "7.",
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
+    },
+    {
+      "rank": "8.",
       "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
       "link": "https://github.com/samizdatco/skia-canvas"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Optimizely to be acquired by Episerver",
       "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
       "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Nothing can now be believed which is seen in a newspaper (1807)",
       "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
     },
     {
-      "rank": "11.",
-      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
-      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
-    },
-    {
       "rank": "12.",
-      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
-      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
-    },
-    {
-      "rank": "13.",
       "title": "Show HN: A proactive way of securing your Linux server",
       "link": "https://github.com/prashantgupta24/firewalld-rest"
     },
     {
+      "rank": "13.",
+      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
+      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
+    },
+    {
       "rank": "14.",
+      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
+      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
+    },
+    {
+      "rank": "15.",
       "title": "Home Office Projects Series: Air conditioner setup",
       "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "30-35 percent of Covid-19-positive Big Ten athletes had myocarditis",
       "link": "https://www.centredaily.com/sports/college/penn-state-university/psu-football/article245448050.html"
-    },
-    {
-      "rank": "16.",
-      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
-      "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
       "rank": "17.",
@@ -92,38 +92,38 @@
     },
     {
       "rank": "19.",
-      "title": "Email gateways and gatekeeping",
-      "link": "https://www.labbott.name/blog/2020/09/01/emailgateway.html"
+      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
+      "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
       "rank": "20.",
-      "title": "Using Vim for C++ Development",
-      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
-    },
-    {
-      "rank": "21.",
-      "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
-      "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
-    },
-    {
-      "rank": "22.",
-      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
-      "link": "https://github.com/Seb-C/kiss-orm"
-    },
-    {
-      "rank": "23.",
-      "title": "Beginner's Guide to Understanding Daemons",
-      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
-    },
-    {
-      "rank": "24.",
       "title": "Radioactivity in Antiques",
       "link": "https://www.epa.gov/radtown/radioactivity-antiques"
     },
     {
+      "rank": "21.",
+      "title": "Using Vim for C++ Development",
+      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
+    },
+    {
+      "rank": "22.",
+      "title": "Email gateways and gatekeeping",
+      "link": "https://www.labbott.name/blog/2020/09/01/emailgateway.html"
+    },
+    {
+      "rank": "23.",
+      "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
+      "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
+    },
+    {
+      "rank": "24.",
+      "title": "Beginner's Guide to Understanding Daemons",
+      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
+    },
+    {
       "rank": "25.",
-      "title": "Coping with Cats",
-      "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
+      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
+      "link": "https://github.com/Seb-C/kiss-orm"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Chrome anchors are broken, Google has locked and is ignoring bug thread",
-      "link": "https://support.google.com/chrome/thread/11993079?hl=en"
-    },
-    {
-      "rank": "28.",
       "title": "React is becoming a black box",
       "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
       "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Show HN: Automated Health Dashboard",
       "link": "https://github.com/TwinProduction/gatus"
+    },
+    {
+      "rank": "30.",
+      "title": "Coping with Cats",
+      "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
     }
   ],
   "metadata": {
