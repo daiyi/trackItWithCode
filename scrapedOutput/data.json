@@ -17,18 +17,18 @@
     },
     {
       "rank": "4.",
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
+    },
+    {
+      "rank": "5.",
       "title": "Nothing can now be believed which is seen in a newspaper (1807)",
       "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "React is becoming a black box",
       "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
-    },
-    {
-      "rank": "6.",
-      "title": "Show HN: Automated Health Dashboard",
-      "link": "https://github.com/TwinProduction/gatus"
     },
     {
       "rank": "7.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
+      "title": "Show HN: Automated Health Dashboard",
+      "link": "https://github.com/TwinProduction/gatus"
     },
     {
       "rank": "9.",
@@ -57,33 +57,33 @@
     },
     {
       "rank": "12.",
-      "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
-      "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
-    },
-    {
-      "rank": "13.",
       "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
       "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
     },
     {
+      "rank": "13.",
+      "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
+      "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
+    },
+    {
       "rank": "14.",
+      "title": "Iranian law prohibits merge of PR from Israeli?",
+      "link": "https://github.com/armancodes/laravel-download-link/pull/9#issuecomment-683417436"
+    },
+    {
+      "rank": "15.",
       "title": "The Unix `Who` Command",
       "link": "https://gauthier.uk/blog/who/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
       "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
       "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
-    },
-    {
-      "rank": "17.",
-      "title": "Porn Sites Still Won’t Take Down Nonconsensual Deepfakes",
-      "link": "https://www.wired.com/story/porn-sites-still-wont-take-down-non-consensual-deepfakes/#intcid=_wired-homepage-right-rail_15cd1a7d-8dd5-45bc-819e-068f5707d7b1_popular4-1"
     },
     {
       "rank": "18.",
@@ -92,23 +92,23 @@
     },
     {
       "rank": "19.",
+      "title": "Porn Sites Still Won’t Take Down Nonconsensual Deepfakes",
+      "link": "https://www.wired.com/story/porn-sites-still-wont-take-down-non-consensual-deepfakes/#intcid=_wired-homepage-right-rail_15cd1a7d-8dd5-45bc-819e-068f5707d7b1_popular4-1"
+    },
+    {
+      "rank": "20.",
       "title": "A new Live Fourier Transform demonstration (2014) [video]",
       "link": "https://www.youtube.com/watch?v=aiKrrGR57aI"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Threema Goes Open Source",
       "link": "https://threema.ch/en/blog/posts/open-source-and-new-partner"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Introduction to Ada",
       "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
-    },
-    {
-      "rank": "22.",
-      "title": "Staff Report on Algorithmic Trading in U.S. Capital Markets [pdf]",
-      "link": "https://www.sec.gov/files/Algo_Trading_Report_2020.pdf"
     },
     {
       "rank": "23.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "The problem with C",
-      "link": "https://cor3ntin.github.io/posts/c/"
+      "title": "How to build a handwriting reader from scratch with deep learning",
+      "link": "https://nanonets.com/blog/handwritten-character-recognition/"
     }
   ],
   "metadata": {
