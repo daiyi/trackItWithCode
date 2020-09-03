@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "Staff Report on Algorithmic Trading in U.S. Capital Markets [pdf]",
-      "link": "https://www.sec.gov/files/Algo_Trading_Report_2020.pdf"
+      "title": "EMule 0.60a",
+      "link": "https://forum.emule-project.net/index.php?showtopic=165281"
     },
     {
       "rank": "3.",
@@ -17,18 +17,18 @@
     },
     {
       "rank": "4.",
+      "title": "Staff Report on Algorithmic Trading in U.S. Capital Markets [pdf]",
+      "link": "https://www.sec.gov/files/Algo_Trading_Report_2020.pdf"
+    },
+    {
+      "rank": "5.",
       "title": "How I built a keyboard/video/mouse switch for my two 4k monitors",
       "link": "https://haim.dev/posts/2020-07-28-dual-monitor-kvm/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Bardcore",
       "link": "https://en.wikipedia.org/wiki/Bardcore"
-    },
-    {
-      "rank": "6.",
-      "title": "Introduction to Ada Programming",
-      "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
     },
     {
       "rank": "7.",
@@ -47,8 +47,8 @@
     },
     {
       "rank": "10.",
-      "title": "Reddit gets its app to 50m Play Store downloads",
-      "link": "https://www.androidpolice.com/2020/09/02/reddit-gets-its-app-to-50-million-play-store-downloads-mostly-by-making-the-mobile-web-experience-miserable/"
+      "title": "Introduction to Ada Programming",
+      "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
     },
     {
       "rank": "11.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "US sanctions International Criminal Court officials",
-      "link": "https://edition.cnn.com/2020/09/02/politics/us-icc-sanctions/index.html"
+      "title": "Reddit gets its app to 50m Play Store downloads",
+      "link": "https://www.androidpolice.com/2020/09/02/reddit-gets-its-app-to-50-million-play-store-downloads-mostly-by-making-the-mobile-web-experience-miserable/"
     },
     {
       "rank": "13.",
-      "title": "Words Preserved Against a Day of Fear: Remembering Joseph Brodsky",
-      "link": "https://theamericanscholar.org/words-preserved-against-a-day-of-fear/#.X08fni-z1QJ"
+      "title": "Show HN: We made a meeting companion app on macOS to improve remote meetings",
+      "link": "https://apps.apple.com/us/app/meetingninja/id1527536623?mt=12"
     },
     {
       "rank": "14.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "Essential C (2003) [pdf]",
-      "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
+      "title": "Words Preserved Against a Day of Fear: Remembering Joseph Brodsky",
+      "link": "https://theamericanscholar.org/words-preserved-against-a-day-of-fear/#.X08fni-z1QJ"
     },
     {
       "rank": "16.",
-      "title": "Show HN: We made a meeting companion app on macOS to improve remote meetings",
-      "link": "https://apps.apple.com/us/app/meetingninja/id1527536623?mt=12"
-    },
-    {
-      "rank": "17.",
       "title": "The problem with C compatibility in C++",
       "link": "https://cor3ntin.github.io/posts/c/"
     },
     {
+      "rank": "17.",
+      "title": "Essential C (2003) [pdf]",
+      "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
+    },
+    {
       "rank": "18.",
-      "title": "New research provides solution for the 'Dust Bowl paradox'",
-      "link": "https://phys.org/news/2020-09-solution-bowl-paradox.html"
+      "title": "US sanctions International Criminal Court officials",
+      "link": "https://edition.cnn.com/2020/09/02/politics/us-icc-sanctions/index.html"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "The Economics of Skyscraper Height",
-      "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
+      "title": "New research provides solution for the 'Dust Bowl paradox'",
+      "link": "https://phys.org/news/2020-09-solution-bowl-paradox.html"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Linux from Scratch 10.0",
-      "link": "http://www.linuxfromscratch.org/news.html"
+      "title": "The Economics of Skyscraper Height",
+      "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
     },
     {
       "rank": "23.",
-      "title": "GPT-3 pricing for API usage announced to beta users to go in effect from October",
-      "link": "https://www.reddit.com/r/GPT3/comments/ikorgs/oa_api_preliminary_beta_pricing_announced/"
+      "title": "Linux from Scratch 10.0",
+      "link": "http://www.linuxfromscratch.org/news.html"
     },
     {
       "rank": "24.",
@@ -122,23 +122,23 @@
     },
     {
       "rank": "25.",
+      "title": "GPT-3 pricing for API usage announced to beta users to go in effect from October",
+      "link": "https://www.reddit.com/r/GPT3/comments/ikorgs/oa_api_preliminary_beta_pricing_announced/"
+    },
+    {
+      "rank": "26.",
       "title": "The butcher's shop that lasted 300 years (give or take)",
       "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "When Two Bacteria Become One",
       "link": "https://www.udel.edu/udaily/2020/september/eleftherios-papoutsakis-bacterial-fusion/"
     },
     {
-      "rank": "27.",
-      "title": "How to Be Indistractable",
-      "link": "https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you"
-    },
-    {
       "rank": "28.",
-      "title": "CAC is not S&M",
-      "link": "https://www.causal.app/blog/cac-is-not-sales-marketing-expense"
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Gertrude Elion's “antiviral odyssey”",
-      "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
+      "title": "How to Be Indistractable",
+      "link": "https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you"
     }
   ],
   "metadata": {
