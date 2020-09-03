@@ -2,123 +2,123 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Iranian law prohibits merge of PR from Israeli?",
-      "link": "https://github.com/armancodes/laravel-download-link/pull/9#issuecomment-683417436"
+      "title": "Optimizely Gets Acquired by Episerver",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
     },
     {
       "rank": "2.",
-      "title": "Optimizely Acquired by Episerver",
-      "link": "https://blog.optimizely.com/2020/09/03/epi-to-acquire-optimizely/"
-    },
-    {
-      "rank": "3.",
-      "title": "It’s Not Your Team, It’s You",
-      "link": "https://avivbenyosef.com/its-not-your-team-its-you/"
-    },
-    {
-      "rank": "4.",
-      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
-      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
-    },
-    {
-      "rank": "5.",
       "title": "Home Office Projects Series: Air conditioner setup",
       "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
     },
     {
-      "rank": "6.",
+      "rank": "3.",
+      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
+      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
+    },
+    {
+      "rank": "4.",
       "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
       "link": "https://github.com/Seb-C/kiss-orm"
     },
     {
-      "rank": "7.",
-      "title": "Skia + Rust = a Serverside Canvas for Node",
-      "link": "https://github.com/samizdatco/skia-canvas"
-    },
-    {
-      "rank": "8.",
-      "title": "Using Vim for C++ Development",
-      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
-    },
-    {
-      "rank": "9.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
-    },
-    {
-      "rank": "10.",
-      "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
-      "link": "https://newstorycharity.org/careers/brand-designer"
-    },
-    {
-      "rank": "11.",
+      "rank": "5.",
       "title": "Pachyderm Hub: data science without all the hassle of managing infrastructure",
       "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
     },
     {
-      "rank": "12.",
+      "rank": "6.",
+      "title": "Skia + Rust = a Serverside Canvas for Node",
+      "link": "https://github.com/samizdatco/skia-canvas"
+    },
+    {
+      "rank": "7.",
+      "title": "Using Vim for C++ Development",
+      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
+    },
+    {
+      "rank": "8.",
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
+    },
+    {
+      "rank": "9.",
       "title": "React is becoming a black box",
       "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
     },
     {
-      "rank": "13.",
+      "rank": "10.",
       "title": "EMule 0.60a",
       "link": "https://forum.emule-project.net/index.php?showtopic=165281"
     },
     {
-      "rank": "14.",
+      "rank": "11.",
+      "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
+      "link": "https://newstorycharity.org/careers/brand-designer"
+    },
+    {
+      "rank": "12.",
       "title": "Show HN: Automated Health Dashboard",
       "link": "https://github.com/TwinProduction/gatus"
     },
     {
-      "rank": "15.",
-      "title": "Pasco, Florida’s predictive policing system monitors and harasses residents",
-      "link": "https://www.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/"
-    },
-    {
-      "rank": "16.",
+      "rank": "13.",
       "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
       "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
     },
     {
-      "rank": "17.",
+      "rank": "14.",
+      "title": "Pasco, Florida’s predictive policing system monitors and harasses residents",
+      "link": "https://www.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/"
+    },
+    {
+      "rank": "15.",
+      "title": "It’s Not Your Team, It’s You",
+      "link": "https://avivbenyosef.com/its-not-your-team-its-you/"
+    },
+    {
+      "rank": "16.",
       "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
       "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
     },
     {
-      "rank": "18.",
-      "title": "A new Live Fourier Transform demonstration (2014) [video]",
-      "link": "https://www.youtube.com/watch?v=aiKrrGR57aI"
-    },
-    {
-      "rank": "19.",
-      "title": "Fertilizing the Ocean with Iron (2007)",
-      "link": "https://www.whoi.edu/oceanus/feature/fertilizing-the-ocean-with-iron/"
-    },
-    {
-      "rank": "20.",
-      "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
-      "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
-    },
-    {
-      "rank": "21.",
+      "rank": "17.",
       "title": "The Unix `Who` Command",
       "link": "https://gauthier.uk/blog/who/"
     },
     {
-      "rank": "22.",
+      "rank": "18.",
+      "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
+      "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
+    },
+    {
+      "rank": "19.",
+      "title": "A new Live Fourier Transform demonstration (2014) [video]",
+      "link": "https://www.youtube.com/watch?v=aiKrrGR57aI"
+    },
+    {
+      "rank": "20.",
+      "title": "Fertilizing the Ocean with Iron (2007)",
+      "link": "https://www.whoi.edu/oceanus/feature/fertilizing-the-ocean-with-iron/"
+    },
+    {
+      "rank": "21.",
       "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
       "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
     },
     {
+      "rank": "22.",
+      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
+      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
+    },
+    {
       "rank": "23.",
-      "title": "Most-favorited Hacker News posts",
-      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
+      "title": "We can solve the coronavirus-test mess now if we want to",
+      "link": "https://www.newyorker.com/science/medical-dispatch/we-can-solve-the-coronavirus-test-mess-now-if-we-want-to"
     },
     {
       "rank": "24.",
-      "title": "Introduction to Ada",
-      "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
+      "title": "Most-favorited Hacker News posts",
+      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
       "rank": "25.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
-      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
+      "title": "Introduction to Ada",
+      "link": "https://learn.adacore.com/courses/intro-to-ada/index.html"
     },
     {
       "rank": "27.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "SpaceX Launch: Starlink 12 [video]",
-      "link": "https://www.youtube.com/watch?v=_j4xR7LMCGY"
+      "title": "Hermann Hauser: ‘It’s in Nvidia’s Interests to Destroy Arm’",
+      "link": "https://tech.newstatesman.com/business/hermann-hauser-nvidia-destroy-arm"
     },
     {
       "rank": "30.",
-      "title": "Hermann Hauser: ‘It’s in Nvidia’s Interests to Destroy Arm’",
-      "link": "https://tech.newstatesman.com/business/hermann-hauser-nvidia-destroy-arm"
+      "title": "How to build a handwriting reader from scratch with deep learning",
+      "link": "https://nanonets.com/blog/handwritten-character-recognition/"
     }
   ],
   "metadata": {
