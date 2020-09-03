@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
-      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
+      "title": "Apple to delay privacy change threatening Facebook, mobile ad market",
+      "link": "https://mobile.reuters.com/article/idUSKBN25U2JU"
     },
     {
       "rank": "2.",
@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
+      "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
     },
     {
       "rank": "5.",
-      "title": "Skia + Rust = a Serverside Canvas for Node",
-      "link": "https://github.com/samizdatco/skia-canvas"
+      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
+      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
     },
     {
       "rank": "6.",
@@ -32,38 +32,38 @@
     },
     {
       "rank": "7.",
-      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
-      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
+      "title": "Skia + Rust = a Serverside Canvas for Node",
+      "link": "https://github.com/samizdatco/skia-canvas"
     },
     {
       "rank": "8.",
+      "title": "Optimizely to be acquired by Episerver",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
+    },
+    {
+      "rank": "9.",
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
+    },
+    {
+      "rank": "10.",
       "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
       "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
-      "rank": "9.",
-      "title": "Show HN: A proactive way of securing your Linux server",
-      "link": "https://github.com/prashantgupta24/firewalld-rest"
-    },
-    {
-      "rank": "10.",
-      "title": "Using Vim for C++ Development",
-      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
-    },
-    {
       "rank": "11.",
-      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
-      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
+      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
+      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
     },
     {
       "rank": "12.",
-      "title": "Planning the 2021 Roadmap",
-      "link": "https://blog.rust-lang.org/2020/09/03/Planning-2021-Roadmap.html"
+      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
+      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
     },
     {
       "rank": "13.",
-      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
-      "link": "https://github.com/Seb-C/kiss-orm"
+      "title": "Show HN: A proactive way of securing your Linux server",
+      "link": "https://github.com/prashantgupta24/firewalld-rest"
     },
     {
       "rank": "14.",
@@ -72,83 +72,83 @@
     },
     {
       "rank": "15.",
+      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
+      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
+    },
+    {
+      "rank": "16.",
+      "title": "Using Vim for C++ Development",
+      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
+    },
+    {
+      "rank": "17.",
+      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
+      "link": "https://github.com/Seb-C/kiss-orm"
+    },
+    {
+      "rank": "18.",
+      "title": "Planning the 2021 Roadmap",
+      "link": "https://blog.rust-lang.org/2020/09/03/Planning-2021-Roadmap.html"
+    },
+    {
+      "rank": "19.",
       "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
       "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
     },
     {
-      "rank": "16.",
-      "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
-    },
-    {
-      "rank": "17.",
-      "title": "EMule 0.60a",
-      "link": "https://forum.emule-project.net/index.php?showtopic=165281"
-    },
-    {
-      "rank": "18.",
-      "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
-      "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
-    },
-    {
-      "rank": "19.",
-      "title": "Home Office Projects Series: Air conditioner setup",
-      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
-    },
-    {
       "rank": "20.",
-      "title": "React is becoming a black box",
-      "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
+      "title": "30-35 percent of Covid-19-positive Big Ten athletes had myocarditis",
+      "link": "https://www.centredaily.com/sports/college/penn-state-university/psu-football/article245448050.html"
     },
     {
       "rank": "21.",
-      "title": "Heuristics to Generate Startup Ideas (2019)",
-      "link": "https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/"
-    },
-    {
-      "rank": "22.",
-      "title": "Show HN: Automated Health Dashboard",
-      "link": "https://github.com/TwinProduction/gatus"
-    },
-    {
-      "rank": "23.",
       "title": "Beginner's Guide to Understanding Daemons",
       "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
+      "rank": "22.",
+      "title": "EMule 0.60a",
+      "link": "https://forum.emule-project.net/index.php?showtopic=165281"
+    },
+    {
+      "rank": "23.",
+      "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
+      "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
+    },
+    {
       "rank": "24.",
+      "title": "Heuristics to Generate Startup Ideas (2019)",
+      "link": "https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/"
+    },
+    {
+      "rank": "25.",
+      "title": "Home Office Projects Series: Air conditioner setup",
+      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
+    },
+    {
+      "rank": "26.",
+      "title": "React is becoming a black box",
+      "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
+    },
+    {
+      "rank": "27.",
+      "title": "Show HN: Automated Health Dashboard",
+      "link": "https://github.com/TwinProduction/gatus"
+    },
+    {
+      "rank": "28.",
       "title": "The Unix `Who` Command",
       "link": "https://gauthier.uk/blog/who/"
     },
     {
-      "rank": "25.",
+      "rank": "29.",
       "title": "Pasco, Florida’s predictive policing system monitors and harasses residents",
       "link": "https://www.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/"
     },
     {
-      "rank": "26.",
-      "title": "Optimizely to be acquired by Episerver",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
-    },
-    {
-      "rank": "27.",
+      "rank": "30.",
       "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
       "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
-    },
-    {
-      "rank": "28.",
-      "title": "Fertilizing the Ocean with Iron (2007)",
-      "link": "https://www.whoi.edu/oceanus/feature/fertilizing-the-ocean-with-iron/"
-    },
-    {
-      "rank": "29.",
-      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
-      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
-    },
-    {
-      "rank": "30.",
-      "title": "A new Live Fourier Transform demonstration (2014) [video]",
-      "link": "https://www.youtube.com/watch?v=aiKrrGR57aI"
     }
   ],
   "metadata": {
