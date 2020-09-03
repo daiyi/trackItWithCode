@@ -57,23 +57,23 @@
     },
     {
       "rank": "12.",
-      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
-      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
-    },
-    {
-      "rank": "13.",
       "title": "Ask HN: What is your favorite method of sending large files?",
       "link": "item?id=24351111"
     },
     {
+      "rank": "13.",
+      "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
+      "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
+    },
+    {
       "rank": "14.",
-      "title": "Essential C (2003) [pdf]",
-      "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
+      "title": "Words Preserved Against a Day of Fear: Remembering Joseph Brodsky",
+      "link": "https://theamericanscholar.org/words-preserved-against-a-day-of-fear/#.X08fni-z1QJ"
     },
     {
       "rank": "15.",
-      "title": "GPT-3 pricing for API usage announced to beta users to go in effect from October",
-      "link": "https://www.reddit.com/r/GPT3/comments/ikorgs/oa_api_preliminary_beta_pricing_announced/"
+      "title": "Essential C (2003) [pdf]",
+      "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
     },
     {
       "rank": "16.",
@@ -82,73 +82,73 @@
     },
     {
       "rank": "17.",
+      "title": "When Two Bacteria Become One",
+      "link": "https://www.udel.edu/udaily/2020/september/eleftherios-papoutsakis-bacterial-fusion/"
+    },
+    {
+      "rank": "18.",
       "title": "The Economics of Skyscraper Height",
       "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
     },
     {
-      "rank": "18.",
-      "title": "Words Preserved Against a Day of Fear: Remembering Joseph Brodsky",
-      "link": "https://theamericanscholar.org/words-preserved-against-a-day-of-fear/#.X08fni-z1QJ"
+      "rank": "19.",
+      "title": "GPT-3 pricing for API usage announced to beta users to go in effect from October",
+      "link": "https://www.reddit.com/r/GPT3/comments/ikorgs/oa_api_preliminary_beta_pricing_announced/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "The Odyssey – Alexander Pope translation (1725)",
       "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Inside the HP Nanoprocessor",
       "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
-      "rank": "21.",
-      "title": "Unix Wars (2000)",
-      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
-    },
-    {
       "rank": "22.",
-      "title": "Linux from Scratch 10.0",
-      "link": "http://www.linuxfromscratch.org/news.html"
-    },
-    {
-      "rank": "23.",
-      "title": "CAC is not S&M",
-      "link": "https://www.causal.app/blog/cac-is-not-sales-marketing-expense"
-    },
-    {
-      "rank": "24.",
-      "title": "The butcher's shop that lasted 300 years (give or take)",
-      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
-    },
-    {
-      "rank": "25.",
-      "title": "Gertrude Elion's “antiviral odyssey”",
-      "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
-    },
-    {
-      "rank": "26.",
       "title": "New research provides solution for the 'Dust Bowl paradox'",
       "link": "https://phys.org/news/2020-09-solution-bowl-paradox.html"
     },
     {
+      "rank": "23.",
+      "title": "Unix Wars (2000)",
+      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
+    },
+    {
+      "rank": "24.",
+      "title": "Linux from Scratch 10.0",
+      "link": "http://www.linuxfromscratch.org/news.html"
+    },
+    {
+      "rank": "25.",
+      "title": "The butcher's shop that lasted 300 years (give or take)",
+      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
+    },
+    {
+      "rank": "26.",
+      "title": "CAC is not S&M",
+      "link": "https://www.causal.app/blog/cac-is-not-sales-marketing-expense"
+    },
+    {
       "rank": "27.",
+      "title": "Gertrude Elion's “antiviral odyssey”",
+      "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
+    },
+    {
+      "rank": "28.",
       "title": "Intel Launches 11th Gen Core Tiger Lake",
       "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Even in Go, concurrency is still not easy",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Programming with Categories",
       "link": "http://brendanfong.com/programmingcats.html"
-    },
-    {
-      "rank": "30.",
-      "title": "Creating Holographic User Interfaces",
-      "link": "https://blog.lookingglassfactory.com/learn/creating-holographic-user-interfaces/"
     }
   ],
   "metadata": {
