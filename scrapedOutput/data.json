@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Show HN: Automated Health Dashboard",
-      "link": "https://github.com/TwinProduction/gatus"
+      "title": "A deep look into Japanese Air Conditioners and their automation",
+      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
     },
     {
       "rank": "3.",
-      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
-      "link": "https://github.com/Seb-C/kiss-orm"
+      "title": "Show HN: Automated Health Dashboard",
+      "link": "https://github.com/TwinProduction/gatus"
     },
     {
       "rank": "4.",
@@ -27,33 +27,33 @@
     },
     {
       "rank": "6.",
+      "title": "GiveCampus (YC S15) Is Hiring Sr engineers passionate about education",
+      "link": "https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7"
+    },
+    {
+      "rank": "7.",
+      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
+      "link": "https://github.com/Seb-C/kiss-orm"
+    },
+    {
+      "rank": "8.",
       "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
       "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
     },
     {
-      "rank": "7.",
+      "rank": "9.",
       "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
       "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
     },
     {
-      "rank": "8.",
-      "title": "A deep look into Japanese Air Conditioners and their automation",
-      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
-    },
-    {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
       "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "The joys of owning an ‘OG’ email account",
       "link": "https://krebsonsecurity.com/2020/09/the-joys-of-owning-an-og-email-account/"
-    },
-    {
-      "rank": "11.",
-      "title": "Jupiter (YC S19) is hiring Software Engineers to put groceries on autopilot",
-      "link": "https://jupiter.co/careers/software-engineer"
     },
     {
       "rank": "12.",
@@ -62,28 +62,28 @@
     },
     {
       "rank": "13.",
-      "title": "The Unix `Who` Command",
-      "link": "https://gauthier.uk/blog/who/"
-    },
-    {
-      "rank": "14.",
       "title": "Staff Report on Algorithmic Trading in U.S. Capital Markets [pdf]",
       "link": "https://www.sec.gov/files/Algo_Trading_Report_2020.pdf"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Most-favorited Hacker News posts",
       "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
+      "rank": "15.",
+      "title": "The Unix `Who` Command",
+      "link": "https://gauthier.uk/blog/who/"
+    },
+    {
       "rank": "16.",
-      "title": "EMule 0.60a",
-      "link": "https://forum.emule-project.net/index.php?showtopic=165281"
+      "title": "Impossible Colors",
+      "link": "https://en.wikipedia.org/wiki/Impossible_color"
     },
     {
       "rank": "17.",
-      "title": "Impossible Colors",
-      "link": "https://en.wikipedia.org/wiki/Impossible_color"
+      "title": "EMule 0.60a",
+      "link": "https://forum.emule-project.net/index.php?showtopic=165281"
     },
     {
       "rank": "18.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "iPhone audio detectable with AM radio",
-      "link": "https://twitter.com/doctorcube/status/1300953606221422594"
+      "title": "Oysters That Knew What Time It Was",
+      "link": "https://www.wired.com/story/oysters-that-knew-what-time-it-was/"
     },
     {
       "rank": "23.",
-      "title": "Oysters That Knew What Time It Was",
-      "link": "https://www.wired.com/story/oysters-that-knew-what-time-it-was/"
+      "title": "iPhone audio detectable with AM radio",
+      "link": "https://twitter.com/doctorcube/status/1300953606221422594"
     },
     {
       "rank": "24.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "How to build a handwriting reader from scratch with deep learning",
-      "link": "https://nanonets.com/blog/handwritten-character-recognition/"
+      "title": "Code Completion with Antlr4-C3",
+      "link": "https://tomassetti.me/code-completion-with-antlr4-c3/"
     },
     {
       "rank": "29.",
-      "title": "Code Completion with Antlr4-C3",
-      "link": "https://tomassetti.me/code-completion-with-antlr4-c3/"
+      "title": "How to build a handwriting reader from scratch with deep learning",
+      "link": "https://nanonets.com/blog/handwritten-character-recognition/"
     },
     {
       "rank": "30.",
