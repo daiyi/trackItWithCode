@@ -32,28 +32,28 @@
     },
     {
       "rank": "7.",
-      "title": "Saying No to unjust computing even once is help",
-      "link": "https://www.gnu.org/philosophy/saying-no-even-once.en.html"
-    },
-    {
-      "rank": "8.",
       "title": "Programming with Categories",
       "link": "http://brendanfong.com/programmingcats.html"
     },
     {
-      "rank": "9.",
-      "title": "Gertrude Elion's “antiviral odyssey”",
-      "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
+      "rank": "8.",
+      "title": "Saying No to unjust computing even once is help",
+      "link": "https://www.gnu.org/philosophy/saying-no-even-once.en.html"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Essential C (2003) [pdf]",
       "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "On modern hardware the min-max heap beats a binary heap",
       "link": "https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/"
+    },
+    {
+      "rank": "11.",
+      "title": "Gertrude Elion's “antiviral odyssey”",
+      "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
     },
     {
       "rank": "12.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "Tawk of the Town",
-      "link": "https://literaryreview.co.uk/tawk-of-the-town"
+      "title": "Ask HN: What is your favorite method of sending large files?",
+      "link": "item?id=24351111"
     },
     {
       "rank": "15.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "Oysters That Knew What Time It Was",
-      "link": "https://www.wired.com/story/oysters-that-knew-what-time-it-was/"
+      "title": "Tawk of the Town",
+      "link": "https://literaryreview.co.uk/tawk-of-the-town"
     },
     {
       "rank": "17.",
-      "title": "Ask HN: What is your favorite method of sending large files?",
-      "link": "item?id=24351111"
+      "title": "Oysters That Knew What Time It Was",
+      "link": "https://www.wired.com/story/oysters-that-knew-what-time-it-was/"
     },
     {
       "rank": "18.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "Linux from Scratch 10.0",
-      "link": "http://www.linuxfromscratch.org/news.html"
+      "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
+      "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
     },
     {
       "rank": "22.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
-      "link": "https://www.tesorio.com/careers#job-openings"
+      "title": "Linux from Scratch 10.0",
+      "link": "http://www.linuxfromscratch.org/news.html"
     },
     {
       "rank": "24.",
-      "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
-      "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
+      "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
+      "link": "https://www.tesorio.com/careers#job-openings"
     },
     {
       "rank": "25.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Victor Hugo, a SEO tool for Hugo based sites (opinions pls)",
-      "link": "https://github.com/doncabreraphone/victorhugo"
+      "title": "Accidental Pinhole and Pinspeck Cameras (2014)",
+      "link": "http://people.csail.mit.edu/torralba/research/accidentalcameras/"
     }
   ],
   "metadata": {
