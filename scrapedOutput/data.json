@@ -17,8 +17,8 @@
     },
     {
       "rank": "4.",
-      "title": "The joys of owning an ‘OG’ email account",
-      "link": "https://krebsonsecurity.com/2020/09/the-joys-of-owning-an-og-email-account/"
+      "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
+      "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
     },
     {
       "rank": "5.",
@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
-      "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
+      "title": "The joys of owning an ‘OG’ email account",
+      "link": "https://krebsonsecurity.com/2020/09/the-joys-of-owning-an-og-email-account/"
     },
     {
       "rank": "7.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "iPhone audio detectable with AM radio",
-      "link": "https://twitter.com/doctorcube/status/1300953606221422594"
+      "title": "Release of methane gas from the seafloor in the Southern Hemisphere",
+      "link": "https://lnu.se/en/meet-linnaeus-university/current/news/2020/massive-release-of-methane-gas-from-the-seafloor-linked-to-global-warming-discovered-for-the-first-time-in-the-southern-hemisphere/"
     },
     {
       "rank": "11.",
-      "title": "Release of methane gas from the seafloor in the Southern Hemisphere",
-      "link": "https://lnu.se/en/meet-linnaeus-university/current/news/2020/massive-release-of-methane-gas-from-the-seafloor-linked-to-global-warming-discovered-for-the-first-time-in-the-southern-hemisphere/"
+      "title": "iPhone audio detectable with AM radio",
+      "link": "https://twitter.com/doctorcube/status/1300953606221422594"
     },
     {
       "rank": "12.",
@@ -77,63 +77,63 @@
     },
     {
       "rank": "16.",
-      "title": "Essential C (2003) [pdf]",
-      "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
-    },
-    {
-      "rank": "17.",
       "title": "The problem with C compatibility in C++",
       "link": "https://cor3ntin.github.io/posts/c/"
     },
     {
+      "rank": "17.",
+      "title": "Code Completion with Antlr4-C3",
+      "link": "https://tomassetti.me/code-completion-with-antlr4-c3/"
+    },
+    {
       "rank": "18.",
-      "title": "Bodybuilding supplement promotes healthy aging and extends life span in mice",
-      "link": "https://www.sciencemag.org/news/2020/09/bodybuilding-supplement-promotes-healthy-aging-and-extends-life-span-least-mice"
+      "title": "Essential C (2003) [pdf]",
+      "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
     },
     {
       "rank": "19.",
-      "title": "The Odyssey – Alexander Pope translation (1725)",
-      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
-    },
-    {
-      "rank": "20.",
-      "title": "Linux from Scratch 10.0",
-      "link": "http://www.linuxfromscratch.org/news.html"
-    },
-    {
-      "rank": "21.",
-      "title": "The Economics of Skyscraper Height",
-      "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
-    },
-    {
-      "rank": "22.",
       "title": "New research provides solution for the 'Dust Bowl paradox'",
       "link": "https://phys.org/news/2020-09-solution-bowl-paradox.html"
     },
     {
+      "rank": "20.",
+      "title": "Bodybuilding supplement promotes healthy aging and extends life span in mice",
+      "link": "https://www.sciencemag.org/news/2020/09/bodybuilding-supplement-promotes-healthy-aging-and-extends-life-span-least-mice"
+    },
+    {
+      "rank": "21.",
+      "title": "The Odyssey – Alexander Pope translation (1725)",
+      "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
+    },
+    {
+      "rank": "22.",
+      "title": "Linux from Scratch 10.0",
+      "link": "http://www.linuxfromscratch.org/news.html"
+    },
+    {
       "rank": "23.",
+      "title": "The Economics of Skyscraper Height",
+      "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
+    },
+    {
+      "rank": "24.",
       "title": "Unix Wars (2000)",
       "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "GPT-3 pricing for API usage announced to beta users to go in effect from October",
       "link": "https://www.reddit.com/r/GPT3/comments/ikorgs/oa_api_preliminary_beta_pricing_announced/"
     },
     {
-      "rank": "25.",
-      "title": "The butcher's shop that lasted 300 years (give or take)",
-      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
-    },
-    {
       "rank": "26.",
-      "title": "US sanctions International Criminal Court officials",
-      "link": "https://edition.cnn.com/2020/09/02/politics/us-icc-sanctions/index.html"
+      "title": "When Two Bacteria Become One",
+      "link": "https://www.udel.edu/udaily/2020/september/eleftherios-papoutsakis-bacterial-fusion/"
     },
     {
       "rank": "27.",
-      "title": "When Two Bacteria Become One",
-      "link": "https://www.udel.edu/udaily/2020/september/eleftherios-papoutsakis-bacterial-fusion/"
+      "title": "The butcher's shop that lasted 300 years (give or take)",
+      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Programming with Categories",
-      "link": "http://brendanfong.com/programmingcats.html"
+      "title": "US sanctions International Criminal Court officials",
+      "link": "https://edition.cnn.com/2020/09/02/politics/us-icc-sanctions/index.html"
     },
     {
       "rank": "30.",
-      "title": "CAC is not S&M",
-      "link": "https://www.causal.app/blog/cac-is-not-sales-marketing-expense"
+      "title": "Programming with Categories",
+      "link": "http://brendanfong.com/programmingcats.html"
     }
   ],
   "metadata": {
