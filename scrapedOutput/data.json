@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "David Graeber has died",
-      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
+      "title": "Score matching with Langevin Sampling: a new contender to GANs",
+      "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
     },
     {
       "rank": "3.",
-      "title": "Score matching with Langevin Sampling: a new contender to GANs",
-      "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
+      "title": "David Graeber has died",
+      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
     },
     {
       "rank": "4.",
@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
+      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
+      "link": "https://github.com/samizdatco/skia-canvas"
     },
     {
       "rank": "6.",
-      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
-      "link": "https://github.com/samizdatco/skia-canvas"
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
     },
     {
       "rank": "7.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
-      "title": "Apple to delay privacy change threatening Facebook, mobile ad market",
-      "link": "https://mobile.reuters.com/article/idUSKBN25U2JU"
-    },
-    {
-      "rank": "9.",
       "title": "Nothing can now be believed which is seen in a newspaper (1807)",
       "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Show HN: A proactive way of securing your Linux server",
       "link": "https://github.com/prashantgupta24/firewalld-rest"
+    },
+    {
+      "rank": "10.",
+      "title": "Apple to delay privacy change threatening Facebook, mobile ad market",
+      "link": "https://mobile.reuters.com/article/idUSKBN25U2JU"
     },
     {
       "rank": "11.",
@@ -57,28 +57,28 @@
     },
     {
       "rank": "12.",
-      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
-      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
-    },
-    {
-      "rank": "13.",
-      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
-      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
-    },
-    {
-      "rank": "14.",
       "title": "Radioactivity in Antiques",
       "link": "https://www.epa.gov/radtown/radioactivity-antiques"
     },
     {
+      "rank": "13.",
+      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
+      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
+    },
+    {
+      "rank": "14.",
+      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
+      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
+    },
+    {
       "rank": "15.",
-      "title": "Home Office Projects Series: Air conditioner setup",
-      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
+      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
+      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
     },
     {
       "rank": "16.",
-      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
-      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
+      "title": "Home Office Projects Series: Air conditioner setup",
+      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
-      "link": "https://jatan.space/exploring-moon-mountains/"
+      "title": "Eulerian Video Magnification",
+      "link": "https://people.csail.mit.edu/mrub/evm/"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
-      "title": "Using Vim for C++ Development",
-      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
+      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
+      "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
       "rank": "21.",
-      "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
-      "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
-    },
-    {
-      "rank": "22.",
       "title": "Beginner's Guide to Understanding Daemons",
       "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
+      "rank": "22.",
+      "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
+      "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
+    },
+    {
       "rank": "23.",
-      "title": "Email gateways and gatekeeping",
-      "link": "https://www.labbott.name/blog/2020/09/01/emailgateway.html"
+      "title": "WhatsApp Security Advisories",
+      "link": "https://www.whatsapp.com/security/advisories"
     },
     {
       "rank": "24.",
+      "title": "Using Vim for C++ Development",
+      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
+    },
+    {
+      "rank": "25.",
       "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
       "link": "https://github.com/Seb-C/kiss-orm"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "Email gateways and gatekeeping",
+      "link": "https://www.labbott.name/blog/2020/09/01/emailgateway.html"
+    },
+    {
+      "rank": "27.",
       "title": "EMule 0.60a",
       "link": "https://forum.emule-project.net/index.php?showtopic=165281"
     },
     {
-      "rank": "26.",
-      "title": "Heuristics to Generate Startup Ideas (2019)",
-      "link": "https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/"
-    },
-    {
-      "rank": "27.",
+      "rank": "28.",
       "title": "React is becoming a black box",
       "link": "https://jaredpalmer.com/blog/react-is-becoming-a-black-box"
     },
     {
-      "rank": "28.",
-      "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
-      "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
-    },
-    {
       "rank": "29.",
-      "title": "Show HN: Automated Health Dashboard",
-      "link": "https://github.com/TwinProduction/gatus"
+      "title": "Heuristics to Generate Startup Ideas (2019)",
+      "link": "https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/"
     },
     {
       "rank": "30.",
-      "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
-      "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
+      "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
+      "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
     }
   ],
   "metadata": {
