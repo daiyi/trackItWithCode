@@ -67,28 +67,28 @@
     },
     {
       "rank": "14.",
+      "title": "CAC is not S&M",
+      "link": "https://www.causal.app/blog/cac-is-not-sales-marketing-expense"
+    },
+    {
+      "rank": "15.",
       "title": "Ask HN: What is your favorite method of sending large files?",
       "link": "item?id=24351111"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "The Hash Monster: ESP-32 Tamagotchi for WiFi Cracking",
       "link": "https://telescope.ac/petazzoni/the-hash-monster-esp32-tamagotchi-for-wifi-cracking"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "The Economics of Skyscraper Height",
       "link": "https://buildingtheskyline.org/economics-of-skyscraper-height-series/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
       "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
-    },
-    {
-      "rank": "18.",
-      "title": "Gertrude Elion's “antiviral odyssey”",
-      "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
     },
     {
       "rank": "19.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Unix Wars (2000)",
-      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
+      "title": "Gertrude Elion's “antiviral odyssey”",
+      "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
     },
     {
       "rank": "22.",
-      "title": "Rolling Funds",
-      "link": "https://rolling.substack.com/p/rolling-fund-faq-what-is-a-rolling"
+      "title": "Unix Wars (2000)",
+      "link": "https://www.livinginternet.com/i/iw_unix_war.htm"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Hints and Principles for Computer System Design [pdf]",
-      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
-    },
-    {
-      "rank": "25.",
       "title": "Linux from Scratch 10.0",
       "link": "http://www.linuxfromscratch.org/news.html"
     },
     {
-      "rank": "26.",
-      "title": "Using Clojure in the command line with Babashka",
-      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
+      "rank": "25.",
+      "title": "Rolling Funds",
+      "link": "https://rolling.substack.com/p/rolling-fund-faq-what-is-a-rolling"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
       "link": "https://www.tesorio.com/careers#job-openings"
     },
     {
+      "rank": "27.",
+      "title": "Hints and Principles for Computer System Design [pdf]",
+      "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
+    },
+    {
       "rank": "28.",
-      "title": "Intel Launches 11th Gen Core Tiger Lake",
-      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
+      "title": "The butcher's shop that lasted 300 years (give or take)",
+      "link": "https://www.theguardian.com/news/2020/sep/01/frank-fisher-butchers-shop-closure-death-of-high-street"
     },
     {
       "rank": "29.",
-      "title": "XLS: Accelerated HW Synthesis",
-      "link": "https://google.github.io/xls/"
+      "title": "Using Clojure in the command line with Babashka",
+      "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
     },
     {
       "rank": "30.",
-      "title": "Supercomputer analysis of Covid-19 leads to new theory",
-      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
+      "title": "Intel Launches 11th Gen Core Tiger Lake",
+      "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     }
   ],
   "metadata": {
