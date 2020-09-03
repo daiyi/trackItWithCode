@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Victor Hugo, a SEO tool for Hugo based sites (opinions pls)",
-      "link": "https://github.com/doncabreraphone/victorhugo"
+      "title": "Bardcore",
+      "link": "https://en.wikipedia.org/wiki/Bardcore"
     },
     {
       "rank": "6.",
-      "title": "Bardcore",
-      "link": "https://en.wikipedia.org/wiki/Bardcore"
+      "title": "Victor Hugo, a SEO tool for Hugo based sites (opinions pls)",
+      "link": "https://github.com/doncabreraphone/victorhugo"
     },
     {
       "rank": "7.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
+      "title": "The Joys of Owning an ‘OG’ Email Account",
+      "link": "https://krebsonsecurity.com/2020/09/the-joys-of-owning-an-og-email-account/"
+    },
+    {
+      "rank": "9.",
       "title": "Gertrude Elion's “antiviral odyssey”",
       "link": "https://www.nationalgeographic.com/science/2020/08/gertrude-elion-antivirals-coronavirus-remdesivir/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Essential C (2003) [pdf]",
       "link": "http://cslibrary.stanford.edu/101/EssentialC.pdf"
-    },
-    {
-      "rank": "10.",
-      "title": "Tawk of the Town",
-      "link": "https://literaryreview.co.uk/tawk-of-the-town"
     },
     {
       "rank": "11.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
-      "title": "Oysters That Knew What Time It Was",
-      "link": "https://www.wired.com/story/oysters-that-knew-what-time-it-was/"
-    },
-    {
-      "rank": "13.",
       "title": "On modern hardware the min-max heap beats a binary heap",
       "link": "https://probablydance.com/2020/08/31/on-modern-hardware-the-min-max-heap-beats-a-binary-heap/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Inside the HP Nanoprocessor",
       "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+    },
+    {
+      "rank": "14.",
+      "title": "Tawk of the Town",
+      "link": "https://literaryreview.co.uk/tawk-of-the-town"
     },
     {
       "rank": "15.",
@@ -77,63 +77,63 @@
     },
     {
       "rank": "16.",
+      "title": "Oysters That Knew What Time It Was",
+      "link": "https://www.wired.com/story/oysters-that-knew-what-time-it-was/"
+    },
+    {
+      "rank": "17.",
       "title": "Craigstarter: DIY Replacement for Kickstarter",
       "link": "https://github.com/cmod/craigstarter"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "To be creative, Chinese philosophy teaches us to abandon ‘originality’",
       "link": "https://psyche.co/ideas/to-be-creative-chinese-philosophy-teaches-us-to-abandon-originality"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "The Odyssey – Alexander Pope translation (1725)",
       "link": "https://www.gutenberg.org/files/3160/3160-h/3160-h.htm"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Police-issued \"courtesy cards\" help friends and family out of minor infractions",
       "link": "https://www.vice.com/en_us/article/v7gxa4/pba-card-police-courtesy-cards"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Linux from Scratch 10.0",
       "link": "http://www.linuxfromscratch.org/news.html"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Tesorio Is Hiring a Senior Analytics Engineer and Senior Product Designer",
       "link": "https://www.tesorio.com/careers#job-openings"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Hints and Principles for Computer System Design [pdf]",
       "link": "https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Intel Launches 11th Gen Core Tiger Lake",
       "link": "https://www.anandtech.com/print/16063/intel-launches-11th-gen-core-tiger-lake-processors-and-evo-branding"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Using Clojure in the command line with Babashka",
       "link": "https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Most-favorited Hacker News posts",
       "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "XLS: Accelerated HW Synthesis",
       "link": "https://google.github.io/xls/"
-    },
-    {
-      "rank": "27.",
-      "title": "Show HN: Lacona – Search and natural language commands for Mac",
-      "link": "https://lacona.app"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Supercomputer analysis of Covid-19 leads to new theory",
-      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
+      "title": "Show HN: Lacona – Search and natural language commands for Mac",
+      "link": "https://lacona.app"
     },
     {
       "rank": "30.",
-      "title": "Why is OOP still so widely spread?",
-      "link": "https://stackoverflow.blog/2020/09/02/if-everyone-hates-it-why-is-oop-still-so-widely-spread/"
+      "title": "Supercomputer analysis of Covid-19 leads to new theory",
+      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63"
     }
   ],
   "metadata": {
