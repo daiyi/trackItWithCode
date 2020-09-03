@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
-      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
-      "link": "https://github.com/samizdatco/skia-canvas"
-    },
-    {
-      "rank": "9.",
-      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
-      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
-    },
-    {
-      "rank": "10.",
-      "title": "Optimizely to be acquired by Episerver",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
-    },
-    {
-      "rank": "11.",
       "title": "Eulerian Video Magnification",
       "link": "https://people.csail.mit.edu/mrub/evm/"
     },
     {
-      "rank": "12.",
+      "rank": "9.",
+      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
+      "link": "https://github.com/samizdatco/skia-canvas"
+    },
+    {
+      "rank": "10.",
+      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
+      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
+    },
+    {
+      "rank": "11.",
       "title": "Fainter Become My Hopes: A new translation of a fragment of Simonides’ poetry",
       "link": "https://www.laphamsquarterly.org/roundtable/fainter-become-my-hopes"
+    },
+    {
+      "rank": "12.",
+      "title": "Optimizely to be acquired by Episerver",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
     },
     {
       "rank": "13.",
@@ -67,48 +67,48 @@
     },
     {
       "rank": "14.",
-      "title": "Radioactivity in Antiques",
-      "link": "https://www.epa.gov/radtown/radioactivity-antiques"
-    },
-    {
-      "rank": "15.",
       "title": "Beginner's Guide to Understanding Daemons",
       "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
-      "rank": "16.",
-      "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
-      "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
+      "rank": "15.",
+      "title": "Daniel Stenberg (curl) has been denied entry to the US for 870 days",
+      "link": "https://daniel.haxx.se/us-visa.html"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Home Office Projects Series: Air conditioner setup",
       "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
     },
     {
+      "rank": "17.",
+      "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
+      "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
+    },
+    {
       "rank": "18.",
-      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
-      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
+      "title": "Radioactivity in Antiques",
+      "link": "https://www.epa.gov/radtown/radioactivity-antiques"
     },
     {
       "rank": "19.",
-      "title": "Using Vim for C++ Development",
-      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
-    },
-    {
-      "rank": "20.",
       "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
       "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
     },
     {
+      "rank": "20.",
+      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
+      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
+    },
+    {
       "rank": "21.",
-      "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
-      "link": "https://newstorycharity.org/careers/brand-designer"
+      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
+      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
     },
     {
       "rank": "22.",
-      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
-      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
+      "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
+      "link": "https://newstorycharity.org/careers/brand-designer"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
-      "link": "https://jatan.space/exploring-moon-mountains/"
-    },
-    {
-      "rank": "25.",
-      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
-      "link": "https://github.com/Seb-C/kiss-orm"
-    },
-    {
-      "rank": "26.",
-      "title": "Governments must beware the lure of free money",
-      "link": "https://www.economist.com/leaders/2020/07/23/governments-must-beware-the-lure-of-free-money"
-    },
-    {
-      "rank": "27.",
       "title": "Battery-free Game Boy runs forever",
       "link": "https://techxplore.com/news/2020-09-battery-free-game-boy.html"
     },
     {
-      "rank": "28.",
-      "title": "Email gateways and gatekeeping",
-      "link": "https://www.labbott.name/blog/2020/09/01/emailgateway.html"
+      "rank": "25.",
+      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
+      "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
-      "rank": "29.",
+      "rank": "26.",
+      "title": "Using Vim for C++ Development",
+      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
+    },
+    {
+      "rank": "27.",
+      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
+      "link": "https://github.com/Seb-C/kiss-orm"
+    },
+    {
+      "rank": "28.",
       "title": "EMule 0.60a",
       "link": "https://forum.emule-project.net/index.php?showtopic=165281"
     },
     {
+      "rank": "29.",
+      "title": "Governments must beware the lure of free money",
+      "link": "https://www.economist.com/leaders/2020/07/23/governments-must-beware-the-lure-of-free-money"
+    },
+    {
       "rank": "30.",
-      "title": "Daniel Stenberg (curl) has been denied entry to the US for 870 days",
-      "link": "https://daniel.haxx.se/us-visa.html"
+      "title": "Email gateways and gatekeeping",
+      "link": "https://www.labbott.name/blog/2020/09/01/emailgateway.html"
     }
   ],
   "metadata": {
