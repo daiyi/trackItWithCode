@@ -2,43 +2,43 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
-      "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
-    },
-    {
-      "rank": "2.",
       "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
       "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
     },
     {
-      "rank": "3.",
-      "title": "Apple to delay privacy change threatening Facebook, mobile ad market",
-      "link": "https://mobile.reuters.com/article/idUSKBN25U2JU"
-    },
-    {
-      "rank": "4.",
+      "rank": "2.",
       "title": "Score matching with Langevin Sampling: a new contender to GANs",
       "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
     },
     {
-      "rank": "5.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
-    },
-    {
-      "rank": "6.",
+      "rank": "3.",
       "title": "David Graeber has died",
       "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
     },
     {
-      "rank": "7.",
+      "rank": "4.",
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
+    },
+    {
+      "rank": "5.",
+      "title": "Apple to delay privacy change threatening Facebook, mobile ad market",
+      "link": "https://mobile.reuters.com/article/idUSKBN25U2JU"
+    },
+    {
+      "rank": "6.",
       "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
       "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Coping with Cats",
       "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
+    },
+    {
+      "rank": "8.",
+      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
+      "link": "https://github.com/samizdatco/skia-canvas"
     },
     {
       "rank": "9.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
-      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
-      "link": "https://github.com/samizdatco/skia-canvas"
+      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
+      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
     },
     {
       "rank": "11.",
-      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
-      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
+      "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
+      "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
     },
     {
       "rank": "12.",
-      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
-      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
+      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
+      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
     },
     {
       "rank": "13.",
@@ -72,38 +72,38 @@
     },
     {
       "rank": "15.",
-      "title": "Show HN: A proactive way of securing your Linux server",
-      "link": "https://github.com/prashantgupta24/firewalld-rest"
+      "title": "Home Office Projects Series: Air conditioner setup",
+      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
     },
     {
       "rank": "16.",
-      "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
-      "link": "https://newstorycharity.org/careers/brand-designer"
-    },
-    {
-      "rank": "17.",
       "title": "30-35 percent of Covid-19-positive Big Ten athletes had myocarditis",
       "link": "https://www.centredaily.com/sports/college/penn-state-university/psu-football/article245448050.html"
     },
     {
+      "rank": "17.",
+      "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
+      "link": "https://newstorycharity.org/careers/brand-designer"
+    },
+    {
       "rank": "18.",
+      "title": "Show HN: A proactive way of securing your Linux server",
+      "link": "https://github.com/prashantgupta24/firewalld-rest"
+    },
+    {
+      "rank": "19.",
       "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
       "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Using Vim for C++ Development",
       "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
       "link": "https://github.com/Seb-C/kiss-orm"
-    },
-    {
-      "rank": "21.",
-      "title": "Beginner's Guide to Understanding Daemons",
-      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
       "rank": "22.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "EMule 0.60a",
-      "link": "https://forum.emule-project.net/index.php?showtopic=165281"
+      "title": "Beginner's Guide to Understanding Daemons",
+      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
       "rank": "24.",
-      "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
-      "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
+      "title": "EMule 0.60a",
+      "link": "https://forum.emule-project.net/index.php?showtopic=165281"
     },
     {
       "rank": "25.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
-      "title": "Home Office Projects Series: Air conditioner setup",
-      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
+      "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
+      "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
     },
     {
       "rank": "27.",
-      "title": "Show HN: Automated Health Dashboard",
-      "link": "https://github.com/TwinProduction/gatus"
+      "title": "Heuristics to Generate Startup Ideas (2019)",
+      "link": "https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/"
     },
     {
       "rank": "28.",
-      "title": "Heuristics to Generate Startup Ideas (2019)",
-      "link": "https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/"
+      "title": "Show HN: Automated Health Dashboard",
+      "link": "https://github.com/TwinProduction/gatus"
     },
     {
       "rank": "29.",
