@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
-      "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
-    },
-    {
-      "rank": "4.",
       "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
       "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "The new contender to GANs: score matching with Langevin Sampling",
       "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
       "link": "item?id=24364811"
+    },
+    {
+      "rank": "6.",
+      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
+      "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
       "rank": "7.",
@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
-      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
-      "link": "https://jatan.space/exploring-moon-mountains/"
-    },
-    {
-      "rank": "9.",
       "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
       "link": "https://github.com/Seb-C/kiss-orm"
     },
     {
+      "rank": "9.",
+      "title": "Show HN: A proactive way of securing your Linux server",
+      "link": "https://github.com/prashantgupta24/firewalld-rest"
+    },
+    {
       "rank": "10.",
-      "title": "Optimizely to be acquired by Episerver",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
+      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
+      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
     },
     {
       "rank": "11.",
-      "title": "Home Office Projects Series: Air conditioner setup",
-      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
+      "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
+      "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
     },
     {
       "rank": "12.",
-      "title": "Show HN: A proactive way of securing your Linux server",
-      "link": "https://github.com/prashantgupta24/firewalld-rest"
+      "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
     },
     {
       "rank": "13.",
@@ -67,33 +67,33 @@
     },
     {
       "rank": "14.",
-      "title": "Anxiety, depression, and PTSD may be adaptive responses to adversity: study",
-      "link": "https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all"
+      "title": "Home Office Projects Series: Air conditioner setup",
+      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
     },
     {
       "rank": "15.",
-      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
-      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
+      "title": "David Graeber Author of Debt, Bullshit Jobs Dies",
+      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
     },
     {
       "rank": "16.",
-      "title": "Heuristics to Generate Startup Ideas (2019)",
-      "link": "https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/"
-    },
-    {
-      "rank": "17.",
       "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
       "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "EMule 0.60a",
       "link": "https://forum.emule-project.net/index.php?showtopic=165281"
     },
     {
+      "rank": "18.",
+      "title": "Optimizely to be acquired by Episerver",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
+    },
+    {
       "rank": "19.",
-      "title": "David Graeber Author of Debt, Bullshit Jobs Dies",
-      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
+      "title": "Heuristics to Generate Startup Ideas (2019)",
+      "link": "https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/"
     },
     {
       "rank": "20.",
@@ -102,33 +102,33 @@
     },
     {
       "rank": "21.",
-      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
-      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
-    },
-    {
-      "rank": "22.",
       "title": "Show HN: Automated Health Dashboard",
       "link": "https://github.com/TwinProduction/gatus"
     },
     {
+      "rank": "22.",
+      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
+      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
+    },
+    {
       "rank": "23.",
+      "title": "Planning the 2021 Roadmap",
+      "link": "https://blog.rust-lang.org/2020/09/03/Planning-2021-Roadmap.html"
+    },
+    {
+      "rank": "24.",
       "title": "The Unix `Who` Command",
       "link": "https://gauthier.uk/blog/who/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Pasco, Florida’s predictive policing system monitors and harasses residents",
       "link": "https://www.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Automatic SSL Certificates for internal IP's for home k8 setup using LetsEncrypt",
       "link": "https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/"
-    },
-    {
-      "rank": "26.",
-      "title": "A new Live Fourier Transform demonstration (2014) [video]",
-      "link": "https://www.youtube.com/watch?v=aiKrrGR57aI"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "A new Live Fourier Transform demonstration (2014) [video]",
+      "link": "https://www.youtube.com/watch?v=aiKrrGR57aI"
+    },
+    {
+      "rank": "29.",
       "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
       "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Show HN: FixCache – keep track of bug-prone files from Git commit history",
       "link": "https://github.com/aavshr/fixCache"
-    },
-    {
-      "rank": "30.",
-      "title": "Most-favorited Hacker News posts",
-      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     }
   ],
   "metadata": {
