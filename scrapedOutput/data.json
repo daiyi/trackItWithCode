@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
+      "title": "WhatsApp Security Advisories",
+      "link": "https://www.whatsapp.com/security/advisories"
+    },
+    {
+      "rank": "3.",
       "title": "Score matching with Langevin Sampling: a new contender to GANs",
       "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "David Graeber has died",
       "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
-    },
-    {
-      "rank": "4.",
-      "title": "WhatsApp Security Advisories",
-      "link": "https://www.whatsapp.com/security/advisories"
     },
     {
       "rank": "5.",
@@ -32,28 +32,28 @@
     },
     {
       "rank": "7.",
-      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
-      "link": "https://github.com/samizdatco/skia-canvas"
-    },
-    {
-      "rank": "8.",
       "title": "Nothing can now be believed which is seen in a newspaper (1807)",
       "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
     },
     {
-      "rank": "9.",
-      "title": "Optimizely to be acquired by Episerver",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
-    },
-    {
-      "rank": "10.",
+      "rank": "8.",
       "title": "Show HN: A proactive way of securing your Linux server",
       "link": "https://github.com/prashantgupta24/firewalld-rest"
     },
     {
+      "rank": "9.",
+      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
+      "link": "https://github.com/samizdatco/skia-canvas"
+    },
+    {
+      "rank": "10.",
+      "title": "Optimizely to be acquired by Episerver",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
+    },
+    {
       "rank": "11.",
-      "title": "Radioactivity in Antiques",
-      "link": "https://www.epa.gov/radtown/radioactivity-antiques"
+      "title": "Eulerian Video Magnification",
+      "link": "https://people.csail.mit.edu/mrub/evm/"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
-      "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
-      "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
-    },
-    {
-      "rank": "14.",
       "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
       "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
     },
     {
+      "rank": "14.",
+      "title": "Radioactivity in Antiques",
+      "link": "https://www.epa.gov/radtown/radioactivity-antiques"
+    },
+    {
       "rank": "15.",
-      "title": "Home Office Projects Series: Air conditioner setup",
-      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
+      "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
+      "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
-      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
+      "title": "Home Office Projects Series: Air conditioner setup",
+      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
     },
     {
       "rank": "18.",
@@ -92,23 +92,23 @@
     },
     {
       "rank": "19.",
+      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
+      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
+    },
+    {
+      "rank": "20.",
       "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
       "link": "https://newstorycharity.org/careers/brand-designer"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Using Vim for C++ Development",
       "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "30-35 percent of Covid-19-positive Big Ten athletes had myocarditis",
       "link": "https://www.centredaily.com/sports/college/penn-state-university/psu-football/article245448050.html"
-    },
-    {
-      "rank": "22.",
-      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
-      "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
       "rank": "23.",
@@ -117,23 +117,23 @@
     },
     {
       "rank": "24.",
-      "title": "Eulerian Video Magnification",
-      "link": "https://people.csail.mit.edu/mrub/evm/"
+      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
+      "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
       "rank": "25.",
+      "title": "Battery-free Game Boy runs forever",
+      "link": "https://techxplore.com/news/2020-09-battery-free-game-boy.html"
+    },
+    {
+      "rank": "26.",
       "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
       "link": "https://github.com/Seb-C/kiss-orm"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Email gateways and gatekeeping",
       "link": "https://www.labbott.name/blog/2020/09/01/emailgateway.html"
-    },
-    {
-      "rank": "27.",
-      "title": "Battery-free Game Boy runs forever",
-      "link": "https://techxplore.com/news/2020-09-battery-free-game-boy.html"
     },
     {
       "rank": "28.",
