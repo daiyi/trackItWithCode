@@ -7,7 +7,7 @@
     },
     {
       "rank": "2.",
-      "title": "Reddit app got 50M downloads by making mobile web experience miserable",
+      "title": "Reddit gets its app to 50m Play Store downloads",
       "link": "https://www.androidpolice.com/2020/09/02/reddit-gets-its-app-to-50-million-play-store-downloads-mostly-by-making-the-mobile-web-experience-miserable/"
     },
     {
@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Rust testing or verifying: Why not both?",
-      "link": "https://alastairreid.github.io/why-not-both/"
+      "title": "What I Learned Going Through YC as a 17 Year Old",
+      "link": "https://tieshunroquerre.com/blog/yc-learnings"
     },
     {
       "rank": "5.",
-      "title": "What I Learned Going Through YC as a 17 Year Old",
-      "link": "https://tieshunroquerre.com/blog/yc-learnings"
+      "title": "Rust testing or verifying: Why not both?",
+      "link": "https://alastairreid.github.io/why-not-both/"
     },
     {
       "rank": "6.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Learning@home hivemind – train large neural networks across the internet",
-      "link": "https://learning-at-home.github.io/"
+      "title": "Facebook prohibits music or music listening experience on Live",
+      "link": "https://www.facebook.com/legal/music_guidelines"
     },
     {
       "rank": "9.",
-      "title": "Facebook prohibits music or music listening experience on Live",
-      "link": "https://www.facebook.com/legal/music_guidelines"
+      "title": "Learning@home hivemind – train large neural networks across the internet",
+      "link": "https://learning-at-home.github.io/"
     },
     {
       "rank": "10.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
+      "title": "Preserving data integrity: A ZFS-inspired storage system",
+      "link": "https://insanity.industries/post/preserving-data-integrity/"
+    },
+    {
+      "rank": "13.",
       "title": "Show HN: Single neuron neural network written in COBOL",
       "link": "https://github.com/victorqribeiro/perceptronCobol"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
       "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
-    },
-    {
-      "rank": "14.",
-      "title": "Preserving data integrity: A ZFS-inspired storage system",
-      "link": "https://insanity.industries/post/preserving-data-integrity/"
     },
     {
       "rank": "15.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
-      "title": "Costs of running a Python webapp for 55k monthly users",
-      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
-    },
-    {
-      "rank": "18.",
       "title": "Eulerian Video Magnification",
       "link": "https://people.csail.mit.edu/mrub/evm/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
       "link": "item?id=24364811"
+    },
+    {
+      "rank": "19.",
+      "title": "Costs of running a Python webapp for 55k monthly users",
+      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
     },
     {
       "rank": "20.",
@@ -107,38 +107,38 @@
     },
     {
       "rank": "22.",
-      "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
-      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
-    },
-    {
-      "rank": "23.",
       "title": "Software supply chain security",
       "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
     },
     {
-      "rank": "24.",
-      "title": "A True Story (150 AD)",
-      "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
+      "rank": "23.",
+      "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
+      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Most-favorited Hacker News posts",
       "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
+      "rank": "25.",
+      "title": "A True Story (150 AD)",
+      "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
+    },
+    {
       "rank": "26.",
+      "title": "Windows update resets your default programs so they can suggest using Edge",
+      "link": "https://www.reddit.com/r/assholedesign/comments/im0rbv/installing_the_last_windows_update_resets_your/"
+    },
+    {
+      "rank": "27.",
       "title": "Show HN: FixCache – keep track of bug-prone files from Git commit history",
       "link": "https://github.com/aavshr/fixCache"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Reading mind and Visualizing thoughts using AI",
       "link": "https://thinkml.ai/ai-can-read-and-visualize-our-thoughts/"
-    },
-    {
-      "rank": "28.",
-      "title": "Windows update resets your default programs so they can suggest using Edge",
-      "link": "https://www.reddit.com/r/assholedesign/comments/im0rbv/installing_the_last_windows_update_resets_your/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Expressive Pixels",
-      "link": "https://www.microsoft.com/en-us/research/product/expressive-pixels/"
+      "title": "The Computer, the Consumer and Privacy (1984)",
+      "link": "https://www.nytimes.com/1984/03/04/weekinreview/the-computer-the-consumer-and-privacy.html"
     }
   ],
   "metadata": {
