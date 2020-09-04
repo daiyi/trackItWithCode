@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Snake in a QR Code",
-      "link": "https://itsmattkc.com/etc/snakeqr/"
+      "title": "The Oldest Cookbook in Korean",
+      "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
     },
     {
       "rank": "3.",
-      "title": "Upsert anti-pattern in SQL Server",
-      "link": "https://sqlperformance.com/2020/09/locking/upsert-anti-pattern"
+      "title": "Snake in a QR Code",
+      "link": "https://itsmattkc.com/etc/snakeqr/"
     },
     {
       "rank": "4.",
@@ -42,33 +42,33 @@
     },
     {
       "rank": "9.",
-      "title": "An AI Breaks the Writing Barrier",
-      "link": "https://www.wsj.com/articles/an-ai-breaks-the-writing-barrier-11598068862"
-    },
-    {
-      "rank": "10.",
-      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3&4: B/E and product",
-      "link": "https://www.soteris.co/#careers"
-    },
-    {
-      "rank": "11.",
       "title": "Rocket Helicopter (2010)",
       "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
     },
     {
-      "rank": "12.",
+      "rank": "10.",
       "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
       "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
     },
     {
-      "rank": "13.",
+      "rank": "11.",
+      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3&4: B/E and product",
+      "link": "https://www.soteris.co/#careers"
+    },
+    {
+      "rank": "12.",
       "title": "Specter – Clojure API for immutable programming (2017)",
       "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "The social and economic costs borne by young people without offices",
       "link": "https://www.theatlantic.com/magazine/archive/2020/10/career-costs-working-from-home/615472/"
+    },
+    {
+      "rank": "14.",
+      "title": "A Requiem for a Dying Operating System (1994)",
+      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
     },
     {
       "rank": "15.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "A Requiem for a Dying Operating System (1994)",
-      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
+      "title": "Mark Twain’s Mind Waves",
+      "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "Mark Twain’s Mind Waves",
-      "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
+      "title": "Upsert anti-pattern in SQL Server",
+      "link": "https://sqlperformance.com/2020/09/locking/upsert-anti-pattern"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "The Oldest Cookbook in Korean",
-      "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
+      "title": "Ask HN: Are you friends with your manager?",
+      "link": "item?id=24378560"
     },
     {
       "rank": "21.",
@@ -107,23 +107,23 @@
     },
     {
       "rank": "22.",
-      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
-    },
-    {
-      "rank": "23.",
       "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
       "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
     },
     {
+      "rank": "23.",
+      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+    },
+    {
       "rank": "24.",
-      "title": "100 NLP Papers",
-      "link": "https://github.com/mhagiwara/100-nlp-papers"
+      "title": "Rust testing or verifying: Why not both?",
+      "link": "https://alastairreid.github.io/why-not-both/"
     },
     {
       "rank": "25.",
-      "title": "Rust testing or verifying: Why not both?",
-      "link": "https://alastairreid.github.io/why-not-both/"
+      "title": "Ask HN: What Happened to Larry Page?",
+      "link": "item?id=24376380"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "100 NLP Papers",
+      "link": "https://github.com/mhagiwara/100-nlp-papers"
+    },
+    {
+      "rank": "28.",
       "title": "Scene bust triggered historic drop in ‘pirate’ releases",
       "link": "https://torrentfreak.com/scene-bust-triggered-historic-drop-in-pirate-releases-200904/"
     },
     {
-      "rank": "28.",
-      "title": "Ask HN: What Happened to Larry Page?",
-      "link": "item?id=24376380"
-    },
-    {
       "rank": "29.",
-      "title": "Ask HN: Are you friends with your manager?",
-      "link": "item?id=24378560"
+      "title": "Standards for Gloves",
+      "link": "https://guidegloves.com/en/knowledge/standards"
     },
     {
       "rank": "30.",
-      "title": "Standards for Gloves",
-      "link": "https://guidegloves.com/en/knowledge/standards"
+      "title": "GCC Automatic Parallel Compilation Viability Results Help Up to 3.3x",
+      "link": "https://www.phoronix.com/scan.php?page=news_item&px=GCC-Auto-Parallel-Compilation"
     }
   ],
   "metadata": {
