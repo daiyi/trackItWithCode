@@ -12,8 +12,8 @@
     },
     {
       "rank": "3.",
-      "title": "Show HN: My GitHub Readme Is Interactive",
-      "link": "https://github.com/veggiedefender/typing"
+      "title": "Zork source and binaries, January 1978",
+      "link": "https://github.com/MITDDC/zork-1978-01"
     },
     {
       "rank": "4.",
@@ -22,28 +22,28 @@
     },
     {
       "rank": "5.",
-      "title": "Apple ordered to pay retail workers for security screening time [pdf]",
-      "link": "https://cdn.ca9.uscourts.gov/datastore/opinions/2020/09/02/15-17382.pdf"
+      "title": "Show HN: My GitHub Readme Is Interactive",
+      "link": "https://github.com/veggiedefender/typing"
     },
     {
       "rank": "6.",
-      "title": "Show HN: Single neuron neural network written in COBOL",
-      "link": "https://github.com/victorqribeiro/perceptronCobol"
-    },
-    {
-      "rank": "7.",
       "title": "Interviews with makers of high-end mechanical keyboards",
       "link": "https://endgame.fyi"
     },
     {
+      "rank": "7.",
+      "title": "Apple ordered to pay retail workers for security screening time [pdf]",
+      "link": "https://cdn.ca9.uscourts.gov/datastore/opinions/2020/09/02/15-17382.pdf"
+    },
+    {
       "rank": "8.",
-      "title": "What is software supply chain security and why does it matter?",
-      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
+      "title": "Show HN: Single neuron neural network written in COBOL",
+      "link": "https://github.com/victorqribeiro/perceptronCobol"
     },
     {
       "rank": "9.",
-      "title": "Zork source and binaries, January 1978",
-      "link": "https://github.com/MITDDC/zork-1978-01"
+      "title": "What is software supply chain security and why does it matter?",
+      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
     },
     {
       "rank": "10.",
@@ -72,48 +72,48 @@
     },
     {
       "rank": "15.",
-      "title": "India authorises sale of electric vehicles without batteries",
-      "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
-    },
-    {
-      "rank": "16.",
       "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
       "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
     },
     {
-      "rank": "17.",
-      "title": "The Computer, the Consumer and Privacy (1984)",
-      "link": "https://www.nytimes.com/1984/03/04/weekinreview/the-computer-the-consumer-and-privacy.html"
-    },
-    {
-      "rank": "18.",
+      "rank": "16.",
       "title": "Beginner's Guide to Understanding Daemons",
       "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
+      "rank": "17.",
+      "title": "India authorises sale of electric vehicles without batteries",
+      "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
+    },
+    {
+      "rank": "18.",
+      "title": "The Computer, the Consumer and Privacy (1984)",
+      "link": "https://www.nytimes.com/1984/03/04/weekinreview/the-computer-the-consumer-and-privacy.html"
+    },
+    {
       "rank": "19.",
+      "title": "Digital Pregnancy Tests Have an Internal Paper Test",
+      "link": "https://twitter.com/Foone/status/1301707401024827392"
+    },
+    {
+      "rank": "20.",
       "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
       "link": "https://github.com/samizdatco/skia-canvas"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Writing an Efficient Vulkan Renderer",
       "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Coping with Cats",
       "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Home Office Projects Series: Air conditioner setup",
       "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
-    },
-    {
-      "rank": "23.",
-      "title": "Facebook prohibits music or music listening experience on Live",
-      "link": "https://www.facebook.com/legal/music_guidelines"
     },
     {
       "rank": "24.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "Facebook prohibits music or music listening experience on Live",
+      "link": "https://www.facebook.com/legal/music_guidelines"
+    },
+    {
+      "rank": "28.",
       "title": "Radioactivity in Antiques",
       "link": "https://www.epa.gov/radtown/radioactivity-antiques"
     },
     {
-      "rank": "28.",
-      "title": "Show HN: A proactive way of securing your Linux server",
-      "link": "https://github.com/prashantgupta24/firewalld-rest"
-    },
-    {
       "rank": "29.",
-      "title": "The Lessons of Shell Shock",
-      "link": "https://www.historytoday.com/history-matters/lessons-shell-shock"
+      "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
+      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
     },
     {
       "rank": "30.",
-      "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
-      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
+      "title": "The Lessons of Shell Shock",
+      "link": "https://www.historytoday.com/history-matters/lessons-shell-shock"
     }
   ],
   "metadata": {
