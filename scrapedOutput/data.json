@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Costs of running a Python webapp for 55k monthly users",
-      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
+      "title": "Islamic State: Giant library of group's online propaganda discovered",
+      "link": "https://www.bbc.co.uk/news/technology-54011034"
     },
     {
       "rank": "2.",
-      "title": "Islamic State: Giant library of group's online propaganda discovered",
-      "link": "https://www.bbc.co.uk/news/technology-54011034"
+      "title": "Costs of running a Python webapp for 55k monthly users",
+      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
     },
     {
       "rank": "3.",
@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Learning@home hivemind – train large neural networks across the internet",
-      "link": "https://learning-at-home.github.io/"
+      "title": "Libvirt – The Unsung Hero of Cloud Computing (2013)",
+      "link": "https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html"
     },
     {
       "rank": "6.",
-      "title": "Libvirt – The Unsung Hero of Cloud Computing (2013)",
-      "link": "https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html"
+      "title": "Learning@home hivemind – train large neural networks across the internet",
+      "link": "https://learning-at-home.github.io/"
     },
     {
       "rank": "7.",
@@ -47,38 +47,38 @@
     },
     {
       "rank": "10.",
-      "title": "Fusion is not 20 years in the future.It’s 50 years in the past–and we missed it",
-      "link": "https://fusor.net/"
-    },
-    {
-      "rank": "11.",
       "title": "Show HN: Single neuron neural network written in COBOL",
       "link": "https://github.com/victorqribeiro/perceptronCobol"
     },
     {
-      "rank": "12.",
-      "title": "What is software supply chain security and why does it matter?",
-      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
-    },
-    {
-      "rank": "13.",
+      "rank": "11.",
       "title": "Digital Pregnancy Tests Have an Internal Paper Test",
       "link": "https://twitter.com/Foone/status/1301707401024827392"
     },
     {
-      "rank": "14.",
+      "rank": "12.",
       "title": "Score matching with Langevin Sampling: a new contender to GANs",
       "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
     },
     {
-      "rank": "15.",
+      "rank": "13.",
+      "title": "What is software supply chain security and why does it matter?",
+      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
+    },
+    {
+      "rank": "14.",
       "title": "Eulerian Video Magnification",
       "link": "https://people.csail.mit.edu/mrub/evm/"
     },
     {
+      "rank": "15.",
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
+    },
+    {
       "rank": "16.",
-      "title": "India authorises sale of electric vehicles without batteries",
-      "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
+      "title": "David Graeber has died",
+      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
     },
     {
       "rank": "17.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
-    },
-    {
-      "rank": "19.",
-      "title": "David Graeber has died",
-      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
-    },
-    {
-      "rank": "20.",
       "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
       "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
     },
     {
-      "rank": "21.",
+      "rank": "19.",
+      "title": "India authorises sale of electric vehicles without batteries",
+      "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
+    },
+    {
+      "rank": "20.",
       "title": "Beginner's Guide to Understanding Daemons",
       "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
+    },
+    {
+      "rank": "21.",
+      "title": "Writing an Efficient Vulkan Renderer",
+      "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
     },
     {
       "rank": "22.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "Writing an Efficient Vulkan Renderer",
-      "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
+      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
+      "link": "https://github.com/samizdatco/skia-canvas"
     },
     {
       "rank": "24.",
-      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
-      "link": "https://github.com/samizdatco/skia-canvas"
+      "title": "Show HN: A proactive way of securing your Linux server",
+      "link": "https://github.com/prashantgupta24/firewalld-rest"
     },
     {
       "rank": "25.",
@@ -127,23 +127,23 @@
     },
     {
       "rank": "26.",
-      "title": "Show HN: A proactive way of securing your Linux server",
-      "link": "https://github.com/prashantgupta24/firewalld-rest"
-    },
-    {
-      "rank": "27.",
-      "title": "The Computer, the Consumer and Privacy (1984)",
-      "link": "https://www.nytimes.com/1984/03/04/weekinreview/the-computer-the-consumer-and-privacy.html"
-    },
-    {
-      "rank": "28.",
       "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
       "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
       "title": "Optimizely to be acquired by Episerver",
       "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
+    },
+    {
+      "rank": "28.",
+      "title": "The Computer, the Consumer and Privacy (1984)",
+      "link": "https://www.nytimes.com/1984/03/04/weekinreview/the-computer-the-consumer-and-privacy.html"
+    },
+    {
+      "rank": "29.",
+      "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
+      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
     },
     {
       "rank": "30.",
