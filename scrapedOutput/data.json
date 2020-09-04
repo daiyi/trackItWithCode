@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
-      "title": "Nissan.com (is not owned by Nissan the car company)",
-      "link": "https://nissan.com/"
+      "title": "Show HN: My GitHub Readme Is Interactive",
+      "link": "https://github.com/veggiedefender/typing"
     },
     {
       "rank": "3.",
-      "title": "Daniel Stenberg (curl) has been denied entry to the US for 870 days",
-      "link": "https://daniel.haxx.se/us-visa.html"
+      "title": "Regular cannabis use were associated with poorer cognitive performance",
+      "link": "https://onlinelibrary.wiley.com/doi/full/10.1111/add.15207"
     },
     {
       "rank": "4.",
-      "title": "It costs about $1000/mo to run a 500K user content site",
-      "link": "https://ceasefire.net/post/a3pl4f/how_can_ceasefire_be_self-supporting"
+      "title": "India authorises sale of electric vehicles without batteries",
+      "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
     },
     {
       "rank": "5.",
@@ -27,33 +27,33 @@
     },
     {
       "rank": "6.",
+      "title": "Show HN: Single neuron neural network written in COBOL",
+      "link": "https://github.com/victorqribeiro/perceptronCobol"
+    },
+    {
+      "rank": "7.",
       "title": "David Graeber has died",
       "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Eulerian Video Magnification",
       "link": "https://people.csail.mit.edu/mrub/evm/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
       "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Nothing can now be believed which is seen in a newspaper (1807)",
       "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
     },
     {
-      "rank": "10.",
-      "title": "India authorises sale of electric vehicles without batteries",
-      "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
-    },
-    {
       "rank": "11.",
-      "title": "Show HN: My GitHub Readme Is Interactive",
-      "link": "https://github.com/veggiedefender/typing"
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
     },
     {
       "rank": "12.",
@@ -62,23 +62,23 @@
     },
     {
       "rank": "13.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
-    },
-    {
-      "rank": "14.",
-      "title": "Coping with Cats",
-      "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
-    },
-    {
-      "rank": "15.",
       "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
       "link": "https://github.com/samizdatco/skia-canvas"
     },
     {
-      "rank": "16.",
+      "rank": "14.",
       "title": "Beginner's Guide to Understanding Daemons",
       "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
+    },
+    {
+      "rank": "15.",
+      "title": "Writing an Efficient Vulkan Renderer",
+      "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
+    },
+    {
+      "rank": "16.",
+      "title": "Coping with Cats",
+      "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
     },
     {
       "rank": "17.",
@@ -92,28 +92,28 @@
     },
     {
       "rank": "19.",
-      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
-      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
-    },
-    {
-      "rank": "20.",
-      "title": "Radioactivity in Antiques",
-      "link": "https://www.epa.gov/radtown/radioactivity-antiques"
-    },
-    {
-      "rank": "21.",
-      "title": "Writing an Efficient Vulkan Renderer",
-      "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
-    },
-    {
-      "rank": "22.",
       "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
       "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
+      "rank": "20.",
+      "title": "They told you not to reply (2008)",
+      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
+    },
+    {
+      "rank": "21.",
+      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
+      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
+    },
+    {
+      "rank": "22.",
+      "title": "How can Ceasefire be self-supporting?",
+      "link": "https://ceasefire.net/post/a3pl4f/how_can_ceasefire_be_self-supporting"
+    },
+    {
       "rank": "23.",
-      "title": "Show HN: A proactive way of securing your Linux server",
-      "link": "https://github.com/prashantgupta24/firewalld-rest"
+      "title": "Radioactivity in Antiques",
+      "link": "https://www.epa.gov/radtown/radioactivity-antiques"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
-      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
+      "title": "Show HN: A proactive way of securing your Linux server",
+      "link": "https://github.com/prashantgupta24/firewalld-rest"
     },
     {
       "rank": "26.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
-      "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
+      "title": "The Lessons of Shell Shock",
+      "link": "https://www.historytoday.com/history-matters/lessons-shell-shock"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "The Lessons of Shell Shock",
-      "link": "https://www.historytoday.com/history-matters/lessons-shell-shock"
+      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
+      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
     },
     {
       "rank": "30.",
-      "title": "30-35 percent of Covid-19-positive Big Ten athletes had myocarditis",
-      "link": "https://www.centredaily.com/sports/college/penn-state-university/psu-football/article245448050.html"
+      "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
+      "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
     }
   ],
   "metadata": {
