@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
-      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
+      "title": "Microchips That Shook the World (2009)",
+      "link": "https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world"
     },
     {
       "rank": "6.",
-      "title": "Microchips That Shook the World (2009)",
-      "link": "https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world"
+      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
+      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
     },
     {
       "rank": "7.",
@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
+      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+    },
+    {
+      "rank": "9.",
       "title": "Mux (YC W16) is hiring to build video for developers",
       "link": "https://mux.com/jobs"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "A Requiem for a Dying Operating System (1994)",
       "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
     },
     {
-      "rank": "10.",
-      "title": "Bread, How Did They Make It? Addendum: Rice",
-      "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
-    },
-    {
       "rank": "11.",
-      "title": "Scene Bust Triggered Historic Drop in ‘Pirate’ Releases",
-      "link": "https://torrentfreak.com/scene-bust-triggered-historic-drop-in-pirate-releases-200904/"
+      "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
+      "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
     },
     {
       "rank": "12.",
-      "title": "Facebook halts Oculus Quest sales in Germany amid privacy concerns",
-      "link": "https://arstechnica.com/gaming/2020/09/facebook-halts-oculus-quest-sales-in-germany-amid-privacy-concerns/"
+      "title": "Bread, How Did They Make It? Addendum: Rice",
+      "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
     },
     {
       "rank": "13.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
-      "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
+      "title": "Scene Bust Triggered Historic Drop in ‘Pirate’ Releases",
+      "link": "https://torrentfreak.com/scene-bust-triggered-historic-drop-in-pirate-releases-200904/"
     },
     {
       "rank": "15.",
-      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+      "title": "Facebook halts Oculus Quest sales in Germany amid privacy concerns",
+      "link": "https://arstechnica.com/gaming/2020/09/facebook-halts-oculus-quest-sales-in-germany-amid-privacy-concerns/"
     },
     {
       "rank": "16.",
@@ -92,23 +92,23 @@
     },
     {
       "rank": "19.",
-      "title": "GnuPG 2.2.23",
-      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2020q3/000448.html"
-    },
-    {
-      "rank": "20.",
       "title": "What I Learned Going Through YC as a 17 Year Old",
       "link": "https://tieshunroquerre.com/blog/yc-learnings"
     },
     {
+      "rank": "20.",
+      "title": "GnuPG 2.2.23",
+      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2020q3/000448.html"
+    },
+    {
       "rank": "21.",
-      "title": "List of YouTube channels for improving web development and programming skills",
-      "link": "https://devandgear.com/posts/the-ultimate-list-of-youtube-channels-to-boost-your-web-development-and-programming-skills/"
+      "title": "Rust is not a good C replacement (2019)",
+      "link": "https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html"
     },
     {
       "rank": "22.",
-      "title": "Rust is not a good C replacement (2019)",
-      "link": "https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html"
+      "title": "Standards for Gloves",
+      "link": "https://guidegloves.com/en/knowledge/standards"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "Standards for Gloves",
-      "link": "https://guidegloves.com/en/knowledge/standards"
+      "title": "List of YouTube channels for improving web development and programming skills",
+      "link": "https://devandgear.com/posts/the-ultimate-list-of-youtube-channels-to-boost-your-web-development-and-programming-skills/"
     },
     {
       "rank": "25.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Learning@home hivemind – train large neural networks across the internet",
-      "link": "https://learning-at-home.github.io/"
-    },
-    {
-      "rank": "28.",
-      "title": "Facebook prohibits music or music listening experience on Live",
-      "link": "https://www.facebook.com/legal/music_guidelines"
-    },
-    {
-      "rank": "29.",
       "title": "Java Cryptography Uses in the Wild",
       "link": "https://arxiv.org/abs/2009.01101"
     },
     {
-      "rank": "30.",
+      "rank": "28.",
       "title": "Preserving data integrity: A ZFS-inspired storage system",
       "link": "https://insanity.industries/post/preserving-data-integrity/"
+    },
+    {
+      "rank": "29.",
+      "title": "Rocket Helicopter (2010)",
+      "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
+    },
+    {
+      "rank": "30.",
+      "title": "Reading mind and Visualizing thoughts using AI",
+      "link": "https://thinkml.ai/ai-can-read-and-visualize-our-thoughts/"
     }
   ],
   "metadata": {
