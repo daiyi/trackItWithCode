@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Costs of running a Python webapp for 55k monthly users",
-      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
+      "title": "Show HN: Single neuron neural network written in COBOL",
+      "link": "https://github.com/victorqribeiro/perceptronCobol"
     },
     {
       "rank": "10.",
-      "title": "Show HN: Single neuron neural network written in COBOL",
-      "link": "https://github.com/victorqribeiro/perceptronCobol"
+      "title": "Costs of running a Python webapp for 55k monthly users",
+      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
     },
     {
       "rank": "11.",
@@ -62,53 +62,53 @@
     },
     {
       "rank": "13.",
+      "title": "The House That Carving Built",
+      "link": "https://bittersoutherner.com/2020/the-house-that-carving-built-brasstown-carvers-john-c-campbell-folk-school"
+    },
+    {
+      "rank": "14.",
       "title": "Score matching with Langevin Sampling: a new contender to GANs",
       "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "David Graeber has died",
       "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Eulerian Video Magnification",
       "link": "https://people.csail.mit.edu/mrub/evm/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "They told you not to reply (2008)",
       "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
       "link": "item?id=24364811"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
       "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Understanding Daemons",
       "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Writing an Efficient Vulkan Renderer",
       "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "What is the purpose of issuing laws/regulations without penalty? (2017)",
       "link": "https://politics.stackexchange.com/questions/26724/what-is-the-purpose-of-issuing-laws-regulations-without-penalty"
-    },
-    {
-      "rank": "22.",
-      "title": "Show HN: FixCache – keep track of bug-prone files from Git commit history",
-      "link": "https://github.com/aavshr/fixCache"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "Show HN: DNS-based alternative to the web for structured data",
-      "link": "https://www.num.uk/blog/announcing-num"
+      "title": "Show HN: FixCache – keep track of bug-prone files from Git commit history",
+      "link": "https://github.com/aavshr/fixCache"
     },
     {
       "rank": "25.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
-      "title": "A True Story (150 AD)",
-      "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
+      "title": "Show HN: DNS-based alternative to the web for structured data",
+      "link": "https://www.num.uk/blog/announcing-num"
     },
     {
       "rank": "27.",
-      "title": "The House That Carving Built",
-      "link": "https://bittersoutherner.com/2020/the-house-that-carving-built-brasstown-carvers-john-c-campbell-folk-school"
+      "title": "Show HN: A proactive way of securing your Linux server",
+      "link": "https://github.com/prashantgupta24/firewalld-rest"
     },
     {
       "rank": "28.",
-      "title": "Show HN: A proactive way of securing your Linux server",
-      "link": "https://github.com/prashantgupta24/firewalld-rest"
+      "title": "A True Story (150 AD)",
+      "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Islamic State: Giant library of group's online propaganda discovered",
-      "link": "https://www.bbc.co.uk/news/technology-54011034"
+      "title": "Optimizely to be acquired by Episerver",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
     }
   ],
   "metadata": {
