@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Costs of running a Python webapp for 55k monthly users",
-      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
-    },
-    {
-      "rank": "2.",
       "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
       "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
     },
     {
+      "rank": "2.",
+      "title": "Modern C",
+      "link": "https://modernc.gforge.inria.fr/"
+    },
+    {
       "rank": "3.",
+      "title": "Costs of running a Python webapp for 55k monthly users",
+      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
+    },
+    {
+      "rank": "4.",
       "title": "Libvirt – The Unsung Hero of Cloud Computing (2013)",
       "link": "https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Learning@home hivemind – train large neural networks across the internet",
       "link": "https://learning-at-home.github.io/"
-    },
-    {
-      "rank": "5.",
-      "title": "Modern C",
-      "link": "https://modernc.gforge.inria.fr/"
     },
     {
       "rank": "6.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
+      "title": "A word for a value between 0 and 1 (inclusive)",
+      "link": "https://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive"
+    },
+    {
+      "rank": "9.",
       "title": "Digital pregnancy tests have an internal paper test",
       "link": "https://twitter.com/Foone/status/1301707401024827392"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Score matching with Langevin Sampling: a new contender to GANs",
       "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
-    },
-    {
-      "rank": "10.",
-      "title": "They told you not to reply (2008)",
-      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
     },
     {
       "rank": "11.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "A word for a value between 0 and 1 (inclusive)",
-      "link": "https://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive"
+      "title": "They told you not to reply (2008)",
+      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
     },
     {
       "rank": "13.",
@@ -77,63 +77,63 @@
     },
     {
       "rank": "16.",
-      "title": "Islamic State: Giant library of group's online propaganda discovered",
-      "link": "https://www.bbc.co.uk/news/technology-54011034"
-    },
-    {
-      "rank": "17.",
       "title": "Beginner's Guide to Understanding Daemons",
       "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
-      "rank": "18.",
-      "title": "What is software supply chain security and why does it matter?",
-      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
-    },
-    {
-      "rank": "19.",
+      "rank": "17.",
       "title": "Writing an Efficient Vulkan Renderer",
       "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
     },
     {
+      "rank": "18.",
+      "title": "Islamic State: Giant library of group's online propaganda discovered",
+      "link": "https://www.bbc.co.uk/news/technology-54011034"
+    },
+    {
+      "rank": "19.",
+      "title": "What is the purpose of issuing laws/regulations without penalty? (2017)",
+      "link": "https://politics.stackexchange.com/questions/26724/what-is-the-purpose-of-issuing-laws-regulations-without-penalty"
+    },
+    {
       "rank": "20.",
+      "title": "What is software supply chain security and why does it matter?",
+      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
+    },
+    {
+      "rank": "21.",
       "title": "A True Story (150 AD)",
       "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
       "link": "https://github.com/samizdatco/skia-canvas"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "The Computer, the Consumer and Privacy (1984)",
       "link": "https://www.nytimes.com/1984/03/04/weekinreview/the-computer-the-consumer-and-privacy.html"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Show HN: A proactive way of securing your Linux server",
       "link": "https://github.com/prashantgupta24/firewalld-rest"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "India authorises sale of electric vehicles without batteries",
       "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Coping with Cats",
       "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
       "link": "https://jatan.space/exploring-moon-mountains/"
-    },
-    {
-      "rank": "27.",
-      "title": "Optimizely to be acquired by Episerver",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
-      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
+      "title": "Optimizely to be acquired by Episerver",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
     },
     {
       "rank": "30.",
-      "title": "Radioactivity in Antiques",
-      "link": "https://www.epa.gov/radtown/radioactivity-antiques"
+      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
+      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
     }
   ],
   "metadata": {
