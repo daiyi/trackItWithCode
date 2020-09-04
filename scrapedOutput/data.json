@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "A Requiem for a Dying Operating System",
-      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
+      "title": "The Decadent Society: How We Became the Victims of Our Own Success",
+      "link": "https://claremontreviewofbooks.com/comfortably-numb/"
     },
     {
       "rank": "2.",
-      "title": "Modern C",
-      "link": "https://modernc.gforge.inria.fr/"
-    },
-    {
-      "rank": "3.",
       "title": "Ask HN: What does performance management look like at your company?",
       "link": "item?id=24374347"
     },
     {
+      "rank": "3.",
+      "title": "Modern C",
+      "link": "https://modernc.gforge.inria.fr/"
+    },
+    {
       "rank": "4.",
-      "title": "The Decadent Society: How We Became the Victims of Our Own Success",
-      "link": "https://claremontreviewofbooks.com/comfortably-numb/"
+      "title": "A Requiem for a Dying Operating System",
+      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
     },
     {
       "rank": "5.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Learning@home hivemind – train large neural networks across the internet",
-      "link": "https://learning-at-home.github.io/"
+      "title": "Thirty years ago today I made the final gold masters for Monkey Island",
+      "link": "https://grumpygamer.com/thirty_years_ago"
     },
     {
       "rank": "11.",
-      "title": "Thirty years ago today I made the final gold masters for Monkey Island",
-      "link": "https://grumpygamer.com/thirty_years_ago"
+      "title": "Learning@home hivemind – train large neural networks across the internet",
+      "link": "https://learning-at-home.github.io/"
     },
     {
       "rank": "12.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Bread, How Did They Make It? Addendum: Rice",
-      "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
+      "title": "Exalting Data, Missing Meaning (2017)",
+      "link": "https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning"
     },
     {
       "rank": "18.",
-      "title": "Exalting Data, Missing Meaning (2017)",
-      "link": "https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning"
+      "title": "Bread, How Did They Make It? Addendum: Rice",
+      "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
     },
     {
       "rank": "19.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "They told you not to reply (2008)",
-      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
     },
     {
       "rank": "23.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
+      "title": "They told you not to reply (2008)",
+      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
     },
     {
       "rank": "24.",
