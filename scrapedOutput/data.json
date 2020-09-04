@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Show HN: My GitHub Readme Is Interactive",
-      "link": "https://github.com/veggiedefender/typing"
+      "title": "Modern C",
+      "link": "https://modernc.gforge.inria.fr/"
     },
     {
       "rank": "8.",
-      "title": "Modern C",
-      "link": "https://modernc.gforge.inria.fr/"
+      "title": "Show HN: My GitHub Readme Is Interactive",
+      "link": "https://github.com/veggiedefender/typing"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Show HN: Single neuron neural network written in COBOL",
-      "link": "https://github.com/victorqribeiro/perceptronCobol"
+      "title": "Fusion is not 20 years in the future.It’s 50 years in the past–and we missed it",
+      "link": "https://fusor.net/"
     },
     {
       "rank": "11.",
-      "title": "Digital Pregnancy Tests Have an Internal Paper Test",
-      "link": "https://twitter.com/Foone/status/1301707401024827392"
+      "title": "Show HN: Single neuron neural network written in COBOL",
+      "link": "https://github.com/victorqribeiro/perceptronCobol"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
-      "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
+      "title": "Digital Pregnancy Tests Have an Internal Paper Test",
+      "link": "https://twitter.com/Foone/status/1301707401024827392"
     },
     {
       "rank": "14.",
@@ -72,33 +72,33 @@
     },
     {
       "rank": "15.",
-      "title": "They told you not to reply (2008)",
-      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
-    },
-    {
-      "rank": "16.",
       "title": "Eulerian Video Magnification",
       "link": "https://people.csail.mit.edu/mrub/evm/"
     },
     {
+      "rank": "16.",
+      "title": "India authorises sale of electric vehicles without batteries",
+      "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
+    },
+    {
       "rank": "17.",
+      "title": "They told you not to reply (2008)",
+      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
+    },
+    {
+      "rank": "18.",
       "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
       "link": "item?id=24364811"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "David Graeber has died",
       "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
       "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
-    },
-    {
-      "rank": "20.",
-      "title": "A True Story (150 AD)",
-      "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "India authorises sale of electric vehicles without batteries",
-      "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
+      "title": "A True Story (150 AD)",
+      "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
     },
     {
       "rank": "23.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Interviews with makers of high-end mechanical keyboards",
-      "link": "https://endgame.fyi"
-    },
-    {
-      "rank": "29.",
       "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
       "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Optimizely to be acquired by Episerver",
       "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
+    },
+    {
+      "rank": "30.",
+      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
+      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
     }
   ],
   "metadata": {
