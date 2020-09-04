@@ -7,28 +7,28 @@
     },
     {
       "rank": "2.",
-      "title": "The Decadent Society: How We Became the Victims of Our Own Success",
-      "link": "https://claremontreviewofbooks.com/comfortably-numb/"
-    },
-    {
-      "rank": "3.",
       "title": "Thirty years ago today I made the final gold masters for Monkey Island",
       "link": "https://grumpygamer.com/thirty_years_ago"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Specter – Clojure API for immutable programming (2017)",
       "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Winamp Skin Museum",
       "link": "https://skins.webamp.org/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Modern C",
       "link": "https://modernc.gforge.inria.fr/"
+    },
+    {
+      "rank": "6.",
+      "title": "Bread, How Did They Make It? Addendum: Rice",
+      "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
     },
     {
       "rank": "7.",
@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
-      "title": "Bread, How Did They Make It? Addendum: Rice",
-      "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
+      "title": "GCC Automatic Parallel Compilation Viability Results Help Up to 3.3x",
+      "link": "https://www.phoronix.com/scan.php?page=news_item&px=GCC-Auto-Parallel-Compilation"
     },
     {
       "rank": "10.",
-      "title": "Apple publishes human rights policy, commits to freedom of information",
-      "link": "https://thehill.com/policy/technology/515104-apple-publishes-human-rights-policy-commits-to-freedom-of-information"
-    },
-    {
-      "rank": "11.",
       "title": "Reddit gets its app to 50m Play Store downloads",
       "link": "https://www.androidpolice.com/2020/09/02/reddit-gets-its-app-to-50-million-play-store-downloads-mostly-by-making-the-mobile-web-experience-miserable/"
     },
     {
+      "rank": "11.",
+      "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
+      "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
+    },
+    {
       "rank": "12.",
-      "title": "GCC Automatic Parallel Compilation Viability Results Help Up to 3.3x",
-      "link": "https://www.phoronix.com/scan.php?page=news_item&px=GCC-Auto-Parallel-Compilation"
+      "title": "The Decadent Society: How We Became the Victims of Our Own Success",
+      "link": "https://claremontreviewofbooks.com/comfortably-numb/"
     },
     {
       "rank": "13.",
@@ -67,28 +67,28 @@
     },
     {
       "rank": "14.",
-      "title": "Rust testing or verifying: Why not both?",
-      "link": "https://alastairreid.github.io/why-not-both/"
+      "title": "The Pentagon has ordered Stars and Stripes to shut down",
+      "link": "https://www.usatoday.com/story/opinion/2020/09/04/trump-and-stars-and-stripes-attacking-american-icon-column/5706859002/"
     },
     {
       "rank": "15.",
+      "title": "List of YouTube channels for improving web development and programming skills",
+      "link": "https://devandgear.com/posts/the-ultimate-list-of-youtube-channels-to-boost-your-web-development-and-programming-skills/"
+    },
+    {
+      "rank": "16.",
       "title": "Libvirt – The Unsung Hero of Cloud Computing (2013)",
       "link": "https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html"
     },
     {
-      "rank": "16.",
-      "title": "Java Cryptography Uses in the Wild",
-      "link": "https://arxiv.org/abs/2009.01101"
-    },
-    {
       "rank": "17.",
-      "title": "Facebook prohibits music or music listening experience on Live",
-      "link": "https://www.facebook.com/legal/music_guidelines"
+      "title": "Rust testing or verifying: Why not both?",
+      "link": "https://alastairreid.github.io/why-not-both/"
     },
     {
       "rank": "18.",
-      "title": "Show HN: Build Machine Learning Web-Service with Python and Django",
-      "link": "https://github.com/pplonski/my_ml_service"
+      "title": "Facebook prohibits music or music listening experience on Live",
+      "link": "https://www.facebook.com/legal/music_guidelines"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
-      "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
-      "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
-    },
-    {
-      "rank": "21.",
       "title": "Learning@home hivemind – train large neural networks across the internet",
       "link": "https://learning-at-home.github.io/"
     },
     {
+      "rank": "21.",
+      "title": "Java Cryptography Uses in the Wild",
+      "link": "https://arxiv.org/abs/2009.01101"
+    },
+    {
       "rank": "22.",
-      "title": "Costs of running a Python webapp for 55k monthly users",
-      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
+      "title": "Show HN: Build Machine Learning Web-Service with Python and Django",
+      "link": "https://github.com/pplonski/my_ml_service"
     },
     {
       "rank": "23.",
-      "title": "The House That Carving Built",
-      "link": "https://bittersoutherner.com/2020/the-house-that-carving-built-brasstown-carvers-john-c-campbell-folk-school"
+      "title": "Apple publishes human rights policy, commits to freedom of information",
+      "link": "https://thehill.com/policy/technology/515104-apple-publishes-human-rights-policy-commits-to-freedom-of-information"
     },
     {
       "rank": "24.",
-      "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
-      "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
-    },
-    {
-      "rank": "25.",
-      "title": "Show HN: My GitHub Readme Is Interactive",
-      "link": "https://github.com/veggiedefender/typing"
-    },
-    {
-      "rank": "26.",
-      "title": "The Pentagon has ordered Stars and Stripes to shut down for no good reason",
-      "link": "https://www.usatoday.com/story/opinion/2020/09/04/trump-and-stars-and-stripes-attacking-american-icon-column/5706859002/"
-    },
-    {
-      "rank": "27.",
       "title": "Reading mind and Visualizing thoughts using AI",
       "link": "https://thinkml.ai/ai-can-read-and-visualize-our-thoughts/"
     },
     {
+      "rank": "25.",
+      "title": "Costs of running a Python webapp for 55k monthly users",
+      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
+    },
+    {
+      "rank": "26.",
+      "title": "Show HN: My GitHub Readme Is Interactive",
+      "link": "https://github.com/veggiedefender/typing"
+    },
+    {
+      "rank": "27.",
+      "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
+      "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
+    },
+    {
       "rank": "28.",
-      "title": "Exalting Data, Missing Meaning (2017)",
-      "link": "https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning"
+      "title": "The House That Carving Built",
+      "link": "https://bittersoutherner.com/2020/the-house-that-carving-built-brasstown-carvers-john-c-campbell-folk-school"
     },
     {
       "rank": "29.",
-      "title": "Ask HN: What does performance management look like at your company?",
-      "link": "item?id=24374347"
+      "title": "Digital pregnancy tests have an internal paper test",
+      "link": "https://twitter.com/Foone/status/1301707401024827392"
     },
     {
       "rank": "30.",
-      "title": "Digital pregnancy tests have an internal paper test",
-      "link": "https://twitter.com/Foone/status/1301707401024827392"
+      "title": "They told you not to reply (2008)",
+      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
     }
   ],
   "metadata": {
