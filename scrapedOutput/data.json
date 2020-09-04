@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Specter – Clojure API for immutable programming (2017)",
-      "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
+      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
       "rank": "8.",
-      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+      "title": "Specter – Clojure API for immutable programming (2017)",
+      "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
     },
     {
       "rank": "9.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Scene Bust Triggered Historic Drop in ‘Pirate’ Releases",
-      "link": "https://torrentfreak.com/scene-bust-triggered-historic-drop-in-pirate-releases-200904/"
+      "title": "Facebook halts Oculus Quest sales in Germany amid privacy concerns",
+      "link": "https://arstechnica.com/gaming/2020/09/facebook-halts-oculus-quest-sales-in-germany-amid-privacy-concerns/"
     },
     {
       "rank": "15.",
-      "title": "Facebook halts Oculus Quest sales in Germany amid privacy concerns",
-      "link": "https://arstechnica.com/gaming/2020/09/facebook-halts-oculus-quest-sales-in-germany-amid-privacy-concerns/"
+      "title": "Scene Bust Triggered Historic Drop in ‘Pirate’ Releases",
+      "link": "https://torrentfreak.com/scene-bust-triggered-historic-drop-in-pirate-releases-200904/"
     },
     {
       "rank": "16.",
@@ -97,43 +97,43 @@
     },
     {
       "rank": "20.",
-      "title": "GnuPG 2.2.23",
-      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2020q3/000448.html"
-    },
-    {
-      "rank": "21.",
-      "title": "Rust is not a good C replacement (2019)",
-      "link": "https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html"
-    },
-    {
-      "rank": "22.",
-      "title": "Standards for Gloves",
-      "link": "https://guidegloves.com/en/knowledge/standards"
-    },
-    {
-      "rank": "23.",
       "title": "GCC Automatic Parallel Compilation Viability Results Help Up to 3.3x",
       "link": "https://www.phoronix.com/scan.php?page=news_item&px=GCC-Auto-Parallel-Compilation"
     },
     {
-      "rank": "24.",
+      "rank": "21.",
+      "title": "Standards for Gloves",
+      "link": "https://guidegloves.com/en/knowledge/standards"
+    },
+    {
+      "rank": "22.",
+      "title": "GnuPG 2.2.23",
+      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2020q3/000448.html"
+    },
+    {
+      "rank": "23.",
       "title": "List of YouTube channels for improving web development and programming skills",
       "link": "https://devandgear.com/posts/the-ultimate-list-of-youtube-channels-to-boost-your-web-development-and-programming-skills/"
     },
     {
-      "rank": "25.",
-      "title": "Reddit gets its app to 50m Play Store downloads",
-      "link": "https://www.androidpolice.com/2020/09/02/reddit-gets-its-app-to-50-million-play-store-downloads-mostly-by-making-the-mobile-web-experience-miserable/"
+      "rank": "24.",
+      "title": "Rust is not a good C replacement (2019)",
+      "link": "https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Show HN: Build Machine Learning Web-Service with Python and Django",
       "link": "https://github.com/pplonski/my_ml_service"
     },
     {
+      "rank": "26.",
+      "title": "Reddit gets its app to 50m Play Store downloads",
+      "link": "https://www.androidpolice.com/2020/09/02/reddit-gets-its-app-to-50-million-play-store-downloads-mostly-by-making-the-mobile-web-experience-miserable/"
+    },
+    {
       "rank": "27.",
-      "title": "Java Cryptography Uses in the Wild",
-      "link": "https://arxiv.org/abs/2009.01101"
+      "title": "Rocket Helicopter (2010)",
+      "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Rocket Helicopter (2010)",
-      "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
+      "title": "Java Cryptography Uses in the Wild",
+      "link": "https://arxiv.org/abs/2009.01101"
     },
     {
       "rank": "30.",
-      "title": "Reading mind and Visualizing thoughts using AI",
-      "link": "https://thinkml.ai/ai-can-read-and-visualize-our-thoughts/"
+      "title": "Uber Is Hurting Drivers Like Me in Its Legal Fight in California",
+      "link": "https://www.nytimes.com/2020/09/04/opinion/uber-drivers-california-regulations.html"
     }
   ],
   "metadata": {
