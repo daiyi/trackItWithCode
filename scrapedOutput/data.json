@@ -27,53 +27,53 @@
     },
     {
       "rank": "6.",
-      "title": "What is software supply chain security and why does it matter?",
-      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
-    },
-    {
-      "rank": "7.",
-      "title": "They told you not to reply (2008)",
-      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
-    },
-    {
-      "rank": "8.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
-    },
-    {
-      "rank": "9.",
-      "title": "Score matching with Langevin Sampling: a new contender to GANs",
-      "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
-    },
-    {
-      "rank": "10.",
       "title": "Learning@home hivemind – train large neural networks across the internet",
       "link": "https://learning-at-home.github.io/"
     },
     {
-      "rank": "11.",
-      "title": "Eulerian Video Magnification",
-      "link": "https://people.csail.mit.edu/mrub/evm/"
+      "rank": "7.",
+      "title": "What is software supply chain security and why does it matter?",
+      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
     },
     {
-      "rank": "12.",
-      "title": "David Graeber has died",
-      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
+      "rank": "8.",
+      "title": "They told you not to reply (2008)",
+      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
     },
     {
-      "rank": "13.",
+      "rank": "9.",
       "title": "India authorises sale of electric vehicles without batteries",
       "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
     },
     {
+      "rank": "10.",
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
+    },
+    {
+      "rank": "11.",
+      "title": "Score matching with Langevin Sampling: a new contender to GANs",
+      "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
+    },
+    {
+      "rank": "12.",
+      "title": "Eulerian Video Magnification",
+      "link": "https://people.csail.mit.edu/mrub/evm/"
+    },
+    {
+      "rank": "13.",
+      "title": "David Graeber has died",
+      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
+    },
+    {
       "rank": "14.",
-      "title": "The Computer, the Consumer and Privacy (1984)",
-      "link": "https://www.nytimes.com/1984/03/04/weekinreview/the-computer-the-consumer-and-privacy.html"
+      "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
     },
     {
       "rank": "15.",
-      "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
+      "title": "The Computer, the Consumer and Privacy (1984)",
+      "link": "https://www.nytimes.com/1984/03/04/weekinreview/the-computer-the-consumer-and-privacy.html"
     },
     {
       "rank": "16.",
@@ -97,48 +97,48 @@
     },
     {
       "rank": "20.",
+      "title": "Interviews with makers of high-end mechanical keyboards",
+      "link": "https://endgame.fyi"
+    },
+    {
+      "rank": "21.",
       "title": "Home Office Projects Series: Air conditioner setup",
       "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Optimizely to be acquired by Episerver",
       "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
       "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
       "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Radioactivity in Antiques",
       "link": "https://www.epa.gov/radtown/radioactivity-antiques"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Show HN: A proactive way of securing your Linux server",
       "link": "https://github.com/prashantgupta24/firewalld-rest"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "The Lessons of Shell Shock",
       "link": "https://www.historytoday.com/history-matters/lessons-shell-shock"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
       "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
-    },
-    {
-      "rank": "28.",
-      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
-      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Fainter Become My Hopes: A new translation of a fragment of Simonides’ poetry",
-      "link": "https://www.laphamsquarterly.org/roundtable/fainter-become-my-hopes"
+      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
+      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
     }
   ],
   "metadata": {
