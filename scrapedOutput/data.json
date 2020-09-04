@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Costs of running a Python webapp for 55k monthly users",
-      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
+      "title": "Facebook prohibits music or music listening experience on Live",
+      "link": "https://www.facebook.com/legal/music_guidelines"
     },
     {
       "rank": "9.",
-      "title": "Facebook prohibits music or music listening experience on Live",
-      "link": "https://www.facebook.com/legal/music_guidelines"
+      "title": "Costs of running a Python webapp for 55k monthly users",
+      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "Digital pregnancy tests have an internal paper test",
-      "link": "https://twitter.com/Foone/status/1301707401024827392"
+      "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
+      "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
     },
     {
       "rank": "12.",
-      "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
-      "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
+      "title": "Digital pregnancy tests have an internal paper test",
+      "link": "https://twitter.com/Foone/status/1301707401024827392"
     },
     {
       "rank": "13.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
+      "title": "They told you not to reply (2008)",
+      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
     },
     {
       "rank": "17.",
-      "title": "They told you not to reply (2008)",
-      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
     },
     {
       "rank": "18.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "The House That Carving Built",
-      "link": "https://bittersoutherner.com/2020/the-house-that-carving-built-brasstown-carvers-john-c-campbell-folk-school"
-    },
-    {
-      "rank": "24.",
-      "title": "A True Story (150 AD)",
-      "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
-    },
-    {
-      "rank": "25.",
       "title": "Software supply chain security",
       "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
     },
     {
-      "rank": "26.",
-      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
-      "link": "https://github.com/samizdatco/skia-canvas"
-    },
-    {
-      "rank": "27.",
+      "rank": "24.",
       "title": "Show HN: DNS-based alternative to the web for structured data",
       "link": "https://www.num.uk/blog/announcing-num"
     },
     {
-      "rank": "28.",
-      "title": "Islamic State: Giant library of group's online propaganda discovered",
-      "link": "https://www.bbc.co.uk/news/technology-54011034"
+      "rank": "25.",
+      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
+      "link": "https://github.com/samizdatco/skia-canvas"
     },
     {
-      "rank": "29.",
+      "rank": "26.",
+      "title": "A True Story (150 AD)",
+      "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
+    },
+    {
+      "rank": "27.",
+      "title": "The House That Carving Built",
+      "link": "https://bittersoutherner.com/2020/the-house-that-carving-built-brasstown-carvers-john-c-campbell-folk-school"
+    },
+    {
+      "rank": "28.",
       "title": "Show HN: A proactive way of securing your Linux server",
       "link": "https://github.com/prashantgupta24/firewalld-rest"
     },
     {
+      "rank": "29.",
+      "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
+      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
+    },
+    {
       "rank": "30.",
-      "title": "Coping with Cats",
-      "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
+      "title": "Islamic State: Giant library of group's online propaganda discovered",
+      "link": "https://www.bbc.co.uk/news/technology-54011034"
     }
   ],
   "metadata": {
