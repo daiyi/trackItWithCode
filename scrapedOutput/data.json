@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Thirty years ago today I made the final gold masters for Monkey Island",
-      "link": "https://grumpygamer.com/thirty_years_ago"
+      "title": "Rocket Powered Helicopter",
+      "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
     },
     {
       "rank": "4.",
-      "title": "Specter – Clojure API for immutable programming (2017)",
-      "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
+      "title": "Thirty years ago today I made the final gold masters for Monkey Island",
+      "link": "https://grumpygamer.com/thirty_years_ago"
     },
     {
       "rank": "5.",
@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Rocket Powered Helicopter",
-      "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
+      "title": "Specter – Clojure API for immutable programming (2017)",
+      "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
     },
     {
       "rank": "7.",
@@ -42,18 +42,18 @@
     },
     {
       "rank": "9.",
+      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
+      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
+    },
+    {
+      "rank": "10.",
       "title": "Modern C",
       "link": "https://modernc.gforge.inria.fr/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "What I Learned Going Through YC as a 17 Year Old",
       "link": "https://tieshunroquerre.com/blog/yc-learnings"
-    },
-    {
-      "rank": "11.",
-      "title": "A word for a value between 0 and 1 (inclusive)",
-      "link": "https://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive"
     },
     {
       "rank": "12.",
@@ -62,53 +62,53 @@
     },
     {
       "rank": "13.",
+      "title": "A word for a value between 0 and 1 (inclusive)",
+      "link": "https://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive"
+    },
+    {
+      "rank": "14.",
       "title": "The Pentagon has ordered Stars and Stripes to shut down",
       "link": "https://www.usatoday.com/story/opinion/2020/09/04/trump-and-stars-and-stripes-attacking-american-icon-column/5706859002/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Reddit gets its app to 50m Play Store downloads",
       "link": "https://www.androidpolice.com/2020/09/02/reddit-gets-its-app-to-50-million-play-store-downloads-mostly-by-making-the-mobile-web-experience-miserable/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Rust testing or verifying: Why not both?",
       "link": "https://alastairreid.github.io/why-not-both/"
     },
     {
-      "rank": "16.",
-      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
-      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
-    },
-    {
       "rank": "17.",
-      "title": "A Requiem for a Dying Operating System",
-      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
-    },
-    {
-      "rank": "18.",
       "title": "Show HN: Build Machine Learning Web-Service with Python and Django",
       "link": "https://github.com/pplonski/my_ml_service"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Libvirt – The Unsung Hero of Cloud Computing (2013)",
       "link": "https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Java Cryptography Uses in the Wild",
       "link": "https://arxiv.org/abs/2009.01101"
     },
     {
+      "rank": "20.",
+      "title": "Asemica: An asemic Markov-chained cipher",
+      "link": "https://github.com/linenoise/asemica"
+    },
+    {
       "rank": "21.",
-      "title": "Facebook prohibits music or music listening experience on Live",
-      "link": "https://www.facebook.com/legal/music_guidelines"
+      "title": "Preserving data integrity: A ZFS-inspired storage system",
+      "link": "https://insanity.industries/post/preserving-data-integrity/"
     },
     {
       "rank": "22.",
-      "title": "Preserving data integrity: A ZFS-inspired storage system",
-      "link": "https://insanity.industries/post/preserving-data-integrity/"
+      "title": "A Requiem for a Dying Operating System",
+      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "Upwork to suspend Top Rated freelancers accounts from Eastern Europe",
-      "link": "https://community.upwork.com/t5/Freelancers/Permanent-account-suspension-for-Top-Rated-Plus-freelancer/m-p/805734"
+      "title": "Facebook prohibits music or music listening experience on Live",
+      "link": "https://www.facebook.com/legal/music_guidelines"
     },
     {
       "rank": "25.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
-      "title": "Apple publishes human rights policy, commits to freedom of information",
-      "link": "https://thehill.com/policy/technology/515104-apple-publishes-human-rights-policy-commits-to-freedom-of-information"
-    },
-    {
-      "rank": "27.",
       "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
       "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Reading mind and Visualizing thoughts using AI",
       "link": "https://thinkml.ai/ai-can-read-and-visualize-our-thoughts/"
+    },
+    {
+      "rank": "28.",
+      "title": "Facebook halts Oculus Quest sales in Germany amid privacy concerns",
+      "link": "https://arstechnica.com/gaming/2020/09/facebook-halts-oculus-quest-sales-in-germany-amid-privacy-concerns/"
     },
     {
       "rank": "29.",
