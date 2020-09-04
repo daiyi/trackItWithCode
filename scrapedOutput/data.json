@@ -22,18 +22,18 @@
     },
     {
       "rank": "5.",
-      "title": "The Oldest Cookbook in Korean",
-      "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
-    },
-    {
-      "rank": "6.",
       "title": "Winamp Skin Museum",
       "link": "https://skins.webamp.org/"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Snake in a QR Code",
       "link": "https://itsmattkc.com/etc/snakeqr/"
+    },
+    {
+      "rank": "7.",
+      "title": "The Oldest Cookbook in Korean",
+      "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
     },
     {
       "rank": "8.",
@@ -42,33 +42,33 @@
     },
     {
       "rank": "9.",
+      "title": "FBI examined Google records to see if anyone had knowledge of Guccifer persona",
+      "link": "https://nitter.net/kpoulsen/status/1255593138934013952#m"
+    },
+    {
+      "rank": "10.",
       "title": "Show HN: AnyLeaf – PH Sensor for Microcontrollers",
       "link": "https://www.anyleaf.org/ph-module"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Grounded Language Learning Fast and Slow",
       "link": "https://arxiv.org/abs/2009.01719"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Rocket Helicopter (2010)",
       "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "PR Interviews Paul Graham",
       "link": "https://pullrequest.substack.com/p/pr-interviews-paul-graham"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "A Detailed History of MongoDB",
       "link": "https://www.quickprogrammingtips.com/mongodb/mongodb-history.html"
-    },
-    {
-      "rank": "14.",
-      "title": "FBI examined Google records to see if anyone had knowledge of Guccifer persona",
-      "link": "https://nitter.net/kpoulsen/status/1255593138934013952#m"
     },
     {
       "rank": "15.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "A Requiem for a Dying Operating System (1994)",
-      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
+      "title": "Clearing up mysteries – The original goal (1989) [pdf]",
+      "link": "https://bayes.wustl.edu/etj/articles/cmystery.pdf"
     },
     {
       "rank": "21.",
@@ -112,28 +112,28 @@
     },
     {
       "rank": "23.",
+      "title": "Restream: Stream live to 30 social platforms at once",
+      "link": "https://restream.io/"
+    },
+    {
+      "rank": "24.",
       "title": "Microchips That Shook the World (2009)",
       "link": "https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
       "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
     },
     {
-      "rank": "25.",
-      "title": "Upsert anti-pattern in SQL Server",
-      "link": "https://sqlperformance.com/2020/09/locking/upsert-anti-pattern"
-    },
-    {
       "rank": "26.",
-      "title": "Software defined storage vs. hardware defined storage",
-      "link": "https://blog.min.io/comparing-software-defined-storage-with-appliances/"
+      "title": "What Satoshi Did Not Know (2015) [pdf]",
+      "link": "https://www.ifca.ai/pub/fc15/89750001.pdf"
     },
     {
       "rank": "27.",
-      "title": "Mark Twain’s Mind Waves",
-      "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
+      "title": "Ask HN: What Happened to Larry Page?",
+      "link": "item?id=24376380"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "What Satoshi Did Not Know (2015) [pdf]",
-      "link": "https://www.ifca.ai/pub/fc15/89750001.pdf"
+      "title": "Upsert anti-pattern in SQL Server",
+      "link": "https://sqlperformance.com/2020/09/locking/upsert-anti-pattern"
     },
     {
       "rank": "30.",
-      "title": "Ask HN: What Happened to Larry Page?",
-      "link": "item?id=24376380"
+      "title": "Mark Twain’s Mind Waves",
+      "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
     }
   ],
   "metadata": {
