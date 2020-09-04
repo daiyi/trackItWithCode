@@ -22,23 +22,23 @@
     },
     {
       "rank": "5.",
+      "title": "PicoRio Linux RISC-V SBC Is an Open Source Alternative to Raspberry Pi Board",
+      "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
+    },
+    {
+      "rank": "6.",
       "title": "Snake in a QR Code",
       "link": "https://itsmattkc.com/etc/snakeqr/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Winamp Skin Museum",
       "link": "https://skins.webamp.org/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Show HN: AnyLeaf – PH Sensor for Microcontrollers",
       "link": "https://www.anyleaf.org/ph-module"
-    },
-    {
-      "rank": "8.",
-      "title": "PicoRio Linux RISC-V SBC Is an Open Source Alternative to Raspberry Pi Board",
-      "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
     },
     {
       "rank": "9.",
@@ -52,43 +52,43 @@
     },
     {
       "rank": "11.",
-      "title": "How to Build a State",
-      "link": "https://www.worksinprogress.co/issue/how-to-build-a-state/"
-    },
-    {
-      "rank": "12.",
-      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3&4: B/E and product",
-      "link": "https://www.soteris.co/#careers"
-    },
-    {
-      "rank": "13.",
       "title": "Rocket Helicopter (2010)",
       "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
     },
     {
+      "rank": "12.",
+      "title": "How to Build a State",
+      "link": "https://www.worksinprogress.co/issue/how-to-build-a-state/"
+    },
+    {
+      "rank": "13.",
+      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3 and #4",
+      "link": "https://www.soteris.co/#careers"
+    },
+    {
       "rank": "14.",
+      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
+      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
+    },
+    {
+      "rank": "15.",
       "title": "Specter – Clojure API for immutable programming (2017)",
       "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
     },
     {
-      "rank": "15.",
-      "title": "Upsert anti-pattern in SQL Server",
-      "link": "https://sqlperformance.com/2020/09/locking/upsert-anti-pattern"
+      "rank": "16.",
+      "title": "Ask HN: What does performance management look like at your company?",
+      "link": "item?id=24374347"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "A Requiem for a Dying Operating System (1994)",
       "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "The social and economic costs borne by young people without offices",
       "link": "https://www.theatlantic.com/magazine/archive/2020/10/career-costs-working-from-home/615472/"
-    },
-    {
-      "rank": "18.",
-      "title": "Ask HN: What does performance management look like at your company?",
-      "link": "item?id=24374347"
     },
     {
       "rank": "19.",
@@ -97,43 +97,43 @@
     },
     {
       "rank": "20.",
-      "title": "A Detailed History of MongoDB",
-      "link": "https://www.quickprogrammingtips.com/mongodb/mongodb-history.html"
-    },
-    {
-      "rank": "21.",
       "title": "Bread, How Did They Make It? Addendum: Rice",
       "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
     },
     {
+      "rank": "21.",
+      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+    },
+    {
       "rank": "22.",
-      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
-      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
+      "title": "Upsert anti-pattern in SQL Server",
+      "link": "https://sqlperformance.com/2020/09/locking/upsert-anti-pattern"
     },
     {
       "rank": "23.",
-      "title": "Mark Twain’s Mind Waves",
-      "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
-    },
-    {
-      "rank": "24.",
-      "title": "Facebook halts Oculus Quest sales in Germany amid privacy concerns",
-      "link": "https://arstechnica.com/gaming/2020/09/facebook-halts-oculus-quest-sales-in-germany-amid-privacy-concerns/"
-    },
-    {
-      "rank": "25.",
       "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
       "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
     },
     {
+      "rank": "24.",
+      "title": "A Detailed History of MongoDB",
+      "link": "https://www.quickprogrammingtips.com/mongodb/mongodb-history.html"
+    },
+    {
+      "rank": "25.",
+      "title": "Facebook halts Oculus Quest sales in Germany amid privacy concerns",
+      "link": "https://arstechnica.com/gaming/2020/09/facebook-halts-oculus-quest-sales-in-germany-amid-privacy-concerns/"
+    },
+    {
       "rank": "26.",
-      "title": "Rust testing or verifying: Why not both?",
-      "link": "https://alastairreid.github.io/why-not-both/"
+      "title": "Mark Twain’s Mind Waves",
+      "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
     },
     {
       "rank": "27.",
-      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+      "title": "Rust testing or verifying: Why not both?",
+      "link": "https://alastairreid.github.io/why-not-both/"
     },
     {
       "rank": "28.",
