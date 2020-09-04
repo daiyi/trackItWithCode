@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "The House That Carving Built",
-      "link": "https://bittersoutherner.com/2020/the-house-that-carving-built-brasstown-carvers-john-c-campbell-folk-school"
+      "title": "David Graeber has died",
+      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
     },
     {
       "rank": "15.",
-      "title": "David Graeber has died",
-      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
+      "title": "They told you not to reply (2008)",
+      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "They told you not to reply (2008)",
-      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
+      "title": "The House That Carving Built",
+      "link": "https://bittersoutherner.com/2020/the-house-that-carving-built-brasstown-carvers-john-c-campbell-folk-school"
     },
     {
       "rank": "18.",
@@ -97,33 +97,33 @@
     },
     {
       "rank": "20.",
+      "title": "Exalting Data, Missing Meaning (2017)",
+      "link": "https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning"
+    },
+    {
+      "rank": "21.",
       "title": "Understanding Daemons",
       "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Writing an Efficient Vulkan Renderer",
       "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "What is the purpose of issuing laws/regulations without penalty? (2017)",
       "link": "https://politics.stackexchange.com/questions/26724/what-is-the-purpose-of-issuing-laws-regulations-without-penalty"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Software supply chain security",
       "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "A True Story (150 AD)",
       "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
-    },
-    {
-      "rank": "25.",
-      "title": "Show HN: FixCache – keep track of bug-prone files from Git commit history",
-      "link": "https://github.com/aavshr/fixCache"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Show HN: DNS-based alternative to the web for structured data",
-      "link": "https://www.num.uk/blog/announcing-num"
+      "title": "Show HN: FixCache – keep track of bug-prone files from Git commit history",
+      "link": "https://github.com/aavshr/fixCache"
     },
     {
       "rank": "28.",
-      "title": "Show HN: A proactive way of securing your Linux server",
-      "link": "https://github.com/prashantgupta24/firewalld-rest"
+      "title": "Show HN: DNS-based alternative to the web for structured data",
+      "link": "https://www.num.uk/blog/announcing-num"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Optimizely to be acquired by Episerver",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
+      "title": "Show HN: A proactive way of securing your Linux server",
+      "link": "https://github.com/prashantgupta24/firewalld-rest"
     }
   ],
   "metadata": {
