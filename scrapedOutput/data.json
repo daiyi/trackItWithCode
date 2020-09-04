@@ -12,28 +12,28 @@
     },
     {
       "rank": "3.",
-      "title": "Reddit gets its app to 50m Play Store downloads",
-      "link": "https://www.androidpolice.com/2020/09/02/reddit-gets-its-app-to-50-million-play-store-downloads-mostly-by-making-the-mobile-web-experience-miserable/"
-    },
-    {
-      "rank": "4.",
-      "title": "A word for a value between 0 and 1 (inclusive)",
-      "link": "https://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive"
-    },
-    {
-      "rank": "5.",
-      "title": "What I Learned Going Through YC as a 17 Year Old",
-      "link": "https://tieshunroquerre.com/blog/yc-learnings"
-    },
-    {
-      "rank": "6.",
       "title": "Ask HN: What does performance management look like at your company?",
       "link": "item?id=24374347"
     },
     {
+      "rank": "4.",
+      "title": "The Decadent Society: How We Became the Victims of Our Own Success",
+      "link": "https://claremontreviewofbooks.com/comfortably-numb/"
+    },
+    {
+      "rank": "5.",
+      "title": "Reddit gets its app to 50m Play Store downloads",
+      "link": "https://www.androidpolice.com/2020/09/02/reddit-gets-its-app-to-50-million-play-store-downloads-mostly-by-making-the-mobile-web-experience-miserable/"
+    },
+    {
+      "rank": "6.",
+      "title": "A word for a value between 0 and 1 (inclusive)",
+      "link": "https://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive"
+    },
+    {
       "rank": "7.",
-      "title": "GCC Automatic Parallel Compilation Viability Results Help Up to 3.3x",
-      "link": "https://www.phoronix.com/scan.php?page=news_item&px=GCC-Auto-Parallel-Compilation"
+      "title": "What I Learned Going Through YC as a 17 Year Old",
+      "link": "https://tieshunroquerre.com/blog/yc-learnings"
     },
     {
       "rank": "8.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Facebook prohibits music or music listening experience on Live",
-      "link": "https://www.facebook.com/legal/music_guidelines"
+      "title": "GCC Automatic Parallel Compilation Viability Results Help Up to 3.3x",
+      "link": "https://www.phoronix.com/scan.php?page=news_item&px=GCC-Auto-Parallel-Compilation"
     },
     {
       "rank": "10.",
@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "Rust testing or verifying: Why not both?",
-      "link": "https://alastairreid.github.io/why-not-both/"
-    },
-    {
-      "rank": "12.",
-      "title": "Preserving data integrity: A ZFS-inspired storage system",
-      "link": "https://insanity.industries/post/preserving-data-integrity/"
-    },
-    {
-      "rank": "13.",
       "title": "Thirty years ago today I made the final gold masters for Monkey Island",
       "link": "https://grumpygamer.com/thirty_years_ago"
     },
     {
+      "rank": "12.",
+      "title": "Rust testing or verifying: Why not both?",
+      "link": "https://alastairreid.github.io/why-not-both/"
+    },
+    {
+      "rank": "13.",
+      "title": "Facebook prohibits music or music listening experience on Live",
+      "link": "https://www.facebook.com/legal/music_guidelines"
+    },
+    {
       "rank": "14.",
-      "title": "Show HN: My GitHub Readme Is Interactive",
-      "link": "https://github.com/veggiedefender/typing"
+      "title": "Preserving data integrity: A ZFS-inspired storage system",
+      "link": "https://insanity.industries/post/preserving-data-integrity/"
     },
     {
       "rank": "15.",
-      "title": "Exalting Data, Missing Meaning (2017)",
-      "link": "https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning"
+      "title": "Show HN: My GitHub Readme Is Interactive",
+      "link": "https://github.com/veggiedefender/typing"
     },
     {
       "rank": "16.",
@@ -82,58 +82,58 @@
     },
     {
       "rank": "17.",
-      "title": "Reading mind and Visualizing thoughts using AI",
-      "link": "https://thinkml.ai/ai-can-read-and-visualize-our-thoughts/"
+      "title": "Bread, How Did They Make It? Addendum: Rice",
+      "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
     },
     {
       "rank": "18.",
+      "title": "Exalting Data, Missing Meaning (2017)",
+      "link": "https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning"
+    },
+    {
+      "rank": "19.",
       "title": "Costs of running a Python webapp for 55k monthly users",
       "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
+      "title": "Reading mind and Visualizing thoughts using AI",
+      "link": "https://thinkml.ai/ai-can-read-and-visualize-our-thoughts/"
+    },
+    {
+      "rank": "21.",
       "title": "Digital pregnancy tests have an internal paper test",
       "link": "https://twitter.com/Foone/status/1301707401024827392"
     },
     {
-      "rank": "20.",
-      "title": "Show HN: Build Machine Learning Web-Service with Python and Django",
-      "link": "https://github.com/pplonski/my_ml_service"
-    },
-    {
-      "rank": "21.",
+      "rank": "22.",
       "title": "They told you not to reply (2008)",
       "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
       "link": "item?id=24364811"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Show HN: Single neuron neural network written in COBOL",
       "link": "https://github.com/victorqribeiro/perceptronCobol"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
+      "title": "Show HN: Build Machine Learning Web-Service with Python and Django",
+      "link": "https://github.com/pplonski/my_ml_service"
+    },
+    {
+      "rank": "26.",
       "title": "The House That Carving Built",
       "link": "https://bittersoutherner.com/2020/the-house-that-carving-built-brasstown-carvers-john-c-campbell-folk-school"
     },
     {
-      "rank": "25.",
-      "title": "Windows update resets your default programs so they can suggest using Edge",
-      "link": "https://www.reddit.com/r/assholedesign/comments/im0rbv/installing_the_last_windows_update_resets_your/"
-    },
-    {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
       "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
-    },
-    {
-      "rank": "27.",
-      "title": "Most-favorited Hacker News posts",
-      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "What is the purpose of issuing laws/regulations without penalty? (2017)",
-      "link": "https://politics.stackexchange.com/questions/26724/what-is-the-purpose-of-issuing-laws-regulations-without-penalty"
+      "title": "Most-favorited Hacker News posts",
+      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     },
     {
       "rank": "30.",
-      "title": "Show HN: FixCache – keep track of bug-prone files from Git commit history",
-      "link": "https://github.com/aavshr/fixCache"
+      "title": "What is the purpose of issuing laws/regulations without penalty? (2017)",
+      "link": "https://politics.stackexchange.com/questions/26724/what-is-the-purpose-of-issuing-laws-regulations-without-penalty"
     }
   ],
   "metadata": {
