@@ -2,43 +2,43 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "We Didn't Encrypt Your Password, We Hashed It",
-      "link": "https://www.troyhunt.com/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means/"
-    },
-    {
-      "rank": "2.",
-      "title": "PR Interviews Paul Graham",
-      "link": "https://pullrequest.substack.com/p/pr-interviews-paul-graham"
-    },
-    {
-      "rank": "3.",
-      "title": "PicoRio Linux RISC-V SBC Is an Open Source Alternative to Raspberry Pi Board",
-      "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
-    },
-    {
-      "rank": "4.",
-      "title": "Bullfrog After Populous",
-      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
-    },
-    {
-      "rank": "5.",
-      "title": "The Oldest Cookbook in Korean",
-      "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
-    },
-    {
-      "rank": "6.",
       "title": "Jedi: We will continue to protest this politically corrupted contract award",
       "link": "https://aws.amazon.com/blogs/publicsector/jedi-why-we-will-continue-protest-politically-corrupted-contract-award/"
     },
     {
+      "rank": "2.",
+      "title": "PicoRio Linux RISC-V SBC Is an Open Source Alternative to Raspberry Pi Board",
+      "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
+    },
+    {
+      "rank": "3.",
+      "title": "We Didn't Encrypt Your Password, We Hashed It",
+      "link": "https://www.troyhunt.com/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means/"
+    },
+    {
+      "rank": "4.",
+      "title": "PR Interviews Paul Graham",
+      "link": "https://pullrequest.substack.com/p/pr-interviews-paul-graham"
+    },
+    {
+      "rank": "5.",
+      "title": "Bullfrog After Populous",
+      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
+    },
+    {
+      "rank": "6.",
+      "title": "The Oldest Cookbook in Korean",
+      "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
+    },
+    {
       "rank": "7.",
-      "title": "Snake in a QR Code",
-      "link": "https://itsmattkc.com/etc/snakeqr/"
+      "title": "Winamp Skin Museum",
+      "link": "https://skins.webamp.org/"
     },
     {
       "rank": "8.",
-      "title": "Winamp Skin Museum",
-      "link": "https://skins.webamp.org/"
+      "title": "Snake in a QR Code",
+      "link": "https://itsmattkc.com/etc/snakeqr/"
     },
     {
       "rank": "9.",
@@ -52,103 +52,103 @@
     },
     {
       "rank": "11.",
-      "title": "Rocket Helicopter (2010)",
-      "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
-    },
-    {
-      "rank": "12.",
-      "title": "Specter – Clojure API for immutable programming (2017)",
-      "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
-    },
-    {
-      "rank": "13.",
-      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
-      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
-    },
-    {
-      "rank": "14.",
-      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3 and #4",
-      "link": "https://www.soteris.co/#careers"
-    },
-    {
-      "rank": "15.",
-      "title": "A Detailed History of MongoDB",
-      "link": "https://www.quickprogrammingtips.com/mongodb/mongodb-history.html"
-    },
-    {
-      "rank": "16.",
-      "title": "The social and economic costs borne by young people without offices",
-      "link": "https://www.theatlantic.com/magazine/archive/2020/10/career-costs-working-from-home/615472/"
-    },
-    {
-      "rank": "17.",
-      "title": "Ask HN: What does performance management look like at your company?",
-      "link": "item?id=24374347"
-    },
-    {
-      "rank": "18.",
-      "title": "A Requiem for a Dying Operating System (1994)",
-      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
-    },
-    {
-      "rank": "19.",
       "title": "Grounded Language Learning Fast and Slow",
       "link": "https://arxiv.org/abs/2009.01719"
     },
     {
-      "rank": "20.",
-      "title": "What Satoshi Did Not Know (2015) [pdf]",
-      "link": "https://www.ifca.ai/pub/fc15/89750001.pdf"
+      "rank": "12.",
+      "title": "Rocket Helicopter (2010)",
+      "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
     },
     {
-      "rank": "21.",
+      "rank": "13.",
+      "title": "Specter – Clojure API for immutable programming (2017)",
+      "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
+    },
+    {
+      "rank": "14.",
+      "title": "The social and economic costs borne by young people without offices",
+      "link": "https://www.theatlantic.com/magazine/archive/2020/10/career-costs-working-from-home/615472/"
+    },
+    {
+      "rank": "15.",
+      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3 and #4",
+      "link": "https://www.soteris.co/#careers"
+    },
+    {
+      "rank": "16.",
+      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
+      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
+    },
+    {
+      "rank": "17.",
+      "title": "A Requiem for a Dying Operating System (1994)",
+      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
+    },
+    {
+      "rank": "18.",
+      "title": "Ask HN: What does performance management look like at your company?",
+      "link": "item?id=24374347"
+    },
+    {
+      "rank": "19.",
+      "title": "A Detailed History of MongoDB",
+      "link": "https://www.quickprogrammingtips.com/mongodb/mongodb-history.html"
+    },
+    {
+      "rank": "20.",
       "title": "Bread, How Did They Make It? Addendum: Rice",
       "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
     },
     {
-      "rank": "22.",
-      "title": "Upsert anti-pattern in SQL Server",
-      "link": "https://sqlperformance.com/2020/09/locking/upsert-anti-pattern"
-    },
-    {
-      "rank": "23.",
+      "rank": "21.",
       "title": "Microchips That Shook the World (2009)",
       "link": "https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world"
     },
     {
-      "rank": "24.",
+      "rank": "22.",
       "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
       "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
-      "rank": "25.",
+      "rank": "23.",
+      "title": "Upsert anti-pattern in SQL Server",
+      "link": "https://sqlperformance.com/2020/09/locking/upsert-anti-pattern"
+    },
+    {
+      "rank": "24.",
       "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
       "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Mark Twain’s Mind Waves",
       "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
     },
     {
-      "rank": "27.",
-      "title": "Rust testing or verifying: Why not both?",
-      "link": "https://alastairreid.github.io/why-not-both/"
+      "rank": "26.",
+      "title": "What Satoshi Did Not Know (2015) [pdf]",
+      "link": "https://www.ifca.ai/pub/fc15/89750001.pdf"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Facebook halts Oculus Quest sales in Germany amid privacy concerns",
       "link": "https://arstechnica.com/gaming/2020/09/facebook-halts-oculus-quest-sales-in-germany-amid-privacy-concerns/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Ask HN: What Happened to Larry Page?",
       "link": "item?id=24376380"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Standards for Gloves",
       "link": "https://guidegloves.com/en/knowledge/standards"
+    },
+    {
+      "rank": "30.",
+      "title": "Asemica: An asemic Markov-chained cipher",
+      "link": "https://github.com/linenoise/asemica"
     }
   ],
   "metadata": {
