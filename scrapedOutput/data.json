@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Apple ordered to pay retail workers for security screening time [pdf]",
-      "link": "https://cdn.ca9.uscourts.gov/datastore/opinions/2020/09/02/15-17382.pdf"
+      "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
+      "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
     },
     {
       "rank": "2.",
-      "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
-      "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
+      "title": "Libvirt – The Unsung Hero of Cloud Computing (2013)",
+      "link": "https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html"
     },
     {
       "rank": "3.",
@@ -17,8 +17,8 @@
     },
     {
       "rank": "4.",
-      "title": "Libvirt – The Unsung Hero of Cloud Computing (2013)",
-      "link": "https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html"
+      "title": "Apple ordered to pay retail workers for security screening time [pdf]",
+      "link": "https://cdn.ca9.uscourts.gov/datastore/opinions/2020/09/02/15-17382.pdf"
     },
     {
       "rank": "5.",
@@ -27,33 +27,33 @@
     },
     {
       "rank": "6.",
-      "title": "The Family That Built an Empire of Pain (2017)",
-      "link": "https://www.newyorker.com/magazine/2017/10/30/the-family-that-built-an-empire-of-pain"
-    },
-    {
-      "rank": "7.",
-      "title": "India authorises sale of electric vehicles without batteries",
-      "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
-    },
-    {
-      "rank": "8.",
       "title": "What is software supply chain security and why does it matter?",
       "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
     },
     {
-      "rank": "9.",
+      "rank": "7.",
       "title": "Score matching with Langevin Sampling: a new contender to GANs",
       "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
     },
     {
+      "rank": "8.",
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
+    },
+    {
+      "rank": "9.",
+      "title": "India authorises sale of electric vehicles without batteries",
+      "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
+    },
+    {
       "rank": "10.",
-      "title": "Eulerian Video Magnification",
-      "link": "https://people.csail.mit.edu/mrub/evm/"
+      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
+      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
     },
     {
       "rank": "11.",
-      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
-      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
+      "title": "Eulerian Video Magnification",
+      "link": "https://people.csail.mit.edu/mrub/evm/"
     },
     {
       "rank": "12.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
+      "title": "Learning@home hivemind – train large neural networks across the internet",
+      "link": "https://learning-at-home.github.io/"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
+      "title": "Beginner's Guide to Understanding Daemons",
+      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
+    },
+    {
+      "rank": "18.",
       "title": "Writing an Efficient Vulkan Renderer",
       "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
       "link": "https://github.com/samizdatco/skia-canvas"
-    },
-    {
-      "rank": "19.",
-      "title": "Beginner's Guide to Understanding Daemons",
-      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
       "rank": "20.",
@@ -102,28 +102,28 @@
     },
     {
       "rank": "21.",
-      "title": "Show HN: A proactive way of securing your Linux server",
-      "link": "https://github.com/prashantgupta24/firewalld-rest"
-    },
-    {
-      "rank": "22.",
       "title": "Home Office Projects Series: Air conditioner setup",
       "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Optimizely to be acquired by Episerver",
       "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
     },
     {
+      "rank": "23.",
+      "title": "Show HN: A proactive way of securing your Linux server",
+      "link": "https://github.com/prashantgupta24/firewalld-rest"
+    },
+    {
       "rank": "24.",
-      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
-      "link": "https://jatan.space/exploring-moon-mountains/"
+      "title": "Radioactivity in Antiques",
+      "link": "https://www.epa.gov/radtown/radioactivity-antiques"
     },
     {
       "rank": "25.",
-      "title": "Radioactivity in Antiques",
-      "link": "https://www.epa.gov/radtown/radioactivity-antiques"
+      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
+      "link": "https://jatan.space/exploring-moon-mountains/"
     },
     {
       "rank": "26.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Learning home hivemind – train large neural networks across the internet",
-      "link": "https://learning-at-home.github.io/"
+      "title": "The Lessons of Shell Shock",
+      "link": "https://www.historytoday.com/history-matters/lessons-shell-shock"
     },
     {
       "rank": "29.",
-      "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
-      "link": "https://newstorycharity.org/careers/brand-designer"
+      "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
+      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
     },
     {
       "rank": "30.",
-      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
-      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
+      "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
+      "link": "https://newstorycharity.org/careers/brand-designer"
     }
   ],
   "metadata": {
