@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Apple ordered to pay retail workers for security screening time [pdf]",
+      "link": "https://cdn.ca9.uscourts.gov/datastore/opinions/2020/09/02/15-17382.pdf"
+    },
+    {
+      "rank": "2.",
       "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
       "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Show HN: My GitHub Readme Is Interactive",
       "link": "https://github.com/veggiedefender/typing"
-    },
-    {
-      "rank": "3.",
-      "title": "Regular cannabis use were associated with poorer cognitive performance",
-      "link": "https://onlinelibrary.wiley.com/doi/full/10.1111/add.15207"
     },
     {
       "rank": "4.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "David Graeber has died",
-      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
+      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
+      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
     },
     {
       "rank": "10.",
-      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
-      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
+      "title": "David Graeber has died",
+      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
     },
     {
       "rank": "11.",
@@ -62,23 +62,23 @@
     },
     {
       "rank": "13.",
-      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
-      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
-    },
-    {
-      "rank": "14.",
-      "title": "What is software supply chain security and why does it matter?",
-      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
-    },
-    {
-      "rank": "15.",
       "title": "They told you not to reply (2008)",
       "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
     },
     {
-      "rank": "16.",
+      "rank": "14.",
+      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
+      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
+    },
+    {
+      "rank": "15.",
       "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
       "link": "https://github.com/samizdatco/skia-canvas"
+    },
+    {
+      "rank": "16.",
+      "title": "Beginner's Guide to Understanding Daemons",
+      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Beginner's Guide to Understanding Daemons",
-      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
+      "title": "Coping with Cats",
+      "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
     },
     {
       "rank": "19.",
-      "title": "Coping with Cats",
-      "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
+      "title": "What is software supply chain security and why does it matter?",
+      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Home Office Projects Series: Air conditioner setup",
-      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
+      "title": "Learning home hivemind – train large neural networks across the internet",
+      "link": "https://learning-at-home.github.io/"
     },
     {
       "rank": "22.",
-      "title": "The Family That Built an Empire of Pain",
-      "link": "https://www.newyorker.com/magazine/2017/10/30/the-family-that-built-an-empire-of-pain"
+      "title": "Home Office Projects Series: Air conditioner setup",
+      "link": "https://www.techprowd.com/home-office-projects-series-air-conditioner-setup/"
     },
     {
       "rank": "23.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
-      "link": "https://github.com/Seb-C/kiss-orm"
-    },
-    {
-      "rank": "28.",
-      "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
-      "link": "https://newstorycharity.org/careers/brand-designer"
-    },
-    {
-      "rank": "29.",
       "title": "Using Vim for C++ Development",
       "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
     },
     {
+      "rank": "28.",
+      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
+      "link": "https://github.com/Seb-C/kiss-orm"
+    },
+    {
+      "rank": "29.",
+      "title": "The Family That Built an Empire of Pain (2017)",
+      "link": "https://www.newyorker.com/magazine/2017/10/30/the-family-that-built-an-empire-of-pain"
+    },
+    {
       "rank": "30.",
-      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
-      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
+      "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
+      "link": "https://newstorycharity.org/careers/brand-designer"
     }
   ],
   "metadata": {
