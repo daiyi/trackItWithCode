@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Zork source and binaries, January 1978",
-      "link": "https://github.com/MITDDC/zork-1978-01"
+      "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
+      "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
     },
     {
       "rank": "4.",
-      "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
-      "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
+      "title": "Zork source and binaries, January 1978",
+      "link": "https://github.com/MITDDC/zork-1978-01"
     },
     {
       "rank": "5.",
@@ -62,23 +62,23 @@
     },
     {
       "rank": "13.",
-      "title": "What is software supply chain security and why does it matter?",
-      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
-    },
-    {
-      "rank": "14.",
       "title": "Eulerian Video Magnification",
       "link": "https://people.csail.mit.edu/mrub/evm/"
     },
     {
+      "rank": "14.",
+      "title": "What is software supply chain security and why does it matter?",
+      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
+    },
+    {
       "rank": "15.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
+      "title": "David Graeber has died",
+      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
     },
     {
       "rank": "16.",
-      "title": "David Graeber has died",
-      "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
     },
     {
       "rank": "17.",
@@ -92,28 +92,28 @@
     },
     {
       "rank": "19.",
-      "title": "India authorises sale of electric vehicles without batteries",
-      "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
-    },
-    {
-      "rank": "20.",
       "title": "Beginner's Guide to Understanding Daemons",
       "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Writing an Efficient Vulkan Renderer",
       "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
     },
     {
+      "rank": "21.",
+      "title": "India authorises sale of electric vehicles without batteries",
+      "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
+    },
+    {
       "rank": "22.",
-      "title": "A True Story (150 AD)",
-      "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
+      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
+      "link": "https://github.com/samizdatco/skia-canvas"
     },
     {
       "rank": "23.",
-      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
-      "link": "https://github.com/samizdatco/skia-canvas"
+      "title": "A True Story (150 AD)",
+      "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
     },
     {
       "rank": "24.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "The Computer, the Consumer and Privacy (1984)",
-      "link": "https://www.nytimes.com/1984/03/04/weekinreview/the-computer-the-consumer-and-privacy.html"
-    },
-    {
-      "rank": "29.",
       "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
       "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
       "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
+    },
+    {
+      "rank": "30.",
+      "title": "The Computer, the Consumer and Privacy (1984)",
+      "link": "https://www.nytimes.com/1984/03/04/weekinreview/the-computer-the-consumer-and-privacy.html"
     }
   ],
   "metadata": {
