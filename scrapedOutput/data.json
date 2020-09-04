@@ -2,153 +2,153 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
-      "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
+      "title": "A Requiem for a Dying Operating System",
+      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
     },
     {
       "rank": "2.",
-      "title": "Modern C",
-      "link": "https://modernc.gforge.inria.fr/"
-    },
-    {
-      "rank": "3.",
-      "title": "Libvirt – The Unsung Hero of Cloud Computing (2013)",
-      "link": "https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html"
-    },
-    {
-      "rank": "4.",
-      "title": "Learning@home hivemind – train large neural networks across the internet",
-      "link": "https://learning-at-home.github.io/"
-    },
-    {
-      "rank": "5.",
-      "title": "Costs of running a Python webapp for 55k monthly users",
-      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
-    },
-    {
-      "rank": "6.",
-      "title": "Show HN: My GitHub Readme Is Interactive",
-      "link": "https://github.com/veggiedefender/typing"
-    },
-    {
-      "rank": "7.",
       "title": "Reddit app got 50M downloads by making mobile web experience miserable",
       "link": "https://www.androidpolice.com/2020/09/02/reddit-gets-its-app-to-50-million-play-store-downloads-mostly-by-making-the-mobile-web-experience-miserable/"
     },
     {
+      "rank": "3.",
+      "title": "Modern C",
+      "link": "https://modernc.gforge.inria.fr/"
+    },
+    {
+      "rank": "4.",
+      "title": "Libvirt – The Unsung Hero of Cloud Computing (2013)",
+      "link": "https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html"
+    },
+    {
+      "rank": "5.",
+      "title": "Learning@home hivemind – train large neural networks across the internet",
+      "link": "https://learning-at-home.github.io/"
+    },
+    {
+      "rank": "6.",
+      "title": "A word for a value between 0 and 1 (inclusive)",
+      "link": "https://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive"
+    },
+    {
+      "rank": "7.",
+      "title": "Show HN: My GitHub Readme Is Interactive",
+      "link": "https://github.com/veggiedefender/typing"
+    },
+    {
       "rank": "8.",
+      "title": "Costs of running a Python webapp for 55k monthly users",
+      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
+    },
+    {
+      "rank": "9.",
+      "title": "Facebook prohibits music or music listening experience on Live",
+      "link": "https://www.facebook.com/legal/music_guidelines"
+    },
+    {
+      "rank": "10.",
       "title": "Show HN: Single neuron neural network written in COBOL",
       "link": "https://github.com/victorqribeiro/perceptronCobol"
     },
     {
-      "rank": "9.",
+      "rank": "11.",
       "title": "Digital pregnancy tests have an internal paper test",
       "link": "https://twitter.com/Foone/status/1301707401024827392"
     },
     {
-      "rank": "10.",
+      "rank": "12.",
+      "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
+      "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
+    },
+    {
+      "rank": "13.",
       "title": "Score matching with Langevin Sampling: a new contender to GANs",
       "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
     },
     {
-      "rank": "11.",
-      "title": "Eulerian Video Magnification",
-      "link": "https://people.csail.mit.edu/mrub/evm/"
-    },
-    {
-      "rank": "12.",
+      "rank": "14.",
       "title": "David Graeber has died",
       "link": "https://www.theguardian.com/books/2020/sep/03/david-graeber-anthropologist-and-author-of-bullshit-jobs-dies-aged-59"
     },
     {
-      "rank": "13.",
-      "title": "They told you not to reply (2008)",
-      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
+      "rank": "15.",
+      "title": "Eulerian Video Magnification",
+      "link": "https://people.csail.mit.edu/mrub/evm/"
     },
     {
-      "rank": "14.",
+      "rank": "16.",
       "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
       "link": "item?id=24364811"
     },
     {
-      "rank": "15.",
+      "rank": "17.",
+      "title": "They told you not to reply (2008)",
+      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
+    },
+    {
+      "rank": "18.",
       "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
       "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
     },
     {
-      "rank": "16.",
+      "rank": "19.",
+      "title": "Understanding Daemons",
+      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
+    },
+    {
+      "rank": "20.",
       "title": "Writing an Efficient Vulkan Renderer",
       "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
     },
     {
-      "rank": "17.",
-      "title": "Beginner's Guide to Understanding Daemons",
-      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
-    },
-    {
-      "rank": "18.",
+      "rank": "21.",
       "title": "What is the purpose of issuing laws/regulations without penalty? (2017)",
       "link": "https://politics.stackexchange.com/questions/26724/what-is-the-purpose-of-issuing-laws-regulations-without-penalty"
     },
     {
-      "rank": "19.",
-      "title": "What is software supply chain security and why does it matter?",
-      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
-    },
-    {
-      "rank": "20.",
-      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
-      "link": "https://github.com/samizdatco/skia-canvas"
-    },
-    {
-      "rank": "21.",
-      "title": "Show HN: DNS-based alternative to the web for structured data",
-      "link": "https://www.num.uk/blog/announcing-num"
-    },
-    {
       "rank": "22.",
-      "title": "Islamic State: Giant library of group's online propaganda discovered",
-      "link": "https://www.bbc.co.uk/news/technology-54011034"
+      "title": "Show HN: FixCache – keep track of bug-prone files from Git commit history",
+      "link": "https://github.com/aavshr/fixCache"
     },
     {
       "rank": "23.",
+      "title": "The House That Carving Built",
+      "link": "https://bittersoutherner.com/2020/the-house-that-carving-built-brasstown-carvers-john-c-campbell-folk-school"
+    },
+    {
+      "rank": "24.",
       "title": "A True Story (150 AD)",
       "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
+      "title": "Software supply chain security",
+      "link": "https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/"
+    },
+    {
+      "rank": "26.",
+      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
+      "link": "https://github.com/samizdatco/skia-canvas"
+    },
+    {
+      "rank": "27.",
+      "title": "Show HN: DNS-based alternative to the web for structured data",
+      "link": "https://www.num.uk/blog/announcing-num"
+    },
+    {
+      "rank": "28.",
+      "title": "Islamic State: Giant library of group's online propaganda discovered",
+      "link": "https://www.bbc.co.uk/news/technology-54011034"
+    },
+    {
+      "rank": "29.",
       "title": "Show HN: A proactive way of securing your Linux server",
       "link": "https://github.com/prashantgupta24/firewalld-rest"
     },
     {
-      "rank": "25.",
-      "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
-      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
-    },
-    {
-      "rank": "26.",
+      "rank": "30.",
       "title": "Coping with Cats",
       "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
-    },
-    {
-      "rank": "27.",
-      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
-      "link": "https://jatan.space/exploring-moon-mountains/"
-    },
-    {
-      "rank": "28.",
-      "title": "The Computer, the Consumer and Privacy (1984)",
-      "link": "https://www.nytimes.com/1984/03/04/weekinreview/the-computer-the-consumer-and-privacy.html"
-    },
-    {
-      "rank": "29.",
-      "title": "Optimizely to be acquired by Episerver",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
-    },
-    {
-      "rank": "30.",
-      "title": "India authorises sale of electric vehicles without batteries",
-      "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
     }
   ],
   "metadata": {
