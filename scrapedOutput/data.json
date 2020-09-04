@@ -7,103 +7,103 @@
     },
     {
       "rank": "2.",
-      "title": "The Oldest Cookbook in Korean",
-      "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
-    },
-    {
-      "rank": "3.",
-      "title": "Snake in a QR Code",
-      "link": "https://itsmattkc.com/etc/snakeqr/"
-    },
-    {
-      "rank": "4.",
-      "title": "Show HN: AnyLeaf – PH Sensor for Microcontrollers",
-      "link": "https://www.anyleaf.org/ph-module"
-    },
-    {
-      "rank": "5.",
-      "title": "Winamp Skin Museum",
-      "link": "https://skins.webamp.org/"
-    },
-    {
-      "rank": "6.",
-      "title": "Thirty years ago today I made the final gold masters for Monkey Island",
-      "link": "https://grumpygamer.com/thirty_years_ago"
-    },
-    {
-      "rank": "7.",
-      "title": "How to Build a State",
-      "link": "https://www.worksinprogress.co/issue/how-to-build-a-state/"
-    },
-    {
-      "rank": "8.",
-      "title": "What Satoshi Did Not Know (2015) [pdf]",
-      "link": "https://www.ifca.ai/pub/fc15/89750001.pdf"
-    },
-    {
-      "rank": "9.",
-      "title": "Rocket Helicopter (2010)",
-      "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
-    },
-    {
-      "rank": "10.",
-      "title": "Specter – Clojure API for immutable programming (2017)",
-      "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
-    },
-    {
-      "rank": "11.",
-      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3&4: B/E and product",
-      "link": "https://www.soteris.co/#careers"
-    },
-    {
-      "rank": "12.",
-      "title": "Ask HN: Are you friends with your manager?",
-      "link": "item?id=24378560"
-    },
-    {
-      "rank": "13.",
       "title": "We Didn't Encrypt Your Password, We Hashed It",
       "link": "https://www.troyhunt.com/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means/"
     },
     {
-      "rank": "14.",
-      "title": "Upsert anti-pattern in SQL Server",
-      "link": "https://sqlperformance.com/2020/09/locking/upsert-anti-pattern"
+      "rank": "3.",
+      "title": "The Oldest Cookbook in Korean",
+      "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
     },
     {
-      "rank": "15.",
+      "rank": "4.",
+      "title": "PR Interviews Paul Graham",
+      "link": "https://pullrequest.substack.com/p/pr-interviews-paul-graham"
+    },
+    {
+      "rank": "5.",
+      "title": "Snake in a QR Code",
+      "link": "https://itsmattkc.com/etc/snakeqr/"
+    },
+    {
+      "rank": "6.",
+      "title": "Winamp Skin Museum",
+      "link": "https://skins.webamp.org/"
+    },
+    {
+      "rank": "7.",
+      "title": "Show HN: AnyLeaf – PH Sensor for Microcontrollers",
+      "link": "https://www.anyleaf.org/ph-module"
+    },
+    {
+      "rank": "8.",
+      "title": "Thirty years ago today I made the final gold masters for Monkey Island",
+      "link": "https://grumpygamer.com/thirty_years_ago"
+    },
+    {
+      "rank": "9.",
+      "title": "What Satoshi Did Not Know (2015) [pdf]",
+      "link": "https://www.ifca.ai/pub/fc15/89750001.pdf"
+    },
+    {
+      "rank": "10.",
+      "title": "How to Build a State",
+      "link": "https://www.worksinprogress.co/issue/how-to-build-a-state/"
+    },
+    {
+      "rank": "11.",
+      "title": "Rocket Helicopter (2010)",
+      "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
+    },
+    {
+      "rank": "12.",
+      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3&4: B/E and product",
+      "link": "https://www.soteris.co/#careers"
+    },
+    {
+      "rank": "13.",
+      "title": "Specter – Clojure API for immutable programming (2017)",
+      "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
+    },
+    {
+      "rank": "14.",
       "title": "The social and economic costs borne by young people without offices",
       "link": "https://www.theatlantic.com/magazine/archive/2020/10/career-costs-working-from-home/615472/"
     },
     {
-      "rank": "16.",
-      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
-      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
-    },
-    {
-      "rank": "17.",
+      "rank": "15.",
       "title": "A Requiem for a Dying Operating System (1994)",
       "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
     },
     {
-      "rank": "18.",
+      "rank": "16.",
       "title": "Ask HN: What does performance management look like at your company?",
       "link": "item?id=24374347"
     },
     {
-      "rank": "19.",
+      "rank": "17.",
+      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
+      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
+    },
+    {
+      "rank": "18.",
       "title": "Microchips That Shook the World (2009)",
       "link": "https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world"
     },
     {
+      "rank": "19.",
+      "title": "Upsert anti-pattern in SQL Server",
+      "link": "https://sqlperformance.com/2020/09/locking/upsert-anti-pattern"
+    },
+    {
       "rank": "20.",
-      "title": "Mark Twain’s Mind Waves",
-      "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
+      "title": "Bread, How Did They Make It? Addendum: Rice",
+      "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
     },
     {
       "rank": "21.",
-      "title": "Bread, How Did They Make It? Addendum: Rice",
-      "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
+      "title": "Mark Twain’s Mind Waves",
+      "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
     },
     {
       "rank": "22.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+      "title": "Rust testing or verifying: Why not both?",
+      "link": "https://alastairreid.github.io/why-not-both/"
     },
     {
       "rank": "25.",
-      "title": "Rust testing or verifying: Why not both?",
-      "link": "https://alastairreid.github.io/why-not-both/"
+      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
       "rank": "26.",
