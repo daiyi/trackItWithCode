@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
-      "title": "Apple publishes human rights policy, commits to freedom of information",
-      "link": "https://thehill.com/policy/technology/515104-apple-publishes-human-rights-policy-commits-to-freedom-of-information"
-    },
-    {
-      "rank": "3.",
       "title": "The Decadent Society: How We Became the Victims of Our Own Success",
       "link": "https://claremontreviewofbooks.com/comfortably-numb/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Thirty years ago today I made the final gold masters for Monkey Island",
       "link": "https://grumpygamer.com/thirty_years_ago"
+    },
+    {
+      "rank": "4.",
+      "title": "Specter – Clojure API for immutable programming (2017)",
+      "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
     },
     {
       "rank": "5.",
@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Clojure's missing piece: an elegant API for immutable programming",
-      "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
+      "title": "A word for a value between 0 and 1 (inclusive)",
+      "link": "https://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive"
     },
     {
       "rank": "7.",
-      "title": "A word for a value between 0 and 1 (inclusive)",
-      "link": "https://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive"
+      "title": "What I Learned Going Through YC as a 17 Year Old",
+      "link": "https://tieshunroquerre.com/blog/yc-learnings"
     },
     {
       "rank": "8.",
@@ -42,53 +42,53 @@
     },
     {
       "rank": "9.",
-      "title": "What I Learned Going Through YC as a 17 Year Old",
-      "link": "https://tieshunroquerre.com/blog/yc-learnings"
+      "title": "Apple publishes human rights policy, commits to freedom of information",
+      "link": "https://thehill.com/policy/technology/515104-apple-publishes-human-rights-policy-commits-to-freedom-of-information"
     },
     {
       "rank": "10.",
-      "title": "A Requiem for a Dying Operating System",
-      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
-    },
-    {
-      "rank": "11.",
       "title": "GCC Automatic Parallel Compilation Viability Results Help Up to 3.3x",
       "link": "https://www.phoronix.com/scan.php?page=news_item&px=GCC-Auto-Parallel-Compilation"
     },
     {
+      "rank": "11.",
+      "title": "Winamp Skin Museum",
+      "link": "https://skins.webamp.org/"
+    },
+    {
       "rank": "12.",
-      "title": "Rust testing or verifying: Why not both?",
-      "link": "https://alastairreid.github.io/why-not-both/"
-    },
-    {
-      "rank": "13.",
-      "title": "Libvirt – The Unsung Hero of Cloud Computing (2013)",
-      "link": "https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html"
-    },
-    {
-      "rank": "14.",
       "title": "Bread, How Did They Make It? Addendum: Rice",
       "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
     },
     {
+      "rank": "13.",
+      "title": "A Requiem for a Dying Operating System",
+      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
+    },
+    {
+      "rank": "14.",
+      "title": "Rust testing or verifying: Why not both?",
+      "link": "https://alastairreid.github.io/why-not-both/"
+    },
+    {
       "rank": "15.",
+      "title": "Libvirt – The Unsung Hero of Cloud Computing (2013)",
+      "link": "https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html"
+    },
+    {
+      "rank": "16.",
       "title": "Facebook prohibits music or music listening experience on Live",
       "link": "https://www.facebook.com/legal/music_guidelines"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Learning@home hivemind – train large neural networks across the internet",
       "link": "https://learning-at-home.github.io/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Show HN: Build Machine Learning Web-Service with Python and Django",
       "link": "https://github.com/pplonski/my_ml_service"
-    },
-    {
-      "rank": "18.",
-      "title": "Preserving data integrity: A ZFS-inspired storage system",
-      "link": "https://insanity.industries/post/preserving-data-integrity/"
     },
     {
       "rank": "19.",
@@ -97,43 +97,43 @@
     },
     {
       "rank": "20.",
-      "title": "Winamp Skin Museum",
-      "link": "https://skins.webamp.org/"
+      "title": "Preserving data integrity: A ZFS-inspired storage system",
+      "link": "https://insanity.industries/post/preserving-data-integrity/"
     },
     {
       "rank": "21.",
-      "title": "Ask HN: What does performance management look like at your company?",
-      "link": "item?id=24374347"
-    },
-    {
-      "rank": "22.",
       "title": "Costs of running a Python webapp for 55k monthly users",
       "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
       "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Show HN: My GitHub Readme Is Interactive",
       "link": "https://github.com/veggiedefender/typing"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Reading mind and Visualizing thoughts using AI",
       "link": "https://thinkml.ai/ai-can-read-and-visualize-our-thoughts/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "The House That Carving Built",
       "link": "https://bittersoutherner.com/2020/the-house-that-carving-built-brasstown-carvers-john-c-campbell-folk-school"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Exalting Data, Missing Meaning (2017)",
       "link": "https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning"
+    },
+    {
+      "rank": "27.",
+      "title": "Ask HN: What does performance management look like at your company?",
+      "link": "item?id=24374347"
     },
     {
       "rank": "28.",
