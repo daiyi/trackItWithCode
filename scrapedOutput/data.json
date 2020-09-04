@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Show HN: Single neuron neural network written in COBOL",
-      "link": "https://github.com/victorqribeiro/perceptronCobol"
+      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
+      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Nothing can now be believed which is seen in a newspaper (1807)",
-      "link": "https://press-pubs.uchicago.edu/founders/documents/amendI_speechs29.html"
+      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
+      "link": "item?id=24364811"
     },
     {
       "rank": "11.",
-      "title": "Launch HN: Slapdash (YC W19) – A uniform, low-latency interface for cloud apps",
-      "link": "item?id=24364811"
+      "title": "Show HN: Single neuron neural network written in COBOL",
+      "link": "https://github.com/victorqribeiro/perceptronCobol"
     },
     {
       "rank": "12.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
-      "title": "Coping with Cats",
-      "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
-    },
-    {
-      "rank": "16.",
       "title": "Beginner's Guide to Understanding Daemons",
       "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Optimizely to be acquired by Episerver",
       "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
+    },
+    {
+      "rank": "17.",
+      "title": "Coping with Cats",
+      "link": "https://acesounderglass.com/2020/09/02/coping-with-cats/"
     },
     {
       "rank": "18.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
-      "title": "They told you not to reply (2008)",
-      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
-    },
-    {
-      "rank": "22.",
       "title": "Radioactivity in Antiques",
       "link": "https://www.epa.gov/radtown/radioactivity-antiques"
     },
     {
+      "rank": "22.",
+      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
+      "link": "https://github.com/Seb-C/kiss-orm"
+    },
+    {
       "rank": "23.",
-      "title": "How can Ceasefire be self-supporting?",
-      "link": "https://ceasefire.net/post/a3pl4f/how_can_ceasefire_be_self-supporting"
+      "title": "They told you not to reply (2008)",
+      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
-      "link": "https://github.com/Seb-C/kiss-orm"
-    },
-    {
-      "rank": "26.",
-      "title": "The Lessons of Shell Shock",
-      "link": "https://www.historytoday.com/history-matters/lessons-shell-shock"
-    },
-    {
-      "rank": "27.",
-      "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
-      "link": "https://newstorycharity.org/careers/brand-designer"
-    },
-    {
-      "rank": "28.",
-      "title": "Show HN: A proactive way of securing your Linux server",
-      "link": "https://github.com/prashantgupta24/firewalld-rest"
-    },
-    {
-      "rank": "29.",
       "title": "Study suggests that fresh asphalt is a significant source of air pollution",
       "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
     },
     {
-      "rank": "30.",
+      "rank": "26.",
+      "title": "How can Ceasefire be self-supporting?",
+      "link": "https://ceasefire.net/post/a3pl4f/how_can_ceasefire_be_self-supporting"
+    },
+    {
+      "rank": "27.",
       "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
       "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
+    },
+    {
+      "rank": "28.",
+      "title": "New Story Charity (YC S15) Is Hiring a Brand Designer",
+      "link": "https://newstorycharity.org/careers/brand-designer"
+    },
+    {
+      "rank": "29.",
+      "title": "The Lessons of Shell Shock",
+      "link": "https://www.historytoday.com/history-matters/lessons-shell-shock"
+    },
+    {
+      "rank": "30.",
+      "title": "Show HN: A proactive way of securing your Linux server",
+      "link": "https://github.com/prashantgupta24/firewalld-rest"
     }
   ],
   "metadata": {
