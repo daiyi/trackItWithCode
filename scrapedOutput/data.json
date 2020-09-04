@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "100 NLP Papers",
-      "link": "https://github.com/mhagiwara/100-nlp-papers"
+      "title": "An AI Breaks the Writing Barrier",
+      "link": "https://www.wsj.com/articles/an-ai-breaks-the-writing-barrier-11598068862"
     },
     {
       "rank": "3.",
@@ -17,48 +17,48 @@
     },
     {
       "rank": "4.",
-      "title": "How to Build a State",
-      "link": "https://www.worksinprogress.co/issue/how-to-build-a-state/"
-    },
-    {
-      "rank": "5.",
-      "title": "Winamp Skin Museum",
-      "link": "https://skins.webamp.org/"
-    },
-    {
-      "rank": "6.",
-      "title": "Stop writing upserts the wrong way (SQL Server)",
+      "title": "Upsert anti-pattern in SQL Server",
       "link": "https://sqlperformance.com/2020/09/locking/upsert-anti-pattern"
     },
     {
-      "rank": "7.",
-      "title": "Thirty years ago today I made the final gold masters for Monkey Island",
-      "link": "https://grumpygamer.com/thirty_years_ago"
-    },
-    {
-      "rank": "8.",
-      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3&4: B/E and product",
-      "link": "https://www.soteris.co/#careers"
-    },
-    {
-      "rank": "9.",
-      "title": "What Satoshi Did Not Know (2015) [pdf]",
-      "link": "https://www.ifca.ai/pub/fc15/89750001.pdf"
-    },
-    {
-      "rank": "10.",
+      "rank": "5.",
       "title": "Show HN: AnyLeaf – PH Sensor for Microcontrollers",
       "link": "https://www.anyleaf.org/ph-module"
     },
     {
+      "rank": "6.",
+      "title": "How to Build a State",
+      "link": "https://www.worksinprogress.co/issue/how-to-build-a-state/"
+    },
+    {
+      "rank": "7.",
+      "title": "Winamp Skin Museum",
+      "link": "https://skins.webamp.org/"
+    },
+    {
+      "rank": "8.",
+      "title": "Thirty years ago today I made the final gold masters for Monkey Island",
+      "link": "https://grumpygamer.com/thirty_years_ago"
+    },
+    {
+      "rank": "9.",
+      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3&4: B/E and product",
+      "link": "https://www.soteris.co/#careers"
+    },
+    {
+      "rank": "10.",
+      "title": "What Satoshi Did Not Know (2015) [pdf]",
+      "link": "https://www.ifca.ai/pub/fc15/89750001.pdf"
+    },
+    {
       "rank": "11.",
-      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
-      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
+      "title": "Rocket Helicopter (2010)",
+      "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
     },
     {
       "rank": "12.",
-      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
+      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
     },
     {
       "rank": "13.",
@@ -72,83 +72,83 @@
     },
     {
       "rank": "15.",
-      "title": "Microchips That Shook the World (2009)",
-      "link": "https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world"
-    },
-    {
-      "rank": "16.",
-      "title": "A Requiem for a Dying Operating System (1994)",
-      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
-    },
-    {
-      "rank": "17.",
-      "title": "Bread, How Did They Make It? Addendum: Rice",
-      "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
-    },
-    {
-      "rank": "18.",
-      "title": "Facebook halts Oculus Quest sales in Germany amid privacy concerns",
-      "link": "https://arstechnica.com/gaming/2020/09/facebook-halts-oculus-quest-sales-in-germany-amid-privacy-concerns/"
-    },
-    {
-      "rank": "19.",
-      "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
-      "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
-    },
-    {
-      "rank": "20.",
       "title": "Mark Twain’s Mind Waves",
       "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
     },
     {
+      "rank": "16.",
+      "title": "Microchips That Shook the World (2009)",
+      "link": "https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world"
+    },
+    {
+      "rank": "17.",
+      "title": "A Requiem for a Dying Operating System (1994)",
+      "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
+    },
+    {
+      "rank": "18.",
+      "title": "Ask HN: What does performance management look like at your company?",
+      "link": "item?id=24374347"
+    },
+    {
+      "rank": "19.",
+      "title": "Bread, How Did They Make It? Addendum: Rice",
+      "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
+    },
+    {
+      "rank": "20.",
+      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+    },
+    {
       "rank": "21.",
-      "title": "Scene bust triggered historic drop in ‘pirate’ releases",
-      "link": "https://torrentfreak.com/scene-bust-triggered-historic-drop-in-pirate-releases-200904/"
+      "title": "Facebook halts Oculus Quest sales in Germany amid privacy concerns",
+      "link": "https://arstechnica.com/gaming/2020/09/facebook-halts-oculus-quest-sales-in-germany-amid-privacy-concerns/"
     },
     {
       "rank": "22.",
-      "title": "A word for a value between 0 and 1 (inclusive)",
-      "link": "https://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive"
+      "title": "100 NLP Papers",
+      "link": "https://github.com/mhagiwara/100-nlp-papers"
     },
     {
       "rank": "23.",
+      "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
+      "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
+    },
+    {
+      "rank": "24.",
       "title": "Rust testing or verifying: Why not both?",
       "link": "https://alastairreid.github.io/why-not-both/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
+      "title": "Scene bust triggered historic drop in ‘pirate’ releases",
+      "link": "https://torrentfreak.com/scene-bust-triggered-historic-drop-in-pirate-releases-200904/"
+    },
+    {
+      "rank": "26.",
       "title": "Asemica: An asemic Markov-chained cipher",
       "link": "https://github.com/linenoise/asemica"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Ask HN: What Happened to Larry Page?",
       "link": "item?id=24376380"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Standards for Gloves",
       "link": "https://guidegloves.com/en/knowledge/standards"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "What I Learned Going Through YC as a 17 Year Old",
       "link": "https://tieshunroquerre.com/blog/yc-learnings"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Show HN: Build Machine Learning Web-Service with Python and Django",
       "link": "https://github.com/pplonski/my_ml_service"
-    },
-    {
-      "rank": "29.",
-      "title": "GCC Automatic Parallel Compilation Viability Results Help Up to 3.3x",
-      "link": "https://www.phoronix.com/scan.php?page=news_item&px=GCC-Auto-Parallel-Compilation"
-    },
-    {
-      "rank": "30.",
-      "title": "List of YouTube channels for improving web development and programming skills",
-      "link": "https://devandgear.com/posts/the-ultimate-list-of-youtube-channels-to-boost-your-web-development-and-programming-skills/"
     }
   ],
   "metadata": {
