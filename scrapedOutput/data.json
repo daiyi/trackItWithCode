@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Bullfrog After Populous",
+      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
+    },
+    {
+      "rank": "2.",
       "title": "List of YouTube channels for improving web development and programming skills",
       "link": "https://devandgear.com/posts/the-ultimate-list-of-youtube-channels-to-boost-your-web-development-and-programming-skills/"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Snake in a QR Code",
       "link": "https://itsmattkc.com/etc/snakeqr/"
-    },
-    {
-      "rank": "3.",
-      "title": "Bullfrog After Populous",
-      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
     },
     {
       "rank": "4.",
@@ -37,63 +37,63 @@
     },
     {
       "rank": "8.",
-      "title": "Ask HN: What Happened to Larry Page?",
-      "link": "item?id=24376380"
-    },
-    {
-      "rank": "9.",
       "title": "Specter – Clojure API for immutable programming (2017)",
       "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "A Requiem for a Dying Operating System (1994)",
       "link": "https://user.eng.umd.edu/~blj/funny/requium.html"
     },
     {
-      "rank": "11.",
-      "title": "Bread, How Did They Make It? Addendum: Rice",
-      "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
-    },
-    {
-      "rank": "12.",
-      "title": "Facebook halts Oculus Quest sales in Germany amid privacy concerns",
-      "link": "https://arstechnica.com/gaming/2020/09/facebook-halts-oculus-quest-sales-in-germany-amid-privacy-concerns/"
-    },
-    {
-      "rank": "13.",
-      "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
-      "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
-    },
-    {
-      "rank": "14.",
+      "rank": "10.",
       "title": "Microchips That Shook the World (2009)",
       "link": "https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world"
     },
     {
-      "rank": "15.",
-      "title": "Modern C",
-      "link": "https://modernc.gforge.inria.fr/"
+      "rank": "11.",
+      "title": "Why are there so few black tech entrepreneurs?",
+      "link": "https://www.bbc.com/news/business-53761632"
     },
     {
-      "rank": "16.",
-      "title": "GnuPG 2.2.23",
-      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2020q3/000448.html"
+      "rank": "12.",
+      "title": "Bread, How Did They Make It? Addendum: Rice",
+      "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
     },
     {
-      "rank": "17.",
+      "rank": "13.",
       "title": "Scene Bust Triggered Historic Drop in ‘Pirate’ Releases",
       "link": "https://torrentfreak.com/scene-bust-triggered-historic-drop-in-pirate-releases-200904/"
     },
     {
+      "rank": "14.",
+      "title": "Facebook halts Oculus Quest sales in Germany amid privacy concerns",
+      "link": "https://arstechnica.com/gaming/2020/09/facebook-halts-oculus-quest-sales-in-germany-amid-privacy-concerns/"
+    },
+    {
+      "rank": "15.",
+      "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
+      "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
+    },
+    {
+      "rank": "16.",
+      "title": "Modern C",
+      "link": "https://modernc.gforge.inria.fr/"
+    },
+    {
+      "rank": "17.",
+      "title": "GnuPG 2.2.23",
+      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2020q3/000448.html"
+    },
+    {
       "rank": "18.",
-      "title": "Asemica: An asemic Markov-chained cipher",
-      "link": "https://github.com/linenoise/asemica"
+      "title": "What I Learned Going Through YC as a 17 Year Old",
+      "link": "https://tieshunroquerre.com/blog/yc-learnings"
     },
     {
       "rank": "19.",
-      "title": "What I Learned Going Through YC as a 17 Year Old",
-      "link": "https://tieshunroquerre.com/blog/yc-learnings"
+      "title": "Asemica: An asemic Markov-chained cipher",
+      "link": "https://github.com/linenoise/asemica"
     },
     {
       "rank": "20.",
@@ -102,53 +102,53 @@
     },
     {
       "rank": "21.",
-      "title": "Why are there so few black tech entrepreneurs?",
-      "link": "https://www.bbc.com/news/business-53761632"
-    },
-    {
-      "rank": "22.",
       "title": "Rust testing or verifying: Why not both?",
       "link": "https://alastairreid.github.io/why-not-both/"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "GCC Automatic Parallel Compilation Viability Results Help Up to 3.3x",
       "link": "https://www.phoronix.com/scan.php?page=news_item&px=GCC-Auto-Parallel-Compilation"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Rocket Helicopter (2010)",
       "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Reddit gets its app to 50m Play Store downloads",
       "link": "https://www.androidpolice.com/2020/09/02/reddit-gets-its-app-to-50-million-play-store-downloads-mostly-by-making-the-mobile-web-experience-miserable/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "The Pentagon has ordered Stars and Stripes to shut down",
       "link": "https://www.usatoday.com/story/opinion/2020/09/04/trump-and-stars-and-stripes-attacking-american-icon-column/5706859002/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Show HN: Build Machine Learning Web-Service with Python and Django",
       "link": "https://github.com/pplonski/my_ml_service"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Learning@home hivemind – train large neural networks across the internet",
       "link": "https://learning-at-home.github.io/"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Java Cryptography Uses in the Wild",
       "link": "https://arxiv.org/abs/2009.01101"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Facebook prohibits music or music listening experience on Live",
       "link": "https://www.facebook.com/legal/music_guidelines"
+    },
+    {
+      "rank": "30.",
+      "title": "Preserving data integrity: A ZFS-inspired storage system",
+      "link": "https://insanity.industries/post/preserving-data-integrity/"
     }
   ],
   "metadata": {
