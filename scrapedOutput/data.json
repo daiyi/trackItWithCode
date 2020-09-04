@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Modern C",
-      "link": "https://modernc.gforge.inria.fr/"
+      "title": "Show HN: My GitHub Readme Is Interactive",
+      "link": "https://github.com/veggiedefender/typing"
     },
     {
       "rank": "8.",
-      "title": "Show HN: My GitHub Readme Is Interactive",
-      "link": "https://github.com/veggiedefender/typing"
+      "title": "Modern C",
+      "link": "https://modernc.gforge.inria.fr/"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Apple ordered to pay retail workers for security screening time [pdf]",
-      "link": "https://cdn.ca9.uscourts.gov/datastore/opinions/2020/09/02/15-17382.pdf"
+      "title": "Show HN: Single neuron neural network written in COBOL",
+      "link": "https://github.com/victorqribeiro/perceptronCobol"
     },
     {
       "rank": "11.",
-      "title": "Show HN: Single neuron neural network written in COBOL",
-      "link": "https://github.com/victorqribeiro/perceptronCobol"
+      "title": "Digital Pregnancy Tests Have an Internal Paper Test",
+      "link": "https://twitter.com/Foone/status/1301707401024827392"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "Digital Pregnancy Tests Have an Internal Paper Test",
-      "link": "https://twitter.com/Foone/status/1301707401024827392"
+      "title": "9th Circuit Rules Apple Owes Retail Workers for Time Spent Security Screening",
+      "link": "https://www.macrumors.com/2020/09/03/apple-owes-retail-workers-time-spent-bag-checks/"
     },
     {
       "rank": "14.",
@@ -97,28 +97,28 @@
     },
     {
       "rank": "20.",
+      "title": "A True Story (150 AD)",
+      "link": "https://www.sacred-texts.com/cla/luc/wl2/wl211.htm"
+    },
+    {
+      "rank": "21.",
       "title": "Beginner's Guide to Understanding Daemons",
       "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "India authorises sale of electric vehicles without batteries",
       "link": "https://www.electricmotorengineering.com/india-sale-of-electric-vehicles-without-batteries/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Writing an Efficient Vulkan Renderer",
       "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
       "link": "https://github.com/samizdatco/skia-canvas"
-    },
-    {
-      "rank": "24.",
-      "title": "Interviews with makers of high-end mechanical keyboards",
-      "link": "https://endgame.fyi"
     },
     {
       "rank": "25.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
-      "title": "The Computer, the Consumer and Privacy (1984)",
-      "link": "https://www.nytimes.com/1984/03/04/weekinreview/the-computer-the-consumer-and-privacy.html"
-    },
-    {
-      "rank": "27.",
       "title": "Show HN: A proactive way of securing your Linux server",
       "link": "https://github.com/prashantgupta24/firewalld-rest"
     },
     {
+      "rank": "27.",
+      "title": "The Computer, the Consumer and Privacy (1984)",
+      "link": "https://www.nytimes.com/1984/03/04/weekinreview/the-computer-the-consumer-and-privacy.html"
+    },
+    {
       "rank": "28.",
-      "title": "Optimizely to be acquired by Episerver",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
+      "title": "Interviews with makers of high-end mechanical keyboards",
+      "link": "https://endgame.fyi"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
-      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
+      "title": "Optimizely to be acquired by Episerver",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/goldman-backed-startup-optimizely-to-be-acquired-by-episerver"
     }
   ],
   "metadata": {
