@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Reddit app got 50M downloads by making mobile web experience miserable",
-      "link": "https://www.androidpolice.com/2020/09/02/reddit-gets-its-app-to-50-million-play-store-downloads-mostly-by-making-the-mobile-web-experience-miserable/"
+      "title": "Modern C",
+      "link": "https://modernc.gforge.inria.fr/"
     },
     {
       "rank": "3.",
-      "title": "Modern C",
-      "link": "https://modernc.gforge.inria.fr/"
+      "title": "Reddit app got 50M downloads by making mobile web experience miserable",
+      "link": "https://www.androidpolice.com/2020/09/02/reddit-gets-its-app-to-50-million-play-store-downloads-mostly-by-making-the-mobile-web-experience-miserable/"
     },
     {
       "rank": "4.",
@@ -22,33 +22,33 @@
     },
     {
       "rank": "5.",
-      "title": "A word for a value between 0 and 1 (inclusive)",
-      "link": "https://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive"
-    },
-    {
-      "rank": "6.",
-      "title": "Libvirt – The Unsung Hero of Cloud Computing (2013)",
-      "link": "https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html"
-    },
-    {
-      "rank": "7.",
-      "title": "Learning@home hivemind – train large neural networks across the internet",
-      "link": "https://learning-at-home.github.io/"
-    },
-    {
-      "rank": "8.",
       "title": "What I Learned Going Through YC as a 17 Year Old",
       "link": "https://tieshunroquerre.com/blog/yc-learnings"
     },
     {
+      "rank": "6.",
+      "title": "A word for a value between 0 and 1 (inclusive)",
+      "link": "https://english.stackexchange.com/questions/275734/a-word-for-a-value-between-0-and-1-inclusive"
+    },
+    {
+      "rank": "7.",
+      "title": "Libvirt – The Unsung Hero of Cloud Computing (2013)",
+      "link": "https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html"
+    },
+    {
+      "rank": "8.",
+      "title": "Learning@home hivemind – train large neural networks across the internet",
+      "link": "https://learning-at-home.github.io/"
+    },
+    {
       "rank": "9.",
-      "title": "Exalting Data, Missing Meaning (2017)",
-      "link": "https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning"
+      "title": "Facebook prohibits music or music listening experience on Live",
+      "link": "https://www.facebook.com/legal/music_guidelines"
     },
     {
       "rank": "10.",
-      "title": "Facebook prohibits music or music listening experience on Live",
-      "link": "https://www.facebook.com/legal/music_guidelines"
+      "title": "Exalting Data, Missing Meaning (2017)",
+      "link": "https://blog.andymatuschak.org/post/159340765257/exalting-data-missing-meaning"
     },
     {
       "rank": "11.",
@@ -57,28 +57,28 @@
     },
     {
       "rank": "12.",
-      "title": "Preserving data integrity: A ZFS-inspired storage system",
-      "link": "https://insanity.industries/post/preserving-data-integrity/"
-    },
-    {
-      "rank": "13.",
       "title": "Show HN: Single neuron neural network written in COBOL",
       "link": "https://github.com/victorqribeiro/perceptronCobol"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
       "link": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
     },
     {
+      "rank": "14.",
+      "title": "Preserving data integrity: A ZFS-inspired storage system",
+      "link": "https://insanity.industries/post/preserving-data-integrity/"
+    },
+    {
       "rank": "15.",
-      "title": "Digital pregnancy tests have an internal paper test",
-      "link": "https://twitter.com/Foone/status/1301707401024827392"
+      "title": "Score matching with Langevin Sampling: a new contender to GANs",
+      "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
     },
     {
       "rank": "16.",
-      "title": "Score matching with Langevin Sampling: a new contender to GANs",
-      "link": "https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/"
+      "title": "Digital pregnancy tests have an internal paper test",
+      "link": "https://twitter.com/Foone/status/1301707401024827392"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Costs of running a Python webapp for 55k monthly users",
-      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
+      "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
     },
     {
       "rank": "19.",
-      "title": "The First Randomized Controlled Trial on Vitamin D and Covid-19",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0960076020302764"
+      "title": "Costs of running a Python webapp for 55k monthly users",
+      "link": "https://keepthescore.co/blog/posts/costs-of-running-webapp/"
     },
     {
       "rank": "20.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "Understanding Daemons",
-      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
+      "title": "Writing an Efficient Vulkan Renderer",
+      "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
     },
     {
       "rank": "24.",
-      "title": "Writing an Efficient Vulkan Renderer",
-      "link": "https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/"
+      "title": "Understanding Daemons",
+      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
       "rank": "25.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Reading mind and Visualizing thoughts using AI",
-      "link": "https://thinkml.ai/ai-can-read-and-visualize-our-thoughts/"
+      "title": "Most-favorited Hacker News posts",
+      "link": "https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis"
     }
   ],
   "metadata": {
