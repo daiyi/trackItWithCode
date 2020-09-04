@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
-      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
+      "title": "They told you not to reply (2008)",
+      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
     },
     {
       "rank": "13.",
-      "title": "They told you not to reply (2008)",
-      "link": "http://voices.washingtonpost.com/securityfix/2008/03/they_told_you_not_to_reply.html"
+      "title": "Gitlab reducing free tier CI/CD minutes from 2000 to 400 minutes",
+      "link": "https://about.gitlab.com/releases/2020/09/01/ci-minutes-update-free-users/"
     },
     {
       "rank": "14.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Beginner's Guide to Understanding Daemons",
-      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
+      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
+      "link": "https://github.com/samizdatco/skia-canvas"
     },
     {
       "rank": "16.",
-      "title": "Show HN: Skia-canvas, a browserless implementation of the Canvas API for Node.js",
-      "link": "https://github.com/samizdatco/skia-canvas"
+      "title": "Beginner's Guide to Understanding Daemons",
+      "link": "https://blog.digitalbunker.dev/2020/09/03/understanding-daemons-unix/"
     },
     {
       "rank": "17.",
@@ -97,43 +97,43 @@
     },
     {
       "rank": "20.",
-      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
-      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
-    },
-    {
-      "rank": "21.",
-      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
-      "link": "https://jatan.space/exploring-moon-mountains/"
-    },
-    {
-      "rank": "22.",
-      "title": "Show HN: A proactive way of securing your Linux server",
-      "link": "https://github.com/prashantgupta24/firewalld-rest"
-    },
-    {
-      "rank": "23.",
       "title": "Radioactivity in Antiques",
       "link": "https://www.epa.gov/radtown/radioactivity-antiques"
     },
     {
-      "rank": "24.",
-      "title": "How can Ceasefire be self-supporting?",
-      "link": "https://ceasefire.net/post/a3pl4f/how_can_ceasefire_be_self-supporting"
+      "rank": "21.",
+      "title": "Pachyderm Hub: data science without the hassle of managing infrastructure",
+      "link": "https://www.pachyderm.com/blog/pachyderm-hub-is-now-in-production/"
     },
     {
-      "rank": "25.",
+      "rank": "22.",
+      "title": "Earth's mountains form in millions of years, Moon ones near instantaneously",
+      "link": "https://jatan.space/exploring-moon-mountains/"
+    },
+    {
+      "rank": "23.",
+      "title": "Show HN: A proactive way of securing your Linux server",
+      "link": "https://github.com/prashantgupta24/firewalld-rest"
+    },
+    {
+      "rank": "24.",
       "title": "Show HN: ORM for TypeScript with no query-builder, supporting full SQL queries",
       "link": "https://github.com/Seb-C/kiss-orm"
     },
     {
+      "rank": "25.",
+      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
+      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
+    },
+    {
       "rank": "26.",
-      "title": "The Lessons of Shell Shock",
-      "link": "https://www.historytoday.com/history-matters/lessons-shell-shock"
+      "title": "Using Vim for C++ Development",
+      "link": "https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859"
     },
     {
       "rank": "27.",
-      "title": "Study suggests that fresh asphalt is a significant source of air pollution",
-      "link": "https://www.sciencemag.org/news/2020/09/it-s-not-just-cars-make-pollution-it-s-roads-they-drive-too"
+      "title": "The Lessons of Shell Shock",
+      "link": "https://www.historytoday.com/history-matters/lessons-shell-shock"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
-      "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
+      "title": "How can Ceasefire be self-supporting?",
+      "link": "https://ceasefire.net/post/a3pl4f/how_can_ceasefire_be_self-supporting"
     },
     {
       "rank": "30.",
-      "title": "Fainter Become My Hopes: A new translation of a fragment of Simonides’ poetry",
-      "link": "https://www.laphamsquarterly.org/roundtable/fainter-become-my-hopes"
+      "title": "Justice Dept. plans to file antitrust charges against Google in coming weeks",
+      "link": "https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html"
     }
   ],
   "metadata": {
