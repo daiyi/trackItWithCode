@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
-      "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
+      "title": "The User Always Loses",
+      "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
     },
     {
       "rank": "2.",
-      "title": "The User Always Loses",
-      "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
+      "title": "Show HN: Talk – A free group video call app with screen sharing",
+      "link": "https://github.com/vasanthv/talk"
     },
     {
       "rank": "3.",
@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Show HN: Talk – A free group video call app with screen sharing",
-      "link": "https://github.com/vasanthv/talk"
+      "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
+      "link": "https://radicle.xyz/radicle-link.html"
     },
     {
       "rank": "5.",
-      "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
-      "link": "https://radicle.xyz/radicle-link.html"
+      "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
+      "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
     },
     {
       "rank": "6.",
@@ -37,118 +37,118 @@
     },
     {
       "rank": "8.",
-      "title": "Massacring C Pointers (2018)",
-      "link": "https://wozniak.ca/blog/2018/06/25/1/index.html"
-    },
-    {
-      "rank": "9.",
-      "title": "How Chekhov invented the modern short story",
-      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
-    },
-    {
-      "rank": "10.",
-      "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
-      "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
-    },
-    {
-      "rank": "11.",
-      "title": "Snake in a QR Code",
-      "link": "https://itsmattkc.com/etc/snakeqr/"
-    },
-    {
-      "rank": "12.",
-      "title": "Guide to the Many Meanings of Quantum Mechanics",
-      "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
-    },
-    {
-      "rank": "13.",
       "title": "Ask HN: Suggestions for books about API design?",
       "link": "item?id=24383180"
     },
     {
-      "rank": "14.",
+      "rank": "9.",
+      "title": "Why Your First House Is A Liability",
+      "link": "https://medium.com/@introvertmac/why-your-first-house-is-a-liability-7e41c8b35295"
+    },
+    {
+      "rank": "10.",
+      "title": "How Chekhov invented the modern short story",
+      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
+    },
+    {
+      "rank": "11.",
       "title": "Fastcore: A library that extends Python with new features",
       "link": "https://fastpages.fast.ai/fastcore/"
     },
     {
+      "rank": "12.",
+      "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
+      "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
+    },
+    {
+      "rank": "13.",
+      "title": "Guide to the Many Meanings of Quantum Mechanics",
+      "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
+    },
+    {
+      "rank": "14.",
+      "title": "Snake in a QR Code",
+      "link": "https://itsmattkc.com/etc/snakeqr/"
+    },
+    {
       "rank": "15.",
-      "title": "Floating Under a Levitating Liquid",
-      "link": "https://www.nature.com/articles/s41586-020-2643-8.epdf?sharing_token=yTk6lTlqDGIs_PGThH9cjNRgN0jAjWel9jnR3ZoTv0MwZOxupaqM4-XdEa58MnIMnociJCpeFT74qmZpdkBfQsOEGacWBuJVGlK7x2n_V2ehIOOuhUHiCEoP4j_3xphjnOTN6LST0krmG5xsfE_2rXlaiaDxdQV-qUMozmzmKfDcqEMtdt-xQrQM9qxlKA2zSgS8-UAADNlZezqqT5uG2emSLeMYk_FhrvuQRWaWPeo_htSnjzE62PMXq0JcbPvZdxWuYLXf2V-aJU3EZwHeteTuPaFfQ8Ymk_3X9vN3-fNvtn8bOWUyi3m3MvxM7SBdy0YTssfv-3uYr8wWGbAngw2yThpmrTDEFfsdFkUpWD8%3D&tracking_referrer=www.theguardian.com"
-    },
-    {
-      "rank": "16.",
-      "title": ".NET Transactional Document DB and Event Store on PostgreSQL",
-      "link": "https://martendb.io/"
-    },
-    {
-      "rank": "17.",
-      "title": "The Lancet: World population projections by 2100",
-      "link": "https://www.thelancet.com/article/S0140-6736(20)30677-2/fulltext"
-    },
-    {
-      "rank": "18.",
-      "title": "Cuanto (YC W19) Is Hiring a Founding Product Designer",
-      "link": "https://angel.co/company/cuanto/jobs/963905-founding-product-designer"
-    },
-    {
-      "rank": "19.",
-      "title": "PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board",
-      "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
-    },
-    {
-      "rank": "20.",
-      "title": "Winamp Skin Museum",
-      "link": "https://skins.webamp.org/"
-    },
-    {
-      "rank": "21.",
-      "title": "Lessons from the Gnome Patent Troll Incident",
-      "link": "https://blog.hansenpartnership.com/lessons-from-the-gnome-patent-troll-incident/"
-    },
-    {
-      "rank": "22.",
-      "title": "Bullfrog After Populous",
-      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
-    },
-    {
-      "rank": "23.",
-      "title": "Zweig, Conrad and Chess",
-      "link": "https://www.thearticle.com/darkness-and-light-joseph-conrad-stefan-zweig-and-chess"
-    },
-    {
-      "rank": "24.",
-      "title": "Thirty years ago today I made the final gold masters for Monkey Island",
-      "link": "https://grumpygamer.com/thirty_years_ago"
-    },
-    {
-      "rank": "25.",
       "title": "Getting Better at Understanding Academic Papers: A Brief Guide for Beginners",
       "link": "https://habr.com/en/company/spbifmo/blog/517418/"
     },
     {
+      "rank": "16.",
+      "title": "Cuanto (YC W19) Is Hiring a Founding Product Designer",
+      "link": "https://angel.co/company/cuanto/jobs/963905-founding-product-designer"
+    },
+    {
+      "rank": "17.",
+      "title": ".NET Transactional Document DB and Event Store on PostgreSQL",
+      "link": "https://martendb.io/"
+    },
+    {
+      "rank": "18.",
+      "title": "Floating Under a Levitating Liquid",
+      "link": "https://www.nature.com/articles/s41586-020-2643-8.epdf?sharing_token=yTk6lTlqDGIs_PGThH9cjNRgN0jAjWel9jnR3ZoTv0MwZOxupaqM4-XdEa58MnIMnociJCpeFT74qmZpdkBfQsOEGacWBuJVGlK7x2n_V2ehIOOuhUHiCEoP4j_3xphjnOTN6LST0krmG5xsfE_2rXlaiaDxdQV-qUMozmzmKfDcqEMtdt-xQrQM9qxlKA2zSgS8-UAADNlZezqqT5uG2emSLeMYk_FhrvuQRWaWPeo_htSnjzE62PMXq0JcbPvZdxWuYLXf2V-aJU3EZwHeteTuPaFfQ8Ymk_3X9vN3-fNvtn8bOWUyi3m3MvxM7SBdy0YTssfv-3uYr8wWGbAngw2yThpmrTDEFfsdFkUpWD8%3D&tracking_referrer=www.theguardian.com"
+    },
+    {
+      "rank": "19.",
+      "title": "The Lancet: World population projections by 2100",
+      "link": "https://www.thelancet.com/article/S0140-6736(20)30677-2/fulltext"
+    },
+    {
+      "rank": "20.",
+      "title": "PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board",
+      "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
+    },
+    {
+      "rank": "21.",
+      "title": "Parents Got More Time Off. Then the Backlash Started",
+      "link": "https://www.nytimes.com/2020/09/05/technology/parents-time-off-backlash.html"
+    },
+    {
+      "rank": "22.",
+      "title": "Massacring C Pointers (2018)",
+      "link": "https://wozniak.ca/blog/2018/06/25/1/index.html"
+    },
+    {
+      "rank": "23.",
+      "title": "Winamp Skin Museum",
+      "link": "https://skins.webamp.org/"
+    },
+    {
+      "rank": "24.",
+      "title": "Lessons from the Gnome Patent Troll Incident",
+      "link": "https://blog.hansenpartnership.com/lessons-from-the-gnome-patent-troll-incident/"
+    },
+    {
+      "rank": "25.",
+      "title": "Bullfrog After Populous",
+      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
+    },
+    {
       "rank": "26.",
+      "title": "Thirty years ago today I made the final gold masters for Monkey Island",
+      "link": "https://grumpygamer.com/thirty_years_ago"
+    },
+    {
+      "rank": "27.",
+      "title": "Zweig, Conrad and Chess",
+      "link": "https://www.thearticle.com/darkness-and-light-joseph-conrad-stefan-zweig-and-chess"
+    },
+    {
+      "rank": "28.",
       "title": "Lee Kuan Yew's Singapore",
       "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "Dupes and Duplicity",
       "link": "https://www.damninteresting.com/dupes-and-duplicity/"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "The Oldest Cookbook in Korean",
       "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
-    },
-    {
-      "rank": "29.",
-      "title": "Ninth Circuit rules NSA's bulk collection of Americans' call records was illegal",
-      "link": "https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727"
-    },
-    {
-      "rank": "30.",
-      "title": "What Satoshi Did Not Know (2015) [pdf]",
-      "link": "https://www.ifca.ai/pub/fc15/89750001.pdf"
     }
   ],
   "metadata": {
