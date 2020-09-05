@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Mathematicians should stop naming things after each other",
-      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
+      "title": "Growing a Language (1998) [video]",
+      "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
     },
     {
       "rank": "3.",
-      "title": "Growing a Language (1998) [video]",
-      "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
+      "title": "Mathematicians should stop naming things after each other",
+      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
     },
     {
       "rank": "4.",
@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
-      "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
-      "link": "https://radicle.xyz/radicle-link.html"
-    },
-    {
-      "rank": "8.",
       "title": "Lee Kuan Yew's Singapore",
       "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
     },
     {
+      "rank": "8.",
+      "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
+      "link": "https://radicle.xyz/radicle-link.html"
+    },
+    {
       "rank": "9.",
-      "title": "The User Always Loses",
-      "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
+      "title": "Show HN: Linux sysadmin course, eight years on",
+      "link": "item?id=24380969"
     },
     {
       "rank": "10.",
@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "Show HN: Linux sysadmin course, eight years on",
-      "link": "item?id=24380969"
+      "title": "The User Always Loses",
+      "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
     },
     {
       "rank": "12.",
-      "title": "A Second Chance",
-      "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
-    },
-    {
-      "rank": "13.",
       "title": "Toilets in a Medieval Castle (2018)",
       "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
     },
     {
+      "rank": "13.",
+      "title": "A Second Chance",
+      "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
+    },
+    {
       "rank": "14.",
-      "title": "Chanakya",
-      "link": "https://en.wikipedia.org/wiki/Chanakya"
+      "title": "Apple (Pro) Mouse (2014)",
+      "link": "http://www.minimallyminimal.com/blog/apple-pro-mouse"
     },
     {
       "rank": "15.",
-      "title": "Apple (Pro) Mouse (2014)",
-      "link": "http://www.minimallyminimal.com/blog/apple-pro-mouse"
+      "title": "Chanakya",
+      "link": "https://en.wikipedia.org/wiki/Chanakya"
     },
     {
       "rank": "16.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
+      "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
+      "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
+    },
+    {
+      "rank": "19.",
       "title": "The End of Spectrum Scarcity (2004)",
       "link": "https://spectrum.ieee.org/telecom/wireless/the-end-of-spectrum-scarcity"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Ask HN: Suggestions for books about API design?",
       "link": "item?id=24383180"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "GitHub Won’t Help You with Hiring",
       "link": "https://www.benfrederickson.com/github-wont-help-with-hiring/"
-    },
-    {
-      "rank": "21.",
-      "title": "AirMessage – Android app to interface with iMessage on a Mac",
-      "link": "https://airmessage.org/"
     },
     {
       "rank": "22.",
@@ -112,38 +112,38 @@
     },
     {
       "rank": "23.",
+      "title": "AirMessage – Android app to interface with iMessage on a Mac",
+      "link": "https://airmessage.org/"
+    },
+    {
+      "rank": "24.",
       "title": "Linux kernel security fixes spotted before release by mailing list data mining",
       "link": "https://www.theregister.com/2020/09/04/linux_kernel_flaws/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Are you an anarchist? The answer may surprise you (2000)",
       "link": "https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you"
     },
     {
-      "rank": "25.",
-      "title": "Percival Everett, the Art of Fiction No. 235 (2017)",
-      "link": "https://www.theparisreview.org/interviews/6948/the-art-of-fiction-no-235-percival-everett"
-    },
-    {
       "rank": "26.",
-      "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
-      "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
-    },
-    {
-      "rank": "27.",
       "title": "Have we just stumbled on the biggest productivity increase of the century?",
       "link": "https://theconversation.com/have-we-just-stumbled-on-the-biggest-productivity-increase-of-the-century-145104"
     },
     {
+      "rank": "27.",
+      "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
+      "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
+    },
+    {
       "rank": "28.",
-      "title": "Snake in a QR Code",
-      "link": "https://itsmattkc.com/etc/snakeqr/"
+      "title": "Percival Everett, the Art of Fiction No. 235 (2017)",
+      "link": "https://www.theparisreview.org/interviews/6948/the-art-of-fiction-no-235-percival-everett"
     },
     {
       "rank": "29.",
-      "title": "Floating Under a Levitating Liquid",
-      "link": "https://www.nature.com/articles/s41586-020-2643-8.epdf?sharing_token=yTk6lTlqDGIs_PGThH9cjNRgN0jAjWel9jnR3ZoTv0MwZOxupaqM4-XdEa58MnIMnociJCpeFT74qmZpdkBfQsOEGacWBuJVGlK7x2n_V2ehIOOuhUHiCEoP4j_3xphjnOTN6LST0krmG5xsfE_2rXlaiaDxdQV-qUMozmzmKfDcqEMtdt-xQrQM9qxlKA2zSgS8-UAADNlZezqqT5uG2emSLeMYk_FhrvuQRWaWPeo_htSnjzE62PMXq0JcbPvZdxWuYLXf2V-aJU3EZwHeteTuPaFfQ8Ymk_3X9vN3-fNvtn8bOWUyi3m3MvxM7SBdy0YTssfv-3uYr8wWGbAngw2yThpmrTDEFfsdFkUpWD8%3D&tracking_referrer=www.theguardian.com"
+      "title": "Snake in a QR Code",
+      "link": "https://itsmattkc.com/etc/snakeqr/"
     },
     {
       "rank": "30.",
