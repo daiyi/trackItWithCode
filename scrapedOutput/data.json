@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board",
-      "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
+      "title": "Show HN: Linux sysadmin course, eight years on",
+      "link": "item?id=24380969"
     },
     {
       "rank": "3.",
@@ -17,8 +17,8 @@
     },
     {
       "rank": "4.",
-      "title": "Show HN: Linux sysadmin course, eight years on",
-      "link": "item?id=24380969"
+      "title": "PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board",
+      "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
     },
     {
       "rank": "5.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
-      "title": "Guide to the Many Meanings of Quantum Mechanics",
-      "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
-    },
-    {
-      "rank": "9.",
       "title": "All forms of signing email are generally solving the wrong problem",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/SignedEmailWrongProblem"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Snake in a QR Code",
       "link": "https://itsmattkc.com/etc/snakeqr/"
+    },
+    {
+      "rank": "10.",
+      "title": "Guide to the Many Meanings of Quantum Mechanics",
+      "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
     },
     {
       "rank": "11.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Grounded Language Learning Fast and Slow",
-      "link": "https://arxiv.org/abs/2009.01719"
+      "title": "Dupes and Duplicity",
+      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
     },
     {
       "rank": "16.",
-      "title": "Dupes and Duplicity",
-      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
+      "title": "Grounded Language Learning Fast and Slow",
+      "link": "https://arxiv.org/abs/2009.01719"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "Specter – Clojure API for immutable programming (2017)",
-      "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
+      "title": "Show HN: FixCache – keep track of bug-prone files from Git commit history",
+      "link": "https://github.com/aavshr/fixCache"
     },
     {
       "rank": "19.",
@@ -102,43 +102,43 @@
     },
     {
       "rank": "21.",
-      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3 and #4",
-      "link": "https://www.soteris.co/#careers"
-    },
-    {
-      "rank": "22.",
       "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
       "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
     },
     {
+      "rank": "22.",
+      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3 and #4",
+      "link": "https://www.soteris.co/#careers"
+    },
+    {
       "rank": "23.",
-      "title": "What Satoshi Did Not Know (2015) [pdf]",
-      "link": "https://www.ifca.ai/pub/fc15/89750001.pdf"
-    },
-    {
-      "rank": "24.",
-      "title": "Mark Twain’s Mind Waves",
-      "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
-    },
-    {
-      "rank": "25.",
       "title": "Thirty years ago today I made the final gold masters for Monkey Island",
       "link": "https://grumpygamer.com/thirty_years_ago"
     },
     {
-      "rank": "26.",
+      "rank": "24.",
       "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
       "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
+      "rank": "25.",
+      "title": "What Satoshi Did Not Know (2015) [pdf]",
+      "link": "https://www.ifca.ai/pub/fc15/89750001.pdf"
+    },
+    {
+      "rank": "26.",
+      "title": "Mark Twain’s Mind Waves",
+      "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
+    },
+    {
       "rank": "27.",
-      "title": "Dickheads (2015)",
-      "link": "https://thebaffler.com/salvos/dickheads"
+      "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
+      "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
     },
     {
       "rank": "28.",
-      "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
-      "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
+      "title": "Dickheads (2015)",
+      "link": "https://thebaffler.com/salvos/dickheads"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Interview with Paul Graham",
-      "link": "https://pullrequest.substack.com/p/pr-interviews-paul-graham"
+      "title": "Standards for Gloves",
+      "link": "https://guidegloves.com/en/knowledge/standards"
     }
   ],
   "metadata": {
