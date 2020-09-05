@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Chekhov invented the modern short story",
-      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
+      "title": "Show HN: Linux sysadmin course, eight years on",
+      "link": "item?id=24380969"
     },
     {
       "rank": "2.",
-      "title": "Show HN: Linux sysadmin course, eight years on",
-      "link": "item?id=24380969"
+      "title": "Chekhov invented the modern short story",
+      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
     },
     {
       "rank": "3.",
@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
-      "title": "Bullfrog After Populous",
-      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
-    },
-    {
-      "rank": "7.",
       "title": "The older you are, the quicker you count out a minute",
       "link": "https://thecritic.co.uk/issues/september-2020/time-flies-relatively-speaking/"
     },
     {
+      "rank": "7.",
+      "title": "Bullfrog After Populous",
+      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
+    },
+    {
       "rank": "8.",
-      "title": "All forms of signing email are generally solving the wrong problem",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/SignedEmailWrongProblem"
+      "title": "Guide to the Many Meanings of Quantum Mechanics",
+      "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
     },
     {
       "rank": "9.",
@@ -47,8 +47,8 @@
     },
     {
       "rank": "10.",
-      "title": "Guide to the Many Meanings of Quantum Mechanics",
-      "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
+      "title": "All forms of signing email are generally solving the wrong problem",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/SignedEmailWrongProblem"
     },
     {
       "rank": "11.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
+      "title": "Show HN: AnyLeaf – PH Sensor for Microcontrollers",
+      "link": "https://www.anyleaf.org/ph-module"
+    },
+    {
+      "rank": "16.",
       "title": "Dupes and Duplicity",
       "link": "https://www.damninteresting.com/dupes-and-duplicity/"
     },
     {
-      "rank": "16.",
-      "title": "Grounded Language Learning Fast and Slow",
-      "link": "https://arxiv.org/abs/2009.01719"
-    },
-    {
       "rank": "17.",
-      "title": "Show HN: AnyLeaf – PH Sensor for Microcontrollers",
-      "link": "https://www.anyleaf.org/ph-module"
+      "title": "Dickheads (2015)",
+      "link": "https://thebaffler.com/salvos/dickheads"
     },
     {
       "rank": "18.",
@@ -107,23 +107,23 @@
     },
     {
       "rank": "22.",
-      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3 and #4",
-      "link": "https://www.soteris.co/#careers"
-    },
-    {
-      "rank": "23.",
       "title": "Thirty years ago today I made the final gold masters for Monkey Island",
       "link": "https://grumpygamer.com/thirty_years_ago"
     },
     {
+      "rank": "23.",
+      "title": "What Satoshi Did Not Know (2015) [pdf]",
+      "link": "https://www.ifca.ai/pub/fc15/89750001.pdf"
+    },
+    {
       "rank": "24.",
-      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3 and #4",
+      "link": "https://www.soteris.co/#careers"
     },
     {
       "rank": "25.",
-      "title": "What Satoshi Did Not Know (2015) [pdf]",
-      "link": "https://www.ifca.ai/pub/fc15/89750001.pdf"
+      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
-      "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
+      "title": "Grounded Language Learning Fast and Slow",
+      "link": "https://arxiv.org/abs/2009.01719"
     },
     {
       "rank": "28.",
-      "title": "Dickheads (2015)",
-      "link": "https://thebaffler.com/salvos/dickheads"
-    },
-    {
-      "rank": "29.",
       "title": "Microchips That Shook the World (2009)",
       "link": "https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Standards for Gloves",
       "link": "https://guidegloves.com/en/knowledge/standards"
+    },
+    {
+      "rank": "30.",
+      "title": "Facebook halts Oculus Quest sales in Germany amid privacy concerns",
+      "link": "https://arstechnica.com/gaming/2020/09/facebook-halts-oculus-quest-sales-in-germany-amid-privacy-concerns/"
     }
   ],
   "metadata": {
