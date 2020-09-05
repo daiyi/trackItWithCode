@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "8086 Microcode Disassembled",
-      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
+      "title": "Traffic Prediction with Advanced Graph Neural Networks",
+      "link": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks"
     },
     {
       "rank": "2.",
@@ -12,8 +12,8 @@
     },
     {
       "rank": "3.",
-      "title": "Mathematicians should stop naming things after each other",
-      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
+      "title": "8086 Microcode Disassembled",
+      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
     },
     {
       "rank": "4.",
@@ -22,48 +22,48 @@
     },
     {
       "rank": "5.",
+      "title": "Mathematicians should stop naming things after each other",
+      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
+    },
+    {
+      "rank": "6.",
       "title": "Show HN: Talk – A free group video call app with screen sharing",
       "link": "https://github.com/vasanthv/talk"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Fastcore: A library that extends Python with new features",
       "link": "https://fastpages.fast.ai/fastcore/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
       "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Lee Kuan Yew's Singapore",
       "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
       "link": "https://radicle.xyz/radicle-link.html"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
     },
     {
-      "rank": "11.",
-      "title": "A Second Chance",
-      "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
-    },
-    {
       "rank": "12.",
-      "title": "A Brief Explanation of Greg Egan’s Dust Theory",
-      "link": "https://cephalopods.blog/2020/08/14/a-brief-explanation-of-egans-dust-theory/"
+      "title": "The User Always Loses",
+      "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
     },
     {
       "rank": "13.",
-      "title": "The User Always Loses",
-      "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
+      "title": "A Brief Explanation of Greg Egan’s Dust Theory",
+      "link": "https://cephalopods.blog/2020/08/14/a-brief-explanation-of-egans-dust-theory/"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Apple (Pro) Mouse (2014)",
-      "link": "http://www.minimallyminimal.com/blog/apple-pro-mouse"
+      "title": "A Second Chance",
+      "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "One in ten medical treatments are supported by high-quality evidence – study",
-      "link": "https://www.sciencealert.com/around-90-percent-of-your-medical-treatments-isn-t-backed-by-high-quality-evidence"
+      "title": "The Art of Voltage Probing",
+      "link": "https://circuitcellar.com/research-design-hub/the-art-of-voltage-probing/"
     },
     {
       "rank": "18.",
-      "title": "The Art of Voltage Probing",
-      "link": "https://circuitcellar.com/research-design-hub/the-art-of-voltage-probing/"
+      "title": "Ask HN: Suggestions for books about API design?",
+      "link": "item?id=24383180"
     },
     {
       "rank": "19.",
@@ -97,48 +97,48 @@
     },
     {
       "rank": "20.",
-      "title": "Ask HN: Suggestions for books about API design?",
-      "link": "item?id=24383180"
+      "title": "One in ten medical treatments are supported by high-quality evidence – study",
+      "link": "https://www.sciencealert.com/around-90-percent-of-your-medical-treatments-isn-t-backed-by-high-quality-evidence"
     },
     {
       "rank": "21.",
-      "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
-      "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
-    },
-    {
-      "rank": "22.",
-      "title": "The End of Spectrum Scarcity (2004)",
-      "link": "https://spectrum.ieee.org/telecom/wireless/the-end-of-spectrum-scarcity"
-    },
-    {
-      "rank": "23.",
       "title": "Dupes and Duplicity",
       "link": "https://www.damninteresting.com/dupes-and-duplicity/"
     },
     {
-      "rank": "24.",
+      "rank": "22.",
       "title": "AirMessage – Android app to interface with iMessage on a Mac",
       "link": "https://airmessage.org/"
     },
     {
+      "rank": "23.",
+      "title": "The End of Spectrum Scarcity (2004)",
+      "link": "https://spectrum.ieee.org/telecom/wireless/the-end-of-spectrum-scarcity"
+    },
+    {
+      "rank": "24.",
+      "title": "Plague-bearing fleas spark closures at popular Lake Tahoe sites",
+      "link": "https://www.sfgate.com/renotahoe/article/Plague-bearing-fleas-spark-closures-at-popular-15541389.php"
+    },
+    {
       "rank": "25.",
+      "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
+      "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
+    },
+    {
+      "rank": "26.",
       "title": "Have we just stumbled on the biggest productivity increase of the century?",
       "link": "https://theconversation.com/have-we-just-stumbled-on-the-biggest-productivity-increase-of-the-century-145104"
     },
     {
-      "rank": "26.",
-      "title": "Linux kernel security fixes spotted before release by mailing list data mining",
-      "link": "https://www.theregister.com/2020/09/04/linux_kernel_flaws/"
-    },
-    {
       "rank": "27.",
-      "title": "A history of elliptic curves in tweets",
-      "link": "https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html"
+      "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
+      "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
     },
     {
       "rank": "28.",
-      "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
-      "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
+      "title": "Linux kernel security fixes spotted before release by mailing list data mining",
+      "link": "https://www.theregister.com/2020/09/04/linux_kernel_flaws/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Percival Everett, the Art of Fiction No. 235 (2017)",
-      "link": "https://www.theparisreview.org/interviews/6948/the-art-of-fiction-no-235-percival-everett"
+      "title": "Snake in a QR Code",
+      "link": "https://itsmattkc.com/etc/snakeqr/"
     }
   ],
   "metadata": {
