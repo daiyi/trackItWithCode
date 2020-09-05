@@ -2,58 +2,58 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Show HN: Talk – A free group video call app with screen sharing",
+      "link": "https://github.com/vasanthv/talk"
+    },
+    {
+      "rank": "2.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
     },
     {
-      "rank": "2.",
-      "title": "Show HN: A group video call for the web. No signups. No downloads. Open Source",
-      "link": "https://github.com/vasanthv/talk"
-    },
-    {
       "rank": "3.",
-      "title": "Chekhov invented the modern short story",
-      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
-    },
-    {
-      "rank": "4.",
-      "title": "PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board",
-      "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
-    },
-    {
-      "rank": "5.",
-      "title": "Massacring C Pointers (2018)",
-      "link": "https://wozniak.ca/blog/2018/06/25/1/index.html"
-    },
-    {
-      "rank": "6.",
-      "title": "Bullfrog After Populous",
-      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
-    },
-    {
-      "rank": "7.",
-      "title": "Guide to the Many Meanings of Quantum Mechanics",
-      "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
-    },
-    {
-      "rank": "8.",
       "title": "Apple (Pro) Mouse (2014)",
       "link": "http://www.minimallyminimal.com/blog/apple-pro-mouse"
     },
     {
+      "rank": "4.",
+      "title": "How Chekhov invented the modern short story",
+      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
+    },
+    {
+      "rank": "5.",
+      "title": "PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board",
+      "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
+    },
+    {
+      "rank": "6.",
+      "title": "Massacring C Pointers (2018)",
+      "link": "https://wozniak.ca/blog/2018/06/25/1/index.html"
+    },
+    {
+      "rank": "7.",
+      "title": "Cuanto (YC W19) Is Hiring a Founding Product Designer",
+      "link": "https://angel.co/company/cuanto/jobs/963905-founding-product-designer"
+    },
+    {
+      "rank": "8.",
+      "title": "Interview with Paul Graham",
+      "link": "https://pullrequest.substack.com/p/pr-interviews-paul-graham"
+    },
+    {
       "rank": "9.",
-      "title": "Snake in a QR Code",
-      "link": "https://itsmattkc.com/etc/snakeqr/"
+      "title": "The Oldest Cookbook in Korean",
+      "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
     },
     {
       "rank": "10.",
-      "title": "The older you are, the quicker you count out a minute",
-      "link": "https://thecritic.co.uk/issues/september-2020/time-flies-relatively-speaking/"
+      "title": "Guide to the Many Meanings of Quantum Mechanics",
+      "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
     },
     {
       "rank": "11.",
-      "title": "All forms of signing email are generally solving the wrong problem",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/SignedEmailWrongProblem"
+      "title": "Snake in a QR Code",
+      "link": "https://itsmattkc.com/etc/snakeqr/"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "The Oldest Cookbook in Korean",
-      "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
+      "title": "All forms of signing email are generally solving the wrong problem",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/SignedEmailWrongProblem"
     },
     {
       "rank": "14.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "FBI examined Google records to see if anyone had knowledge of Guccifer persona",
-      "link": "https://twitter.com/kpoulsen/status/1255585290380443648"
+      "title": "Bullfrog After Populous",
+      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
     },
     {
       "rank": "18.",
@@ -92,23 +92,23 @@
     },
     {
       "rank": "19.",
-      "title": "Winamp Skin Museum",
-      "link": "https://skins.webamp.org/"
-    },
-    {
-      "rank": "20.",
-      "title": "Show HN: FixCache – keep track of bug-prone files from Git commit history",
-      "link": "https://github.com/aavshr/fixCache"
-    },
-    {
-      "rank": "21.",
       "title": "Lessons from the Gnome Patent Troll Incident",
       "link": "https://blog.hansenpartnership.com/lessons-from-the-gnome-patent-troll-incident/"
     },
     {
+      "rank": "20.",
+      "title": "US, Taiwan seek 'like-minded' democracies in supply chain shift from China",
+      "link": "https://www.reuters.com/article/us-taiwan-usa-trade/us-taiwan-seek-like-minded-democracies-in-supply-chain-shift-from-china-idUSKBN25V1DC"
+    },
+    {
+      "rank": "21.",
+      "title": "Winamp Skin Museum",
+      "link": "https://skins.webamp.org/"
+    },
+    {
       "rank": "22.",
-      "title": "The social and economic costs borne by young people without offices",
-      "link": "https://www.theatlantic.com/magazine/archive/2020/10/career-costs-working-from-home/615472/"
+      "title": "Show HN: FixCache – keep track of bug-prone files from Git commit history",
+      "link": "https://github.com/aavshr/fixCache"
     },
     {
       "rank": "23.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "Dupes and Duplicity",
-      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
+      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
+      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
       "rank": "25.",
-      "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
-      "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
+      "title": "Dupes and Duplicity",
+      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3 and #4",
-      "link": "https://www.soteris.co/#careers"
+      "title": "The older you are, the quicker you count out a minute",
+      "link": "https://thecritic.co.uk/issues/september-2020/time-flies-relatively-speaking/"
     },
     {
       "rank": "28.",
+      "title": "The social and economic costs borne by young people without offices",
+      "link": "https://www.theatlantic.com/magazine/archive/2020/10/career-costs-working-from-home/615472/"
+    },
+    {
+      "rank": "29.",
       "title": "The Lancet: World population projections by 2100",
       "link": "https://www.thelancet.com/article/S0140-6736(20)30677-2/fulltext"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Mark Twain’s Mind Waves",
       "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
-    },
-    {
-      "rank": "30.",
-      "title": "Microchips That Shook the World (2009)",
-      "link": "https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world"
     }
   ],
   "metadata": {
