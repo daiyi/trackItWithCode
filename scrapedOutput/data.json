@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Chekhov invented the modern short story",
+      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
+    },
+    {
+      "rank": "2.",
       "title": "PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board",
       "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "FBI examined Google records to see if anyone had knowledge of Guccifer persona",
       "link": "https://nitter.net/kpoulsen/status/1255593138934013952#m"
-    },
-    {
-      "rank": "3.",
-      "title": "Chekhov invented the modern short story",
-      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
     },
     {
       "rank": "4.",
@@ -27,53 +27,53 @@
     },
     {
       "rank": "6.",
-      "title": "Winamp Skin Museum",
-      "link": "https://skins.webamp.org/"
-    },
-    {
-      "rank": "7.",
       "title": "Snake in a QR Code",
       "link": "https://itsmattkc.com/etc/snakeqr/"
     },
     {
-      "rank": "8.",
-      "title": "We didn't encrypt your password, we hashed it",
-      "link": "https://www.troyhunt.com/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means/"
-    },
-    {
-      "rank": "9.",
+      "rank": "7.",
       "title": "The Oldest Cookbook in Korean",
       "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
     },
     {
+      "rank": "8.",
+      "title": "All forms of signing email are generally solving the wrong problem",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/SignedEmailWrongProblem"
+    },
+    {
+      "rank": "9.",
+      "title": "We didn't encrypt your password, we hashed it",
+      "link": "https://www.troyhunt.com/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means/"
+    },
+    {
       "rank": "10.",
-      "title": "Dupes and Duplicity",
-      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
-    },
-    {
-      "rank": "11.",
-      "title": "Show HN: AnyLeaf – PH Sensor for Microcontrollers",
-      "link": "https://www.anyleaf.org/ph-module"
-    },
-    {
-      "rank": "12.",
-      "title": "Grounded Language Learning Fast and Slow",
-      "link": "https://arxiv.org/abs/2009.01719"
-    },
-    {
-      "rank": "13.",
       "title": "Restream: Stream live to many social platforms at once",
       "link": "https://restream.io/"
     },
     {
-      "rank": "14.",
+      "rank": "11.",
+      "title": "Dupes and Duplicity",
+      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
+    },
+    {
+      "rank": "12.",
       "title": "Rocket Helicopter (2010)",
       "link": "https://www.tecaeromex.com/ingles/RH-i.htm"
     },
     {
+      "rank": "13.",
+      "title": "Grounded Language Learning Fast and Slow",
+      "link": "https://arxiv.org/abs/2009.01719"
+    },
+    {
+      "rank": "14.",
+      "title": "Show HN: AnyLeaf – PH Sensor for Microcontrollers",
+      "link": "https://www.anyleaf.org/ph-module"
+    },
+    {
       "rank": "15.",
-      "title": "All forms of signing email are generally solving the wrong problem",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/SignedEmailWrongProblem"
+      "title": "Guide to the Many Meanings of Quantum Mechanics",
+      "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
-      "title": "Software defined storage vs. hardware defined storage",
-      "link": "https://blog.min.io/comparing-software-defined-storage-with-appliances/"
-    },
-    {
-      "rank": "18.",
       "title": "Specter – Clojure API for immutable programming (2017)",
       "link": "http://nathanmarz.com/blog/clojures-missing-piece.html"
     },
     {
+      "rank": "18.",
+      "title": "Winamp Skin Museum",
+      "link": "https://skins.webamp.org/"
+    },
+    {
       "rank": "19.",
-      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3 and #4",
-      "link": "https://www.soteris.co/#careers"
+      "title": "The social and economic costs borne by young people without offices",
+      "link": "https://www.theatlantic.com/magazine/archive/2020/10/career-costs-working-from-home/615472/"
     },
     {
       "rank": "20.",
@@ -102,53 +102,53 @@
     },
     {
       "rank": "21.",
-      "title": "The social and economic costs borne by young people without offices",
-      "link": "https://www.theatlantic.com/magazine/archive/2020/10/career-costs-working-from-home/615472/"
-    },
-    {
-      "rank": "22.",
-      "title": "Interview with Paul Graham",
-      "link": "https://pullrequest.substack.com/p/pr-interviews-paul-graham"
-    },
-    {
-      "rank": "23.",
-      "title": "Guide to the Many Meanings of Quantum Mechanics",
-      "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
-    },
-    {
-      "rank": "24.",
-      "title": "An AI Breaks the Writing Barrier",
-      "link": "https://www.wsj.com/articles/an-ai-breaks-the-writing-barrier-11598068862"
-    },
-    {
-      "rank": "25.",
-      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
-      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
-    },
-    {
-      "rank": "26.",
-      "title": "Mark Twain’s Mind Waves",
-      "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
-    },
-    {
-      "rank": "27.",
       "title": "The HP Nanoprocessor: a high-speed processor that can't even add",
       "link": "http://www.righto.com/2020/09/inside-hp-nanoprocessor-high-speed.html"
     },
     {
-      "rank": "28.",
+      "rank": "22.",
+      "title": "Soteris (YC S19), ML to price insurance, is hiring employees #3 and #4",
+      "link": "https://www.soteris.co/#careers"
+    },
+    {
+      "rank": "23.",
+      "title": "SoftBank unmasked as ‘Nasdaq whale’ that stoked tech rally",
+      "link": "https://www.ft.com/content/75587aa6-1f1f-4e9d-b334-3ff866753fa2"
+    },
+    {
+      "rank": "24.",
+      "title": "Mark Twain’s Mind Waves",
+      "link": "https://www.theparisreview.org/blog/2020/08/25/mark-twains-mind-waves/"
+    },
+    {
+      "rank": "25.",
       "title": "Bread, How Did They Make It? Addendum: Rice",
       "link": "https://acoup.blog/2020/09/04/collections-bread-how-did-they-make-it-addendum-rice/"
     },
     {
-      "rank": "29.",
+      "rank": "26.",
+      "title": "An AI Breaks the Writing Barrier",
+      "link": "https://www.wsj.com/articles/an-ai-breaks-the-writing-barrier-11598068862"
+    },
+    {
+      "rank": "27.",
       "title": "Thirty years ago today I made the final gold masters for Monkey Island",
       "link": "https://grumpygamer.com/thirty_years_ago"
     },
     {
+      "rank": "28.",
+      "title": "Interview with Paul Graham",
+      "link": "https://pullrequest.substack.com/p/pr-interviews-paul-graham"
+    },
+    {
+      "rank": "29.",
+      "title": "Microchips That Shook the World (2009)",
+      "link": "https://spectrum.ieee.org/tech-history/silicon-revolution/25-microchips-that-shook-the-world"
+    },
+    {
       "rank": "30.",
-      "title": "Algorithmic Trading Using Logistic Regression",
-      "link": "https://handsoffinvesting.com/an-algorithmic-trading-strategy-using-logistic-regression/"
+      "title": "Picasso, Schoenberg, Moss: how humans unlock social capital and spark progress",
+      "link": "https://blog.leonardofederico.com/2020/08/how-humans-unlock-social-capital.html"
     }
   ],
   "metadata": {
