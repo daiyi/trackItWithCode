@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "8086 Microcode Disassembled",
-      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
-    },
-    {
-      "rank": "2.",
       "title": "Mathematicians Should Stop Naming Things After Each Other",
       "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
     },
     {
+      "rank": "2.",
+      "title": "8086 Microcode Disassembled",
+      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
+    },
+    {
       "rank": "3.",
-      "title": "AirMessage – Android app to interface with iMessage on a Mac",
-      "link": "https://airmessage.org/"
+      "title": "Post-Covid syndrome severely damages children’s hearts",
+      "link": "https://news.uthscsa.edu/post-covid-syndrome-severely-damages-childrens-hearts-immense-inflammation-causing-cardiac-blood-vessel-dilation/"
     },
     {
       "rank": "4.",
-      "title": "Post-Covid syndrome severely damages children’s hearts",
-      "link": "https://news.uthscsa.edu/post-covid-syndrome-severely-damages-childrens-hearts-immense-inflammation-causing-cardiac-blood-vessel-dilation/"
+      "title": "AirMessage – Android app to interface with iMessage on a Mac",
+      "link": "https://airmessage.org/"
     },
     {
       "rank": "5.",
@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
-      "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
+      "title": "Show HN: Talk – A free group video call app with screen sharing",
+      "link": "https://github.com/vasanthv/talk"
     },
     {
       "rank": "8.",
-      "title": "Show HN: Talk – A free group video call app with screen sharing",
-      "link": "https://github.com/vasanthv/talk"
+      "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
+      "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
     },
     {
       "rank": "9.",
@@ -52,38 +52,38 @@
     },
     {
       "rank": "11.",
-      "title": "Lee Kuan Yew's Singapore",
-      "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
-    },
-    {
-      "rank": "12.",
       "title": "Fastcore: A library that extends Python with new features",
       "link": "https://fastpages.fast.ai/fastcore/"
     },
     {
+      "rank": "12.",
+      "title": "Lee Kuan Yew's Singapore",
+      "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
+    },
+    {
       "rank": "13.",
+      "title": "A Second Chance",
+      "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
+    },
+    {
+      "rank": "14.",
       "title": "The End of Spectrum Scarcity (2004)",
       "link": "https://spectrum.ieee.org/telecom/wireless/the-end-of-spectrum-scarcity"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
+      "title": "Toilets in a Medieval Castle (2018)",
+      "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
+    },
+    {
+      "rank": "16.",
       "title": "Apple (Pro) Mouse (2014)",
       "link": "http://www.minimallyminimal.com/blog/apple-pro-mouse"
     },
     {
-      "rank": "15.",
+      "rank": "17.",
       "title": "One in ten medical treatments are supported by high-quality evidence – study",
       "link": "https://www.sciencealert.com/around-90-percent-of-your-medical-treatments-isn-t-backed-by-high-quality-evidence"
-    },
-    {
-      "rank": "16.",
-      "title": "Dupes and Duplicity",
-      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
-    },
-    {
-      "rank": "17.",
-      "title": "Toilets in a Medieval Castle (2018)",
-      "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
     },
     {
       "rank": "18.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "Linux kernel security fixes spotted before release by mailing list data mining",
-      "link": "https://www.theregister.com/2020/09/04/linux_kernel_flaws/"
+      "title": "Dupes and Duplicity",
+      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
     },
     {
       "rank": "20.",
@@ -102,53 +102,53 @@
     },
     {
       "rank": "21.",
-      "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
-      "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
-    },
-    {
-      "rank": "22.",
-      "title": "Cuanto (YC W19) Is Hiring a Founding Product Designer",
-      "link": "https://angel.co/company/cuanto/jobs/963905-founding-product-designer"
-    },
-    {
-      "rank": "23.",
       "title": "A Brief Explanation of Greg Egan’s Dust Theory",
       "link": "https://cephalopods.blog/2020/08/14/a-brief-explanation-of-egans-dust-theory/"
     },
     {
-      "rank": "24.",
-      "title": "Unexpected electric current that could stabilize fusion reactions discovered",
-      "link": "https://phys.org/news/2020-09-unexpected-electrical-current-stabilize-fusion.html"
+      "rank": "22.",
+      "title": "Linux kernel security fixes spotted before release by mailing list data mining",
+      "link": "https://www.theregister.com/2020/09/04/linux_kernel_flaws/"
     },
     {
-      "rank": "25.",
+      "rank": "23.",
       "title": "Percival Everett, the Art of Fiction No. 235 (2017)",
       "link": "https://www.theparisreview.org/interviews/6948/the-art-of-fiction-no-235-percival-everett"
     },
     {
+      "rank": "24.",
+      "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
+      "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
+    },
+    {
+      "rank": "25.",
+      "title": "Unexpected electric current that could stabilize fusion reactions discovered",
+      "link": "https://phys.org/news/2020-09-unexpected-electrical-current-stabilize-fusion.html"
+    },
+    {
       "rank": "26.",
+      "title": "Cuanto (YC W19) Is Hiring a Founding Product Designer",
+      "link": "https://angel.co/company/cuanto/jobs/963905-founding-product-designer"
+    },
+    {
+      "rank": "27.",
+      "title": "Trump bans 'anti-American' diversity training",
+      "link": "https://www.bbc.com/news/world-us-canada-54038888"
+    },
+    {
+      "rank": "28.",
       "title": "Snake in a QR Code",
       "link": "https://itsmattkc.com/etc/snakeqr/"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "Getting Better at Understanding Academic Papers: A Brief Guide for Beginners",
       "link": "https://habr.com/en/company/spbifmo/blog/517418/"
     },
     {
-      "rank": "28.",
-      "title": "Show HN: Linux sysadmin course, eight years on",
-      "link": "item?id=24380969"
-    },
-    {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Floating Under a Levitating Liquid",
       "link": "https://www.nature.com/articles/s41586-020-2643-8.epdf?sharing_token=yTk6lTlqDGIs_PGThH9cjNRgN0jAjWel9jnR3ZoTv0MwZOxupaqM4-XdEa58MnIMnociJCpeFT74qmZpdkBfQsOEGacWBuJVGlK7x2n_V2ehIOOuhUHiCEoP4j_3xphjnOTN6LST0krmG5xsfE_2rXlaiaDxdQV-qUMozmzmKfDcqEMtdt-xQrQM9qxlKA2zSgS8-UAADNlZezqqT5uG2emSLeMYk_FhrvuQRWaWPeo_htSnjzE62PMXq0JcbPvZdxWuYLXf2V-aJU3EZwHeteTuPaFfQ8Ymk_3X9vN3-fNvtn8bOWUyi3m3MvxM7SBdy0YTssfv-3uYr8wWGbAngw2yThpmrTDEFfsdFkUpWD8%3D&tracking_referrer=www.theguardian.com"
-    },
-    {
-      "rank": "30.",
-      "title": "PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board",
-      "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
     }
   ],
   "metadata": {
