@@ -7,43 +7,43 @@
     },
     {
       "rank": "2.",
-      "title": "Show HN: Talk – A free group video call app with screen sharing",
-      "link": "https://github.com/vasanthv/talk"
-    },
-    {
-      "rank": "3.",
-      "title": "Are You An Anarchist? The Answer May Surprise You (2000)",
-      "link": "https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you"
-    },
-    {
-      "rank": "4.",
-      "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
-      "link": "https://radicle.xyz/radicle-link.html"
-    },
-    {
-      "rank": "5.",
       "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
       "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
     },
     {
+      "rank": "3.",
+      "title": "Show HN: Talk – A free group video call app with screen sharing",
+      "link": "https://github.com/vasanthv/talk"
+    },
+    {
+      "rank": "4.",
+      "title": "Are You An Anarchist? The Answer May Surprise You (2000)",
+      "link": "https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you"
+    },
+    {
+      "rank": "5.",
+      "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
+      "link": "https://radicle.xyz/radicle-link.html"
+    },
+    {
       "rank": "6.",
+      "title": "iMessage on Android",
+      "link": "https://airmessage.org/"
+    },
+    {
+      "rank": "7.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Apple (Pro) Mouse (2014)",
       "link": "http://www.minimallyminimal.com/blog/apple-pro-mouse"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Ask HN: Suggestions for books about API design?",
       "link": "item?id=24383180"
-    },
-    {
-      "rank": "9.",
-      "title": "Why Your First House Is A Liability",
-      "link": "https://medium.com/@introvertmac/why-your-first-house-is-a-liability-7e41c8b35295"
     },
     {
       "rank": "10.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
-      "title": "Guide to the Many Meanings of Quantum Mechanics",
-      "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
-    },
-    {
-      "rank": "14.",
       "title": "Snake in a QR Code",
       "link": "https://itsmattkc.com/etc/snakeqr/"
     },
     {
+      "rank": "14.",
+      "title": "Toilets in a Medieval Castle (2018)",
+      "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
+    },
+    {
       "rank": "15.",
-      "title": "Getting Better at Understanding Academic Papers: A Brief Guide for Beginners",
-      "link": "https://habr.com/en/company/spbifmo/blog/517418/"
+      "title": ".NET Transactional Document DB and Event Store on PostgreSQL",
+      "link": "https://martendb.io/"
     },
     {
       "rank": "16.",
@@ -82,48 +82,48 @@
     },
     {
       "rank": "17.",
-      "title": ".NET Transactional Document DB and Event Store on PostgreSQL",
-      "link": "https://martendb.io/"
-    },
-    {
-      "rank": "18.",
       "title": "Floating Under a Levitating Liquid",
       "link": "https://www.nature.com/articles/s41586-020-2643-8.epdf?sharing_token=yTk6lTlqDGIs_PGThH9cjNRgN0jAjWel9jnR3ZoTv0MwZOxupaqM4-XdEa58MnIMnociJCpeFT74qmZpdkBfQsOEGacWBuJVGlK7x2n_V2ehIOOuhUHiCEoP4j_3xphjnOTN6LST0krmG5xsfE_2rXlaiaDxdQV-qUMozmzmKfDcqEMtdt-xQrQM9qxlKA2zSgS8-UAADNlZezqqT5uG2emSLeMYk_FhrvuQRWaWPeo_htSnjzE62PMXq0JcbPvZdxWuYLXf2V-aJU3EZwHeteTuPaFfQ8Ymk_3X9vN3-fNvtn8bOWUyi3m3MvxM7SBdy0YTssfv-3uYr8wWGbAngw2yThpmrTDEFfsdFkUpWD8%3D&tracking_referrer=www.theguardian.com"
     },
     {
-      "rank": "19.",
-      "title": "The Lancet: World population projections by 2100",
-      "link": "https://www.thelancet.com/article/S0140-6736(20)30677-2/fulltext"
+      "rank": "18.",
+      "title": "Getting Better at Understanding Academic Papers: A Brief Guide for Beginners",
+      "link": "https://habr.com/en/company/spbifmo/blog/517418/"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board",
       "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Parents Got More Time Off. Then the Backlash Started",
       "link": "https://www.nytimes.com/2020/09/05/technology/parents-time-off-backlash.html"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Massacring C Pointers (2018)",
       "link": "https://wozniak.ca/blog/2018/06/25/1/index.html"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Winamp Skin Museum",
       "link": "https://skins.webamp.org/"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Lessons from the Gnome Patent Troll Incident",
       "link": "https://blog.hansenpartnership.com/lessons-from-the-gnome-patent-troll-incident/"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Bullfrog After Populous",
       "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
+    },
+    {
+      "rank": "25.",
+      "title": "Zweig, Conrad and Chess",
+      "link": "https://www.thearticle.com/darkness-and-light-joseph-conrad-stefan-zweig-and-chess"
     },
     {
       "rank": "26.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "Zweig, Conrad and Chess",
-      "link": "https://www.thearticle.com/darkness-and-light-joseph-conrad-stefan-zweig-and-chess"
+      "title": "Dupes and Duplicity",
+      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
     },
     {
       "rank": "28.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "Dupes and Duplicity",
-      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
+      "title": "Guide to the Many Meanings of Quantum Mechanics",
+      "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
     },
     {
       "rank": "30.",
