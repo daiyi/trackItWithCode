@@ -12,8 +12,8 @@
     },
     {
       "rank": "3.",
-      "title": "8086 Microcode Disassembled",
-      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
+      "title": "Getting Color Output out of a TI-99/4A",
+      "link": "https://netzhansa.com/ti99-4a-color/"
     },
     {
       "rank": "4.",
@@ -22,83 +22,83 @@
     },
     {
       "rank": "5.",
+      "title": "8086 Microcode Disassembled",
+      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
+    },
+    {
+      "rank": "6.",
       "title": "Growing a Language (1998) [video]",
       "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Mathematicians should stop naming things after each other",
       "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Fastcore: A library that extends Python with new features",
       "link": "https://fastpages.fast.ai/fastcore/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
       "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Lee Kuan Yew's Singapore",
       "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
+      "title": "Getting Users Is Hard",
+      "link": "item?id=24386933"
+    },
+    {
+      "rank": "12.",
       "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
       "link": "https://radicle.xyz/radicle-link.html"
     },
     {
-      "rank": "11.",
-      "title": "A Second Chance",
-      "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
-    },
-    {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
+      "title": "A Second Chance",
+      "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
+    },
+    {
+      "rank": "15.",
       "title": "The User Always Loses",
       "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
     },
     {
-      "rank": "14.",
-      "title": "Toilets in a Medieval Castle (2018)",
-      "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
-    },
-    {
-      "rank": "15.",
+      "rank": "16.",
       "title": "A Brief Explanation of Greg Egan’s Dust Theory",
       "link": "https://cephalopods.blog/2020/08/14/a-brief-explanation-of-egans-dust-theory/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "GitHub Won’t Help You with Hiring",
       "link": "https://www.benfrederickson.com/github-wont-help-with-hiring/"
     },
     {
-      "rank": "17.",
-      "title": "Plague-bearing fleas spark closures at popular Lake Tahoe sites",
-      "link": "https://www.sfgate.com/renotahoe/article/Plague-bearing-fleas-spark-closures-at-popular-15541389.php"
+      "rank": "18.",
+      "title": "Toilets in a Medieval Castle (2018)",
+      "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Ask HN: Suggestions for books about API design?",
       "link": "item?id=24383180"
     },
     {
-      "rank": "19.",
-      "title": "Chanakya",
-      "link": "https://en.wikipedia.org/wiki/Chanakya"
-    },
-    {
       "rank": "20.",
-      "title": "One in ten medical treatments are supported by high-quality evidence – study",
-      "link": "https://www.sciencealert.com/around-90-percent-of-your-medical-treatments-isn-t-backed-by-high-quality-evidence"
+      "title": "Plague-bearing fleas spark closures at popular Lake Tahoe sites",
+      "link": "https://www.sfgate.com/renotahoe/article/Plague-bearing-fleas-spark-closures-at-popular-15541389.php"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "Dupes and Duplicity",
-      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
-    },
-    {
-      "rank": "23.",
-      "title": "Show HN: Talk – A free group video call app with screen sharing",
-      "link": "https://github.com/vasanthv/talk"
-    },
-    {
-      "rank": "24.",
-      "title": "The Art of Voltage Probing",
-      "link": "https://circuitcellar.com/research-design-hub/the-art-of-voltage-probing/"
-    },
-    {
-      "rank": "25.",
-      "title": "The End of Spectrum Scarcity (2004)",
-      "link": "https://spectrum.ieee.org/telecom/wireless/the-end-of-spectrum-scarcity"
-    },
-    {
-      "rank": "26.",
       "title": "Thermoelectric Stoves: Ditch the Solar Panels?",
       "link": "https://solar.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html"
     },
     {
+      "rank": "23.",
+      "title": "Chanakya",
+      "link": "https://en.wikipedia.org/wiki/Chanakya"
+    },
+    {
+      "rank": "24.",
+      "title": "One in ten medical treatments are supported by high-quality evidence – study",
+      "link": "https://www.sciencealert.com/around-90-percent-of-your-medical-treatments-isn-t-backed-by-high-quality-evidence"
+    },
+    {
+      "rank": "25.",
+      "title": "Show HN: Talk – A free group video call app with screen sharing",
+      "link": "https://github.com/vasanthv/talk"
+    },
+    {
+      "rank": "26.",
+      "title": "Dupes and Duplicity",
+      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
+    },
+    {
       "rank": "27.",
-      "title": "Have we just stumbled on the biggest productivity increase of the century?",
-      "link": "https://theconversation.com/have-we-just-stumbled-on-the-biggest-productivity-increase-of-the-century-145104"
+      "title": "The End of Spectrum Scarcity (2004)",
+      "link": "https://spectrum.ieee.org/telecom/wireless/the-end-of-spectrum-scarcity"
     },
     {
       "rank": "28.",
-      "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
-      "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
+      "title": "The Art of Voltage Probing",
+      "link": "https://circuitcellar.com/research-design-hub/the-art-of-voltage-probing/"
     },
     {
       "rank": "29.",
-      "title": "Snake in a QR Code",
-      "link": "https://itsmattkc.com/etc/snakeqr/"
+      "title": "Cuanto (YC W19) Is Hiring a Founding Product Designer",
+      "link": "https://angel.co/company/cuanto/jobs/963905-founding-product-designer"
     },
     {
       "rank": "30.",
-      "title": "Cuanto (YC W19) Is Hiring a Founding Product Designer",
-      "link": "https://angel.co/company/cuanto/jobs/963905-founding-product-designer"
+      "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
+      "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
     }
   ],
   "metadata": {
