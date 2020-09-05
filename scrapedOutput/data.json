@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "8086 Microcode Disassembled",
-      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
+      "title": "I can't believe I'm praising Tcl (2008)",
+      "link": "http://yosefk.com/blog/i-cant-believe-im-praising-tcl.html"
     },
     {
       "rank": "5.",
-      "title": "I can't believe I'm praising Tcl (2008)",
-      "link": "http://yosefk.com/blog/i-cant-believe-im-praising-tcl.html"
+      "title": "8086 Microcode Disassembled",
+      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
     },
     {
       "rank": "6.",
@@ -37,48 +37,48 @@
     },
     {
       "rank": "8.",
-      "title": "Fastcore: A library that extends Python with new features",
-      "link": "https://fastpages.fast.ai/fastcore/"
-    },
-    {
-      "rank": "9.",
-      "title": "Mathematicians should stop naming things after each other",
-      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
-    },
-    {
-      "rank": "10.",
-      "title": "What anarchy isn't (free eBook)",
-      "link": "https://www.dropbox.com/s/yd18waixbva1jae/WhatAnarchyIsnt-FREEBIE.pdf?dl=0"
-    },
-    {
-      "rank": "11.",
       "title": "The Memory Area Network at the Heart of IBM’s Power10",
       "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
     },
     {
-      "rank": "12.",
+      "rank": "9.",
+      "title": "Fastcore: A library that extends Python with new features",
+      "link": "https://fastpages.fast.ai/fastcore/"
+    },
+    {
+      "rank": "10.",
+      "title": "Mathematicians should stop naming things after each other",
+      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
+    },
+    {
+      "rank": "11.",
       "title": "Lee Kuan Yew's Singapore",
       "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
       "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
       "link": "https://radicle.xyz/radicle-link.html"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Toilets in a Medieval Castle (2018)",
       "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
+    },
+    {
+      "rank": "16.",
+      "title": "What anarchy isn't (free eBook)",
+      "link": "https://www.dropbox.com/s/yd18waixbva1jae/WhatAnarchyIsnt-FREEBIE.pdf?dl=0"
     },
     {
       "rank": "17.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "A Brief Explanation of Greg Egan’s Dust Theory",
-      "link": "https://cephalopods.blog/2020/08/14/a-brief-explanation-of-egans-dust-theory/"
+      "title": "Ask HN: Suggestions for books about API design?",
+      "link": "item?id=24383180"
     },
     {
       "rank": "23.",
-      "title": "Ask HN: Suggestions for books about API design?",
-      "link": "item?id=24383180"
+      "title": "A Brief Explanation of Greg Egan’s Dust Theory",
+      "link": "https://cephalopods.blog/2020/08/14/a-brief-explanation-of-egans-dust-theory/"
     },
     {
       "rank": "24.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "Why OnlyOffice is a better alternative to LibreOffice",
+      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
+    },
+    {
+      "rank": "28.",
       "title": "Dupes and Duplicity",
       "link": "https://www.damninteresting.com/dupes-and-duplicity/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Chanakya",
       "link": "https://en.wikipedia.org/wiki/Chanakya"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "The End of Spectrum Scarcity (2004)",
       "link": "https://spectrum.ieee.org/telecom/wireless/the-end-of-spectrum-scarcity"
-    },
-    {
-      "rank": "30.",
-      "title": "Snake in a QR Code",
-      "link": "https://itsmattkc.com/etc/snakeqr/"
     }
   ],
   "metadata": {
