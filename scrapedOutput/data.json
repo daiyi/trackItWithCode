@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
-      "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
+      "title": "AirMessage – Android app to interface with iMessage on a Mac",
+      "link": "https://airmessage.org/"
     },
     {
       "rank": "3.",
@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
-      "link": "https://radicle.xyz/radicle-link.html"
+      "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
+      "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
     },
     {
       "rank": "6.",
-      "title": "iMessage on Android",
-      "link": "https://airmessage.org/"
+      "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
+      "link": "https://radicle.xyz/radicle-link.html"
     },
     {
       "rank": "7.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Ask HN: Suggestions for books about API design?",
-      "link": "item?id=24383180"
+      "title": "Toilets in a Medieval Castle (2018)",
+      "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
     },
     {
       "rank": "10.",
-      "title": "How Chekhov invented the modern short story",
-      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
+      "title": "Ask HN: Suggestions for books about API design?",
+      "link": "item?id=24383180"
     },
     {
       "rank": "11.",
@@ -57,23 +57,23 @@
     },
     {
       "rank": "12.",
+      "title": "How Chekhov invented the modern short story",
+      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
+    },
+    {
+      "rank": "13.",
       "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
       "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Snake in a QR Code",
       "link": "https://itsmattkc.com/etc/snakeqr/"
     },
     {
-      "rank": "14.",
-      "title": "Toilets in a Medieval Castle (2018)",
-      "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
-    },
-    {
       "rank": "15.",
-      "title": ".NET Transactional Document DB and Event Store on PostgreSQL",
-      "link": "https://martendb.io/"
+      "title": "Floating Under a Levitating Liquid",
+      "link": "https://www.nature.com/articles/s41586-020-2643-8.epdf?sharing_token=yTk6lTlqDGIs_PGThH9cjNRgN0jAjWel9jnR3ZoTv0MwZOxupaqM4-XdEa58MnIMnociJCpeFT74qmZpdkBfQsOEGacWBuJVGlK7x2n_V2ehIOOuhUHiCEoP4j_3xphjnOTN6LST0krmG5xsfE_2rXlaiaDxdQV-qUMozmzmKfDcqEMtdt-xQrQM9qxlKA2zSgS8-UAADNlZezqqT5uG2emSLeMYk_FhrvuQRWaWPeo_htSnjzE62PMXq0JcbPvZdxWuYLXf2V-aJU3EZwHeteTuPaFfQ8Ymk_3X9vN3-fNvtn8bOWUyi3m3MvxM7SBdy0YTssfv-3uYr8wWGbAngw2yThpmrTDEFfsdFkUpWD8%3D&tracking_referrer=www.theguardian.com"
     },
     {
       "rank": "16.",
@@ -82,73 +82,73 @@
     },
     {
       "rank": "17.",
-      "title": "Floating Under a Levitating Liquid",
-      "link": "https://www.nature.com/articles/s41586-020-2643-8.epdf?sharing_token=yTk6lTlqDGIs_PGThH9cjNRgN0jAjWel9jnR3ZoTv0MwZOxupaqM4-XdEa58MnIMnociJCpeFT74qmZpdkBfQsOEGacWBuJVGlK7x2n_V2ehIOOuhUHiCEoP4j_3xphjnOTN6LST0krmG5xsfE_2rXlaiaDxdQV-qUMozmzmKfDcqEMtdt-xQrQM9qxlKA2zSgS8-UAADNlZezqqT5uG2emSLeMYk_FhrvuQRWaWPeo_htSnjzE62PMXq0JcbPvZdxWuYLXf2V-aJU3EZwHeteTuPaFfQ8Ymk_3X9vN3-fNvtn8bOWUyi3m3MvxM7SBdy0YTssfv-3uYr8wWGbAngw2yThpmrTDEFfsdFkUpWD8%3D&tracking_referrer=www.theguardian.com"
+      "title": ".NET Transactional Document DB and Event Store on PostgreSQL",
+      "link": "https://martendb.io/"
     },
     {
       "rank": "18.",
+      "title": "A Supercomputer Analyzed Covid-19 – and an Interesting New Theory Has Emerged",
+      "link": "https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63#Echobox=1599154551"
+    },
+    {
+      "rank": "19.",
+      "title": "Unexpected electric current that could stabilize fusion reactions discovered",
+      "link": "https://phys.org/news/2020-09-unexpected-electrical-current-stabilize-fusion.html"
+    },
+    {
+      "rank": "20.",
       "title": "Getting Better at Understanding Academic Papers: A Brief Guide for Beginners",
       "link": "https://habr.com/en/company/spbifmo/blog/517418/"
     },
     {
-      "rank": "19.",
-      "title": "PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board",
-      "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
-    },
-    {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Parents Got More Time Off. Then the Backlash Started",
       "link": "https://www.nytimes.com/2020/09/05/technology/parents-time-off-backlash.html"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
+      "title": "PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board",
+      "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
+    },
+    {
+      "rank": "23.",
       "title": "Massacring C Pointers (2018)",
       "link": "https://wozniak.ca/blog/2018/06/25/1/index.html"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "Winamp Skin Museum",
       "link": "https://skins.webamp.org/"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Lessons from the Gnome Patent Troll Incident",
       "link": "https://blog.hansenpartnership.com/lessons-from-the-gnome-patent-troll-incident/"
     },
     {
-      "rank": "24.",
-      "title": "Bullfrog After Populous",
-      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
+      "rank": "26.",
+      "title": "Growing a Language (Guy Steele, 1998 ACM Oopsla)",
+      "link": "https://www.youtube.com/watch?v=_ahvzDzKdB0"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Zweig, Conrad and Chess",
       "link": "https://www.thearticle.com/darkness-and-light-joseph-conrad-stefan-zweig-and-chess"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
+      "title": "Bullfrog After Populous",
+      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
+    },
+    {
+      "rank": "29.",
       "title": "Thirty years ago today I made the final gold masters for Monkey Island",
       "link": "https://grumpygamer.com/thirty_years_ago"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "Dupes and Duplicity",
       "link": "https://www.damninteresting.com/dupes-and-duplicity/"
-    },
-    {
-      "rank": "28.",
-      "title": "Lee Kuan Yew's Singapore",
-      "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
-    },
-    {
-      "rank": "29.",
-      "title": "Guide to the Many Meanings of Quantum Mechanics",
-      "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
-    },
-    {
-      "rank": "30.",
-      "title": "The Oldest Cookbook in Korean",
-      "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
     }
   ],
   "metadata": {
