@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
+      "title": "What anarchy isn't (free eBook)",
+      "link": "https://www.dropbox.com/s/yd18waixbva1jae/WhatAnarchyIsnt-FREEBIE.pdf?dl=0"
+    },
+    {
+      "rank": "8.",
       "title": "Growing a Language (1998) [video]",
       "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "The Memory Area Network at the Heart of IBM’s Power10",
       "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
-    },
-    {
-      "rank": "9.",
-      "title": "What anarchy isn't (free eBook)",
-      "link": "https://www.dropbox.com/s/yd18waixbva1jae/WhatAnarchyIsnt-FREEBIE.pdf?dl=0"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "Mathematicians should stop naming things after each other",
-      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
+      "title": "Lee Kuan Yew's Singapore",
+      "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
     },
     {
       "rank": "12.",
-      "title": "Lee Kuan Yew's Singapore",
-      "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
+      "title": "Mathematicians should stop naming things after each other",
+      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
     },
     {
       "rank": "13.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
-      "link": "https://radicle.xyz/radicle-link.html"
+      "title": "Toilets in a Medieval Castle (2018)",
+      "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
     },
     {
       "rank": "15.",
-      "title": "Toilets in a Medieval Castle (2018)",
-      "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
+      "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
+      "link": "https://radicle.xyz/radicle-link.html"
     },
     {
       "rank": "16.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
-      "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
+      "title": "Why OnlyOffice is a better alternative to LibreOffice",
+      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
     },
     {
       "rank": "18.",
-      "title": "Thermoelectric Stoves: Ditch the Solar Panels?",
-      "link": "https://solar.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html"
+      "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
+      "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Symbolic Plane Geometry Calculator",
-      "link": "https://geometryexpressions.com/gxweb/"
+      "title": "Thermoelectric Stoves: Ditch the Solar Panels?",
+      "link": "https://solar.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html"
     },
     {
       "rank": "21.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "Why OnlyOffice is a better alternative to LibreOffice",
-      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
+      "title": "Symbolic Plane Geometry Calculator",
+      "link": "https://geometryexpressions.com/gxweb/"
     },
     {
       "rank": "24.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "The Art of Voltage Probing",
-      "link": "https://circuitcellar.com/research-design-hub/the-art-of-voltage-probing/"
+      "title": "Tesla's 'Full Self-Driving Capability' Falls Short of Its Name",
+      "link": "https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "The Art of Voltage Probing",
+      "link": "https://circuitcellar.com/research-design-hub/the-art-of-voltage-probing/"
+    },
+    {
+      "rank": "29.",
       "title": "Show HN: Talk – A free group video call app with screen sharing",
       "link": "https://github.com/vasanthv/talk"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "One in ten medical treatments are supported by high-quality evidence – study",
       "link": "https://www.sciencealert.com/around-90-percent-of-your-medical-treatments-isn-t-backed-by-high-quality-evidence"
-    },
-    {
-      "rank": "30.",
-      "title": "Dupes and Duplicity",
-      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
     }
   ],
   "metadata": {
