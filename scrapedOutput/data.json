@@ -2,78 +2,78 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Are you an anarchist? The answer may surprise you (David Graeber)",
-      "link": "https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you"
+      "title": "The User Always Loses",
+      "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
     },
     {
       "rank": "2.",
+      "title": "Are You An Anarchist? The Answer May Surprise You (2000)",
+      "link": "https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you"
+    },
+    {
+      "rank": "3.",
       "title": "Show HN: Talk – A free group video call app with screen sharing",
       "link": "https://github.com/vasanthv/talk"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
+      "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
+      "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
+    },
+    {
+      "rank": "5.",
       "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
       "link": "https://radicle.xyz/radicle-link.html"
     },
     {
-      "rank": "4.",
+      "rank": "6.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
     },
     {
-      "rank": "5.",
+      "rank": "7.",
       "title": "Apple (Pro) Mouse (2014)",
       "link": "http://www.minimallyminimal.com/blog/apple-pro-mouse"
     },
     {
-      "rank": "6.",
+      "rank": "8.",
       "title": "PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board",
       "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
     },
     {
-      "rank": "7.",
+      "rank": "9.",
       "title": "Massacring C Pointers (2018)",
       "link": "https://wozniak.ca/blog/2018/06/25/1/index.html"
     },
     {
-      "rank": "8.",
+      "rank": "10.",
       "title": "How Chekhov invented the modern short story",
       "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
     },
     {
-      "rank": "9.",
-      "title": "The Oldest Cookbook in Korean",
-      "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
-    },
-    {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
       "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
+      "title": "The Oldest Cookbook in Korean",
+      "link": "https://www.atlasobscura.com/articles/first-korean-cookbook"
+    },
+    {
+      "rank": "13.",
       "title": "Snake in a QR Code",
       "link": "https://itsmattkc.com/etc/snakeqr/"
     },
     {
-      "rank": "12.",
+      "rank": "14.",
       "title": "Guide to the Many Meanings of Quantum Mechanics",
       "link": "http://nautil.us/blog/your-guide-to-the-many-meanings-of-quantum-mechanics"
     },
     {
-      "rank": "13.",
+      "rank": "15.",
       "title": "Floating Under a Levitating Liquid",
       "link": "https://www.nature.com/articles/s41586-020-2643-8.epdf?sharing_token=yTk6lTlqDGIs_PGThH9cjNRgN0jAjWel9jnR3ZoTv0MwZOxupaqM4-XdEa58MnIMnociJCpeFT74qmZpdkBfQsOEGacWBuJVGlK7x2n_V2ehIOOuhUHiCEoP4j_3xphjnOTN6LST0krmG5xsfE_2rXlaiaDxdQV-qUMozmzmKfDcqEMtdt-xQrQM9qxlKA2zSgS8-UAADNlZezqqT5uG2emSLeMYk_FhrvuQRWaWPeo_htSnjzE62PMXq0JcbPvZdxWuYLXf2V-aJU3EZwHeteTuPaFfQ8Ymk_3X9vN3-fNvtn8bOWUyi3m3MvxM7SBdy0YTssfv-3uYr8wWGbAngw2yThpmrTDEFfsdFkUpWD8%3D&tracking_referrer=www.theguardian.com"
-    },
-    {
-      "rank": "14.",
-      "title": "Cuanto (YC W19) Is Hiring a Founding Product Designer",
-      "link": "https://angel.co/company/cuanto/jobs/963905-founding-product-designer"
-    },
-    {
-      "rank": "15.",
-      "title": "Fast Typing: Keyboard Layouts",
-      "link": "https://codefaster.substack.com/p/fast-typing-keyboard-layouts"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
-      "title": "We didn't encrypt your password, we hashed it",
-      "link": "https://www.troyhunt.com/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means/"
-    },
-    {
-      "rank": "18.",
       "title": ".NET Transactional Document DB and Event Store on PostgreSQL",
       "link": "https://martendb.io/"
     },
     {
+      "rank": "18.",
+      "title": "Cuanto (YC W19) Is Hiring a Founding Product Designer",
+      "link": "https://angel.co/company/cuanto/jobs/963905-founding-product-designer"
+    },
+    {
       "rank": "19.",
-      "title": "Restream: Stream live to many social platforms at once",
-      "link": "https://restream.io/"
+      "title": "We didn't encrypt your password, we hashed it",
+      "link": "https://www.troyhunt.com/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means/"
     },
     {
       "rank": "20.",
@@ -102,23 +102,23 @@
     },
     {
       "rank": "21.",
-      "title": "Show HN: AnyLeaf – PH Sensor for Microcontrollers",
-      "link": "https://www.anyleaf.org/ph-module"
+      "title": "Lee Kuan Yew's Singapore",
+      "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
     },
     {
       "rank": "22.",
+      "title": "Restream: Stream live to many social platforms at once",
+      "link": "https://restream.io/"
+    },
+    {
+      "rank": "23.",
       "title": "Winamp Skin Museum",
       "link": "https://skins.webamp.org/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Japan on Track to Introduce Flying Taxi Services in 2023",
       "link": "https://spectrum.ieee.org/cars-that-think/aerospace/aviation/japan-on-track-to-introduce-flying-taxi-services-in-2023"
-    },
-    {
-      "rank": "24.",
-      "title": "Dickheads (2015)",
-      "link": "https://thebaffler.com/salvos/dickheads"
     },
     {
       "rank": "25.",
@@ -132,18 +132,18 @@
     },
     {
       "rank": "27.",
-      "title": "Lee Kuan Yew's Singapore",
-      "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
-    },
-    {
-      "rank": "28.",
       "title": "Thirty years ago today I made the final gold masters for Monkey Island",
       "link": "https://grumpygamer.com/thirty_years_ago"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Dupes and Duplicity",
       "link": "https://www.damninteresting.com/dupes-and-duplicity/"
+    },
+    {
+      "rank": "29.",
+      "title": "Zweig, Conrad and Chess",
+      "link": "https://www.thearticle.com/darkness-and-light-joseph-conrad-stefan-zweig-and-chess"
     },
     {
       "rank": "30.",
