@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Are you an anarchist? The answer may surprise you (David Graeber)",
+      "link": "https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you"
+    },
+    {
+      "rank": "2.",
       "title": "Show HN: Talk – A free group video call app with screen sharing",
       "link": "https://github.com/vasanthv/talk"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
       "link": "https://radicle.xyz/radicle-link.html"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
-    },
-    {
-      "rank": "4.",
-      "title": "GitHub Won’t Help You with Hiring",
-      "link": "https://www.benfrederickson.com/github-wont-help-with-hiring/"
     },
     {
       "rank": "5.",
@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "How Chekhov invented the modern short story",
-      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
+      "title": "Massacring C Pointers (2018)",
+      "link": "https://wozniak.ca/blog/2018/06/25/1/index.html"
     },
     {
       "rank": "8.",
-      "title": "Massacring C Pointers (2018)",
-      "link": "https://wozniak.ca/blog/2018/06/25/1/index.html"
+      "title": "How Chekhov invented the modern short story",
+      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
     },
     {
       "rank": "9.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "Fast Typing: Keyboard Layouts",
-      "link": "https://codefaster.substack.com/p/fast-typing-keyboard-layouts"
+      "title": "Floating Under a Levitating Liquid",
+      "link": "https://www.nature.com/articles/s41586-020-2643-8.epdf?sharing_token=yTk6lTlqDGIs_PGThH9cjNRgN0jAjWel9jnR3ZoTv0MwZOxupaqM4-XdEa58MnIMnociJCpeFT74qmZpdkBfQsOEGacWBuJVGlK7x2n_V2ehIOOuhUHiCEoP4j_3xphjnOTN6LST0krmG5xsfE_2rXlaiaDxdQV-qUMozmzmKfDcqEMtdt-xQrQM9qxlKA2zSgS8-UAADNlZezqqT5uG2emSLeMYk_FhrvuQRWaWPeo_htSnjzE62PMXq0JcbPvZdxWuYLXf2V-aJU3EZwHeteTuPaFfQ8Ymk_3X9vN3-fNvtn8bOWUyi3m3MvxM7SBdy0YTssfv-3uYr8wWGbAngw2yThpmrTDEFfsdFkUpWD8%3D&tracking_referrer=www.theguardian.com"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Floating Under a Levitating Liquid",
-      "link": "https://www.nature.com/articles/s41586-020-2643-8.epdf?sharing_token=yTk6lTlqDGIs_PGThH9cjNRgN0jAjWel9jnR3ZoTv0MwZOxupaqM4-XdEa58MnIMnociJCpeFT74qmZpdkBfQsOEGacWBuJVGlK7x2n_V2ehIOOuhUHiCEoP4j_3xphjnOTN6LST0krmG5xsfE_2rXlaiaDxdQV-qUMozmzmKfDcqEMtdt-xQrQM9qxlKA2zSgS8-UAADNlZezqqT5uG2emSLeMYk_FhrvuQRWaWPeo_htSnjzE62PMXq0JcbPvZdxWuYLXf2V-aJU3EZwHeteTuPaFfQ8Ymk_3X9vN3-fNvtn8bOWUyi3m3MvxM7SBdy0YTssfv-3uYr8wWGbAngw2yThpmrTDEFfsdFkUpWD8%3D&tracking_referrer=www.theguardian.com"
+      "title": "Fast Typing: Keyboard Layouts",
+      "link": "https://codefaster.substack.com/p/fast-typing-keyboard-layouts"
     },
     {
       "rank": "16.",
@@ -87,18 +87,18 @@
     },
     {
       "rank": "18.",
-      "title": "Lee Kuan Yew's Singapore",
-      "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
-    },
-    {
-      "rank": "19.",
       "title": ".NET Transactional Document DB and Event Store on PostgreSQL",
       "link": "https://martendb.io/"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Restream: Stream live to many social platforms at once",
       "link": "https://restream.io/"
+    },
+    {
+      "rank": "20.",
+      "title": "The Lancet: World population projections by 2100",
+      "link": "https://www.thelancet.com/article/S0140-6736(20)30677-2/fulltext"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "The Lancet: World population projections by 2100",
-      "link": "https://www.thelancet.com/article/S0140-6736(20)30677-2/fulltext"
-    },
-    {
-      "rank": "23.",
       "title": "Winamp Skin Museum",
       "link": "https://skins.webamp.org/"
     },
     {
-      "rank": "24.",
-      "title": "Bullfrog After Populous",
-      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
-    },
-    {
-      "rank": "25.",
-      "title": "Dickheads (2015)",
-      "link": "https://thebaffler.com/salvos/dickheads"
-    },
-    {
-      "rank": "26.",
-      "title": "Lessons from the Gnome Patent Troll Incident",
-      "link": "https://blog.hansenpartnership.com/lessons-from-the-gnome-patent-troll-incident/"
-    },
-    {
-      "rank": "27.",
+      "rank": "23.",
       "title": "Japan on Track to Introduce Flying Taxi Services in 2023",
       "link": "https://spectrum.ieee.org/cars-that-think/aerospace/aviation/japan-on-track-to-introduce-flying-taxi-services-in-2023"
     },
     {
-      "rank": "28.",
-      "title": "Dupes and Duplicity",
-      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
+      "rank": "24.",
+      "title": "Dickheads (2015)",
+      "link": "https://thebaffler.com/salvos/dickheads"
     },
     {
-      "rank": "29.",
+      "rank": "25.",
+      "title": "Lessons from the Gnome Patent Troll Incident",
+      "link": "https://blog.hansenpartnership.com/lessons-from-the-gnome-patent-troll-incident/"
+    },
+    {
+      "rank": "26.",
+      "title": "Bullfrog After Populous",
+      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
+    },
+    {
+      "rank": "27.",
+      "title": "Lee Kuan Yew's Singapore",
+      "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
+    },
+    {
+      "rank": "28.",
       "title": "Thirty years ago today I made the final gold masters for Monkey Island",
       "link": "https://grumpygamer.com/thirty_years_ago"
     },
     {
+      "rank": "29.",
+      "title": "Dupes and Duplicity",
+      "link": "https://www.damninteresting.com/dupes-and-duplicity/"
+    },
+    {
       "rank": "30.",
-      "title": "Zweig, Conrad and Chess",
-      "link": "https://www.thearticle.com/darkness-and-light-joseph-conrad-stefan-zweig-and-chess"
+      "title": "Show HN: FixCache – keep track of bug-prone files from Git commit history",
+      "link": "https://github.com/aavshr/fixCache"
     }
   ],
   "metadata": {
