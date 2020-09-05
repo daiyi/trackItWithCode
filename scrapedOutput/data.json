@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "The User Always Loses",
-      "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
+      "title": "A Brief Explanation of Greg Egan’s Dust Theory",
+      "link": "https://cephalopods.blog/2020/08/14/a-brief-explanation-of-egans-dust-theory/"
     },
     {
       "rank": "3.",
-      "title": "A Brief Explanation of Greg Egan’s Dust Theory",
-      "link": "https://cephalopods.blog/2020/08/14/a-brief-explanation-of-egans-dust-theory/"
+      "title": "The User Always Loses",
+      "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
     },
     {
       "rank": "4.",
@@ -32,78 +32,78 @@
     },
     {
       "rank": "7.",
-      "title": "Are You An Anarchist? The Answer May Surprise You (2000)",
-      "link": "https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you"
-    },
-    {
-      "rank": "8.",
       "title": "Growing a Language (1998) [video]",
       "link": "https://www.youtube.com/watch?v=_ahvzDzKdB0"
     },
     {
+      "rank": "8.",
+      "title": "Are You An Anarchist? The Answer May Surprise You (2000)",
+      "link": "https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you"
+    },
+    {
       "rank": "9.",
+      "title": "Lee Kuan Yew's Singapore",
+      "link": "https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/"
+    },
+    {
+      "rank": "10.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
+      "title": "8086 Microcode Disassembled",
+      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
+    },
+    {
+      "rank": "12.",
       "title": "Toilets in a Medieval Castle (2018)",
       "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
     },
     {
-      "rank": "11.",
+      "rank": "13.",
       "title": "Apple (Pro) Mouse (2014)",
       "link": "http://www.minimallyminimal.com/blog/apple-pro-mouse"
     },
     {
-      "rank": "12.",
+      "rank": "14.",
       "title": "Ask HN: Suggestions for books about API design?",
       "link": "item?id=24383180"
     },
     {
-      "rank": "13.",
-      "title": "How Chekhov invented the modern short story",
-      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
-    },
-    {
-      "rank": "14.",
-      "title": "Fastcore: A library that extends Python with new features",
-      "link": "https://fastpages.fast.ai/fastcore/"
-    },
-    {
       "rank": "15.",
-      "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
-      "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
-    },
-    {
-      "rank": "16.",
       "title": "Unexpected electric current that could stabilize fusion reactions discovered",
       "link": "https://phys.org/news/2020-09-unexpected-electrical-current-stabilize-fusion.html"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "One in ten medical treatments are supported by high-quality evidence – study",
       "link": "https://www.sciencealert.com/around-90-percent-of-your-medical-treatments-isn-t-backed-by-high-quality-evidence"
     },
     {
+      "rank": "17.",
+      "title": "Fastcore: A library that extends Python with new features",
+      "link": "https://fastpages.fast.ai/fastcore/"
+    },
+    {
       "rank": "18.",
+      "title": "How Chekhov invented the modern short story",
+      "link": "https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story"
+    },
+    {
+      "rank": "19.",
+      "title": "Nvidia MLOps: The AI LifeCycle for IT Production",
+      "link": "https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/"
+    },
+    {
+      "rank": "20.",
       "title": "The End of Spectrum Scarcity (2004)",
       "link": "https://spectrum.ieee.org/telecom/wireless/the-end-of-spectrum-scarcity"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "Snake in a QR Code",
       "link": "https://itsmattkc.com/etc/snakeqr/"
-    },
-    {
-      "rank": "20.",
-      "title": ".NET Transactional Document DB and Event Store on PostgreSQL",
-      "link": "https://martendb.io/"
-    },
-    {
-      "rank": "21.",
-      "title": "Cuanto (YC W19) Is Hiring a Founding Product Designer",
-      "link": "https://angel.co/company/cuanto/jobs/963905-founding-product-designer"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
+      "title": "Cuanto (YC W19) Is Hiring a Founding Product Designer",
+      "link": "https://angel.co/company/cuanto/jobs/963905-founding-product-designer"
+    },
+    {
+      "rank": "24.",
       "title": "Getting Better at Understanding Academic Papers: A Brief Guide for Beginners",
       "link": "https://habr.com/en/company/spbifmo/blog/517418/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
+      "title": ".NET Transactional Document DB and Event Store on PostgreSQL",
+      "link": "https://martendb.io/"
+    },
+    {
+      "rank": "26.",
       "title": "PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board",
       "link": "https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Winamp Skin Museum",
       "link": "https://skins.webamp.org/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Massacring C Pointers (2018)",
       "link": "https://wozniak.ca/blog/2018/06/25/1/index.html"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "Zweig, Conrad and Chess",
       "link": "https://www.thearticle.com/darkness-and-light-joseph-conrad-stefan-zweig-and-chess"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Lessons from the Gnome Patent Troll Incident",
       "link": "https://blog.hansenpartnership.com/lessons-from-the-gnome-patent-troll-incident/"
-    },
-    {
-      "rank": "29.",
-      "title": "Bullfrog After Populous",
-      "link": "https://www.filfre.net/2020/09/bullfrog-after-populous/"
-    },
-    {
-      "rank": "30.",
-      "title": "Thirty years ago today I made the final gold masters for Monkey Island",
-      "link": "https://grumpygamer.com/thirty_years_ago"
     }
   ],
   "metadata": {
