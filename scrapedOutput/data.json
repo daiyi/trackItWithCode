@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "The Birth of Wheelchair Basketball",
-      "link": "https://www.zocalopublicsquare.org/2020/09/02/wheelchair-basketball-history-veterans-disability-rights/ideas/essay/"
+      "title": "I can't believe I'm praising Tcl (2008)",
+      "link": "http://yosefk.com/blog/i-cant-believe-im-praising-tcl.html"
     },
     {
       "rank": "7.",
-      "title": "I can't believe I'm praising Tcl (2008)",
-      "link": "http://yosefk.com/blog/i-cant-believe-im-praising-tcl.html"
+      "title": "The Birth of Wheelchair Basketball",
+      "link": "https://www.zocalopublicsquare.org/2020/09/02/wheelchair-basketball-history-veterans-disability-rights/ideas/essay/"
     },
     {
       "rank": "8.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
-      "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
-      "link": "https://observablehq.com/@jrus/scpie"
-    },
-    {
-      "rank": "13.",
       "title": "Growing a Language (1998) [video]",
       "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "The Evolution of Psychiatry",
       "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
+    },
+    {
+      "rank": "14.",
+      "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
+      "link": "https://observablehq.com/@jrus/scpie"
     },
     {
       "rank": "15.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "Toilets in a Medieval Castle (2018)",
-      "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
+      "title": "Show HN: Linux sysadmin course, eight years on",
+      "link": "item?id=24380969"
     },
     {
       "rank": "17.",
-      "title": "Show HN: Linux sysadmin course, eight years on",
-      "link": "item?id=24380969"
+      "title": "Toilets in a Medieval Castle (2018)",
+      "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
     },
     {
       "rank": "18.",
@@ -102,23 +102,23 @@
     },
     {
       "rank": "21.",
+      "title": "Symbolic Plane Geometry Calculator",
+      "link": "https://geometryexpressions.com/gxweb/"
+    },
+    {
+      "rank": "22.",
       "title": "Mathematicians should stop naming things after each other",
       "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Plague-bearing fleas spark closures at popular Lake Tahoe sites",
       "link": "https://www.sfgate.com/renotahoe/article/Plague-bearing-fleas-spark-closures-at-popular-15541389.php"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Making the Grade",
       "link": "https://www.verticallifemag.com.au/2020/08/making-the-grade/"
-    },
-    {
-      "rank": "24.",
-      "title": "Symbolic Plane Geometry Calculator",
-      "link": "https://geometryexpressions.com/gxweb/"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "The User Always Loses",
-      "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
-    },
-    {
-      "rank": "27.",
       "title": "OSKit: A set of components oriented to creating operating systems",
       "link": "https://www.cs.utah.edu/flux/oskit/"
     },
     {
+      "rank": "27.",
+      "title": "Show HN: Glowbom – Using voice to make software",
+      "link": "https://glowbom.com/"
+    },
+    {
       "rank": "28.",
+      "title": "The User Always Loses",
+      "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
+    },
+    {
+      "rank": "29.",
       "title": "Show HN: Talk – A free group video call app with screen sharing",
       "link": "https://github.com/vasanthv/talk"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "A Brief Explanation of Greg Egan’s Dust Theory",
       "link": "https://cephalopods.blog/2020/08/14/a-brief-explanation-of-egans-dust-theory/"
-    },
-    {
-      "rank": "30.",
-      "title": "Snake in a QR Code",
-      "link": "https://itsmattkc.com/etc/snakeqr/"
     }
   ],
   "metadata": {
