@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Attention is your scarcest resource",
-      "link": "https://www.benkuhn.net/attention/"
+      "title": "Common color mistakes and how to avoid them",
+      "link": "https://blog.datawrapper.de/beautifulcolors/"
     },
     {
       "rank": "3.",
-      "title": "Common color mistakes and how to avoid them",
-      "link": "https://blog.datawrapper.de/beautifulcolors/"
+      "title": "Attention is your scarcest resource",
+      "link": "https://www.benkuhn.net/attention/"
     },
     {
       "rank": "4.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "Understanding OAuth2 and OpenID Connect",
-      "link": "https://www.polarsparc.com/2020/09/06/oauth2-oidc/"
+      "title": "Amazon is filled with fake reviews and it’s getting harder to spot them",
+      "link": "https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html"
     },
     {
       "rank": "14.",
-      "title": "Amazon is filled with fake reviews and it’s getting harder to spot them",
-      "link": "https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html"
+      "title": "The New Neuroscience of Stuttering",
+      "link": "https://www.knowablemagazine.org/article/mind/2020/new-neuroscience-stuttering"
     },
     {
       "rank": "15.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "The New Neuroscience of Stuttering",
-      "link": "https://www.knowablemagazine.org/article/mind/2020/new-neuroscience-stuttering"
+      "title": "Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers",
+      "link": "https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099"
     },
     {
       "rank": "18.",
-      "title": "Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers",
-      "link": "https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099"
+      "title": "Understanding OAuth2 and OpenID Connect",
+      "link": "https://www.polarsparc.com/2020/09/06/oauth2-oidc/"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Is There a Google-Free Future for Firefox?",
-      "link": "https://www.forbes.com/sites/barrycollins/2020/09/03/is-there-a-google-free-future-for-firefox/"
+      "title": "Worries grow over a K-shaped economic recovery that favors the wealthy",
+      "link": "https://www.cnbc.com/2020/09/04/worries-grow-over-a-k-shaped-economic-recovery-that-favors-the-wealthy.html"
     },
     {
       "rank": "21.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "Worries grow over a K-shaped economic recovery that favors the wealthy",
-      "link": "https://www.cnbc.com/2020/09/04/worries-grow-over-a-k-shaped-economic-recovery-that-favors-the-wealthy.html"
+      "title": "Is There a Google-Free Future for Firefox?",
+      "link": "https://www.forbes.com/sites/barrycollins/2020/09/03/is-there-a-google-free-future-for-firefox/"
     },
     {
       "rank": "24.",
-      "title": "Pass the Payment Choice Act",
-      "link": "https://www.eff.org/deeplinks/2020/09/pass-payment-choice-act"
-    },
-    {
-      "rank": "25.",
-      "title": "Free Transit for Riders Under 18? In Paris, It’s Here",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-03/why-paris-dropped-transit-fares-for-young-riders"
-    },
-    {
-      "rank": "26.",
       "title": "Kintsugi",
       "link": "https://en.wikipedia.org/wiki/Kintsugi"
     },
     {
-      "rank": "27.",
+      "rank": "25.",
       "title": "Habitica – A gamified habit-building and productivity app",
       "link": "https://habitica.com/static/home"
     },
     {
-      "rank": "28.",
+      "rank": "26.",
       "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
       "link": "https://sensible-side-buttons.archagon.net"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
       "title": "Show HN: Parallelise pipelines of Python async iterables",
       "link": "https://github.com/michalc/asyncio-buffered-pipeline"
     },
     {
-      "rank": "30.",
+      "rank": "28.",
       "title": "Show HN: Revived my personal website to join the nostalgia",
       "link": "https://gasoved.github.io/webbew/"
+    },
+    {
+      "rank": "29.",
+      "title": "Can Greek Tragedy Get Us Through the Pandemic?",
+      "link": "https://www.newyorker.com/culture/culture-desk/can-greek-tragedy-get-us-through-the-pandemic"
+    },
+    {
+      "rank": "30.",
+      "title": "Code Health: Make Interfaces Hard to Misuse (2018)",
+      "link": "https://testing.googleblog.com/2018/07/code-health-make-interfaces-hard-to.html"
     }
   ],
   "metadata": {
