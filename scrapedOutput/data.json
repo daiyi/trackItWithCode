@@ -22,7 +22,7 @@
     },
     {
       "rank": "5.",
-      "title": "Hard to discover tips and apps for making macOS pleasant",
+      "title": "Hard to discover tips and apps for macOS",
       "link": "https://thume.ca/2020/09/04/macos-tips/"
     },
     {
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Understanding OAuth2 and OpenID Connect",
-      "link": "https://www.polarsparc.com/2020/09/06/oauth2-oidc/"
+      "title": "AES Finder – the utility to find AES keys in running process memory",
+      "link": "https://github.com/MantechUser/aes-finder"
     },
     {
       "rank": "9.",
-      "title": "AES Finder – the utility to find AES keys in running process memory",
-      "link": "https://github.com/MantechUser/aes-finder"
+      "title": "Understanding OAuth2 and OpenID Connect",
+      "link": "https://www.polarsparc.com/2020/09/06/oauth2-oidc/"
     },
     {
       "rank": "10.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Show HN: Parallelise pipelines of Python async iterables",
-      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
+      "title": "It's not working Should I blame caching?",
+      "link": "https://shouldiblamecaching.com/"
     },
     {
       "rank": "16.",
@@ -82,43 +82,43 @@
     },
     {
       "rank": "17.",
+      "title": "Show HN: Parallelise pipelines of Python async iterables",
+      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
+    },
+    {
+      "rank": "18.",
       "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
       "link": "https://sensible-side-buttons.archagon.net"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Yacd – Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required",
       "link": "https://github.com/DerekSelander/yacd"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Habitica – A gamified habit-building and productivity app",
       "link": "https://habitica.com/static/home"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "The UK's online ID plans: expensive, intrusive, unnecessary",
       "link": "https://www.theguardian.com/commentisfree/2020/sep/06/uk-online-id-pandemic-digital-identity-system"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Show HN: Revived my personal website to join the nostalgia",
       "link": "https://gasoved.github.io/webbew/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "LibreOffice Online API",
       "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "The Last Gunsmiths of the Khyber Pass",
       "link": "https://silahreport.com/2019/08/23/the-last-gunsmiths-of-the-khyber-pass/"
-    },
-    {
-      "rank": "24.",
-      "title": "Graph Representations for Higher-Order Logic and Theorem Proving (2019)",
-      "link": "https://arxiv.org/abs/1905.10006"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
+      "title": "Graph Representations for Higher-Order Logic and Theorem Proving (2019)",
+      "link": "https://arxiv.org/abs/1905.10006"
+    },
+    {
+      "rank": "27.",
       "title": "Code Health: Make Interfaces Hard to Misuse (2018)",
       "link": "https://testing.googleblog.com/2018/07/code-health-make-interfaces-hard-to.html"
     },
     {
-      "rank": "27.",
-      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
-      "link": "https://github.com/saadmk11/django-newsfeed"
-    },
-    {
       "rank": "28.",
-      "title": "Principles for Better Design",
-      "link": "https://reflexio.debec.eu/principles-for-better-design"
-    },
-    {
-      "rank": "29.",
       "title": "C++20 has been approved",
       "link": "https://twitter.com/PatriceRoy1/status/1302055575140945921"
     },
     {
+      "rank": "29.",
+      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
+      "link": "https://github.com/saadmk11/django-newsfeed"
+    },
+    {
       "rank": "30.",
-      "title": "The Minecraft Institvte of Technology",
-      "link": "https://www.technologyreview.com/2020/08/18/1006217/the-minecraft-institvte-of-technology/"
+      "title": "Principles for Better Design",
+      "link": "https://reflexio.debec.eu/principles-for-better-design"
     }
   ],
   "metadata": {
