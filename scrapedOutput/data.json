@@ -32,18 +32,18 @@
     },
     {
       "rank": "7.",
+      "title": "Ultimate Python Study Guide",
+      "link": "https://github.com/huangsam/ultimate-python"
+    },
+    {
+      "rank": "8.",
       "title": "The Stack Monoid",
       "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Unlimited Information Is Transforming Society",
       "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
-    },
-    {
-      "rank": "9.",
-      "title": "Ultimate Python Study Guide",
-      "link": "https://github.com/huangsam/ultimate-python"
     },
     {
       "rank": "10.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "CubeSat interplanetary exploration is heating up",
-      "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
+      "title": "Tgppl, a radically new type of open-source license",
+      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
     },
     {
       "rank": "13.",
-      "title": "The Ocean Is Struggling to Breathe, Too",
-      "link": "http://oceans.nautil.us/feature/613/the-ocean-is-struggling-to-breathe-too"
+      "title": "CubeSat interplanetary exploration is heating up",
+      "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
     },
     {
       "rank": "14.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
-      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
-    },
-    {
-      "rank": "16.",
-      "title": "Tgppl, a radically new type of open-source license",
-      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
-    },
-    {
-      "rank": "17.",
       "title": "How to Hide a Billion Dollars: Three Techniques the Ultrarich Use to Dodge Ex-Sp",
       "link": "https://www.forbes.com/sites/christopherhelman/2020/09/04/how-to-hide-a-billion-dollars-three-techniques-the-ultra-rich-use-to-dodge-ex-spouses-the-taxman-and-disgruntled-business-partners/#5b681a8a5994"
     },
     {
-      "rank": "18.",
+      "rank": "16.",
+      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
+      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
+    },
+    {
+      "rank": "17.",
       "title": "AES Finder – the utility to find AES keys in running process memory",
       "link": "https://github.com/MantechUser/aes-finder"
+    },
+    {
+      "rank": "18.",
+      "title": "Beef Fat Prevents Alcoholic Liver Disease in the Rat",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1530-0277.1989.tb00276.x"
     },
     {
       "rank": "19.",
@@ -97,18 +97,18 @@
     },
     {
       "rank": "20.",
-      "title": "The Silent Flight of Owls, Explained",
-      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
+      "title": "Asynchronously Opening and Closing Files in Asyncio",
+      "link": "https://nullprogram.com/blog/2020/09/04/"
     },
     {
       "rank": "21.",
-      "title": "Amazon is filled with fake reviews and it’s getting harder to spot them",
-      "link": "https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html"
+      "title": "The New Neuroscience of Stuttering",
+      "link": "https://www.knowablemagazine.org/article/mind/2020/new-neuroscience-stuttering"
     },
     {
       "rank": "22.",
-      "title": "Asynchronously Opening and Closing Files in Asyncio",
-      "link": "https://nullprogram.com/blog/2020/09/04/"
+      "title": "Amazon is filled with fake reviews and it’s getting harder to spot them",
+      "link": "https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "The Silent Flight of Owls, Explained",
+      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
+    },
+    {
+      "rank": "25.",
+      "title": "Carmack on not being a power text editor user",
+      "link": "https://twitter.com/id_aa_carmack/status/1302651878065475584"
+    },
+    {
+      "rank": "26.",
       "title": "Mystery seeds: Amazon bans foreign plant sales in US",
       "link": "https://www.bbc.com/news/world-us-canada-54046154"
     },
     {
-      "rank": "25.",
-      "title": "The New Neuroscience of Stuttering",
-      "link": "https://www.knowablemagazine.org/article/mind/2020/new-neuroscience-stuttering"
-    },
-    {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers",
       "link": "https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "A Meta-Layer for Notes",
       "link": "https://julian.digital/2020/09/04/a-meta-layer-for"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/2020/09/06/oauth2-oidc/"
     },
     {
-      "rank": "29.",
-      "title": "The land before modern APIs",
-      "link": "https://increment.com/apis/land-before-modern-apis/"
-    },
-    {
       "rank": "30.",
-      "title": "The rarest great ape on earth and their only forest is rapidly disappearing",
-      "link": "https://www.telegraph.co.uk/news/2020/09/06/revealed-newly-discovered-orangutan-species-driven-extinction/"
+      "title": "The Ocean Is Struggling to Breathe, Too",
+      "link": "http://oceans.nautil.us/feature/613/the-ocean-is-struggling-to-breathe-too"
     }
   ],
   "metadata": {
