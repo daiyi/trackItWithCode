@@ -42,48 +42,48 @@
     },
     {
       "rank": "9.",
-      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
-      "link": "https://github.com/saadmk11/django-newsfeed"
-    },
-    {
-      "rank": "10.",
       "title": "Principles for Better Design",
       "link": "https://reflexio.debec.eu/principles-for-better-design"
     },
     {
-      "rank": "11.",
-      "title": "Compiling a Lisp to x86-64: primitive functions",
-      "link": "https://bernsteinbear.com/blog/compiling-a-lisp-4/"
+      "rank": "10.",
+      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
+      "link": "https://github.com/saadmk11/django-newsfeed"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Show HN: A minimal stack based VM in C",
       "link": "https://github.com/codr7/liblg"
     },
     {
-      "rank": "13.",
-      "title": "Getting Color Output out of a TI-99/4A",
-      "link": "https://netzhansa.com/ti99-4a-color/"
+      "rank": "12.",
+      "title": "Compiling a Lisp to x86-64: primitive functions",
+      "link": "https://bernsteinbear.com/blog/compiling-a-lisp-4/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "I can't believe I'm praising Tcl (2008)",
       "link": "http://yosefk.com/blog/i-cant-believe-im-praising-tcl.html"
     },
     {
-      "rank": "15.",
-      "title": "Just because it's there doesn't mean you should use it",
-      "link": "http://rachelbythebay.com/w/2020/09/05/wire/"
+      "rank": "14.",
+      "title": "Getting Color Output out of a TI-99/4A",
+      "link": "https://netzhansa.com/ti99-4a-color/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "8086 Microcode Disassembled",
       "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
     },
     {
+      "rank": "16.",
+      "title": "Just because it's there doesn't mean you should use it",
+      "link": "http://rachelbythebay.com/w/2020/09/05/wire/"
+    },
+    {
       "rank": "17.",
-      "title": "The Birth of Wheelchair Basketball",
-      "link": "https://www.zocalopublicsquare.org/2020/09/02/wheelchair-basketball-history-veterans-disability-rights/ideas/essay/"
+      "title": "PDP 11/70 Emulator (2020)",
+      "link": "https://skn.noip.me/pdp11/pdp11.html"
     },
     {
       "rank": "18.",
@@ -92,18 +92,18 @@
     },
     {
       "rank": "19.",
+      "title": "The Birth of Wheelchair Basketball",
+      "link": "https://www.zocalopublicsquare.org/2020/09/02/wheelchair-basketball-history-veterans-disability-rights/ideas/essay/"
+    },
+    {
+      "rank": "20.",
       "title": "The Memory Area Network at the Heart of IBM’s Power10",
       "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "OnlyOffice is an alternative to LibreOffice",
       "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
-    },
-    {
-      "rank": "21.",
-      "title": "PDP 11/70 Emulator (2020)",
-      "link": "https://skn.noip.me/pdp11/pdp11.html"
     },
     {
       "rank": "22.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
+      "title": "Show HN: Linux sysadmin course, eight years on",
+      "link": "item?id=24380969"
+    },
+    {
+      "rank": "27.",
       "title": "More than half of 18 to 29-year-olds in the US are living with parents",
       "link": "https://www.msn.com/en-us/news/us/more-than-half-of-18-to-29-year-olds-in-the-us-are-living-with-parents/ar-BB18Khdk?li=BBnb7Kz"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
       "link": "https://observablehq.com/@jrus/scpie"
-    },
-    {
-      "rank": "28.",
-      "title": "Show HN: Linux sysadmin course, eight years on",
-      "link": "item?id=24380969"
     },
     {
       "rank": "29.",
