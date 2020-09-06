@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Traffic Prediction with Advanced Graph Neural Networks",
-      "link": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks"
+      "title": "Just because it's there doesn't mean you should use it",
+      "link": "http://rachelbythebay.com/w/2020/09/05/wire/"
     },
     {
       "rank": "3.",
-      "title": "Just because it's there doesn't mean you should use it",
-      "link": "http://rachelbythebay.com/w/2020/09/05/wire/"
+      "title": "Traffic Prediction with Advanced Graph Neural Networks",
+      "link": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks"
     },
     {
       "rank": "4.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "8086 Microcode Disassembled",
-      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
+      "title": "More than half of 18 to 29-year-olds in the US are living with parents",
+      "link": "https://www.msn.com/en-us/news/us/more-than-half-of-18-to-29-year-olds-in-the-us-are-living-with-parents/ar-BB18Khdk?li=BBnb7Kz"
     },
     {
       "rank": "9.",
-      "title": "The Memory Area Network at the Heart of IBM’s Power10",
-      "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
+      "title": "8086 Microcode Disassembled",
+      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
     },
     {
       "rank": "10.",
@@ -52,53 +52,53 @@
     },
     {
       "rank": "11.",
-      "title": "Growing a Language (1998) [video]",
-      "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
-    },
-    {
-      "rank": "12.",
       "title": "Ask HN: How can I prevent myself from being doxxed?",
       "link": "item?id=24388442"
     },
     {
+      "rank": "12.",
+      "title": "The Memory Area Network at the Heart of IBM’s Power10",
+      "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
+    },
+    {
       "rank": "13.",
-      "title": "Getting paid not to use Facebook",
-      "link": "https://imgur.com/a/AJXKetl"
-    },
-    {
-      "rank": "14.",
-      "title": "The Evolution of Psychiatry",
-      "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
-    },
-    {
-      "rank": "15.",
       "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
       "link": "https://observablehq.com/@jrus/scpie"
     },
     {
+      "rank": "14.",
+      "title": "Growing a Language (1998) [video]",
+      "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
+    },
+    {
+      "rank": "15.",
+      "title": "Getting paid not to use Facebook",
+      "link": "https://imgur.com/a/AJXKetl"
+    },
+    {
       "rank": "16.",
+      "title": "The Evolution of Psychiatry",
+      "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
+    },
+    {
+      "rank": "17.",
       "title": "Chess is taking over the online video game streaming world and it will change",
       "link": "https://scroll.in/field/972176/game-theory-chess-is-taking-over-the-online-video-game-streaming-world-and-that-will-change-it-too"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
       "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
       "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
-    },
-    {
-      "rank": "20.",
-      "title": "A Second Chance",
-      "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
     },
     {
       "rank": "21.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
+      "title": "A Second Chance",
+      "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
+    },
+    {
+      "rank": "23.",
       "title": "Mathematicians should stop naming things after each other",
       "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Plague-bearing fleas spark closures at popular Lake Tahoe sites",
       "link": "https://www.sfgate.com/renotahoe/article/Plague-bearing-fleas-spark-closures-at-popular-15541389.php"
     },
     {
-      "rank": "24.",
-      "title": "Making the Grade",
-      "link": "https://www.verticallifemag.com.au/2020/08/making-the-grade/"
-    },
-    {
       "rank": "25.",
-      "title": "Ask HN: Suggestions for books about API design?",
-      "link": "item?id=24383180"
-    },
-    {
-      "rank": "26.",
       "title": "OSKit: A set of components oriented to creating operating systems",
       "link": "https://www.cs.utah.edu/flux/oskit/"
     },
     {
+      "rank": "26.",
+      "title": "Ask HN: Suggestions for books about API design?",
+      "link": "item?id=24383180"
+    },
+    {
       "rank": "27.",
+      "title": "What anarchy isn't (free eBook)",
+      "link": "https://www.dropbox.com/s/yd18waixbva1jae/WhatAnarchyIsnt-FREEBIE.pdf?dl=0"
+    },
+    {
+      "rank": "28.",
+      "title": "Making the Grade",
+      "link": "https://www.verticallifemag.com.au/2020/08/making-the-grade/"
+    },
+    {
+      "rank": "29.",
       "title": "Show HN: Glowbom – Using voice to make software",
       "link": "https://glowbom.com/"
     },
     {
-      "rank": "28.",
-      "title": "The User Always Loses",
-      "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
-    },
-    {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Show HN: Talk – A free group video call app with screen sharing",
       "link": "https://github.com/vasanthv/talk"
-    },
-    {
-      "rank": "30.",
-      "title": "Snake in a QR Code",
-      "link": "https://itsmattkc.com/etc/snakeqr/"
     }
   ],
   "metadata": {
