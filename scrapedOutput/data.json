@@ -2,7 +2,7 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Fennel",
+      "title": "Fennel – Lisp in Lua",
       "link": "https://fennel-lang.org"
     },
     {
@@ -22,18 +22,18 @@
     },
     {
       "rank": "5.",
-      "title": "Graviton Database: ZFS for key-value stores",
-      "link": "https://github.com/deroproject/graviton"
-    },
-    {
-      "rank": "6.",
       "title": "Mystery seeds: Amazon bans foreign plant sales in US",
       "link": "https://www.bbc.com/news/world-us-canada-54046154"
     },
     {
+      "rank": "6.",
+      "title": "Graviton Database: ZFS for key-value stores",
+      "link": "https://github.com/deroproject/graviton"
+    },
+    {
       "rank": "7.",
-      "title": "Show HN: Parallelise pipelines of Python async iterables",
-      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
+      "title": "A Meta-Layer for Notes",
+      "link": "https://julian.digital/2020/09/04/a-meta-layer-for"
     },
     {
       "rank": "8.",
@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
-      "title": "What’s the digital equivalent of sticky notes?",
-      "link": "https://julian.digital/2020/09/04/a-meta-layer-for"
+      "title": "Show HN: Parallelise pipelines of Python async iterables",
+      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
     },
     {
       "rank": "10.",
-      "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
-      "link": "https://sensible-side-buttons.archagon.net"
+      "title": "LibreOffice Online API",
+      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
     },
     {
       "rank": "11.",
-      "title": "Habitica – A gamified habit-building and productivity app",
-      "link": "https://habitica.com/static/home"
+      "title": "C++20 has been approved",
+      "link": "https://twitter.com/PatriceRoy1/status/1302055575140945921"
     },
     {
       "rank": "12.",
-      "title": "LibreOffice Online API",
-      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
+      "title": "Habitica – A gamified habit-building and productivity app",
+      "link": "https://habitica.com/static/home"
     },
     {
       "rank": "13.",
@@ -67,18 +67,18 @@
     },
     {
       "rank": "14.",
-      "title": "C++20 has been approved",
-      "link": "https://twitter.com/PatriceRoy1/status/1302055575140945921"
-    },
-    {
-      "rank": "15.",
       "title": "Show HN: Revived my personal website to join the nostalgia",
       "link": "https://gasoved.github.io/webbew/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Graph Representations for Higher-Order Logic and Theorem Proving (2019)",
       "link": "https://arxiv.org/abs/1905.10006"
+    },
+    {
+      "rank": "16.",
+      "title": "Winner of French Scrabble Title Does Not Speak French (2015)",
+      "link": "https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french"
     },
     {
       "rank": "17.",
@@ -87,18 +87,18 @@
     },
     {
       "rank": "18.",
-      "title": "Winner of French Scrabble Title Does Not Speak French (2015)",
-      "link": "https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french"
-    },
-    {
-      "rank": "19.",
       "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
       "link": "https://github.com/saadmk11/django-newsfeed"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "MCPU Emulator (and ATTiny85 Port)",
       "link": "http://jborza.com/emulation/2020/09/05/mcpu-emulator.html"
+    },
+    {
+      "rank": "20.",
+      "title": "A Free Software OS for the ReMarkable E-Paper Tablet",
+      "link": "https://hackaday.com/2020/09/06/a-free-software-os-for-the-remarkable-e-paper-tablet/"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "A Free Software OS for the ReMarkable E-Paper Tablet",
-      "link": "https://hackaday.com/2020/09/06/a-free-software-os-for-the-remarkable-e-paper-tablet/"
+      "title": "'You're Not Allowed to Film': The Fight to Control Who Reports from Portland",
+      "link": "https://reason.com/2020/09/04/youre-not-allowed-to-film-the-fight-for-control-over-who-reports-from-portland/"
     },
     {
       "rank": "23.",
-      "title": "'You're Not Allowed to Film': The Fight to Control Who Reports from Portland",
-      "link": "https://reason.com/2020/09/04/youre-not-allowed-to-film-the-fight-for-control-over-who-reports-from-portland/"
+      "title": "The Minecraft Institvte of Technology",
+      "link": "https://www.technologyreview.com/2020/08/18/1006217/the-minecraft-institvte-of-technology/"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "The Minecraft Institvte of Technology",
-      "link": "https://www.technologyreview.com/2020/08/18/1006217/the-minecraft-institvte-of-technology/"
+      "title": "The Last Gunsmiths of the Khyber Pass",
+      "link": "https://silahreport.com/2019/08/23/the-last-gunsmiths-of-the-khyber-pass/"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "The Last Gunsmiths of the Khyber Pass",
-      "link": "https://silahreport.com/2019/08/23/the-last-gunsmiths-of-the-khyber-pass/"
+      "title": "Google proposed Web Bundles could threaten the Web as we know it",
+      "link": "https://www.ghacks.net/2020/08/30/google-proposed-web-bundles-could-threaten-the-web-as-we-know-it/"
     },
     {
       "rank": "28.",
-      "title": "Google proposed Web Bundles could threaten the Web as we know it",
-      "link": "https://www.ghacks.net/2020/08/30/google-proposed-web-bundles-could-threaten-the-web-as-we-know-it/"
+      "title": "Show HN: A minimal stack based VM in C",
+      "link": "https://github.com/codr7/liblg"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Show HN: A minimal stack based VM in C",
-      "link": "https://github.com/codr7/liblg"
+      "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
+      "link": "https://sensible-side-buttons.archagon.net"
     }
   ],
   "metadata": {
