@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "LO-FI player - Interact with objects and create your own music",
-      "link": "https://magenta.github.io/lofi-player/"
+      "title": "Show HN: Revived my personal website to join the nostalgia",
+      "link": "https://gasoved.github.io/webbew/"
     },
     {
       "rank": "9.",
-      "title": "Show HN: Revived my personal website to join the nostalgia",
-      "link": "https://gasoved.github.io/webbew/"
+      "title": "LO-FI player - Interact with objects and create your own music",
+      "link": "https://magenta.github.io/lofi-player/"
     },
     {
       "rank": "10.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
-      "link": "https://github.com/saadmk11/django-newsfeed"
+      "title": "Habitica – A gamified habit-building and productivity app",
+      "link": "https://habitica.com/static/home"
     },
     {
       "rank": "13.",
-      "title": "Habitica – A gamified habit-building and productivity app",
-      "link": "https://habitica.com/static/home"
+      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
+      "link": "https://github.com/saadmk11/django-newsfeed"
     },
     {
       "rank": "14.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "PDP 11/70 Emulator (2020)",
-      "link": "https://skn.noip.me/pdp11/pdp11.html"
+      "title": "The Last Gunsmiths of the Khyber Pass",
+      "link": "https://silahreport.com/2019/08/23/the-last-gunsmiths-of-the-khyber-pass/"
     },
     {
       "rank": "17.",
-      "title": "The Last Gunsmiths of the Khyber Pass",
-      "link": "https://silahreport.com/2019/08/23/the-last-gunsmiths-of-the-khyber-pass/"
+      "title": "PDP 11/70 Emulator (2020)",
+      "link": "https://skn.noip.me/pdp11/pdp11.html"
     },
     {
       "rank": "18.",
@@ -122,18 +122,18 @@
     },
     {
       "rank": "25.",
-      "title": "Daniel J. Bernstein's IM2000 email proposal is not a good idea",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/IM2000NotGoodIdea"
-    },
-    {
-      "rank": "26.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Traffic Prediction with Advanced Graph Neural Networks",
       "link": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks"
+    },
+    {
+      "rank": "27.",
+      "title": "Daniel J. Bernstein's IM2000 email proposal is not a good idea",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/IM2000NotGoodIdea"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "China Launches a 'Reusable Experimental Spacecraft'",
-      "link": "https://sattrackcam.blogspot.com/2020/09/china-launches-reusable-experimental.html"
+      "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
+      "link": "https://observablehq.com/@jrus/scpie"
     }
   ],
   "metadata": {
