@@ -17,18 +17,18 @@
     },
     {
       "rank": "4.",
+      "title": "Daniel J. Bernstein's IM2000 email proposal is not a good idea",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/IM2000NotGoodIdea"
+    },
+    {
+      "rank": "5.",
       "title": "Graph Representations for Higher-Order Logic and Theorem Proving (2019)",
       "link": "https://arxiv.org/abs/1905.10006"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Winner of French Scrabble Title Does Not Speak French (2015)",
       "link": "https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french"
-    },
-    {
-      "rank": "6.",
-      "title": "Daniel J. Bernstein's IM2000 email proposal is not a good idea",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/IM2000NotGoodIdea"
     },
     {
       "rank": "7.",
@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
+      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
+      "link": "https://github.com/saadmk11/django-newsfeed"
+    },
+    {
+      "rank": "10.",
       "title": "Principles for Better Design",
       "link": "https://reflexio.debec.eu/principles-for-better-design"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Show HN: A minimal stack based VM in C",
       "link": "https://github.com/codr7/liblg"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Compiling a Lisp to x86-64: primitive functions",
       "link": "https://bernsteinbear.com/blog/compiling-a-lisp-4/"
-    },
-    {
-      "rank": "12.",
-      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
-      "link": "https://github.com/saadmk11/django-newsfeed"
     },
     {
       "rank": "13.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
+      "title": "PDP 11/70 Emulator (2020)",
+      "link": "https://skn.noip.me/pdp11/pdp11.html"
+    },
+    {
+      "rank": "16.",
       "title": "8086 Microcode Disassembled",
       "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
     },
     {
-      "rank": "16.",
-      "title": "Just because it's there doesn't mean you should use it",
-      "link": "http://rachelbythebay.com/w/2020/09/05/wire/"
-    },
-    {
       "rank": "17.",
-      "title": "The Memory Area Network at the Heart of IBM’s Power10",
-      "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
+      "title": "OnlyOffice is an alternative to LibreOffice",
+      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
     },
     {
       "rank": "18.",
@@ -92,18 +92,18 @@
     },
     {
       "rank": "19.",
-      "title": "The Birth of Wheelchair Basketball",
-      "link": "https://www.zocalopublicsquare.org/2020/09/02/wheelchair-basketball-history-veterans-disability-rights/ideas/essay/"
+      "title": "Just because it's there doesn't mean you should use it",
+      "link": "http://rachelbythebay.com/w/2020/09/05/wire/"
     },
     {
       "rank": "20.",
-      "title": "OnlyOffice is an alternative to LibreOffice",
-      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
+      "title": "The Memory Area Network at the Heart of IBM’s Power10",
+      "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
     },
     {
       "rank": "21.",
-      "title": "PDP 11/70 Emulator (2020)",
-      "link": "https://skn.noip.me/pdp11/pdp11.html"
+      "title": "The Birth of Wheelchair Basketball",
+      "link": "https://www.zocalopublicsquare.org/2020/09/02/wheelchair-basketball-history-veterans-disability-rights/ideas/essay/"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "The Evolution of Psychiatry",
-      "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
+      "title": "Audible-visuals: Audio visualizer experiments",
+      "link": "https://github.com/soniaboller/audible-visuals"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "Audible-visuals: Audio visualizer experiments",
-      "link": "https://github.com/soniaboller/audible-visuals"
-    },
-    {
-      "rank": "26.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
     },
     {
+      "rank": "26.",
+      "title": "The Evolution of Psychiatry",
+      "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
+    },
+    {
       "rank": "27.",
-      "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
-      "link": "https://observablehq.com/@jrus/scpie"
-    },
-    {
-      "rank": "28.",
-      "title": "More than half of 18 to 29-year-olds in the US are living with parents",
-      "link": "https://www.msn.com/en-us/news/us/more-than-half-of-18-to-29-year-olds-in-the-us-are-living-with-parents/ar-BB18Khdk?li=BBnb7Kz"
-    },
-    {
-      "rank": "29.",
       "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
       "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
     },
     {
-      "rank": "30.",
+      "rank": "28.",
+      "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
+      "link": "https://observablehq.com/@jrus/scpie"
+    },
+    {
+      "rank": "29.",
       "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
       "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
+    },
+    {
+      "rank": "30.",
+      "title": "More than half of 18 to 29-year-olds in the US are living with parents",
+      "link": "https://www.msn.com/en-us/news/us/more-than-half-of-18-to-29-year-olds-in-the-us-are-living-with-parents/ar-BB18Khdk?li=BBnb7Kz"
     }
   ],
   "metadata": {
