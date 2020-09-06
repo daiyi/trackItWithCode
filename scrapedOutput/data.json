@@ -17,28 +17,28 @@
     },
     {
       "rank": "4.",
+      "title": "Attention is your scarcest resource",
+      "link": "https://www.benkuhn.net/attention/"
+    },
+    {
+      "rank": "5.",
       "title": "AES Finder – the utility to find AES keys in running process memory",
       "link": "https://github.com/MantechUser/aes-finder"
     },
     {
-      "rank": "5.",
-      "title": "Hong Kong mourns the end of its way of life",
-      "link": "https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/"
-    },
-    {
       "rank": "6.",
-      "title": "Mystery seeds: Amazon bans foreign plant sales in US",
-      "link": "https://www.bbc.com/news/world-us-canada-54046154"
-    },
-    {
-      "rank": "7.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/2020/09/06/oauth2-oidc/"
     },
     {
+      "rank": "7.",
+      "title": "Hong Kong mourns the end of its way of life",
+      "link": "https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/"
+    },
+    {
       "rank": "8.",
-      "title": "Attention is your scarcest resource",
-      "link": "https://www.benkuhn.net/attention/"
+      "title": "Mystery seeds: Amazon bans foreign plant sales in US",
+      "link": "https://www.bbc.com/news/world-us-canada-54046154"
     },
     {
       "rank": "9.",
@@ -57,33 +57,33 @@
     },
     {
       "rank": "12.",
+      "title": "Data Broker Opt-Out List",
+      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
+    },
+    {
+      "rank": "13.",
+      "title": "Hard to discover tips and apps for making macOS pleasant",
+      "link": "https://thume.ca/2020/09/04/macos-tips/"
+    },
+    {
+      "rank": "14.",
       "title": "Show HN: Parallelise pipelines of Python async iterables",
       "link": "https://github.com/michalc/asyncio-buffered-pipeline"
     },
     {
-      "rank": "13.",
+      "rank": "15.",
       "title": "Habitica – A gamified habit-building and productivity app",
       "link": "https://habitica.com/static/home"
     },
     {
-      "rank": "14.",
+      "rank": "16.",
       "title": "Yacd – Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required",
       "link": "https://github.com/DerekSelander/yacd"
     },
     {
-      "rank": "15.",
+      "rank": "17.",
       "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
       "link": "https://sensible-side-buttons.archagon.net"
-    },
-    {
-      "rank": "16.",
-      "title": "LibreOffice Online API",
-      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
-    },
-    {
-      "rank": "17.",
-      "title": "Unlearning The 'Nation State'",
-      "link": "https://softwaredoug.com/unlearning/2020/09/05/unlearning-the-nation-state.html"
     },
     {
       "rank": "18.",
@@ -92,28 +92,28 @@
     },
     {
       "rank": "19.",
+      "title": "LibreOffice Online API",
+      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
+    },
+    {
+      "rank": "20.",
       "title": "Graph Representations for Higher-Order Logic and Theorem Proving (2019)",
       "link": "https://arxiv.org/abs/1905.10006"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Just because it's there doesn't mean you should use it",
       "link": "http://rachelbythebay.com/w/2020/09/05/wire/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "The Last Gunsmiths of the Khyber Pass",
       "link": "https://silahreport.com/2019/08/23/the-last-gunsmiths-of-the-khyber-pass/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "C++20 has been approved",
       "link": "https://twitter.com/PatriceRoy1/status/1302055575140945921"
-    },
-    {
-      "rank": "23.",
-      "title": "Code Health: Make Interfaces Hard to Misuse (2018)",
-      "link": "https://testing.googleblog.com/2018/07/code-health-make-interfaces-hard-to.html"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "MCPU emulator and ATTiny85 port",
-      "link": "http://jborza.com/emulation/2020/09/05/mcpu-emulator.html"
+      "title": "Code Health: Make Interfaces Hard to Misuse (2018)",
+      "link": "https://testing.googleblog.com/2018/07/code-health-make-interfaces-hard-to.html"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "MCPU emulator and ATTiny85 port",
+      "link": "http://jborza.com/emulation/2020/09/05/mcpu-emulator.html"
+    },
+    {
+      "rank": "28.",
+      "title": "The UK's online ID plans: expensive, intrusive, unnecessary",
+      "link": "https://www.theguardian.com/commentisfree/2020/sep/06/uk-online-id-pandemic-digital-identity-system"
+    },
+    {
+      "rank": "29.",
       "title": "The Minecraft Institvte of Technology",
       "link": "https://www.technologyreview.com/2020/08/18/1006217/the-minecraft-institvte-of-technology/"
     },
     {
-      "rank": "28.",
-      "title": "Daniel J. Bernstein's IM2000 email proposal is not a good idea",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/IM2000NotGoodIdea"
-    },
-    {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Orange Health (YC S20) Is Hiring Front End React Engineers in India",
       "link": "https://www.orangehealth.in/jobs/experienced-front-end-engineer-(react-native)"
-    },
-    {
-      "rank": "30.",
-      "title": "A Free Software OS for the ReMarkable E-Paper Tablet",
-      "link": "https://hackaday.com/2020/09/06/a-free-software-os-for-the-remarkable-e-paper-tablet/"
     }
   ],
   "metadata": {
