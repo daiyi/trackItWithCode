@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "Fennel – Lisp in Lua",
-      "link": "https://fennel-lang.org"
+      "title": "The Stack Monoid",
+      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
     },
     {
       "rank": "6.",
@@ -32,28 +32,28 @@
     },
     {
       "rank": "7.",
-      "title": "Hard to discover tips and apps for macOS",
-      "link": "https://thume.ca/2020/09/04/macos-tips/"
+      "title": "Fennel – Lisp in Lua",
+      "link": "https://fennel-lang.org"
     },
     {
       "rank": "8.",
-      "title": "The Stack Monoid",
-      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
-    },
-    {
-      "rank": "9.",
-      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
-      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
-    },
-    {
-      "rank": "10.",
       "title": "CubeSat interplanetary exploration is heating up",
       "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
     },
     {
-      "rank": "11.",
+      "rank": "9.",
       "title": "Free Transit for Riders Under 18? In Paris, It’s Here",
       "link": "https://www.bloomberg.com/news/articles/2020-09-03/why-paris-dropped-transit-fares-for-young-riders"
+    },
+    {
+      "rank": "10.",
+      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
+      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
+    },
+    {
+      "rank": "11.",
+      "title": "Hard to discover tips and apps for macOS",
+      "link": "https://thume.ca/2020/09/04/macos-tips/"
     },
     {
       "rank": "12.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Mystery seeds: Amazon bans foreign plant sales in US",
-      "link": "https://www.bbc.com/news/world-us-canada-54046154"
+      "title": "Amazon is filled with fake reviews and it’s getting harder to spot them",
+      "link": "https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
-      "title": "Amazon is filled with fake reviews and it’s getting harder to spot them",
-      "link": "https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html"
+      "title": "Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers",
+      "link": "https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099"
     },
     {
       "rank": "18.",
-      "title": "Data Broker Opt-Out List",
-      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
+      "title": "Mystery seeds: Amazon bans foreign plant sales in US",
+      "link": "https://www.bbc.com/news/world-us-canada-54046154"
     },
     {
       "rank": "19.",
-      "title": "Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers",
-      "link": "https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099"
+      "title": "Data Broker Opt-Out List",
+      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
     },
     {
       "rank": "20.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "Habitica – A gamified habit-building and productivity app",
-      "link": "https://habitica.com/static/home"
+      "title": "Pass the Payment Choice Act",
+      "link": "https://www.eff.org/deeplinks/2020/09/pass-payment-choice-act"
     },
     {
       "rank": "25.",
-      "title": "Pass the Payment Choice Act",
-      "link": "https://www.eff.org/deeplinks/2020/09/pass-payment-choice-act"
+      "title": "Habitica – A gamified habit-building and productivity app",
+      "link": "https://habitica.com/static/home"
     },
     {
       "rank": "26.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Hong Kong mourns the end of its way of life",
-      "link": "https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/"
+      "title": "Worries grow over a K-shaped economic recovery that favors the wealthy",
+      "link": "https://www.cnbc.com/2020/09/04/worries-grow-over-a-k-shaped-economic-recovery-that-favors-the-wealthy.html"
     },
     {
       "rank": "29.",
-      "title": "Show HN: Parallelise pipelines of Python async iterables",
-      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
+      "title": "Can Greek Tragedy Get Us Through the Pandemic?",
+      "link": "https://www.newyorker.com/culture/culture-desk/can-greek-tragedy-get-us-through-the-pandemic"
     },
     {
       "rank": "30.",
-      "title": "Can Greek Tragedy Get Us Through the Pandemic?",
-      "link": "https://www.newyorker.com/culture/culture-desk/can-greek-tragedy-get-us-through-the-pandemic"
+      "title": "Show HN: Parallelise pipelines of Python async iterables",
+      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
     }
   ],
   "metadata": {
