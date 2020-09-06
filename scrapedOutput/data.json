@@ -22,58 +22,58 @@
     },
     {
       "rank": "5.",
+      "title": "Winner of French Scrabble Title Does Not Speak French",
+      "link": "https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french"
+    },
+    {
+      "rank": "6.",
+      "title": "Orange Health (YC S20) Is Hiring Front End React Engineers in India",
+      "link": "https://www.orangehealth.in/jobs/experienced-front-end-engineer-(react-native)"
+    },
+    {
+      "rank": "7.",
       "title": "8086 Microcode Disassembled",
       "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
     },
     {
-      "rank": "6.",
-      "title": "The Evolution of Psychiatry",
-      "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
-    },
-    {
-      "rank": "7.",
+      "rank": "8.",
       "title": "The Memory Area Network at the Heart of IBM’s Power10",
       "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
+      "title": "The Evolution of Psychiatry",
+      "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
+    },
+    {
+      "rank": "10.",
       "title": "Growing a Language (1998) [video]",
       "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
     },
     {
-      "rank": "9.",
-      "title": "Fastcore: A library that extends Python with new features",
-      "link": "https://fastpages.fast.ai/fastcore/"
-    },
-    {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Chess is taking over the online video game streaming world and it will change",
       "link": "https://scroll.in/field/972176/game-theory-chess-is-taking-over-the-online-video-game-streaming-world-and-that-will-change-it-too"
     },
     {
-      "rank": "11.",
-      "title": "Why OnlyOffice is a better alternative to LibreOffice",
-      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
-    },
-    {
       "rank": "12.",
-      "title": "Getting Users Is Hard",
-      "link": "item?id=24386933"
+      "title": "Tesla's 'Full Self-Driving Capability' Falls Short of Its Name",
+      "link": "https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/"
     },
     {
       "rank": "13.",
+      "title": "Fastcore: A library that extends Python with new features",
+      "link": "https://fastpages.fast.ai/fastcore/"
+    },
+    {
+      "rank": "14.",
       "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
       "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
     },
     {
-      "rank": "14.",
-      "title": "Mathematicians should stop naming things after each other",
-      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
-    },
-    {
       "rank": "15.",
-      "title": "Show HN: Linux sysadmin course, eight years on",
-      "link": "item?id=24380969"
+      "title": "Making the Grade",
+      "link": "https://www.verticallifemag.com.au/2020/08/making-the-grade/"
     },
     {
       "rank": "16.",
@@ -82,33 +82,33 @@
     },
     {
       "rank": "17.",
-      "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
-      "link": "https://radicle.xyz/radicle-link.html"
+      "title": "Show HN: Linux sysadmin course, eight years on",
+      "link": "item?id=24380969"
     },
     {
       "rank": "18.",
-      "title": "Making the Grade",
-      "link": "https://www.verticallifemag.com.au/2020/08/making-the-grade/"
-    },
-    {
-      "rank": "19.",
       "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
       "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
     },
     {
+      "rank": "19.",
+      "title": "Radicle-Link: Extending Git with Peer-to-Peer Network Discovery",
+      "link": "https://radicle.xyz/radicle-link.html"
+    },
+    {
       "rank": "20.",
+      "title": "Mathematicians should stop naming things after each other",
+      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
+    },
+    {
+      "rank": "21.",
       "title": "Thermoelectric Stoves: Ditch the Solar Panels?",
       "link": "https://solar.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "A Second Chance",
       "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
-    },
-    {
-      "rank": "22.",
-      "title": "Tesla's 'Full Self-Driving Capability' Falls Short of Its Name",
-      "link": "https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "The Case for Adding 672 Million More Americans",
+      "link": "https://nymag.com/intelligencer/2020/08/one-billion-americans-by-matthew-yglesias-book-excerpt.html"
+    },
+    {
+      "rank": "25.",
+      "title": "Getting Users Is Hard",
+      "link": "item?id=24386933"
+    },
+    {
+      "rank": "26.",
       "title": "Ask HN: Suggestions for books about API design?",
       "link": "item?id=24383180"
     },
     {
-      "rank": "25.",
-      "title": "Symbolic Plane Geometry Calculator",
-      "link": "https://geometryexpressions.com/gxweb/"
-    },
-    {
-      "rank": "26.",
-      "title": "A Brief Explanation of Greg Egan’s Dust Theory",
-      "link": "https://cephalopods.blog/2020/08/14/a-brief-explanation-of-egans-dust-theory/"
-    },
-    {
       "rank": "27.",
-      "title": "Show HN: Talk – A free group video call app with screen sharing",
-      "link": "https://github.com/vasanthv/talk"
-    },
-    {
-      "rank": "28.",
       "title": "The User Always Loses",
       "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
     },
     {
+      "rank": "28.",
+      "title": "A Brief Explanation of Greg Egan’s Dust Theory",
+      "link": "https://cephalopods.blog/2020/08/14/a-brief-explanation-of-egans-dust-theory/"
+    },
+    {
       "rank": "29.",
-      "title": "The Art of Voltage Probing",
-      "link": "https://circuitcellar.com/research-design-hub/the-art-of-voltage-probing/"
+      "title": "Show HN: Talk – A free group video call app with screen sharing",
+      "link": "https://github.com/vasanthv/talk"
     },
     {
       "rank": "30.",
-      "title": "One in ten medical treatments are supported by high-quality evidence – study",
-      "link": "https://www.sciencealert.com/around-90-percent-of-your-medical-treatments-isn-t-backed-by-high-quality-evidence"
+      "title": "Symbolic Plane Geometry Calculator",
+      "link": "https://geometryexpressions.com/gxweb/"
     }
   ],
   "metadata": {
