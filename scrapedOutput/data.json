@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "CubeSat interplanetary exploration is heating up",
-      "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
+      "title": "Creality Developing Belt-Driven Desktop 3D Printer « Fabbaloo",
+      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
     },
     {
       "rank": "7.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Free Transit for Riders Under 18? In Paris, It’s Here",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-03/why-paris-dropped-transit-fares-for-young-riders"
+      "title": "The Stack Monoid",
+      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
     },
     {
       "rank": "9.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
-      "title": "Creality Developing Belt-Driven Desktop 3D Printer « Fabbaloo",
-      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
+      "title": "CubeSat interplanetary exploration is heating up",
+      "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
     },
     {
       "rank": "11.",
-      "title": "AES Finder – the utility to find AES keys in running process memory",
-      "link": "https://github.com/MantechUser/aes-finder"
+      "title": "Free Transit for Riders Under 18? In Paris, It’s Here",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/why-paris-dropped-transit-fares-for-young-riders"
     },
     {
       "rank": "12.",
-      "title": "The Stack Monoid",
-      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
+      "title": "AES Finder – the utility to find AES keys in running process memory",
+      "link": "https://github.com/MantechUser/aes-finder"
     },
     {
       "rank": "13.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "How to take back control of /etc/resolv.conf on Linux (2018)",
-      "link": "https://www.ctrl.blog/entry/resolvconf-tutorial.html"
-    },
-    {
-      "rank": "16.",
       "title": "Mystery seeds: Amazon bans foreign plant sales in US",
       "link": "https://www.bbc.com/news/world-us-canada-54046154"
     },
     {
+      "rank": "16.",
+      "title": "How to take back control of /etc/resolv.conf on Linux (2018)",
+      "link": "https://www.ctrl.blog/entry/resolvconf-tutorial.html"
+    },
+    {
       "rank": "17.",
-      "title": "Data Broker Opt-Out List",
-      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
+      "title": "Amazon is filled with fake reviews and it’s getting harder to spot them",
+      "link": "https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html"
     },
     {
       "rank": "18.",
-      "title": "Amazon is filled with fake reviews and it’s getting harder to spot them",
-      "link": "https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html"
+      "title": "Data Broker Opt-Out List",
+      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
     },
     {
       "rank": "19.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Hong Kong mourns the end of its way of life",
-      "link": "https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/"
-    },
-    {
-      "rank": "27.",
       "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
       "link": "https://sensible-side-buttons.archagon.net"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "LibreOffice Online API",
       "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
     },
     {
+      "rank": "28.",
+      "title": "Hong Kong mourns the end of its way of life",
+      "link": "https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/"
+    },
+    {
       "rank": "29.",
-      "title": "Can Greek Tragedy Get Us Through the Pandemic?",
-      "link": "https://www.newyorker.com/culture/culture-desk/can-greek-tragedy-get-us-through-the-pandemic"
+      "title": "Show HN: Parallelise pipelines of Python async iterables",
+      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
     },
     {
       "rank": "30.",
-      "title": "Yacd – Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required",
-      "link": "https://github.com/DerekSelander/yacd"
+      "title": "Can Greek Tragedy Get Us Through the Pandemic?",
+      "link": "https://www.newyorker.com/culture/culture-desk/can-greek-tragedy-get-us-through-the-pandemic"
     }
   ],
   "metadata": {
