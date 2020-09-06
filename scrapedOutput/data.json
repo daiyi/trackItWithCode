@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Compiling a Lisp to x86-64: primitive functions",
-      "link": "https://bernsteinbear.com/blog/compiling-a-lisp-4/"
+      "title": "More than half of 18 to 29-year-olds in the US are living with parents",
+      "link": "https://www.msn.com/en-us/news/us/more-than-half-of-18-to-29-year-olds-in-the-us-are-living-with-parents/ar-BB18Khdk?li=BBnb7Kz"
     },
     {
       "rank": "5.",
-      "title": "More than half of 18 to 29-year-olds in the US are living with parents",
-      "link": "https://www.msn.com/en-us/news/us/more-than-half-of-18-to-29-year-olds-in-the-us-are-living-with-parents/ar-BB18Khdk?li=BBnb7Kz"
+      "title": "Compiling a Lisp to x86-64: primitive functions",
+      "link": "https://bernsteinbear.com/blog/compiling-a-lisp-4/"
     },
     {
       "rank": "6.",
@@ -82,38 +82,38 @@
     },
     {
       "rank": "17.",
-      "title": "Show HN: Linux sysadmin course, eight years on",
-      "link": "item?id=24380969"
-    },
-    {
-      "rank": "18.",
-      "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
-      "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
-    },
-    {
-      "rank": "19.",
       "title": "Chess is taking over the online video game streaming world and it will change",
       "link": "https://scroll.in/field/972176/game-theory-chess-is-taking-over-the-online-video-game-streaming-world-and-that-will-change-it-too"
     },
     {
+      "rank": "18.",
+      "title": "Show HN: Linux sysadmin course, eight years on",
+      "link": "item?id=24380969"
+    },
+    {
+      "rank": "19.",
+      "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
+      "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
+    },
+    {
       "rank": "20.",
+      "title": "OnlyOffice is an alternative to LibreOffice",
+      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
+    },
+    {
+      "rank": "21.",
       "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
       "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "A Second Chance",
       "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Symbolic Plane Geometry Calculator",
       "link": "https://geometryexpressions.com/gxweb/"
-    },
-    {
-      "rank": "23.",
-      "title": "Mathematicians should stop naming things after each other",
-      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "What anarchy isn't (free eBook)",
-      "link": "https://www.dropbox.com/s/yd18waixbva1jae/WhatAnarchyIsnt-FREEBIE.pdf?dl=0"
+      "title": "Mathematicians should stop naming things after each other",
+      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
     },
     {
       "rank": "26.",
-      "title": "Show HN: Glowbom – Using voice to make software",
-      "link": "https://glowbom.com/"
-    },
-    {
-      "rank": "27.",
-      "title": "Plague-bearing fleas spark closures at popular Lake Tahoe sites",
-      "link": "https://www.sfgate.com/renotahoe/article/Plague-bearing-fleas-spark-closures-at-popular-15541389.php"
-    },
-    {
-      "rank": "28.",
-      "title": "Ask HN: Suggestions for books about API design?",
-      "link": "item?id=24383180"
-    },
-    {
-      "rank": "29.",
       "title": "Making the Grade",
       "link": "https://www.verticallifemag.com.au/2020/08/making-the-grade/"
     },
     {
+      "rank": "27.",
+      "title": "Show HN: Glowbom – Using voice to make software",
+      "link": "https://glowbom.com/"
+    },
+    {
+      "rank": "28.",
+      "title": "Plague-bearing fleas spark closures at popular Lake Tahoe sites",
+      "link": "https://www.sfgate.com/renotahoe/article/Plague-bearing-fleas-spark-closures-at-popular-15541389.php"
+    },
+    {
+      "rank": "29.",
+      "title": "Ask HN: Suggestions for books about API design?",
+      "link": "item?id=24383180"
+    },
+    {
       "rank": "30.",
-      "title": "Show HN: Talk – A free group video call app with screen sharing",
-      "link": "https://github.com/vasanthv/talk"
+      "title": "The User Always Loses",
+      "link": "https://www.thenation.com/article/culture/joanne-mcneil-lurking-review/tnamp"
     }
   ],
   "metadata": {
