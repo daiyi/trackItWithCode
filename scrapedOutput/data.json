@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Show HN: Revived my personal website to join the nostalgia",
-      "link": "https://gasoved.github.io/webbew/"
+      "title": "Daniel J. Bernstein's IM2000 email proposal is not a good idea",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/IM2000NotGoodIdea"
     },
     {
       "rank": "5.",
-      "title": "Daniel J. Bernstein's IM2000 email proposal is not a good idea",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/IM2000NotGoodIdea"
+      "title": "Show HN: Revived my personal website to join the nostalgia",
+      "link": "https://gasoved.github.io/webbew/"
     },
     {
       "rank": "6.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
+      "title": "Compiling a Lisp to x86-64: primitive functions",
+      "link": "https://bernsteinbear.com/blog/compiling-a-lisp-4/"
+    },
+    {
+      "rank": "9.",
       "title": "The Last Gunsmiths of the Khyber Pass",
       "link": "https://silahreport.com/2019/08/23/the-last-gunsmiths-of-the-khyber-pass/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Graph Representations for Higher-Order Logic and Theorem Proving",
       "link": "https://arxiv.org/abs/1905.10006"
-    },
-    {
-      "rank": "10.",
-      "title": "Compiling a Lisp to x86-64: primitive functions",
-      "link": "https://bernsteinbear.com/blog/compiling-a-lisp-4/"
     },
     {
       "rank": "11.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Getting Color Output out of a TI-99/4A",
-      "link": "https://netzhansa.com/ti99-4a-color/"
+      "title": "I can't believe I'm praising Tcl (2008)",
+      "link": "http://yosefk.com/blog/i-cant-believe-im-praising-tcl.html"
     },
     {
       "rank": "13.",
-      "title": "I can't believe I'm praising Tcl (2008)",
-      "link": "http://yosefk.com/blog/i-cant-believe-im-praising-tcl.html"
+      "title": "Getting Color Output out of a TI-99/4A",
+      "link": "https://netzhansa.com/ti99-4a-color/"
     },
     {
       "rank": "14.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "Show HN: Linux sysadmin course, eight years on",
-      "link": "item?id=24380969"
+      "title": "OnlyOffice is an alternative to LibreOffice",
+      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
     },
     {
       "rank": "26.",
-      "title": "OnlyOffice is an alternative to LibreOffice",
-      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
+      "title": "Show HN: Linux sysadmin course, eight years on",
+      "link": "item?id=24380969"
     },
     {
       "rank": "27.",
