@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "AES Finder – the utility to find AES keys in running process memory",
-      "link": "https://github.com/MantechUser/aes-finder"
+      "title": "Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers",
+      "link": "https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099"
     },
     {
       "rank": "4.",
-      "title": "How to take back control of /etc/resolv.conf on Linux (2018)",
-      "link": "https://www.ctrl.blog/entry/resolvconf-tutorial.html"
+      "title": "AES Finder – the utility to find AES keys in running process memory",
+      "link": "https://github.com/MantechUser/aes-finder"
     },
     {
       "rank": "5.",
@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
-      "title": "We want to live in a world free of chemical weapons",
-      "link": "https://www.opcw.org/about-us"
+      "title": "How to take back control of /etc/resolv.conf on Linux (2018)",
+      "link": "https://www.ctrl.blog/entry/resolvconf-tutorial.html"
     },
     {
       "rank": "7.",
-      "title": "Graviton Database: ZFS for key-value stores",
-      "link": "https://github.com/deroproject/graviton"
+      "title": "Hong Kong mourns the end of its way of life",
+      "link": "https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/"
     },
     {
       "rank": "8.",
-      "title": "Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers",
-      "link": "https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099"
+      "title": "Graviton Database: ZFS for key-value stores",
+      "link": "https://github.com/deroproject/graviton"
     },
     {
       "rank": "9.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "LibreOffice Online API",
-      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
+      "title": "Understanding OAuth2 and OpenID Connect",
+      "link": "https://www.polarsparc.com/2020/09/06/oauth2-oidc/"
     },
     {
       "rank": "12.",
@@ -72,63 +72,63 @@
     },
     {
       "rank": "15.",
-      "title": "Show HN: Revived my personal website to join the nostalgia",
-      "link": "https://gasoved.github.io/webbew/"
-    },
-    {
-      "rank": "16.",
       "title": "Graph Representations for Higher-Order Logic and Theorem Proving (2019)",
       "link": "https://arxiv.org/abs/1905.10006"
     },
     {
+      "rank": "16.",
+      "title": "Show HN: Revived my personal website to join the nostalgia",
+      "link": "https://gasoved.github.io/webbew/"
+    },
+    {
       "rank": "17.",
-      "title": "Code Health: Make Interfaces Hard to Misuse (2018)",
-      "link": "https://testing.googleblog.com/2018/07/code-health-make-interfaces-hard-to.html"
+      "title": "LibreOffice Online API",
+      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
     },
     {
       "rank": "18.",
-      "title": "Winner of French Scrabble Title Does Not Speak French (2015)",
-      "link": "https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french"
-    },
-    {
-      "rank": "19.",
-      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
-      "link": "https://github.com/saadmk11/django-newsfeed"
-    },
-    {
-      "rank": "20.",
-      "title": "A Free Software OS for the ReMarkable E-Paper Tablet",
-      "link": "https://hackaday.com/2020/09/06/a-free-software-os-for-the-remarkable-e-paper-tablet/"
-    },
-    {
-      "rank": "21.",
-      "title": "Only one in ten medical treatments are backed by high-quality evidence",
-      "link": "https://theconversation.com/only-one-in-ten-medical-treatments-are-backed-by-high-quality-evidence-145224"
-    },
-    {
-      "rank": "22.",
       "title": "MCPU emulator and ATTiny85 port",
       "link": "http://jborza.com/emulation/2020/09/05/mcpu-emulator.html"
     },
     {
-      "rank": "23.",
+      "rank": "19.",
+      "title": "Code Health: Make Interfaces Hard to Misuse (2018)",
+      "link": "https://testing.googleblog.com/2018/07/code-health-make-interfaces-hard-to.html"
+    },
+    {
+      "rank": "20.",
+      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
+      "link": "https://github.com/saadmk11/django-newsfeed"
+    },
+    {
+      "rank": "21.",
       "title": "Principles for Better Design",
       "link": "https://reflexio.debec.eu/principles-for-better-design"
     },
     {
-      "rank": "24.",
+      "rank": "22.",
       "title": "The Minecraft Institvte of Technology",
       "link": "https://www.technologyreview.com/2020/08/18/1006217/the-minecraft-institvte-of-technology/"
     },
     {
+      "rank": "23.",
+      "title": "A Free Software OS for the ReMarkable E-Paper Tablet",
+      "link": "https://hackaday.com/2020/09/06/a-free-software-os-for-the-remarkable-e-paper-tablet/"
+    },
+    {
+      "rank": "24.",
+      "title": "We want to live in a world free of chemical weapons",
+      "link": "https://www.opcw.org/about-us"
+    },
+    {
       "rank": "25.",
-      "title": "The Last Gunsmiths of the Khyber Pass",
-      "link": "https://silahreport.com/2019/08/23/the-last-gunsmiths-of-the-khyber-pass/"
+      "title": "Orange Health (YC S20) Is Hiring Front End React Engineers in India",
+      "link": "https://www.orangehealth.in/jobs/experienced-front-end-engineer-(react-native)"
     },
     {
       "rank": "26.",
-      "title": "Orange Health (YC S20) Is Hiring Front End React Engineers in India",
-      "link": "https://www.orangehealth.in/jobs/experienced-front-end-engineer-(react-native)"
+      "title": "Google proposed Web Bundles could threaten the Web as we know it",
+      "link": "https://www.ghacks.net/2020/08/30/google-proposed-web-bundles-could-threaten-the-web-as-we-know-it/"
     },
     {
       "rank": "27.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Big Ass Data Broker Opt-Out List",
-      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
+      "title": "The Last Gunsmiths of the Khyber Pass",
+      "link": "https://silahreport.com/2019/08/23/the-last-gunsmiths-of-the-khyber-pass/"
     },
     {
       "rank": "30.",
-      "title": "Google proposed Web Bundles could threaten the Web as we know it",
-      "link": "https://www.ghacks.net/2020/08/30/google-proposed-web-bundles-could-threaten-the-web-as-we-know-it/"
+      "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
+      "link": "https://sensible-side-buttons.archagon.net"
     }
   ],
   "metadata": {
