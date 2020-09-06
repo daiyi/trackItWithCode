@@ -27,23 +27,23 @@
     },
     {
       "rank": "6.",
-      "title": "LibreOffice Online API",
-      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
-    },
-    {
-      "rank": "7.",
       "title": "Mystery seeds: Amazon bans foreign plant sales in US",
       "link": "https://www.bbc.com/news/world-us-canada-54046154"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Show HN: Parallelise pipelines of Python async iterables",
       "link": "https://github.com/michalc/asyncio-buffered-pipeline"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "We want to live in a world free of chemical weapons",
       "link": "https://www.opcw.org/about-us"
+    },
+    {
+      "rank": "9.",
+      "title": "What’s the digital equivalent of sticky notes?",
+      "link": "https://julian.digital/2020/09/04/a-meta-layer-for"
     },
     {
       "rank": "10.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
-      "title": "Yacd – Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required",
-      "link": "https://github.com/DerekSelander/yacd"
-    },
-    {
-      "rank": "12.",
       "title": "Habitica – A gamified habit-building and productivity app",
       "link": "https://habitica.com/static/home"
     },
     {
+      "rank": "12.",
+      "title": "LibreOffice Online API",
+      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
+    },
+    {
       "rank": "13.",
-      "title": "'You're Not Allowed to Film': The Fight to Control Who Reports from Portland",
-      "link": "https://reason.com/2020/09/04/youre-not-allowed-to-film-the-fight-for-control-over-who-reports-from-portland/"
+      "title": "Yacd – Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required",
+      "link": "https://github.com/DerekSelander/yacd"
     },
     {
       "rank": "14.",
@@ -87,68 +87,68 @@
     },
     {
       "rank": "18.",
-      "title": "MCPU Emulator (and ATTiny85 Port)",
-      "link": "http://jborza.com/emulation/2020/09/05/mcpu-emulator.html"
-    },
-    {
-      "rank": "19.",
       "title": "Winner of French Scrabble Title Does Not Speak French (2015)",
       "link": "https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
       "link": "https://github.com/saadmk11/django-newsfeed"
     },
     {
+      "rank": "20.",
+      "title": "MCPU Emulator (and ATTiny85 Port)",
+      "link": "http://jborza.com/emulation/2020/09/05/mcpu-emulator.html"
+    },
+    {
       "rank": "21.",
-      "title": "A Free Software OS for the ReMarkable E-Paper Tablet",
-      "link": "https://hackaday.com/2020/09/06/a-free-software-os-for-the-remarkable-e-paper-tablet/"
-    },
-    {
-      "rank": "22.",
-      "title": "Google proposed Web Bundles could threaten the Web as we know it",
-      "link": "https://www.ghacks.net/2020/08/30/google-proposed-web-bundles-could-threaten-the-web-as-we-know-it/"
-    },
-    {
-      "rank": "23.",
       "title": "Principles for Better Design",
       "link": "https://reflexio.debec.eu/principles-for-better-design"
     },
     {
+      "rank": "22.",
+      "title": "A Free Software OS for the ReMarkable E-Paper Tablet",
+      "link": "https://hackaday.com/2020/09/06/a-free-software-os-for-the-remarkable-e-paper-tablet/"
+    },
+    {
+      "rank": "23.",
+      "title": "'You're Not Allowed to Film': The Fight to Control Who Reports from Portland",
+      "link": "https://reason.com/2020/09/04/youre-not-allowed-to-film-the-fight-for-control-over-who-reports-from-portland/"
+    },
+    {
       "rank": "24.",
-      "title": "The Last Gunsmiths of the Khyber Pass",
-      "link": "https://silahreport.com/2019/08/23/the-last-gunsmiths-of-the-khyber-pass/"
+      "title": "Only one in ten medical treatments are backed by high-quality evidence",
+      "link": "https://theconversation.com/only-one-in-ten-medical-treatments-are-backed-by-high-quality-evidence-145224"
     },
     {
       "rank": "25.",
-      "title": "Orange Health (YC S20) Is Hiring Front End React Engineers in India",
-      "link": "https://www.orangehealth.in/jobs/experienced-front-end-engineer-(react-native)"
-    },
-    {
-      "rank": "26.",
       "title": "The Minecraft Institvte of Technology",
       "link": "https://www.technologyreview.com/2020/08/18/1006217/the-minecraft-institvte-of-technology/"
     },
     {
+      "rank": "26.",
+      "title": "Orange Health (YC S20) Is Hiring Front End React Engineers in India",
+      "link": "https://www.orangehealth.in/jobs/experienced-front-end-engineer-(react-native)"
+    },
+    {
       "rank": "27.",
+      "title": "The Last Gunsmiths of the Khyber Pass",
+      "link": "https://silahreport.com/2019/08/23/the-last-gunsmiths-of-the-khyber-pass/"
+    },
+    {
+      "rank": "28.",
+      "title": "Google proposed Web Bundles could threaten the Web as we know it",
+      "link": "https://www.ghacks.net/2020/08/30/google-proposed-web-bundles-could-threaten-the-web-as-we-know-it/"
+    },
+    {
+      "rank": "29.",
       "title": "PDP 11/70 Emulator (2020)",
       "link": "https://skn.noip.me/pdp11/pdp11.html"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Show HN: A minimal stack based VM in C",
       "link": "https://github.com/codr7/liblg"
-    },
-    {
-      "rank": "29.",
-      "title": "Big Ass Data Broker Opt-Out List",
-      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
-    },
-    {
-      "rank": "30.",
-      "title": "AIX or Linux on Power",
-      "link": "http://gibsonnet.net/blog/cgaix/html/AIX%20or%20Linux%20on%20POWER.html"
     }
   ],
   "metadata": {
