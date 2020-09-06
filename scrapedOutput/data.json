@@ -7,43 +7,43 @@
     },
     {
       "rank": "2.",
-      "title": "Common color mistakes and how to avoid them",
-      "link": "https://blog.datawrapper.de/beautifulcolors/"
-    },
-    {
-      "rank": "3.",
       "title": "Attention is your scarcest resource",
       "link": "https://www.benkuhn.net/attention/"
     },
     {
-      "rank": "4.",
-      "title": "Unlimited Information Is Transforming Society",
-      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
+      "rank": "3.",
+      "title": "Common color mistakes and how to avoid them",
+      "link": "https://blog.datawrapper.de/beautifulcolors/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "The Stack Monoid",
       "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
     },
     {
+      "rank": "5.",
+      "title": "Unlimited Information Is Transforming Society",
+      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
+    },
+    {
       "rank": "6.",
-      "title": "Creality Developing Belt-Driven Desktop 3D Printer « Fabbaloo",
-      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
+      "title": "Hard to discover tips and apps for macOS",
+      "link": "https://thume.ca/2020/09/04/macos-tips/"
     },
     {
       "rank": "7.",
-      "title": "Fennel – Lisp in Lua",
-      "link": "https://fennel-lang.org"
-    },
-    {
-      "rank": "8.",
       "title": "CubeSat interplanetary exploration is heating up",
       "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
     },
     {
+      "rank": "8.",
+      "title": "Creality Developing Belt-Driven Desktop 3D Printer « Fabbaloo",
+      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
+    },
+    {
       "rank": "9.",
-      "title": "Free Transit for Riders Under 18? In Paris, It’s Here",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-03/why-paris-dropped-transit-fares-for-young-riders"
+      "title": "Fennel – Lisp in Lua",
+      "link": "https://fennel-lang.org"
     },
     {
       "rank": "10.",
@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "Hard to discover tips and apps for macOS",
-      "link": "https://thume.ca/2020/09/04/macos-tips/"
-    },
-    {
-      "rank": "12.",
       "title": "AES Finder – the utility to find AES keys in running process memory",
       "link": "https://github.com/MantechUser/aes-finder"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Tech workers flee Belarus as IT haven takes authoritarian turn",
       "link": "https://www.bloombergquint.com/businessweek/belarus-protests-tech-workers-flee-as-country-takes-authoritarian-turn"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/2020/09/06/oauth2-oidc/"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Amazon is filled with fake reviews and it’s getting harder to spot them",
       "link": "https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html"
+    },
+    {
+      "rank": "15.",
+      "title": "Mystery seeds: Amazon bans foreign plant sales in US",
+      "link": "https://www.bbc.com/news/world-us-canada-54046154"
     },
     {
       "rank": "16.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
-      "title": "Mystery seeds: Amazon bans foreign plant sales in US",
-      "link": "https://www.bbc.com/news/world-us-canada-54046154"
-    },
-    {
-      "rank": "19.",
-      "title": "Data Broker Opt-Out List",
-      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
-    },
-    {
-      "rank": "20.",
       "title": "A Meta-Layer for Notes",
       "link": "https://julian.digital/2020/09/04/a-meta-layer-for"
     },
     {
-      "rank": "21.",
+      "rank": "19.",
+      "title": "The New Neuroscience of Stuttering",
+      "link": "https://www.knowablemagazine.org/article/mind/2020/new-neuroscience-stuttering"
+    },
+    {
+      "rank": "20.",
       "title": "Graviton Database: ZFS for key-value stores",
       "link": "https://github.com/deroproject/graviton"
+    },
+    {
+      "rank": "21.",
+      "title": "Is There a Google-Free Future for Firefox?",
+      "link": "https://www.forbes.com/sites/barrycollins/2020/09/03/is-there-a-google-free-future-for-firefox/"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "Is There a Google-Free Future for Firefox?",
-      "link": "https://www.forbes.com/sites/barrycollins/2020/09/03/is-there-a-google-free-future-for-firefox/"
+      "title": "Kintsugi",
+      "link": "https://en.wikipedia.org/wiki/Kintsugi"
     },
     {
       "rank": "24.",
+      "title": "Free Transit for Riders Under 18? In Paris, It’s Here",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/why-paris-dropped-transit-fares-for-young-riders"
+    },
+    {
+      "rank": "25.",
       "title": "Pass the Payment Choice Act",
       "link": "https://www.eff.org/deeplinks/2020/09/pass-payment-choice-act"
     },
     {
-      "rank": "25.",
-      "title": "Habitica – A gamified habit-building and productivity app",
-      "link": "https://habitica.com/static/home"
-    },
-    {
       "rank": "26.",
-      "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
-      "link": "https://sensible-side-buttons.archagon.net"
-    },
-    {
-      "rank": "27.",
-      "title": "LibreOffice Online API",
-      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
-    },
-    {
-      "rank": "28.",
       "title": "Worries grow over a K-shaped economic recovery that favors the wealthy",
       "link": "https://www.cnbc.com/2020/09/04/worries-grow-over-a-k-shaped-economic-recovery-that-favors-the-wealthy.html"
     },
     {
+      "rank": "27.",
+      "title": "Habitica – A gamified habit-building and productivity app",
+      "link": "https://habitica.com/static/home"
+    },
+    {
+      "rank": "28.",
+      "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
+      "link": "https://sensible-side-buttons.archagon.net"
+    },
+    {
       "rank": "29.",
-      "title": "Can Greek Tragedy Get Us Through the Pandemic?",
-      "link": "https://www.newyorker.com/culture/culture-desk/can-greek-tragedy-get-us-through-the-pandemic"
+      "title": "Show HN: Parallelise pipelines of Python async iterables",
+      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
     },
     {
       "rank": "30.",
-      "title": "Show HN: Parallelise pipelines of Python async iterables",
-      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
+      "title": "LibreOffice Online API",
+      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
     }
   ],
   "metadata": {
