@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "Just because it's there doesn't mean you should use it",
-      "link": "http://rachelbythebay.com/w/2020/09/05/wire/"
+      "title": "Big Ass Data Broker Opt-Out List",
+      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
     },
     {
       "rank": "3.",
@@ -17,33 +17,33 @@
     },
     {
       "rank": "4.",
+      "title": "Just because it's there doesn't mean you should use it",
+      "link": "http://rachelbythebay.com/w/2020/09/05/wire/"
+    },
+    {
+      "rank": "5.",
       "title": "Traffic Prediction with Advanced Graph Neural Networks",
       "link": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
+      "title": "Show HN: Revived my personal website to join the nostalgia",
+      "link": "https://gasoved.github.io/webbew/"
+    },
+    {
+      "rank": "7.",
       "title": "Compiling a Lisp to x86-64: primitive functions",
       "link": "https://bernsteinbear.com/blog/compiling-a-lisp-4/"
     },
     {
-      "rank": "6.",
-      "title": "Ask HN: How can I prevent myself from being doxxed?",
-      "link": "item?id=24388442"
-    },
-    {
-      "rank": "7.",
+      "rank": "8.",
       "title": "China Launches a 'Reusable Experimental Spacecraft'",
       "link": "https://sattrackcam.blogspot.com/2020/09/china-launches-reusable-experimental.html"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "The Birth of Wheelchair Basketball",
       "link": "https://www.zocalopublicsquare.org/2020/09/02/wheelchair-basketball-history-veterans-disability-rights/ideas/essay/"
-    },
-    {
-      "rank": "9.",
-      "title": "Getting Color Output out of a TI-99/4A",
-      "link": "https://netzhansa.com/ti99-4a-color/"
     },
     {
       "rank": "10.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "More than half of 18 to 29-year-olds in the US are living with parents",
-      "link": "https://www.msn.com/en-us/news/us/more-than-half-of-18-to-29-year-olds-in-the-us-are-living-with-parents/ar-BB18Khdk?li=BBnb7Kz"
+      "title": "Show HN: A minimal stack based VM in C",
+      "link": "https://github.com/codr7/liblg"
     },
     {
       "rank": "12.",
-      "title": "8086 Microcode Disassembled",
-      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
+      "title": "Getting Color Output out of a TI-99/4A",
+      "link": "https://netzhansa.com/ti99-4a-color/"
     },
     {
       "rank": "13.",
@@ -67,63 +67,63 @@
     },
     {
       "rank": "14.",
+      "title": "8086 Microcode Disassembled",
+      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
+    },
+    {
+      "rank": "15.",
+      "title": "More than half of 18 to 29-year-olds in the US are living with parents",
+      "link": "https://www.msn.com/en-us/news/us/more-than-half-of-18-to-29-year-olds-in-the-us-are-living-with-parents/ar-BB18Khdk?li=BBnb7Kz"
+    },
+    {
+      "rank": "16.",
       "title": "The Memory Area Network at the Heart of IBM’s Power10",
       "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
     },
     {
-      "rank": "15.",
+      "rank": "17.",
       "title": "Growing a Language (1998) [video]",
       "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
     },
     {
-      "rank": "16.",
+      "rank": "18.",
       "title": "The Evolution of Psychiatry",
       "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
     },
     {
-      "rank": "17.",
+      "rank": "19.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
     },
     {
-      "rank": "18.",
-      "title": "Getting paid not to use Facebook",
-      "link": "https://imgur.com/a/AJXKetl"
-    },
-    {
-      "rank": "19.",
+      "rank": "20.",
       "title": "OnlyOffice is an alternative to LibreOffice",
       "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
+      "title": "Getting paid not to use Facebook",
+      "link": "https://imgur.com/a/AJXKetl"
+    },
+    {
+      "rank": "22.",
       "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
       "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "Chess is taking over the online video game streaming world and it will change",
       "link": "https://scroll.in/field/972176/game-theory-chess-is-taking-over-the-online-video-game-streaming-world-and-that-will-change-it-too"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
       "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
       "link": "https://observablehq.com/@jrus/scpie"
-    },
-    {
-      "rank": "24.",
-      "title": "Symbolic Plane Geometry Calculator",
-      "link": "https://geometryexpressions.com/gxweb/"
-    },
-    {
-      "rank": "25.",
-      "title": "A Second Chance",
-      "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Mathematicians should stop naming things after each other",
-      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
-    },
-    {
-      "rank": "28.",
       "title": "Show HN: Glowbom – Using voice to make software",
       "link": "https://glowbom.com/"
     },
     {
+      "rank": "28.",
+      "title": "Symbolic Plane Geometry Calculator",
+      "link": "https://geometryexpressions.com/gxweb/"
+    },
+    {
       "rank": "29.",
-      "title": "Ask HN: Suggestions for books about API design?",
-      "link": "item?id=24383180"
+      "title": "A Second Chance",
+      "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
     },
     {
       "rank": "30.",
-      "title": "Plague-bearing fleas spark closures at popular Lake Tahoe sites",
-      "link": "https://www.sfgate.com/renotahoe/article/Plague-bearing-fleas-spark-closures-at-popular-15541389.php"
+      "title": "Mathematicians should stop naming things after each other",
+      "link": "http://nautil.us/issue/89/the-dark-side/why-mathematicians-should-stop-naming-things-after-each-other"
     }
   ],
   "metadata": {
