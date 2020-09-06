@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "The Right to Repair could help address a critical shortage in school computers",
-      "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
-    },
-    {
-      "rank": "2.",
       "title": "Noita – roguelite where every pixel is simulated",
       "link": "https://noitagame.com/"
     },
     {
+      "rank": "2.",
+      "title": "The Right to Repair could help address a critical shortage in school computers",
+      "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
+    },
+    {
       "rank": "3.",
-      "title": "Attention is your scarcest resource",
-      "link": "https://www.benkuhn.net/attention/"
+      "title": "Ultimate Python Study Guide",
+      "link": "https://github.com/huangsam/ultimate-python"
     },
     {
       "rank": "4.",
@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "With a Simple Piece of Paper, Engineers Create Self-Powered, Wireless Keyboard",
-      "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
+      "title": "Attention is your scarcest resource",
+      "link": "https://www.benkuhn.net/attention/"
     },
     {
       "rank": "6.",
@@ -32,28 +32,28 @@
     },
     {
       "rank": "7.",
-      "title": "Ultimate Python Study Guide",
-      "link": "https://github.com/huangsam/ultimate-python"
+      "title": "With a simple piece of paper, engineers create self-powered, wireless keyboard",
+      "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
     },
     {
       "rank": "8.",
+      "title": "Beef Fat Prevents Alcoholic Liver Disease in the Rat",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1530-0277.1989.tb00276.x"
+    },
+    {
+      "rank": "9.",
       "title": "The Stack Monoid",
       "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Unlimited Information Is Transforming Society",
       "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Fennel – Lisp in Lua",
       "link": "https://fennel-lang.org"
-    },
-    {
-      "rank": "11.",
-      "title": "Creality Developing Belt-Driven Desktop 3D Printer « Fabbaloo",
-      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
     },
     {
       "rank": "12.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "How to Hide a Billion Dollars: Three Techniques the Ultrarich Use to Dodge Ex-Sp",
-      "link": "https://www.forbes.com/sites/christopherhelman/2020/09/04/how-to-hide-a-billion-dollars-three-techniques-the-ultra-rich-use-to-dodge-ex-spouses-the-taxman-and-disgruntled-business-partners/#5b681a8a5994"
+      "title": "Asynchronously Opening and Closing Files in Asyncio",
+      "link": "https://nullprogram.com/blog/2020/09/04/"
     },
     {
       "rank": "16.",
@@ -82,28 +82,28 @@
     },
     {
       "rank": "17.",
+      "title": "How to Hide a Billion Dollars: Three Techniques the Ultrarich Use to Dodge Ex-Sp",
+      "link": "https://www.forbes.com/sites/christopherhelman/2020/09/04/how-to-hide-a-billion-dollars-three-techniques-the-ultra-rich-use-to-dodge-ex-spouses-the-taxman-and-disgruntled-business-partners/#5b681a8a5994"
+    },
+    {
+      "rank": "18.",
+      "title": "The Ocean Is Struggling to Breathe, Too",
+      "link": "http://oceans.nautil.us/feature/613/the-ocean-is-struggling-to-breathe-too"
+    },
+    {
+      "rank": "19.",
+      "title": "The New Neuroscience of Stuttering",
+      "link": "https://www.knowablemagazine.org/article/mind/2020/new-neuroscience-stuttering"
+    },
+    {
+      "rank": "20.",
       "title": "AES Finder – the utility to find AES keys in running process memory",
       "link": "https://github.com/MantechUser/aes-finder"
     },
     {
-      "rank": "18.",
-      "title": "Beef Fat Prevents Alcoholic Liver Disease in the Rat",
-      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1530-0277.1989.tb00276.x"
-    },
-    {
-      "rank": "19.",
+      "rank": "21.",
       "title": "Tech workers flee Belarus as IT haven takes authoritarian turn",
       "link": "https://www.bloombergquint.com/businessweek/belarus-protests-tech-workers-flee-as-country-takes-authoritarian-turn"
-    },
-    {
-      "rank": "20.",
-      "title": "Asynchronously Opening and Closing Files in Asyncio",
-      "link": "https://nullprogram.com/blog/2020/09/04/"
-    },
-    {
-      "rank": "21.",
-      "title": "The New Neuroscience of Stuttering",
-      "link": "https://www.knowablemagazine.org/article/mind/2020/new-neuroscience-stuttering"
     },
     {
       "rank": "22.",
@@ -117,13 +117,13 @@
     },
     {
       "rank": "24.",
-      "title": "The Silent Flight of Owls, Explained",
-      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
+      "title": "Carmack on not being a power editor user",
+      "link": "https://twitter.com/id_aa_carmack/status/1302651878065475584"
     },
     {
       "rank": "25.",
-      "title": "Carmack on not being a power text editor user",
-      "link": "https://twitter.com/id_aa_carmack/status/1302651878065475584"
+      "title": "Facebook security app used to 'spy' on competitors (2019)",
+      "link": "https://www.bbc.co.uk/news/technology-47281906"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "The Silent Flight of Owls, Explained",
+      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
+    },
+    {
+      "rank": "28.",
       "title": "Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers",
       "link": "https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "A Meta-Layer for Notes",
       "link": "https://julian.digital/2020/09/04/a-meta-layer-for"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/2020/09/06/oauth2-oidc/"
-    },
-    {
-      "rank": "30.",
-      "title": "The Ocean Is Struggling to Breathe, Too",
-      "link": "http://oceans.nautil.us/feature/613/the-ocean-is-struggling-to-breathe-too"
     }
   ],
   "metadata": {
