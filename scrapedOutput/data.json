@@ -2,7 +2,7 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Winner of French Scrabble Title Does Not Speak French",
+      "title": "Winner of French Scrabble Title Does Not Speak French (2015)",
       "link": "https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french"
     },
     {
@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "8086 Microcode Disassembled",
-      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
+      "title": "The Birth of Wheelchair Basketball",
+      "link": "https://www.zocalopublicsquare.org/2020/09/02/wheelchair-basketball-history-veterans-disability-rights/ideas/essay/"
     },
     {
       "rank": "7.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
+      "title": "8086 Microcode Disassembled",
+      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
+    },
+    {
+      "rank": "9.",
       "title": "The Memory Area Network at the Heart of IBM’s Power10",
       "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
     },
     {
-      "rank": "9.",
-      "title": "The Birth of Wheelchair Basketball",
-      "link": "https://www.zocalopublicsquare.org/2020/09/02/wheelchair-basketball-history-veterans-disability-rights/ideas/essay/"
-    },
-    {
       "rank": "10.",
-      "title": "The Case for Adding 672 Million More Americans",
-      "link": "https://nymag.com/intelligencer/2020/08/one-billion-americans-by-matthew-yglesias-book-excerpt.html"
+      "title": "Growing a Language (1998) [video]",
+      "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
     },
     {
       "rank": "11.",
@@ -62,33 +62,33 @@
     },
     {
       "rank": "13.",
-      "title": "Growing a Language (1998) [video]",
-      "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
-    },
-    {
-      "rank": "14.",
       "title": "Fastcore: A library that extends Python with new features",
       "link": "https://fastpages.fast.ai/fastcore/"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
       "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Toilets in a Medieval Castle (2018)",
       "link": "https://www.ancient.eu/article/1239/toilets-in-a-medieval-castle/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
       "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
+    },
+    {
+      "rank": "18.",
+      "title": "Thermoelectric Stoves: Ditch the Solar Panels?",
+      "link": "https://solar.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html"
     },
     {
       "rank": "19.",
@@ -97,23 +97,23 @@
     },
     {
       "rank": "20.",
-      "title": "Tesla's 'Full Self-Driving Capability' Falls Short of Its Name",
-      "link": "https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/"
-    },
-    {
-      "rank": "21.",
       "title": "Making the Grade",
       "link": "https://www.verticallifemag.com.au/2020/08/making-the-grade/"
     },
     {
+      "rank": "21.",
+      "title": "A Second Chance",
+      "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
+    },
+    {
       "rank": "22.",
-      "title": "Thermoelectric Stoves: Ditch the Solar Panels?",
-      "link": "https://solar.lowtechmagazine.com/2020/05/thermoelectric-stoves-ditch-the-solar-panels.html"
+      "title": "The Case for Adding 672 Million More Americans",
+      "link": "https://nymag.com/intelligencer/2020/08/one-billion-americans-by-matthew-yglesias-book-excerpt.html"
     },
     {
       "rank": "23.",
-      "title": "A Second Chance",
-      "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
+      "title": "Get paid NOT to use Facebook? I'm in",
+      "link": "https://imgur.com/a/AJXKetl"
     },
     {
       "rank": "24.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Getting Users Is Hard",
-      "link": "item?id=24386933"
+      "title": "Ask HN: Suggestions for books about API design?",
+      "link": "item?id=24383180"
     },
     {
       "rank": "27.",
-      "title": "Ask HN: Suggestions for books about API design?",
-      "link": "item?id=24383180"
+      "title": "Tesla's 'Full Self-Driving Capability' Falls Short of Its Name",
+      "link": "https://www.consumerreports.org/autonomous-driving/tesla-full-self-driving-capability-review-falls-short-of-its-name/"
     },
     {
       "rank": "28.",
