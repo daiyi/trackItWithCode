@@ -32,123 +32,123 @@
     },
     {
       "rank": "7.",
+      "title": "Black Panther Titles Are Free on Comixology",
+      "link": "https://teacup.news/black-panther-titles-are-free-right-now-on-comixology/"
+    },
+    {
+      "rank": "8.",
       "title": "Compiling a Lisp to x86-64: primitive functions",
       "link": "https://bernsteinbear.com/blog/compiling-a-lisp-4/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "China Launches a 'Reusable Experimental Spacecraft'",
       "link": "https://sattrackcam.blogspot.com/2020/09/china-launches-reusable-experimental.html"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Getting Color Output out of a TI-99/4A",
       "link": "https://netzhansa.com/ti99-4a-color/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "I can't believe I'm praising Tcl (2008)",
       "link": "http://yosefk.com/blog/i-cant-believe-im-praising-tcl.html"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "The Birth of Wheelchair Basketball",
       "link": "https://www.zocalopublicsquare.org/2020/09/02/wheelchair-basketball-history-veterans-disability-rights/ideas/essay/"
     },
     {
-      "rank": "12.",
-      "title": "Show HN: A minimal stack based VM in C",
-      "link": "https://github.com/codr7/liblg"
-    },
-    {
       "rank": "13.",
-      "title": "Orange Health (YC S20) Is Hiring Front End React Engineers in India",
-      "link": "https://www.orangehealth.in/jobs/experienced-front-end-engineer-(react-native)"
-    },
-    {
-      "rank": "14.",
       "title": "8086 Microcode Disassembled",
       "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
     },
     {
+      "rank": "14.",
+      "title": "Show HN: A minimal stack based VM in C",
+      "link": "https://github.com/codr7/liblg"
+    },
+    {
       "rank": "15.",
+      "title": "Orange Health (YC S20) Is Hiring Front End React Engineers in India",
+      "link": "https://www.orangehealth.in/jobs/experienced-front-end-engineer-(react-native)"
+    },
+    {
+      "rank": "16.",
       "title": "The Memory Area Network at the Heart of IBM’s Power10",
       "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Growing a Language (1998) [video]",
       "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "More than half of 18 to 29-year-olds in the US are living with parents",
       "link": "https://www.msn.com/en-us/news/us/more-than-half-of-18-to-29-year-olds-in-the-us-are-living-with-parents/ar-BB18Khdk?li=BBnb7Kz"
     },
     {
-      "rank": "18.",
-      "title": "The Evolution of Psychiatry",
-      "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
-    },
-    {
       "rank": "19.",
-      "title": "PDP 11/70 Emulator (2020)",
-      "link": "https://skn.noip.me/pdp11/pdp11.html"
-    },
-    {
-      "rank": "20.",
-      "title": "OnlyOffice is an alternative to LibreOffice",
-      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
-    },
-    {
-      "rank": "21.",
-      "title": "Show HN: Linux sysadmin course, eight years on",
-      "link": "item?id=24380969"
-    },
-    {
-      "rank": "22.",
-      "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
-      "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
-    },
-    {
-      "rank": "23.",
-      "title": "Chess is taking over the online video game streaming world and it will change",
-      "link": "https://scroll.in/field/972176/game-theory-chess-is-taking-over-the-online-video-game-streaming-world-and-that-will-change-it-too"
-    },
-    {
-      "rank": "24.",
-      "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
-      "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
-    },
-    {
-      "rank": "25.",
-      "title": "Getting paid not to use Facebook",
-      "link": "https://imgur.com/a/AJXKetl"
-    },
-    {
-      "rank": "26.",
-      "title": "OSKit: A set of components oriented to creating operating systems",
-      "link": "https://www.cs.utah.edu/flux/oskit/"
-    },
-    {
-      "rank": "27.",
       "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
       "link": "https://observablehq.com/@jrus/scpie"
     },
     {
+      "rank": "20.",
+      "title": "The Evolution of Psychiatry",
+      "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
+    },
+    {
+      "rank": "21.",
+      "title": "PDP 11/70 Emulator (2020)",
+      "link": "https://skn.noip.me/pdp11/pdp11.html"
+    },
+    {
+      "rank": "22.",
+      "title": "Show HN: Linux sysadmin course, eight years on",
+      "link": "item?id=24380969"
+    },
+    {
+      "rank": "23.",
+      "title": "OnlyOffice is an alternative to LibreOffice",
+      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
+    },
+    {
+      "rank": "24.",
+      "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
+      "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
+    },
+    {
+      "rank": "25.",
+      "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
+      "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
+    },
+    {
+      "rank": "26.",
+      "title": "Chess is taking over the online video game streaming world and it will change",
+      "link": "https://scroll.in/field/972176/game-theory-chess-is-taking-over-the-online-video-game-streaming-world-and-that-will-change-it-too"
+    },
+    {
+      "rank": "27.",
+      "title": "Getting paid not to use Facebook",
+      "link": "https://imgur.com/a/AJXKetl"
+    },
+    {
       "rank": "28.",
+      "title": "OSKit: A set of components oriented to creating operating systems",
+      "link": "https://www.cs.utah.edu/flux/oskit/"
+    },
+    {
+      "rank": "29.",
       "title": "Show HN: Glowbom – Using voice to make software",
       "link": "https://glowbom.com/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "A Second Chance",
       "link": "https://www.nybooks.com/articles/2020/09/24/jeffrey-masson-trial-second-chance/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nybooks+%28The+New+York+Review+of+Books%29"
-    },
-    {
-      "rank": "30.",
-      "title": "Symbolic Plane Geometry Calculator",
-      "link": "https://geometryexpressions.com/gxweb/"
     }
   ],
   "metadata": {
