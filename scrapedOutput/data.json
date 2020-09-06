@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Show HN: Parallelise pipelines of Python async iterables",
-      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
+      "title": "How to take back control of /etc/resolv.conf on Linux (2018)",
+      "link": "https://www.ctrl.blog/entry/resolvconf-tutorial.html"
     },
     {
       "rank": "2.",
-      "title": "How to take back control of /etc/resolv.conf on Linux (2018)",
-      "link": "https://www.ctrl.blog/entry/resolvconf-tutorial.html"
+      "title": "Show HN: Parallelise pipelines of Python async iterables",
+      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
     },
     {
       "rank": "3.",
@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "C++20 has been approved",
-      "link": "https://twitter.com/PatriceRoy1/status/1302055575140945921"
+      "title": "WSL for Development in Windows 10 Is the New Kool-Aid. Still Not Using It?",
+      "link": "https://blog.codonomics.com/2020/09/wsl-for-development-in-windows-10-is.html"
     },
     {
       "rank": "6.",
@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
-      "title": "Winner of French Scrabble Title Does Not Speak French (2015)",
-      "link": "https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french"
-    },
-    {
-      "rank": "9.",
       "title": "Show HN: Revived my personal website to join the nostalgia",
       "link": "https://gasoved.github.io/webbew/"
     },
     {
+      "rank": "9.",
+      "title": "Winner of French Scrabble Title Does Not Speak French (2015)",
+      "link": "https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french"
+    },
+    {
       "rank": "10.",
-      "title": "Daniel J. Bernstein's IM2000 email proposal is not a good idea",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/IM2000NotGoodIdea"
+      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
+      "link": "https://github.com/saadmk11/django-newsfeed"
     },
     {
       "rank": "11.",
-      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
-      "link": "https://github.com/saadmk11/django-newsfeed"
+      "title": "C++20 has been approved",
+      "link": "https://twitter.com/PatriceRoy1/status/1302055575140945921"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
-      "title": "Principles for Better Design",
-      "link": "https://reflexio.debec.eu/principles-for-better-design"
-    },
-    {
-      "rank": "14.",
       "title": "Traffic Prediction with Advanced Graph Neural Networks",
       "link": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Habitica – A gamified habit-building and productivity app",
       "link": "https://habitica.com/static/home"
+    },
+    {
+      "rank": "15.",
+      "title": "Principles for Better Design",
+      "link": "https://reflexio.debec.eu/principles-for-better-design"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
+      "title": "PDP 11/70 Emulator (2020)",
+      "link": "https://skn.noip.me/pdp11/pdp11.html"
+    },
+    {
+      "rank": "18.",
       "title": "Big Ass Data Broker Opt-Out List",
       "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Show HN: A minimal stack based VM in C",
       "link": "https://github.com/codr7/liblg"
-    },
-    {
-      "rank": "19.",
-      "title": "PDP 11/70 Emulator (2020)",
-      "link": "https://skn.noip.me/pdp11/pdp11.html"
     },
     {
       "rank": "20.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "The crypto market as a single unified scam",
-      "link": "https://davidgerard.co.uk/blockchain/2020/09/06/the-crypto-market-as-a-single-unified-scam/"
+      "title": "Daniel J. Bernstein's IM2000 email proposal is not a good idea",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/IM2000NotGoodIdea"
     },
     {
       "rank": "25.",
