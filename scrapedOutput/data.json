@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Hard to discover tips and apps for macOS",
-      "link": "https://thume.ca/2020/09/04/macos-tips/"
+      "title": "Fennel – Lisp in Lua",
+      "link": "https://fennel-lang.org"
     },
     {
       "rank": "9.",
-      "title": "Fennel – Lisp in Lua",
-      "link": "https://fennel-lang.org"
+      "title": "Hard to discover tips and apps for macOS",
+      "link": "https://thume.ca/2020/09/04/macos-tips/"
     },
     {
       "rank": "10.",
@@ -52,23 +52,23 @@
     },
     {
       "rank": "11.",
-      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
-      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
-    },
-    {
-      "rank": "12.",
       "title": "Tech workers flee Belarus as IT haven takes authoritarian turn",
       "link": "https://www.bloombergquint.com/businessweek/belarus-protests-tech-workers-flee-as-country-takes-authoritarian-turn"
     },
     {
+      "rank": "12.",
+      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
+      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
+    },
+    {
       "rank": "13.",
-      "title": "Amazon is filled with fake reviews and it’s getting harder to spot them",
-      "link": "https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html"
+      "title": "The New Neuroscience of Stuttering",
+      "link": "https://www.knowablemagazine.org/article/mind/2020/new-neuroscience-stuttering"
     },
     {
       "rank": "14.",
-      "title": "The New Neuroscience of Stuttering",
-      "link": "https://www.knowablemagazine.org/article/mind/2020/new-neuroscience-stuttering"
+      "title": "Amazon is filled with fake reviews and it’s getting harder to spot them",
+      "link": "https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html"
     },
     {
       "rank": "15.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "Worries grow over a K-shaped economic recovery that favors the wealthy",
-      "link": "https://www.cnbc.com/2020/09/04/worries-grow-over-a-k-shaped-economic-recovery-that-favors-the-wealthy.html"
+      "title": "The land before modern APIs",
+      "link": "https://increment.com/apis/land-before-modern-apis/"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "The land before modern APIs",
-      "link": "https://increment.com/apis/land-before-modern-apis/"
+      "title": "Worries grow over a K-shaped economic recovery that favors the wealthy",
+      "link": "https://www.cnbc.com/2020/09/04/worries-grow-over-a-k-shaped-economic-recovery-that-favors-the-wealthy.html"
     },
     {
       "rank": "23.",
-      "title": "Is There a Google-Free Future for Firefox?",
-      "link": "https://www.forbes.com/sites/barrycollins/2020/09/03/is-there-a-google-free-future-for-firefox/"
+      "title": "Carmack on (not) being a power text editor user",
+      "link": "https://twitter.com/id_aa_carmack/status/1302651878065475584"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "Is There a Google-Free Future for Firefox?",
+      "link": "https://www.forbes.com/sites/barrycollins/2020/09/03/is-there-a-google-free-future-for-firefox/"
+    },
+    {
+      "rank": "26.",
       "title": "Habitica – A gamified habit-building and productivity app",
       "link": "https://habitica.com/static/home"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
       "link": "https://sensible-side-buttons.archagon.net"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Show HN: Parallelise pipelines of Python async iterables",
       "link": "https://github.com/michalc/asyncio-buffered-pipeline"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Show HN: Revived my personal website to join the nostalgia",
       "link": "https://gasoved.github.io/webbew/"
     },
     {
-      "rank": "29.",
-      "title": "Can Greek Tragedy Get Us Through the Pandemic?",
-      "link": "https://www.newyorker.com/culture/culture-desk/can-greek-tragedy-get-us-through-the-pandemic"
-    },
-    {
       "rank": "30.",
-      "title": "Code Health: Make Interfaces Hard to Misuse (2018)",
-      "link": "https://testing.googleblog.com/2018/07/code-health-make-interfaces-hard-to.html"
+      "title": "Free Transit for Riders Under 18? In Paris, It’s Here",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/why-paris-dropped-transit-fares-for-young-riders"
     }
   ],
   "metadata": {
