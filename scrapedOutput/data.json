@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
-      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
+      "title": "Unlimited Information Is Transforming Society",
+      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
     },
     {
       "rank": "7.",
-      "title": "AES Finder – the utility to find AES keys in running process memory",
-      "link": "https://github.com/MantechUser/aes-finder"
+      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
+      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
     },
     {
       "rank": "8.",
@@ -42,53 +42,53 @@
     },
     {
       "rank": "9.",
+      "title": "AES Finder – the utility to find AES keys in running process memory",
+      "link": "https://github.com/MantechUser/aes-finder"
+    },
+    {
+      "rank": "10.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/2020/09/06/oauth2-oidc/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Free Transit for Riders Under 18? In Paris, It’s Here",
       "link": "https://www.bloomberg.com/news/articles/2020-09-03/why-paris-dropped-transit-fares-for-young-riders"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers",
       "link": "https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099"
     },
     {
-      "rank": "12.",
-      "title": "How to take back control of /etc/resolv.conf on Linux (2018)",
-      "link": "https://www.ctrl.blog/entry/resolvconf-tutorial.html"
-    },
-    {
       "rank": "13.",
-      "title": "Unlimited Information Is Transforming Society",
-      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
-    },
-    {
-      "rank": "14.",
-      "title": "Hong Kong mourns the end of its way of life",
-      "link": "https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/"
-    },
-    {
-      "rank": "15.",
       "title": "Mystery seeds: Amazon bans foreign plant sales in US",
       "link": "https://www.bbc.com/news/world-us-canada-54046154"
     },
     {
-      "rank": "16.",
+      "rank": "14.",
+      "title": "How to take back control of /etc/resolv.conf on Linux (2018)",
+      "link": "https://www.ctrl.blog/entry/resolvconf-tutorial.html"
+    },
+    {
+      "rank": "15.",
       "title": "A Meta-Layer for Notes",
       "link": "https://julian.digital/2020/09/04/a-meta-layer-for"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Data Broker Opt-Out List",
       "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Graviton Database: ZFS for key-value stores",
       "link": "https://github.com/deroproject/graviton"
+    },
+    {
+      "rank": "18.",
+      "title": "Hong Kong mourns the end of its way of life",
+      "link": "https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Show HN: Parallelise pipelines of Python async iterables",
-      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
+      "title": "Can Greek Tragedy Get Us Through the Pandemic?",
+      "link": "https://www.newyorker.com/culture/culture-desk/can-greek-tragedy-get-us-through-the-pandemic"
     },
     {
       "rank": "21.",
-      "title": "Can Greek Tragedy Get Us Through the Pandemic?",
-      "link": "https://www.newyorker.com/culture/culture-desk/can-greek-tragedy-get-us-through-the-pandemic"
+      "title": "Habitica – A gamified habit-building and productivity app",
+      "link": "https://habitica.com/static/home"
     },
     {
       "rank": "22.",
@@ -112,23 +112,23 @@
     },
     {
       "rank": "23.",
-      "title": "Habitica – A gamified habit-building and productivity app",
-      "link": "https://habitica.com/static/home"
+      "title": "Show HN: Parallelise pipelines of Python async iterables",
+      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
     },
     {
       "rank": "24.",
-      "title": "Pass the Payment Choice Act",
-      "link": "https://www.eff.org/deeplinks/2020/09/pass-payment-choice-act"
-    },
-    {
-      "rank": "25.",
       "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
       "link": "https://sensible-side-buttons.archagon.net"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Yacd – Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required",
       "link": "https://github.com/DerekSelander/yacd"
+    },
+    {
+      "rank": "26.",
+      "title": "Pass the Payment Choice Act",
+      "link": "https://www.eff.org/deeplinks/2020/09/pass-payment-choice-act"
     },
     {
       "rank": "27.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Code Health: Make Interfaces Hard to Misuse (2018)",
-      "link": "https://testing.googleblog.com/2018/07/code-health-make-interfaces-hard-to.html"
+      "title": "Graph Representations for Higher-Order Logic and Theorem Proving (2019)",
+      "link": "https://arxiv.org/abs/1905.10006"
     }
   ],
   "metadata": {
