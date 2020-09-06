@@ -32,48 +32,48 @@
     },
     {
       "rank": "7.",
+      "title": "Google Blog: Make Interfaces Hard to Misuse",
+      "link": "https://testing.googleblog.com/2018/07/code-health-make-interfaces-hard-to.html"
+    },
+    {
+      "rank": "8.",
       "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
       "link": "https://github.com/saadmk11/django-newsfeed"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Traffic Prediction with Advanced Graph Neural Networks",
       "link": "https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Principles for Better Design",
       "link": "https://reflexio.debec.eu/principles-for-better-design"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Compiling a Lisp to x86-64: primitive functions",
       "link": "https://bernsteinbear.com/blog/compiling-a-lisp-4/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Show HN: A minimal stack based VM in C",
       "link": "https://github.com/codr7/liblg"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
+      "title": "Yacd – Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required",
+      "link": "https://github.com/DerekSelander/yacd"
+    },
+    {
+      "rank": "14.",
       "title": "PDP 11/70 Emulator (2020)",
       "link": "https://skn.noip.me/pdp11/pdp11.html"
     },
     {
-      "rank": "13.",
+      "rank": "15.",
       "title": "I can't believe I'm praising Tcl (2008)",
       "link": "http://yosefk.com/blog/i-cant-believe-im-praising-tcl.html"
-    },
-    {
-      "rank": "14.",
-      "title": "Getting Color Output out of a TI-99/4A",
-      "link": "https://netzhansa.com/ti99-4a-color/"
-    },
-    {
-      "rank": "15.",
-      "title": "OnlyOffice is an alternative to LibreOffice",
-      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
     },
     {
       "rank": "16.",
@@ -82,73 +82,73 @@
     },
     {
       "rank": "17.",
-      "title": "Growing a Language (1998) [video]",
-      "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
-    },
-    {
-      "rank": "18.",
-      "title": "The Birth of Wheelchair Basketball",
-      "link": "https://www.zocalopublicsquare.org/2020/09/02/wheelchair-basketball-history-veterans-disability-rights/ideas/essay/"
-    },
-    {
-      "rank": "19.",
-      "title": "Audible-visuals: Audio visualizer experiments",
-      "link": "https://github.com/soniaboller/audible-visuals"
-    },
-    {
-      "rank": "20.",
       "title": "Orange Health (YC S20) Is Hiring Front End React Engineers in India",
       "link": "https://www.orangehealth.in/jobs/experienced-front-end-engineer-(react-native)"
     },
     {
+      "rank": "18.",
+      "title": "Getting Color Output out of a TI-99/4A",
+      "link": "https://netzhansa.com/ti99-4a-color/"
+    },
+    {
+      "rank": "19.",
+      "title": "OnlyOffice is an alternative to LibreOffice",
+      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
+    },
+    {
+      "rank": "20.",
+      "title": "Growing a Language (1998) [video]",
+      "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
+    },
+    {
       "rank": "21.",
-      "title": "Show HN: Linux sysadmin course, eight years on",
-      "link": "item?id=24380969"
+      "title": "Audible-visuals: Audio visualizer experiments",
+      "link": "https://github.com/soniaboller/audible-visuals"
     },
     {
       "rank": "22.",
+      "title": "The Birth of Wheelchair Basketball",
+      "link": "https://www.zocalopublicsquare.org/2020/09/02/wheelchair-basketball-history-veterans-disability-rights/ideas/essay/"
+    },
+    {
+      "rank": "23.",
       "title": "Just because it's there doesn't mean you should use it",
       "link": "http://rachelbythebay.com/w/2020/09/05/wire/"
     },
     {
-      "rank": "23.",
-      "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
-      "link": "https://observablehq.com/@jrus/scpie"
+      "rank": "24.",
+      "title": "Show HN: Linux sysadmin course, eight years on",
+      "link": "item?id=24380969"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "China Launches a 'Reusable Experimental Spacecraft'",
       "link": "https://sattrackcam.blogspot.com/2020/09/china-launches-reusable-experimental.html"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
+      "link": "https://observablehq.com/@jrus/scpie"
+    },
+    {
+      "rank": "27.",
+      "title": "C++20 Has Been Approved",
+      "link": "https://twitter.com/PatriceRoy1/status/1302055575140945921"
+    },
+    {
+      "rank": "28.",
       "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
       "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
     },
     {
-      "rank": "26.",
+      "rank": "29.",
       "title": "The Evolution of Psychiatry",
       "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "FCC Eliminates CableCARD Support and Reporting Requirements [pdf]",
       "link": "https://ecfsapi.fcc.gov/file/0904136726879/FCC-20-124A1.pdf"
-    },
-    {
-      "rank": "28.",
-      "title": "Chess is taking over the online video game streaming world and it will change",
-      "link": "https://scroll.in/field/972176/game-theory-chess-is-taking-over-the-online-video-game-streaming-world-and-that-will-change-it-too"
-    },
-    {
-      "rank": "29.",
-      "title": "Show HN: Glowbom – Using voice to make software",
-      "link": "https://glowbom.com/"
-    },
-    {
-      "rank": "30.",
-      "title": "C++20 Has Been Approved",
-      "link": "https://twitter.com/PatriceRoy1/status/1302055575140945921"
     }
   ],
   "metadata": {
