@@ -17,28 +17,28 @@
     },
     {
       "rank": "4.",
-      "title": "Fennel – Lisp in Lua",
-      "link": "https://fennel-lang.org"
-    },
-    {
-      "rank": "5.",
       "title": "Hard to discover tips and apps for macOS",
       "link": "https://thume.ca/2020/09/04/macos-tips/"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers",
       "link": "https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099"
     },
     {
+      "rank": "6.",
+      "title": "Fennel – Lisp in Lua",
+      "link": "https://fennel-lang.org"
+    },
+    {
       "rank": "7.",
-      "title": "Hong Kong mourns the end of its way of life",
-      "link": "https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/"
+      "title": "AES Finder – the utility to find AES keys in running process memory",
+      "link": "https://github.com/MantechUser/aes-finder"
     },
     {
       "rank": "8.",
-      "title": "AES Finder – the utility to find AES keys in running process memory",
-      "link": "https://github.com/MantechUser/aes-finder"
+      "title": "Hong Kong mourns the end of its way of life",
+      "link": "https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/"
     },
     {
       "rank": "9.",
@@ -47,33 +47,33 @@
     },
     {
       "rank": "10.",
+      "title": "The Right to Repair could help address a critical shortage in school computers",
+      "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
+    },
+    {
+      "rank": "11.",
       "title": "How to take back control of /etc/resolv.conf on Linux (2018)",
       "link": "https://www.ctrl.blog/entry/resolvconf-tutorial.html"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "A Meta-Layer for Notes",
       "link": "https://julian.digital/2020/09/04/a-meta-layer-for"
     },
     {
-      "rank": "12.",
-      "title": "Graviton Database: ZFS for key-value stores",
-      "link": "https://github.com/deroproject/graviton"
-    },
-    {
       "rank": "13.",
-      "title": "Data Broker Opt-Out List",
-      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
-    },
-    {
-      "rank": "14.",
       "title": "Mystery seeds: Amazon bans foreign plant sales in US",
       "link": "https://www.bbc.com/news/world-us-canada-54046154"
     },
     {
+      "rank": "14.",
+      "title": "Data Broker Opt-Out List",
+      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
+    },
+    {
       "rank": "15.",
-      "title": "It's not working Should I blame caching?",
-      "link": "https://shouldiblamecaching.com/"
+      "title": "Graviton Database: ZFS for key-value stores",
+      "link": "https://github.com/deroproject/graviton"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
+      "title": "Free Transit for Riders Under 18? In Paris, It’s Here",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/why-paris-dropped-transit-fares-for-young-riders"
+    },
+    {
+      "rank": "18.",
       "title": "Show HN: Parallelise pipelines of Python async iterables",
       "link": "https://github.com/michalc/asyncio-buffered-pipeline"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
       "link": "https://sensible-side-buttons.archagon.net"
-    },
-    {
-      "rank": "19.",
-      "title": "Yacd – Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required",
-      "link": "https://github.com/DerekSelander/yacd"
     },
     {
       "rank": "20.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
-      "title": "The UK's online ID plans: expensive, intrusive, unnecessary",
-      "link": "https://www.theguardian.com/commentisfree/2020/sep/06/uk-online-id-pandemic-digital-identity-system"
+      "title": "Yacd – Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required",
+      "link": "https://github.com/DerekSelander/yacd"
     },
     {
       "rank": "22.",
-      "title": "Show HN: Revived my personal website to join the nostalgia",
-      "link": "https://gasoved.github.io/webbew/"
+      "title": "LibreOffice Online API",
+      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
     },
     {
       "rank": "23.",
-      "title": "LibreOffice Online API",
-      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
+      "title": "Show HN: Revived my personal website to join the nostalgia",
+      "link": "https://gasoved.github.io/webbew/"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "Just because it's there doesn't mean you should use it",
-      "link": "http://rachelbythebay.com/w/2020/09/05/wire/"
+      "title": "The UK's online ID plans: expensive, intrusive, unnecessary",
+      "link": "https://www.theguardian.com/commentisfree/2020/sep/06/uk-online-id-pandemic-digital-identity-system"
     },
     {
       "rank": "26.",
@@ -137,8 +137,8 @@
     },
     {
       "rank": "28.",
-      "title": "C++20 has been approved",
-      "link": "https://twitter.com/PatriceRoy1/status/1302055575140945921"
+      "title": "Principles for Better Design",
+      "link": "https://reflexio.debec.eu/principles-for-better-design"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Principles for Better Design",
-      "link": "https://reflexio.debec.eu/principles-for-better-design"
+      "title": "C++20 has been approved",
+      "link": "https://twitter.com/PatriceRoy1/status/1302055575140945921"
     }
   ],
   "metadata": {
