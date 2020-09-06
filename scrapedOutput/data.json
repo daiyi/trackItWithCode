@@ -27,33 +27,33 @@
     },
     {
       "rank": "6.",
-      "title": "Graviton Database: ZFS for key-value stores",
-      "link": "https://github.com/deroproject/graviton"
-    },
-    {
-      "rank": "7.",
-      "title": "A Meta-Layer for Notes",
-      "link": "https://julian.digital/2020/09/04/a-meta-layer-for"
-    },
-    {
-      "rank": "8.",
       "title": "We want to live in a world free of chemical weapons",
       "link": "https://www.opcw.org/about-us"
     },
     {
+      "rank": "7.",
+      "title": "Graviton Database: ZFS for key-value stores",
+      "link": "https://github.com/deroproject/graviton"
+    },
+    {
+      "rank": "8.",
+      "title": "Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers",
+      "link": "https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099"
+    },
+    {
       "rank": "9.",
+      "title": "A Meta-Layer for Notes",
+      "link": "https://julian.digital/2020/09/04/a-meta-layer-for"
+    },
+    {
+      "rank": "10.",
       "title": "Show HN: Parallelise pipelines of Python async iterables",
       "link": "https://github.com/michalc/asyncio-buffered-pipeline"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "LibreOffice Online API",
       "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
-    },
-    {
-      "rank": "11.",
-      "title": "C++20 has been approved",
-      "link": "https://twitter.com/PatriceRoy1/status/1302055575140945921"
     },
     {
       "rank": "12.",
@@ -67,18 +67,18 @@
     },
     {
       "rank": "14.",
+      "title": "C++20 has been approved",
+      "link": "https://twitter.com/PatriceRoy1/status/1302055575140945921"
+    },
+    {
+      "rank": "15.",
       "title": "Show HN: Revived my personal website to join the nostalgia",
       "link": "https://gasoved.github.io/webbew/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Graph Representations for Higher-Order Logic and Theorem Proving (2019)",
       "link": "https://arxiv.org/abs/1905.10006"
-    },
-    {
-      "rank": "16.",
-      "title": "Winner of French Scrabble Title Does Not Speak French (2015)",
-      "link": "https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french"
     },
     {
       "rank": "17.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
-      "link": "https://github.com/saadmk11/django-newsfeed"
+      "title": "Winner of French Scrabble Title Does Not Speak French (2015)",
+      "link": "https://www.npr.org/sections/thetwo-way/2015/07/21/424980378/winner-of-french-scrabble-title-does-not-speak-french"
     },
     {
       "rank": "19.",
-      "title": "MCPU Emulator (and ATTiny85 Port)",
-      "link": "http://jborza.com/emulation/2020/09/05/mcpu-emulator.html"
+      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
+      "link": "https://github.com/saadmk11/django-newsfeed"
     },
     {
       "rank": "20.",
@@ -102,23 +102,23 @@
     },
     {
       "rank": "21.",
+      "title": "Only one in ten medical treatments are backed by high-quality evidence",
+      "link": "https://theconversation.com/only-one-in-ten-medical-treatments-are-backed-by-high-quality-evidence-145224"
+    },
+    {
+      "rank": "22.",
+      "title": "MCPU emulator and ATTiny85 port",
+      "link": "http://jborza.com/emulation/2020/09/05/mcpu-emulator.html"
+    },
+    {
+      "rank": "23.",
       "title": "Principles for Better Design",
       "link": "https://reflexio.debec.eu/principles-for-better-design"
     },
     {
-      "rank": "22.",
-      "title": "'You're Not Allowed to Film': The Fight to Control Who Reports from Portland",
-      "link": "https://reason.com/2020/09/04/youre-not-allowed-to-film-the-fight-for-control-over-who-reports-from-portland/"
-    },
-    {
-      "rank": "23.",
+      "rank": "24.",
       "title": "The Minecraft Institvte of Technology",
       "link": "https://www.technologyreview.com/2020/08/18/1006217/the-minecraft-institvte-of-technology/"
-    },
-    {
-      "rank": "24.",
-      "title": "Only one in ten medical treatments are backed by high-quality evidence",
-      "link": "https://theconversation.com/only-one-in-ten-medical-treatments-are-backed-by-high-quality-evidence-145224"
     },
     {
       "rank": "25.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Google proposed Web Bundles could threaten the Web as we know it",
-      "link": "https://www.ghacks.net/2020/08/30/google-proposed-web-bundles-could-threaten-the-web-as-we-know-it/"
-    },
-    {
-      "rank": "28.",
       "title": "Show HN: A minimal stack based VM in C",
       "link": "https://github.com/codr7/liblg"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "PDP 11/70 Emulator (2020)",
       "link": "https://skn.noip.me/pdp11/pdp11.html"
     },
     {
+      "rank": "29.",
+      "title": "Big Ass Data Broker Opt-Out List",
+      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
+    },
+    {
       "rank": "30.",
-      "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
-      "link": "https://sensible-side-buttons.archagon.net"
+      "title": "Google proposed Web Bundles could threaten the Web as we know it",
+      "link": "https://www.ghacks.net/2020/08/30/google-proposed-web-bundles-could-threaten-the-web-as-we-know-it/"
     }
   ],
   "metadata": {
