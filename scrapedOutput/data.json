@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Unlimited Information Is Transforming Society",
-      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
+      "title": "Tech Workers Flee Belarus as IT Haven Takes Authoritarian Turn",
+      "link": "https://www.bloombergquint.com/businessweek/belarus-protests-tech-workers-flee-as-country-takes-authoritarian-turn"
     },
     {
       "rank": "5.",
-      "title": "Hard to discover tips and apps for macOS",
-      "link": "https://thume.ca/2020/09/04/macos-tips/"
+      "title": "Unlimited Information Is Transforming Society",
+      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
     },
     {
       "rank": "6.",
@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "Tech Workers Flee Belarus as IT Haven Takes Authoritarian Turn",
-      "link": "https://www.bloombergquint.com/businessweek/belarus-protests-tech-workers-flee-as-country-takes-authoritarian-turn"
+      "title": "Hard to discover tips and apps for macOS",
+      "link": "https://thume.ca/2020/09/04/macos-tips/"
     },
     {
       "rank": "8.",
@@ -42,43 +42,43 @@
     },
     {
       "rank": "9.",
-      "title": "AES Finder – the utility to find AES keys in running process memory",
-      "link": "https://github.com/MantechUser/aes-finder"
-    },
-    {
-      "rank": "10.",
-      "title": "Free Transit for Riders Under 18? In Paris, It’s Here",
-      "link": "https://www.bloomberg.com/news/articles/2020-09-03/why-paris-dropped-transit-fares-for-young-riders"
-    },
-    {
-      "rank": "11.",
-      "title": "Understanding OAuth2 and OpenID Connect",
-      "link": "https://www.polarsparc.com/2020/09/06/oauth2-oidc/"
-    },
-    {
-      "rank": "12.",
-      "title": "Is There a Google-Free Future for Firefox?",
-      "link": "https://www.forbes.com/sites/barrycollins/2020/09/03/is-there-a-google-free-future-for-firefox/"
-    },
-    {
-      "rank": "13.",
       "title": "CubeSat interplanetary exploration is heating up",
       "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
     },
     {
-      "rank": "14.",
+      "rank": "10.",
+      "title": "AES Finder – the utility to find AES keys in running process memory",
+      "link": "https://github.com/MantechUser/aes-finder"
+    },
+    {
+      "rank": "11.",
+      "title": "Free Transit for Riders Under 18? In Paris, It’s Here",
+      "link": "https://www.bloomberg.com/news/articles/2020-09-03/why-paris-dropped-transit-fares-for-young-riders"
+    },
+    {
+      "rank": "12.",
+      "title": "Understanding OAuth2 and OpenID Connect",
+      "link": "https://www.polarsparc.com/2020/09/06/oauth2-oidc/"
+    },
+    {
+      "rank": "13.",
       "title": "Mystery seeds: Amazon bans foreign plant sales in US",
       "link": "https://www.bbc.com/news/world-us-canada-54046154"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers",
       "link": "https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "How to take back control of /etc/resolv.conf on Linux (2018)",
       "link": "https://www.ctrl.blog/entry/resolvconf-tutorial.html"
+    },
+    {
+      "rank": "16.",
+      "title": "Data Broker Opt-Out List",
+      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
     },
     {
       "rank": "17.",
@@ -87,68 +87,68 @@
     },
     {
       "rank": "18.",
-      "title": "Data Broker Opt-Out List",
-      "link": "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
-    },
-    {
-      "rank": "19.",
-      "title": "The land before modern APIs",
-      "link": "https://increment.com/apis/land-before-modern-apis/"
-    },
-    {
-      "rank": "20.",
       "title": "Graviton Database: ZFS for key-value stores",
       "link": "https://github.com/deroproject/graviton"
     },
     {
-      "rank": "21.",
+      "rank": "19.",
       "title": "Amazon is filled with fake reviews and it’s getting harder to spot them",
       "link": "https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html"
     },
     {
+      "rank": "20.",
+      "title": "Is There a Google-Free Future for Firefox?",
+      "link": "https://www.forbes.com/sites/barrycollins/2020/09/03/is-there-a-google-free-future-for-firefox/"
+    },
+    {
+      "rank": "21.",
+      "title": "The land before modern APIs",
+      "link": "https://increment.com/apis/land-before-modern-apis/"
+    },
+    {
       "rank": "22.",
-      "title": "Hong Kong mourns the end of its way of life",
-      "link": "https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/"
+      "title": "The Stack Monoid",
+      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
     },
     {
       "rank": "23.",
-      "title": "Habitica – A gamified habit-building and productivity app",
-      "link": "https://habitica.com/static/home"
-    },
-    {
-      "rank": "24.",
-      "title": "Can Greek Tragedy Get Us Through the Pandemic?",
-      "link": "https://www.newyorker.com/culture/culture-desk/can-greek-tragedy-get-us-through-the-pandemic"
-    },
-    {
-      "rank": "25.",
       "title": "Pass the Payment Choice Act",
       "link": "https://www.eff.org/deeplinks/2020/09/pass-payment-choice-act"
     },
     {
+      "rank": "24.",
+      "title": "Habitica – A gamified habit-building and productivity app",
+      "link": "https://habitica.com/static/home"
+    },
+    {
+      "rank": "25.",
+      "title": "Hong Kong mourns the end of its way of life",
+      "link": "https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/"
+    },
+    {
       "rank": "26.",
+      "title": "Can Greek Tragedy Get Us Through the Pandemic?",
+      "link": "https://www.newyorker.com/culture/culture-desk/can-greek-tragedy-get-us-through-the-pandemic"
+    },
+    {
+      "rank": "27.",
       "title": "SensibleSideButtons – side navigation for third-party mice in macOS",
       "link": "https://sensible-side-buttons.archagon.net"
     },
     {
-      "rank": "27.",
-      "title": "Show HN: Parallelise pipelines of Python async iterables",
-      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
-    },
-    {
       "rank": "28.",
-      "title": "LibreOffice Online API",
-      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
-    },
-    {
-      "rank": "29.",
       "title": "Yacd – Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required",
       "link": "https://github.com/DerekSelander/yacd"
     },
     {
+      "rank": "29.",
+      "title": "Show HN: Parallelise pipelines of Python async iterables",
+      "link": "https://github.com/michalc/asyncio-buffered-pipeline"
+    },
+    {
       "rank": "30.",
-      "title": "Show HN: Revived my personal website to join the nostalgia",
-      "link": "https://gasoved.github.io/webbew/"
+      "title": "LibreOffice Online API",
+      "link": "https://github.com/LibreOffice/online/blob/master/wsd/reference.md"
     }
   ],
   "metadata": {
