@@ -17,8 +17,8 @@
     },
     {
       "rank": "4.",
-      "title": "Daniel J. Bernstein's IM2000 email proposal is not a good idea",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/IM2000NotGoodIdea"
+      "title": "Graph Representations for Higher-Order Logic and Theorem Proving (2019)",
+      "link": "https://arxiv.org/abs/1905.10006"
     },
     {
       "rank": "5.",
@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Graph Representations for Higher-Order Logic and Theorem Proving (2019)",
-      "link": "https://arxiv.org/abs/1905.10006"
+      "title": "Daniel J. Bernstein's IM2000 email proposal is not a good idea",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/IM2000NotGoodIdea"
     },
     {
       "rank": "7.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
-      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
-      "link": "https://github.com/saadmk11/django-newsfeed"
-    },
-    {
-      "rank": "11.",
       "title": "Show HN: A minimal stack based VM in C",
       "link": "https://github.com/codr7/liblg"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Compiling a Lisp to x86-64: primitive functions",
       "link": "https://bernsteinbear.com/blog/compiling-a-lisp-4/"
+    },
+    {
+      "rank": "12.",
+      "title": "Django-newsfeed – A news curator and newsletter subscription package for Django",
+      "link": "https://github.com/saadmk11/django-newsfeed"
     },
     {
       "rank": "13.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "PDP 11/70 Emulator (2020)",
-      "link": "https://skn.noip.me/pdp11/pdp11.html"
+      "title": "The Memory Area Network at the Heart of IBM’s Power10",
+      "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
     },
     {
       "rank": "18.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "The Memory Area Network at the Heart of IBM’s Power10",
-      "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
+      "title": "OnlyOffice is an alternative to LibreOffice",
+      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
     },
     {
       "rank": "21.",
-      "title": "OnlyOffice is an alternative to LibreOffice",
-      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
+      "title": "PDP 11/70 Emulator (2020)",
+      "link": "https://skn.noip.me/pdp11/pdp11.html"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "Audible-visuals: Audio visualizer experiments",
-      "link": "https://github.com/soniaboller/audible-visuals"
+      "title": "The Evolution of Psychiatry",
+      "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "The Evolution of Psychiatry",
-      "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
+      "title": "Audible-visuals: Audio visualizer experiments",
+      "link": "https://github.com/soniaboller/audible-visuals"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "More than half of 18 to 29-year-olds in the US are living with parents",
-      "link": "https://www.msn.com/en-us/news/us/more-than-half-of-18-to-29-year-olds-in-the-us-are-living-with-parents/ar-BB18Khdk?li=BBnb7Kz"
+      "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
+      "link": "https://observablehq.com/@jrus/scpie"
     },
     {
       "rank": "28.",
-      "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
-      "link": "https://observablehq.com/@jrus/scpie"
+      "title": "More than half of 18 to 29-year-olds in the US are living with parents",
+      "link": "https://www.msn.com/en-us/news/us/more-than-half-of-18-to-29-year-olds-in-the-us-are-living-with-parents/ar-BB18Khdk?li=BBnb7Kz"
     },
     {
       "rank": "29.",
