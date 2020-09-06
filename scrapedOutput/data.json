@@ -17,8 +17,8 @@
     },
     {
       "rank": "4.",
-      "title": "Black Panther Titles Are Free on Comixology",
-      "link": "https://teacup.news/black-panther-titles-are-free-right-now-on-comixology/"
+      "title": "Habitica: Gamify Your Life",
+      "link": "https://habitica.com/static/home"
     },
     {
       "rank": "5.",
@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Just because it's there doesn't mean you should use it",
-      "link": "http://rachelbythebay.com/w/2020/09/05/wire/"
+      "title": "Daniel J. Bernstein's IM2000 email proposal is not a good idea",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/tech/IM2000NotGoodIdea"
     },
     {
       "rank": "7.",
-      "title": "Compiling a Lisp to x86-64: primitive functions",
-      "link": "https://bernsteinbear.com/blog/compiling-a-lisp-4/"
+      "title": "Just because it's there doesn't mean you should use it",
+      "link": "http://rachelbythebay.com/w/2020/09/05/wire/"
     },
     {
       "rank": "8.",
@@ -42,73 +42,73 @@
     },
     {
       "rank": "9.",
+      "title": "Compiling a Lisp to x86-64: primitive functions",
+      "link": "https://bernsteinbear.com/blog/compiling-a-lisp-4/"
+    },
+    {
+      "rank": "10.",
+      "title": "Graph Representations for Higher-Order Logic and Theorem Proving",
+      "link": "https://arxiv.org/abs/1905.10006"
+    },
+    {
+      "rank": "11.",
       "title": "China Launches a 'Reusable Experimental Spacecraft'",
       "link": "https://sattrackcam.blogspot.com/2020/09/china-launches-reusable-experimental.html"
     },
     {
-      "rank": "10.",
+      "rank": "12.",
       "title": "Getting Color Output out of a TI-99/4A",
       "link": "https://netzhansa.com/ti99-4a-color/"
     },
     {
-      "rank": "11.",
+      "rank": "13.",
       "title": "I can't believe I'm praising Tcl (2008)",
       "link": "http://yosefk.com/blog/i-cant-believe-im-praising-tcl.html"
     },
     {
-      "rank": "12.",
+      "rank": "14.",
       "title": "The Birth of Wheelchair Basketball",
       "link": "https://www.zocalopublicsquare.org/2020/09/02/wheelchair-basketball-history-veterans-disability-rights/ideas/essay/"
     },
     {
-      "rank": "13.",
-      "title": "8086 Microcode Disassembled",
-      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
-    },
-    {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Orange Health (YC S20) Is Hiring Front End React Engineers in India",
       "link": "https://www.orangehealth.in/jobs/experienced-front-end-engineer-(react-native)"
     },
     {
-      "rank": "15.",
-      "title": "Show HN: A minimal stack based VM in C",
-      "link": "https://github.com/codr7/liblg"
+      "rank": "16.",
+      "title": "8086 Microcode Disassembled",
+      "link": "https://www.reenigne.org/blog/8086-microcode-disassembled/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "PDP 11/70 Emulator (2020)",
       "link": "https://skn.noip.me/pdp11/pdp11.html"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
+      "title": "Principles for Better Design",
+      "link": "https://reflexio.debec.eu/principles-for-better-design"
+    },
+    {
+      "rank": "19.",
       "title": "The Memory Area Network at the Heart of IBM’s Power10",
       "link": "https://www.nextplatform.com/2020/09/03/the-memory-area-network-at-the-heart-of-ibms-power10/"
     },
     {
-      "rank": "18.",
+      "rank": "20.",
+      "title": "Show HN: A minimal stack based VM in C",
+      "link": "https://github.com/codr7/liblg"
+    },
+    {
+      "rank": "21.",
       "title": "Growing a Language (1998) [video]",
       "link": "https://www.youtube.com/watch?v=lw6TaiXzHAE"
     },
     {
-      "rank": "19.",
-      "title": "More than half of 18 to 29-year-olds in the US are living with parents",
-      "link": "https://www.msn.com/en-us/news/us/more-than-half-of-18-to-29-year-olds-in-the-us-are-living-with-parents/ar-BB18Khdk?li=BBnb7Kz"
-    },
-    {
-      "rank": "20.",
+      "rank": "22.",
       "title": "The Evolution of Psychiatry",
       "link": "https://www.worksinprogress.co/issue/the-evolution-of-psychiatry/"
-    },
-    {
-      "rank": "21.",
-      "title": "OnlyOffice is an alternative to LibreOffice",
-      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
-    },
-    {
-      "rank": "22.",
-      "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
-      "link": "https://observablehq.com/@jrus/scpie"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "Evaluating Schwarz–Christoffel Maps in Pie Slices",
+      "link": "https://observablehq.com/@jrus/scpie"
+    },
+    {
+      "rank": "25.",
+      "title": "OnlyOffice is an alternative to LibreOffice",
+      "link": "https://personal.jatan.space/2020/04/18/onlyoffice-better-than-libreoffice/"
+    },
+    {
+      "rank": "26.",
       "title": "Show HN: Linux sysadmin course, eight years on",
       "link": "item?id=24380969"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
+      "title": "More than half of 18 to 29-year-olds in the US are living with parents",
+      "link": "https://www.msn.com/en-us/news/us/more-than-half-of-18-to-29-year-olds-in-the-us-are-living-with-parents/ar-BB18Khdk?li=BBnb7Kz"
+    },
+    {
+      "rank": "28.",
       "title": "Ubuntu 20.04 LTS’ snap obsession has snapped me off of it",
       "link": "https://personal.jatan.space/2020/09/05/ubuntu-snap-obsession-has-snapped-me-off-of-it/"
     },
     {
-      "rank": "26.",
+      "rank": "29.",
       "title": "Pointers Are Complicated, Or: What's in a Byte? (2018)",
       "link": "https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html"
     },
     {
-      "rank": "27.",
+      "rank": "30.",
       "title": "Chess is taking over the online video game streaming world and it will change",
       "link": "https://scroll.in/field/972176/game-theory-chess-is-taking-over-the-online-video-game-streaming-world-and-that-will-change-it-too"
-    },
-    {
-      "rank": "28.",
-      "title": "OSKit: A set of components oriented to creating operating systems",
-      "link": "https://www.cs.utah.edu/flux/oskit/"
-    },
-    {
-      "rank": "29.",
-      "title": "Getting paid not to use Facebook",
-      "link": "https://imgur.com/a/AJXKetl"
-    },
-    {
-      "rank": "30.",
-      "title": "Show HN: Glowbom – Using voice to make software",
-      "link": "https://glowbom.com/"
     }
   ],
   "metadata": {
