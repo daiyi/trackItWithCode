@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "The tone of the first two weeks is critical to successful onboarding",
-      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+      "title": "Desolate English path has killed more than 100 people (2017)",
+      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
     },
     {
       "rank": "5.",
-      "title": "Desolate English path has killed more than 100 people (2017)",
-      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
+      "title": "Optimize Onboarding",
+      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
     },
     {
       "rank": "6.",
@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Smarking (YC W15) is hiring a Tech Lead Back end to scale mobility tech infra",
-      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
+      "title": "Bash Pitfalls",
+      "link": "https://mywiki.wooledge.org/BashPitfalls"
     },
     {
       "rank": "8.",
-      "title": "Loose Lips Sink MIPS",
-      "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
+      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Bash Pitfalls",
-      "link": "https://mywiki.wooledge.org/BashPitfalls"
+      "title": "Which GPUs to get for deep learning",
+      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
     },
     {
       "rank": "11.",
-      "title": "My Experience and Advice for Using GPUs in Deep Learning",
-      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
+      "title": "Loose Lips Sink MIPS",
+      "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
     },
     {
       "rank": "12.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Threat modelling case study: bicycles",
-      "link": "http://calpaterson.com/bicycle-threat-model.html"
+      "title": "Universal Paperclips",
+      "link": "https://www.decisionproblem.com/paperclips/"
     },
     {
       "rank": "15.",
-      "title": "Universal Paperclips",
-      "link": "https://www.decisionproblem.com/paperclips/"
+      "title": "Threat modelling case study: bicycles",
+      "link": "http://calpaterson.com/bicycle-threat-model.html"
     },
     {
       "rank": "16.",
@@ -87,28 +87,28 @@
     },
     {
       "rank": "18.",
-      "title": "Smart Watches Could Do More for Wheelchair Users",
+      "title": "Smart watches could do more for wheelchair users",
       "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
     },
     {
       "rank": "19.",
-      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
-      "link": "https://base32h.github.io"
-    },
-    {
-      "rank": "20.",
       "title": "Geometric Algebra for Python",
       "link": "https://github.com/pygae/clifford"
     },
     {
+      "rank": "20.",
+      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
+      "link": "https://base32h.github.io"
+    },
+    {
       "rank": "21.",
-      "title": "Gary Marcus's Kafkaesque critique of GPT-3",
-      "link": "https://nostalgebraist.tumblr.com/post/628024664310136832/gary-marcus-has-co-authored-a-brief-critique-of"
+      "title": "Raspberry Pi 3B+ Hackable Linux Handheld",
+      "link": "http://yarh.io/yarh-io-mki.html"
     },
     {
       "rank": "22.",
-      "title": "Raspberry Pi 3B+ Hackable Linux Handheld",
-      "link": "http://yarh.io/yarh-io-mki.html"
+      "title": "Gary Marcus's Kafkaesque critique of GPT-3",
+      "link": "https://nostalgebraist.tumblr.com/post/628024664310136832/gary-marcus-has-co-authored-a-brief-critique-of"
     },
     {
       "rank": "23.",
@@ -117,33 +117,33 @@
     },
     {
       "rank": "24.",
-      "title": "Show HN: I built an app that helps amplify the voice of the customer",
-      "link": "https://www.shieldvoc.com/"
-    },
-    {
-      "rank": "25.",
       "title": "Does storing bread in the fridge make it last longer? (2019)",
       "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "GPT-3 generated Nassim Taleb aphorisms",
       "link": "https://medium.com/ml-everything/the-beautiful-dark-twisted-gpt-3-generated-nassim-taleb-aphorisms-a750d6572ee3"
     },
     {
-      "rank": "27.",
-      "title": "Netflix boss: Remote working has negative effects",
-      "link": "https://www.wsj.com/articles/netflixs-reed-hastings-deems-remote-work-a-pure-negative-11599487219"
-    },
-    {
-      "rank": "28.",
+      "rank": "26.",
       "title": "Named Parameters in C++20",
       "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
     },
     {
-      "rank": "29.",
+      "rank": "27.",
       "title": "Why it is important that software projects fail (2008)",
       "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
+    },
+    {
+      "rank": "28.",
+      "title": "Netflix boss: Remote working has negative effects",
+      "link": "https://www.wsj.com/articles/netflixs-reed-hastings-deems-remote-work-a-pure-negative-11599487219"
+    },
+    {
+      "rank": "29.",
+      "title": "Show HN: I built an app that helps amplify the voice of the customer",
+      "link": "https://www.shieldvoc.com/"
     },
     {
       "rank": "30.",
