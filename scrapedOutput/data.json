@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Arm Announces Cortex-R82: First 64-Bit Real Time Processor",
+      "link": "https://www.anandtech.com/show/16056/arm-announces-cortexr82-first-64bit-real-time-processor"
+    },
+    {
+      "rank": "2.",
+      "title": "One of quantum physics’ greatest paradoxes may have lost its leading explanation",
+      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
+    },
+    {
+      "rank": "3.",
+      "title": "Pony, Actors, Causality, Types, and Garbage Collection",
+      "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
+    },
+    {
+      "rank": "4.",
       "title": "Calculating the sample size required for developing a clinical prediction model",
       "link": "https://www.bmj.com/content/368/bmj.m441/rr"
     },
     {
-      "rank": "2.",
+      "rank": "5.",
       "title": "Simple Bugs with Complex Exploits",
       "link": "https://www.elttam.com/blog/simple-bugs-with-complex-exploits/"
-    },
-    {
-      "rank": "3.",
-      "title": "Geometric Algebra for Python",
-      "link": "https://github.com/pygae/clifford"
-    },
-    {
-      "rank": "4.",
-      "title": "Why it is Important that Software Projects Fail (2008)",
-      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
-    },
-    {
-      "rank": "5.",
-      "title": "800x480 Touchscreen Raspberry Pi 3B+ Hackable Linux Handheld",
-      "link": "http://yarh.io/yarh-io-mki.html"
     },
     {
       "rank": "6.",
@@ -32,123 +32,123 @@
     },
     {
       "rank": "7.",
-      "title": "Does Storing Bread in the Fridge Make it Last Longer? (2019)",
-      "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
+      "title": "Geometric Algebra for Python",
+      "link": "https://github.com/pygae/clifford"
     },
     {
       "rank": "8.",
+      "title": "800x480 Touchscreen Raspberry Pi 3B+ Hackable Linux Handheld",
+      "link": "http://yarh.io/yarh-io-mki.html"
+    },
+    {
+      "rank": "9.",
+      "title": "Something strange happens on Mars during a solar eclipse",
+      "link": "https://www.sciencealert.com/something-strange-happens-on-mars-during-a-solar-eclipse"
+    },
+    {
+      "rank": "10.",
       "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
       "link": "https://substack.com/jobs"
     },
     {
-      "rank": "9.",
-      "title": "Netflix boss: Remote working has negative effects",
-      "link": "https://www.bbc.com/news/technology-54063648"
-    },
-    {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Ask HN: Working part-time in tech?",
       "link": "item?id=24401206"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
+      "title": "Bash Pitfalls",
+      "link": "https://mywiki.wooledge.org/BashPitfalls"
+    },
+    {
+      "rank": "13.",
+      "title": "Why it is Important that Software Projects Fail (2008)",
+      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
+    },
+    {
+      "rank": "14.",
       "title": "International Space Station 437.800 MHz cross band FM repeater activated",
       "link": "https://amsat-uk.org/2020/09/02/iss-fm-repeater-activated/"
     },
     {
-      "rank": "12.",
-      "title": "Named Parameters in C++20",
-      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
+      "rank": "15.",
+      "title": "A Catalogue of Optimizing Transformations (1971) [pdf]",
+      "link": "https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf"
     },
     {
-      "rank": "13.",
+      "rank": "16.",
       "title": "Show HN: AI color palette generator for Tailwindcss",
       "link": "https://tailwind.ink/"
     },
     {
-      "rank": "14.",
+      "rank": "17.",
+      "title": "The 10,000 Year Clock",
+      "link": "https://longnow.org/clock/"
+    },
+    {
+      "rank": "18.",
+      "title": "Does Storing Bread in the Fridge Make it Last Longer? (2019)",
+      "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
+    },
+    {
+      "rank": "19.",
       "title": "A history of elliptic curves in tweets",
       "link": "https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html"
     },
     {
-      "rank": "15.",
-      "title": "Kindle edition of Classic Computer Science Problems in Python is unauthorized",
-      "link": "https://twitter.com/davekopec/status/1302578592552022018"
-    },
-    {
-      "rank": "16.",
-      "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
-      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
-    },
-    {
-      "rank": "17.",
-      "title": "At 31, I have just weeks to live. Here's what I want to pass on",
-      "link": "https://www.theguardian.com/commentisfree/2020/sep/07/terminal-cancer-live-cancer-life-death"
-    },
-    {
-      "rank": "18.",
-      "title": "Scale model of 'Flying-V' airplane makes successful maiden flight",
-      "link": "https://edition.cnn.com/travel/article/flying-v-maiden-flight-intl-scli-grm/index.html"
-    },
-    {
-      "rank": "19.",
-      "title": "Woman hatches ducks from Waitrose eggs",
-      "link": "https://www.bbc.com/news/uk-england-beds-bucks-herts-52838747"
-    },
-    {
       "rank": "20.",
-      "title": "Many Ways to Start an Xserver",
-      "link": "https://nixers.net/Thread-How-Many-Ways-To-Start-An-Xserver"
-    },
-    {
-      "rank": "21.",
       "title": "Who Will Test the Tests Themselves? (2017)",
       "link": "https://blog.scottlogic.com/2017/09/25/mutation-testing.html"
     },
     {
+      "rank": "21.",
+      "title": "Withings' ScanWatch is the best hybrid smartwatch I've tried so far",
+      "link": "https://www.engadget.com/withings-scanwatch-hands-on-ifa-2020-070001875.html"
+    },
+    {
       "rank": "22.",
+      "title": "Named Parameters in C++20",
+      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
+    },
+    {
+      "rank": "23.",
+      "title": "Kindle edition of Classic Computer Science Problems in Python is unauthorized",
+      "link": "https://twitter.com/davekopec/status/1302578592552022018"
+    },
+    {
+      "rank": "24.",
+      "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
+      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
+    },
+    {
+      "rank": "25.",
+      "title": "At 31, I have just weeks to live. Here's what I want to pass on",
+      "link": "https://www.theguardian.com/commentisfree/2020/sep/07/terminal-cancer-live-cancer-life-death"
+    },
+    {
+      "rank": "26.",
+      "title": "Scale model of 'Flying-V' airplane makes successful maiden flight",
+      "link": "https://edition.cnn.com/travel/article/flying-v-maiden-flight-intl-scli-grm/index.html"
+    },
+    {
+      "rank": "27.",
+      "title": "Woman hatches ducks from Waitrose eggs",
+      "link": "https://www.bbc.com/news/uk-england-beds-bucks-herts-52838747"
+    },
+    {
+      "rank": "28.",
       "title": "Cozy is a modern audiobook player for Linux and macOS",
       "link": "https://github.com/geigi/cozy"
     },
     {
-      "rank": "23.",
+      "rank": "29.",
       "title": "Professor suspended for saying 那个 nà ge",
       "link": "https://languagelog.ldc.upenn.edu/nll/?p=48302"
     },
     {
-      "rank": "24.",
-      "title": "Hash Array Mapped Tries (HAMT) to the Rescue",
-      "link": "https://adlrocha.substack.com/p/adlrocha-hash-array-mapped-tries"
-    },
-    {
-      "rank": "25.",
-      "title": "Pregnancy Test Doom: Doom running on a pregnancy test",
-      "link": "https://twitter.com/Foone/status/1302820468819288066"
-    },
-    {
-      "rank": "26.",
-      "title": "Ask HN: Google Drive/Office 365 alternatives",
-      "link": "item?id=24398343"
-    },
-    {
-      "rank": "27.",
-      "title": "Explained: What is message encryption and how it works",
-      "link": "https://www.financialexpress.com/industry/technology/explained-what-is-message-encryption-and-how-it-works/1862064/"
-    },
-    {
-      "rank": "28.",
-      "title": "Solar eclipse measured on Mars, affects interior",
-      "link": "https://phys.org/news/2020-09-solar-eclipse-mars-affects-interior.html"
-    },
-    {
-      "rank": "29.",
-      "title": "Noita – roguelite where every pixel is simulated",
-      "link": "https://noitagame.com/"
-    },
-    {
       "rank": "30.",
-      "title": "Introduction to Computational Thinking",
-      "link": "https://mitmath.github.io/18S191/Fall20/"
+      "title": "Many Ways to Start an Xserver",
+      "link": "https://nixers.net/Thread-How-Many-Ways-To-Start-An-Xserver"
     }
   ],
   "metadata": {
