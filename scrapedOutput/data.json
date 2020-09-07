@@ -27,108 +27,108 @@
     },
     {
       "rank": "6.",
+      "title": "Please stop calling databases CP or AP (2015)",
+      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
+    },
+    {
+      "rank": "7.",
       "title": "With a simple piece of paper, engineers create self-powered, wireless keyboard",
       "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "The Stack Monoid",
       "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Unlimited Information Is Transforming Society",
       "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Hard to discover tips and apps for macOS",
       "link": "https://thume.ca/2020/09/04/macos-tips/"
     },
     {
-      "rank": "10.",
-      "title": "The economics of the Tour de France",
-      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
-    },
-    {
       "rank": "11.",
-      "title": "Fennel – Lisp in Lua",
-      "link": "https://fennel-lang.org"
-    },
-    {
-      "rank": "12.",
-      "title": "Tgppl, a radically new type of open-source license",
-      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
-    },
-    {
-      "rank": "13.",
-      "title": "CubeSat interplanetary exploration is heating up",
-      "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
-    },
-    {
-      "rank": "14.",
-      "title": "Facebook security app used to 'spy' on competitors (2019)",
-      "link": "https://www.bbc.co.uk/news/technology-47281906"
-    },
-    {
-      "rank": "15.",
-      "title": "Lending app publicly shames you when you’re late on loan payment",
-      "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
-    },
-    {
-      "rank": "16.",
-      "title": "Creality Developing Belt-Driven Desktop 3D Printer",
-      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
-    },
-    {
-      "rank": "17.",
-      "title": "Asynchronously Opening and Closing Files in Asyncio",
-      "link": "https://nullprogram.com/blog/2020/09/04/"
-    },
-    {
-      "rank": "18.",
       "title": "Letter to 20 Years Ago",
       "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
     },
     {
-      "rank": "19.",
-      "title": "The Silent Flight of Owls, Explained",
-      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
+      "rank": "12.",
+      "title": "The economics of the Tour de France",
+      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
     },
     {
-      "rank": "20.",
-      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
-      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
+      "rank": "13.",
+      "title": "Fennel – Lisp in Lua",
+      "link": "https://fennel-lang.org"
     },
     {
-      "rank": "21.",
-      "title": "Understanding OAuth2 and OpenID Connect",
-      "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
+      "rank": "14.",
+      "title": "Tgppl, a radically new type of open-source license",
+      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
     },
     {
-      "rank": "22.",
-      "title": "AES Finder – the utility to find AES keys in running process memory",
-      "link": "https://github.com/MantechUser/aes-finder"
+      "rank": "15.",
+      "title": "Facebook security app used to 'spy' on competitors (2019)",
+      "link": "https://www.bbc.co.uk/news/technology-47281906"
     },
     {
-      "rank": "23.",
-      "title": "Why it’s better to be the anti-status quo",
-      "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
-    },
-    {
-      "rank": "24.",
+      "rank": "16.",
       "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
       "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
+      "rank": "17.",
+      "title": "CubeSat interplanetary exploration is heating up",
+      "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
+    },
+    {
+      "rank": "18.",
+      "title": "Lending app publicly shames you when you’re late on loan payment",
+      "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
+    },
+    {
+      "rank": "19.",
+      "title": "Creality Developing Belt-Driven Desktop 3D Printer",
+      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
+    },
+    {
+      "rank": "20.",
+      "title": "Asynchronously Opening and Closing Files in Asyncio",
+      "link": "https://nullprogram.com/blog/2020/09/04/"
+    },
+    {
+      "rank": "21.",
+      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
+      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
+    },
+    {
+      "rank": "22.",
+      "title": "The Silent Flight of Owls, Explained",
+      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
+    },
+    {
+      "rank": "23.",
+      "title": "Understanding OAuth2 and OpenID Connect",
+      "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
+    },
+    {
+      "rank": "24.",
+      "title": "AES Finder – the utility to find AES keys in running process memory",
+      "link": "https://github.com/MantechUser/aes-finder"
+    },
+    {
       "rank": "25.",
-      "title": "How to take back control of /etc/resolv.conf on Linux (2018)",
-      "link": "https://www.ctrl.blog/entry/resolvconf-tutorial.html"
+      "title": "Why it’s better to be the anti-status quo",
+      "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
     },
     {
       "rank": "26.",
-      "title": "Good Ideas, Through the Looking Glass (2006) [pdf]",
-      "link": "https://people.inf.ethz.ch/wirth/Articles/GoodIdeas.pdf"
+      "title": "How to take back control of /etc/resolv.conf on Linux (2018)",
+      "link": "https://www.ctrl.blog/entry/resolvconf-tutorial.html"
     },
     {
       "rank": "27.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "Carmack on not being a power editor user",
-      "link": "https://twitter.com/id_aa_carmack/status/1302651878065475584"
+      "title": "Conscientious Objectors in Their Own Words",
+      "link": "https://www.iwm.org.uk/history/conscientious-objectors-in-their-own-words"
     },
     {
       "rank": "30.",
