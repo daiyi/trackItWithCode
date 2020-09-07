@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
-      "title": "Please stop calling databases CP or AP (2015)",
-      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
-    },
-    {
-      "rank": "3.",
       "title": "The Right to Repair could help address a critical shortage in school computers",
       "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
     },
     {
+      "rank": "3.",
+      "title": "Please stop calling databases CP or AP (2015)",
+      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
+    },
+    {
       "rank": "4.",
-      "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
-      "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
+      "title": "Elixir Is Erlang, not Ruby",
+      "link": "https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/"
     },
     {
       "rank": "5.",
@@ -27,18 +27,18 @@
     },
     {
       "rank": "6.",
-      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
-      "link": "item?id=24395894"
-    },
-    {
-      "rank": "7.",
       "title": "Attention is your scarcest resource",
       "link": "https://www.benkuhn.net/attention/"
     },
     {
+      "rank": "7.",
+      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
+      "link": "item?id=24395894"
+    },
+    {
       "rank": "8.",
-      "title": "Letter to 20 Years Ago",
-      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
+      "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
+      "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
     },
     {
       "rank": "9.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Elixir Is Erlang, not Ruby",
-      "link": "https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/"
+      "title": "The Stack Monoid",
+      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
     },
     {
       "rank": "11.",
-      "title": "The Stack Monoid",
-      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
+      "title": "Hard to discover tips and apps for macOS",
+      "link": "https://thume.ca/2020/09/04/macos-tips/"
     },
     {
       "rank": "12.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "Hard to discover tips and apps for macOS",
-      "link": "https://thume.ca/2020/09/04/macos-tips/"
+      "title": "Letter to 20 Years Ago",
+      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
     },
     {
       "rank": "14.",
@@ -82,13 +82,13 @@
     },
     {
       "rank": "17.",
-      "title": "Facebook security app used to 'spy' on competitors (2019)",
-      "link": "https://www.bbc.co.uk/news/technology-47281906"
+      "title": "Tgppl, a radically new type of open-source license",
+      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
     },
     {
       "rank": "18.",
-      "title": "Tgppl, a radically new type of open-source license",
-      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
+      "title": "Facebook security app used to 'spy' on competitors (2019)",
+      "link": "https://www.bbc.co.uk/news/technology-47281906"
     },
     {
       "rank": "19.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Conscientious Objectors in Their Own Words",
-      "link": "https://www.iwm.org.uk/history/conscientious-objectors-in-their-own-words"
+      "title": "Asynchronously Opening and Closing Files in Asyncio",
+      "link": "https://nullprogram.com/blog/2020/09/04/"
     },
     {
       "rank": "23.",
-      "title": "Asynchronously Opening and Closing Files in Asyncio",
-      "link": "https://nullprogram.com/blog/2020/09/04/"
+      "title": "Conscientious Objectors in Their Own Words",
+      "link": "https://www.iwm.org.uk/history/conscientious-objectors-in-their-own-words"
     },
     {
       "rank": "24.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
-      "title": "Why it’s better to be the anti-status quo",
-      "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
-    },
-    {
-      "rank": "27.",
       "title": "Creality Developing Belt-Driven Desktop 3D Printer",
       "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "The Silent Flight of Owls, Explained",
       "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
+    },
+    {
+      "rank": "28.",
+      "title": "Why it’s better to be the anti-status quo",
+      "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "The Ocean Is Struggling to Breathe, Too",
-      "link": "http://oceans.nautil.us/feature/613/the-ocean-is-struggling-to-breathe-too"
+      "title": "The New Neuroscience of Stuttering",
+      "link": "https://www.knowablemagazine.org/article/mind/2020/new-neuroscience-stuttering"
     }
   ],
   "metadata": {
