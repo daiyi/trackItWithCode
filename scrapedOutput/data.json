@@ -7,143 +7,143 @@
     },
     {
       "rank": "2.",
-      "title": "The Right to Repair could help address a critical shortage in school computers",
-      "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
-    },
-    {
-      "rank": "3.",
-      "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
-      "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
-    },
-    {
-      "rank": "4.",
-      "title": "Common color mistakes and how to avoid them",
-      "link": "https://blog.datawrapper.de/beautifulcolors/"
-    },
-    {
-      "rank": "5.",
-      "title": "Attention is your scarcest resource",
-      "link": "https://www.benkuhn.net/attention/"
-    },
-    {
-      "rank": "6.",
       "title": "Please stop calling databases CP or AP (2015)",
       "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
     },
     {
+      "rank": "3.",
+      "title": "The Right to Repair could help address a critical shortage in school computers",
+      "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
+    },
+    {
+      "rank": "4.",
+      "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
+      "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
+    },
+    {
+      "rank": "5.",
+      "title": "Common color mistakes and how to avoid them",
+      "link": "https://blog.datawrapper.de/beautifulcolors/"
+    },
+    {
+      "rank": "6.",
+      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
+      "link": "item?id=24395894"
+    },
+    {
       "rank": "7.",
-      "title": "With a simple piece of paper, engineers create self-powered, wireless keyboard",
-      "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
+      "title": "Attention is your scarcest resource",
+      "link": "https://www.benkuhn.net/attention/"
     },
     {
       "rank": "8.",
-      "title": "The Stack Monoid",
-      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
-    },
-    {
-      "rank": "9.",
-      "title": "Unlimited Information Is Transforming Society",
-      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
-    },
-    {
-      "rank": "10.",
-      "title": "Hard to discover tips and apps for macOS",
-      "link": "https://thume.ca/2020/09/04/macos-tips/"
-    },
-    {
-      "rank": "11.",
       "title": "Letter to 20 Years Ago",
       "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
     },
     {
+      "rank": "9.",
+      "title": "With a simple piece of paper, engineers create self-powered, wireless keyboard",
+      "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
+    },
+    {
+      "rank": "10.",
+      "title": "Elixir Is Erlang, not Ruby",
+      "link": "https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/"
+    },
+    {
+      "rank": "11.",
+      "title": "The Stack Monoid",
+      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
+    },
+    {
       "rank": "12.",
-      "title": "The economics of the Tour de France",
-      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
+      "title": "Unlimited Information Is Transforming Society",
+      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
     },
     {
       "rank": "13.",
-      "title": "Fennel – Lisp in Lua",
-      "link": "https://fennel-lang.org"
+      "title": "Hard to discover tips and apps for macOS",
+      "link": "https://thume.ca/2020/09/04/macos-tips/"
     },
     {
       "rank": "14.",
-      "title": "Tgppl, a radically new type of open-source license",
-      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
-    },
-    {
-      "rank": "15.",
-      "title": "Facebook security app used to 'spy' on competitors (2019)",
-      "link": "https://www.bbc.co.uk/news/technology-47281906"
-    },
-    {
-      "rank": "16.",
-      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
-      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
-    },
-    {
-      "rank": "17.",
-      "title": "CubeSat interplanetary exploration is heating up",
-      "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
-    },
-    {
-      "rank": "18.",
       "title": "Lending app publicly shames you when you’re late on loan payment",
       "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
     },
     {
+      "rank": "15.",
+      "title": "The economics of the Tour de France",
+      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
+    },
+    {
+      "rank": "16.",
+      "title": "Fennel – Lisp in Lua",
+      "link": "https://fennel-lang.org"
+    },
+    {
+      "rank": "17.",
+      "title": "Facebook security app used to 'spy' on competitors (2019)",
+      "link": "https://www.bbc.co.uk/news/technology-47281906"
+    },
+    {
+      "rank": "18.",
+      "title": "Tgppl, a radically new type of open-source license",
+      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
+    },
+    {
       "rank": "19.",
-      "title": "Creality Developing Belt-Driven Desktop 3D Printer",
-      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
+      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
+      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
       "rank": "20.",
+      "title": "CubeSat interplanetary exploration is heating up",
+      "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
+    },
+    {
+      "rank": "21.",
+      "title": "From the Seabed, Figures of an Ancient Cult",
+      "link": "https://www.nytimes.com/2020/09/01/science/archaeology-phoenician-israel-shavei-zion.html"
+    },
+    {
+      "rank": "22.",
+      "title": "Conscientious Objectors in Their Own Words",
+      "link": "https://www.iwm.org.uk/history/conscientious-objectors-in-their-own-words"
+    },
+    {
+      "rank": "23.",
       "title": "Asynchronously Opening and Closing Files in Asyncio",
       "link": "https://nullprogram.com/blog/2020/09/04/"
     },
     {
-      "rank": "21.",
-      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
-      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
-    },
-    {
-      "rank": "22.",
-      "title": "The Silent Flight of Owls, Explained",
-      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
-    },
-    {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "AES Finder – the utility to find AES keys in running process memory",
       "link": "https://github.com/MantechUser/aes-finder"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Why it’s better to be the anti-status quo",
       "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
     },
     {
-      "rank": "26.",
-      "title": "How to take back control of /etc/resolv.conf on Linux (2018)",
-      "link": "https://www.ctrl.blog/entry/resolvconf-tutorial.html"
-    },
-    {
       "rank": "27.",
-      "title": "Tech workers flee Belarus as IT haven takes authoritarian turn",
-      "link": "https://www.bloombergquint.com/businessweek/belarus-protests-tech-workers-flee-as-country-takes-authoritarian-turn"
+      "title": "Creality Developing Belt-Driven Desktop 3D Printer",
+      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
     },
     {
       "rank": "28.",
-      "title": "The New Neuroscience of Stuttering",
-      "link": "https://www.knowablemagazine.org/article/mind/2020/new-neuroscience-stuttering"
+      "title": "The Silent Flight of Owls, Explained",
+      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
     },
     {
       "rank": "29.",
-      "title": "Conscientious Objectors in Their Own Words",
-      "link": "https://www.iwm.org.uk/history/conscientious-objectors-in-their-own-words"
+      "title": "Tech workers flee Belarus as IT haven takes authoritarian turn",
+      "link": "https://www.bloombergquint.com/businessweek/belarus-protests-tech-workers-flee-as-country-takes-authoritarian-turn"
     },
     {
       "rank": "30.",
