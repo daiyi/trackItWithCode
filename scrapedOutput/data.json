@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "Companies that help people vanish",
-      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
+      "title": "A floppy-disk Walkman using a Raspberry Pi",
+      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
     },
     {
       "rank": "6.",
@@ -32,23 +32,23 @@
     },
     {
       "rank": "7.",
-      "title": "A floppy-disk Walkman using a Raspberry Pi",
-      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
-    },
-    {
-      "rank": "8.",
       "title": "Introduction to Computational Thinking",
       "link": "https://mitmath.github.io/18S191/Fall20/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Please stop calling databases CP or AP (2015)",
       "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "FlauBERT and Flue: French Bert",
       "link": "https://github.com/getalp/Flaubert"
+    },
+    {
+      "rank": "10.",
+      "title": "Companies that help people vanish",
+      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
     },
     {
       "rank": "11.",
@@ -67,18 +67,18 @@
     },
     {
       "rank": "14.",
+      "title": "Pregnancy Test Doom: Doom running on a pregnancy test",
+      "link": "https://twitter.com/Foone/status/1302820468819288066"
+    },
+    {
+      "rank": "15.",
       "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
       "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Unlimited Information Is Transforming Society",
       "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
-    },
-    {
-      "rank": "16.",
-      "title": "3D Realms announces Graven, the spiritual successor to Hexen II",
-      "link": "https://www.techspot.com/news/86651-3d-realms-announces-graven-spiritual-successor-hexen-ii.html"
     },
     {
       "rank": "17.",
@@ -87,58 +87,58 @@
     },
     {
       "rank": "18.",
-      "title": "Attention is your scarcest resource",
-      "link": "https://www.benkuhn.net/attention/"
+      "title": "3D Realms announces Graven, the spiritual successor to Hexen II",
+      "link": "https://www.techspot.com/news/86651-3d-realms-announces-graven-spiritual-successor-hexen-ii.html"
     },
     {
       "rank": "19.",
-      "title": "Common color mistakes and how to avoid them",
-      "link": "https://blog.datawrapper.de/beautifulcolors/"
-    },
-    {
-      "rank": "20.",
-      "title": "The economics of the Tour de France",
-      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
-    },
-    {
-      "rank": "21.",
-      "title": "Lending app publicly shames you when you’re late on loan payment",
-      "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
-    },
-    {
-      "rank": "22.",
       "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
       "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
+      "rank": "20.",
+      "title": "Attention is your scarcest resource",
+      "link": "https://www.benkuhn.net/attention/"
+    },
+    {
+      "rank": "21.",
+      "title": "The Trials of Psychedelic Therapy",
+      "link": "https://psypressuk.com/2020/01/31/psychedelic-therapy-oram/"
+    },
+    {
+      "rank": "22.",
+      "title": "Common color mistakes and how to avoid them",
+      "link": "https://blog.datawrapper.de/beautifulcolors/"
+    },
+    {
       "rank": "23.",
-      "title": "Tgppl, a new type of open-source license",
-      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
+      "title": "The economics of the Tour de France",
+      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
     },
     {
       "rank": "24.",
-      "title": "The Silent Flight of Owls, Explained (2017)",
-      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
-    },
-    {
-      "rank": "25.",
       "title": "Psychedelic Fishes from the World’s First Encyclopedia of Marine Creatures",
       "link": "https://www.brainpickings.org/2020/08/15/louis-renard-poissons/"
     },
     {
+      "rank": "25.",
+      "title": "The Silent Flight of Owls, Explained (2017)",
+      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
+    },
+    {
       "rank": "26.",
-      "title": "Understanding OAuth2 and OpenID Connect",
-      "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
+      "title": "Tgppl, a new type of open-source license",
+      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
     },
     {
       "rank": "27.",
-      "title": "Pregnancy Test Doom: Doom running on a pregnancy test",
-      "link": "https://twitter.com/Foone/status/1302820468819288066"
+      "title": "Why it’s better to be the anti-status quo",
+      "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
     },
     {
       "rank": "28.",
-      "title": "Why it’s better to be the anti-status quo",
-      "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
+      "title": "'Super bacteria' survives for three years outside space station",
+      "link": "https://www.bbc.com/news/av/science-environment-54029521"
     },
     {
       "rank": "29.",
