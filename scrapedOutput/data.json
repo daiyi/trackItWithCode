@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
+      "title": "How to speed up the Rust compiler one last time",
+      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+    },
+    {
+      "rank": "4.",
       "title": "The US Army spent millions developing giant, six-legged walking trucks in 1980s",
       "link": "https://www.thedrive.com/news/36157/the-us-army-spent-millions-developing-giant-six-legged-walking-trucks-in-the-1980s"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Desolate English path has killed more than 100 people (2017)",
       "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Optimize Onboarding",
       "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
-    },
-    {
-      "rank": "6.",
-      "title": "How to speed up the Rust compiler one last time",
-      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
     },
     {
       "rank": "7.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
+      "title": "Which GPUs to get for deep learning",
+      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
+    },
+    {
+      "rank": "9.",
       "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
       "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Bash Pitfalls",
       "link": "https://mywiki.wooledge.org/BashPitfalls"
-    },
-    {
-      "rank": "10.",
-      "title": "Which GPUs to get for deep learning",
-      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
     },
     {
       "rank": "11.",
@@ -57,73 +57,73 @@
     },
     {
       "rank": "12.",
-      "title": "Loose Lips Sink MIPS",
-      "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
-    },
-    {
-      "rank": "13.",
-      "title": "How can you make subjective time go slower?",
-      "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
-    },
-    {
-      "rank": "14.",
-      "title": "Pony, Actors, Causality, Types, and Garbage Collection",
-      "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
-    },
-    {
-      "rank": "15.",
       "title": "Universal Paperclips",
       "link": "https://www.decisionproblem.com/paperclips/"
     },
     {
-      "rank": "16.",
-      "title": "Calculating the sample size required for developing a clinical prediction model",
-      "link": "https://www.bmj.com/content/368/bmj.m441/rr"
+      "rank": "13.",
+      "title": "Loose Lips Sink MIPS",
+      "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
     },
     {
-      "rank": "17.",
+      "rank": "14.",
+      "title": "How can you make subjective time go slower?",
+      "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
+    },
+    {
+      "rank": "15.",
+      "title": "Pony, Actors, Causality, Types, and Garbage Collection",
+      "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
+    },
+    {
+      "rank": "16.",
       "title": "The 10,000 Year Clock",
       "link": "https://longnow.org/clock/"
     },
     {
-      "rank": "18.",
-      "title": "Threat modelling case study: bicycles",
-      "link": "http://calpaterson.com/bicycle-threat-model.html"
+      "rank": "17.",
+      "title": "Calculating the sample size required for developing a clinical prediction model",
+      "link": "https://www.bmj.com/content/368/bmj.m441/rr"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Smart watches could do more for wheelchair users",
       "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Geometric Algebra for Python",
       "link": "https://github.com/pygae/clifford"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Raspberry Pi 3B+ Hackable Linux Handheld",
       "link": "http://yarh.io/yarh-io-mki.html"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
       "link": "https://base32h.github.io"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Withings' ScanWatch packs ECG and SpO2 sensors alongside the usual tools",
       "link": "https://www.engadget.com/withings-scanwatch-hands-on-ifa-2020-070001875.html"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Gary Marcus's Kafkaesque critique of GPT-3",
       "link": "https://nostalgebraist.tumblr.com/post/628024664310136832/gary-marcus-has-co-authored-a-brief-critique-of"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Does storing bread in the fridge make it last longer? (2019)",
       "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
+    },
+    {
+      "rank": "25.",
+      "title": "Named Parameters in C++20",
+      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Named Parameters in C++20",
-      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
-    },
-    {
-      "rank": "28.",
       "title": "Why it is important that software projects fail (2008)",
       "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Netflix boss: Remote working has negative effects",
       "link": "https://www.wsj.com/articles/netflixs-reed-hastings-deems-remote-work-a-pure-negative-11599487219"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Show HN: I built an app that helps amplify the voice of the customer",
       "link": "https://www.shieldvoc.com/"
+    },
+    {
+      "rank": "30.",
+      "title": "Doom Eternal – Graphics Study",
+      "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
     }
   ],
   "metadata": {
