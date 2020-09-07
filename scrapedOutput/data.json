@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Does Storing Bread in the Fridge Make it Last Longer? (2019)",
-      "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
+      "title": "Named Parameters in C++20",
+      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
     },
     {
       "rank": "7.",
@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
+      "title": "Does Storing Bread in the Fridge Make it Last Longer? (2019)",
+      "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
+    },
+    {
+      "rank": "9.",
       "title": "International Space Station 437.800 MHz cross band FM repeater activated",
       "link": "https://amsat-uk.org/2020/09/02/iss-fm-repeater-activated/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Show HN: AI color palette generator for Tailwindcss",
       "link": "https://tailwind.ink/"
     },
     {
-      "rank": "10.",
-      "title": "Named Parameters in C++20",
-      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
-    },
-    {
       "rank": "11.",
-      "title": "A history of elliptic curves in tweets",
-      "link": "https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html"
+      "title": "800x480 Touchscreen Raspberry Pi 3B+ Hackable Linux Handheld",
+      "link": "http://yarh.io/yarh-io-mki.html"
     },
     {
       "rank": "12.",
-      "title": "800x480 Touchscreen Raspberry Pi 3B+ Hackable Linux Handheld",
-      "link": "http://yarh.io/yarh-io-mki.html"
+      "title": "A history of elliptic curves in tweets",
+      "link": "https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html"
     },
     {
       "rank": "13.",
@@ -87,28 +87,28 @@
     },
     {
       "rank": "18.",
-      "title": "Cozy is a modern audiobook player for Linux and macOS",
-      "link": "https://github.com/geigi/cozy"
-    },
-    {
-      "rank": "19.",
       "title": "Scale model of 'Flying-V' airplane makes successful maiden flight",
       "link": "https://edition.cnn.com/travel/article/flying-v-maiden-flight-intl-scli-grm/index.html"
     },
     {
-      "rank": "20.",
-      "title": "The economics of fun – The secret economics of a VIP party",
-      "link": "https://www.economist.com/1843/2020/07/03/the-secret-economics-of-a-vip-party"
+      "rank": "19.",
+      "title": "Cozy is a modern audiobook player for Linux and macOS",
+      "link": "https://github.com/geigi/cozy"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Woman hatches ducks from Waitrose eggs",
       "link": "https://www.bbc.com/news/uk-england-beds-bucks-herts-52838747"
     },
     {
+      "rank": "21.",
+      "title": "The economics of fun – The secret economics of a VIP party",
+      "link": "https://www.economist.com/1843/2020/07/03/the-secret-economics-of-a-vip-party"
+    },
+    {
       "rank": "22.",
-      "title": "Show HN: Would you have survived the Titanic?",
-      "link": "https://www.gradio.app/hub/hub-titanic#2"
+      "title": "Hash Array Mapped Tries (HAMT) to the Rescue",
+      "link": "https://adlrocha.substack.com/p/adlrocha-hash-array-mapped-tries"
     },
     {
       "rank": "23.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
-      "title": "Ask HN: Google Drive/Office 365 alternatives",
-      "link": "item?id=24398343"
-    },
-    {
-      "rank": "25.",
       "title": "Elixir Is Erlang, not Ruby",
       "link": "https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/"
     },
     {
+      "rank": "25.",
+      "title": "Ask HN: Google Drive/Office 365 alternatives",
+      "link": "item?id=24398343"
+    },
+    {
       "rank": "26.",
-      "title": "Hash Array Mapped Tries (HAMT) to the Rescue",
-      "link": "https://adlrocha.substack.com/p/adlrocha-hash-array-mapped-tries"
+      "title": "The Beautiful, Dark, Twisted, GPT-3 Generated Nassim Taleb Aphorisms",
+      "link": "https://medium.com/ml-everything/the-beautiful-dark-twisted-gpt-3-generated-nassim-taleb-aphorisms-a750d6572ee3"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "The Beautiful, Dark, Twisted, GPT-3 Generated Nassim Taleb Aphorisms",
-      "link": "https://medium.com/ml-everything/the-beautiful-dark-twisted-gpt-3-generated-nassim-taleb-aphorisms-a750d6572ee3"
-    },
-    {
-      "rank": "29.",
       "title": "The Right to Repair could help address a critical shortage in school computers",
       "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Noita – roguelite where every pixel is simulated",
       "link": "https://noitagame.com/"
+    },
+    {
+      "rank": "30.",
+      "title": "Introduction to Computational Thinking",
+      "link": "https://mitmath.github.io/18S191/Fall20/"
     }
   ],
   "metadata": {
