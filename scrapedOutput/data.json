@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
-      "link": "item?id=24395894"
+      "title": "With a simple piece of paper, engineers create self-powered, wireless keyboard",
+      "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
     },
     {
       "rank": "9.",
-      "title": "With a simple piece of paper, engineers create self-powered, wireless keyboard",
-      "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
+      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
+      "link": "item?id=24395894"
     },
     {
       "rank": "10.",
@@ -57,43 +57,43 @@
     },
     {
       "rank": "12.",
-      "title": "Unlimited Information Is Transforming Society",
-      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
-    },
-    {
-      "rank": "13.",
-      "title": "PostgreSQL 13Beta3: B-Tree index deduplication",
-      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
-    },
-    {
-      "rank": "14.",
-      "title": "The economics of the Tour de France",
-      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
-    },
-    {
-      "rank": "15.",
       "title": "Hard to discover tips and apps for macOS",
       "link": "https://thume.ca/2020/09/04/macos-tips/"
     },
     {
-      "rank": "16.",
-      "title": "Letter to 20 Years Ago",
-      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
-    },
-    {
-      "rank": "17.",
-      "title": "Fennel – Lisp in Lua",
-      "link": "https://fennel-lang.org"
-    },
-    {
-      "rank": "18.",
+      "rank": "13.",
       "title": "Fairness Definitions Explained [pdf]",
       "link": "http://www.ece.ubc.ca/~mjulia/publications/Fairness_Definitions_Explained_2018.pdf"
     },
     {
-      "rank": "19.",
+      "rank": "14.",
+      "title": "Unlimited Information Is Transforming Society",
+      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
+    },
+    {
+      "rank": "15.",
+      "title": "PostgreSQL 13Beta3: B-Tree index deduplication",
+      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
+    },
+    {
+      "rank": "16.",
+      "title": "Fennel – Lisp in Lua",
+      "link": "https://fennel-lang.org"
+    },
+    {
+      "rank": "17.",
+      "title": "Letter to 20 Years Ago",
+      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
+    },
+    {
+      "rank": "18.",
       "title": "Facebook security app used to 'spy' on competitors (2019)",
       "link": "https://www.bbc.co.uk/news/technology-47281906"
+    },
+    {
+      "rank": "19.",
+      "title": "The economics of the Tour de France",
+      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
     },
     {
       "rank": "20.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "My thoughts about editors in 2020",
+      "link": "https://phaazon.net/blog/editors-in-2020"
+    },
+    {
+      "rank": "25.",
       "title": "Conscientious Objectors in Their Own Words",
       "link": "https://www.iwm.org.uk/history/conscientious-objectors-in-their-own-words"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
+      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
+    },
+    {
+      "rank": "27.",
       "title": "AES Finder – the utility to find AES keys in running process memory",
       "link": "https://github.com/MantechUser/aes-finder"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
     },
     {
-      "rank": "27.",
-      "title": "From the Seabed, Figures of an Ancient Cult",
-      "link": "https://www.nytimes.com/2020/09/01/science/archaeology-phoenician-israel-shavei-zion.html"
-    },
-    {
-      "rank": "28.",
-      "title": "Creality Developing Belt-Driven Desktop 3D Printer",
-      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
-    },
-    {
       "rank": "29.",
-      "title": "Why it’s better to be the anti-status quo",
-      "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
+      "title": "The Silent Flight of Owls, Explained",
+      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
     },
     {
       "rank": "30.",
-      "title": "The Silent Flight of Owls, Explained",
-      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
+      "title": "Creality Developing Belt-Driven Desktop 3D Printer",
+      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
     }
   ],
   "metadata": {
