@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "A floppy-disk Walkman using a Raspberry Pi",
-      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
+      "title": "PostgreSQL B-Tree index deduplication",
+      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
     },
     {
       "rank": "6.",
-      "title": "PostgreSQL B-Tree index deduplication",
-      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
+      "title": "A floppy-disk Walkman using a Raspberry Pi",
+      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
     },
     {
       "rank": "7.",
@@ -37,53 +37,53 @@
     },
     {
       "rank": "8.",
-      "title": "Attention is your scarcest resource",
-      "link": "https://www.benkuhn.net/attention/"
-    },
-    {
-      "rank": "9.",
       "title": "Introduction to Computational Thinking",
       "link": "https://mitmath.github.io/18S191/Fall20/"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Please stop calling databases CP or AP (2015)",
       "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "FlauBERT and Flue: French Bert",
       "link": "https://github.com/getalp/Flaubert"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
       "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "The Stack Monoid",
       "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "With a simple piece of paper, engineers create self-powered, wireless keyboard",
       "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
     },
     {
+      "rank": "14.",
+      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
+      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
+    },
+    {
       "rank": "15.",
-      "title": "Hard to discover tips and apps for macOS",
-      "link": "https://thume.ca/2020/09/04/macos-tips/"
+      "title": "Unlimited Information Is Transforming Society",
+      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
     },
     {
       "rank": "16.",
-      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
-      "link": "item?id=24395894"
+      "title": "3D Realms announces Graven, the spiritual successor to Hexen II",
+      "link": "https://www.techspot.com/news/86651-3d-realms-announces-graven-spiritual-successor-hexen-ii.html"
     },
     {
       "rank": "17.",
-      "title": "Unlimited Information Is Transforming Society",
-      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
+      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
+      "link": "item?id=24395894"
     },
     {
       "rank": "18.",
@@ -92,63 +92,63 @@
     },
     {
       "rank": "19.",
-      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
-      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
+      "title": "Attention is your scarcest resource",
+      "link": "https://www.benkuhn.net/attention/"
     },
     {
       "rank": "20.",
-      "title": "3D Realms announces Graven, the spiritual successor to Hexen II",
-      "link": "https://www.techspot.com/news/86651-3d-realms-announces-graven-spiritual-successor-hexen-ii.html"
-    },
-    {
-      "rank": "21.",
       "title": "Common color mistakes and how to avoid them",
       "link": "https://blog.datawrapper.de/beautifulcolors/"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "The economics of the Tour de France",
       "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
       "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Psychedelic Fishes from the World’s First Encyclopedia of Marine Creatures",
       "link": "https://www.brainpickings.org/2020/08/15/louis-renard-poissons/"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Tgppl, a new type of open-source license",
       "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "The Silent Flight of Owls, Explained",
       "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Why it’s better to be the anti-status quo",
       "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "CubeSat interplanetary exploration is heating up",
       "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Asynchronously Opening and Closing Files in Asyncio",
       "link": "https://nullprogram.com/blog/2020/09/04/"
+    },
+    {
+      "rank": "30.",
+      "title": "Letter to 20 Years Ago",
+      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
     }
   ],
   "metadata": {
