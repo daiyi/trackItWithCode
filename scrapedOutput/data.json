@@ -32,33 +32,33 @@
     },
     {
       "rank": "7.",
-      "title": "Cozy is a modern audiobook player for Linux and macOS",
-      "link": "https://github.com/geigi/cozy"
-    },
-    {
-      "rank": "8.",
       "title": "A floppy-disk Walkman using a Raspberry Pi",
       "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "PostgreSQL B-Tree index deduplication",
       "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
       "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
     },
     {
+      "rank": "10.",
+      "title": "The Bully's Pulpit – On the elementary structure of domination",
+      "link": "https://thebaffler.com/salvos/bullys-pulpit"
+    },
+    {
       "rank": "11.",
-      "title": "Please stop calling databases CP or AP (2015)",
-      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
+      "title": "Cozy is a modern audiobook player for Linux and macOS",
+      "link": "https://github.com/geigi/cozy"
     },
     {
       "rank": "12.",
-      "title": "The Bully's Pulpit – On the elementary structure of domination",
-      "link": "https://thebaffler.com/salvos/bullys-pulpit"
+      "title": "Please stop calling databases CP or AP (2015)",
+      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
     },
     {
       "rank": "13.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "The Right to Repair could help address a critical shortage in school computers",
-      "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
+      "title": "The Beautiful, Dark, Twisted, GPT-3 Generated Nassim Taleb Aphorisms",
+      "link": "https://medium.com/ml-everything/the-beautiful-dark-twisted-gpt-3-generated-nassim-taleb-aphorisms-a750d6572ee3"
     },
     {
       "rank": "19.",
@@ -97,23 +97,23 @@
     },
     {
       "rank": "20.",
+      "title": "The Right to Repair could help address a critical shortage in school computers",
+      "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
+    },
+    {
+      "rank": "21.",
       "title": "Noita – roguelite where every pixel is simulated",
       "link": "https://noitagame.com/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Attention is your scarcest resource",
       "link": "https://www.benkuhn.net/attention/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Common color mistakes and how to avoid them",
       "link": "https://blog.datawrapper.de/beautifulcolors/"
-    },
-    {
-      "rank": "23.",
-      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
-      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "Tgppl, a new type of open-source license",
-      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
+      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
+      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
       "rank": "26.",
-      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
-      "link": "item?id=24395894"
-    },
-    {
-      "rank": "27.",
       "title": "Companies that help people vanish",
       "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
     },
     {
-      "rank": "28.",
-      "title": "3D Realms announces Graven, the spiritual successor to Hexen II",
-      "link": "https://www.techspot.com/news/86651-3d-realms-announces-graven-spiritual-successor-hexen-ii.html"
+      "rank": "27.",
+      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
+      "link": "item?id=24395894"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Letter to 20 Years Ago",
       "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Things I Learned to Become a Senior Software Engineer",
       "link": "https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html"
+    },
+    {
+      "rank": "30.",
+      "title": "3D Realms announces Graven, the spiritual successor to Hexen II",
+      "link": "https://www.techspot.com/news/86651-3d-realms-announces-graven-spiritual-successor-hexen-ii.html"
     }
   ],
   "metadata": {
