@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Show HN: AI color palette generator for Tailwindcss",
-      "link": "https://tailwind.ink/"
+      "title": "Professor suspended for saying 那个",
+      "link": "https://languagelog.ldc.upenn.edu/nll/?p=48302"
     },
     {
       "rank": "2.",
-      "title": "Cozy is a modern audiobook player for Linux and macOS",
-      "link": "https://github.com/geigi/cozy"
+      "title": "Show HN: AI color palette generator for Tailwindcss",
+      "link": "https://tailwind.ink/"
     },
     {
       "rank": "3.",
@@ -17,58 +17,58 @@
     },
     {
       "rank": "4.",
+      "title": "Cozy is a modern audiobook player for Linux and macOS",
+      "link": "https://github.com/geigi/cozy"
+    },
+    {
+      "rank": "5.",
       "title": "Noita – roguelite where every pixel is simulated",
       "link": "https://noitagame.com/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Introduction to Computational Thinking",
       "link": "https://mitmath.github.io/18S191/Fall20/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "PostgreSQL B-Tree index deduplication",
       "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "A floppy-disk Walkman using a Raspberry Pi",
       "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Please stop calling databases CP or AP (2015)",
       "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "FlauBERT and Flue: French Bert",
       "link": "https://github.com/getalp/Flaubert"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Pregnancy Test Doom: Doom running on a pregnancy test",
       "link": "https://twitter.com/Foone/status/1302820468819288066"
     },
     {
-      "rank": "11.",
-      "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
-      "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
-    },
-    {
       "rank": "12.",
-      "title": "Companies that help people vanish",
-      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
-    },
-    {
-      "rank": "13.",
       "title": "The Trials of Psychedelic Therapy",
       "link": "https://psypressuk.com/2020/01/31/psychedelic-therapy-oram/"
     },
     {
+      "rank": "13.",
+      "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
+      "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
+    },
+    {
       "rank": "14.",
-      "title": "The Stack Monoid",
-      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
+      "title": "Companies that help people vanish",
+      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
     },
     {
       "rank": "15.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "CubeSat interplanetary exploration is heating up",
-      "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
-    },
-    {
-      "rank": "29.",
       "title": "Letter to 20 Years Ago",
       "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "The Silent Flight of Owls, Explained (2017)",
       "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
+    },
+    {
+      "rank": "30.",
+      "title": "Asynchronously Opening and Closing Files in Asyncio",
+      "link": "https://nullprogram.com/blog/2020/09/04/"
     }
   ],
   "metadata": {
