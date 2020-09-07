@@ -17,78 +17,78 @@
     },
     {
       "rank": "4.",
-      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
-      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
-    },
-    {
-      "rank": "5.",
       "title": "Desolate English path has killed more than 100 people (2017)",
       "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
     },
     {
+      "rank": "5.",
+      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
+      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
+    },
+    {
       "rank": "6.",
-      "title": "Bash Pitfalls",
-      "link": "https://mywiki.wooledge.org/BashPitfalls"
+      "title": "Smarking (YC W15) is hiring a Tech Lead Back end to scale mobility tech infra",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
     },
     {
       "rank": "7.",
+      "title": "The tone of the first two weeks is critical to successful onboarding",
+      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+    },
+    {
+      "rank": "8.",
       "title": "Loose Lips Sink MIPS",
       "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
+      "title": "Bash Pitfalls",
+      "link": "https://mywiki.wooledge.org/BashPitfalls"
+    },
+    {
+      "rank": "10.",
       "title": "My Experience and Advice for Using GPUs in Deep Learning",
       "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
     },
     {
-      "rank": "9.",
+      "rank": "11.",
       "title": "How can you make subjective time go slower?",
       "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
     },
     {
-      "rank": "10.",
+      "rank": "12.",
       "title": "Pony, Actors, Causality, Types, and Garbage Collection",
       "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
     },
     {
-      "rank": "11.",
-      "title": "Threat modelling case study: bicycles",
-      "link": "http://calpaterson.com/bicycle-threat-model.html"
-    },
-    {
-      "rank": "12.",
-      "title": "Universal Paperclips",
-      "link": "https://www.decisionproblem.com/paperclips/"
-    },
-    {
       "rank": "13.",
-      "title": "The 10,000 Year Clock",
-      "link": "https://longnow.org/clock/"
-    },
-    {
-      "rank": "14.",
-      "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
-      "link": "https://substack.com/jobs"
-    },
-    {
-      "rank": "15.",
-      "title": "Calculating the sample size required for developing a clinical prediction model",
-      "link": "https://www.bmj.com/content/368/bmj.m441/rr"
-    },
-    {
-      "rank": "16.",
       "title": "Charge more for app subscriptions",
       "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
     },
     {
+      "rank": "14.",
+      "title": "Threat modelling case study: bicycles",
+      "link": "http://calpaterson.com/bicycle-threat-model.html"
+    },
+    {
+      "rank": "15.",
+      "title": "Universal Paperclips",
+      "link": "https://www.decisionproblem.com/paperclips/"
+    },
+    {
+      "rank": "16.",
+      "title": "The 10,000 Year Clock",
+      "link": "https://longnow.org/clock/"
+    },
+    {
       "rank": "17.",
-      "title": "Smart Watches Could Do More for Wheelchair Users",
-      "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
+      "title": "Calculating the sample size required for developing a clinical prediction model",
+      "link": "https://www.bmj.com/content/368/bmj.m441/rr"
     },
     {
       "rank": "18.",
-      "title": "The tone of the first two weeks is critical to successful onboarding",
-      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+      "title": "Smart Watches Could Do More for Wheelchair Users",
+      "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
     },
     {
       "rank": "19.",
@@ -97,23 +97,23 @@
     },
     {
       "rank": "20.",
-      "title": "Show HN: I built an app that helps amplify the voice of the customer",
-      "link": "https://www.shieldvoc.com/"
-    },
-    {
-      "rank": "21.",
       "title": "Gary Marcus's Kafkaesque critique of GPT-3",
       "link": "https://nostalgebraist.tumblr.com/post/628024664310136832/gary-marcus-has-co-authored-a-brief-critique-of"
     },
     {
+      "rank": "21.",
+      "title": "Show HN: I built an app that helps amplify the voice of the customer",
+      "link": "https://www.shieldvoc.com/"
+    },
+    {
       "rank": "22.",
-      "title": "Withings' ScanWatch packs ECG and SpO2 sensors alongside the usual tools",
-      "link": "https://www.engadget.com/withings-scanwatch-hands-on-ifa-2020-070001875.html"
+      "title": "Raspberry Pi 3B+ Hackable Linux Handheld",
+      "link": "http://yarh.io/yarh-io-mki.html"
     },
     {
       "rank": "23.",
-      "title": "Raspberry Pi 3B+ Hackable Linux Handheld",
-      "link": "http://yarh.io/yarh-io-mki.html"
+      "title": "Withings' ScanWatch packs ECG and SpO2 sensors alongside the usual tools",
+      "link": "https://www.engadget.com/withings-scanwatch-hands-on-ifa-2020-070001875.html"
     },
     {
       "rank": "24.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Named Parameters in C++20",
+      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
+    },
+    {
+      "rank": "29.",
       "title": "Ask HN: Working part-time in tech?",
       "link": "item?id=24401206"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "The history of Cracker Jack prizes (2016)",
       "link": "https://www.antiquetrader.com/collectibles/cracker-jack-prize-collecting-treat-for-ages"
-    },
-    {
-      "rank": "30.",
-      "title": "Named Parameters in C++20",
-      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
     }
   ],
   "metadata": {
