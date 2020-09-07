@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Why it is Important that Software Projects Fail (2008)",
-      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
+      "title": "The economics of fun – The secret economics of a VIP party",
+      "link": "https://www.economist.com/1843/2020/07/03/the-secret-economics-of-a-vip-party"
     },
     {
       "rank": "6.",
-      "title": "Named Parameters in C++20",
-      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
+      "title": "Why it is Important that Software Projects Fail (2008)",
+      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
     },
     {
       "rank": "7.",
@@ -37,43 +37,43 @@
     },
     {
       "rank": "8.",
-      "title": "Does Storing Bread in the Fridge Make it Last Longer? (2019)",
-      "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
+      "title": "Named Parameters in C++20",
+      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
     },
     {
       "rank": "9.",
-      "title": "International Space Station 437.800 MHz cross band FM repeater activated",
-      "link": "https://amsat-uk.org/2020/09/02/iss-fm-repeater-activated/"
-    },
-    {
-      "rank": "10.",
-      "title": "Show HN: AI color palette generator for Tailwindcss",
-      "link": "https://tailwind.ink/"
-    },
-    {
-      "rank": "11.",
       "title": "800x480 Touchscreen Raspberry Pi 3B+ Hackable Linux Handheld",
       "link": "http://yarh.io/yarh-io-mki.html"
     },
     {
-      "rank": "12.",
+      "rank": "10.",
       "title": "A history of elliptic curves in tweets",
       "link": "https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html"
     },
     {
+      "rank": "11.",
+      "title": "Does Storing Bread in the Fridge Make it Last Longer? (2019)",
+      "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
+    },
+    {
+      "rank": "12.",
+      "title": "International Space Station 437.800 MHz cross band FM repeater activated",
+      "link": "https://amsat-uk.org/2020/09/02/iss-fm-repeater-activated/"
+    },
+    {
       "rank": "13.",
+      "title": "Show HN: AI color palette generator for Tailwindcss",
+      "link": "https://tailwind.ink/"
+    },
+    {
+      "rank": "14.",
       "title": "“At 31, I have just weeks to live. Here's what I want to pass on”",
       "link": "https://www.theguardian.com/commentisfree/2020/sep/07/terminal-cancer-live-cancer-life-death"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Kindle edition of Classic Computer Science Problems in Python is unauthorized",
       "link": "https://twitter.com/davekopec/status/1302578592552022018"
-    },
-    {
-      "rank": "15.",
-      "title": "Microsoft’s $10bn Jedi cloud contract “sets dangerous precedent”, says AWS",
-      "link": "https://tech.newstatesman.com/cloud/microsoft-jedi-contract-precedent-aws"
     },
     {
       "rank": "16.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
-      "title": "The economics of fun – The secret economics of a VIP party",
-      "link": "https://www.economist.com/1843/2020/07/03/the-secret-economics-of-a-vip-party"
-    },
-    {
-      "rank": "22.",
       "title": "Hash Array Mapped Tries (HAMT) to the Rescue",
       "link": "https://adlrocha.substack.com/p/adlrocha-hash-array-mapped-tries"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Pregnancy Test Doom: Doom running on a pregnancy test",
       "link": "https://twitter.com/Foone/status/1302820468819288066"
+    },
+    {
+      "rank": "23.",
+      "title": "Ask HN: Google Drive/Office 365 alternatives",
+      "link": "item?id=24398343"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "Ask HN: Google Drive/Office 365 alternatives",
-      "link": "item?id=24398343"
-    },
-    {
-      "rank": "26.",
       "title": "The Beautiful, Dark, Twisted, GPT-3 Generated Nassim Taleb Aphorisms",
       "link": "https://medium.com/ml-everything/the-beautiful-dark-twisted-gpt-3-generated-nassim-taleb-aphorisms-a750d6572ee3"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Solar eclipse measured on Mars, affects interior",
       "link": "https://phys.org/news/2020-09-solar-eclipse-mars-affects-interior.html"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "The Right to Repair could help address a critical shortage in school computers",
       "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "Noita – roguelite where every pixel is simulated",
       "link": "https://noitagame.com/"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Introduction to Computational Thinking",
       "link": "https://mitmath.github.io/18S191/Fall20/"
+    },
+    {
+      "rank": "30.",
+      "title": "Attention is your scarcest resource",
+      "link": "https://www.benkuhn.net/attention/"
     }
   ],
   "metadata": {
