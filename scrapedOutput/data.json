@@ -22,28 +22,28 @@
     },
     {
       "rank": "5.",
+      "title": "A floppy-disk Walkman – using a Raspberry Pi",
+      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
+    },
+    {
+      "rank": "6.",
       "title": "Common color mistakes and how to avoid them",
       "link": "https://blog.datawrapper.de/beautifulcolors/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Attention is your scarcest resource",
       "link": "https://www.benkuhn.net/attention/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
       "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "With a simple piece of paper, engineers create self-powered, wireless keyboard",
       "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
-    },
-    {
-      "rank": "9.",
-      "title": "The Stack Monoid",
-      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
     },
     {
       "rank": "10.",
@@ -52,33 +52,33 @@
     },
     {
       "rank": "11.",
-      "title": "PostgreSQL 13Beta3: B-Tree index deduplication",
-      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
-    },
-    {
-      "rank": "12.",
       "title": "Lending app publicly shames you when you’re late on loan payment",
       "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
     },
     {
+      "rank": "12.",
+      "title": "The Stack Monoid",
+      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
+    },
+    {
       "rank": "13.",
-      "title": "A floppy-disk Walkman – using a Raspberry Pi",
-      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
+      "title": "PostgreSQL 13Beta3: B-Tree index deduplication",
+      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
     },
     {
       "rank": "14.",
-      "title": "Hard to discover tips and apps for macOS",
-      "link": "https://thume.ca/2020/09/04/macos-tips/"
-    },
-    {
-      "rank": "15.",
       "title": "Unlimited Information Is Transforming Society",
       "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
     },
     {
+      "rank": "15.",
+      "title": "Hard to discover tips and apps for macOS",
+      "link": "https://thume.ca/2020/09/04/macos-tips/"
+    },
+    {
       "rank": "16.",
-      "title": "Fairness Definitions Explained [pdf]",
-      "link": "http://www.ece.ubc.ca/~mjulia/publications/Fairness_Definitions_Explained_2018.pdf"
+      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
+      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "Letter to 20 Years Ago",
-      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
+      "title": "Fairness Definitions Explained [pdf]",
+      "link": "http://www.ece.ubc.ca/~mjulia/publications/Fairness_Definitions_Explained_2018.pdf"
     },
     {
       "rank": "19.",
@@ -97,23 +97,23 @@
     },
     {
       "rank": "20.",
-      "title": "The economics of the Tour de France",
-      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
-    },
-    {
-      "rank": "21.",
-      "title": "Tgppl, a radically new type of open-source license",
-      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
-    },
-    {
-      "rank": "22.",
       "title": "My thoughts about editors in 2020",
       "link": "https://phaazon.net/blog/editors-in-2020"
     },
     {
+      "rank": "21.",
+      "title": "Letter to 20 Years Ago",
+      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
+    },
+    {
+      "rank": "22.",
+      "title": "The economics of the Tour de France",
+      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
+    },
+    {
       "rank": "23.",
-      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
-      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
+      "title": "Tgppl, a radically new type of open-source license",
+      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
     },
     {
       "rank": "24.",
