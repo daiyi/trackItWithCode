@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Hard to discover tips and apps for macOS",
-      "link": "https://thume.ca/2020/09/04/macos-tips/"
+      "title": "PostgreSQL 13Beta3: B-Tree index deduplication",
+      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
     },
     {
       "rank": "13.",
-      "title": "Fairness Definitions Explained [pdf]",
-      "link": "http://www.ece.ubc.ca/~mjulia/publications/Fairness_Definitions_Explained_2018.pdf"
+      "title": "Hard to discover tips and apps for macOS",
+      "link": "https://thume.ca/2020/09/04/macos-tips/"
     },
     {
       "rank": "14.",
@@ -72,23 +72,23 @@
     },
     {
       "rank": "15.",
-      "title": "PostgreSQL 13Beta3: B-Tree index deduplication",
-      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
+      "title": "Fairness Definitions Explained [pdf]",
+      "link": "http://www.ece.ubc.ca/~mjulia/publications/Fairness_Definitions_Explained_2018.pdf"
     },
     {
       "rank": "16.",
+      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
+      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
+    },
+    {
+      "rank": "17.",
       "title": "Fennel – Lisp in Lua",
       "link": "https://fennel-lang.org"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Letter to 20 Years Ago",
       "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
-    },
-    {
-      "rank": "18.",
-      "title": "Facebook security app used to 'spy' on competitors (2019)",
-      "link": "https://www.bbc.co.uk/news/technology-47281906"
     },
     {
       "rank": "19.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Tgppl, a radically new type of open-source license",
-      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
+      "title": "Facebook security app used to 'spy' on competitors (2019)",
+      "link": "https://www.bbc.co.uk/news/technology-47281906"
     },
     {
       "rank": "21.",
-      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
-      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
+      "title": "Tgppl, a radically new type of open-source license",
+      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
     },
     {
       "rank": "22.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
-      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
-      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
-    },
-    {
-      "rank": "27.",
       "title": "AES Finder – the utility to find AES keys in running process memory",
       "link": "https://github.com/MantechUser/aes-finder"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
+    },
+    {
+      "rank": "28.",
+      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
+      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
     },
     {
       "rank": "29.",
