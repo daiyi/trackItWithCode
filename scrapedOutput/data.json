@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "“At 31, I have just weeks to live. Here's what I want to pass on”",
-      "link": "https://www.theguardian.com/commentisfree/2020/sep/07/terminal-cancer-live-cancer-life-death"
+      "title": "Simple Bugs with Complex Exploits",
+      "link": "https://www.elttam.com/blog/simple-bugs-with-complex-exploits/"
     },
     {
       "rank": "3.",
@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Simple Bugs with Complex Exploits",
-      "link": "https://www.elttam.com/blog/simple-bugs-with-complex-exploits/"
+      "title": "Does Storing Bread in the Fridge Make it Last Longer? (2019)",
+      "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
     },
     {
       "rank": "6.",
-      "title": "Does Storing Bread in the Fridge Make it Last Longer? (2019)",
-      "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
+      "title": "A history of elliptic curves in tweets",
+      "link": "https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html"
     },
     {
       "rank": "7.",
@@ -42,28 +42,28 @@
     },
     {
       "rank": "9.",
-      "title": "A history of elliptic curves in tweets",
-      "link": "https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html"
-    },
-    {
-      "rank": "10.",
-      "title": "Compound (YC S19) is hiring software engineers",
-      "link": "https://withcompound.com/careers"
-    },
-    {
-      "rank": "11.",
       "title": "Journalists aren’t the enemy of the people. But we’re not your friends either",
       "link": "https://www.nytimes.com/2020/09/06/business/media/trump-election-journalists.html"
     },
     {
+      "rank": "10.",
+      "title": "“At 31, I have just weeks to live. Here's what I want to pass on”",
+      "link": "https://www.theguardian.com/commentisfree/2020/sep/07/terminal-cancer-live-cancer-life-death"
+    },
+    {
+      "rank": "11.",
+      "title": "Compound (YC S19) is hiring software engineers",
+      "link": "https://withcompound.com/careers"
+    },
+    {
       "rank": "12.",
-      "title": "800x480 Touchscreen Raspberry Pi 3B+ Hackable Linux Handheld",
-      "link": "http://yarh.io/yarh-io-mki.html"
+      "title": "Named Parameters in C++20",
+      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
     },
     {
       "rank": "13.",
-      "title": "Kindle edition of Classic Computer Science Problems in Python is unauthorized",
-      "link": "https://twitter.com/davekopec/status/1302578592552022018"
+      "title": "800x480 Touchscreen Raspberry Pi 3B+ Hackable Linux Handheld",
+      "link": "http://yarh.io/yarh-io-mki.html"
     },
     {
       "rank": "14.",
@@ -72,28 +72,28 @@
     },
     {
       "rank": "15.",
+      "title": "Kindle edition of Classic Computer Science Problems in Python is unauthorized",
+      "link": "https://twitter.com/davekopec/status/1302578592552022018"
+    },
+    {
+      "rank": "16.",
       "title": "Cozy is a modern audiobook player for Linux and macOS",
       "link": "https://github.com/geigi/cozy"
     },
     {
-      "rank": "16.",
-      "title": "Many Ways to Start an Xserver",
-      "link": "https://nixers.net/Thread-How-Many-Ways-To-Start-An-Xserver"
-    },
-    {
       "rank": "17.",
-      "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
-      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
-    },
-    {
-      "rank": "18.",
       "title": "Woman hatches ducks from Waitrose eggs",
       "link": "https://www.bbc.com/news/uk-england-beds-bucks-herts-52838747"
     },
     {
+      "rank": "18.",
+      "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
+      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
+    },
+    {
       "rank": "19.",
-      "title": "Named Parameters in C++20",
-      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
+      "title": "Many Ways to Start an Xserver",
+      "link": "https://nixers.net/Thread-How-Many-Ways-To-Start-An-Xserver"
     },
     {
       "rank": "20.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "The Right to Repair could help address a critical shortage in school computers",
-      "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
+      "title": "Microsoft’s $10m Jedi cloud contract “sets dangerous precedent”, says AWS",
+      "link": "https://tech.newstatesman.com/cloud/microsoft-jedi-contract-precedent-aws"
     },
     {
       "rank": "27.",
-      "title": "Noita – roguelite where every pixel is simulated",
-      "link": "https://noitagame.com/"
-    },
-    {
-      "rank": "28.",
-      "title": "Introduction to Computational Thinking",
-      "link": "https://mitmath.github.io/18S191/Fall20/"
-    },
-    {
-      "rank": "29.",
       "title": "The Beautiful, Dark, Twisted, GPT-3 Generated Nassim Taleb Aphorisms",
       "link": "https://medium.com/ml-everything/the-beautiful-dark-twisted-gpt-3-generated-nassim-taleb-aphorisms-a750d6572ee3"
     },
     {
+      "rank": "28.",
+      "title": "The Right to Repair could help address a critical shortage in school computers",
+      "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
+    },
+    {
+      "rank": "29.",
+      "title": "Noita – roguelite where every pixel is simulated",
+      "link": "https://noitagame.com/"
+    },
+    {
       "rank": "30.",
-      "title": "The Bully’s Pulpit (2015)",
-      "link": "https://thebaffler.com/salvos/bullys-pulpit"
+      "title": "Introduction to Computational Thinking",
+      "link": "https://mitmath.github.io/18S191/Fall20/"
     }
   ],
   "metadata": {
