@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
-      "title": "Please stop calling databases CP or AP (2015)",
-      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
-    },
-    {
-      "rank": "4.",
       "title": "Elixir Is Erlang, not Ruby",
       "link": "https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/"
     },
     {
+      "rank": "4.",
+      "title": "Please stop calling databases CP or AP (2015)",
+      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
+    },
+    {
       "rank": "5.",
-      "title": "Common color mistakes and how to avoid them",
-      "link": "https://blog.datawrapper.de/beautifulcolors/"
+      "title": "Attention is your scarcest resource",
+      "link": "https://www.benkuhn.net/attention/"
     },
     {
       "rank": "6.",
-      "title": "Attention is your scarcest resource",
-      "link": "https://www.benkuhn.net/attention/"
+      "title": "Common color mistakes and how to avoid them",
+      "link": "https://blog.datawrapper.de/beautifulcolors/"
     },
     {
       "rank": "7.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
+      "title": "Lending app publicly shames you when you’re late on loan payment",
+      "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
+    },
+    {
+      "rank": "13.",
       "title": "Unlimited Information Is Transforming Society",
       "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Letter to 20 Years Ago",
       "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
-    },
-    {
-      "rank": "14.",
-      "title": "Lending app publicly shames you when you’re late on loan payment",
-      "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
     },
     {
       "rank": "15.",
@@ -102,18 +102,18 @@
     },
     {
       "rank": "21.",
+      "title": "Conscientious Objectors in Their Own Words",
+      "link": "https://www.iwm.org.uk/history/conscientious-objectors-in-their-own-words"
+    },
+    {
+      "rank": "22.",
       "title": "From the Seabed, Figures of an Ancient Cult",
       "link": "https://www.nytimes.com/2020/09/01/science/archaeology-phoenician-israel-shavei-zion.html"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Asynchronously Opening and Closing Files in Asyncio",
       "link": "https://nullprogram.com/blog/2020/09/04/"
-    },
-    {
-      "rank": "23.",
-      "title": "Conscientious Objectors in Their Own Words",
-      "link": "https://www.iwm.org.uk/history/conscientious-objectors-in-their-own-words"
     },
     {
       "rank": "24.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "The New Neuroscience of Stuttering",
-      "link": "https://www.knowablemagazine.org/article/mind/2020/new-neuroscience-stuttering"
+      "title": "The Ocean Is Struggling to Breathe, Too",
+      "link": "http://oceans.nautil.us/feature/613/the-ocean-is-struggling-to-breathe-too"
     }
   ],
   "metadata": {
