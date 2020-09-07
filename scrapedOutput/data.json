@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Show HN: AI color palette generator for Tailwindcss",
-      "link": "https://tailwind.ink/"
+      "title": "Elixir Is Erlang, not Ruby",
+      "link": "https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/"
     },
     {
       "rank": "3.",
-      "title": "Elixir Is Erlang, not Ruby",
-      "link": "https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/"
+      "title": "Show HN: AI color palette generator for Tailwindcss",
+      "link": "https://tailwind.ink/"
     },
     {
       "rank": "4.",
@@ -32,23 +32,23 @@
     },
     {
       "rank": "7.",
-      "title": "A floppy-disk Walkman using a Raspberry Pi",
-      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
+      "title": "Why it is Important that Software Projects Fail",
+      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
     },
     {
       "rank": "8.",
-      "title": "PostgreSQL B-Tree index deduplication",
-      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
-    },
-    {
-      "rank": "9.",
       "title": "The Bully's Pulpit – On the elementary structure of domination",
       "link": "https://thebaffler.com/salvos/bullys-pulpit"
     },
     {
+      "rank": "9.",
+      "title": "A floppy-disk Walkman using a Raspberry Pi",
+      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
+    },
+    {
       "rank": "10.",
-      "title": "Cozy is a modern audiobook player for Linux and macOS",
-      "link": "https://github.com/geigi/cozy"
+      "title": "PostgreSQL B-Tree index deduplication",
+      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
     },
     {
       "rank": "11.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Please stop calling databases CP or AP (2015)",
-      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
+      "title": "Cozy is a modern audiobook player for Linux and macOS",
+      "link": "https://github.com/geigi/cozy"
     },
     {
       "rank": "13.",
-      "title": "Why it is Important that Software Projects Fail",
-      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
+      "title": "Please stop calling databases CP or AP (2015)",
+      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
     },
     {
       "rank": "14.",
@@ -72,73 +72,73 @@
     },
     {
       "rank": "15.",
+      "title": "'Flying-V' airplane makes successful maiden flight",
+      "link": "https://edition.cnn.com/travel/article/flying-v-maiden-flight-intl-scli-grm/index.html"
+    },
+    {
+      "rank": "16.",
       "title": "Hash Array Mapped Tries (HAMT) to the Rescue",
       "link": "https://adlrocha.substack.com/p/adlrocha-hash-array-mapped-tries"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Pregnancy Test Doom: Doom running on a pregnancy test",
       "link": "https://twitter.com/Foone/status/1302820468819288066"
     },
     {
-      "rank": "17.",
-      "title": "FlauBERT and Flue: French Bert",
-      "link": "https://github.com/getalp/Flaubert"
-    },
-    {
       "rank": "18.",
-      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
-      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
-    },
-    {
-      "rank": "19.",
-      "title": "The Trials of Psychedelic Therapy",
-      "link": "https://psypressuk.com/2020/01/31/psychedelic-therapy-oram/"
-    },
-    {
-      "rank": "20.",
       "title": "Solar eclipse measured on Mars, affects interior",
       "link": "https://phys.org/news/2020-09-solar-eclipse-mars-affects-interior.html"
     },
     {
+      "rank": "19.",
+      "title": "FlauBERT and Flue: French Bert",
+      "link": "https://github.com/getalp/Flaubert"
+    },
+    {
+      "rank": "20.",
+      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
+      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
+    },
+    {
       "rank": "21.",
+      "title": "The Trials of Psychedelic Therapy",
+      "link": "https://psypressuk.com/2020/01/31/psychedelic-therapy-oram/"
+    },
+    {
+      "rank": "22.",
       "title": "The Right to Repair could help address a critical shortage in school computers",
       "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Noita – roguelite where every pixel is simulated",
       "link": "https://noitagame.com/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Attention is your scarcest resource",
       "link": "https://www.benkuhn.net/attention/"
     },
     {
-      "rank": "24.",
-      "title": "'Super bacteria' survives for three years outside space station [video]",
-      "link": "https://www.bbc.com/news/av/science-environment-54029521"
-    },
-    {
       "rank": "25.",
-      "title": "Common color mistakes and how to avoid them",
-      "link": "https://blog.datawrapper.de/beautifulcolors/"
-    },
-    {
-      "rank": "26.",
       "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
       "link": "item?id=24395894"
     },
     {
+      "rank": "26.",
+      "title": "'Super bacteria' survives for three years outside space station [video]",
+      "link": "https://www.bbc.com/news/av/science-environment-54029521"
+    },
+    {
       "rank": "27.",
-      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
-      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
+      "title": "Common color mistakes and how to avoid them",
+      "link": "https://blog.datawrapper.de/beautifulcolors/"
     },
     {
       "rank": "28.",
-      "title": "Things I Learned to Become a Senior Software Engineer",
-      "link": "https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html"
+      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
+      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Letter to 20 Years Ago",
-      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
+      "title": "Things I Learned to Become a Senior Software Engineer",
+      "link": "https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html"
     }
   ],
   "metadata": {
