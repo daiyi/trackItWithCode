@@ -17,28 +17,28 @@
     },
     {
       "rank": "4.",
+      "title": "Why it is Important that Software Projects Fail (2008)",
+      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
+    },
+    {
+      "rank": "5.",
       "title": "Many Ways to Start an Xserver",
       "link": "https://nixers.net/Thread-How-Many-Ways-To-Start-An-Xserver"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "International Space Station 437.800 MHz cross band FM repeater activated",
       "link": "https://amsat-uk.org/2020/09/02/iss-fm-repeater-activated/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Introduction to Computational Thinking",
       "link": "https://mitmath.github.io/18S191/Fall20/"
     },
     {
-      "rank": "7.",
-      "title": "Why it is Important that Software Projects Fail",
-      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
-    },
-    {
       "rank": "8.",
-      "title": "The Bully's Pulpit – On the elementary structure of domination",
-      "link": "https://thebaffler.com/salvos/bullys-pulpit"
+      "title": "Kindle edition of Classic Computer Science Problems in Python is unauthorized",
+      "link": "https://twitter.com/davekopec/status/1302578592552022018"
     },
     {
       "rank": "9.",
@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "Cozy is a modern audiobook player for Linux and macOS",
-      "link": "https://github.com/geigi/cozy"
-    },
-    {
-      "rank": "12.",
       "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
       "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
     },
     {
+      "rank": "12.",
+      "title": "Cozy is a modern audiobook player for Linux and macOS",
+      "link": "https://github.com/geigi/cozy"
+    },
+    {
       "rank": "13.",
+      "title": "Hash Array Mapped Tries (HAMT) to the Rescue",
+      "link": "https://adlrocha.substack.com/p/adlrocha-hash-array-mapped-tries"
+    },
+    {
+      "rank": "14.",
       "title": "'Flying-V' airplane makes successful maiden flight",
       "link": "https://edition.cnn.com/travel/article/flying-v-maiden-flight-intl-scli-grm/index.html"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Please stop calling databases CP or AP (2015)",
       "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
-    },
-    {
-      "rank": "15.",
-      "title": "Hash Array Mapped Tries (HAMT) to the Rescue",
-      "link": "https://adlrocha.substack.com/p/adlrocha-hash-array-mapped-tries"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Do Not Purchase the Kindle Edition of Classic Computer Science Problems in Py",
-      "link": "https://twitter.com/davekopec/status/1302578592552022018"
+      "title": "Pregnancy Test Doom: Doom running on a pregnancy test",
+      "link": "https://twitter.com/Foone/status/1302820468819288066"
     },
     {
       "rank": "18.",
@@ -92,38 +92,38 @@
     },
     {
       "rank": "19.",
-      "title": "Pregnancy Test Doom: Doom running on a pregnancy test",
-      "link": "https://twitter.com/Foone/status/1302820468819288066"
-    },
-    {
-      "rank": "20.",
       "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
       "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "FlauBERT and Flue: French Bert",
       "link": "https://github.com/getalp/Flaubert"
     },
     {
-      "rank": "22.",
+      "rank": "21.",
       "title": "The Trials of Psychedelic Therapy",
       "link": "https://psypressuk.com/2020/01/31/psychedelic-therapy-oram/"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "The Right to Repair could help address a critical shortage in school computers",
       "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
     },
     {
+      "rank": "23.",
+      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
+      "link": "item?id=24395894"
+    },
+    {
       "rank": "24.",
-      "title": "Noita – roguelite where every pixel is simulated",
-      "link": "https://noitagame.com/"
+      "title": "The Bully’s Pulpit (2015)",
+      "link": "https://thebaffler.com/salvos/bullys-pulpit"
     },
     {
       "rank": "25.",
-      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
-      "link": "item?id=24395894"
+      "title": "Noita – roguelite where every pixel is simulated",
+      "link": "https://noitagame.com/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "'Super bacteria' survives for three years outside space station [video]",
-      "link": "https://www.bbc.com/news/av/science-environment-54029521"
-    },
-    {
-      "rank": "28.",
       "title": "Common color mistakes and how to avoid them",
       "link": "https://blog.datawrapper.de/beautifulcolors/"
     },
     {
+      "rank": "28.",
+      "title": "Companies that help people vanish",
+      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
+    },
+    {
       "rank": "29.",
-      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
-      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
+      "title": "Things I Learned to Become a Senior Software Engineer",
+      "link": "https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html"
     },
     {
       "rank": "30.",
-      "title": "Things I Learned to Become a Senior Software Engineer",
-      "link": "https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html"
+      "title": "Letter to 20 Years Ago",
+      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
     }
   ],
   "metadata": {
