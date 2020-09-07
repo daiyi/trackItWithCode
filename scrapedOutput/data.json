@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
-      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
+      "title": "How to speed up the Rust compiler one last time",
+      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
     },
     {
       "rank": "7.",
-      "title": "Bash Pitfalls",
-      "link": "https://mywiki.wooledge.org/BashPitfalls"
+      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
+      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
     },
     {
       "rank": "8.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Charge more for app subscriptions",
-      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
+      "title": "Bash Pitfalls",
+      "link": "https://mywiki.wooledge.org/BashPitfalls"
     },
     {
       "rank": "10.",
@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
+      "title": "Charge more for app subscriptions",
+      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
+    },
+    {
+      "rank": "12.",
       "title": "Loose Lips Sink MIPS",
       "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "How can you make subjective time go slower?",
       "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Pony, Actors, Causality, Types, and Garbage Collection",
       "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Universal Paperclips",
       "link": "https://www.decisionproblem.com/paperclips/"
-    },
-    {
-      "rank": "15.",
-      "title": "Threat modelling case study: bicycles",
-      "link": "http://calpaterson.com/bicycle-threat-model.html"
     },
     {
       "rank": "16.",
@@ -87,18 +87,18 @@
     },
     {
       "rank": "18.",
+      "title": "Threat modelling case study: bicycles",
+      "link": "http://calpaterson.com/bicycle-threat-model.html"
+    },
+    {
+      "rank": "19.",
       "title": "Smart watches could do more for wheelchair users",
       "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Geometric Algebra for Python",
       "link": "https://github.com/pygae/clifford"
-    },
-    {
-      "rank": "20.",
-      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
-      "link": "https://base32h.github.io"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Gary Marcus's Kafkaesque critique of GPT-3",
-      "link": "https://nostalgebraist.tumblr.com/post/628024664310136832/gary-marcus-has-co-authored-a-brief-critique-of"
+      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
+      "link": "https://base32h.github.io"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "Gary Marcus's Kafkaesque critique of GPT-3",
+      "link": "https://nostalgebraist.tumblr.com/post/628024664310136832/gary-marcus-has-co-authored-a-brief-critique-of"
+    },
+    {
+      "rank": "25.",
       "title": "Does storing bread in the fridge make it last longer? (2019)",
       "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "GPT-3 generated Nassim Taleb aphorisms",
       "link": "https://medium.com/ml-everything/the-beautiful-dark-twisted-gpt-3-generated-nassim-taleb-aphorisms-a750d6572ee3"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Named Parameters in C++20",
       "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Why it is important that software projects fail (2008)",
       "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Netflix boss: Remote working has negative effects",
       "link": "https://www.wsj.com/articles/netflixs-reed-hastings-deems-remote-work-a-pure-negative-11599487219"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Show HN: I built an app that helps amplify the voice of the customer",
       "link": "https://www.shieldvoc.com/"
-    },
-    {
-      "rank": "30.",
-      "title": "The history of Cracker Jack prizes (2016)",
-      "link": "https://www.antiquetrader.com/collectibles/cracker-jack-prize-collecting-treat-for-ages"
     }
   ],
   "metadata": {
