@@ -17,18 +17,18 @@
     },
     {
       "rank": "4.",
-      "title": "Noita – roguelite where every pixel is simulated",
-      "link": "https://noitagame.com/"
-    },
-    {
-      "rank": "5.",
       "title": "Geometric Algebra for Python",
       "link": "https://github.com/pygae/clifford"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Introduction to Computational Thinking",
       "link": "https://mitmath.github.io/18S191/Fall20/"
+    },
+    {
+      "rank": "6.",
+      "title": "A floppy-disk Walkman using a Raspberry Pi",
+      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
     },
     {
       "rank": "7.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "A floppy-disk Walkman using a Raspberry Pi",
-      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
+      "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
+      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
     },
     {
       "rank": "9.",
@@ -47,8 +47,8 @@
     },
     {
       "rank": "10.",
-      "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
-      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
+      "title": "Please stop calling databases CP or AP (2015)",
+      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
     },
     {
       "rank": "11.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
-      "title": "Please stop calling databases CP or AP (2015)",
-      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
-    },
-    {
-      "rank": "13.",
       "title": "Hash Array Mapped Tries (HAMT) to the Rescue",
       "link": "https://adlrocha.substack.com/p/adlrocha-hash-array-mapped-tries"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "FlauBERT and Flue: French Bert",
       "link": "https://github.com/getalp/Flaubert"
+    },
+    {
+      "rank": "14.",
+      "title": "Many Ways to Start an Xserver",
+      "link": "https://nixers.net/Thread-How-Many-Ways-To-Start-An-Xserver"
     },
     {
       "rank": "15.",
@@ -77,43 +77,43 @@
     },
     {
       "rank": "16.",
-      "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
-      "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
-    },
-    {
-      "rank": "17.",
       "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
       "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Companies that help people vanish",
       "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "The Trials of Psychedelic Therapy",
       "link": "https://psypressuk.com/2020/01/31/psychedelic-therapy-oram/"
     },
     {
-      "rank": "20.",
-      "title": "Ask HN: Google Drive/Office 365 alternatives",
-      "link": "item?id=24398343"
+      "rank": "19.",
+      "title": "Noita – roguelite where every pixel is simulated",
+      "link": "https://noitagame.com/"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "The Right to Repair could help address a critical shortage in school computers",
       "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
     },
     {
+      "rank": "21.",
+      "title": "Ask HN: Google Drive/Office 365 alternatives",
+      "link": "item?id=24398343"
+    },
+    {
       "rank": "22.",
-      "title": "Things I Learned to Become a Senior Software Engineer",
-      "link": "https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html"
+      "title": "Solar eclipse measured on Mars, affects interior",
+      "link": "https://phys.org/news/2020-09-solar-eclipse-mars-affects-interior.html"
     },
     {
       "rank": "23.",
-      "title": "Solar eclipse measured on Mars, affects interior",
-      "link": "https://phys.org/news/2020-09-solar-eclipse-mars-affects-interior.html"
+      "title": "Things I Learned to Become a Senior Software Engineer",
+      "link": "https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html"
     },
     {
       "rank": "24.",
