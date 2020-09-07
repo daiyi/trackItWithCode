@@ -12,143 +12,143 @@
     },
     {
       "rank": "3.",
+      "title": "The US Army Spent Millions Developing Giant, Six-Legged Walking Trucks in 1980s",
+      "link": "https://www.thedrive.com/news/36157/the-us-army-spent-millions-developing-giant-six-legged-walking-trucks-in-the-1980s"
+    },
+    {
+      "rank": "4.",
       "title": "Pony, Actors, Causality, Types, and Garbage Collection",
       "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
     },
     {
-      "rank": "4.",
-      "title": "Calculating the sample size required for developing a clinical prediction model",
-      "link": "https://www.bmj.com/content/368/bmj.m441/rr"
-    },
-    {
       "rank": "5.",
-      "title": "Simple Bugs with Complex Exploits",
-      "link": "https://www.elttam.com/blog/simple-bugs-with-complex-exploits/"
-    },
-    {
-      "rank": "6.",
-      "title": "Smart Watches Could Do More for Wheelchair Users",
-      "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
-    },
-    {
-      "rank": "7.",
-      "title": "Geometric Algebra for Python",
-      "link": "https://github.com/pygae/clifford"
-    },
-    {
-      "rank": "8.",
-      "title": "800x480 Touchscreen Raspberry Pi 3B+ Hackable Linux Handheld",
-      "link": "http://yarh.io/yarh-io-mki.html"
-    },
-    {
-      "rank": "9.",
       "title": "Something strange happens on Mars during a solar eclipse",
       "link": "https://www.sciencealert.com/something-strange-happens-on-mars-during-a-solar-eclipse"
     },
     {
-      "rank": "10.",
-      "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
-      "link": "https://substack.com/jobs"
+      "rank": "6.",
+      "title": "Calculating the sample size required for developing a clinical prediction model",
+      "link": "https://www.bmj.com/content/368/bmj.m441/rr"
     },
     {
-      "rank": "11.",
-      "title": "Ask HN: Working part-time in tech?",
-      "link": "item?id=24401206"
+      "rank": "7.",
+      "title": "Simple Bugs with Complex Exploits",
+      "link": "https://www.elttam.com/blog/simple-bugs-with-complex-exploits/"
     },
     {
-      "rank": "12.",
+      "rank": "8.",
+      "title": "Geometric Algebra for Python",
+      "link": "https://github.com/pygae/clifford"
+    },
+    {
+      "rank": "9.",
       "title": "Bash Pitfalls",
       "link": "https://mywiki.wooledge.org/BashPitfalls"
     },
     {
+      "rank": "10.",
+      "title": "Smart Watches Could Do More for Wheelchair Users",
+      "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
+    },
+    {
+      "rank": "11.",
+      "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
+      "link": "https://substack.com/jobs"
+    },
+    {
+      "rank": "12.",
+      "title": "800x480 Touchscreen Raspberry Pi 3B+ Hackable Linux Handheld",
+      "link": "http://yarh.io/yarh-io-mki.html"
+    },
+    {
       "rank": "13.",
-      "title": "Why it is Important that Software Projects Fail (2008)",
-      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
+      "title": "Ask HN: Working part-time in tech?",
+      "link": "item?id=24401206"
     },
     {
       "rank": "14.",
-      "title": "International Space Station 437.800 MHz cross band FM repeater activated",
-      "link": "https://amsat-uk.org/2020/09/02/iss-fm-repeater-activated/"
+      "title": "How can you make subjective time go slower?",
+      "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
     },
     {
       "rank": "15.",
-      "title": "A Catalogue of Optimizing Transformations (1971) [pdf]",
-      "link": "https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf"
-    },
-    {
-      "rank": "16.",
-      "title": "Show HN: AI color palette generator for Tailwindcss",
-      "link": "https://tailwind.ink/"
-    },
-    {
-      "rank": "17.",
       "title": "The 10,000 Year Clock",
       "link": "https://longnow.org/clock/"
     },
     {
-      "rank": "18.",
+      "rank": "16.",
+      "title": "Why it is Important that Software Projects Fail (2008)",
+      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
+    },
+    {
+      "rank": "17.",
       "title": "Does Storing Bread in the Fridge Make it Last Longer? (2019)",
       "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
     },
     {
+      "rank": "18.",
+      "title": "Withings' ScanWatch packs ECG and SpO2 sensors alongside the usual tools",
+      "link": "https://www.engadget.com/withings-scanwatch-hands-on-ifa-2020-070001875.html"
+    },
+    {
       "rank": "19.",
-      "title": "A history of elliptic curves in tweets",
-      "link": "https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html"
+      "title": "International Space Station 437.800 MHz cross band FM repeater activated",
+      "link": "https://amsat-uk.org/2020/09/02/iss-fm-repeater-activated/"
     },
     {
       "rank": "20.",
+      "title": "Stupid RCU Tricks: Enlisting the Aid of a Debugger",
+      "link": "https://paulmck.livejournal.com/58616.html"
+    },
+    {
+      "rank": "21.",
       "title": "Who Will Test the Tests Themselves? (2017)",
       "link": "https://blog.scottlogic.com/2017/09/25/mutation-testing.html"
     },
     {
-      "rank": "21.",
-      "title": "Withings' ScanWatch is the best hybrid smartwatch I've tried so far",
-      "link": "https://www.engadget.com/withings-scanwatch-hands-on-ifa-2020-070001875.html"
-    },
-    {
       "rank": "22.",
-      "title": "Named Parameters in C++20",
-      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
+      "title": "Show HN: AI color palette generator for Tailwindcss",
+      "link": "https://tailwind.ink/"
     },
     {
       "rank": "23.",
+      "title": "A history of elliptic curves in tweets",
+      "link": "https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html"
+    },
+    {
+      "rank": "24.",
+      "title": "A Catalogue of Optimizing Transformations (1971) [pdf]",
+      "link": "https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf"
+    },
+    {
+      "rank": "25.",
+      "title": "Saudi Arabia to Cut Oil Prices as Demand Fears Grow",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabia-To-Cut-Oil-Prices-As-Demand-Fears-Grow.html"
+    },
+    {
+      "rank": "26.",
       "title": "Kindle edition of Classic Computer Science Problems in Python is unauthorized",
       "link": "https://twitter.com/davekopec/status/1302578592552022018"
     },
     {
-      "rank": "24.",
+      "rank": "27.",
       "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
       "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
     },
     {
-      "rank": "25.",
+      "rank": "28.",
       "title": "At 31, I have just weeks to live. Here's what I want to pass on",
       "link": "https://www.theguardian.com/commentisfree/2020/sep/07/terminal-cancer-live-cancer-life-death"
     },
     {
-      "rank": "26.",
-      "title": "Scale model of 'Flying-V' airplane makes successful maiden flight",
-      "link": "https://edition.cnn.com/travel/article/flying-v-maiden-flight-intl-scli-grm/index.html"
-    },
-    {
-      "rank": "27.",
-      "title": "Woman hatches ducks from Waitrose eggs",
-      "link": "https://www.bbc.com/news/uk-england-beds-bucks-herts-52838747"
-    },
-    {
-      "rank": "28.",
-      "title": "Cozy is a modern audiobook player for Linux and macOS",
-      "link": "https://github.com/geigi/cozy"
-    },
-    {
       "rank": "29.",
-      "title": "Professor suspended for saying 那个 nà ge",
-      "link": "https://languagelog.ldc.upenn.edu/nll/?p=48302"
+      "title": "Named Parameters in C++20",
+      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
     },
     {
       "rank": "30.",
-      "title": "Many Ways to Start an Xserver",
-      "link": "https://nixers.net/Thread-How-Many-Ways-To-Start-An-Xserver"
+      "title": "Professor suspended for saying 那个 nà ge",
+      "link": "https://languagelog.ldc.upenn.edu/nll/?p=48302"
     }
   ],
   "metadata": {
