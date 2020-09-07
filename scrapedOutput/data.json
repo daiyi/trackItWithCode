@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Geometric Algebra for Python",
+      "link": "https://github.com/pygae/clifford"
+    },
+    {
+      "rank": "2.",
       "title": "Show HN: AI color palette generator for Tailwindcss",
       "link": "https://tailwind.ink/"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Many Ways to Start an Xserver",
       "link": "https://nixers.net/Thread-How-Many-Ways-To-Start-An-Xserver"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Elixir Is Erlang, not Ruby",
       "link": "https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/"
-    },
-    {
-      "rank": "4.",
-      "title": "Geometric Algebra for Python",
-      "link": "https://github.com/pygae/clifford"
     },
     {
       "rank": "5.",
@@ -62,33 +62,33 @@
     },
     {
       "rank": "13.",
-      "title": "Pregnancy Test Doom: Doom running on a pregnancy test",
-      "link": "https://twitter.com/Foone/status/1302820468819288066"
-    },
-    {
-      "rank": "14.",
-      "title": "FlauBERT and Flue: French Bert",
-      "link": "https://github.com/getalp/Flaubert"
-    },
-    {
-      "rank": "15.",
-      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
-      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
-    },
-    {
-      "rank": "16.",
       "title": "Ask HN: Google Drive/Office 365 alternatives",
       "link": "item?id=24398343"
     },
     {
+      "rank": "14.",
+      "title": "The Bully's Pulpit – On the elementary structure of domination",
+      "link": "https://thebaffler.com/salvos/bullys-pulpit"
+    },
+    {
+      "rank": "15.",
+      "title": "Pregnancy Test Doom: Doom running on a pregnancy test",
+      "link": "https://twitter.com/Foone/status/1302820468819288066"
+    },
+    {
+      "rank": "16.",
+      "title": "FlauBERT and Flue: French Bert",
+      "link": "https://github.com/getalp/Flaubert"
+    },
+    {
       "rank": "17.",
-      "title": "The Trials of Psychedelic Therapy",
-      "link": "https://psypressuk.com/2020/01/31/psychedelic-therapy-oram/"
+      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
+      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
     },
     {
       "rank": "18.",
-      "title": "Noita – roguelite where every pixel is simulated",
-      "link": "https://noitagame.com/"
+      "title": "The Trials of Psychedelic Therapy",
+      "link": "https://psypressuk.com/2020/01/31/psychedelic-therapy-oram/"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
-      "title": "Solar eclipse measured on Mars, affects interior",
-      "link": "https://phys.org/news/2020-09-solar-eclipse-mars-affects-interior.html"
+      "title": "Noita – roguelite where every pixel is simulated",
+      "link": "https://noitagame.com/"
     },
     {
       "rank": "21.",
-      "title": "Companies that help people vanish",
-      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
-    },
-    {
-      "rank": "22.",
       "title": "“At 31, I have just weeks to live. Here's what I want to pass on”",
       "link": "https://www.theguardian.com/commentisfree/2020/sep/07/terminal-cancer-live-cancer-life-death"
     },
     {
+      "rank": "22.",
+      "title": "Solar eclipse measured on Mars, affects interior",
+      "link": "https://phys.org/news/2020-09-solar-eclipse-mars-affects-interior.html"
+    },
+    {
       "rank": "23.",
+      "title": "Companies that help people vanish",
+      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
+    },
+    {
+      "rank": "24.",
       "title": "Attention is your scarcest resource",
       "link": "https://www.benkuhn.net/attention/"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
       "link": "item?id=24395894"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Common color mistakes and how to avoid them",
       "link": "https://blog.datawrapper.de/beautifulcolors/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
       "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "'Super bacteria' survives for three years outside space station [video]",
       "link": "https://www.bbc.com/news/av/science-environment-54029521"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Things I Learned to Become a Senior Software Engineer",
       "link": "https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Tgppl, a new type of open-source license",
       "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
-    },
-    {
-      "rank": "30.",
-      "title": "3D Realms announces Graven, the spiritual successor to Hexen II",
-      "link": "https://www.techspot.com/news/86651-3d-realms-announces-graven-spiritual-successor-hexen-ii.html"
     }
   ],
   "metadata": {
