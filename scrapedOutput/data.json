@@ -22,43 +22,43 @@
     },
     {
       "rank": "5.",
-      "title": "Introduction to Computational Thinking",
-      "link": "https://mitmath.github.io/18S191/Fall20/"
-    },
-    {
-      "rank": "6.",
-      "title": "PostgreSQL B-Tree index deduplication",
-      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
-    },
-    {
-      "rank": "7.",
-      "title": "A floppy-disk Walkman using a Raspberry Pi",
-      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
-    },
-    {
-      "rank": "8.",
       "title": "Things I Learned to Become a Senior Software Engineer",
       "link": "https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html"
     },
     {
+      "rank": "6.",
+      "title": "Introduction to Computational Thinking",
+      "link": "https://mitmath.github.io/18S191/Fall20/"
+    },
+    {
+      "rank": "7.",
+      "title": "PostgreSQL B-Tree index deduplication",
+      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
+    },
+    {
+      "rank": "8.",
+      "title": "A floppy-disk Walkman using a Raspberry Pi",
+      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
+    },
+    {
       "rank": "9.",
-      "title": "Cozy is a modern audiobook player for Linux and macOS",
-      "link": "https://github.com/geigi/cozy"
-    },
-    {
-      "rank": "10.",
-      "title": "Please stop calling databases CP or AP (2015)",
-      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
-    },
-    {
-      "rank": "11.",
       "title": "Woman hatches ducks from Waitrose eggs",
       "link": "https://www.bbc.com/news/uk-england-beds-bucks-herts-52838747"
     },
     {
+      "rank": "10.",
+      "title": "Cozy is a modern audiobook player for Linux and macOS",
+      "link": "https://github.com/geigi/cozy"
+    },
+    {
+      "rank": "11.",
+      "title": "Please stop calling databases CP or AP (2015)",
+      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
+    },
+    {
       "rank": "12.",
-      "title": "Ask HN: We have the expertise but no clients. How to reach them?",
-      "link": "item?id=24397821"
+      "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
+      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
     },
     {
       "rank": "13.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
-      "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
-      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
-    },
-    {
-      "rank": "16.",
       "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
       "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
     },
     {
-      "rank": "17.",
+      "rank": "16.",
       "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
       "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
+    },
+    {
+      "rank": "17.",
+      "title": "Companies that help people vanish",
+      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Companies that help people vanish",
-      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
+      "title": "With a simple piece of paper, engineers create self-powered, wireless keyboard",
+      "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
     },
     {
       "rank": "20.",
-      "title": "With a simple piece of paper, engineers create self-powered, wireless keyboard",
-      "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
+      "title": "Ask HN: We have the expertise but no clients. How to reach them?",
+      "link": "item?id=24397821"
     },
     {
       "rank": "21.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
+      "title": "Solar eclipse measured on Mars, affects interior",
+      "link": "https://phys.org/news/2020-09-solar-eclipse-mars-affects-interior.html"
+    },
+    {
+      "rank": "25.",
       "title": "Attention is your scarcest resource",
       "link": "https://www.benkuhn.net/attention/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Common color mistakes and how to avoid them",
       "link": "https://blog.datawrapper.de/beautifulcolors/"
-    },
-    {
-      "rank": "26.",
-      "title": "The economics of the Tour de France",
-      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
     },
     {
       "rank": "27.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "Solar eclipse measured on Mars, affects interior",
-      "link": "https://phys.org/news/2020-09-solar-eclipse-mars-affects-interior.html"
+      "title": "The economics of the Tour de France",
+      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
     },
     {
       "rank": "30.",
