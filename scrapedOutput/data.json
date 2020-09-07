@@ -7,48 +7,48 @@
     },
     {
       "rank": "2.",
+      "title": "Cozy is a modern audiobook player for Linux and macOS",
+      "link": "https://github.com/geigi/cozy"
+    },
+    {
+      "rank": "3.",
       "title": "The Right to Repair could help address a critical shortage in school computers",
       "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Noita – roguelite where every pixel is simulated",
       "link": "https://noitagame.com/"
     },
     {
-      "rank": "4.",
-      "title": "A floppy-disk Walkman using a Raspberry Pi",
-      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
-    },
-    {
       "rank": "5.",
-      "title": "PostgreSQL 13Beta3: B-Tree index deduplication",
+      "title": "PostgreSQL B-Tree index deduplication",
       "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
     },
     {
       "rank": "6.",
+      "title": "A floppy-disk Walkman using a Raspberry Pi",
+      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
+    },
+    {
+      "rank": "7.",
       "title": "Attention is your scarcest resource",
       "link": "https://www.benkuhn.net/attention/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
+      "title": "Companies that help people vanish",
+      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
+    },
+    {
+      "rank": "9.",
       "title": "Please stop calling databases CP or AP (2015)",
       "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
     },
     {
-      "rank": "8.",
-      "title": "MIT 18.S191 Introduction to Computational Thinking",
-      "link": "https://mitmath.github.io/18S191/Fall20/"
-    },
-    {
-      "rank": "9.",
-      "title": "The companies that help people vanish",
-      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
-    },
-    {
       "rank": "10.",
-      "title": "Lending app publicly shames you when you’re late on loan payment",
-      "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
+      "title": "Introduction to Computational Thinking",
+      "link": "https://mitmath.github.io/18S191/Fall20/"
     },
     {
       "rank": "11.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "My thoughts about editors in 2020",
-      "link": "https://phaazon.net/blog/editors-in-2020"
+      "title": "The Stack Monoid",
+      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
     },
     {
       "rank": "14.",
-      "title": "The Stack Monoid",
-      "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
+      "title": "Lending app publicly shames you when you’re late on loan payment",
+      "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
     },
     {
       "rank": "15.",
@@ -92,23 +92,23 @@
     },
     {
       "rank": "19.",
-      "title": "Psychedelic Fishes from the World’s First Encyclopedia of Marine Creatures",
-      "link": "https://www.brainpickings.org/2020/08/15/louis-renard-poissons/"
-    },
-    {
-      "rank": "20.",
       "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
       "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
     },
     {
+      "rank": "20.",
+      "title": "FlauBERT and Flue: French Bert",
+      "link": "https://github.com/getalp/Flaubert"
+    },
+    {
       "rank": "21.",
-      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
-      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
+      "title": "Common color mistakes and how to avoid them",
+      "link": "https://blog.datawrapper.de/beautifulcolors/"
     },
     {
       "rank": "22.",
-      "title": "Common color mistakes and how to avoid them",
-      "link": "https://blog.datawrapper.de/beautifulcolors/"
+      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
+      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "Psychedelic Fishes from the World’s First Encyclopedia of Marine Creatures",
+      "link": "https://www.brainpickings.org/2020/08/15/louis-renard-poissons/"
+    },
+    {
+      "rank": "25.",
       "title": "Tgppl, a new type of open-source license",
       "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "The Silent Flight of Owls, Explained",
       "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "CubeSat interplanetary exploration is heating up",
       "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
     },
     {
-      "rank": "28.",
-      "title": "Asynchronously Opening and Closing Files in Asyncio",
-      "link": "https://nullprogram.com/blog/2020/09/04/"
-    },
-    {
       "rank": "29.",
-      "title": "Letter to 20 Years Ago",
-      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
+      "title": "Why it’s better to be the anti-status quo",
+      "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
     },
     {
       "rank": "30.",
-      "title": "Why it’s better to be the anti-status quo",
-      "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
+      "title": "Asynchronously Opening and Closing Files in Asyncio",
+      "link": "https://nullprogram.com/blog/2020/09/04/"
     }
   ],
   "metadata": {
