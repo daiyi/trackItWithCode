@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "A floppy-disk Walkman – using a Raspberry Pi",
-      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
+      "title": "Please stop calling databases CP or AP (2015)",
+      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
     },
     {
       "rank": "5.",
-      "title": "Please stop calling databases CP or AP (2015)",
-      "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html"
+      "title": "A floppy-disk Walkman – using a Raspberry Pi",
+      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
     },
     {
       "rank": "6.",
@@ -32,33 +32,33 @@
     },
     {
       "rank": "7.",
-      "title": "Common color mistakes and how to avoid them",
-      "link": "https://blog.datawrapper.de/beautifulcolors/"
-    },
-    {
-      "rank": "8.",
       "title": "PostgreSQL 13Beta3: B-Tree index deduplication",
       "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
       "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
     },
     {
-      "rank": "10.",
-      "title": "The companies that help people vanish",
-      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
-    },
-    {
-      "rank": "11.",
+      "rank": "9.",
       "title": "With a simple piece of paper, engineers create self-powered, wireless keyboard",
       "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
     },
     {
-      "rank": "12.",
+      "rank": "10.",
+      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
+      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
+    },
+    {
+      "rank": "11.",
       "title": "Lending app publicly shames you when you’re late on loan payment",
       "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
+    },
+    {
+      "rank": "12.",
+      "title": "The companies that help people vanish",
+      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
     },
     {
       "rank": "13.",
@@ -67,43 +67,43 @@
     },
     {
       "rank": "14.",
-      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
-      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
-    },
-    {
-      "rank": "15.",
       "title": "The Stack Monoid",
       "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
     },
     {
-      "rank": "16.",
-      "title": "3D Realms announces Graven, the spiritual successor to Hexen II",
-      "link": "https://www.techspot.com/news/86651-3d-realms-announces-graven-spiritual-successor-hexen-ii.html"
-    },
-    {
-      "rank": "17.",
-      "title": "Unlimited Information Is Transforming Society",
-      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
-    },
-    {
-      "rank": "18.",
+      "rank": "15.",
       "title": "My thoughts about editors in 2020",
       "link": "https://phaazon.net/blog/editors-in-2020"
     },
     {
-      "rank": "19.",
+      "rank": "16.",
+      "title": "Unlimited Information Is Transforming Society",
+      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
+    },
+    {
+      "rank": "17.",
+      "title": "3D Realms announces Graven, the spiritual successor to Hexen II",
+      "link": "https://www.techspot.com/news/86651-3d-realms-announces-graven-spiritual-successor-hexen-ii.html"
+    },
+    {
+      "rank": "18.",
       "title": "Hard to discover tips and apps for macOS",
       "link": "https://thume.ca/2020/09/04/macos-tips/"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
       "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Letter to 20 Years Ago",
       "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
+    },
+    {
+      "rank": "21.",
+      "title": "Common color mistakes and how to avoid them",
+      "link": "https://blog.datawrapper.de/beautifulcolors/"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
+      "title": "MIT 18.S191 Introduction to Computational Thinking",
+      "link": "https://mitmath.github.io/18S191/Fall20/"
+    },
+    {
+      "rank": "24.",
       "title": "Fairness Definitions Explained [pdf]",
       "link": "http://www.ece.ubc.ca/~mjulia/publications/Fairness_Definitions_Explained_2018.pdf"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "The Silent Flight of Owls, Explained",
       "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
-    },
-    {
-      "rank": "25.",
-      "title": "Asynchronously Opening and Closing Files in Asyncio",
-      "link": "https://nullprogram.com/blog/2020/09/04/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "Asynchronously Opening and Closing Files in Asyncio",
+      "link": "https://nullprogram.com/blog/2020/09/04/"
+    },
+    {
+      "rank": "28.",
       "title": "CubeSat interplanetary exploration is heating up",
       "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Dupes and Fellow Travelers (1949)",
       "link": "https://books.google.com/books?id=U04EAAAAMBAJ&lpg=PA1&pg=PA42#v=twopage&q&f=false"
-    },
-    {
-      "rank": "30.",
-      "title": "MIT 18.S191 Introduction to Computational Thinking",
-      "link": "https://mitmath.github.io/18S191/Fall20/"
     }
   ],
   "metadata": {
