@@ -2,18 +2,18 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Elixir Is Erlang, not Ruby",
+      "link": "https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/"
+    },
+    {
+      "rank": "2.",
       "title": "Noita – roguelite where every pixel is simulated",
       "link": "https://noitagame.com/"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "The Right to Repair could help address a critical shortage in school computers",
       "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
-    },
-    {
-      "rank": "3.",
-      "title": "Elixir Is Erlang, not Ruby",
-      "link": "https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/"
     },
     {
       "rank": "4.",
@@ -32,13 +32,13 @@
     },
     {
       "rank": "7.",
-      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
-      "link": "item?id=24395894"
+      "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
+      "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
     },
     {
       "rank": "8.",
-      "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
-      "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
+      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
+      "link": "item?id=24395894"
     },
     {
       "rank": "9.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Lending app publicly shames you when you’re late on loan payment",
-      "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
+      "title": "Unlimited Information Is Transforming Society",
+      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
     },
     {
       "rank": "13.",
-      "title": "Unlimited Information Is Transforming Society",
-      "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
+      "title": "Lending app publicly shames you when you’re late on loan payment",
+      "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
     },
     {
       "rank": "14.",
@@ -72,43 +72,43 @@
     },
     {
       "rank": "15.",
-      "title": "The economics of the Tour de France",
-      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
-    },
-    {
-      "rank": "16.",
       "title": "Fennel – Lisp in Lua",
       "link": "https://fennel-lang.org"
     },
     {
-      "rank": "17.",
-      "title": "Tgppl, a radically new type of open-source license",
-      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
+      "rank": "16.",
+      "title": "The economics of the Tour de France",
+      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Facebook security app used to 'spy' on competitors (2019)",
       "link": "https://www.bbc.co.uk/news/technology-47281906"
     },
     {
+      "rank": "18.",
+      "title": "Tgppl, a radically new type of open-source license",
+      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
+    },
+    {
       "rank": "19.",
+      "title": "Fairness Definitions Explained [pdf]",
+      "link": "http://www.ece.ubc.ca/~mjulia/publications/Fairness_Definitions_Explained_2018.pdf"
+    },
+    {
+      "rank": "20.",
       "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
       "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "CubeSat interplanetary exploration is heating up",
       "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Conscientious Objectors in Their Own Words",
       "link": "https://www.iwm.org.uk/history/conscientious-objectors-in-their-own-words"
-    },
-    {
-      "rank": "22.",
-      "title": "From the Seabed, Figures of an Ancient Cult",
-      "link": "https://www.nytimes.com/2020/09/01/science/archaeology-phoenician-israel-shavei-zion.html"
     },
     {
       "rank": "23.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
+      "title": "From the Seabed, Figures of an Ancient Cult",
+      "link": "https://www.nytimes.com/2020/09/01/science/archaeology-phoenician-israel-shavei-zion.html"
+    },
+    {
+      "rank": "25.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "AES Finder – the utility to find AES keys in running process memory",
       "link": "https://github.com/MantechUser/aes-finder"
     },
     {
-      "rank": "26.",
-      "title": "Creality Developing Belt-Driven Desktop 3D Printer",
-      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
-    },
-    {
       "rank": "27.",
-      "title": "The Silent Flight of Owls, Explained",
-      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
-    },
-    {
-      "rank": "28.",
       "title": "Why it’s better to be the anti-status quo",
       "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
     },
     {
+      "rank": "28.",
+      "title": "Creality Developing Belt-Driven Desktop 3D Printer",
+      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
+    },
+    {
       "rank": "29.",
-      "title": "Tech workers flee Belarus as IT haven takes authoritarian turn",
-      "link": "https://www.bloombergquint.com/businessweek/belarus-protests-tech-workers-flee-as-country-takes-authoritarian-turn"
+      "title": "The Silent Flight of Owls, Explained",
+      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
     },
     {
       "rank": "30.",
-      "title": "The Ocean Is Struggling to Breathe, Too",
-      "link": "http://oceans.nautil.us/feature/613/the-ocean-is-struggling-to-breathe-too"
+      "title": "Tech workers flee Belarus as IT haven takes authoritarian turn",
+      "link": "https://www.bloombergquint.com/businessweek/belarus-protests-tech-workers-flee-as-country-takes-authoritarian-turn"
     }
   ],
   "metadata": {
