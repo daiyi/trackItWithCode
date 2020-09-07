@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Common color mistakes and how to avoid them",
-      "link": "https://blog.datawrapper.de/beautifulcolors/"
+      "title": "Attention is your scarcest resource",
+      "link": "https://www.benkuhn.net/attention/"
     },
     {
       "rank": "7.",
-      "title": "Attention is your scarcest resource",
-      "link": "https://www.benkuhn.net/attention/"
+      "title": "Common color mistakes and how to avoid them",
+      "link": "https://blog.datawrapper.de/beautifulcolors/"
     },
     {
       "rank": "8.",
@@ -47,13 +47,13 @@
     },
     {
       "rank": "10.",
-      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
-      "link": "item?id=24395894"
+      "title": "Lending app publicly shames you when you’re late on loan payment",
+      "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
     },
     {
       "rank": "11.",
-      "title": "Lending app publicly shames you when you’re late on loan payment",
-      "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
+      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
+      "link": "item?id=24395894"
     },
     {
       "rank": "12.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
-      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
+      "title": "My thoughts about editors in 2020",
+      "link": "https://phaazon.net/blog/editors-in-2020"
     },
     {
       "rank": "17.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
-      "title": "Fairness Definitions Explained [pdf]",
-      "link": "http://www.ece.ubc.ca/~mjulia/publications/Fairness_Definitions_Explained_2018.pdf"
+      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
+      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
     },
     {
       "rank": "19.",
+      "title": "Letter to 20 Years Ago",
+      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
+    },
+    {
+      "rank": "20.",
       "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
       "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
-      "rank": "20.",
-      "title": "My thoughts about editors in 2020",
-      "link": "https://phaazon.net/blog/editors-in-2020"
-    },
-    {
       "rank": "21.",
-      "title": "Letter to 20 Years Ago",
-      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
+      "title": "Fairness Definitions Explained [pdf]",
+      "link": "http://www.ece.ubc.ca/~mjulia/publications/Fairness_Definitions_Explained_2018.pdf"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "Tgppl, a radically new type of open-source license",
-      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
+      "title": "The Silent Flight of Owls, Explained",
+      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
     },
     {
       "rank": "24.",
@@ -127,18 +127,18 @@
     },
     {
       "rank": "26.",
+      "title": "Understanding OAuth2 and OpenID Connect",
+      "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
+    },
+    {
+      "rank": "27.",
       "title": "AES Finder – the utility to find AES keys in running process memory",
       "link": "https://github.com/MantechUser/aes-finder"
     },
     {
-      "rank": "27.",
-      "title": "The Silent Flight of Owls, Explained",
-      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
-    },
-    {
       "rank": "28.",
-      "title": "Understanding OAuth2 and OpenID Connect",
-      "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
+      "title": "Creality Developing Belt-Driven Desktop 3D Printer",
+      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Creality Developing Belt-Driven Desktop 3D Printer",
-      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
+      "title": "The Ocean Is Struggling to Breathe, Too",
+      "link": "http://oceans.nautil.us/feature/613/the-ocean-is-struggling-to-breathe-too"
     }
   ],
   "metadata": {
