@@ -42,43 +42,43 @@
     },
     {
       "rank": "9.",
-      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
-      "link": "item?id=24395894"
-    },
-    {
-      "rank": "10.",
       "title": "The Stack Monoid",
       "link": "https://raphlinus.github.io/gpu/2020/09/05/stack-monoid.html"
     },
     {
-      "rank": "11.",
-      "title": "Lending app publicly shames you when you’re late on loan payment",
-      "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
+      "rank": "10.",
+      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
+      "link": "item?id=24395894"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "PostgreSQL 13Beta3: B-Tree index deduplication",
       "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
     },
     {
+      "rank": "12.",
+      "title": "Lending app publicly shames you when you’re late on loan payment",
+      "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
+    },
+    {
       "rank": "13.",
+      "title": "A floppy-disk Walkman – using a Raspberry Pi",
+      "link": "https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/"
+    },
+    {
+      "rank": "14.",
       "title": "Hard to discover tips and apps for macOS",
       "link": "https://thume.ca/2020/09/04/macos-tips/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Unlimited Information Is Transforming Society",
       "link": "https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Fairness Definitions Explained [pdf]",
       "link": "http://www.ece.ubc.ca/~mjulia/publications/Fairness_Definitions_Explained_2018.pdf"
-    },
-    {
-      "rank": "16.",
-      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
-      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
       "rank": "17.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "The economics of the Tour de France",
-      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
+      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
+      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
       "rank": "20.",
-      "title": "Facebook security app used to 'spy' on competitors (2019)",
-      "link": "https://www.bbc.co.uk/news/technology-47281906"
+      "title": "The economics of the Tour de France",
+      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
     },
     {
       "rank": "21.",
@@ -107,23 +107,23 @@
     },
     {
       "rank": "22.",
-      "title": "CubeSat interplanetary exploration is heating up",
-      "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
-    },
-    {
-      "rank": "23.",
-      "title": "Asynchronously Opening and Closing Files in Asyncio",
-      "link": "https://nullprogram.com/blog/2020/09/04/"
-    },
-    {
-      "rank": "24.",
       "title": "My thoughts about editors in 2020",
       "link": "https://phaazon.net/blog/editors-in-2020"
     },
     {
+      "rank": "23.",
+      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
+      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
+    },
+    {
+      "rank": "24.",
+      "title": "Asynchronously Opening and Closing Files in Asyncio",
+      "link": "https://nullprogram.com/blog/2020/09/04/"
+    },
+    {
       "rank": "25.",
-      "title": "Conscientious Objectors in Their Own Words",
-      "link": "https://www.iwm.org.uk/history/conscientious-objectors-in-their-own-words"
+      "title": "CubeSat interplanetary exploration is heating up",
+      "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
     },
     {
       "rank": "26.",
@@ -132,18 +132,18 @@
     },
     {
       "rank": "27.",
+      "title": "The Silent Flight of Owls, Explained",
+      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
+    },
+    {
+      "rank": "28.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
     },
     {
-      "rank": "28.",
-      "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
-      "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
-    },
-    {
       "rank": "29.",
-      "title": "The Silent Flight of Owls, Explained",
-      "link": "https://www.audubon.org/news/the-silent-flight-owls-explained"
+      "title": "Conscientious Objectors in Their Own Words",
+      "link": "https://www.iwm.org.uk/history/conscientious-objectors-in-their-own-words"
     },
     {
       "rank": "30.",
