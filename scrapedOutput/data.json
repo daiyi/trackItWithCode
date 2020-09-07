@@ -7,48 +7,48 @@
     },
     {
       "rank": "2.",
-      "title": "One of quantum physics’ greatest paradoxes may have lost its leading explanation",
-      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
-    },
-    {
-      "rank": "3.",
       "title": "The US Army Spent Millions Developing Giant, Six-Legged Walking Trucks in 1980s",
       "link": "https://www.thedrive.com/news/36157/the-us-army-spent-millions-developing-giant-six-legged-walking-trucks-in-the-1980s"
     },
     {
-      "rank": "4.",
-      "title": "Pony, Actors, Causality, Types, and Garbage Collection",
-      "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
+      "rank": "3.",
+      "title": "One of quantum physics’ greatest paradoxes may have lost its leading explanation",
+      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Something strange happens on Mars during a solar eclipse",
       "link": "https://www.sciencealert.com/something-strange-happens-on-mars-during-a-solar-eclipse"
     },
     {
+      "rank": "5.",
+      "title": "Pony, Actors, Causality, Types, and Garbage Collection",
+      "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
+    },
+    {
       "rank": "6.",
+      "title": "Gary Marcus's Kafkaesque Critique of GPT-3",
+      "link": "https://nostalgebraist.tumblr.com/post/628024664310136832/gary-marcus-has-co-authored-a-brief-critique-of"
+    },
+    {
+      "rank": "7.",
       "title": "Calculating the sample size required for developing a clinical prediction model",
       "link": "https://www.bmj.com/content/368/bmj.m441/rr"
     },
     {
-      "rank": "7.",
-      "title": "Simple Bugs with Complex Exploits",
-      "link": "https://www.elttam.com/blog/simple-bugs-with-complex-exploits/"
-    },
-    {
       "rank": "8.",
-      "title": "Geometric Algebra for Python",
-      "link": "https://github.com/pygae/clifford"
+      "title": "Smart Watches Could Do More for Wheelchair Users",
+      "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
     },
     {
       "rank": "9.",
-      "title": "Bash Pitfalls",
-      "link": "https://mywiki.wooledge.org/BashPitfalls"
+      "title": "The 10,000 Year Clock",
+      "link": "https://longnow.org/clock/"
     },
     {
       "rank": "10.",
-      "title": "Smart Watches Could Do More for Wheelchair Users",
-      "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
+      "title": "Simple Bugs with Complex Exploits",
+      "link": "https://www.elttam.com/blog/simple-bugs-with-complex-exploits/"
     },
     {
       "rank": "11.",
@@ -57,98 +57,98 @@
     },
     {
       "rank": "12.",
+      "title": "Bash Pitfalls",
+      "link": "https://mywiki.wooledge.org/BashPitfalls"
+    },
+    {
+      "rank": "13.",
+      "title": "Geometric Algebra for Python",
+      "link": "https://github.com/pygae/clifford"
+    },
+    {
+      "rank": "14.",
+      "title": "Threat modelling case study: bicycles",
+      "link": "http://calpaterson.com/bicycle-threat-model.html"
+    },
+    {
+      "rank": "15.",
       "title": "800x480 Touchscreen Raspberry Pi 3B+ Hackable Linux Handheld",
       "link": "http://yarh.io/yarh-io-mki.html"
     },
     {
-      "rank": "13.",
-      "title": "Ask HN: Working part-time in tech?",
-      "link": "item?id=24401206"
-    },
-    {
-      "rank": "14.",
+      "rank": "16.",
       "title": "How can you make subjective time go slower?",
       "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
     },
     {
-      "rank": "15.",
-      "title": "The 10,000 Year Clock",
-      "link": "https://longnow.org/clock/"
-    },
-    {
-      "rank": "16.",
-      "title": "Why it is Important that Software Projects Fail (2008)",
-      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
-    },
-    {
       "rank": "17.",
+      "title": "Desolate English path has killed more than 100 people (2017)",
+      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
+    },
+    {
+      "rank": "18.",
+      "title": "Software Aging (1994) [pdf]",
+      "link": "https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf"
+    },
+    {
+      "rank": "19.",
       "title": "Does Storing Bread in the Fridge Make it Last Longer? (2019)",
       "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
     },
     {
-      "rank": "18.",
-      "title": "Withings' ScanWatch packs ECG and SpO2 sensors alongside the usual tools",
-      "link": "https://www.engadget.com/withings-scanwatch-hands-on-ifa-2020-070001875.html"
+      "rank": "20.",
+      "title": "Producing a Music Video in the Browser",
+      "link": "https://blog.vizibop.com/producing-a-music-video-in-the-browser/"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
+      "title": "Why it is Important that Software Projects Fail (2008)",
+      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
+    },
+    {
+      "rank": "22.",
       "title": "International Space Station 437.800 MHz cross band FM repeater activated",
       "link": "https://amsat-uk.org/2020/09/02/iss-fm-repeater-activated/"
     },
     {
-      "rank": "20.",
-      "title": "Stupid RCU Tricks: Enlisting the Aid of a Debugger",
-      "link": "https://paulmck.livejournal.com/58616.html"
-    },
-    {
-      "rank": "21.",
-      "title": "Who Will Test the Tests Themselves? (2017)",
-      "link": "https://blog.scottlogic.com/2017/09/25/mutation-testing.html"
-    },
-    {
-      "rank": "22.",
-      "title": "Show HN: AI color palette generator for Tailwindcss",
-      "link": "https://tailwind.ink/"
-    },
-    {
       "rank": "23.",
+      "title": "Eliza, the Rogerian Therapist (1999)",
+      "link": "http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm"
+    },
+    {
+      "rank": "24.",
+      "title": "Withings' ScanWatch packs ECG and SpO2 sensors alongside the usual tools",
+      "link": "https://www.engadget.com/withings-scanwatch-hands-on-ifa-2020-070001875.html"
+    },
+    {
+      "rank": "25.",
       "title": "A history of elliptic curves in tweets",
       "link": "https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
+      "title": "Show HN: AI color palette generator for Tailwindcss",
+      "link": "https://tailwind.ink/"
+    },
+    {
+      "rank": "27.",
+      "title": "Who Will Test the Tests Themselves? (2017)",
+      "link": "https://blog.scottlogic.com/2017/09/25/mutation-testing.html"
+    },
+    {
+      "rank": "28.",
+      "title": "Stupid RCU Tricks: Enlisting the Aid of a Debugger",
+      "link": "https://paulmck.livejournal.com/58616.html"
+    },
+    {
+      "rank": "29.",
       "title": "A Catalogue of Optimizing Transformations (1971) [pdf]",
       "link": "https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf"
     },
     {
-      "rank": "25.",
+      "rank": "30.",
       "title": "Saudi Arabia to Cut Oil Prices as Demand Fears Grow",
       "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabia-To-Cut-Oil-Prices-As-Demand-Fears-Grow.html"
-    },
-    {
-      "rank": "26.",
-      "title": "Kindle edition of Classic Computer Science Problems in Python is unauthorized",
-      "link": "https://twitter.com/davekopec/status/1302578592552022018"
-    },
-    {
-      "rank": "27.",
-      "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
-      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
-    },
-    {
-      "rank": "28.",
-      "title": "At 31, I have just weeks to live. Here's what I want to pass on",
-      "link": "https://www.theguardian.com/commentisfree/2020/sep/07/terminal-cancer-live-cancer-life-death"
-    },
-    {
-      "rank": "29.",
-      "title": "Named Parameters in C++20",
-      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
-    },
-    {
-      "rank": "30.",
-      "title": "Professor suspended for saying 那个 nà ge",
-      "link": "https://languagelog.ldc.upenn.edu/nll/?p=48302"
     }
   ],
   "metadata": {
