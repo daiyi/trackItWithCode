@@ -42,18 +42,18 @@
     },
     {
       "rank": "9.",
+      "title": "PostgreSQL 13Beta3: B-Tree index deduplication",
+      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
+    },
+    {
+      "rank": "10.",
       "title": "With a simple piece of paper, engineers create self-powered, wireless keyboard",
       "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Lending app publicly shames you when you’re late on loan payment",
       "link": "https://restofworld.org/2020/okash-microlending-public-shaming/"
-    },
-    {
-      "rank": "11.",
-      "title": "PostgreSQL 13Beta3: B-Tree index deduplication",
-      "link": "https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup"
     },
     {
       "rank": "12.",
@@ -72,48 +72,48 @@
     },
     {
       "rank": "15.",
-      "title": "Hard to discover tips and apps for macOS",
-      "link": "https://thume.ca/2020/09/04/macos-tips/"
-    },
-    {
-      "rank": "16.",
-      "title": "My thoughts about editors in 2020",
-      "link": "https://phaazon.net/blog/editors-in-2020"
-    },
-    {
-      "rank": "17.",
-      "title": "Letter to 20 Years Ago",
-      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
-    },
-    {
-      "rank": "18.",
-      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
-      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
-    },
-    {
-      "rank": "19.",
-      "title": "The economics of the Tour de France",
-      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
-    },
-    {
-      "rank": "20.",
       "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
       "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
     },
     {
+      "rank": "16.",
+      "title": "Hard to discover tips and apps for macOS",
+      "link": "https://thume.ca/2020/09/04/macos-tips/"
+    },
+    {
+      "rank": "17.",
+      "title": "My thoughts about editors in 2020",
+      "link": "https://phaazon.net/blog/editors-in-2020"
+    },
+    {
+      "rank": "18.",
+      "title": "3D Realms announces Graven, the spiritual successor to Hexen II",
+      "link": "https://www.techspot.com/news/86651-3d-realms-announces-graven-spiritual-successor-hexen-ii.html"
+    },
+    {
+      "rank": "19.",
+      "title": "The companies that help people vanish",
+      "link": "https://www.bbc.com/worklife/article/20200903-the-companies-that-help-people-vanish"
+    },
+    {
+      "rank": "20.",
+      "title": "Letter to 20 Years Ago",
+      "link": "https://www.imperialviolet.org/2020/09/06/20yearsago.html"
+    },
+    {
       "rank": "21.",
-      "title": "Fairness Definitions Explained [pdf]",
-      "link": "http://www.ece.ubc.ca/~mjulia/publications/Fairness_Definitions_Explained_2018.pdf"
+      "title": "The economics of the Tour de France",
+      "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
     },
     {
       "rank": "22.",
-      "title": "Dupes and Fellow Travelers (1949)",
-      "link": "https://books.google.com/books?id=U04EAAAAMBAJ&lpg=PA1&pg=PA42#v=twopage&q&f=false"
+      "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
+      "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
     },
     {
       "rank": "23.",
-      "title": "Asynchronously Opening and Closing Files in Asyncio",
-      "link": "https://nullprogram.com/blog/2020/09/04/"
+      "title": "Fairness Definitions Explained [pdf]",
+      "link": "http://www.ece.ubc.ca/~mjulia/publications/Fairness_Definitions_Explained_2018.pdf"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "Dupes and Fellow Travelers (1949)",
+      "link": "https://books.google.com/books?id=U04EAAAAMBAJ&lpg=PA1&pg=PA42#v=twopage&q&f=false"
+    },
+    {
+      "rank": "26.",
+      "title": "Asynchronously Opening and Closing Files in Asyncio",
+      "link": "https://nullprogram.com/blog/2020/09/04/"
+    },
+    {
+      "rank": "27.",
       "title": "CubeSat interplanetary exploration is heating up",
       "link": "http://orbitalindex.com/archive/2020-09-02-Issue-80/"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Understanding OAuth2 and OpenID Connect",
       "link": "https://www.polarsparc.com/xhtml/OAuth2-OIDC.html"
     },
     {
-      "rank": "27.",
-      "title": "Conscientious Objectors in Their Own Words",
-      "link": "https://www.iwm.org.uk/history/conscientious-objectors-in-their-own-words"
-    },
-    {
-      "rank": "28.",
-      "title": "Creality Developing Belt-Driven Desktop 3D Printer",
-      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
-    },
-    {
       "rank": "29.",
-      "title": "Tech workers flee Belarus as IT haven takes authoritarian turn",
-      "link": "https://www.bloombergquint.com/businessweek/belarus-protests-tech-workers-flee-as-country-takes-authoritarian-turn"
+      "title": "Why it’s better to be the anti-status quo",
+      "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
     },
     {
       "rank": "30.",
-      "title": "Why it’s better to be the anti-status quo",
-      "link": "https://productlessons.substack.com/p/why-its-better-to-be-the-anti-status"
+      "title": "Creality Developing Belt-Driven Desktop 3D Printer",
+      "link": "https://www.fabbaloo.com/blog/2020/8/25/creality-developing-belt-driven-desktop-3d-printer"
     }
   ],
   "metadata": {
