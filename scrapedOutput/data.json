@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Desolate English path has killed more than 100 people (2017)",
-      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
+      "title": "Show HN: I built an app that helps amplify the voice of the customer",
+      "link": "https://www.shieldvoc.com/"
     },
     {
       "rank": "6.",
-      "title": "Pony, Actors, Causality, Types, and Garbage Collection",
-      "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
+      "title": "Desolate English path has killed more than 100 people (2017)",
+      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
     },
     {
       "rank": "7.",
@@ -37,58 +37,58 @@
     },
     {
       "rank": "8.",
+      "title": "Pony, Actors, Causality, Types, and Garbage Collection",
+      "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
+    },
+    {
+      "rank": "9.",
       "title": "How can you make subjective time go slower?",
       "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
     },
     {
-      "rank": "9.",
-      "title": "Show HN: I built an app that helps amplify the voice of the customer",
-      "link": "https://www.shieldvoc.com/"
-    },
-    {
       "rank": "10.",
-      "title": "Calculating the sample size required for developing a clinical prediction model",
-      "link": "https://www.bmj.com/content/368/bmj.m441/rr"
-    },
-    {
-      "rank": "11.",
-      "title": "Universal Paperclips",
-      "link": "https://www.decisionproblem.com/paperclips/"
-    },
-    {
-      "rank": "12.",
-      "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
-      "link": "https://substack.com/jobs"
-    },
-    {
-      "rank": "13.",
       "title": "My Experience and Advice for Using GPUs in Deep Learning",
       "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
     },
     {
-      "rank": "14.",
-      "title": "Gary Marcus's Kafkaesque critique of GPT-3",
-      "link": "https://nostalgebraist.tumblr.com/post/628024664310136832/gary-marcus-has-co-authored-a-brief-critique-of"
+      "rank": "11.",
+      "title": "Calculating the sample size required for developing a clinical prediction model",
+      "link": "https://www.bmj.com/content/368/bmj.m441/rr"
     },
     {
-      "rank": "15.",
+      "rank": "12.",
       "title": "Smart Watches Could Do More for Wheelchair Users",
       "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
     },
     {
+      "rank": "13.",
+      "title": "Substack (YC W18) Is Hiring to Build a Better Business Model for Writing",
+      "link": "https://substack.com/jobs"
+    },
+    {
+      "rank": "14.",
+      "title": "Universal Paperclips",
+      "link": "https://www.decisionproblem.com/paperclips/"
+    },
+    {
+      "rank": "15.",
+      "title": "Threat modelling case study: bicycles",
+      "link": "http://calpaterson.com/bicycle-threat-model.html"
+    },
+    {
       "rank": "16.",
+      "title": "Gary Marcus's Kafkaesque critique of GPT-3",
+      "link": "https://nostalgebraist.tumblr.com/post/628024664310136832/gary-marcus-has-co-authored-a-brief-critique-of"
+    },
+    {
+      "rank": "17.",
       "title": "Geometric Algebra for Python",
       "link": "https://github.com/pygae/clifford"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "The 10,000 Year Clock",
       "link": "https://longnow.org/clock/"
-    },
-    {
-      "rank": "18.",
-      "title": "Threat modelling case study: bicycles",
-      "link": "http://calpaterson.com/bicycle-threat-model.html"
     },
     {
       "rank": "19.",
@@ -102,48 +102,48 @@
     },
     {
       "rank": "21.",
-      "title": "Simple Bugs with Complex Exploits",
-      "link": "https://www.elttam.com/blog/simple-bugs-with-complex-exploits/"
-    },
-    {
-      "rank": "22.",
       "title": "Netflix boss: Remote working has negative effects",
       "link": "https://www.wsj.com/articles/netflixs-reed-hastings-deems-remote-work-a-pure-negative-11599487219"
     },
     {
-      "rank": "23.",
-      "title": "Why it is important that software projects fail (2008)",
-      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
+      "rank": "22.",
+      "title": "Simple Bugs with Complex Exploits",
+      "link": "https://www.elttam.com/blog/simple-bugs-with-complex-exploits/"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Does storing bread in the fridge make it last longer? (2019)",
       "link": "https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/"
     },
     {
-      "rank": "25.",
-      "title": "Producing a Music Video in the Browser",
-      "link": "https://blog.vizibop.com/producing-a-music-video-in-the-browser/"
-    },
-    {
-      "rank": "26.",
-      "title": "Named Parameters in C++20",
-      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
-    },
-    {
-      "rank": "27.",
+      "rank": "24.",
       "title": "Ask HN: Working part-time in tech?",
       "link": "item?id=24401206"
     },
     {
-      "rank": "28.",
+      "rank": "25.",
+      "title": "Why it is important that software projects fail (2008)",
+      "link": "https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html"
+    },
+    {
+      "rank": "26.",
+      "title": "Software Aging (1994) [pdf]",
+      "link": "https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf"
+    },
+    {
+      "rank": "27.",
       "title": "GPT-3 generated Nassim Taleb aphorisms",
       "link": "https://medium.com/ml-everything/the-beautiful-dark-twisted-gpt-3-generated-nassim-taleb-aphorisms-a750d6572ee3"
     },
     {
+      "rank": "28.",
+      "title": "Named Parameters in C++20",
+      "link": "https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/"
+    },
+    {
       "rank": "29.",
-      "title": "Eliza, the Rogerian Therapist (1999)",
-      "link": "http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm"
+      "title": "Producing a Music Video in the Browser",
+      "link": "https://blog.vizibop.com/producing-a-music-video-in-the-browser/"
     },
     {
       "rank": "30.",
