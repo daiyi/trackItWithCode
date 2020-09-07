@@ -2,28 +2,28 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Woman Hatches Ducks from Store Bought Eggs",
-      "link": "https://www.bbc.com/news/uk-england-beds-bucks-herts-52838747"
-    },
-    {
-      "rank": "2.",
       "title": "Show HN: AI color palette generator for Tailwindcss",
       "link": "https://tailwind.ink/"
     },
     {
-      "rank": "3.",
+      "rank": "2.",
       "title": "Elixir Is Erlang, not Ruby",
       "link": "https://preslav.me/2020/09/06/elixir-is-not-ruby-elixir-is-erlang/"
     },
     {
-      "rank": "4.",
+      "rank": "3.",
       "title": "Noita – roguelite where every pixel is simulated",
       "link": "https://noitagame.com/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Cozy is a modern audiobook player for Linux and macOS",
       "link": "https://github.com/geigi/cozy"
+    },
+    {
+      "rank": "5.",
+      "title": "Woman hatches ducks from Waitrose eggs",
+      "link": "https://www.bbc.com/news/uk-england-beds-bucks-herts-52838747"
     },
     {
       "rank": "6.",
@@ -62,23 +62,23 @@
     },
     {
       "rank": "13.",
+      "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
+      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
+    },
+    {
+      "rank": "14.",
       "title": "Ask HN: We have the expertise but no clients. How to reach them?",
       "link": "item?id=24397821"
     },
     {
-      "rank": "14.",
-      "title": "Professor suspended for saying 那个 nà ge",
-      "link": "https://languagelog.ldc.upenn.edu/nll/?p=48302"
-    },
-    {
       "rank": "15.",
-      "title": "The Trials of Psychedelic Therapy",
-      "link": "https://psypressuk.com/2020/01/31/psychedelic-therapy-oram/"
+      "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
+      "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
     },
     {
       "rank": "16.",
-      "title": "Warrior skeletons reveal Bronze Age Europeans couldn’t drink milk",
-      "link": "https://www.sciencemag.org/news/2020/09/warrior-skeletons-reveal-bronze-age-europeans-couldn-t-drink-milk"
+      "title": "The Trials of Psychedelic Therapy",
+      "link": "https://psypressuk.com/2020/01/31/psychedelic-therapy-oram/"
     },
     {
       "rank": "17.",
@@ -87,53 +87,53 @@
     },
     {
       "rank": "18.",
-      "title": "NASA’s InSight detects Phobos using its seismometer during solar eclipses",
-      "link": "https://ethz.ch/en/news-and-events/eth-news/news/2020/09/surprise-on-mars.html"
-    },
-    {
-      "rank": "19.",
       "title": "Compressionism: A Theory of Mind Based on Data Compression [pdf]",
       "link": "http://ceur-ws.org/Vol-1419/paper0045.pdf"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "With a simple piece of paper, engineers create self-powered, wireless keyboard",
       "link": "https://www.smithsonianmag.com/smart-news/your-next-digital-tablet-could-be-made-paper-180975727/"
     },
     {
-      "rank": "21.",
-      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
-      "link": "item?id=24395894"
-    },
-    {
-      "rank": "22.",
+      "rank": "20.",
       "title": "The Right to Repair could help address a critical shortage in school computers",
       "link": "https://uspirg.org/blogs/blog/usp/right-repair-could-help-address-critical-shortage-school-computers#new_tab"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
       "title": "Solar eclipse measured on Mars, affects interior",
       "link": "https://phys.org/news/2020-09-solar-eclipse-mars-affects-interior.html"
     },
     {
-      "rank": "24.",
+      "rank": "22.",
+      "title": "Pashi (YC W20) is hiring a mobile web app developer in India",
+      "link": "item?id=24395894"
+    },
+    {
+      "rank": "23.",
       "title": "Attention is your scarcest resource",
       "link": "https://www.benkuhn.net/attention/"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "Common color mistakes and how to avoid them",
       "link": "https://blog.datawrapper.de/beautifulcolors/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "The economics of the Tour de France",
       "link": "https://thehustle.co/the-economics-of-the-tour-de-france/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "One step beyond: the ascent of mountain runner Kílian Jornet",
       "link": "https://www.theguardian.com/lifeandstyle/2020/sep/06/one-step-beyond-the-ascent-of-mountain-runner-kilian-jornet"
+    },
+    {
+      "rank": "27.",
+      "title": "'Super bacteria' survives for three years outside space station [video]",
+      "link": "https://www.bbc.com/news/av/science-environment-54029521"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "'Super bacteria' survives for three years outside space station",
-      "link": "https://www.bbc.com/news/av/science-environment-54029521"
+      "title": "Tgppl, a new type of open-source license",
+      "link": "https://electriccoin.co/blog/introducing-tgppl-a-radically-new-type-of-open-source-license/"
     }
   ],
   "metadata": {
