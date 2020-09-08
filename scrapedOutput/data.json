@@ -7,73 +7,73 @@
     },
     {
       "rank": "2.",
-      "title": "BitTorrent v2",
-      "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
-    },
-    {
-      "rank": "3.",
-      "title": "Controllable Video Sprites That Appear Like Professional Tennis Players",
-      "link": "https://cs.stanford.edu/~haotianz/research/vid2player/"
-    },
-    {
-      "rank": "4.",
-      "title": "Assange Hearing Day 6",
-      "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-the-assange-hearing-day-6"
-    },
-    {
-      "rank": "5.",
-      "title": "On finally learning to program at the age of 40",
-      "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
-    },
-    {
-      "rank": "6.",
       "title": "ScribD acquires PII on 500M users in a deal with LinkedIn",
       "link": "https://thehftguy.com/2020/09/01/gdpr-violation-scribd-acquires-pii-on-500m-users-in-a-deal-with-linkedin/"
     },
     {
-      "rank": "7.",
-      "title": "The US Army spent millions developing giant, six-legged walking trucks in 1980s",
-      "link": "https://www.thedrive.com/news/36157/the-us-army-spent-millions-developing-giant-six-legged-walking-trucks-in-the-1980s"
+      "rank": "3.",
+      "title": "BitTorrent v2",
+      "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
     },
     {
-      "rank": "8.",
+      "rank": "4.",
+      "title": "Controllable Video Sprites That Appear Like Professional Tennis Players",
+      "link": "https://cs.stanford.edu/~haotianz/research/vid2player/"
+    },
+    {
+      "rank": "5.",
+      "title": "Assange Hearing Day 6",
+      "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-the-assange-hearing-day-6"
+    },
+    {
+      "rank": "6.",
+      "title": "On finally learning to program at the age of 40",
+      "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
+    },
+    {
+      "rank": "7.",
       "title": "A curated list of falsehoods programmers believe",
       "link": "https://github.com/kdeldycke/awesome-falsehood"
     },
     {
-      "rank": "9.",
-      "title": "Escape FROM CREEK FIRE – backpacking trip cut short",
-      "link": "https://www.jmeshe.co/escape-from-creek-fire"
+      "rank": "8.",
+      "title": "The US Army spent millions developing giant, six-legged walking trucks in 1980s",
+      "link": "https://www.thedrive.com/news/36157/the-us-army-spent-millions-developing-giant-six-legged-walking-trucks-in-the-1980s"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "Largest multi-city traffic dataset available",
       "link": "https://utd19.ethz.ch/"
     },
     {
+      "rank": "10.",
+      "title": "The Art of Debating for Software Developers",
+      "link": "https://thevaluable.dev/guide-debate-software-developer-skill/"
+    },
+    {
       "rank": "11.",
-      "title": "URL query parameters and how laxness creates de facto requirements on the web",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
+      "title": "Escape FROM CREEK FIRE – backpacking trip cut short",
+      "link": "https://www.jmeshe.co/escape-from-creek-fire"
     },
     {
       "rank": "12.",
-      "title": "Is Spotify Killing the Top 40?",
-      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
-    },
-    {
-      "rank": "13.",
       "title": "Bash Pitfalls",
       "link": "https://mywiki.wooledge.org/BashPitfalls"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Desolate English path has killed more than 100 people (2017)",
       "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Topology Explains Why Automobile Sunshades Fold Oddly",
       "link": "https://arxiv.org/abs/1205.4797"
+    },
+    {
+      "rank": "15.",
+      "title": "Is Spotify Killing the Top 40?",
+      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
     },
     {
       "rank": "16.",
@@ -82,28 +82,28 @@
     },
     {
       "rank": "17.",
-      "title": "The paradox of Graham Greene",
-      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
-    },
-    {
-      "rank": "18.",
-      "title": "Could a tree help find a decaying corpse nearby?",
-      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
-    },
-    {
-      "rank": "19.",
       "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
       "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
     },
     {
-      "rank": "20.",
+      "rank": "18.",
       "title": "Which GPUs to get for deep learning",
       "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
     },
     {
+      "rank": "19.",
+      "title": "Could a tree help find a decaying corpse nearby?",
+      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
+    },
+    {
+      "rank": "20.",
+      "title": "Optimize Onboarding",
+      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+    },
+    {
       "rank": "21.",
-      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
-      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
+      "title": "The paradox of Graham Greene",
+      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
     },
     {
       "rank": "22.",
@@ -112,13 +112,13 @@
     },
     {
       "rank": "23.",
-      "title": "Optimize Onboarding",
-      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+      "title": "URL query parameters and how laxness creates de facto requirements on the web",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
     },
     {
       "rank": "24.",
-      "title": "How to speed up the Rust compiler one last time",
-      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
+      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
     },
     {
       "rank": "25.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
-      "link": "https://base32h.github.io"
+      "title": "How to speed up the Rust compiler one last time",
+      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Charge more for app subscriptions",
-      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
+      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
+      "link": "https://base32h.github.io"
     },
     {
       "rank": "30.",
-      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
-      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
+      "title": "Charge more for app subscriptions",
+      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
     }
   ],
   "metadata": {
