@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Covid vaccine makers commit to not seek approval until complete Phase III trials",
-      "link": "https://www.statnews.com/2020/09/08/pharma-pledge-reassure-covid-19-safety/"
+      "title": "Tech firms face growing resentment of parent employees during Covid-19",
+      "link": "https://www.cnet.com/news/tech-firms-face-growing-resentment-of-parent-employees-during-covid-19/"
     },
     {
       "rank": "2.",
@@ -17,13 +17,13 @@
     },
     {
       "rank": "4.",
-      "title": "Show HN: Free hosted open-source alternative to Zapier/Airflow",
-      "link": "https://cloud.titanoboa.io/index.html"
+      "title": "ProtonDrive Security Model",
+      "link": "https://protonmail.com/blog/protondrive-security/"
     },
     {
       "rank": "5.",
-      "title": "ProtonDrive Security Model",
-      "link": "https://protonmail.com/blog/protondrive-security/"
+      "title": "Show HN: Free hosted open-source alternative to Zapier/Airflow",
+      "link": "https://cloud.titanoboa.io/index.html"
     },
     {
       "rank": "6.",
@@ -42,53 +42,53 @@
     },
     {
       "rank": "9.",
-      "title": "Hidden costs of constantly shipping new things",
-      "link": "https://www.mindtheproduct.com/the-hidden-costs-of-constantly-shipping-new-things/"
-    },
-    {
-      "rank": "10.",
-      "title": "Newfront (YC W18) is hiring engineering managers to transform insurance",
-      "link": "https://jobs.lever.co/newfrontinsurance/51c08b9c-f5ed-4714-8787-b1a2b1059ead"
-    },
-    {
-      "rank": "11.",
       "title": "FTC Is Investigating Intuit over TurboTax Practices",
       "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
     },
     {
+      "rank": "10.",
+      "title": "Hidden costs of constantly shipping new things",
+      "link": "https://www.mindtheproduct.com/the-hidden-costs-of-constantly-shipping-new-things/"
+    },
+    {
+      "rank": "11.",
+      "title": "Newfront (YC W18) is hiring engineering managers to transform insurance",
+      "link": "https://jobs.lever.co/newfrontinsurance/51c08b9c-f5ed-4714-8787-b1a2b1059ead"
+    },
+    {
       "rank": "12.",
+      "title": "Covid vaccine makers commit to not seek approval until complete Phase III trials",
+      "link": "https://www.statnews.com/2020/09/08/pharma-pledge-reassure-covid-19-safety/"
+    },
+    {
+      "rank": "13.",
       "title": "Show HN: A political news aggregator you can comment on",
       "link": "https://www.newscomment.us/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Ask HN: What did you do to improve your company?",
       "link": "item?id=24398077"
     },
     {
-      "rank": "14.",
-      "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
-      "link": "https://www.dataspeeder.com"
-    },
-    {
       "rank": "15.",
-      "title": "Is anybody still using Windows 95?",
-      "link": "https://www.quora.com/Is-anybody-still-using-Windows-95-in-2019/answer/Thomas-Tydal?share=1"
-    },
-    {
-      "rank": "16.",
       "title": "'Wild West' mentality lingers in modern populations of US mountain regions",
       "link": "https://phys.org/news/2020-09-wild-west-mentality-lingers-modern.html"
     },
     {
+      "rank": "16.",
+      "title": "Is anybody still using Windows 95?",
+      "link": "https://www.quora.com/Is-anybody-still-using-Windows-95-in-2019/answer/Thomas-Tydal?share=1"
+    },
+    {
       "rank": "17.",
-      "title": "Understanding Convolution in Deep Learning (2015)",
-      "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
+      "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
+      "link": "https://www.dataspeeder.com"
     },
     {
       "rank": "18.",
-      "title": "The Computational Power of Biological Dendritic Trees",
-      "link": "https://arxiv.org/abs/2009.01269"
+      "title": "Understanding Convolution in Deep Learning (2015)",
+      "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
     },
     {
       "rank": "19.",
@@ -97,58 +97,58 @@
     },
     {
       "rank": "20.",
+      "title": "The Computational Power of Biological Dendritic Trees",
+      "link": "https://arxiv.org/abs/2009.01269"
+    },
+    {
+      "rank": "21.",
       "title": "Humankind neither nasty nor brutish",
       "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31832-8/fulltext"
     },
     {
-      "rank": "21.",
-      "title": "Show HN: TerminusHub, Distributed Revision Control for Structured Data",
-      "link": "https://terminusdb.com/hub/"
-    },
-    {
       "rank": "22.",
-      "title": "Software Aging (1994) [pdf]",
-      "link": "https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf"
+      "title": "URL query parameters and how laxness creates de facto requirements on the web",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
     },
     {
       "rank": "23.",
-      "title": "Introduction to runc",
-      "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
+      "title": "Tesla can detect aftermarket hacks designed to defeat EV performance paywalls",
+      "link": "https://www.thedrive.com/news/35946/tesla-can-detect-aftermarket-hacks-designed-to-defeat-ev-performance-paywalls"
     },
     {
       "rank": "24.",
-      "title": "New things in Android 11",
-      "link": "https://blog.google/products/android/android-11"
-    },
-    {
-      "rank": "25.",
       "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
       "link": "https://arxiv.org/abs/2008.05300"
     },
     {
+      "rank": "25.",
+      "title": "Chef to be acquired by Progress",
+      "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
+    },
+    {
       "rank": "26.",
-      "title": "Vitamin D, part 3 – The Evidence",
-      "link": "https://www.devaboone.com/post/vitamin-d-part-3-the-evidence?postId=5f4e8bf673d853002ded6cd3"
+      "title": "Introduction to runc",
+      "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
     },
     {
       "rank": "27.",
-      "title": "Escape from Creek Fire",
-      "link": "https://www.jmeshe.co/escape-from-creek-fire"
+      "title": "Software Aging (1994) [pdf]",
+      "link": "https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf"
     },
     {
       "rank": "28.",
-      "title": "Expanding Google Cloud’s Confidential Computing Portfolio",
-      "link": "https://cloud.google.com/blog/products/identity-security/expanding-google-clouds-confidential-computing-portfolio"
+      "title": "The Art of Debating for Software Developers",
+      "link": "https://thevaluable.dev/guide-debate-software-developer-skill/"
     },
     {
       "rank": "29.",
-      "title": "PandaDoc employees arrested in Belarus after founders protest against violence",
-      "link": "https://savepandadoc.org/en/"
+      "title": "New things in Android 11",
+      "link": "https://blog.google/products/android/android-11"
     },
     {
       "rank": "30.",
-      "title": "Classic Bug Reports (2015)",
-      "link": "https://blog.regehr.org/archives/1270"
+      "title": "Show HN: TerminusHub, Distributed Revision Control for Structured Data",
+      "link": "https://terminusdb.com/hub/"
     }
   ],
   "metadata": {
