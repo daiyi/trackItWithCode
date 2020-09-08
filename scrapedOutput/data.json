@@ -52,63 +52,63 @@
     },
     {
       "rank": "11.",
-      "title": "Hidden costs of constantly shipping new things",
-      "link": "https://www.mindtheproduct.com/the-hidden-costs-of-constantly-shipping-new-things/"
-    },
-    {
-      "rank": "12.",
       "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
       "link": "https://arxiv.org/abs/2008.05300"
     },
     {
-      "rank": "13.",
-      "title": "Newfront (YC W18) is hiring engineering managers to transform insurance",
-      "link": "https://jobs.lever.co/newfrontinsurance/51c08b9c-f5ed-4714-8787-b1a2b1059ead"
+      "rank": "12.",
+      "title": "Hidden costs of constantly shipping new things",
+      "link": "https://www.mindtheproduct.com/the-hidden-costs-of-constantly-shipping-new-things/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "FTC Is Investigating Intuit over TurboTax Practices",
       "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
     },
     {
+      "rank": "14.",
+      "title": "Newfront (YC W18) is hiring engineering managers to transform insurance",
+      "link": "https://jobs.lever.co/newfrontinsurance/51c08b9c-f5ed-4714-8787-b1a2b1059ead"
+    },
+    {
       "rank": "15.",
+      "title": "Six Smart Guys Sitting Around Talking (1994)",
+      "link": "https://www.nytimes.com/1994/06/12/arts/television-six-smart-guys-sitting-around-talking.html"
+    },
+    {
+      "rank": "16.",
       "title": "Show HN: A political news aggregator you can comment on",
       "link": "https://www.newscomment.us/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Opencats Applicant Tracking System",
       "link": "http://www.opencats.org/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "'Wild West' mentality lingers in modern populations of US mountain regions",
       "link": "https://phys.org/news/2020-09-wild-west-mentality-lingers-modern.html"
     },
     {
-      "rank": "18.",
-      "title": "Show HN: TerminusHub, Distributed Revision Control for Structured Data",
-      "link": "https://terminusdb.com/hub/"
-    },
-    {
       "rank": "19.",
-      "title": "Ask HN: What did you do to improve your company?",
-      "link": "item?id=24398077"
-    },
-    {
-      "rank": "20.",
       "title": "Ask HN: Recommendations for Good TUI Libraries (Text User Interface)?",
       "link": "item?id=24412687"
     },
     {
+      "rank": "20.",
+      "title": "Ask HN: What did you do to improve your company?",
+      "link": "item?id=24398077"
+    },
+    {
       "rank": "21.",
-      "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
-      "link": "https://www.dataspeeder.com"
+      "title": "Show HN: TerminusHub, Distributed Revision Control for Structured Data",
+      "link": "https://terminusdb.com/hub/"
     },
     {
       "rank": "22.",
-      "title": "Tesla can detect aftermarket hacks designed to defeat EV performance paywalls",
-      "link": "https://www.thedrive.com/news/35946/tesla-can-detect-aftermarket-hacks-designed-to-defeat-ev-performance-paywalls"
+      "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
+      "link": "https://www.dataspeeder.com"
     },
     {
       "rank": "23.",
@@ -117,8 +117,8 @@
     },
     {
       "rank": "24.",
-      "title": "Six Smart Guys Sitting Around Talking (1994)",
-      "link": "https://www.nytimes.com/1994/06/12/arts/television-six-smart-guys-sitting-around-talking.html"
+      "title": "Tesla can detect aftermarket hacks designed to defeat EV performance paywalls",
+      "link": "https://www.thedrive.com/news/35946/tesla-can-detect-aftermarket-hacks-designed-to-defeat-ev-performance-paywalls"
     },
     {
       "rank": "25.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Apple Countersues ‘Fortnite’ Maker Epic Games, Seeks Punitive Damages",
-      "link": "https://www.wsj.com/articles/apple-countersues-fortnite-maker-epic-games-seeking-to-halt-in-app-payments-11599592017"
-    },
-    {
-      "rank": "29.",
       "title": "URL query parameters and how laxness creates de facto requirements on the web",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Humankind neither nasty nor brutish",
       "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31832-8/fulltext"
+    },
+    {
+      "rank": "30.",
+      "title": "Introduction to runc",
+      "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
     }
   ],
   "metadata": {
