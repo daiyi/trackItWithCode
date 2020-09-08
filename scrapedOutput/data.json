@@ -32,23 +32,23 @@
     },
     {
       "rank": "7.",
+      "title": "The Art of Debating for Software Developers",
+      "link": "https://thevaluable.dev/guide-debate-software-developer-skill/"
+    },
+    {
+      "rank": "8.",
       "title": "A curated list of falsehoods programmers believe",
       "link": "https://github.com/kdeldycke/awesome-falsehood"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "The US Army spent millions developing giant, six-legged walking trucks in 1980s",
       "link": "https://www.thedrive.com/news/36157/the-us-army-spent-millions-developing-giant-six-legged-walking-trucks-in-the-1980s"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Largest multi-city traffic dataset available",
       "link": "https://utd19.ethz.ch/"
-    },
-    {
-      "rank": "10.",
-      "title": "The Art of Debating for Software Developers",
-      "link": "https://thevaluable.dev/guide-debate-software-developer-skill/"
     },
     {
       "rank": "11.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Topology Explains Why Automobile Sunshades Fold Oddly",
-      "link": "https://arxiv.org/abs/1205.4797"
+      "title": "Is Spotify Killing the Top 40?",
+      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
     },
     {
       "rank": "15.",
-      "title": "Is Spotify Killing the Top 40?",
-      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
+      "title": "Topology Explains Why Automobile Sunshades Fold Oddly",
+      "link": "https://arxiv.org/abs/1205.4797"
     },
     {
       "rank": "16.",
@@ -92,18 +92,18 @@
     },
     {
       "rank": "19.",
-      "title": "Could a tree help find a decaying corpse nearby?",
-      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
-    },
-    {
-      "rank": "20.",
       "title": "Optimize Onboarding",
       "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
     },
     {
+      "rank": "20.",
+      "title": "Could a tree help find a decaying corpse nearby?",
+      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
+    },
+    {
       "rank": "21.",
-      "title": "The paradox of Graham Greene",
-      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
+      "title": "URL query parameters and how laxness creates de facto requirements on the web",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "URL query parameters and how laxness creates de facto requirements on the web",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
+      "title": "The paradox of Graham Greene",
+      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
     },
     {
       "rank": "24.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Fast.ai and why Python is not the future of ML with Jeremy Howard",
-      "link": "https://www.wandb.com/podcast/jeremy-howard"
+      "title": "How to speed up the Rust compiler one last time",
+      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
     },
     {
       "rank": "27.",
-      "title": "How to speed up the Rust compiler one last time",
-      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+      "title": "Fast.ai and why Python is not the future of ML with Jeremy Howard",
+      "link": "https://www.wandb.com/podcast/jeremy-howard"
     },
     {
       "rank": "28.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
-      "link": "https://base32h.github.io"
+      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
     },
     {
       "rank": "30.",
