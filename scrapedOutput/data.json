@@ -7,18 +7,18 @@
     },
     {
       "rank": "2.",
+      "title": "Inkscape Version 1.0.1",
+      "link": "https://inkscape.org/news/2020/09/06/inkscape-version-101-patches-crashes-bugs/"
+    },
+    {
+      "rank": "3.",
       "title": "Controllable Video Sprites That Appear Like Professional Tennis Players",
       "link": "https://cs.stanford.edu/~haotianz/research/vid2player/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "On finally learning to program at the age of 40",
       "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
-    },
-    {
-      "rank": "4.",
-      "title": "Inkscape Version 1.0.1",
-      "link": "https://inkscape.org/news/2020/09/06/inkscape-version-101-patches-crashes-bugs/"
     },
     {
       "rank": "5.",
@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
-      "title": "Open Transclude for Networked Writing",
-      "link": "http://subpixel.space/entries/open-transclude/"
-    },
-    {
-      "rank": "9.",
       "title": "Is Spotify Killing the Top 40?",
       "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
     },
     {
-      "rank": "10.",
+      "rank": "9.",
       "title": "URL query parameters and how laxness creates de facto requirements on the web",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
     },
     {
+      "rank": "10.",
+      "title": "Open Transclude for Networked Writing",
+      "link": "http://subpixel.space/entries/open-transclude/"
+    },
+    {
       "rank": "11.",
-      "title": "Alien Signals",
-      "link": "https://www.robinsloan.com/notes/alien-signals/"
+      "title": "Desolate English path has killed more than 100 people (2017)",
+      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
     },
     {
       "rank": "12.",
-      "title": "Desolate English path has killed more than 100 people (2017)",
-      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
+      "title": "Alien Signals",
+      "link": "https://www.robinsloan.com/notes/alien-signals/"
     },
     {
       "rank": "13.",
@@ -87,13 +87,13 @@
     },
     {
       "rank": "18.",
-      "title": "How to speed up the Rust compiler one last time",
-      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
+      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
     },
     {
       "rank": "19.",
-      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
-      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
+      "title": "How to speed up the Rust compiler one last time",
+      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
     },
     {
       "rank": "20.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "Charge more for app subscriptions",
-      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
+      "title": "Doom Eternal – Graphics Study",
+      "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
     },
     {
       "rank": "22.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "Doom Eternal – Graphics Study",
-      "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
+      "title": "Charge more for app subscriptions",
+      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
     },
     {
       "rank": "24.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Western Digital is trying to redefine the word “RPM”",
-      "link": "https://arstechnica.com/gadgets/2020/09/western-digital-is-trying-to-redefine-the-word-rpm/"
+      "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
+      "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
     },
     {
       "rank": "30.",
-      "title": "Threat modelling case study: bicycles",
-      "link": "http://calpaterson.com/bicycle-threat-model.html"
+      "title": "Western Digital is trying to redefine the word “RPM”",
+      "link": "https://arstechnica.com/gadgets/2020/09/western-digital-is-trying-to-redefine-the-word-rpm/"
     }
   ],
   "metadata": {
