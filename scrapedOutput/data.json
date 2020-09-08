@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
+      "title": "URL query parameters and how laxness creates de facto requirements on the web",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
+    },
+    {
+      "rank": "12.",
       "title": "Bash Pitfalls",
       "link": "https://mywiki.wooledge.org/BashPitfalls"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "How to speed up the Rust compiler one last time",
       "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
       "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
       "link": "https://base32h.github.io"
-    },
-    {
-      "rank": "15.",
-      "title": "URL query parameters and how laxness creates de facto requirements on the web",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
     },
     {
       "rank": "16.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
-      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
-      "link": "https://support.google.com/chrome/thread/26214034"
-    },
-    {
-      "rank": "19.",
       "title": "How can you make subjective time go slower?",
       "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
     },
     {
+      "rank": "19.",
+      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
+      "link": "https://support.google.com/chrome/thread/26214034"
+    },
+    {
       "rank": "20.",
-      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
-      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
+      "title": "Charge more for app subscriptions",
+      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
     },
     {
       "rank": "21.",
-      "title": "Charge more for app subscriptions",
-      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
+      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
     },
     {
       "rank": "22.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
+      "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
+    },
+    {
+      "rank": "29.",
       "title": "Threat modelling case study: bicycles",
       "link": "http://calpaterson.com/bicycle-threat-model.html"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "NSCache (2012)",
       "link": "https://nshipster.com/nscache/"
-    },
-    {
-      "rank": "30.",
-      "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
-      "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
     }
   ],
   "metadata": {
