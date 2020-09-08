@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "URL query parameters and how laxness creates de facto requirements on the web",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
+      "title": "Is Spotify Killing the Top 40?",
+      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
     },
     {
       "rank": "7.",
-      "title": "Is Spotify Killing the Top 40?",
-      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
+      "title": "URL query parameters and how laxness creates de facto requirements on the web",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
     },
     {
       "rank": "8.",
@@ -52,13 +52,13 @@
     },
     {
       "rank": "11.",
-      "title": "Optimize Onboarding",
-      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+      "title": "Could a tree help find a decaying corpse nearby?",
+      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
     },
     {
       "rank": "12.",
-      "title": "Open Transclude for Networked Writing",
-      "link": "http://subpixel.space/entries/open-transclude/"
+      "title": "Optimize Onboarding",
+      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
     },
     {
       "rank": "13.",
@@ -67,18 +67,18 @@
     },
     {
       "rank": "14.",
+      "title": "Open Transclude for Networked Writing",
+      "link": "http://subpixel.space/entries/open-transclude/"
+    },
+    {
+      "rank": "15.",
       "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
       "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Which GPUs to get for deep learning",
       "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
-    },
-    {
-      "rank": "16.",
-      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
-      "link": "https://base32h.github.io"
     },
     {
       "rank": "17.",
@@ -87,43 +87,43 @@
     },
     {
       "rank": "18.",
-      "title": "A bank security check that leaves you guessing your own name",
-      "link": "https://www.theguardian.com/money/2020/sep/06/who-am-i-a-bank-security-check-that-leaves-you-guessing-your-own-name"
+      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
+      "link": "https://base32h.github.io"
     },
     {
       "rank": "19.",
-      "title": "Inkscape 1.0.1",
-      "link": "https://inkscape.org/news/2020/09/06/inkscape-version-101-patches-crashes-bugs/"
-    },
-    {
-      "rank": "20.",
       "title": "Doom Eternal – Graphics Study",
       "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
     },
     {
-      "rank": "21.",
-      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
-      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
-    },
-    {
-      "rank": "22.",
+      "rank": "20.",
       "title": "How can you make subjective time go slower?",
       "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
     },
     {
+      "rank": "21.",
+      "title": "A bank security check that leaves you guessing your own name",
+      "link": "https://www.theguardian.com/money/2020/sep/06/who-am-i-a-bank-security-check-that-leaves-you-guessing-your-own-name"
+    },
+    {
+      "rank": "22.",
+      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
+    },
+    {
       "rank": "23.",
+      "title": "Inkscape 1.0.1",
+      "link": "https://inkscape.org/news/2020/09/06/inkscape-version-101-patches-crashes-bugs/"
+    },
+    {
+      "rank": "24.",
       "title": "Google has removed the option to disable autoplay from Mobile Chrome",
       "link": "https://support.google.com/chrome/thread/26214034"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Charge more for app subscriptions",
       "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
-    },
-    {
-      "rank": "25.",
-      "title": "Could a tree help find a decaying corpse nearby?",
-      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
     },
     {
       "rank": "26.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Apple Marina Bay Sands Opens Thursday in Singapore",
-      "link": "https://www.apple.com/newsroom/2020/09/apple-marina-bay-sands-opens-thursday-in-singapore/"
-    },
-    {
-      "rank": "29.",
       "title": "Loose Lips Sink MIPS",
       "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
     },
     {
+      "rank": "29.",
+      "title": "Apple Marina Bay Sands Opens Thursday in Singapore",
+      "link": "https://www.apple.com/newsroom/2020/09/apple-marina-bay-sands-opens-thursday-in-singapore/"
+    },
+    {
       "rank": "30.",
-      "title": "Fast.ai and why Python is not the future of ML with Jeremy Howard",
-      "link": "https://www.wandb.com/podcast/jeremy-howard"
+      "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
+      "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
     }
   ],
   "metadata": {
