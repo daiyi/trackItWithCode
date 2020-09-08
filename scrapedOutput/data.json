@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Is the web getting slower?",
-      "link": "https://www.debugbear.com/blog/is-the-web-getting-slower"
+      "title": "Journalists perceive stories published in local news outlets to be less worthy",
+      "link": "https://www.niemanlab.org/2020/09/journalists-perceive-stories-published-in-local-news-outlets-to-be-less-newsworthy/"
     },
     {
       "rank": "4.",
-      "title": "Journalists perceive stories published in local news outlets to be less worthy",
-      "link": "https://www.niemanlab.org/2020/09/journalists-perceive-stories-published-in-local-news-outlets-to-be-less-newsworthy/"
+      "title": "Is the web getting slower?",
+      "link": "https://www.debugbear.com/blog/is-the-web-getting-slower"
     },
     {
       "rank": "5.",
@@ -52,33 +52,33 @@
     },
     {
       "rank": "11.",
-      "title": "Slaughter at the bridge: Uncovering a colossal Bronze Age battle (2016)",
-      "link": "https://www.sciencemag.org/news/2016/03/slaughter-bridge-uncovering-colossal-bronze-age-battle"
-    },
-    {
-      "rank": "12.",
-      "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
-      "link": "https://arxiv.org/abs/2008.05300"
-    },
-    {
-      "rank": "13.",
       "title": "A Brief Cultural History of the Parking Lot",
       "link": "https://thereader.mitpress.mit.edu/brief-cultural-history-of-the-parking-lot/"
     },
     {
+      "rank": "12.",
+      "title": "Slaughter at the bridge: Uncovering a colossal Bronze Age battle (2016)",
+      "link": "https://www.sciencemag.org/news/2016/03/slaughter-bridge-uncovering-colossal-bronze-age-battle"
+    },
+    {
+      "rank": "13.",
+      "title": "What motivates the authors of video game walkthroughs and FAQs?",
+      "link": "https://firstmonday.org/ojs/index.php/fm/article/view/7925/6630"
+    },
+    {
       "rank": "14.",
+      "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
+      "link": "https://arxiv.org/abs/2008.05300"
+    },
+    {
+      "rank": "15.",
       "title": "Verne Edquist – Glenn Gould’s Piano Man",
       "link": "https://www.glenngould.ca/verne-edquist/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "Hidden costs of constantly shipping new things",
       "link": "https://www.mindtheproduct.com/the-hidden-costs-of-constantly-shipping-new-things/"
-    },
-    {
-      "rank": "16.",
-      "title": "Ask HN: Recommendations for Good TUI Libraries (Text User Interface)?",
-      "link": "item?id=24412687"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "Opencats Applicant Tracking System",
-      "link": "http://www.opencats.org/"
+      "title": "Ask HN: Recommendations for Good TUI Libraries (Text User Interface)?",
+      "link": "item?id=24412687"
     },
     {
       "rank": "19.",
@@ -97,28 +97,28 @@
     },
     {
       "rank": "20.",
+      "title": "Opencats Applicant Tracking System",
+      "link": "http://www.opencats.org/"
+    },
+    {
+      "rank": "21.",
       "title": "'Wild West' mentality lingers in modern populations of US mountain regions",
       "link": "https://phys.org/news/2020-09-wild-west-mentality-lingers-modern.html"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Show HN: A political news aggregator you can comment on",
       "link": "https://www.newscomment.us/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Tesla can detect aftermarket hacks designed to defeat EV performance paywalls",
       "link": "https://www.thedrive.com/news/35946/tesla-can-detect-aftermarket-hacks-designed-to-defeat-ev-performance-paywalls"
     },
     {
-      "rank": "23.",
-      "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
-      "link": "https://www.dataspeeder.com"
-    },
-    {
       "rank": "24.",
-      "title": "Ask HN: What did you do to improve your company?",
-      "link": "item?id=24398077"
+      "title": "Why I link to Wayback Machine instead of original web content",
+      "link": "https://hawaiigentech.com/post/commentary/why-i-link-to-waybackmachine-instead/"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Show HN: TerminusHub, Distributed Revision Control for Structured Data",
-      "link": "https://terminusdb.com/hub/"
+      "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
+      "link": "https://www.dataspeeder.com"
     },
     {
       "rank": "27.",
+      "title": "Ask HN: What did you do to improve your company?",
+      "link": "item?id=24398077"
+    },
+    {
+      "rank": "28.",
       "title": "Understanding Convolution in Deep Learning (2015)",
       "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
     },
     {
-      "rank": "28.",
-      "title": "Chef to be acquired by Progress",
-      "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
-    },
-    {
       "rank": "29.",
-      "title": "Why I link to Wayback Machine instead of original web content",
-      "link": "https://hawaiigentech.com/post/commentary/why-i-link-to-waybackmachine-instead/"
+      "title": "Show HN: TerminusHub, Distributed Revision Control for Structured Data",
+      "link": "https://terminusdb.com/hub/"
     },
     {
       "rank": "30.",
-      "title": "Adam Curry launches a new, open podcast directory",
-      "link": "https://podnews.net/update/podcast-index-open-directory"
+      "title": "Chef to be acquired by Progress",
+      "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
     }
   ],
   "metadata": {
