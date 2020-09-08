@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
+      "title": "On finally learning to program at the age of 40",
+      "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
+    },
+    {
+      "rank": "4.",
       "title": "Arm Announces Cortex-R82: First 64-Bit Real Time Processor",
       "link": "https://www.anandtech.com/show/16056/arm-announces-cortexr82-first-64bit-real-time-processor"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "A bank security check that leaves you guessing your own name",
       "link": "https://www.theguardian.com/money/2020/sep/06/who-am-i-a-bank-security-check-that-leaves-you-guessing-your-own-name"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "The US Army spent millions developing giant, six-legged walking trucks in 1980s",
       "link": "https://www.thedrive.com/news/36157/the-us-army-spent-millions-developing-giant-six-legged-walking-trucks-in-the-1980s"
-    },
-    {
-      "rank": "6.",
-      "title": "On finally learning to program at the age of 40",
-      "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
     },
     {
       "rank": "7.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
+      "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
+      "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
+    },
+    {
+      "rank": "9.",
       "title": "Desolate English path has killed more than 100 people (2017)",
       "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Optimize Onboarding",
       "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
-    },
-    {
-      "rank": "10.",
-      "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
-      "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
     },
     {
       "rank": "11.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
-      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
+      "title": "How to speed up the Rust compiler one last time",
+      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
     },
     {
       "rank": "13.",
-      "title": "How to speed up the Rust compiler one last time",
-      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
+      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
     },
     {
       "rank": "14.",
@@ -72,28 +72,28 @@
     },
     {
       "rank": "15.",
+      "title": "URL query parameters and how laxness creates de facto requirements on the web",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
+    },
+    {
+      "rank": "16.",
       "title": "Which GPUs to get for deep learning",
       "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Universal Paperclips",
       "link": "https://www.decisionproblem.com/paperclips/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "Google has removed the option to disable autoplay from Mobile Chrome",
       "link": "https://support.google.com/chrome/thread/26214034"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "How can you make subjective time go slower?",
       "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
-    },
-    {
-      "rank": "19.",
-      "title": "Doom Eternal – Graphics Study",
-      "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
     },
     {
       "rank": "20.",
@@ -107,18 +107,18 @@
     },
     {
       "rank": "22.",
-      "title": "The 10,000 Year Clock",
-      "link": "https://longnow.org/clock/"
+      "title": "Doom Eternal – Graphics Study",
+      "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
     },
     {
       "rank": "23.",
-      "title": "NSCache (2012)",
-      "link": "https://nshipster.com/nscache/"
+      "title": "Column Names as Contracts",
+      "link": "https://emilyriederer.netlify.app/post/column-name-contracts/"
     },
     {
       "rank": "24.",
-      "title": "Column Names as Contracts",
-      "link": "https://emilyriederer.netlify.app/post/column-name-contracts/"
+      "title": "The 10,000 Year Clock",
+      "link": "https://longnow.org/clock/"
     },
     {
       "rank": "25.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
-      "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
+      "title": "NSCache (2012)",
+      "link": "https://nshipster.com/nscache/"
     },
     {
       "rank": "30.",
-      "title": "Smart watches could do more for wheelchair users",
-      "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
+      "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
+      "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
     }
   ],
   "metadata": {
