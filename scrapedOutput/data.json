@@ -17,113 +17,113 @@
     },
     {
       "rank": "4.",
+      "title": "Inkscape Version 1.0.1",
+      "link": "https://inkscape.org/news/2020/09/06/inkscape-version-101-patches-crashes-bugs/"
+    },
+    {
+      "rank": "5.",
       "title": "Arm Announces Cortex-R82: First 64-Bit Real Time Processor",
       "link": "https://www.anandtech.com/show/16056/arm-announces-cortexr82-first-64bit-real-time-processor"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "The US Army spent millions developing giant, six-legged walking trucks in 1980s",
       "link": "https://www.thedrive.com/news/36157/the-us-army-spent-millions-developing-giant-six-legged-walking-trucks-in-the-1980s"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "A bank security check that leaves you guessing your own name",
       "link": "https://www.theguardian.com/money/2020/sep/06/who-am-i-a-bank-security-check-that-leaves-you-guessing-your-own-name"
     },
     {
-      "rank": "7.",
-      "title": "Is Spotify Killing the Top 40?",
-      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
-    },
-    {
       "rank": "8.",
-      "title": "Alien Signals",
-      "link": "https://www.robinsloan.com/notes/alien-signals/"
-    },
-    {
-      "rank": "9.",
-      "title": "URL query parameters and how laxness creates de facto requirements on the web",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
-    },
-    {
-      "rank": "10.",
-      "title": "Desolate English path has killed more than 100 people (2017)",
-      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
-    },
-    {
-      "rank": "11.",
-      "title": "Optimize Onboarding",
-      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
-    },
-    {
-      "rank": "12.",
-      "title": "Bash Pitfalls",
-      "link": "https://mywiki.wooledge.org/BashPitfalls"
-    },
-    {
-      "rank": "13.",
       "title": "Open Transclude for Networked Writing",
       "link": "http://subpixel.space/entries/open-transclude/"
     },
     {
+      "rank": "9.",
+      "title": "Is Spotify Killing the Top 40?",
+      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
+    },
+    {
+      "rank": "10.",
+      "title": "URL query parameters and how laxness creates de facto requirements on the web",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
+    },
+    {
+      "rank": "11.",
+      "title": "Alien Signals",
+      "link": "https://www.robinsloan.com/notes/alien-signals/"
+    },
+    {
+      "rank": "12.",
+      "title": "Desolate English path has killed more than 100 people (2017)",
+      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
+    },
+    {
+      "rank": "13.",
+      "title": "Optimize Onboarding",
+      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+    },
+    {
       "rank": "14.",
+      "title": "Bash Pitfalls",
+      "link": "https://mywiki.wooledge.org/BashPitfalls"
+    },
+    {
+      "rank": "15.",
       "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
       "link": "https://base32h.github.io"
     },
     {
-      "rank": "15.",
-      "title": "How to speed up the Rust compiler one last time",
-      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
-    },
-    {
       "rank": "16.",
-      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
-      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
-    },
-    {
-      "rank": "17.",
       "title": "Universal Paperclips",
       "link": "https://www.decisionproblem.com/paperclips/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Which GPUs to get for deep learning",
       "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
     },
     {
+      "rank": "18.",
+      "title": "How to speed up the Rust compiler one last time",
+      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+    },
+    {
       "rank": "19.",
+      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
+      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
+    },
+    {
+      "rank": "20.",
       "title": "How can you make subjective time go slower?",
       "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
     },
     {
-      "rank": "20.",
-      "title": "Doom Eternal – Graphics Study",
-      "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
-    },
-    {
       "rank": "21.",
-      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
-      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
-    },
-    {
-      "rank": "22.",
       "title": "Charge more for app subscriptions",
       "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
     },
     {
+      "rank": "22.",
+      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
+    },
+    {
       "rank": "23.",
+      "title": "Doom Eternal – Graphics Study",
+      "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
+    },
+    {
+      "rank": "24.",
       "title": "Google has removed the option to disable autoplay from Mobile Chrome",
       "link": "https://support.google.com/chrome/thread/26214034"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "The 10,000 Year Clock",
       "link": "https://longnow.org/clock/"
-    },
-    {
-      "rank": "25.",
-      "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
-      "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
     },
     {
       "rank": "26.",
@@ -132,13 +132,13 @@
     },
     {
       "rank": "27.",
-      "title": "Loose Lips Sink MIPS",
-      "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
+      "title": "Calculating the sample size required for developing a clinical prediction model",
+      "link": "https://www.bmj.com/content/368/bmj.m441/rr"
     },
     {
       "rank": "28.",
-      "title": "Calculating the sample size required for developing a clinical prediction model",
-      "link": "https://www.bmj.com/content/368/bmj.m441/rr"
+      "title": "Loose Lips Sink MIPS",
+      "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
     },
     {
       "rank": "29.",
