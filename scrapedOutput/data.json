@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "BitTorrent v2",
-      "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
+      "title": "Inkscape Version 1.0.1",
+      "link": "https://inkscape.org/news/2020/09/06/inkscape-version-101-patches-crashes-bugs/"
     },
     {
       "rank": "2.",
-      "title": "Inkscape Version 1.0.1",
-      "link": "https://inkscape.org/news/2020/09/06/inkscape-version-101-patches-crashes-bugs/"
+      "title": "BitTorrent v2",
+      "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
     },
     {
       "rank": "3.",
@@ -37,68 +37,68 @@
     },
     {
       "rank": "8.",
-      "title": "Is Spotify Killing the Top 40?",
-      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
-    },
-    {
-      "rank": "9.",
       "title": "URL query parameters and how laxness creates de facto requirements on the web",
       "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
     },
     {
-      "rank": "10.",
-      "title": "Open Transclude for Networked Writing",
-      "link": "http://subpixel.space/entries/open-transclude/"
+      "rank": "9.",
+      "title": "Is Spotify Killing the Top 40?",
+      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
     },
     {
-      "rank": "11.",
+      "rank": "10.",
       "title": "Desolate English path has killed more than 100 people (2017)",
       "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Alien Signals",
       "link": "https://www.robinsloan.com/notes/alien-signals/"
     },
     {
-      "rank": "13.",
-      "title": "Optimize Onboarding",
-      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+      "rank": "12.",
+      "title": "Open Transclude for Networked Writing",
+      "link": "http://subpixel.space/entries/open-transclude/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Bash Pitfalls",
       "link": "https://mywiki.wooledge.org/BashPitfalls"
     },
     {
-      "rank": "15.",
-      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
-      "link": "https://base32h.github.io"
+      "rank": "14.",
+      "title": "Optimize Onboarding",
+      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "Universal Paperclips",
       "link": "https://www.decisionproblem.com/paperclips/"
     },
     {
-      "rank": "17.",
-      "title": "Which GPUs to get for deep learning",
-      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
-    },
-    {
-      "rank": "18.",
+      "rank": "16.",
       "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
       "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
     },
     {
-      "rank": "19.",
+      "rank": "17.",
+      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
+      "link": "https://base32h.github.io"
+    },
+    {
+      "rank": "18.",
       "title": "How to speed up the Rust compiler one last time",
       "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
     },
     {
+      "rank": "19.",
+      "title": "Which GPUs to get for deep learning",
+      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
+    },
+    {
       "rank": "20.",
-      "title": "How can you make subjective time go slower?",
-      "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
+      "title": "Could a tree help find a decaying corpse nearby?",
+      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
-      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
+      "title": "How can you make subjective time go slower?",
+      "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
     },
     {
       "rank": "23.",
-      "title": "Charge more for app subscriptions",
-      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
+      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "The 10,000 Year Clock",
-      "link": "https://longnow.org/clock/"
+      "title": "Charge more for app subscriptions",
+      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Calculating the sample size required for developing a clinical prediction model",
-      "link": "https://www.bmj.com/content/368/bmj.m441/rr"
+      "title": "The 10,000 Year Clock",
+      "link": "https://longnow.org/clock/"
     },
     {
       "rank": "28.",
-      "title": "Loose Lips Sink MIPS",
-      "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
-    },
-    {
-      "rank": "29.",
       "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
       "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
     },
     {
+      "rank": "29.",
+      "title": "Loose Lips Sink MIPS",
+      "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
+    },
+    {
       "rank": "30.",
-      "title": "Western Digital is trying to redefine the word “RPM”",
-      "link": "https://arstechnica.com/gadgets/2020/09/western-digital-is-trying-to-redefine-the-word-rpm/"
+      "title": "Apple Marina Bay Sands Opens Thursday in Singapore",
+      "link": "https://www.apple.com/newsroom/2020/09/apple-marina-bay-sands-opens-thursday-in-singapore/"
     }
   ],
   "metadata": {
