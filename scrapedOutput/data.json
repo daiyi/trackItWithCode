@@ -12,38 +12,38 @@
     },
     {
       "rank": "3.",
-      "title": "Understanding Convolution in Deep Learning (2015)",
-      "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
-    },
-    {
-      "rank": "4.",
-      "title": "State of Cybersecurity Industry Exposure at Dark Web",
-      "link": "https://www.immuniweb.com/blog/state-cybersecurity-dark-web-exposure.html"
-    },
-    {
-      "rank": "5.",
-      "title": "PandaDoc Employees Arrested in Belarus After Founders Protest Against Violence",
-      "link": "https://savepandadoc.org/en/"
-    },
-    {
-      "rank": "6.",
       "title": "Show HN: Free hosted open-source alternative to Zapier/Airflow (public beta)",
       "link": "https://cloud.titanoboa.io/index.html"
     },
     {
+      "rank": "4.",
+      "title": "Understanding Convolution in Deep Learning (2015)",
+      "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
+    },
+    {
+      "rank": "5.",
+      "title": "State of Cybersecurity Industry Exposure at Dark Web",
+      "link": "https://www.immuniweb.com/blog/state-cybersecurity-dark-web-exposure.html"
+    },
+    {
+      "rank": "6.",
+      "title": "PandaDoc Employees Arrested in Belarus After Founders Protest Against Violence",
+      "link": "https://savepandadoc.org/en/"
+    },
+    {
       "rank": "7.",
-      "title": "Controllable Video Sprites That Appear Like Professional Tennis Players",
-      "link": "https://cs.stanford.edu/~haotianz/research/vid2player/"
+      "title": "Humankind neither nasty nor brutish",
+      "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31832-8/fulltext"
     },
     {
       "rank": "8.",
-      "title": "On finally learning to program at the age of 40",
-      "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
+      "title": "Chef to be acquired by Progress",
+      "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
     },
     {
       "rank": "9.",
-      "title": "Humankind neither nasty nor brutish",
-      "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31832-8/fulltext"
+      "title": "Controllable Video Sprites That Appear Like Professional Tennis Players",
+      "link": "https://cs.stanford.edu/~haotianz/research/vid2player/"
     },
     {
       "rank": "10.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
+      "title": "On finally learning to program at the age of 40",
+      "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
+    },
+    {
+      "rank": "13.",
       "title": "Escape from creek fire",
       "link": "https://www.jmeshe.co/escape-from-creek-fire"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Largest multi-city traffic dataset available",
       "link": "https://utd19.ethz.ch/"
-    },
-    {
-      "rank": "14.",
-      "title": "Chef to be acquired by Progress",
-      "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
     },
     {
       "rank": "15.",
@@ -82,63 +82,63 @@
     },
     {
       "rank": "17.",
-      "title": "Tesla Shares Fall as It Fails to Make It into S&P 500 Index",
-      "link": "https://www.nytimes.com/reuters/2020/09/08/business/08reuters-tesla-stocks.html"
-    },
-    {
-      "rank": "18.",
       "title": "TikTok and WeChat: Curating and controlling global information flows",
       "link": "https://www.aspi.org.au/report/tiktok-wechat"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "How Akbar came to love books despite never learning to read (2019)",
       "link": "https://dailytimes.com.pk/377146/how-akbar-came-to-love-books-despite-never-learning-to-read/"
     },
     {
-      "rank": "20.",
-      "title": "Is Spotify Killing the Top 40?",
-      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
-    },
-    {
-      "rank": "21.",
+      "rank": "19.",
       "title": "Assange Hearing Day 6",
       "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-the-assange-hearing-day-6"
     },
     {
-      "rank": "22.",
+      "rank": "20.",
       "title": "Topology Explains Why Automobile Sunshades Fold Oddly",
       "link": "https://arxiv.org/abs/1205.4797"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
+      "title": "Is Spotify Killing the Top 40?",
+      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
+    },
+    {
+      "rank": "22.",
       "title": "Could a tree help find a decaying corpse nearby?",
       "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Withings' ScanWatch packs ECG and SpO2 sensors alongside the usual tools",
       "link": "https://www.engadget.com/withings-scanwatch-hands-on-ifa-2020-070001875.html"
     },
     {
-      "rank": "25.",
-      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
-      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
+      "rank": "24.",
+      "title": "Tesla Shares Fall as It Fails to Make It into S&P 500 Index",
+      "link": "https://www.nytimes.com/reuters/2020/09/08/business/08reuters-tesla-stocks.html"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "A curated list of falsehoods programmers believe",
       "link": "https://github.com/kdeldycke/awesome-falsehood"
     },
     {
+      "rank": "26.",
+      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
+      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
+    },
+    {
       "rank": "27.",
-      "title": "The paradox of Graham Greene",
-      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
+      "title": "The Art of Debating for Software Developers",
+      "link": "https://thevaluable.dev/guide-debate-software-developer-skill/"
     },
     {
       "rank": "28.",
-      "title": "The Art of Debating for Software Developers",
-      "link": "https://thevaluable.dev/guide-debate-software-developer-skill/"
+      "title": "The paradox of Graham Greene",
+      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
     },
     {
       "rank": "29.",
