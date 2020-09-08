@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Arm Announces Cortex-R82: First 64-Bit Real Time Processor",
-      "link": "https://www.anandtech.com/show/16056/arm-announces-cortexr82-first-64bit-real-time-processor"
+      "title": "ScribD acquires PII on 500M users in a deal with LinkedIn",
+      "link": "https://thehftguy.com/2020/09/01/gdpr-violation-scribd-acquires-pii-on-500m-users-in-a-deal-with-linkedin/"
     },
     {
       "rank": "7.",
@@ -42,33 +42,33 @@
     },
     {
       "rank": "9.",
-      "title": "Make Julia as Pythonic as possible",
-      "link": "https://discourse.julialang.org/t/feedback-make-julia-as-pythonic-as-possible/46216"
-    },
-    {
-      "rank": "10.",
-      "title": "Why Past Attempts of Software Metrics Have Failed Us",
-      "link": "https://www.usehaystack.io/blog/software-development-metrics-pros-cons-and-why-past-attempts-have-failed"
-    },
-    {
-      "rank": "11.",
       "title": "Escape FROM CREEK FIRE – backpacking trip cut short",
       "link": "https://www.jmeshe.co/escape-from-creek-fire"
     },
     {
-      "rank": "12.",
-      "title": "URL query parameters and how laxness creates de facto requirements on the web",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
-    },
-    {
-      "rank": "13.",
+      "rank": "10.",
       "title": "Largest multi-city traffic dataset available",
       "link": "https://utd19.ethz.ch/"
     },
     {
-      "rank": "14.",
+      "rank": "11.",
+      "title": "URL query parameters and how laxness creates de facto requirements on the web",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
+    },
+    {
+      "rank": "12.",
       "title": "Is Spotify Killing the Top 40?",
       "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
+    },
+    {
+      "rank": "13.",
+      "title": "Bash Pitfalls",
+      "link": "https://mywiki.wooledge.org/BashPitfalls"
+    },
+    {
+      "rank": "14.",
+      "title": "Desolate English path has killed more than 100 people (2017)",
+      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
     },
     {
       "rank": "15.",
@@ -77,8 +77,8 @@
     },
     {
       "rank": "16.",
-      "title": "Desolate English path has killed more than 100 people (2017)",
-      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
+      "title": "Alien Signals",
+      "link": "https://www.robinsloan.com/notes/alien-signals/"
     },
     {
       "rank": "17.",
@@ -87,68 +87,68 @@
     },
     {
       "rank": "18.",
-      "title": "Bash Pitfalls",
-      "link": "https://mywiki.wooledge.org/BashPitfalls"
-    },
-    {
-      "rank": "19.",
       "title": "Could a tree help find a decaying corpse nearby?",
       "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
     },
     {
-      "rank": "20.",
-      "title": "Alien Signals",
-      "link": "https://www.robinsloan.com/notes/alien-signals/"
-    },
-    {
-      "rank": "21.",
+      "rank": "19.",
       "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
       "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
     },
     {
-      "rank": "22.",
-      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
-      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
-    },
-    {
-      "rank": "23.",
+      "rank": "20.",
       "title": "Which GPUs to get for deep learning",
       "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
     },
     {
-      "rank": "24.",
-      "title": "Optimize Onboarding",
-      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+      "rank": "21.",
+      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
+      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
     },
     {
-      "rank": "25.",
+      "rank": "22.",
       "title": "Universal Paperclips",
       "link": "https://www.decisionproblem.com/paperclips/"
     },
     {
-      "rank": "26.",
-      "title": "Ask HN: As a developer what are your aha moments?",
-      "link": "item?id=24397272"
+      "rank": "23.",
+      "title": "Optimize Onboarding",
+      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
     },
     {
-      "rank": "27.",
+      "rank": "24.",
       "title": "How to speed up the Rust compiler one last time",
       "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
     },
     {
+      "rank": "25.",
+      "title": "Doom Eternal – Graphics Study",
+      "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
+    },
+    {
+      "rank": "26.",
+      "title": "Fast.ai and why Python is not the future of ML with Jeremy Howard",
+      "link": "https://www.wandb.com/podcast/jeremy-howard"
+    },
+    {
+      "rank": "27.",
+      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
+      "link": "https://base32h.github.io"
+    },
+    {
       "rank": "28.",
-      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
-      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
+      "title": "Arm Announces Cortex-R82: First 64-Bit Real Time Processor",
+      "link": "https://www.anandtech.com/show/16056/arm-announces-cortexr82-first-64bit-real-time-processor"
     },
     {
       "rank": "29.",
-      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
-      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
+      "title": "Charge more for app subscriptions",
+      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
     },
     {
       "rank": "30.",
-      "title": "Doom Eternal – Graphics Study",
-      "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
+      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
     }
   ],
   "metadata": {
