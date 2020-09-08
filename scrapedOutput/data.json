@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Study: “LinkedIn Is Basically a Money Pit” Because of Ad Fraud",
+      "link": "https://www.samueljscott.com/2020/09/08/linkedin-ad-fraud/"
+    },
+    {
+      "rank": "2.",
       "title": "Why I Link to WayBackMachine Instead of Original Web Content",
       "link": "https://hawaiigentech.com/post/commentary/why-i-link-to-waybackmachine-instead/"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "Chef to be acquired by Progress",
       "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Understanding Convolution in Deep Learning (2015)",
       "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
-    },
-    {
-      "rank": "4.",
-      "title": "Study: “LinkedIn Is Basically a Money Pit” Because of Ad Fraud",
-      "link": "https://www.samueljscott.com/2020/09/08/linkedin-ad-fraud/"
     },
     {
       "rank": "5.",
@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "Tesla can detect aftermarket hacks designed to defeat EV performance paywalls",
-      "link": "https://www.thedrive.com/news/35946/tesla-can-detect-aftermarket-hacks-designed-to-defeat-ev-performance-paywalls"
+      "title": "On finally learning to program at the age of 40",
+      "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
     },
     {
       "rank": "8.",
@@ -42,28 +42,28 @@
     },
     {
       "rank": "9.",
-      "title": "On finally learning to program at the age of 40",
-      "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
+      "title": "The Podfather launches a new, open podcast directory",
+      "link": "https://podnews.net/update/podcast-index-open-directory"
     },
     {
       "rank": "10.",
-      "title": "Largest multi-city traffic dataset available",
-      "link": "https://utd19.ethz.ch/"
-    },
-    {
-      "rank": "11.",
       "title": "How Akbar came to love books despite never learning to read (2019)",
       "link": "https://dailytimes.com.pk/377146/how-akbar-came-to-love-books-despite-never-learning-to-read/"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Escape from creek fire",
       "link": "https://www.jmeshe.co/escape-from-creek-fire"
     },
     {
+      "rank": "12.",
+      "title": "Largest multi-city traffic dataset available",
+      "link": "https://utd19.ethz.ch/"
+    },
+    {
       "rank": "13.",
-      "title": "BitTorrent v2",
-      "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
+      "title": "PandaDoc Employees Arrested in Belarus After Founders Protest Against Violence",
+      "link": "https://savepandadoc.org/en/"
     },
     {
       "rank": "14.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
+      "title": "BitTorrent v2",
+      "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
+    },
+    {
+      "rank": "16.",
       "title": "The Art of Debating for Software Developers",
       "link": "https://thevaluable.dev/guide-debate-software-developer-skill/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Topology Explains Why Automobile Sunshades Fold Oddly",
       "link": "https://arxiv.org/abs/1205.4797"
-    },
-    {
-      "rank": "17.",
-      "title": "PandaDoc Employees Arrested in Belarus After Founders Protest Against Violence",
-      "link": "https://savepandadoc.org/en/"
     },
     {
       "rank": "18.",
@@ -92,23 +92,23 @@
     },
     {
       "rank": "19.",
+      "title": "Introduction to runc",
+      "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
+    },
+    {
+      "rank": "20.",
       "title": "Assange Hearing Day 6",
       "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-the-assange-hearing-day-6"
     },
     {
-      "rank": "20.",
-      "title": "Could a tree help find a decaying corpse nearby?",
-      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
-    },
-    {
       "rank": "21.",
-      "title": "A curated list of falsehoods programmers believe",
-      "link": "https://github.com/kdeldycke/awesome-falsehood"
+      "title": "Alien Signals",
+      "link": "https://www.robinsloan.com/notes/alien-signals/"
     },
     {
       "rank": "22.",
-      "title": "Alien Signals",
-      "link": "https://www.robinsloan.com/notes/alien-signals/"
+      "title": "Could a tree help find a decaying corpse nearby?",
+      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
     },
     {
       "rank": "23.",
@@ -122,23 +122,23 @@
     },
     {
       "rank": "25.",
-      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
-      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
+      "title": "A curated list of falsehoods programmers believe",
+      "link": "https://github.com/kdeldycke/awesome-falsehood"
     },
     {
       "rank": "26.",
-      "title": "Disney criticised for filming Mulan in China's Xinjiang province",
-      "link": "https://www.bbc.com/news/world-54064654"
+      "title": "TikTok and WeChat: Curating and controlling global information flows",
+      "link": "https://www.aspi.org.au/report/tiktok-wechat"
     },
     {
       "rank": "27.",
-      "title": "The paradox of Graham Greene",
-      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
+      "title": "Tesla can detect aftermarket hacks designed to defeat EV performance paywalls",
+      "link": "https://www.thedrive.com/news/35946/tesla-can-detect-aftermarket-hacks-designed-to-defeat-ev-performance-paywalls"
     },
     {
       "rank": "28.",
-      "title": "TikTok and WeChat: Curating and controlling global information flows",
-      "link": "https://www.aspi.org.au/report/tiktok-wechat"
+      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
+      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Arm Announces Cortex-R82: First 64-Bit Real Time Processor",
-      "link": "https://www.anandtech.com/show/16056/arm-announces-cortexr82-first-64bit-real-time-processor"
+      "title": "The paradox of Graham Greene",
+      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
     }
   ],
   "metadata": {
