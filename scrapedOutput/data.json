@@ -7,8 +7,8 @@
     },
     {
       "rank": "2.",
-      "title": "Controllable Video Sprites That Appear Like Professional Tennis Players",
-      "link": "https://cs.stanford.edu/~haotianz/research/vid2player/"
+      "title": "Understanding Convolution in Deep Learning (2015)",
+      "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
     },
     {
       "rank": "3.",
@@ -17,8 +17,8 @@
     },
     {
       "rank": "4.",
-      "title": "Assange Hearing Day 6",
-      "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-the-assange-hearing-day-6"
+      "title": "Controllable Video Sprites That Appear Like Professional Tennis Players",
+      "link": "https://cs.stanford.edu/~haotianz/research/vid2player/"
     },
     {
       "rank": "5.",
@@ -47,18 +47,18 @@
     },
     {
       "rank": "10.",
+      "title": "How Akbar came to love books despite never learning to read (2019)",
+      "link": "https://dailytimes.com.pk/377146/how-akbar-came-to-love-books-despite-never-learning-to-read/"
+    },
+    {
+      "rank": "11.",
       "title": "A curated list of falsehoods programmers believe",
       "link": "https://github.com/kdeldycke/awesome-falsehood"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Is Spotify Killing the Top 40?",
       "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
-    },
-    {
-      "rank": "12.",
-      "title": "Could a tree help find a decaying corpse nearby?",
-      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
     },
     {
       "rank": "13.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Topology Explains Why Automobile Sunshades Fold Oddly",
-      "link": "https://arxiv.org/abs/1205.4797"
+      "title": "Could a tree help find a decaying corpse nearby?",
+      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
     },
     {
       "rank": "15.",
-      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
-      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
+      "title": "Topology Explains Why Automobile Sunshades Fold Oddly",
+      "link": "https://arxiv.org/abs/1205.4797"
     },
     {
       "rank": "16.",
@@ -82,47 +82,47 @@
     },
     {
       "rank": "17.",
+      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
+      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
+    },
+    {
+      "rank": "18.",
       "title": "Optimize Onboarding",
       "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
     },
     {
-      "rank": "18.",
-      "title": "How Akbar came to love books despite never learning to read (2019)",
-      "link": "https://dailytimes.com.pk/377146/how-akbar-came-to-love-books-despite-never-learning-to-read/"
+      "rank": "19.",
+      "title": "Assange Hearing Day 6",
+      "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-the-assange-hearing-day-6"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Doom Eternal – Graphics Study",
       "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "How to speed up the Rust compiler one last time",
       "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "The paradox of Graham Greene",
       "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Charge more for app subscriptions",
       "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Arm Announces Cortex-R82: First 64-Bit Real Time Processor",
       "link": "https://www.anandtech.com/show/16056/arm-announces-cortexr82-first-64bit-real-time-processor"
     },
     {
-      "rank": "24.",
-      "title": "URL query parameters and how laxness creates de facto requirements on the web",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
-    },
-    {
       "rank": "25.",
-      "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
+      "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation",
       "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
     },
     {
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "URL query parameters and how laxness creates de facto requirements on the web",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
+    },
+    {
+      "rank": "28.",
       "title": "Loose Lips Sink MIPS",
       "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
     },
     {
-      "rank": "28.",
-      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
-      "link": "https://base32h.github.io"
-    },
-    {
       "rank": "29.",
-      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
-      "link": "https://support.google.com/chrome/thread/26214034"
+      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
     },
     {
       "rank": "30.",
-      "title": "Understanding Convolution in Deep Learning",
-      "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
+      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
+      "link": "https://support.google.com/chrome/thread/26214034"
     }
   ],
   "metadata": {
