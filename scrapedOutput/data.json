@@ -12,8 +12,8 @@
     },
     {
       "rank": "3.",
-      "title": "“The Podfather”, Adam Curry launches a new, open podcast directory",
-      "link": "https://podnews.net/update/podcast-index-open-directory"
+      "title": "Tesla Shares Fall as It Fails to Make It into S&P 500 Index",
+      "link": "https://www.nytimes.com/reuters/2020/09/08/business/08reuters-tesla-stocks.html"
     },
     {
       "rank": "4.",
@@ -27,23 +27,23 @@
     },
     {
       "rank": "6.",
+      "title": "Show HN: Free hosted open-source alternative to Zapier/Airflow (public beta)",
+      "link": "https://cloud.titanoboa.io/index.html"
+    },
+    {
+      "rank": "7.",
+      "title": "PandaDoc Employees Arrested in Belarus After Founders Protest Against Violence",
+      "link": "https://savepandadoc.org/en/"
+    },
+    {
+      "rank": "8.",
       "title": "Controllable Video Sprites That Appear Like Professional Tennis Players",
       "link": "https://cs.stanford.edu/~haotianz/research/vid2player/"
     },
     {
-      "rank": "7.",
-      "title": "Chef to be acquired by Progress",
-      "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
-    },
-    {
-      "rank": "8.",
+      "rank": "9.",
       "title": "On finally learning to program at the age of 40",
       "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
-    },
-    {
-      "rank": "9.",
-      "title": "PandaDoc Employees Arrested in Belarus After Founders Protest Against Violence",
-      "link": "https://savepandadoc.org/en/"
     },
     {
       "rank": "10.",
@@ -52,43 +52,43 @@
     },
     {
       "rank": "11.",
+      "title": "Chef to be acquired by Progress",
+      "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
+    },
+    {
+      "rank": "12.",
       "title": "Escape from creek fire",
       "link": "https://www.jmeshe.co/escape-from-creek-fire"
     },
     {
-      "rank": "12.",
-      "title": "Tesla Shares Fall as It Fails to Make It into S&P 500 Index",
-      "link": "https://www.nytimes.com/reuters/2020/09/08/business/08reuters-tesla-stocks.html"
+      "rank": "13.",
+      "title": "Introduction to runc",
+      "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Largest multi-city traffic dataset available",
       "link": "https://utd19.ethz.ch/"
     },
     {
-      "rank": "14.",
-      "title": "BitTorrent v2",
-      "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
-    },
-    {
       "rank": "15.",
-      "title": "GDPR Violation: Scribd acquires PII on 500M users in a deal with LinkedIn",
-      "link": "https://thehftguy.com/2020/09/01/gdpr-violation-scribd-acquires-pii-on-500m-users-in-a-deal-with-linkedin/"
-    },
-    {
-      "rank": "16.",
-      "title": "Show HN: Free hosted open-source alternative to Zapier/Airflow (public beta)",
-      "link": "https://cloud.titanoboa.io/index.html"
-    },
-    {
-      "rank": "17.",
       "title": "TikTok and WeChat: Curating and controlling global information flows",
       "link": "https://www.aspi.org.au/report/tiktok-wechat"
     },
     {
+      "rank": "16.",
+      "title": "BitTorrent v2",
+      "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
+    },
+    {
+      "rank": "17.",
+      "title": "GDPR Violation: Scribd acquires PII on 500M users in a deal with LinkedIn",
+      "link": "https://thehftguy.com/2020/09/01/gdpr-violation-scribd-acquires-pii-on-500m-users-in-a-deal-with-linkedin/"
+    },
+    {
       "rank": "18.",
-      "title": "Introduction to runc",
-      "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
+      "title": "Humankind neither nasty nor brutish",
+      "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31832-8/fulltext"
     },
     {
       "rank": "19.",
@@ -97,33 +97,33 @@
     },
     {
       "rank": "20.",
-      "title": "Topology Explains Why Automobile Sunshades Fold Oddly",
-      "link": "https://arxiv.org/abs/1205.4797"
-    },
-    {
-      "rank": "21.",
-      "title": "The Art of Debating for Software Developers",
-      "link": "https://thevaluable.dev/guide-debate-software-developer-skill/"
-    },
-    {
-      "rank": "22.",
       "title": "Is Spotify Killing the Top 40?",
       "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
     },
     {
-      "rank": "23.",
+      "rank": "21.",
+      "title": "Topology Explains Why Automobile Sunshades Fold Oddly",
+      "link": "https://arxiv.org/abs/1205.4797"
+    },
+    {
+      "rank": "22.",
       "title": "Assange Hearing Day 6",
       "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-the-assange-hearing-day-6"
     },
     {
+      "rank": "23.",
+      "title": "Could a tree help find a decaying corpse nearby?",
+      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
+    },
+    {
       "rank": "24.",
-      "title": "Alien Signals",
-      "link": "https://www.robinsloan.com/notes/alien-signals/"
+      "title": "Withings' ScanWatch packs ECG and SpO2 sensors alongside the usual tools",
+      "link": "https://www.engadget.com/withings-scanwatch-hands-on-ifa-2020-070001875.html"
     },
     {
       "rank": "25.",
-      "title": "Could a tree help find a decaying corpse nearby?",
-      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
+      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
+      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "Withings' ScanWatch packs ECG and SpO2 sensors alongside the usual tools",
-      "link": "https://www.engadget.com/withings-scanwatch-hands-on-ifa-2020-070001875.html"
+      "title": "The Art of Debating for Software Developers",
+      "link": "https://thevaluable.dev/guide-debate-software-developer-skill/"
     },
     {
       "rank": "28.",
-      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
-      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
+      "title": "The paradox of Graham Greene",
+      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
     },
     {
       "rank": "29.",
-      "title": "Tesla can detect aftermarket hacks designed to defeat EV performance paywalls",
-      "link": "https://www.thedrive.com/news/35946/tesla-can-detect-aftermarket-hacks-designed-to-defeat-ev-performance-paywalls"
+      "title": "Wix Acquires DeviantArt",
+      "link": "https://techcrunch.com/2017/02/23/website-builder-wix-acquires-art-community-deviantart-for-36m/"
     },
     {
       "rank": "30.",
-      "title": "The paradox of Graham Greene",
-      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
+      "title": "Arm Announces Cortex-R82: First 64-Bit Real Time Processor",
+      "link": "https://www.anandtech.com/show/16056/arm-announces-cortexr82-first-64bit-real-time-processor"
     }
   ],
   "metadata": {
