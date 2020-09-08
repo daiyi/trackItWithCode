@@ -12,18 +12,18 @@
     },
     {
       "rank": "3.",
+      "title": "“The Podfather”, Adam Curry launches a new, open podcast directory",
+      "link": "https://podnews.net/update/podcast-index-open-directory"
+    },
+    {
+      "rank": "4.",
       "title": "Understanding Convolution in Deep Learning (2015)",
       "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "State of Cybersecurity Industry Exposure at Dark Web",
       "link": "https://www.immuniweb.com/blog/state-cybersecurity-dark-web-exposure.html"
-    },
-    {
-      "rank": "5.",
-      "title": "“The Podfather”, Adam Curry launches a new, open podcast directory",
-      "link": "https://podnews.net/update/podcast-index-open-directory"
     },
     {
       "rank": "6.",
@@ -32,93 +32,93 @@
     },
     {
       "rank": "7.",
-      "title": "On finally learning to program at the age of 40",
-      "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
-    },
-    {
-      "rank": "8.",
-      "title": "Escape from creek fire",
-      "link": "https://www.jmeshe.co/escape-from-creek-fire"
-    },
-    {
-      "rank": "9.",
-      "title": "Newfront (YC W18) is hiring Engineering Managers to transform insurance",
-      "link": "https://jobs.lever.co/newfrontinsurance/51c08b9c-f5ed-4714-8787-b1a2b1059ead"
-    },
-    {
-      "rank": "10.",
-      "title": "PandaDoc Employees Arrested in Belarus After Founders Protest Against Violence",
-      "link": "https://savepandadoc.org/en/"
-    },
-    {
-      "rank": "11.",
-      "title": "Largest multi-city traffic dataset available",
-      "link": "https://utd19.ethz.ch/"
-    },
-    {
-      "rank": "12.",
-      "title": "BitTorrent v2",
-      "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
-    },
-    {
-      "rank": "13.",
-      "title": "GDPR Violation: Scribd acquires PII on 500M users in a deal with LinkedIn",
-      "link": "https://thehftguy.com/2020/09/01/gdpr-violation-scribd-acquires-pii-on-500m-users-in-a-deal-with-linkedin/"
-    },
-    {
-      "rank": "14.",
-      "title": "The Art of Debating for Software Developers",
-      "link": "https://thevaluable.dev/guide-debate-software-developer-skill/"
-    },
-    {
-      "rank": "15.",
-      "title": "TikTok and WeChat: Curating and controlling global information flows",
-      "link": "https://www.aspi.org.au/report/tiktok-wechat"
-    },
-    {
-      "rank": "16.",
-      "title": "Topology Explains Why Automobile Sunshades Fold Oddly",
-      "link": "https://arxiv.org/abs/1205.4797"
-    },
-    {
-      "rank": "17.",
-      "title": "Is Spotify Killing the Top 40?",
-      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
-    },
-    {
-      "rank": "18.",
-      "title": "How Akbar came to love books despite never learning to read (2019)",
-      "link": "https://dailytimes.com.pk/377146/how-akbar-came-to-love-books-despite-never-learning-to-read/"
-    },
-    {
-      "rank": "19.",
       "title": "Chef to be acquired by Progress",
       "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
     },
     {
+      "rank": "8.",
+      "title": "On finally learning to program at the age of 40",
+      "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
+    },
+    {
+      "rank": "9.",
+      "title": "PandaDoc Employees Arrested in Belarus After Founders Protest Against Violence",
+      "link": "https://savepandadoc.org/en/"
+    },
+    {
+      "rank": "10.",
+      "title": "Newfront (YC W18) is hiring Engineering Managers to transform insurance",
+      "link": "https://jobs.lever.co/newfrontinsurance/51c08b9c-f5ed-4714-8787-b1a2b1059ead"
+    },
+    {
+      "rank": "11.",
+      "title": "Escape from creek fire",
+      "link": "https://www.jmeshe.co/escape-from-creek-fire"
+    },
+    {
+      "rank": "12.",
+      "title": "Tesla Shares Fall as It Fails to Make It into S&P 500 Index",
+      "link": "https://www.nytimes.com/reuters/2020/09/08/business/08reuters-tesla-stocks.html"
+    },
+    {
+      "rank": "13.",
+      "title": "Largest multi-city traffic dataset available",
+      "link": "https://utd19.ethz.ch/"
+    },
+    {
+      "rank": "14.",
+      "title": "BitTorrent v2",
+      "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
+    },
+    {
+      "rank": "15.",
+      "title": "GDPR Violation: Scribd acquires PII on 500M users in a deal with LinkedIn",
+      "link": "https://thehftguy.com/2020/09/01/gdpr-violation-scribd-acquires-pii-on-500m-users-in-a-deal-with-linkedin/"
+    },
+    {
+      "rank": "16.",
+      "title": "Show HN: Free hosted open-source alternative to Zapier/Airflow (public beta)",
+      "link": "https://cloud.titanoboa.io/index.html"
+    },
+    {
+      "rank": "17.",
+      "title": "TikTok and WeChat: Curating and controlling global information flows",
+      "link": "https://www.aspi.org.au/report/tiktok-wechat"
+    },
+    {
+      "rank": "18.",
+      "title": "Introduction to runc",
+      "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
+    },
+    {
+      "rank": "19.",
+      "title": "How Akbar came to love books despite never learning to read (2019)",
+      "link": "https://dailytimes.com.pk/377146/how-akbar-came-to-love-books-despite-never-learning-to-read/"
+    },
+    {
       "rank": "20.",
+      "title": "Topology Explains Why Automobile Sunshades Fold Oddly",
+      "link": "https://arxiv.org/abs/1205.4797"
+    },
+    {
+      "rank": "21.",
+      "title": "The Art of Debating for Software Developers",
+      "link": "https://thevaluable.dev/guide-debate-software-developer-skill/"
+    },
+    {
+      "rank": "22.",
+      "title": "Is Spotify Killing the Top 40?",
+      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
+    },
+    {
+      "rank": "23.",
       "title": "Assange Hearing Day 6",
       "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-the-assange-hearing-day-6"
     },
     {
-      "rank": "21.",
+      "rank": "24.",
       "title": "Alien Signals",
       "link": "https://www.robinsloan.com/notes/alien-signals/"
-    },
-    {
-      "rank": "22.",
-      "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
-      "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
-    },
-    {
-      "rank": "23.",
-      "title": "Tesla can detect aftermarket hacks designed to defeat EV performance paywalls",
-      "link": "https://www.thedrive.com/news/35946/tesla-can-detect-aftermarket-hacks-designed-to-defeat-ev-performance-paywalls"
-    },
-    {
-      "rank": "24.",
-      "title": "A curated list of falsehoods programmers believe",
-      "link": "https://github.com/kdeldycke/awesome-falsehood"
     },
     {
       "rank": "25.",
@@ -127,8 +127,8 @@
     },
     {
       "rank": "26.",
-      "title": "Introduction to runc",
-      "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
+      "title": "A curated list of falsehoods programmers believe",
+      "link": "https://github.com/kdeldycke/awesome-falsehood"
     },
     {
       "rank": "27.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "The paradox of Graham Greene",
-      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
+      "title": "Tesla can detect aftermarket hacks designed to defeat EV performance paywalls",
+      "link": "https://www.thedrive.com/news/35946/tesla-can-detect-aftermarket-hacks-designed-to-defeat-ev-performance-paywalls"
     },
     {
       "rank": "30.",
-      "title": "How to speed up the Rust compiler one last time",
-      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+      "title": "The paradox of Graham Greene",
+      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
     }
   ],
   "metadata": {
