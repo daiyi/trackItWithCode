@@ -17,43 +17,43 @@
     },
     {
       "rank": "4.",
-      "title": "PandaDoc Employees Arrested in Belarus After Founders Protest Against Violence",
-      "link": "https://savepandadoc.org/en/"
-    },
-    {
-      "rank": "5.",
       "title": "Vitamin D, part 3 – The Evidence",
       "link": "https://www.devaboone.com/post/vitamin-d-part-3-the-evidence?postId=5f4e8bf673d853002ded6cd3"
     },
     {
+      "rank": "5.",
+      "title": "PandaDoc Employees Arrested in Belarus After Founders Protest Against Violence",
+      "link": "https://savepandadoc.org/en/"
+    },
+    {
       "rank": "6.",
-      "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
-      "link": "https://jobs.lever.co/buildzoom"
-    },
-    {
-      "rank": "7.",
-      "title": "Hidden costs of constantly shipping new things",
-      "link": "https://www.mindtheproduct.com/the-hidden-costs-of-constantly-shipping-new-things/"
-    },
-    {
-      "rank": "8.",
-      "title": "Understanding Convolution in Deep Learning (2015)",
-      "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
-    },
-    {
-      "rank": "9.",
       "title": "Archiving URLs (2019)",
       "link": "https://www.gwern.net/Archiving-URLs"
     },
     {
+      "rank": "7.",
+      "title": "BuildZoom (better way to build custom homes) is hiring a growth associate",
+      "link": "https://jobs.lever.co/buildzoom"
+    },
+    {
+      "rank": "8.",
+      "title": "OpenJDK is now on GitHub",
+      "link": "https://mail.openjdk.java.net/pipermail/jdk-dev/2020-September/004694.html"
+    },
+    {
+      "rank": "9.",
+      "title": "Hidden costs of constantly shipping new things",
+      "link": "https://www.mindtheproduct.com/the-hidden-costs-of-constantly-shipping-new-things/"
+    },
+    {
       "rank": "10.",
-      "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
-      "link": "https://www.dataspeeder.com"
+      "title": "Understanding Convolution in Deep Learning (2015)",
+      "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
     },
     {
       "rank": "11.",
-      "title": "OpenJDK is now on GitHub",
-      "link": "https://mail.openjdk.java.net/pipermail/jdk-dev/2020-September/004694.html"
+      "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
+      "link": "https://www.dataspeeder.com"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
+      "title": "FTC Is Investigating Intuit over TurboTax Practices",
+      "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
+    },
+    {
+      "rank": "14.",
       "title": "The Computational Power of Biological Dendritic Trees",
       "link": "https://arxiv.org/abs/2009.01269"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Introduction to runc",
       "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
-    },
-    {
-      "rank": "15.",
-      "title": "Expanding Google Cloud’s Confidential Computing Portfolio",
-      "link": "https://cloud.google.com/blog/products/identity-security/expanding-google-clouds-confidential-computing-portfolio"
     },
     {
       "rank": "16.",
@@ -82,23 +82,23 @@
     },
     {
       "rank": "17.",
-      "title": "FTC Is Investigating Intuit over TurboTax Practices",
-      "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
+      "title": "Expanding Google Cloud’s Confidential Computing Portfolio",
+      "link": "https://cloud.google.com/blog/products/identity-security/expanding-google-clouds-confidential-computing-portfolio"
     },
     {
       "rank": "18.",
-      "title": "State of Cybersecurity Industry Exposure at Dark Web",
-      "link": "https://www.immuniweb.com/blog/state-cybersecurity-dark-web-exposure.html"
-    },
-    {
-      "rank": "19.",
       "title": "Apple Event: \"view the AR experience\"",
       "link": "https://twitter.com/samhenrigold/status/1303352698490757133"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "TikTok and WeChat: Curating and controlling global information flows",
       "link": "https://www.aspi.org.au/report/tiktok-wechat"
+    },
+    {
+      "rank": "20.",
+      "title": "State of Cybersecurity Industry Exposure at Dark Web",
+      "link": "https://www.immuniweb.com/blog/state-cybersecurity-dark-web-exposure.html"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Ask HN: Any well funded tech companies tackling big, meaningful problems?",
-      "link": "item?id=24408324"
+      "title": "Classic Bug Reports (2015)",
+      "link": "https://blog.regehr.org/archives/1270"
     },
     {
       "rank": "23.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Could a tree help find a decaying corpse nearby?",
-      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
+      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
+      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
     }
   ],
   "metadata": {
