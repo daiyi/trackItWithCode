@@ -17,53 +17,53 @@
     },
     {
       "rank": "4.",
-      "title": "Desolate English path has killed more than 100 people (2017)",
-      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
-    },
-    {
-      "rank": "5.",
-      "title": "Optimize Onboarding",
-      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
-    },
-    {
-      "rank": "6.",
       "title": "Is Spotify Killing the Top 40?",
       "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
     },
     {
+      "rank": "5.",
+      "title": "Desolate English path has killed more than 100 people (2017)",
+      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
+    },
+    {
+      "rank": "6.",
+      "title": "Optimize Onboarding",
+      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+    },
+    {
       "rank": "7.",
-      "title": "How to speed up the Rust compiler one last time",
-      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
-    },
-    {
-      "rank": "8.",
-      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
-      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
-    },
-    {
-      "rank": "9.",
-      "title": "Bash Pitfalls",
-      "link": "https://mywiki.wooledge.org/BashPitfalls"
-    },
-    {
-      "rank": "10.",
-      "title": "Which GPUs to get for deep learning",
-      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
-    },
-    {
-      "rank": "11.",
-      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
-      "link": "https://support.google.com/chrome/thread/26214034"
-    },
-    {
-      "rank": "12.",
       "title": "Alien Signals",
       "link": "https://www.robinsloan.com/notes/alien-signals/"
     },
     {
+      "rank": "8.",
+      "title": "How to speed up the Rust compiler one last time",
+      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+    },
+    {
+      "rank": "9.",
+      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
+      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
+    },
+    {
+      "rank": "10.",
+      "title": "Bash Pitfalls",
+      "link": "https://mywiki.wooledge.org/BashPitfalls"
+    },
+    {
+      "rank": "11.",
+      "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
+      "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
+    },
+    {
+      "rank": "12.",
+      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
+      "link": "https://support.google.com/chrome/thread/26214034"
+    },
+    {
       "rank": "13.",
-      "title": "Universal Paperclips",
-      "link": "https://www.decisionproblem.com/paperclips/"
+      "title": "Which GPUs to get for deep learning",
+      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
-      "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
+      "title": "Universal Paperclips",
+      "link": "https://www.decisionproblem.com/paperclips/"
     },
     {
       "rank": "16.",
@@ -87,18 +87,18 @@
     },
     {
       "rank": "18.",
-      "title": "How can you make subjective time go slower?",
-      "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
-    },
-    {
-      "rank": "19.",
       "title": "Column Names as Contracts",
       "link": "https://emilyriederer.netlify.app/post/column-name-contracts/"
     },
     {
+      "rank": "19.",
+      "title": "How can you make subjective time go slower?",
+      "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
+    },
+    {
       "rank": "20.",
-      "title": "The 10,000 Year Clock",
-      "link": "https://longnow.org/clock/"
+      "title": "Show HN: More HN",
+      "link": "https://github.com/melvinroest/more-hn"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Pony, Actors, Causality, Types, and Garbage Collection",
-      "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
+      "title": "The 10,000 Year Clock",
+      "link": "https://longnow.org/clock/"
     },
     {
       "rank": "23.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
-      "title": "Western Digital is trying to redefine the word “RPM”",
-      "link": "https://arstechnica.com/gadgets/2020/09/western-digital-is-trying-to-redefine-the-word-rpm/"
-    },
-    {
-      "rank": "26.",
-      "title": "Smart watches could do more for wheelchair users",
-      "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
-    },
-    {
-      "rank": "27.",
-      "title": "Geometric Algebra for Python",
-      "link": "https://github.com/pygae/clifford"
-    },
-    {
-      "rank": "28.",
       "title": "Vibration overcomes gravity on a levitating fluid",
       "link": "https://www.nature.com/articles/d41586-020-02451-w"
     },
     {
+      "rank": "26.",
+      "title": "Geometric Algebra for Python",
+      "link": "https://github.com/pygae/clifford"
+    },
+    {
+      "rank": "27.",
+      "title": "Pony, Actors, Causality, Types, and Garbage Collection",
+      "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
+    },
+    {
+      "rank": "28.",
+      "title": "Threat modelling case study: bicycles",
+      "link": "http://calpaterson.com/bicycle-threat-model.html"
+    },
+    {
       "rank": "29.",
-      "title": "Raspberry Pi 3B+ Hackable Linux Handheld",
-      "link": "http://yarh.io/yarh-io-mki.html"
+      "title": "Smart watches could do more for wheelchair users",
+      "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
     },
     {
       "rank": "30.",
-      "title": "Threat modelling case study: bicycles",
-      "link": "http://calpaterson.com/bicycle-threat-model.html"
+      "title": "Raspberry Pi 3B+ Hackable Linux Handheld",
+      "link": "http://yarh.io/yarh-io-mki.html"
     }
   ],
   "metadata": {
