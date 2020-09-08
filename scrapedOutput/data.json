@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Is Spotify Killing the Top 40?",
-      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
+      "title": "URL query parameters and how laxness creates de facto requirements on the web",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
     },
     {
       "rank": "7.",
-      "title": "URL query parameters and how laxness creates de facto requirements on the web",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
+      "title": "Is Spotify Killing the Top 40?",
+      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
     },
     {
       "rank": "8.",
@@ -52,68 +52,68 @@
     },
     {
       "rank": "11.",
-      "title": "Optimize Onboarding",
-      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+      "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
+      "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
     },
     {
       "rank": "12.",
-      "title": "Which GPUs to get for deep learning",
-      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
-    },
-    {
-      "rank": "13.",
-      "title": "Universal Paperclips",
-      "link": "https://www.decisionproblem.com/paperclips/"
-    },
-    {
-      "rank": "14.",
       "title": "Could a tree help find a decaying corpse nearby?",
       "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
     },
     {
+      "rank": "13.",
+      "title": "Optimize Onboarding",
+      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+    },
+    {
+      "rank": "14.",
+      "title": "Which GPUs to get for deep learning",
+      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
+    },
+    {
       "rank": "15.",
-      "title": "How to speed up the Rust compiler one last time",
-      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+      "title": "Universal Paperclips",
+      "link": "https://www.decisionproblem.com/paperclips/"
     },
     {
       "rank": "16.",
-      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
-      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
-    },
-    {
-      "rank": "17.",
-      "title": "Open Transclude for Networked Writing",
-      "link": "http://subpixel.space/entries/open-transclude/"
-    },
-    {
-      "rank": "18.",
-      "title": "Doom Eternal – Graphics Study",
-      "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
-    },
-    {
-      "rank": "19.",
-      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
-      "link": "https://base32h.github.io"
-    },
-    {
-      "rank": "20.",
-      "title": "Charge more for app subscriptions",
-      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
-    },
-    {
-      "rank": "21.",
-      "title": "How can you make subjective time go slower?",
-      "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
-    },
-    {
-      "rank": "22.",
       "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
       "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
     },
     {
+      "rank": "17.",
+      "title": "How to speed up the Rust compiler one last time",
+      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+    },
+    {
+      "rank": "18.",
+      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
+      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
+    },
+    {
+      "rank": "19.",
+      "title": "Open Transclude for Networked Writing",
+      "link": "http://subpixel.space/entries/open-transclude/"
+    },
+    {
+      "rank": "20.",
+      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
+      "link": "https://base32h.github.io"
+    },
+    {
+      "rank": "21.",
+      "title": "Ask HN: As a developer what are your aha moments?",
+      "link": "item?id=24397272"
+    },
+    {
+      "rank": "22.",
+      "title": "Doom Eternal – Graphics Study",
+      "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
+    },
+    {
       "rank": "23.",
-      "title": "Inkscape 1.0.1",
-      "link": "https://inkscape.org/news/2020/09/06/inkscape-version-101-patches-crashes-bugs/"
+      "title": "A bank security check that leaves you guessing your own name",
+      "link": "https://www.theguardian.com/money/2020/sep/06/who-am-i-a-bank-security-check-that-leaves-you-guessing-your-own-name"
     },
     {
       "rank": "24.",
@@ -122,33 +122,33 @@
     },
     {
       "rank": "25.",
+      "title": "Inkscape 1.0.1",
+      "link": "https://inkscape.org/news/2020/09/06/inkscape-version-101-patches-crashes-bugs/"
+    },
+    {
+      "rank": "26.",
+      "title": "Charge more for app subscriptions",
+      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
+    },
+    {
+      "rank": "27.",
+      "title": "How can you make subjective time go slower?",
+      "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
+    },
+    {
+      "rank": "28.",
       "title": "The 10,000 Year Clock",
       "link": "https://longnow.org/clock/"
     },
     {
-      "rank": "26.",
-      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
-      "link": "https://support.google.com/chrome/thread/26214034"
-    },
-    {
-      "rank": "27.",
-      "title": "A bank security check that leaves you guessing your own name",
-      "link": "https://www.theguardian.com/money/2020/sep/06/who-am-i-a-bank-security-check-that-leaves-you-guessing-your-own-name"
-    },
-    {
-      "rank": "28.",
-      "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
-      "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
-    },
-    {
       "rank": "29.",
-      "title": "Loose Lips Sink MIPS",
-      "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
+      "title": "Fast.ai and why Python is not the future of ML with Jeremy Howard",
+      "link": "https://www.wandb.com/podcast/jeremy-howard"
     },
     {
       "rank": "30.",
-      "title": "Column Names as Contracts",
-      "link": "https://emilyriederer.netlify.app/post/column-name-contracts/"
+      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
+      "link": "https://support.google.com/chrome/thread/26214034"
     }
   ],
   "metadata": {
