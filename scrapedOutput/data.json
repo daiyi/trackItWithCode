@@ -17,18 +17,18 @@
     },
     {
       "rank": "4.",
+      "title": "ProtonDrive Security Model",
+      "link": "https://protonmail.com/blog/protondrive-security/"
+    },
+    {
+      "rank": "5.",
       "title": "Covid vaccine makers commit to not seek approval until complete Phase III trials",
       "link": "https://www.statnews.com/2020/09/08/pharma-pledge-reassure-covid-19-safety/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "The 'brushing' scam that's behind mystery parcels",
       "link": "https://www.bbc.com/news/technology-54055669"
-    },
-    {
-      "rank": "6.",
-      "title": "ProtonDrive Security Model",
-      "link": "https://protonmail.com/blog/protondrive-security/"
     },
     {
       "rank": "7.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Verne Edquist – Glenn Gould’s Piano Man",
-      "link": "https://www.glenngould.ca/verne-edquist/"
+      "title": "Slaughter at the bridge: Uncovering a colossal Bronze Age battle (2016)",
+      "link": "https://www.sciencemag.org/news/2016/03/slaughter-bridge-uncovering-colossal-bronze-age-battle"
     },
     {
       "rank": "10.",
-      "title": "Slaughter at the bridge: Uncovering a colossal Bronze Age battle (2016)",
-      "link": "https://www.sciencemag.org/news/2016/03/slaughter-bridge-uncovering-colossal-bronze-age-battle"
+      "title": "Verne Edquist – Glenn Gould’s Piano Man",
+      "link": "https://www.glenngould.ca/verne-edquist/"
     },
     {
       "rank": "11.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "Hidden costs of constantly shipping new things",
-      "link": "https://www.mindtheproduct.com/the-hidden-costs-of-constantly-shipping-new-things/"
+      "title": "AstraZeneca Covid-19 vaccine study put on hold due to suspected adverse reaction",
+      "link": "https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/"
     },
     {
       "rank": "13.",
-      "title": "FTC Is Investigating Intuit over TurboTax Practices",
-      "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
+      "title": "Six Smart Guys Sitting Around Talking (1994)",
+      "link": "https://www.nytimes.com/1994/06/12/arts/television-six-smart-guys-sitting-around-talking.html"
     },
     {
       "rank": "14.",
@@ -72,13 +72,13 @@
     },
     {
       "rank": "15.",
-      "title": "Six Smart Guys Sitting Around Talking (1994)",
-      "link": "https://www.nytimes.com/1994/06/12/arts/television-six-smart-guys-sitting-around-talking.html"
+      "title": "Hidden costs of constantly shipping new things",
+      "link": "https://www.mindtheproduct.com/the-hidden-costs-of-constantly-shipping-new-things/"
     },
     {
       "rank": "16.",
-      "title": "Show HN: A political news aggregator you can comment on",
-      "link": "https://www.newscomment.us/"
+      "title": "FTC Is Investigating Intuit over TurboTax Practices",
+      "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
     },
     {
       "rank": "17.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "'Wild West' mentality lingers in modern populations of US mountain regions",
-      "link": "https://phys.org/news/2020-09-wild-west-mentality-lingers-modern.html"
+      "title": "Show HN: A political news aggregator you can comment on",
+      "link": "https://www.newscomment.us/"
     },
     {
       "rank": "19.",
@@ -97,23 +97,23 @@
     },
     {
       "rank": "20.",
-      "title": "Ask HN: What did you do to improve your company?",
-      "link": "item?id=24398077"
+      "title": "'Wild West' mentality lingers in modern populations of US mountain regions",
+      "link": "https://phys.org/news/2020-09-wild-west-mentality-lingers-modern.html"
     },
     {
       "rank": "21.",
-      "title": "Show HN: TerminusHub, Distributed Revision Control for Structured Data",
-      "link": "https://terminusdb.com/hub/"
-    },
-    {
-      "rank": "22.",
       "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
       "link": "https://www.dataspeeder.com"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Adam Curry launches a new, open podcast directory",
       "link": "https://podnews.net/update/podcast-index-open-directory"
+    },
+    {
+      "rank": "23.",
+      "title": "Show HN: TerminusHub, Distributed Revision Control for Structured Data",
+      "link": "https://terminusdb.com/hub/"
     },
     {
       "rank": "24.",
@@ -122,23 +122,23 @@
     },
     {
       "rank": "25.",
+      "title": "Ask HN: What did you do to improve your company?",
+      "link": "item?id=24398077"
+    },
+    {
+      "rank": "26.",
       "title": "Understanding Convolution in Deep Learning (2015)",
       "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "The Computational Power of Biological Dendritic Trees",
       "link": "https://arxiv.org/abs/2009.01269"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Chef to be acquired by Progress",
       "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
-    },
-    {
-      "rank": "28.",
-      "title": "URL query parameters and how laxness creates de facto requirements on the web",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
     },
     {
       "rank": "29.",
