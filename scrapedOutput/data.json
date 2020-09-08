@@ -32,8 +32,8 @@
     },
     {
       "rank": "7.",
-      "title": "A bank security check that leaves you guessing your own name",
-      "link": "https://www.theguardian.com/money/2020/sep/06/who-am-i-a-bank-security-check-that-leaves-you-guessing-your-own-name"
+      "title": "Is Spotify Killing the Top 40?",
+      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
     },
     {
       "rank": "8.",
@@ -42,8 +42,8 @@
     },
     {
       "rank": "9.",
-      "title": "Is Spotify Killing the Top 40?",
-      "link": "https://qz.com/1899097/is-spotify-killing-the-top-40/"
+      "title": "Alien Signals",
+      "link": "https://www.robinsloan.com/notes/alien-signals/"
     },
     {
       "rank": "10.",
@@ -52,23 +52,23 @@
     },
     {
       "rank": "11.",
-      "title": "Alien Signals",
-      "link": "https://www.robinsloan.com/notes/alien-signals/"
-    },
-    {
-      "rank": "12.",
-      "title": "Open Transclude for Networked Writing",
-      "link": "http://subpixel.space/entries/open-transclude/"
-    },
-    {
-      "rank": "13.",
       "title": "Bash Pitfalls",
       "link": "https://mywiki.wooledge.org/BashPitfalls"
     },
     {
-      "rank": "14.",
+      "rank": "12.",
       "title": "Optimize Onboarding",
       "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+    },
+    {
+      "rank": "13.",
+      "title": "Open Transclude for Networked Writing",
+      "link": "http://subpixel.space/entries/open-transclude/"
+    },
+    {
+      "rank": "14.",
+      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
+      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
     },
     {
       "rank": "15.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
-      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
+      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
+      "link": "https://base32h.github.io"
     },
     {
       "rank": "17.",
-      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
-      "link": "https://base32h.github.io"
+      "title": "Which GPUs to get for deep learning",
+      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "Which GPUs to get for deep learning",
-      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
+      "title": "A bank security check that leaves you guessing your own name",
+      "link": "https://www.theguardian.com/money/2020/sep/06/who-am-i-a-bank-security-check-that-leaves-you-guessing-your-own-name"
     },
     {
       "rank": "20.",
-      "title": "Could a tree help find a decaying corpse nearby?",
-      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
+      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
     },
     {
       "rank": "21.",
@@ -112,8 +112,8 @@
     },
     {
       "rank": "23.",
-      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
-      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
+      "title": "Could a tree help find a decaying corpse nearby?",
+      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
     },
     {
       "rank": "24.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
-      "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
-    },
-    {
-      "rank": "29.",
       "title": "Loose Lips Sink MIPS",
       "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
     },
     {
+      "rank": "29.",
+      "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
+      "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
+    },
+    {
       "rank": "30.",
-      "title": "Apple Marina Bay Sands Opens Thursday in Singapore",
-      "link": "https://www.apple.com/newsroom/2020/09/apple-marina-bay-sands-opens-thursday-in-singapore/"
+      "title": "Calculating the sample size required for developing a clinical prediction model",
+      "link": "https://www.bmj.com/content/368/bmj.m441/rr"
     }
   ],
   "metadata": {
