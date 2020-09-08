@@ -17,8 +17,8 @@
     },
     {
       "rank": "4.",
-      "title": "Vitamin D, part 3 – The Evidence",
-      "link": "https://www.devaboone.com/post/vitamin-d-part-3-the-evidence?postId=5f4e8bf673d853002ded6cd3"
+      "title": "Archiving URLs (2019)",
+      "link": "https://www.gwern.net/Archiving-URLs"
     },
     {
       "rank": "5.",
@@ -27,8 +27,8 @@
     },
     {
       "rank": "6.",
-      "title": "Archiving URLs (2019)",
-      "link": "https://www.gwern.net/Archiving-URLs"
+      "title": "Vitamin D, part 3 – The Evidence",
+      "link": "https://www.devaboone.com/post/vitamin-d-part-3-the-evidence?postId=5f4e8bf673d853002ded6cd3"
     },
     {
       "rank": "7.",
@@ -47,33 +47,33 @@
     },
     {
       "rank": "10.",
+      "title": "The 'brushing' scam that's behind mystery parcels",
+      "link": "https://www.bbc.com/news/technology-54055669"
+    },
+    {
+      "rank": "11.",
       "title": "Understanding Convolution in Deep Learning (2015)",
       "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
+      "title": "Verne Edquist – Glenn Gould’s Piano Man",
+      "link": "https://www.glenngould.ca/verne-edquist/"
+    },
+    {
+      "rank": "13.",
       "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
       "link": "https://www.dataspeeder.com"
     },
     {
-      "rank": "12.",
-      "title": "Ask HN: What did you do to improve your company?",
-      "link": "item?id=24398077"
-    },
-    {
-      "rank": "13.",
+      "rank": "14.",
       "title": "FTC Is Investigating Intuit over TurboTax Practices",
       "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "The Computational Power of Biological Dendritic Trees",
       "link": "https://arxiv.org/abs/2009.01269"
-    },
-    {
-      "rank": "15.",
-      "title": "Introduction to runc",
-      "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
     },
     {
       "rank": "16.",
@@ -82,23 +82,23 @@
     },
     {
       "rank": "17.",
+      "title": "Ask HN: What did you do to improve your company?",
+      "link": "item?id=24398077"
+    },
+    {
+      "rank": "18.",
+      "title": "Introduction to runc",
+      "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
+    },
+    {
+      "rank": "19.",
       "title": "Expanding Google Cloud’s Confidential Computing Portfolio",
       "link": "https://cloud.google.com/blog/products/identity-security/expanding-google-clouds-confidential-computing-portfolio"
     },
     {
-      "rank": "18.",
-      "title": "Apple Event: \"view the AR experience\"",
-      "link": "https://twitter.com/samhenrigold/status/1303352698490757133"
-    },
-    {
-      "rank": "19.",
+      "rank": "20.",
       "title": "TikTok and WeChat: Curating and controlling global information flows",
       "link": "https://www.aspi.org.au/report/tiktok-wechat"
-    },
-    {
-      "rank": "20.",
-      "title": "State of Cybersecurity Industry Exposure at Dark Web",
-      "link": "https://www.immuniweb.com/blog/state-cybersecurity-dark-web-exposure.html"
     },
     {
       "rank": "21.",
@@ -107,8 +107,8 @@
     },
     {
       "rank": "22.",
-      "title": "Classic Bug Reports (2015)",
-      "link": "https://blog.regehr.org/archives/1270"
+      "title": "State of Cybersecurity Industry Exposure at Dark Web",
+      "link": "https://www.immuniweb.com/blog/state-cybersecurity-dark-web-exposure.html"
     },
     {
       "rank": "23.",
@@ -117,23 +117,23 @@
     },
     {
       "rank": "24.",
+      "title": "Classic Bug Reports (2015)",
+      "link": "https://blog.regehr.org/archives/1270"
+    },
+    {
+      "rank": "25.",
       "title": "BitTorrent v2",
       "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
     },
     {
-      "rank": "25.",
-      "title": "GDPR Violation: Scribd acquires PII on 500M users in a deal with LinkedIn",
-      "link": "https://thehftguy.com/2020/09/01/gdpr-violation-scribd-acquires-pii-on-500m-users-in-a-deal-with-linkedin/"
-    },
-    {
       "rank": "26.",
-      "title": "Chef to be acquired by Progress",
-      "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
+      "title": "Apple Event: \"view the AR experience\"",
+      "link": "https://twitter.com/samhenrigold/status/1303352698490757133"
     },
     {
       "rank": "27.",
-      "title": "Topology Explains Why Automobile Sunshades Fold Oddly (2009)",
-      "link": "https://arxiv.org/abs/1205.4797"
+      "title": "GDPR Violation: Scribd acquires PII on 500M users in a deal with LinkedIn",
+      "link": "https://thehftguy.com/2020/09/01/gdpr-violation-scribd-acquires-pii-on-500m-users-in-a-deal-with-linkedin/"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Assange Hearing Day 6",
-      "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-the-assange-hearing-day-6"
+      "title": "Topology Explains Why Automobile Sunshades Fold Oddly (2009)",
+      "link": "https://arxiv.org/abs/1205.4797"
     },
     {
       "rank": "30.",
-      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
-      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
+      "title": "Chef to be acquired by Progress",
+      "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
     }
   ],
   "metadata": {
