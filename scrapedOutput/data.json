@@ -27,58 +27,58 @@
     },
     {
       "rank": "6.",
+      "title": "On finally learning to program at the age of 40",
+      "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
+    },
+    {
+      "rank": "7.",
       "title": "Alien Signals",
       "link": "https://www.robinsloan.com/notes/alien-signals/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Desolate English path has killed more than 100 people (2017)",
       "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Optimize Onboarding",
       "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
       "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Bash Pitfalls",
       "link": "https://mywiki.wooledge.org/BashPitfalls"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
       "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "How to speed up the Rust compiler one last time",
       "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
     },
     {
-      "rank": "13.",
-      "title": "Universal Paperclips",
-      "link": "https://www.decisionproblem.com/paperclips/"
-    },
-    {
       "rank": "14.",
-      "title": "Which GPUs to get for deep learning",
-      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
-    },
-    {
-      "rank": "15.",
       "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
       "link": "https://base32h.github.io"
     },
     {
+      "rank": "15.",
+      "title": "Which GPUs to get for deep learning",
+      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
+    },
+    {
       "rank": "16.",
-      "title": "How can you make subjective time go slower?",
-      "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
+      "title": "Universal Paperclips",
+      "link": "https://www.decisionproblem.com/paperclips/"
     },
     {
       "rank": "17.",
@@ -87,23 +87,23 @@
     },
     {
       "rank": "18.",
-      "title": "Charge more for app subscriptions",
-      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
+      "title": "How can you make subjective time go slower?",
+      "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
     },
     {
       "rank": "19.",
-      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
-      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
-    },
-    {
-      "rank": "20.",
       "title": "Doom Eternal – Graphics Study",
       "link": "https://www.simoncoenen.com/blog/programming/graphics/DoomEternalStudy.html"
     },
     {
+      "rank": "20.",
+      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
+    },
+    {
       "rank": "21.",
-      "title": "Column Names as Contracts",
-      "link": "https://emilyriederer.netlify.app/post/column-name-contracts/"
+      "title": "Charge more for app subscriptions",
+      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
     },
     {
       "rank": "22.",
@@ -112,43 +112,43 @@
     },
     {
       "rank": "23.",
-      "title": "Loose Lips Sink MIPS",
-      "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
+      "title": "NSCache (2012)",
+      "link": "https://nshipster.com/nscache/"
     },
     {
       "rank": "24.",
+      "title": "Column Names as Contracts",
+      "link": "https://emilyriederer.netlify.app/post/column-name-contracts/"
+    },
+    {
+      "rank": "25.",
       "title": "Western Digital is trying to redefine the word “RPM”",
       "link": "https://arstechnica.com/gadgets/2020/09/western-digital-is-trying-to-redefine-the-word-rpm/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
+      "title": "Loose Lips Sink MIPS",
+      "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
+    },
+    {
+      "rank": "27.",
       "title": "Calculating the sample size required for developing a clinical prediction model",
       "link": "https://www.bmj.com/content/368/bmj.m441/rr"
     },
     {
-      "rank": "26.",
+      "rank": "28.",
       "title": "Threat modelling case study: bicycles",
       "link": "http://calpaterson.com/bicycle-threat-model.html"
     },
     {
-      "rank": "27.",
+      "rank": "29.",
       "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
       "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
     },
     {
-      "rank": "28.",
+      "rank": "30.",
       "title": "Smart watches could do more for wheelchair users",
       "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
-    },
-    {
-      "rank": "29.",
-      "title": "Pony, Actors, Causality, Types, and Garbage Collection",
-      "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
-    },
-    {
-      "rank": "30.",
-      "title": "Vibration overcomes gravity on a levitating fluid",
-      "link": "https://www.nature.com/articles/d41586-020-02451-w"
     }
   ],
   "metadata": {
