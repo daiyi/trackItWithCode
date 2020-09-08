@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Ad Fraud on LinkedIn",
-      "link": "https://www.samueljscott.com/2020/09/08/linkedin-ad-fraud/"
+      "title": "Non-Posix File Systems",
+      "link": "https://weinholt.se/articles/non-posix-filesystems/"
     },
     {
       "rank": "2.",
-      "title": "The 'brushing' scam that's behind mystery parcels",
-      "link": "https://www.bbc.com/news/technology-54055669"
+      "title": "Ad Fraud on LinkedIn",
+      "link": "https://www.samueljscott.com/2020/09/08/linkedin-ad-fraud/"
     },
     {
       "rank": "3.",
@@ -17,138 +17,138 @@
     },
     {
       "rank": "4.",
+      "title": "The 'brushing' scam that's behind mystery parcels",
+      "link": "https://www.bbc.com/news/technology-54055669"
+    },
+    {
+      "rank": "5.",
       "title": "Show HN: Free hosted open-source alternative to Zapier/Airflow",
       "link": "https://cloud.titanoboa.io/index.html"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Why I link to Wayback Machine instead of original web content",
       "link": "https://hawaiigentech.com/post/commentary/why-i-link-to-waybackmachine-instead/"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
+      "title": "Apple Countersues ‘Fortnite’ Maker Epic Games, Seeks Punitive Damages",
+      "link": "https://www.wsj.com/articles/apple-countersues-fortnite-maker-epic-games-seeking-to-halt-in-app-payments-11599592017"
+    },
+    {
+      "rank": "8.",
       "title": "Verne Edquist – Glenn Gould’s Piano Man",
       "link": "https://www.glenngould.ca/verne-edquist/"
     },
     {
-      "rank": "7.",
+      "rank": "9.",
       "title": "Slaughter at the bridge: Uncovering a colossal Bronze Age battle (2016)",
       "link": "https://www.sciencemag.org/news/2016/03/slaughter-bridge-uncovering-colossal-bronze-age-battle"
     },
     {
-      "rank": "8.",
+      "rank": "10.",
       "title": "FTC Is Investigating Intuit over TurboTax Practices",
       "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
     },
     {
-      "rank": "9.",
+      "rank": "11.",
       "title": "Hidden costs of constantly shipping new things",
       "link": "https://www.mindtheproduct.com/the-hidden-costs-of-constantly-shipping-new-things/"
     },
     {
-      "rank": "10.",
-      "title": "'Wild West' mentality lingers in modern populations of US mountain regions",
-      "link": "https://phys.org/news/2020-09-wild-west-mentality-lingers-modern.html"
-    },
-    {
-      "rank": "11.",
+      "rank": "12.",
       "title": "Newfront (YC W18) is hiring engineering managers to transform insurance",
       "link": "https://jobs.lever.co/newfrontinsurance/51c08b9c-f5ed-4714-8787-b1a2b1059ead"
     },
     {
-      "rank": "12.",
-      "title": "Ask HN: What did you do to improve your company?",
-      "link": "item?id=24398077"
-    },
-    {
       "rank": "13.",
-      "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
-      "link": "https://www.dataspeeder.com"
+      "title": "'Wild West' mentality lingers in modern populations of US mountain regions",
+      "link": "https://phys.org/news/2020-09-wild-west-mentality-lingers-modern.html"
     },
     {
       "rank": "14.",
-      "title": "Show HN: TerminusHub, Distributed Revision Control for Structured Data",
-      "link": "https://terminusdb.com/hub/"
-    },
-    {
-      "rank": "15.",
-      "title": "Show HN: A political news aggregator you can comment on",
-      "link": "https://www.newscomment.us/"
-    },
-    {
-      "rank": "16.",
-      "title": "Adam Curry launches a new, open podcast directory",
-      "link": "https://podnews.net/update/podcast-index-open-directory"
-    },
-    {
-      "rank": "17.",
-      "title": "Understanding Convolution in Deep Learning (2015)",
-      "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
-    },
-    {
-      "rank": "18.",
       "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
       "link": "https://arxiv.org/abs/2008.05300"
     },
     {
+      "rank": "15.",
+      "title": "Show HN: TerminusHub, Distributed Revision Control for Structured Data",
+      "link": "https://terminusdb.com/hub/"
+    },
+    {
+      "rank": "16.",
+      "title": "Show HN: A political news aggregator you can comment on",
+      "link": "https://www.newscomment.us/"
+    },
+    {
+      "rank": "17.",
+      "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
+      "link": "https://www.dataspeeder.com"
+    },
+    {
+      "rank": "18.",
+      "title": "Ask HN: What did you do to improve your company?",
+      "link": "item?id=24398077"
+    },
+    {
       "rank": "19.",
-      "title": "Tesla can detect aftermarket hacks designed to defeat EV performance paywalls",
-      "link": "https://www.thedrive.com/news/35946/tesla-can-detect-aftermarket-hacks-designed-to-defeat-ev-performance-paywalls"
-    },
-    {
-      "rank": "20.",
-      "title": "The Computational Power of Biological Dendritic Trees",
-      "link": "https://arxiv.org/abs/2009.01269"
-    },
-    {
-      "rank": "21.",
-      "title": "Chef to be acquired by Progress",
-      "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
-    },
-    {
-      "rank": "22.",
-      "title": "URL query parameters and how laxness creates de facto requirements on the web",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
-    },
-    {
-      "rank": "23.",
-      "title": "Humankind neither nasty nor brutish",
-      "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31832-8/fulltext"
-    },
-    {
-      "rank": "24.",
       "title": "Opencats Applicant Tracking System",
       "link": "http://www.opencats.org/"
     },
     {
+      "rank": "20.",
+      "title": "Tesla can detect aftermarket hacks designed to defeat EV performance paywalls",
+      "link": "https://www.thedrive.com/news/35946/tesla-can-detect-aftermarket-hacks-designed-to-defeat-ev-performance-paywalls"
+    },
+    {
+      "rank": "21.",
+      "title": "Adam Curry launches a new, open podcast directory",
+      "link": "https://podnews.net/update/podcast-index-open-directory"
+    },
+    {
+      "rank": "22.",
+      "title": "Understanding Convolution in Deep Learning (2015)",
+      "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
+    },
+    {
+      "rank": "23.",
+      "title": "The Computational Power of Biological Dendritic Trees",
+      "link": "https://arxiv.org/abs/2009.01269"
+    },
+    {
+      "rank": "24.",
+      "title": "Chef to be acquired by Progress",
+      "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
+    },
+    {
       "rank": "25.",
-      "title": "Software Aging (1994) [pdf]",
-      "link": "https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf"
+      "title": "URL query parameters and how laxness creates de facto requirements on the web",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
     },
     {
       "rank": "26.",
+      "title": "Humankind neither nasty nor brutish",
+      "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31832-8/fulltext"
+    },
+    {
+      "rank": "27.",
       "title": "Introduction to runc",
       "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
     },
     {
-      "rank": "27.",
-      "title": "The Art of Debating for Software Developers",
-      "link": "https://thevaluable.dev/guide-debate-software-developer-skill/"
+      "rank": "28.",
+      "title": "Software Aging (1994) [pdf]",
+      "link": "https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Is anybody still using Windows 95?",
       "link": "https://www.quora.com/Is-anybody-still-using-Windows-95-in-2019/answer/Thomas-Tydal?share=1"
     },
     {
-      "rank": "29.",
-      "title": "Covid vaccine makers commit to not seek approval until complete Phase III trials",
-      "link": "https://www.statnews.com/2020/09/08/pharma-pledge-reassure-covid-19-safety/"
-    },
-    {
       "rank": "30.",
-      "title": "Escape from Creek Fire",
-      "link": "https://www.jmeshe.co/escape-from-creek-fire"
+      "title": "Ask HN: Recommendations for Good TUI Libraries (Text User Interface)?",
+      "link": "item?id=24412687"
     }
   ],
   "metadata": {
