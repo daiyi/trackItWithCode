@@ -17,18 +17,18 @@
     },
     {
       "rank": "4.",
-      "title": "Vitamin D, part 3 – The Evidence",
-      "link": "https://www.devaboone.com/post/vitamin-d-part-3-the-evidence?postId=5f4e8bf673d853002ded6cd3"
-    },
-    {
-      "rank": "5.",
       "title": "PandaDoc Employees Arrested in Belarus After Founders Protest Against Violence",
       "link": "https://savepandadoc.org/en/"
     },
     {
+      "rank": "5.",
+      "title": "Vitamin D, part 3 – The Evidence",
+      "link": "https://www.devaboone.com/post/vitamin-d-part-3-the-evidence?postId=5f4e8bf673d853002ded6cd3"
+    },
+    {
       "rank": "6.",
-      "title": "Understanding Convolution in Deep Learning (2015)",
-      "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
+      "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
+      "link": "https://jobs.lever.co/buildzoom"
     },
     {
       "rank": "7.",
@@ -37,28 +37,28 @@
     },
     {
       "rank": "8.",
+      "title": "Understanding Convolution in Deep Learning (2015)",
+      "link": "https://timdettmers.com/2015/03/26/convolution-deep-learning/"
+    },
+    {
+      "rank": "9.",
+      "title": "Archiving URLs (2019)",
+      "link": "https://www.gwern.net/Archiving-URLs"
+    },
+    {
+      "rank": "10.",
       "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
       "link": "https://www.dataspeeder.com"
     },
     {
-      "rank": "9.",
-      "title": "'Wild West' mentality lingers in modern populations of US mountain regions",
-      "link": "https://phys.org/news/2020-09-wild-west-mentality-lingers-modern.html"
-    },
-    {
-      "rank": "10.",
-      "title": "Truebill (YC W16) is hiring engineers to help people take control of their money",
-      "link": "https://boards.greenhouse.io/truebill/jobs/4047851003"
-    },
-    {
       "rank": "11.",
-      "title": "Ask HN: What did you do to improve your company?",
-      "link": "item?id=24398077"
+      "title": "OpenJDK is now on GitHub",
+      "link": "https://mail.openjdk.java.net/pipermail/jdk-dev/2020-September/004694.html"
     },
     {
       "rank": "12.",
-      "title": "Introduction to runc",
-      "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
+      "title": "Ask HN: What did you do to improve your company?",
+      "link": "item?id=24398077"
     },
     {
       "rank": "13.",
@@ -67,8 +67,8 @@
     },
     {
       "rank": "14.",
-      "title": "Controllable Video Sprites That Appear Like Professional Tennis Players",
-      "link": "https://cs.stanford.edu/~haotianz/research/vid2player/"
+      "title": "Introduction to runc",
+      "link": "https://danishpraka.sh/2020/07/24/introduction-to-runc.html"
     },
     {
       "rank": "15.",
@@ -77,13 +77,13 @@
     },
     {
       "rank": "16.",
-      "title": "On finally learning to program at the age of 40",
-      "link": "https://github.com/Dhghomon/programming_at_40/blob/master/README.md"
+      "title": "'Wild West' mentality lingers in modern populations of US mountain regions",
+      "link": "https://phys.org/news/2020-09-wild-west-mentality-lingers-modern.html"
     },
     {
       "rank": "17.",
-      "title": "TikTok and WeChat: Curating and controlling global information flows",
-      "link": "https://www.aspi.org.au/report/tiktok-wechat"
+      "title": "FTC Is Investigating Intuit over TurboTax Practices",
+      "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
     },
     {
       "rank": "18.",
@@ -92,63 +92,63 @@
     },
     {
       "rank": "19.",
-      "title": "Escape from creek fire",
-      "link": "https://www.jmeshe.co/escape-from-creek-fire"
-    },
-    {
-      "rank": "20.",
-      "title": "Ask HN: Any well funded tech companies tackling big, meaningful problems?",
-      "link": "item?id=24408324"
-    },
-    {
-      "rank": "21.",
-      "title": "JDK (Java) main-line development is now on GitHub",
-      "link": "https://github.com/openjdk/jdk"
-    },
-    {
-      "rank": "22.",
-      "title": "FTC Is Investigating Intuit over TurboTax Practices",
-      "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
-    },
-    {
-      "rank": "23.",
       "title": "Apple Event: \"view the AR experience\"",
       "link": "https://twitter.com/samhenrigold/status/1303352698490757133"
     },
     {
-      "rank": "24.",
+      "rank": "20.",
+      "title": "TikTok and WeChat: Curating and controlling global information flows",
+      "link": "https://www.aspi.org.au/report/tiktok-wechat"
+    },
+    {
+      "rank": "21.",
+      "title": "Escape from creek fire",
+      "link": "https://www.jmeshe.co/escape-from-creek-fire"
+    },
+    {
+      "rank": "22.",
+      "title": "Ask HN: Any well funded tech companies tackling big, meaningful problems?",
+      "link": "item?id=24408324"
+    },
+    {
+      "rank": "23.",
       "title": "Largest multi-city traffic dataset available",
       "link": "https://utd19.ethz.ch/"
     },
     {
-      "rank": "25.",
+      "rank": "24.",
       "title": "BitTorrent v2",
       "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
     },
     {
-      "rank": "26.",
+      "rank": "25.",
       "title": "GDPR Violation: Scribd acquires PII on 500M users in a deal with LinkedIn",
       "link": "https://thehftguy.com/2020/09/01/gdpr-violation-scribd-acquires-pii-on-500m-users-in-a-deal-with-linkedin/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Chef to be acquired by Progress",
       "link": "https://blog.chef.io/the-fourth-chapter-of-chef-has-arrived-progress-to-purchase-chef/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Topology Explains Why Automobile Sunshades Fold Oddly (2009)",
       "link": "https://arxiv.org/abs/1205.4797"
     },
     {
-      "rank": "29.",
+      "rank": "28.",
       "title": "You Really Don’t Need All That JavaScript [video]",
       "link": "https://youtube.com/watch?v=e1L2WgXu2JY"
     },
     {
-      "rank": "30.",
+      "rank": "29.",
       "title": "Assange Hearing Day 6",
       "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-the-assange-hearing-day-6"
+    },
+    {
+      "rank": "30.",
+      "title": "Could a tree help find a decaying corpse nearby?",
+      "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
     }
   ],
   "metadata": {
