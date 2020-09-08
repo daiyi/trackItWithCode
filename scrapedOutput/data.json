@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Arm Announces Cortex-R82: First 64-Bit Real Time Processor",
-      "link": "https://www.anandtech.com/show/16056/arm-announces-cortexr82-first-64bit-real-time-processor"
+      "title": "Controllable Video Sprites That Appear Like Professional Tennis Players",
+      "link": "https://cs.stanford.edu/~haotianz/research/vid2player/"
     },
     {
       "rank": "3.",
-      "title": "Controllable Video Sprites That Appear Like Professional Tennis Players",
-      "link": "https://cs.stanford.edu/~haotianz/research/vid2player/"
+      "title": "Arm Announces Cortex-R82: First 64-Bit Real Time Processor",
+      "link": "https://www.anandtech.com/show/16056/arm-announces-cortexr82-first-64bit-real-time-processor"
     },
     {
       "rank": "4.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
-      "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
+      "title": "Optimize Onboarding",
+      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
     },
     {
       "rank": "9.",
-      "title": "Optimize Onboarding",
-      "link": "https://staysaasy.com/management/2020/08/28/Optimize-Onboarding.html"
+      "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
+      "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
     },
     {
       "rank": "10.",
@@ -52,18 +52,18 @@
     },
     {
       "rank": "11.",
-      "title": "How to speed up the Rust compiler one last time",
-      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
-    },
-    {
-      "rank": "12.",
       "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
       "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
     },
     {
+      "rank": "12.",
+      "title": "How to speed up the Rust compiler one last time",
+      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+    },
+    {
       "rank": "13.",
-      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
-      "link": "https://base32h.github.io"
+      "title": "Universal Paperclips",
+      "link": "https://www.decisionproblem.com/paperclips/"
     },
     {
       "rank": "14.",
@@ -72,18 +72,18 @@
     },
     {
       "rank": "15.",
-      "title": "Universal Paperclips",
-      "link": "https://www.decisionproblem.com/paperclips/"
+      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
+      "link": "https://base32h.github.io"
     },
     {
       "rank": "16.",
-      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
-      "link": "https://support.google.com/chrome/thread/26214034"
+      "title": "How can you make subjective time go slower?",
+      "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
     },
     {
       "rank": "17.",
-      "title": "How can you make subjective time go slower?",
-      "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
+      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
+      "link": "https://support.google.com/chrome/thread/26214034"
     },
     {
       "rank": "18.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
+      "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
+      "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
+    },
+    {
+      "rank": "28.",
       "title": "Smart watches could do more for wheelchair users",
       "link": "https://fivethirtyeight.com/features/smart-watches-could-do-more-for-wheelchair-users/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Pony, Actors, Causality, Types, and Garbage Collection",
       "link": "https://www.infoq.com/presentations/pony-types-garbage-collection/"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Vibration overcomes gravity on a levitating fluid",
       "link": "https://www.nature.com/articles/d41586-020-02451-w"
-    },
-    {
-      "rank": "30.",
-      "title": "Albuquerque Police Engaged in Secret Intelligence Gathering Operation Since 2006",
-      "link": "https://www.counterpunch.org/2020/09/07/albuquerque-police-engaged-in-secret-intelligence-gathering-operation-leaked-documents-show/"
     }
   ],
   "metadata": {
