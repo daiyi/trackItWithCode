@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Alien Signals",
-      "link": "https://www.robinsloan.com/notes/alien-signals/"
+      "title": "A bank security check that leaves you guessing your own name",
+      "link": "https://www.theguardian.com/money/2020/sep/06/who-am-i-a-bank-security-check-that-leaves-you-guessing-your-own-name"
     },
     {
       "rank": "6.",
-      "title": "A bank security check that leaves you guessing your own name",
-      "link": "https://www.theguardian.com/money/2020/sep/06/who-am-i-a-bank-security-check-that-leaves-you-guessing-your-own-name"
+      "title": "Alien Signals",
+      "link": "https://www.robinsloan.com/notes/alien-signals/"
     },
     {
       "rank": "7.",
@@ -42,28 +42,28 @@
     },
     {
       "rank": "9.",
-      "title": "Bash Pitfalls",
-      "link": "https://mywiki.wooledge.org/BashPitfalls"
-    },
-    {
-      "rank": "10.",
-      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
-      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
-    },
-    {
-      "rank": "11.",
-      "title": "How to speed up the Rust compiler one last time",
-      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
-    },
-    {
-      "rank": "12.",
       "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
       "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
     },
     {
+      "rank": "10.",
+      "title": "Bash Pitfalls",
+      "link": "https://mywiki.wooledge.org/BashPitfalls"
+    },
+    {
+      "rank": "11.",
+      "title": "Gravity is unlikely to be the cause of quantum collapse, experiment suggests",
+      "link": "https://www.sciencemag.org/news/2020/09/one-quantum-physics-greatest-paradoxes-may-have-lost-its-leading-explanation"
+    },
+    {
+      "rank": "12.",
+      "title": "How to speed up the Rust compiler one last time",
+      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+    },
+    {
       "rank": "13.",
-      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
-      "link": "https://support.google.com/chrome/thread/26214034"
+      "title": "Which GPUs to get for deep learning",
+      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Which GPUs to get for deep learning",
-      "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
+      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
+      "link": "https://base32h.github.io"
     },
     {
       "rank": "16.",
@@ -82,23 +82,23 @@
     },
     {
       "rank": "17.",
-      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
-      "link": "https://base32h.github.io"
+      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
+      "link": "https://support.google.com/chrome/thread/26214034"
     },
     {
       "rank": "18.",
+      "title": "Show HN: More HN",
+      "link": "https://github.com/melvinroest/more-hn"
+    },
+    {
+      "rank": "19.",
       "title": "Charge more for app subscriptions",
       "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "How can you make subjective time go slower?",
       "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
-    },
-    {
-      "rank": "20.",
-      "title": "Show HN: More HN",
-      "link": "https://github.com/melvinroest/more-hn"
     },
     {
       "rank": "21.",
@@ -107,33 +107,33 @@
     },
     {
       "rank": "22.",
-      "title": "The 10,000 Year Clock",
-      "link": "https://longnow.org/clock/"
-    },
-    {
-      "rank": "23.",
       "title": "Column Names as Contracts",
       "link": "https://emilyriederer.netlify.app/post/column-name-contracts/"
     },
     {
+      "rank": "23.",
+      "title": "The 10,000 Year Clock",
+      "link": "https://longnow.org/clock/"
+    },
+    {
       "rank": "24.",
-      "title": "Vibration overcomes gravity on a levitating fluid",
-      "link": "https://www.nature.com/articles/d41586-020-02451-w"
+      "title": "Loose Lips Sink MIPS",
+      "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
     },
     {
       "rank": "25.",
-      "title": "Western Digital is trying to redefine the word “RPM”",
-      "link": "https://arstechnica.com/gadgets/2020/09/western-digital-is-trying-to-redefine-the-word-rpm/"
-    },
-    {
-      "rank": "26.",
       "title": "Calculating the sample size required for developing a clinical prediction model",
       "link": "https://www.bmj.com/content/368/bmj.m441/rr"
     },
     {
+      "rank": "26.",
+      "title": "Western Digital is trying to redefine the word “RPM”",
+      "link": "https://arstechnica.com/gadgets/2020/09/western-digital-is-trying-to-redefine-the-word-rpm/"
+    },
+    {
       "rank": "27.",
-      "title": "Loose Lips Sink MIPS",
-      "link": "https://www.eejournal.com/article/loose-lips-sink-mips/"
+      "title": "Vibration overcomes gravity on a levitating fluid",
+      "link": "https://www.nature.com/articles/d41586-020-02451-w"
     },
     {
       "rank": "28.",
