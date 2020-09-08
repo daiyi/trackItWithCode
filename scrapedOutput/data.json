@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "BitTorrent v2",
-      "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
+      "title": "GDPR Violation: Scribd acquires PII on 500M users in a deal with LinkedIn",
+      "link": "https://thehftguy.com/2020/09/01/gdpr-violation-scribd-acquires-pii-on-500m-users-in-a-deal-with-linkedin/"
     },
     {
       "rank": "9.",
-      "title": "GDPR Violation: Scribd acquires PII on 500M users in a deal with LinkedIn",
-      "link": "https://thehftguy.com/2020/09/01/gdpr-violation-scribd-acquires-pii-on-500m-users-in-a-deal-with-linkedin/"
+      "title": "BitTorrent v2",
+      "link": "https://blog.libtorrent.org/2020/09/bittorrent-v2/"
     },
     {
       "rank": "10.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
+      "title": "Assange Hearing Day 6",
+      "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-the-assange-hearing-day-6"
+    },
+    {
+      "rank": "14.",
       "title": "Alien Signals",
       "link": "https://www.robinsloan.com/notes/alien-signals/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Could a tree help find a decaying corpse nearby?",
       "link": "https://www.wired.com/story/could-a-tree-signal-if-a-corpse-is-decaying/"
-    },
-    {
-      "rank": "15.",
-      "title": "Topology Explains Why Automobile Sunshades Fold Oddly",
-      "link": "https://arxiv.org/abs/1205.4797"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
-      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
+      "title": "Topology Explains Why Automobile Sunshades Fold Oddly",
+      "link": "https://arxiv.org/abs/1205.4797"
     },
     {
       "rank": "18.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "Assange Hearing Day 6",
-      "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-the-assange-hearing-day-6"
+      "title": "An Unexpected Twist Lights Up the Secrets of Turbulence",
+      "link": "https://www.quantamagazine.org/an-unexpected-twist-lights-up-the-secrets-of-turbulence-20200903/"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "How to speed up the Rust compiler one last time",
-      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+      "title": "The paradox of Graham Greene",
+      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
     },
     {
       "rank": "22.",
-      "title": "The paradox of Graham Greene",
-      "link": "https://www.spectator.co.uk/article/the-paradox-of-graham-greene-searching-for-peace-in-the-world-s-warzones"
+      "title": "How to speed up the Rust compiler one last time",
+      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
     },
     {
       "rank": "23.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "URL query parameters and how laxness creates de facto requirements on the web",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
+      "title": "Show HN: Base32H, a human-friendly duotrigesimal number system",
+      "link": "https://base32h.github.io"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
-      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
+      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
+      "link": "https://support.google.com/chrome/thread/26214034"
     },
     {
       "rank": "30.",
-      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
-      "link": "https://support.google.com/chrome/thread/26214034"
+      "title": "Smarking (YC W15) is hiring a back-end tech lead to scale mobility tech",
+      "link": "https://jobs.lever.co/smarking/d5238ad7-559f-4d93-9f4d-f4b4e26dbdbb"
     }
   ],
   "metadata": {
