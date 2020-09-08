@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Desolate English path has killed more than 100 people (2017)",
-      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
+      "title": "URL query parameters and how laxness creates de facto requirements on the web",
+      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
     },
     {
       "rank": "10.",
-      "title": "Bash Pitfalls",
-      "link": "https://mywiki.wooledge.org/BashPitfalls"
+      "title": "Desolate English path has killed more than 100 people (2017)",
+      "link": "http://www.bbc.com/travel/story/20170110-why-the-broomway-is-the-most-dangerous-path-in-britain"
     },
     {
       "rank": "11.",
@@ -57,13 +57,13 @@
     },
     {
       "rank": "12.",
-      "title": "URL query parameters and how laxness creates de facto requirements on the web",
-      "link": "https://utcc.utoronto.ca/~cks/space/blog/web/DeFactoQueryParameters"
+      "title": "Bash Pitfalls",
+      "link": "https://mywiki.wooledge.org/BashPitfalls"
     },
     {
       "rank": "13.",
-      "title": "How to speed up the Rust compiler one last time",
-      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
+      "title": "Open Transclude for Networked Writing",
+      "link": "http://subpixel.space/entries/open-transclude/"
     },
     {
       "rank": "14.",
@@ -72,8 +72,8 @@
     },
     {
       "rank": "15.",
-      "title": "Universal Paperclips",
-      "link": "https://www.decisionproblem.com/paperclips/"
+      "title": "How to speed up the Rust compiler one last time",
+      "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
     },
     {
       "rank": "16.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
+      "title": "Universal Paperclips",
+      "link": "https://www.decisionproblem.com/paperclips/"
+    },
+    {
+      "rank": "18.",
       "title": "Which GPUs to get for deep learning",
       "link": "https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "How can you make subjective time go slower?",
       "link": "http://theoryengine.org/life/tips-for-a-longer-life/"
-    },
-    {
-      "rank": "19.",
-      "title": "Charge more for app subscriptions",
-      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
     },
     {
       "rank": "20.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
-      "link": "https://support.google.com/chrome/thread/26214034"
+      "title": "Charge more for app subscriptions",
+      "link": "https://mronge.com/why-you-should-charge-more-for-your-app-subscriptions/"
     },
     {
       "rank": "23.",
-      "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
-      "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
+      "title": "Google has removed the option to disable autoplay from Mobile Chrome",
+      "link": "https://support.google.com/chrome/thread/26214034"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "Open Transclude for Networked Writing",
-      "link": "http://subpixel.space/entries/open-transclude/"
+      "title": "Climeworks lays the foundation to scale up carbon dioxide removal significantly",
+      "link": "https://climeworks.com/news/climeworks-has-signed-groundbreaking-agreements-with"
     },
     {
       "rank": "26.",
