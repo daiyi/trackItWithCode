@@ -2,7 +2,7 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Dozens of scientific journals vanished from the internet: no one preserved them",
+      "title": "Dozens of scientific journals have vanished from the internet",
       "link": "https://www.sciencemag.org/news/2020/09/dozens-scientific-journals-have-vanished-internet-and-no-one-preserved-them"
     },
     {
@@ -12,8 +12,8 @@
     },
     {
       "rank": "3.",
-      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
-      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
+      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
+      "link": "item?id=24423463"
     },
     {
       "rank": "4.",
@@ -22,18 +22,18 @@
     },
     {
       "rank": "5.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+      "title": "New Zealand is about to test long-range wireless power transmission",
+      "link": "https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/"
     },
     {
       "rank": "6.",
-      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
-      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
+      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
+      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
     },
     {
       "rank": "7.",
-      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
-      "link": "http://tappityapp.com"
+      "title": "Elvish is a friendly interactive shell and an expressive programming language",
+      "link": "https://elv.sh"
     },
     {
       "rank": "8.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Elvish is a friendly interactive shell and an expressive programming language",
-      "link": "https://elv.sh"
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
     },
     {
       "rank": "10.",
-      "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
-      "link": "https://www.openssl.org/news/secadv/20200909.txt"
+      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
+      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
     },
     {
       "rank": "11.",
@@ -57,98 +57,98 @@
     },
     {
       "rank": "12.",
+      "title": "GitPals – Find team for cooperative development",
+      "link": "https://www.gitpals.com/"
+    },
+    {
+      "rank": "13.",
+      "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
+      "link": "https://www.openssl.org/news/secadv/20200909.txt"
+    },
+    {
+      "rank": "14.",
       "title": "Kubernetes YAML Generator",
       "link": "https://k8syaml.com/"
     },
     {
-      "rank": "13.",
+      "rank": "15.",
       "title": "Hacking Ethernet out of Fibre Channel cards",
       "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
     },
     {
-      "rank": "14.",
+      "rank": "16.",
       "title": "Northwestern Point of the Lake of the Woods",
       "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
     },
     {
-      "rank": "15.",
+      "rank": "17.",
+      "title": "Show HN: Chrome Extension Starter Kit and eBook",
+      "link": "https://ChromeExtensionKit.com?ref=showhn"
+    },
+    {
+      "rank": "18.",
+      "title": "Classes are a way of writing higher order functions",
+      "link": "https://stopa.io/post/250"
+    },
+    {
+      "rank": "19.",
       "title": "Show HN: Remotely Controlled Escape Room",
       "link": "https://www.thebureauorlando.com/remote-games"
     },
     {
-      "rank": "16.",
-      "title": "Lets plot: An interactive Python plotting library using ggplot's API",
-      "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
-    },
-    {
-      "rank": "17.",
+      "rank": "20.",
       "title": "Generative Language Modeling for Automated Theorem Proving",
       "link": "https://arxiv.org/abs/2009.03393"
     },
     {
-      "rank": "18.",
-      "title": "The Weston Standard Cell (2011)",
-      "link": "https://www.conradhoffman.com/stdcell.htm"
+      "rank": "21.",
+      "title": "Lets plot: An interactive Python plotting library using ggplot's API",
+      "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
     },
     {
-      "rank": "19.",
-      "title": "New Zealand Is About to Test Long-Range Wireless Power Transmission",
-      "link": "https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/"
+      "rank": "22.",
+      "title": "Foreboding Skies over the SF Bay Area",
+      "link": "https://www.sfchronicle.com/bayarea/article/Bay-Area-awakes-to-foreboding-smoke-choked-15553731.php#photo-19929829"
     },
     {
-      "rank": "20.",
+      "rank": "23.",
       "title": "Vue.js Creator Evan You Interview",
       "link": "https://evrone.com/evan-you-interview"
     },
     {
-      "rank": "21.",
-      "title": "Show HN: XML Fiddler – tool for quick XML exploration",
-      "link": "https://masa331.github.io/xml_fiddler/"
-    },
-    {
-      "rank": "22.",
+      "rank": "24.",
       "title": "Apple Disabling 'Sign in with Apple' for Epic Games on September 11",
       "link": "https://www.macrumors.com/2020/09/09/sign-in-with-apple-epic-games-disabled/"
     },
     {
-      "rank": "23.",
-      "title": "Toys from Trash",
-      "link": "http://arvindguptatoys.com/"
+      "rank": "25.",
+      "title": "The Weston Standard Cell (2011)",
+      "link": "https://www.conradhoffman.com/stdcell.htm"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
+      "title": "Show HN: XML Fiddler – tool for quick XML exploration",
+      "link": "https://masa331.github.io/xml_fiddler/"
+    },
+    {
+      "rank": "27.",
       "title": "Apple II and Apple IIe emulators written in JavaScript and HTML5",
       "link": "https://github.com/whscullin/apple2js"
     },
     {
-      "rank": "25.",
+      "rank": "28.",
+      "title": "Toys from Trash",
+      "link": "http://arvindguptatoys.com/"
+    },
+    {
+      "rank": "29.",
       "title": "Read Fewer Books",
       "link": "https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/"
     },
     {
-      "rank": "26.",
+      "rank": "30.",
       "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
       "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
-    },
-    {
-      "rank": "27.",
-      "title": "Classes are just a fancy way of writing higher order functions",
-      "link": "https://stopa.io/post/250"
-    },
-    {
-      "rank": "28.",
-      "title": "Fluid framework, for building distributed, real-time collaborative web apps",
-      "link": "https://fluidframework.com/"
-    },
-    {
-      "rank": "29.",
-      "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
-      "link": "https://effectiviology.com/napoleon/"
-    },
-    {
-      "rank": "30.",
-      "title": "In Unix, what do some obscurely named commands stand for? (2018)",
-      "link": "https://kb.iu.edu/d/abnd"
     }
   ],
   "metadata": {
