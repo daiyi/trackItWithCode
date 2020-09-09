@@ -7,28 +7,28 @@
     },
     {
       "rank": "2.",
+      "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
+      "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
+    },
+    {
+      "rank": "3.",
       "title": "Tech firms face growing resentment of parent employees during Covid-19",
       "link": "https://www.cnet.com/news/tech-firms-face-growing-resentment-of-parent-employees-during-covid-19/"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "Non-Posix File Systems",
       "link": "https://weinholt.se/articles/non-posix-filesystems/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "I still use WordPerfect 6.2 for DOS",
       "link": "https://news.ycombinator.com/item?id=24411333"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Is the web getting slower?",
       "link": "https://www.debugbear.com/blog/is-the-web-getting-slower"
-    },
-    {
-      "rank": "6.",
-      "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
-      "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
     },
     {
       "rank": "7.",
@@ -37,13 +37,13 @@
     },
     {
       "rank": "8.",
-      "title": "The Powder Toy",
-      "link": "https://powdertoy.co.uk/"
+      "title": "Why Karachi Floods",
+      "link": "https://www.dawn.com/news/1578061"
     },
     {
       "rank": "9.",
-      "title": "Why Karachi Floods",
-      "link": "https://www.dawn.com/news/1578061"
+      "title": "The Powder Toy",
+      "link": "https://powdertoy.co.uk/"
     },
     {
       "rank": "10.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "The Treachery of Image Files",
-      "link": "http://beyondloom.com/blog/images.html"
+      "title": "Low-code, no-model recommendation system with GPT3",
+      "link": "https://medium.com/swlh/gpt3-empowered-recommendation-system-ba4bad29276b"
     },
     {
       "rank": "14.",
-      "title": "The Native File System API allows web apps to save directly to files",
-      "link": "https://web.dev/native-file-system/"
+      "title": "The Treachery of Image Files",
+      "link": "http://beyondloom.com/blog/images.html"
     },
     {
       "rank": "15.",
@@ -77,23 +77,23 @@
     },
     {
       "rank": "16.",
-      "title": "Low-code, no-model recommendation system with GPT3",
-      "link": "https://medium.com/swlh/gpt3-empowered-recommendation-system-ba4bad29276b"
+      "title": "Aram Saroyan and the Art of the One-Word Poem",
+      "link": "https://thereader.mitpress.mit.edu/art-of-one-word-poem/"
     },
     {
       "rank": "17.",
+      "title": "The Native File System API allows web apps to save directly to files",
+      "link": "https://web.dev/native-file-system/"
+    },
+    {
+      "rank": "18.",
       "title": "Sid Meier: “I don’t think I could make Civilisation today”",
       "link": "https://www.independent.co.uk/arts-entertainment/games/sid-meier-interview-civilisation-memoir-autobiography-b404968.html"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
       "link": "https://arxiv.org/abs/2008.05300"
-    },
-    {
-      "rank": "19.",
-      "title": "A History of Punctuation",
-      "link": "https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation"
     },
     {
       "rank": "20.",
@@ -102,13 +102,13 @@
     },
     {
       "rank": "21.",
-      "title": "Apple countersues Epic, seeks punitive damages",
-      "link": "https://www.wsj.com/articles/apple-countersues-fortnite-maker-epic-games-seeking-to-halt-in-app-payments-11599592017"
+      "title": "A History of Punctuation",
+      "link": "https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation"
     },
     {
       "rank": "22.",
-      "title": "Aram Saroyan and the Art of the One-Word Poem",
-      "link": "https://thereader.mitpress.mit.edu/art-of-one-word-poem/"
+      "title": "Apple countersues Epic, seeks punitive damages",
+      "link": "https://www.wsj.com/articles/apple-countersues-fortnite-maker-epic-games-seeking-to-halt-in-app-payments-11599592017"
     },
     {
       "rank": "23.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Attacking the Qualcomm Adreno GPU",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/attacking-qualcomm-adreno-gpu.html"
-    },
-    {
-      "rank": "27.",
       "title": "AstraZeneca Covid-19 vaccine study put on hold due to suspected adverse reaction",
       "link": "https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/"
     },
     {
-      "rank": "28.",
-      "title": "Eliza, the Rogerian Therapist (1999)",
-      "link": "http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm"
-    },
-    {
-      "rank": "29.",
+      "rank": "27.",
       "title": "Slaughter at the bridge: Uncovering a colossal Bronze Age battle (2016)",
       "link": "https://www.sciencemag.org/news/2016/03/slaughter-bridge-uncovering-colossal-bronze-age-battle"
     },
     {
-      "rank": "30.",
+      "rank": "28.",
+      "title": "Attacking the Qualcomm Adreno GPU",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/attacking-qualcomm-adreno-gpu.html"
+    },
+    {
+      "rank": "29.",
       "title": "FTC Is Investigating Intuit over TurboTax Practices",
       "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
+    },
+    {
+      "rank": "30.",
+      "title": "Eliza, the Rogerian Therapist (1999)",
+      "link": "http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm"
     }
   ],
   "metadata": {
