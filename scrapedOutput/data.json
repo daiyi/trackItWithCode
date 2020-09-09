@@ -22,28 +22,28 @@
     },
     {
       "rank": "5.",
-      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
-      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
-    },
-    {
-      "rank": "6.",
       "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
       "link": "item?id=24423463"
     },
     {
+      "rank": "6.",
+      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
+      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
+    },
+    {
       "rank": "7.",
-      "title": "GitPals – Find team for cooperative development",
-      "link": "https://www.gitpals.com/"
+      "title": "Async Views in Django 3.1",
+      "link": "https://testdriven.io/blog/django-async-views/"
     },
     {
       "rank": "8.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+      "title": "Show HN: Mimestream, a native macOS email client for Gmail",
+      "link": "https://mimestream.com"
     },
     {
       "rank": "9.",
-      "title": "Elvish is a friendly interactive shell and an expressive programming language",
-      "link": "https://elv.sh"
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
     },
     {
       "rank": "10.",
@@ -57,48 +57,48 @@
     },
     {
       "rank": "12.",
-      "title": "Async Views in Django 3.1",
-      "link": "https://testdriven.io/blog/django-async-views/"
-    },
-    {
-      "rank": "13.",
       "title": "Show HN: Chrome Extension Starter Kit and eBook",
       "link": "https://ChromeExtensionKit.com?ref=showhn"
     },
     {
+      "rank": "13.",
+      "title": "Elvish is a friendly interactive shell and an expressive programming language",
+      "link": "https://elv.sh"
+    },
+    {
       "rank": "14.",
-      "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
-      "link": "https://www.openssl.org/news/secadv/20200909.txt"
-    },
-    {
-      "rank": "15.",
-      "title": "Kubernetes YAML Generator",
-      "link": "https://k8syaml.com/"
-    },
-    {
-      "rank": "16.",
-      "title": "Hacking Ethernet out of Fibre Channel cards",
-      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
-    },
-    {
-      "rank": "17.",
       "title": "Lyebird: Clone Your Voice",
       "link": "https://www.descript.com/overdub?lyrebird=true"
     },
     {
+      "rank": "15.",
+      "title": "GitPals – Find team for cooperative development",
+      "link": "https://www.gitpals.com/"
+    },
+    {
+      "rank": "16.",
+      "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
+      "link": "https://www.openssl.org/news/secadv/20200909.txt"
+    },
+    {
+      "rank": "17.",
+      "title": "Kubernetes YAML Generator",
+      "link": "https://k8syaml.com/"
+    },
+    {
       "rank": "18.",
+      "title": "Hacking Ethernet out of Fibre Channel cards",
+      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
+    },
+    {
+      "rank": "19.",
       "title": "Northwestern Point of the Lake of the Woods",
       "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Show HN: Remotely Controlled Escape Room",
       "link": "https://www.thebureauorlando.com/remote-games"
-    },
-    {
-      "rank": "20.",
-      "title": "Classes are a way of writing higher order functions",
-      "link": "https://stopa.io/post/250"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Generative Language Modeling for Automated Theorem Proving",
-      "link": "https://arxiv.org/abs/2009.03393"
+      "title": "Classes are a way of writing higher order functions",
+      "link": "https://stopa.io/post/250"
     },
     {
       "rank": "23.",
-      "title": "Foreboding Skies over the SF Bay Area",
-      "link": "https://www.sfchronicle.com/bayarea/article/Bay-Area-awakes-to-foreboding-smoke-choked-15553731.php#photo-19929829"
+      "title": "Generative Language Modeling for Automated Theorem Proving",
+      "link": "https://arxiv.org/abs/2009.03393"
     },
     {
       "rank": "24.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "The Weston Standard Cell (2011)",
-      "link": "https://www.conradhoffman.com/stdcell.htm"
+      "title": "Ireland to Order Facebook to Stop Sending User Data to U.S.",
+      "link": "https://www.wsj.com/articles/ireland-to-order-facebook-to-stop-sending-user-data-to-u-s-11599671980"
     },
     {
       "rank": "28.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Toys from Trash",
-      "link": "http://arvindguptatoys.com/"
+      "title": "Read Fewer Books",
+      "link": "https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/"
     }
   ],
   "metadata": {
