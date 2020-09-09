@@ -12,13 +12,13 @@
     },
     {
       "rank": "3.",
-      "title": "Zink (OpenGL on Vulkan) performance better than expected",
-      "link": "http://www.supergoodcode.com/funday/"
+      "title": "Setup Pihole, WireGuard, and Unbound Instantly with WireHole",
+      "link": "https://github.com/IAmStoxe/wirehole"
     },
     {
       "rank": "4.",
-      "title": "Getting Fiber to My Town [video]",
-      "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
+      "title": "Zink (OpenGL on Vulkan) performance better than expected",
+      "link": "http://www.supergoodcode.com/funday/"
     },
     {
       "rank": "5.",
@@ -27,13 +27,13 @@
     },
     {
       "rank": "6.",
-      "title": "Confessions of an ID Theft Kingpin",
-      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-i/"
+      "title": "Getting Fiber to My Town [video]",
+      "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
     },
     {
       "rank": "7.",
-      "title": "Setup Pihole, WireGuard, and Unbound Instantly with WireHole",
-      "link": "https://github.com/IAmStoxe/wirehole"
+      "title": "Confessions of an ID Theft Kingpin",
+      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-i/"
     },
     {
       "rank": "8.",
@@ -57,33 +57,33 @@
     },
     {
       "rank": "12.",
-      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
-      "link": "item?id=24423463"
-    },
-    {
-      "rank": "13.",
       "title": "Mozilla introduces paid add-ons review, called “Promoted add-ons”",
       "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
     },
     {
-      "rank": "14.",
-      "title": "Sentinels Can Be Faster",
-      "link": "https://lemire.me/blog/2020/09/03/sentinels-can-be-faster/"
+      "rank": "13.",
+      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
+      "link": "item?id=24423463"
     },
     {
-      "rank": "15.",
+      "rank": "14.",
       "title": "Show HN: Mimestream, a native macOS email client for Gmail",
       "link": "https://mimestream.com"
     },
     {
+      "rank": "15.",
+      "title": "Sentinels Can Be Faster",
+      "link": "https://lemire.me/blog/2020/09/03/sentinels-can-be-faster/"
+    },
+    {
       "rank": "16.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+      "title": "Elvish is a friendly interactive shell and an expressive programming language",
+      "link": "https://elv.sh"
     },
     {
       "rank": "17.",
-      "title": "Elvish is a friendly interactive shell and an expressive programming language",
-      "link": "https://elv.sh"
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
     },
     {
       "rank": "18.",
@@ -92,23 +92,23 @@
     },
     {
       "rank": "19.",
-      "title": "GitPals – Find team for cooperative development",
-      "link": "https://www.gitpals.com/"
-    },
-    {
-      "rank": "20.",
       "title": "The Intricate Translation Process for a Murakami Novel",
       "link": "https://lithub.com/inside-the-intricate-translation-process-for-a-murakami-novel/"
     },
     {
+      "rank": "20.",
+      "title": "GitPals – Find team for cooperative development",
+      "link": "https://www.gitpals.com/"
+    },
+    {
       "rank": "21.",
-      "title": "Show HN: Chrome Extension Starter Kit and eBook",
-      "link": "https://ChromeExtensionKit.com?ref=showhn"
+      "title": "Leadership in crisis – why the West needs Plato more than ever",
+      "link": "https://engelsbergideas.com/essays/leadership-in-crisis-why-the-west-needs-plato-more-than-ever/"
     },
     {
       "rank": "22.",
-      "title": "Leadership in crisis – why the West needs Plato more than ever",
-      "link": "https://engelsbergideas.com/essays/leadership-in-crisis-why-the-west-needs-plato-more-than-ever/"
+      "title": "Show HN: Chrome Extension Starter Kit and eBook",
+      "link": "https://ChromeExtensionKit.com?ref=showhn"
     },
     {
       "rank": "23.",
@@ -127,13 +127,13 @@
     },
     {
       "rank": "26.",
-      "title": "Goes-West – Sector View: Pacific Southwest",
-      "link": "https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G17&sector=psw"
+      "title": "Apple Disabling 'Sign in with Apple' for Epic Games on September 11",
+      "link": "https://www.macrumors.com/2020/09/09/sign-in-with-apple-epic-games-disabled/"
     },
     {
       "rank": "27.",
-      "title": "Apple Disabling 'Sign in with Apple' for Epic Games on September 11",
-      "link": "https://www.macrumors.com/2020/09/09/sign-in-with-apple-epic-games-disabled/"
+      "title": "Goes-West – Sector View: Pacific Southwest",
+      "link": "https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G17&sector=psw"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Northwestern Point of the Lake of the Woods",
-      "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
+      "title": "NSA Chief Who Oversaw Sweeping Domestic Phone Surveillance Joins Amazon Board",
+      "link": "https://www.zerohedge.com/political/longtime-nsa-chief-who-oversaw-illegal-domestic-surveillance-joins-amazon-board-directors"
     },
     {
       "rank": "30.",
-      "title": "Generative Language Modeling for Automated Theorem Proving",
-      "link": "https://arxiv.org/abs/2009.03393"
+      "title": "Northwestern Point of the Lake of the Woods",
+      "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
     }
   ],
   "metadata": {
