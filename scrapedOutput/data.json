@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
-      "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
+      "title": "Apple ][ and Apple //e emulators written in JavaScript and HTML5",
+      "link": "https://github.com/whscullin/apple2js"
     },
     {
       "rank": "3.",
-      "title": "Apple ][ and Apple //e emulators written in JavaScript and HTML5",
-      "link": "https://github.com/whscullin/apple2js"
+      "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
+      "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
     },
     {
       "rank": "4.",
@@ -22,28 +22,28 @@
     },
     {
       "rank": "5.",
+      "title": "Academy establishes inclusion standards for Oscars eligibility",
+      "link": "https://www.oscars.org/news/academy-establishes-representation-and-inclusion-standards-oscarsr-eligibility"
+    },
+    {
+      "rank": "6.",
       "title": "I still use WordPerfect 6.2 for DOS",
       "link": "https://news.ycombinator.com/item?id=24411333"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Non-Posix File Systems",
       "link": "https://weinholt.se/articles/non-posix-filesystems/"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Is the web getting slower?",
       "link": "https://www.debugbear.com/blog/is-the-web-getting-slower"
     },
     {
-      "rank": "8.",
+      "rank": "9.",
       "title": "Why Karachi Floods",
       "link": "https://www.dawn.com/news/1578061"
-    },
-    {
-      "rank": "9.",
-      "title": "Gravitricity – Fast, long-life energy storage",
-      "link": "https://gravitricity.com/"
     },
     {
       "rank": "10.",
@@ -52,78 +52,78 @@
     },
     {
       "rank": "11.",
+      "title": "Gravitricity – Fast, long-life energy storage",
+      "link": "https://gravitricity.com/"
+    },
+    {
+      "rank": "12.",
       "title": "Journalists perceive stories published in local news outlets to be less worthy",
       "link": "https://www.niemanlab.org/2020/09/journalists-perceive-stories-published-in-local-news-outlets-to-be-less-newsworthy/"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "Ask HN: We have the expertise but no clients. How to reach them?",
       "link": "item?id=24397821"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "The Native File System API allows web apps to save directly to files",
       "link": "https://web.dev/native-file-system/"
     },
     {
-      "rank": "14.",
-      "title": "The Powder Toy",
-      "link": "https://powdertoy.co.uk/"
-    },
-    {
       "rank": "15.",
-      "title": "ProtonDrive Security Model",
-      "link": "https://protonmail.com/blog/protondrive-security/"
-    },
-    {
-      "rank": "16.",
-      "title": "What motivates the authors of video game walkthroughs and FAQs?",
-      "link": "https://firstmonday.org/ojs/index.php/fm/article/view/7925/6630"
-    },
-    {
-      "rank": "17.",
-      "title": "The 'brushing' scam that's behind mystery parcels",
-      "link": "https://www.bbc.com/news/technology-54055669"
-    },
-    {
-      "rank": "18.",
-      "title": "A History of Punctuation",
-      "link": "https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation"
-    },
-    {
-      "rank": "19.",
-      "title": "The Treachery of Image Files",
-      "link": "http://beyondloom.com/blog/images.html"
-    },
-    {
-      "rank": "20.",
       "title": "Simple wave-optical superpositions as prime number sieves (2019)",
       "link": "https://arxiv.org/abs/1812.04203"
     },
     {
-      "rank": "21.",
-      "title": "Verne Edquist – Glenn Gould’s Piano Man",
-      "link": "https://www.glenngould.ca/verne-edquist/"
+      "rank": "16.",
+      "title": "The Powder Toy",
+      "link": "https://powdertoy.co.uk/"
     },
     {
-      "rank": "22.",
-      "title": "Sid Meier: “I don’t think I could make Civilisation today”",
-      "link": "https://www.independent.co.uk/arts-entertainment/games/sid-meier-interview-civilisation-memoir-autobiography-b404968.html"
+      "rank": "17.",
+      "title": "What motivates the authors of video game walkthroughs and FAQs?",
+      "link": "https://firstmonday.org/ojs/index.php/fm/article/view/7925/6630"
     },
     {
-      "rank": "23.",
+      "rank": "18.",
+      "title": "ProtonDrive Security Model",
+      "link": "https://protonmail.com/blog/protondrive-security/"
+    },
+    {
+      "rank": "19.",
       "title": "Show HN: StowShare – The Airbnb of Storage",
       "link": "https://getstowshare.com/"
     },
     {
+      "rank": "20.",
+      "title": "The 'brushing' scam that's behind mystery parcels",
+      "link": "https://www.bbc.com/news/technology-54055669"
+    },
+    {
+      "rank": "21.",
+      "title": "A History of Punctuation",
+      "link": "https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation"
+    },
+    {
+      "rank": "22.",
+      "title": "The Treachery of Image Files",
+      "link": "http://beyondloom.com/blog/images.html"
+    },
+    {
+      "rank": "23.",
+      "title": "Verne Edquist – Glenn Gould’s Piano Man",
+      "link": "https://www.glenngould.ca/verne-edquist/"
+    },
+    {
       "rank": "24.",
-      "title": "Aram Saroyan and the Art of the One-Word Poem",
-      "link": "https://thereader.mitpress.mit.edu/art-of-one-word-poem/"
+      "title": "Sid Meier: “I don’t think I could make Civilisation today”",
+      "link": "https://www.independent.co.uk/arts-entertainment/games/sid-meier-interview-civilisation-memoir-autobiography-b404968.html"
     },
     {
       "rank": "25.",
-      "title": "Attacking the Qualcomm Adreno GPU",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/attacking-qualcomm-adreno-gpu.html"
+      "title": "Aram Saroyan and the Art of the One-Word Poem",
+      "link": "https://thereader.mitpress.mit.edu/art-of-one-word-poem/"
     },
     {
       "rank": "26.",
@@ -132,18 +132,18 @@
     },
     {
       "rank": "27.",
+      "title": "Attacking the Qualcomm Adreno GPU",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/attacking-qualcomm-adreno-gpu.html"
+    },
+    {
+      "rank": "28.",
       "title": "K-9 Mail removed from Google Play Store due to listing description",
       "link": "https://mobile.twitter.com/obra/status/1303442579107831809"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
       "link": "https://arxiv.org/abs/2008.05300"
-    },
-    {
-      "rank": "29.",
-      "title": "The Fed now owns nearly 1/3 of all U.S. mortgages",
-      "link": "https://www.thestreet.com/mishtalk/economics/the-fed-now-owns-nearly-one-third-of-all-us-mortgages"
     },
     {
       "rank": "30.",
