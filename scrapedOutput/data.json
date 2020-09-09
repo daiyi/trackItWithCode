@@ -27,33 +27,33 @@
     },
     {
       "rank": "6.",
+      "title": "F.lux automatically adjusts your computer lighting to match your environment",
+      "link": "https://justgetflux.com/"
+    },
+    {
+      "rank": "7.",
       "title": "Why is there a normal galaxy sitting at the edge of the Universe?",
       "link": "https://www.syfy.com/syfywire/why-is-there-a-normal-galaxy-sitting-at-the-edge-of-the-universe"
     },
     {
-      "rank": "7.",
-      "title": "What are the legal issues around web scraping?",
-      "link": "http://evan.law/2020/09/09/what-are-the-legal-issues-around-web-scraping/"
-    },
-    {
       "rank": "8.",
-      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
-      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
-    },
-    {
-      "rank": "9.",
-      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
-      "link": "item?id=24423463"
-    },
-    {
-      "rank": "10.",
       "title": "Getting Fiber to My Town [video]",
       "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
     },
     {
+      "rank": "9.",
+      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
+      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
+    },
+    {
+      "rank": "10.",
+      "title": "What are the legal issues around web scraping?",
+      "link": "http://evan.law/2020/09/09/what-are-the-legal-issues-around-web-scraping/"
+    },
+    {
       "rank": "11.",
-      "title": "Sentinels Can Be Faster",
-      "link": "https://lemire.me/blog/2020/09/03/sentinels-can-be-faster/"
+      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
+      "link": "item?id=24423463"
     },
     {
       "rank": "12.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "Show HN: Mimestream, a native macOS email client for Gmail",
-      "link": "https://mimestream.com"
+      "title": "Sentinels Can Be Faster",
+      "link": "https://lemire.me/blog/2020/09/03/sentinels-can-be-faster/"
     },
     {
       "rank": "14.",
-      "title": "Lyebird: Clone Your Voice",
-      "link": "https://www.descript.com/overdub?lyrebird=true"
+      "title": "Show HN: Mimestream, a native macOS email client for Gmail",
+      "link": "https://mimestream.com"
     },
     {
       "rank": "15.",
@@ -82,18 +82,18 @@
     },
     {
       "rank": "17.",
-      "title": "GitPals – Find team for cooperative development",
-      "link": "https://www.gitpals.com/"
-    },
-    {
-      "rank": "18.",
       "title": "Elvish is a friendly interactive shell and an expressive programming language",
       "link": "https://elv.sh"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Show HN: Chrome Extension Starter Kit and eBook",
       "link": "https://ChromeExtensionKit.com?ref=showhn"
+    },
+    {
+      "rank": "19.",
+      "title": "GitPals – Find team for cooperative development",
+      "link": "https://www.gitpals.com/"
     },
     {
       "rank": "20.",
@@ -102,23 +102,23 @@
     },
     {
       "rank": "21.",
-      "title": "Kubernetes YAML Generator",
-      "link": "https://k8syaml.com/"
-    },
-    {
-      "rank": "22.",
-      "title": "Hacking Ethernet out of Fibre Channel cards",
-      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
-    },
-    {
-      "rank": "23.",
       "title": "Mozilla introduces paid add-ons review, called “Promoted add-ons”",
       "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
     },
     {
+      "rank": "22.",
+      "title": "Lyebird: Clone Your Voice",
+      "link": "https://www.descript.com/overdub?lyrebird=true"
+    },
+    {
+      "rank": "23.",
+      "title": "Kubernetes YAML Generator",
+      "link": "https://k8syaml.com/"
+    },
+    {
       "rank": "24.",
-      "title": "Goes-West – Sector View: Pacific Southwest",
-      "link": "https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G17&sector=psw"
+      "title": "Hacking Ethernet out of Fibre Channel cards",
+      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
     },
     {
       "rank": "25.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "Generative Language Modeling for Automated Theorem Proving",
-      "link": "https://arxiv.org/abs/2009.03393"
+      "title": "Is America a Myth?",
+      "link": "https://www.newyorker.com/news/our-columnists/is-america-a-myth"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Ireland to Order Facebook to Stop Sending User Data to U.S.",
-      "link": "https://www.wsj.com/articles/ireland-to-order-facebook-to-stop-sending-user-data-to-u-s-11599671980"
+      "title": "Generative Language Modeling for Automated Theorem Proving",
+      "link": "https://arxiv.org/abs/2009.03393"
     },
     {
       "rank": "30.",
-      "title": "Classes are a way of writing higher order functions",
-      "link": "https://stopa.io/post/250"
+      "title": "Goes-West – Sector View: Pacific Southwest",
+      "link": "https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G17&sector=psw"
     }
   ],
   "metadata": {
