@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Dozens of scientific journals have vanished from the internet",
-      "link": "https://www.sciencemag.org/news/2020/09/dozens-scientific-journals-have-vanished-internet-and-no-one-preserved-them"
+      "title": "'I'm a Coffin Confessor. I Tell People's Secrets from Beyond the Grave'",
+      "link": "https://www.newsweek.com/coffin-confessor-tell-secrets-beyond-grave-1529381"
     },
     {
       "rank": "2.",
@@ -12,43 +12,43 @@
     },
     {
       "rank": "3.",
+      "title": "Dozens of scientific journals have vanished from the internet",
+      "link": "https://www.sciencemag.org/news/2020/09/dozens-scientific-journals-have-vanished-internet-and-no-one-preserved-them"
+    },
+    {
+      "rank": "4.",
       "title": "New Zealand is about to test long-range wireless power transmission",
       "link": "https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "Zink (OpenGL on Vulkan) performance better than expected",
       "link": "http://www.supergoodcode.com/funday/"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "The Long-Term Stock Exchange Opens for Business",
       "link": "https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b"
     },
     {
-      "rank": "6.",
-      "title": "Getting Fiber to My Town [video]",
-      "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
-    },
-    {
       "rank": "7.",
-      "title": "'I'm a Coffin Confessor. I Tell People's Secrets from Beyond the Grave'",
-      "link": "https://www.newsweek.com/coffin-confessor-tell-secrets-beyond-grave-1529381"
-    },
-    {
-      "rank": "8.",
       "title": "Confessions of an ID Theft Kingpin",
       "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-i/"
     },
     {
+      "rank": "8.",
+      "title": "Getting Fiber to My Town [video]",
+      "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
+    },
+    {
       "rank": "9.",
-      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
-      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
+      "title": "Mozilla introduces paid add-ons review, called “Promoted add-ons”",
+      "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
     },
     {
       "rank": "10.",
-      "title": "Mozilla introduces paid add-ons review, called “Promoted add-ons”",
-      "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
+      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
+      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
     },
     {
       "rank": "11.",
@@ -82,38 +82,38 @@
     },
     {
       "rank": "17.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
-    },
-    {
-      "rank": "18.",
-      "title": "Sentinels Can Be Faster",
-      "link": "https://lemire.me/blog/2020/09/03/sentinels-can-be-faster/"
-    },
-    {
-      "rank": "19.",
-      "title": "Elvish is a friendly interactive shell and an expressive programming language",
-      "link": "https://elv.sh"
-    },
-    {
-      "rank": "20.",
       "title": "Impossible Foods raises $200M in fresh funding",
       "link": "https://www.reuters.com/article/us-impossible-foods-funding/impossible-foods-raises-200-million-in-fresh-funding-idUSKCN2592WV"
     },
     {
+      "rank": "18.",
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+    },
+    {
+      "rank": "19.",
+      "title": "Sentinels Can Be Faster",
+      "link": "https://lemire.me/blog/2020/09/03/sentinels-can-be-faster/"
+    },
+    {
+      "rank": "20.",
+      "title": "Elvish is a friendly interactive shell and an expressive programming language",
+      "link": "https://elv.sh"
+    },
+    {
       "rank": "21.",
+      "title": "Subscription or no subscription? That is not the question",
+      "link": "https://ia.net/topics/subscription-or-no-subscription"
+    },
+    {
+      "rank": "22.",
       "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
       "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "GitPals – Find team for cooperative development",
       "link": "https://www.gitpals.com/"
-    },
-    {
-      "rank": "23.",
-      "title": "Leadership in crisis – why the West needs Plato more than ever",
-      "link": "https://engelsbergideas.com/essays/leadership-in-crisis-why-the-west-needs-plato-more-than-ever/"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "Show HN: Chrome Extension Starter Kit and eBook",
-      "link": "https://ChromeExtensionKit.com?ref=showhn"
+      "title": "Leadership in crisis – why the West needs Plato more than ever",
+      "link": "https://engelsbergideas.com/essays/leadership-in-crisis-why-the-west-needs-plato-more-than-ever/"
     },
     {
       "rank": "26.",
@@ -132,23 +132,23 @@
     },
     {
       "rank": "27.",
-      "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
-      "link": "https://www.openssl.org/news/secadv/20200909.txt"
+      "title": "Show HN: Chrome Extension Starter Kit and eBook",
+      "link": "https://ChromeExtensionKit.com?ref=showhn"
     },
     {
       "rank": "28.",
-      "title": "Goes-West – Sector View: Pacific Southwest",
-      "link": "https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G17&sector=psw"
-    },
-    {
-      "rank": "29.",
       "title": "Hacking Ethernet out of Fibre Channel cards",
       "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
     },
     {
+      "rank": "29.",
+      "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
+      "link": "https://www.openssl.org/news/secadv/20200909.txt"
+    },
+    {
       "rank": "30.",
-      "title": "REST APIs must be hypertext-driven (2008)",
-      "link": "https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven"
+      "title": "Apple Disabling 'Sign in with Apple' for Epic Games on September 11",
+      "link": "https://www.macrumors.com/2020/09/09/sign-in-with-apple-epic-games-disabled/"
     }
   ],
   "metadata": {
