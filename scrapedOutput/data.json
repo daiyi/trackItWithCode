@@ -2,23 +2,23 @@
   "sources": [
     {
       "rank": "1.",
+      "title": "Tesla Model Y Owners Find Cooling System Made with Home Depot-Grade Fake Wood",
+      "link": "https://www.thedrive.com/tech/36274/tesla-model-y-owners-find-cooling-system-cobbled-together-with-home-depot-grade-fake-wood"
+    },
+    {
+      "rank": "2.",
       "title": "Dozens of scientific journals have vanished from the internet",
       "link": "https://www.sciencemag.org/news/2020/09/dozens-scientific-journals-have-vanished-internet-and-no-one-preserved-them"
     },
     {
-      "rank": "2.",
+      "rank": "3.",
       "title": "The Long-Term Stock Exchange Opens for Business",
       "link": "https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b"
     },
     {
-      "rank": "3.",
+      "rank": "4.",
       "title": "New Zealand is about to test long-range wireless power transmission",
       "link": "https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/"
-    },
-    {
-      "rank": "4.",
-      "title": "Async Views in Django 3.1",
-      "link": "https://testdriven.io/blog/django-async-views/"
     },
     {
       "rank": "5.",
@@ -27,28 +27,28 @@
     },
     {
       "rank": "6.",
+      "title": "Async Views in Django 3.1",
+      "link": "https://testdriven.io/blog/django-async-views/"
+    },
+    {
+      "rank": "7.",
       "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
       "link": "item?id=24423463"
     },
     {
-      "rank": "7.",
+      "rank": "8.",
       "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
       "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
     },
     {
-      "rank": "8.",
-      "title": "Tesla Model Y Owners Find Cooling System Made with Home Depot-Grade Fake Wood",
-      "link": "https://www.thedrive.com/tech/36274/tesla-model-y-owners-find-cooling-system-cobbled-together-with-home-depot-grade-fake-wood"
-    },
-    {
       "rank": "9.",
-      "title": "Show HN: Mimestream, a native macOS email client for Gmail",
-      "link": "https://mimestream.com"
+      "title": "Zink (OpenGL on Vulkan) performance better than expected",
+      "link": "http://www.supergoodcode.com/funday/"
     },
     {
       "rank": "10.",
-      "title": "Lyebird: Clone Your Voice",
-      "link": "https://www.descript.com/overdub?lyrebird=true"
+      "title": "Show HN: Mimestream, a native macOS email client for Gmail",
+      "link": "https://mimestream.com"
     },
     {
       "rank": "11.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
+      "title": "Lyebird: Clone Your Voice",
+      "link": "https://www.descript.com/overdub?lyrebird=true"
+    },
+    {
+      "rank": "13.",
       "title": "How we learnt to stop worrying and love web scraping",
       "link": "https://www.nature.com/articles/d41586-020-02558-0"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
       "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
-    },
-    {
-      "rank": "14.",
-      "title": "Zink (OpenGL on Vulkan) performance better than expected",
-      "link": "http://www.supergoodcode.com/funday/"
     },
     {
       "rank": "15.",
@@ -87,33 +87,33 @@
     },
     {
       "rank": "18.",
+      "title": "What are the legal issues around web scraping?",
+      "link": "http://evan.law/2020/09/09/what-are-the-legal-issues-around-web-scraping/"
+    },
+    {
+      "rank": "19.",
       "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
       "link": "https://www.openssl.org/news/secadv/20200909.txt"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Kubernetes YAML Generator",
       "link": "https://k8syaml.com/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Hacking Ethernet out of Fibre Channel cards",
       "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Northwestern Point of the Lake of the Woods",
       "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Apple Disabling 'Sign in with Apple' for Epic Games on September 11",
       "link": "https://www.macrumors.com/2020/09/09/sign-in-with-apple-epic-games-disabled/"
-    },
-    {
-      "rank": "23.",
-      "title": "What are the legal issues around web scraping?",
-      "link": "http://evan.law/2020/09/09/what-are-the-legal-issues-around-web-scraping/"
     },
     {
       "rank": "24.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "How WebAssembly Changes Software Distribution",
-      "link": "https://desiatov.com/why-webassembly/"
-    },
-    {
-      "rank": "29.",
       "title": "Lets-plot: An interactive Python plotting library using ggplot's API",
       "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
     },
     {
+      "rank": "29.",
+      "title": "How WebAssembly Changes Software Distribution",
+      "link": "https://desiatov.com/why-webassembly/"
+    },
+    {
       "rank": "30.",
-      "title": "Show HN: BGJar – SVG background generator for your websites",
-      "link": "https://bgjar.com/"
+      "title": "Vue.js Creator Evan You Interview",
+      "link": "https://evrone.com/evan-you-interview"
     }
   ],
   "metadata": {
