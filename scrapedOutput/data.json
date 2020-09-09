@@ -17,48 +17,48 @@
     },
     {
       "rank": "4.",
-      "title": "The Long-Term Stock Exchange Opens for Business",
-      "link": "https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b"
-    },
-    {
-      "rank": "5.",
       "title": "Getting Fiber to My Town [video]",
       "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
     },
     {
+      "rank": "5.",
+      "title": "The Long-Term Stock Exchange Opens for Business",
+      "link": "https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b"
+    },
+    {
       "rank": "6.",
-      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
-      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
-    },
-    {
-      "rank": "7.",
-      "title": "Why is there a normal galaxy sitting at the edge of the Universe?",
-      "link": "https://www.syfy.com/syfywire/why-is-there-a-normal-galaxy-sitting-at-the-edge-of-the-universe"
-    },
-    {
-      "rank": "8.",
-      "title": "Async Views in Django 3.1",
-      "link": "https://testdriven.io/blog/django-async-views/"
-    },
-    {
-      "rank": "9.",
-      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
-      "link": "item?id=24423463"
-    },
-    {
-      "rank": "10.",
       "title": "Confessions of an ID Theft Kingpin",
       "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-i/"
     },
     {
-      "rank": "11.",
+      "rank": "7.",
+      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
+      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
+    },
+    {
+      "rank": "8.",
+      "title": "Why is there a normal galaxy sitting at the edge of the Universe?",
+      "link": "https://www.syfy.com/syfywire/why-is-there-a-normal-galaxy-sitting-at-the-edge-of-the-universe"
+    },
+    {
+      "rank": "9.",
+      "title": "Async Views in Django 3.1",
+      "link": "https://testdriven.io/blog/django-async-views/"
+    },
+    {
+      "rank": "10.",
       "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
       "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
     },
     {
+      "rank": "11.",
+      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
+      "link": "item?id=24423463"
+    },
+    {
       "rank": "12.",
-      "title": "Mozilla introduces paid add-ons review, called “Promoted add-ons”",
-      "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
+      "title": "Sweden’s low positive test rate ‘vindicates coronavirus strategy’",
+      "link": "https://www.thetimes.co.uk/article/swedens-low-positive-test-rate-vindicates-coronavirus-strategy-5nw0k2vd7"
     },
     {
       "rank": "13.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "Show HN: Chrome Extension Starter Kit and eBook",
-      "link": "https://ChromeExtensionKit.com?ref=showhn"
+      "title": "Setup Pihole, WireGuard, and Unbound Instantly with WireHole",
+      "link": "https://github.com/IAmStoxe/wirehole"
     },
     {
       "rank": "21.",
-      "title": "Sweden’s low positive test rate ‘vindicates coronavirus strategy’",
-      "link": "https://www.thetimes.co.uk/article/swedens-low-positive-test-rate-vindicates-coronavirus-strategy-5nw0k2vd7"
+      "title": "Show HN: Chrome Extension Starter Kit and eBook",
+      "link": "https://ChromeExtensionKit.com?ref=showhn"
     },
     {
       "rank": "22.",
@@ -117,18 +117,18 @@
     },
     {
       "rank": "24.",
+      "title": "Mozilla introduces paid add-ons review, called “Promoted add-ons”",
+      "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
+    },
+    {
+      "rank": "25.",
       "title": "Hacking Ethernet out of Fibre Channel cards",
       "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Apple Disabling 'Sign in with Apple' for Epic Games on September 11",
       "link": "https://www.macrumors.com/2020/09/09/sign-in-with-apple-epic-games-disabled/"
-    },
-    {
-      "rank": "26.",
-      "title": "Goes-West – Sector View: Pacific Southwest",
-      "link": "https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G17&sector=psw"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
+      "title": "Goes-West – Sector View: Pacific Southwest",
+      "link": "https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G17&sector=psw"
+    },
+    {
+      "rank": "29.",
       "title": "Northwestern Point of the Lake of the Woods",
       "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Generative Language Modeling for Automated Theorem Proving",
       "link": "https://arxiv.org/abs/2009.03393"
-    },
-    {
-      "rank": "30.",
-      "title": "Show HN: Remotely Controlled Escape Room",
-      "link": "https://www.thebureauorlando.com/remote-games"
     }
   ],
   "metadata": {
