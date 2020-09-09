@@ -52,28 +52,28 @@
     },
     {
       "rank": "11.",
-      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
-      "link": "item?id=24423463"
-    },
-    {
-      "rank": "12.",
       "title": "Sweden’s low positive test rate ‘vindicates coronavirus strategy’",
       "link": "https://www.thetimes.co.uk/article/swedens-low-positive-test-rate-vindicates-coronavirus-strategy-5nw0k2vd7"
     },
     {
+      "rank": "12.",
+      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
+      "link": "item?id=24423463"
+    },
+    {
       "rank": "13.",
+      "title": "Setup Pihole, WireGuard, and Unbound Instantly with WireHole",
+      "link": "https://github.com/IAmStoxe/wirehole"
+    },
+    {
+      "rank": "14.",
       "title": "Sentinels Can Be Faster",
       "link": "https://lemire.me/blog/2020/09/03/sentinels-can-be-faster/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Show HN: Mimestream, a native macOS email client for Gmail",
       "link": "https://mimestream.com"
-    },
-    {
-      "rank": "15.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
     },
     {
       "rank": "16.",
@@ -82,23 +82,23 @@
     },
     {
       "rank": "17.",
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+    },
+    {
+      "rank": "18.",
       "title": "GitPals – Find team for cooperative development",
       "link": "https://www.gitpals.com/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
       "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "The Intricate Translation Process for a Murakami Novel",
       "link": "https://lithub.com/inside-the-intricate-translation-process-for-a-murakami-novel/"
-    },
-    {
-      "rank": "20.",
-      "title": "Setup Pihole, WireGuard, and Unbound Instantly with WireHole",
-      "link": "https://github.com/IAmStoxe/wirehole"
     },
     {
       "rank": "21.",
@@ -107,38 +107,38 @@
     },
     {
       "rank": "22.",
-      "title": "Kubernetes YAML Generator",
-      "link": "https://k8syaml.com/"
-    },
-    {
-      "rank": "23.",
-      "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
-      "link": "https://www.openssl.org/news/secadv/20200909.txt"
-    },
-    {
-      "rank": "24.",
       "title": "Mozilla introduces paid add-ons review, called “Promoted add-ons”",
       "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
     },
     {
+      "rank": "23.",
+      "title": "Kubernetes YAML Generator",
+      "link": "https://k8syaml.com/"
+    },
+    {
+      "rank": "24.",
+      "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
+      "link": "https://www.openssl.org/news/secadv/20200909.txt"
+    },
+    {
       "rank": "25.",
+      "title": "Goes-West – Sector View: Pacific Southwest",
+      "link": "https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G17&sector=psw"
+    },
+    {
+      "rank": "26.",
       "title": "Hacking Ethernet out of Fibre Channel cards",
       "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Apple Disabling 'Sign in with Apple' for Epic Games on September 11",
       "link": "https://www.macrumors.com/2020/09/09/sign-in-with-apple-epic-games-disabled/"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Ireland to Order Facebook to Stop Sending User Data to U.S.",
       "link": "https://www.wsj.com/articles/ireland-to-order-facebook-to-stop-sending-user-data-to-u-s-11599671980"
-    },
-    {
-      "rank": "28.",
-      "title": "Goes-West – Sector View: Pacific Southwest",
-      "link": "https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G17&sector=psw"
     },
     {
       "rank": "29.",
