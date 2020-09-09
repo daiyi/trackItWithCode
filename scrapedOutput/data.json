@@ -12,28 +12,28 @@
     },
     {
       "rank": "3.",
+      "title": ".NET Memory Performance Analysis",
+      "link": "https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md"
+    },
+    {
+      "rank": "4.",
       "title": "New Zealand is about to test long-range wireless power transmission",
       "link": "https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "The Long-Term Stock Exchange Opens for Business",
       "link": "https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Getting Fiber to My Town [video]",
       "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
     },
     {
-      "rank": "6.",
+      "rank": "7.",
       "title": "Zink (OpenGL on Vulkan) performance better than expected",
       "link": "http://www.supergoodcode.com/funday/"
-    },
-    {
-      "rank": "7.",
-      "title": ".NET Memory Performance Analysis",
-      "link": "https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md"
     },
     {
       "rank": "8.",
@@ -42,23 +42,23 @@
     },
     {
       "rank": "9.",
-      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
-      "link": "item?id=24423463"
-    },
-    {
-      "rank": "10.",
       "title": "NSA chief who oversaw sweeping domestic phone surveillance joins Amazon board",
       "link": "https://www.zerohedge.com/political/longtime-nsa-chief-who-oversaw-illegal-domestic-surveillance-joins-amazon-board-directors"
     },
     {
+      "rank": "10.",
+      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
+      "link": "item?id=24423463"
+    },
+    {
       "rank": "11.",
-      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
-      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
+      "title": "Async Views in Django 3.1",
+      "link": "https://testdriven.io/blog/django-async-views/"
     },
     {
       "rank": "12.",
-      "title": "Async Views in Django 3.1",
-      "link": "https://testdriven.io/blog/django-async-views/"
+      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
+      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
     },
     {
       "rank": "13.",
@@ -87,68 +87,68 @@
     },
     {
       "rank": "18.",
-      "title": "Sentinels Can Be Faster",
-      "link": "https://lemire.me/blog/2020/09/03/sentinels-can-be-faster/"
-    },
-    {
-      "rank": "19.",
-      "title": "Elvish is a friendly interactive shell and an expressive programming language",
-      "link": "https://elv.sh"
-    },
-    {
-      "rank": "20.",
-      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
-      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
-    },
-    {
-      "rank": "21.",
-      "title": "Impossible Foods raises $200M in fresh funding",
-      "link": "https://www.reuters.com/article/us-impossible-foods-funding/impossible-foods-raises-200-million-in-fresh-funding-idUSKCN2592WV"
-    },
-    {
-      "rank": "22.",
       "title": "Subscription or no subscription? That is not the question",
       "link": "https://ia.net/topics/subscription-or-no-subscription"
     },
     {
-      "rank": "23.",
-      "title": "The Intricate Translation Process for a Murakami Novel",
-      "link": "https://lithub.com/inside-the-intricate-translation-process-for-a-murakami-novel/"
+      "rank": "19.",
+      "title": "Sentinels Can Be Faster",
+      "link": "https://lemire.me/blog/2020/09/03/sentinels-can-be-faster/"
     },
     {
-      "rank": "24.",
-      "title": "Kubernetes YAML Generator",
-      "link": "https://k8syaml.com/"
+      "rank": "20.",
+      "title": "Elvish is a friendly interactive shell and an expressive programming language",
+      "link": "https://elv.sh"
     },
     {
-      "rank": "25.",
-      "title": "Leadership in crisis – why the West needs Plato more than ever",
-      "link": "https://engelsbergideas.com/essays/leadership-in-crisis-why-the-west-needs-plato-more-than-ever/"
-    },
-    {
-      "rank": "26.",
-      "title": "Show HN: Chrome Extension Starter Kit and eBook",
-      "link": "https://ChromeExtensionKit.com?ref=showhn"
-    },
-    {
-      "rank": "27.",
-      "title": "GitPals – Find team for cooperative development",
-      "link": "https://www.gitpals.com/"
-    },
-    {
-      "rank": "28.",
+      "rank": "21.",
       "title": "Coronavirus: Why aren’t death rates rising with case numbers? A UK perspective",
       "link": "https://theconversation.com/coronavirus-why-arent-death-rates-rising-with-case-numbers-145865"
     },
     {
+      "rank": "22.",
+      "title": "Aram Saroyan and the Art of the One-Word Poem",
+      "link": "https://thereader.mitpress.mit.edu/art-of-one-word-poem/"
+    },
+    {
+      "rank": "23.",
+      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
+      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
+    },
+    {
+      "rank": "24.",
+      "title": "The Intricate Translation Process for a Murakami Novel",
+      "link": "https://lithub.com/inside-the-intricate-translation-process-for-a-murakami-novel/"
+    },
+    {
+      "rank": "25.",
+      "title": "Kubernetes YAML Generator",
+      "link": "https://k8syaml.com/"
+    },
+    {
+      "rank": "26.",
+      "title": "The amazing $1 Microcontroller",
+      "link": "https://jaycarlson.net/microcontrollers/"
+    },
+    {
+      "rank": "27.",
+      "title": "Leadership in crisis – why the West needs Plato more than ever",
+      "link": "https://engelsbergideas.com/essays/leadership-in-crisis-why-the-west-needs-plato-more-than-ever/"
+    },
+    {
+      "rank": "28.",
+      "title": "GitPals – Find team for cooperative development",
+      "link": "https://www.gitpals.com/"
+    },
+    {
       "rank": "29.",
-      "title": "Hacking Ethernet out of Fibre Channel cards",
-      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
+      "title": "Show HN: Chrome Extension Starter Kit and eBook",
+      "link": "https://ChromeExtensionKit.com?ref=showhn"
     },
     {
       "rank": "30.",
-      "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
-      "link": "https://www.openssl.org/news/secadv/20200909.txt"
+      "title": "Hacking Ethernet out of Fibre Channel cards",
+      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
     }
   ],
   "metadata": {
