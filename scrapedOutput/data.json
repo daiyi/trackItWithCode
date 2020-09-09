@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
+      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
     },
     {
       "rank": "3.",
-      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
-      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
     },
     {
       "rank": "4.",
@@ -22,8 +22,8 @@
     },
     {
       "rank": "5.",
-      "title": "In Unix, what do some obscurely named commands stand for? (2018)",
-      "link": "https://kb.iu.edu/d/abnd"
+      "title": "Hacking Ethernet out of Fibre Channel cards",
+      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
     },
     {
       "rank": "6.",
@@ -32,43 +32,43 @@
     },
     {
       "rank": "7.",
-      "title": "Hacking Ethernet out of Fibre Channel cards",
-      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
-    },
-    {
-      "rank": "8.",
       "title": "Northwestern Point of the Lake of the Woods",
       "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
     },
     {
-      "rank": "9.",
+      "rank": "8.",
       "title": "Lets plot: An interactive Python plotting library using ggplot's API",
       "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
     },
     {
-      "rank": "10.",
-      "title": "C++ was the fastest growing programming language in Sept according to TIOBE",
-      "link": "https://www.techrepublic.com/article/c-is-now-the-fastest-growing-programming-language/"
-    },
-    {
-      "rank": "11.",
+      "rank": "9.",
       "title": "Vue.js Creator Evan You Interview",
       "link": "https://evrone.com/evan-you-interview"
     },
     {
-      "rank": "12.",
+      "rank": "10.",
       "title": "Show HN: XML Fiddler – tool for quick XML exploration",
       "link": "https://masa331.github.io/xml_fiddler/"
     },
     {
+      "rank": "11.",
+      "title": "Why is there a normal galaxy sitting at the edge of the Universe?",
+      "link": "https://www.syfy.com/syfywire/why-is-there-a-normal-galaxy-sitting-at-the-edge-of-the-universe"
+    },
+    {
+      "rank": "12.",
+      "title": "In Unix, what do some obscurely named commands stand for? (2018)",
+      "link": "https://kb.iu.edu/d/abnd"
+    },
+    {
       "rank": "13.",
-      "title": "Scanwell is hiring a product designer to design the first at-home Covid-19 test",
-      "link": "https://scanwell-health.breezy.hr/p/cfdf55d8fb85-product-designer"
+      "title": "Show HN: Remotely Controlled Escape Room",
+      "link": "https://www.thebureauorlando.com/remote-games"
     },
     {
       "rank": "14.",
-      "title": "Toys from Trash",
-      "link": "http://arvindguptatoys.com/"
+      "title": "Scanwell is hiring a product designer to design the first at-home Covid-19 test",
+      "link": "https://scanwell-health.breezy.hr/p/cfdf55d8fb85-product-designer"
     },
     {
       "rank": "15.",
@@ -77,63 +77,63 @@
     },
     {
       "rank": "16.",
+      "title": "Toys from Trash",
+      "link": "http://arvindguptatoys.com/"
+    },
+    {
+      "rank": "17.",
+      "title": "C++ was the fastest growing programming language in Sept according to TIOBE",
+      "link": "https://www.techrepublic.com/article/c-is-now-the-fastest-growing-programming-language/"
+    },
+    {
+      "rank": "18.",
       "title": "I still use WordPerfect 6.2 for DOS",
       "link": "https://news.ycombinator.com/item?id=24411333"
     },
     {
-      "rank": "17.",
+      "rank": "19.",
       "title": "Apple II and Apple IIe emulators written in JavaScript and HTML5",
       "link": "https://github.com/whscullin/apple2js"
     },
     {
-      "rank": "18.",
+      "rank": "20.",
       "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
       "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "AMD PSB Vendor Locks EPYC CPUs for Enhanced Security at a Cost",
       "link": "https://www.servethehome.com/amd-psb-vendor-locks-epyc-cpus-for-enhanced-security-at-a-cost/"
     },
     {
-      "rank": "20.",
+      "rank": "22.",
       "title": "Read Fewer Books",
       "link": "https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
       "link": "https://effectiviology.com/napoleon/"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "Why Karachi Floods",
       "link": "https://www.dawn.com/news/1578061"
     },
     {
-      "rank": "23.",
+      "rank": "25.",
       "title": "Fluid framework, for building distributed, real-time collaborative web apps",
       "link": "https://fluidframework.com/"
     },
     {
-      "rank": "24.",
+      "rank": "26.",
       "title": "Low-code, no-model recommendation system with GPT3",
       "link": "https://medium.com/swlh/gpt3-empowered-recommendation-system-ba4bad29276b"
     },
     {
-      "rank": "25.",
+      "rank": "27.",
       "title": "Amazon demands we correct an article refering to an Echo as a “microphone”",
       "link": "https://nitter.net/jason_koebler/status/1303383712160190469#m"
-    },
-    {
-      "rank": "26.",
-      "title": "Designing New Cryptography for Non-Standard Threat Models",
-      "link": "https://soatok.blog/2020/09/09/designing-new-cryptography-for-non-standard-threat-models/"
-    },
-    {
-      "rank": "27.",
-      "title": "Serious Adverse Event Time",
-      "link": "https://blogs.sciencemag.org/pipeline/archives/2020/09/09/serious-adverse-event-time"
     },
     {
       "rank": "28.",
@@ -142,8 +142,8 @@
     },
     {
       "rank": "29.",
-      "title": "Open Transclude for Networked Writing",
-      "link": "http://subpixel.space/entries/open-transclude/"
+      "title": "Designing New Cryptography for Non-Standard Threat Models",
+      "link": "https://soatok.blog/2020/09/09/designing-new-cryptography-for-non-standard-threat-models/"
     },
     {
       "rank": "30.",
