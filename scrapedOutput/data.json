@@ -2,43 +2,43 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Non-Posix File Systems",
-      "link": "https://weinholt.se/articles/non-posix-filesystems/"
-    },
-    {
-      "rank": "2.",
-      "title": "Tech firms face growing resentment of parent employees during Covid-19",
-      "link": "https://www.cnet.com/news/tech-firms-face-growing-resentment-of-parent-employees-during-covid-19/"
-    },
-    {
-      "rank": "3.",
-      "title": "Is the web getting slower?",
-      "link": "https://www.debugbear.com/blog/is-the-web-getting-slower"
-    },
-    {
-      "rank": "4.",
-      "title": "Journalists perceive stories published in local news outlets to be less worthy",
-      "link": "https://www.niemanlab.org/2020/09/journalists-perceive-stories-published-in-local-news-outlets-to-be-less-newsworthy/"
-    },
-    {
-      "rank": "5.",
-      "title": "Gravitricity–Fast, long-life energy storage",
-      "link": "https://gravitricity.com/"
-    },
-    {
-      "rank": "6.",
-      "title": "“I still use WordPerfect 6.2 for DOS ”",
-      "link": "https://news.ycombinator.com/item?id=24411333"
-    },
-    {
-      "rank": "7.",
       "title": "AMD Vendor Locks EPYC CPUs",
       "link": "https://www.servethehome.com/amd-psb-vendor-locks-epyc-cpus-for-enhanced-security-at-a-cost/"
     },
     {
-      "rank": "8.",
+      "rank": "2.",
+      "title": "Non-Posix File Systems",
+      "link": "https://weinholt.se/articles/non-posix-filesystems/"
+    },
+    {
+      "rank": "3.",
+      "title": "Tech firms face growing resentment of parent employees during Covid-19",
+      "link": "https://www.cnet.com/news/tech-firms-face-growing-resentment-of-parent-employees-during-covid-19/"
+    },
+    {
+      "rank": "4.",
+      "title": "Is the web getting slower?",
+      "link": "https://www.debugbear.com/blog/is-the-web-getting-slower"
+    },
+    {
+      "rank": "5.",
+      "title": "Journalists perceive stories published in local news outlets to be less worthy",
+      "link": "https://www.niemanlab.org/2020/09/journalists-perceive-stories-published-in-local-news-outlets-to-be-less-newsworthy/"
+    },
+    {
+      "rank": "6.",
+      "title": "Gravitricity–Fast, long-life energy storage",
+      "link": "https://gravitricity.com/"
+    },
+    {
+      "rank": "7.",
       "title": "Ad Fraud on LinkedIn",
       "link": "https://www.samueljscott.com/2020/09/08/linkedin-ad-fraud/"
+    },
+    {
+      "rank": "8.",
+      "title": "“I still use WordPerfect 6.2 for DOS ”",
+      "link": "https://news.ycombinator.com/item?id=24411333"
     },
     {
       "rank": "9.",
@@ -52,38 +52,38 @@
     },
     {
       "rank": "11.",
+      "title": "Chrome 86 Enables the Native File System API by Default",
+      "link": "https://web.dev/native-file-system/"
+    },
+    {
+      "rank": "12.",
       "title": "The 'brushing' scam that's behind mystery parcels",
       "link": "https://www.bbc.com/news/technology-54055669"
     },
     {
-      "rank": "12.",
+      "rank": "13.",
       "title": "What motivates the authors of video game walkthroughs and FAQs?",
       "link": "https://firstmonday.org/ojs/index.php/fm/article/view/7925/6630"
     },
     {
-      "rank": "13.",
+      "rank": "14.",
       "title": "Show HN: Free hosted open-source alternative to Zapier/Airflow",
       "link": "https://cloud.titanoboa.io/index.html"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "U.S. to block cotton, tomato product imports from Xinjiang over forced labor",
       "link": "https://www.reuters.com/article/us-usa-trade-china-xinjiang/u-s-to-block-cotton-tomato-product-imports-from-chinas-xinjiang-over-forced-labor-cbp-idUSKBN25Z29N"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "AstraZeneca Covid-19 vaccine study put on hold due to suspected adverse reaction",
       "link": "https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
       "link": "https://arxiv.org/abs/2008.05300"
-    },
-    {
-      "rank": "17.",
-      "title": "Chrome 86 Enables the Native File System API by Default",
-      "link": "https://web.dev/native-file-system/"
     },
     {
       "rank": "18.",
@@ -92,38 +92,38 @@
     },
     {
       "rank": "19.",
-      "title": "Verne Edquist – Glenn Gould’s Piano Man",
-      "link": "https://www.glenngould.ca/verne-edquist/"
-    },
-    {
-      "rank": "20.",
       "title": "Newfront (YC W18) is hiring engineering managers to transform insurance",
       "link": "https://jobs.lever.co/newfrontinsurance/51c08b9c-f5ed-4714-8787-b1a2b1059ead"
     },
     {
-      "rank": "21.",
-      "title": "Producing a Music Video in the Browser",
-      "link": "https://blog.vizibop.com/producing-a-music-video-in-the-browser/"
-    },
-    {
-      "rank": "22.",
+      "rank": "20.",
       "title": "A Brief Cultural History of the Parking Lot",
       "link": "https://thereader.mitpress.mit.edu/brief-cultural-history-of-the-parking-lot/"
     },
     {
+      "rank": "21.",
+      "title": "Verne Edquist – Glenn Gould’s Piano Man",
+      "link": "https://www.glenngould.ca/verne-edquist/"
+    },
+    {
+      "rank": "22.",
+      "title": "Stupid RCU Tricks: Enlisting the Aid of a Debugger",
+      "link": "https://paulmck.livejournal.com/58616.html"
+    },
+    {
       "rank": "23.",
+      "title": "Producing a Music Video in the Browser",
+      "link": "https://blog.vizibop.com/producing-a-music-video-in-the-browser/"
+    },
+    {
+      "rank": "24.",
       "title": "Slaughter at the bridge: Uncovering a colossal Bronze Age battle (2016)",
       "link": "https://www.sciencemag.org/news/2016/03/slaughter-bridge-uncovering-colossal-bronze-age-battle"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "FTC Is Investigating Intuit over TurboTax Practices",
       "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
-    },
-    {
-      "rank": "25.",
-      "title": "Tesla can detect aftermarket hacks designed to defeat EV performance paywalls",
-      "link": "https://www.thedrive.com/news/35946/tesla-can-detect-aftermarket-hacks-designed-to-defeat-ev-performance-paywalls"
     },
     {
       "rank": "26.",
@@ -132,18 +132,18 @@
     },
     {
       "rank": "27.",
+      "title": "Tesla can detect aftermarket hacks designed to defeat EV performance paywalls",
+      "link": "https://www.thedrive.com/news/35946/tesla-can-detect-aftermarket-hacks-designed-to-defeat-ev-performance-paywalls"
+    },
+    {
+      "rank": "28.",
       "title": "Why I link to Wayback Machine instead of original web content",
       "link": "https://hawaiigentech.com/post/commentary/why-i-link-to-waybackmachine-instead/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "The Computational Power of Biological Dendritic Trees",
       "link": "https://arxiv.org/abs/2009.01269"
-    },
-    {
-      "rank": "29.",
-      "title": "Show HN: DataSpeeder Instant End-User Web GUI for MySQL",
-      "link": "https://www.dataspeeder.com"
     },
     {
       "rank": "30.",
