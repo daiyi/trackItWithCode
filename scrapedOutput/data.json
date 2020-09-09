@@ -2,13 +2,13 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Vue.js Creator Evan You Interview: “You need to understand what your users want”",
-      "link": "https://evrone.com/evan-you-interview"
+      "title": "The Long-Term Stock Exchange Opens for Business",
+      "link": "https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b"
     },
     {
       "rank": "2.",
-      "title": "An interactive Python plotting library using ggplot's API",
-      "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
     },
     {
       "rank": "3.",
@@ -17,73 +17,73 @@
     },
     {
       "rank": "4.",
-      "title": "AMD PSB Vendor Locks EPYC CPUs for Enhanced Security at a Cost",
-      "link": "https://www.servethehome.com/amd-psb-vendor-locks-epyc-cpus-for-enhanced-security-at-a-cost/"
+      "title": "An interactive Python plotting library using ggplot's API",
+      "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
     },
     {
       "rank": "5.",
-      "title": "Show HN: XML Fiddler – tool for quick XML exploration",
-      "link": "https://masa331.github.io/xml_fiddler/"
+      "title": "Vue.js Creator Evan You Interview",
+      "link": "https://evrone.com/evan-you-interview"
     },
     {
       "rank": "6.",
-      "title": "Apple II and Apple IIe emulators written in JavaScript and HTML5",
-      "link": "https://github.com/whscullin/apple2js"
-    },
-    {
-      "rank": "7.",
-      "title": "Scanwell is hiring a product designer to design the first at-home Covid-19 test",
-      "link": "https://scanwell-health.breezy.hr/p/cfdf55d8fb85-product-designer"
-    },
-    {
-      "rank": "8.",
-      "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
-      "link": "https://effectiviology.com/napoleon/"
-    },
-    {
-      "rank": "9.",
-      "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
-      "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
-    },
-    {
-      "rank": "10.",
-      "title": "I still use WordPerfect 6.2 for DOS",
-      "link": "https://news.ycombinator.com/item?id=24411333"
-    },
-    {
-      "rank": "11.",
-      "title": "Toys from Trash",
-      "link": "http://arvindguptatoys.com/"
-    },
-    {
-      "rank": "12.",
-      "title": "Amazon demands we correct an article refering to an Echo as a “microphone”",
-      "link": "https://nitter.net/jason_koebler/status/1303383712160190469#m"
-    },
-    {
-      "rank": "13.",
-      "title": "Is the web getting slower?",
-      "link": "https://www.debugbear.com/blog/is-the-web-getting-slower"
-    },
-    {
-      "rank": "14.",
       "title": "Northwestern Point of the Lake of the Woods",
       "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
     },
     {
+      "rank": "7.",
+      "title": "Toys from Trash",
+      "link": "http://arvindguptatoys.com/"
+    },
+    {
+      "rank": "8.",
+      "title": "Scanwell is hiring a product designer to design the first at-home Covid-19 test",
+      "link": "https://scanwell-health.breezy.hr/p/cfdf55d8fb85-product-designer"
+    },
+    {
+      "rank": "9.",
+      "title": "Show HN: XML Fiddler – tool for quick XML exploration",
+      "link": "https://masa331.github.io/xml_fiddler/"
+    },
+    {
+      "rank": "10.",
+      "title": "Apple II and Apple IIe emulators written in JavaScript and HTML5",
+      "link": "https://github.com/whscullin/apple2js"
+    },
+    {
+      "rank": "11.",
+      "title": "AMD PSB Vendor Locks EPYC CPUs for Enhanced Security at a Cost",
+      "link": "https://www.servethehome.com/amd-psb-vendor-locks-epyc-cpus-for-enhanced-security-at-a-cost/"
+    },
+    {
+      "rank": "12.",
+      "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
+      "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
+    },
+    {
+      "rank": "13.",
+      "title": "I still use WordPerfect 6.2 for DOS",
+      "link": "https://news.ycombinator.com/item?id=24411333"
+    },
+    {
+      "rank": "14.",
+      "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
+      "link": "https://effectiviology.com/napoleon/"
+    },
+    {
       "rank": "15.",
+      "title": "Amazon demands we correct an article refering to an Echo as a “microphone”",
+      "link": "https://nitter.net/jason_koebler/status/1303383712160190469#m"
+    },
+    {
+      "rank": "16.",
       "title": "Why Karachi Floods",
       "link": "https://www.dawn.com/news/1578061"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Gravitricity – Fast, long-life energy storage",
       "link": "https://gravitricity.com/"
-    },
-    {
-      "rank": "17.",
-      "title": "Low-code, no-model recommendation system with GPT3",
-      "link": "https://medium.com/swlh/gpt3-empowered-recommendation-system-ba4bad29276b"
     },
     {
       "rank": "18.",
@@ -92,48 +92,48 @@
     },
     {
       "rank": "19.",
+      "title": "Low-code, no-model recommendation system with GPT3",
+      "link": "https://medium.com/swlh/gpt3-empowered-recommendation-system-ba4bad29276b"
+    },
+    {
+      "rank": "20.",
       "title": "Fluid framework, for building distributed, real-time collaborative web apps",
       "link": "https://fluidframework.com/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
+      "title": "How WebAssembly Changes Software Distribution",
+      "link": "https://desiatov.com/why-webassembly/"
+    },
+    {
+      "rank": "22.",
       "title": "The Native File System API allows web apps to save directly to files",
       "link": "https://web.dev/native-file-system/"
     },
     {
-      "rank": "21.",
+      "rank": "23.",
       "title": "Journalists perceive stories published in local news outlets to be less worthy",
       "link": "https://www.niemanlab.org/2020/09/journalists-perceive-stories-published-in-local-news-outlets-to-be-less-newsworthy/"
     },
     {
-      "rank": "22.",
+      "rank": "24.",
       "title": "A Catalogue of Optimizing Transformations (1971) [pdf]",
       "link": "https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf"
     },
     {
-      "rank": "23.",
-      "title": "Tech firms face growing resentment of parent employees during Covid-19",
-      "link": "https://www.cnet.com/news/tech-firms-face-growing-resentment-of-parent-employees-during-covid-19/"
-    },
-    {
-      "rank": "24.",
+      "rank": "25.",
       "title": "What motivates the authors of video game walkthroughs and FAQs?",
       "link": "https://firstmonday.org/ojs/index.php/fm/article/view/7925/6630"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Show HN: StowShare – The Airbnb of Storage",
       "link": "https://getstowshare.com/"
     },
     {
-      "rank": "26.",
-      "title": "The Treachery of Image Files",
-      "link": "http://beyondloom.com/blog/images.html"
-    },
-    {
       "rank": "27.",
-      "title": "The Powder Toy",
-      "link": "https://powdertoy.co.uk/"
+      "title": "Tech firms face growing resentment of parent employees during Covid-19",
+      "link": "https://www.cnet.com/news/tech-firms-face-growing-resentment-of-parent-employees-during-covid-19/"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Non-Posix File Systems",
-      "link": "https://weinholt.se/articles/non-posix-filesystems/"
+      "title": "The Powder Toy",
+      "link": "https://powdertoy.co.uk/"
     },
     {
       "rank": "30.",
-      "title": "Attacking the Qualcomm Adreno GPU",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/attacking-qualcomm-adreno-gpu.html"
+      "title": "The Treachery of Image Files",
+      "link": "http://beyondloom.com/blog/images.html"
     }
   ],
   "metadata": {
