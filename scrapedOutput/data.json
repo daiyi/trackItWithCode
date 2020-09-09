@@ -12,8 +12,8 @@
     },
     {
       "rank": "3.",
-      "title": "Kubernetes YAML Generator",
-      "link": "https://k8syaml.com/"
+      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
+      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
     },
     {
       "rank": "4.",
@@ -22,98 +22,98 @@
     },
     {
       "rank": "5.",
-      "title": "Northwestern Point of the Lake of the Woods",
-      "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
-    },
-    {
-      "rank": "6.",
-      "title": "Lets plot: An interactive Python plotting library using ggplot's API",
-      "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
-    },
-    {
-      "rank": "7.",
-      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
-      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
-    },
-    {
-      "rank": "8.",
-      "title": "Vue.js Creator Evan You Interview",
-      "link": "https://evrone.com/evan-you-interview"
-    },
-    {
-      "rank": "9.",
-      "title": "Hacking Ethernet out of Fibre Channel cards",
-      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
-    },
-    {
-      "rank": "10.",
-      "title": "Show HN: XML Fiddler – tool for quick XML exploration",
-      "link": "https://masa331.github.io/xml_fiddler/"
-    },
-    {
-      "rank": "11.",
-      "title": "C++ was the fastest growing programming language in Sept according to TIOBE",
-      "link": "https://www.techrepublic.com/article/c-is-now-the-fastest-growing-programming-language/"
-    },
-    {
-      "rank": "12.",
-      "title": "Scanwell is hiring a product designer to design the first at-home Covid-19 test",
-      "link": "https://scanwell-health.breezy.hr/p/cfdf55d8fb85-product-designer"
-    },
-    {
-      "rank": "13.",
-      "title": "Toys from Trash",
-      "link": "http://arvindguptatoys.com/"
-    },
-    {
-      "rank": "14.",
       "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
       "link": "https://www.openssl.org/news/secadv/20200909.txt"
     },
     {
+      "rank": "6.",
+      "title": "Kubernetes YAML Generator",
+      "link": "https://k8syaml.com/"
+    },
+    {
+      "rank": "7.",
+      "title": "Hacking Ethernet out of Fibre Channel cards",
+      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
+    },
+    {
+      "rank": "8.",
+      "title": "Northwestern Point of the Lake of the Woods",
+      "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
+    },
+    {
+      "rank": "9.",
+      "title": "Lets plot: An interactive Python plotting library using ggplot's API",
+      "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
+    },
+    {
+      "rank": "10.",
+      "title": "C++ was the fastest growing programming language in Sept according to TIOBE",
+      "link": "https://www.techrepublic.com/article/c-is-now-the-fastest-growing-programming-language/"
+    },
+    {
+      "rank": "11.",
+      "title": "Vue.js Creator Evan You Interview",
+      "link": "https://evrone.com/evan-you-interview"
+    },
+    {
+      "rank": "12.",
+      "title": "Show HN: XML Fiddler – tool for quick XML exploration",
+      "link": "https://masa331.github.io/xml_fiddler/"
+    },
+    {
+      "rank": "13.",
+      "title": "Scanwell is hiring a product designer to design the first at-home Covid-19 test",
+      "link": "https://scanwell-health.breezy.hr/p/cfdf55d8fb85-product-designer"
+    },
+    {
+      "rank": "14.",
+      "title": "Toys from Trash",
+      "link": "http://arvindguptatoys.com/"
+    },
+    {
       "rank": "15.",
-      "title": "I still use WordPerfect 6.2 for DOS",
-      "link": "https://news.ycombinator.com/item?id=24411333"
-    },
-    {
-      "rank": "16.",
-      "title": "Apple II and Apple IIe emulators written in JavaScript and HTML5",
-      "link": "https://github.com/whscullin/apple2js"
-    },
-    {
-      "rank": "17.",
-      "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
-      "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
-    },
-    {
-      "rank": "18.",
-      "title": "AMD PSB Vendor Locks EPYC CPUs for Enhanced Security at a Cost",
-      "link": "https://www.servethehome.com/amd-psb-vendor-locks-epyc-cpus-for-enhanced-security-at-a-cost/"
-    },
-    {
-      "rank": "19.",
-      "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
-      "link": "https://effectiviology.com/napoleon/"
-    },
-    {
-      "rank": "20.",
       "title": "Generative Language Modeling for Automated Theorem Proving",
       "link": "https://arxiv.org/abs/2009.03393"
     },
     {
+      "rank": "16.",
+      "title": "I still use WordPerfect 6.2 for DOS",
+      "link": "https://news.ycombinator.com/item?id=24411333"
+    },
+    {
+      "rank": "17.",
+      "title": "Apple II and Apple IIe emulators written in JavaScript and HTML5",
+      "link": "https://github.com/whscullin/apple2js"
+    },
+    {
+      "rank": "18.",
+      "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
+      "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
+    },
+    {
+      "rank": "19.",
+      "title": "AMD PSB Vendor Locks EPYC CPUs for Enhanced Security at a Cost",
+      "link": "https://www.servethehome.com/amd-psb-vendor-locks-epyc-cpus-for-enhanced-security-at-a-cost/"
+    },
+    {
+      "rank": "20.",
+      "title": "Read Fewer Books",
+      "link": "https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/"
+    },
+    {
       "rank": "21.",
+      "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
+      "link": "https://effectiviology.com/napoleon/"
+    },
+    {
+      "rank": "22.",
       "title": "Why Karachi Floods",
       "link": "https://www.dawn.com/news/1578061"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Fluid framework, for building distributed, real-time collaborative web apps",
       "link": "https://fluidframework.com/"
-    },
-    {
-      "rank": "23.",
-      "title": "Amazon demands we correct an article refering to an Echo as a “microphone”",
-      "link": "https://nitter.net/jason_koebler/status/1303383712160190469#m"
     },
     {
       "rank": "24.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "Designing New Cryptography for Non-Standard Threat Models",
-      "link": "https://soatok.blog/2020/09/09/designing-new-cryptography-for-non-standard-threat-models/"
+      "title": "Amazon demands we correct an article refering to an Echo as a “microphone”",
+      "link": "https://nitter.net/jason_koebler/status/1303383712160190469#m"
     },
     {
       "rank": "26.",
-      "title": "Open Transclude for Networked Writing",
-      "link": "http://subpixel.space/entries/open-transclude/"
+      "title": "Designing New Cryptography for Non-Standard Threat Models",
+      "link": "https://soatok.blog/2020/09/09/designing-new-cryptography-for-non-standard-threat-models/"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "A Catalogue of Optimizing Transformations (1971) [pdf]",
-      "link": "https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf"
-    },
-    {
-      "rank": "29.",
       "title": "No-Code vs. Pro-Code: A New Hope",
       "link": "https://journeyapps.com/engineering-blog/no-code-vs-pro-code-a-new-hope/"
     },
     {
+      "rank": "29.",
+      "title": "Open Transclude for Networked Writing",
+      "link": "http://subpixel.space/entries/open-transclude/"
+    },
+    {
       "rank": "30.",
-      "title": "Tech firms face growing resentment of parent employees during Covid-19",
-      "link": "https://www.cnet.com/news/tech-firms-face-growing-resentment-of-parent-employees-during-covid-19/"
+      "title": "Post-Open Source",
+      "link": "https://www.boringcactus.com/2020/08/13/post-open-source.html"
     }
   ],
   "metadata": {
