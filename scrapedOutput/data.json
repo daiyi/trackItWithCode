@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Getting Fiber to My Town [video]",
-      "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
+      "title": "Async Views in Django 3.1",
+      "link": "https://testdriven.io/blog/django-async-views/"
     },
     {
       "rank": "6.",
-      "title": "Async Views in Django 3.1",
-      "link": "https://testdriven.io/blog/django-async-views/"
+      "title": "Getting Fiber to My Town [video]",
+      "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
     },
     {
       "rank": "7.",
@@ -57,8 +57,8 @@
     },
     {
       "rank": "12.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+      "title": "Confessions of an ID Theft Kingpin",
+      "link": "https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-i/"
     },
     {
       "rank": "13.",
@@ -67,88 +67,88 @@
     },
     {
       "rank": "14.",
-      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
-      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
     },
     {
       "rank": "15.",
-      "title": "Elvish is a friendly interactive shell and an expressive programming language",
-      "link": "https://elv.sh"
-    },
-    {
-      "rank": "16.",
-      "title": "F.lux automatically adjusts your computer lighting to match your environment",
-      "link": "https://justgetflux.com/"
-    },
-    {
-      "rank": "17.",
       "title": "GitPals – Find team for cooperative development",
       "link": "https://www.gitpals.com/"
     },
     {
+      "rank": "16.",
+      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
+      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
+    },
+    {
+      "rank": "17.",
+      "title": "Elvish is a friendly interactive shell and an expressive programming language",
+      "link": "https://elv.sh"
+    },
+    {
       "rank": "18.",
+      "title": "F.lux automatically adjusts your computer lighting to match your environment",
+      "link": "https://justgetflux.com/"
+    },
+    {
+      "rank": "19.",
       "title": "Show HN: Chrome Extension Starter Kit and eBook",
       "link": "https://ChromeExtensionKit.com?ref=showhn"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Mozilla introduces paid add-ons review, called “Promoted add-ons”",
       "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
       "link": "https://www.openssl.org/news/secadv/20200909.txt"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Lyebird: Clone Your Voice",
       "link": "https://www.descript.com/overdub?lyrebird=true"
     },
     {
-      "rank": "22.",
+      "rank": "23.",
       "title": "Kubernetes YAML Generator",
       "link": "https://k8syaml.com/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
       "title": "Hacking Ethernet out of Fibre Channel cards",
       "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
     },
     {
-      "rank": "24.",
+      "rank": "25.",
       "title": "Apple Disabling 'Sign in with Apple' for Epic Games on September 11",
       "link": "https://www.macrumors.com/2020/09/09/sign-in-with-apple-epic-games-disabled/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Northwestern Point of the Lake of the Woods",
       "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
     },
     {
-      "rank": "26.",
+      "rank": "27.",
       "title": "Generative Language Modeling for Automated Theorem Proving",
       "link": "https://arxiv.org/abs/2009.03393"
     },
     {
-      "rank": "27.",
+      "rank": "28.",
       "title": "Show HN: Remotely Controlled Escape Room",
       "link": "https://www.thebureauorlando.com/remote-games"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Ireland to Order Facebook to Stop Sending User Data to U.S.",
       "link": "https://www.wsj.com/articles/ireland-to-order-facebook-to-stop-sending-user-data-to-u-s-11599671980"
     },
     {
-      "rank": "29.",
+      "rank": "30.",
       "title": "Goes-West – Sector View: Pacific Southwest",
       "link": "https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G17&sector=psw"
-    },
-    {
-      "rank": "30.",
-      "title": "Classes are a way of writing higher order functions",
-      "link": "https://stopa.io/post/250"
     }
   ],
   "metadata": {
