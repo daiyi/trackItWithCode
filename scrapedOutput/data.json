@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
+      "title": "Apple ][ and Apple //e emulators written in JavaScript and HTML5",
+      "link": "https://github.com/whscullin/apple2js"
+    },
+    {
+      "rank": "4.",
       "title": "Tech firms face growing resentment of parent employees during Covid-19",
       "link": "https://www.cnet.com/news/tech-firms-face-growing-resentment-of-parent-employees-during-covid-19/"
     },
     {
-      "rank": "4.",
+      "rank": "5.",
       "title": "I still use WordPerfect 6.2 for DOS",
       "link": "https://news.ycombinator.com/item?id=24411333"
     },
     {
-      "rank": "5.",
+      "rank": "6.",
       "title": "Non-Posix File Systems",
       "link": "https://weinholt.se/articles/non-posix-filesystems/"
-    },
-    {
-      "rank": "6.",
-      "title": "Apple ][ and Apple //e emulators written in JavaScript and HTML5",
-      "link": "https://github.com/whscullin/apple2js"
     },
     {
       "rank": "7.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "Low-code, no-model recommendation system with GPT3",
-      "link": "https://medium.com/swlh/gpt3-empowered-recommendation-system-ba4bad29276b"
+      "title": "Gravitricity – Fast, long-life energy storage",
+      "link": "https://gravitricity.com/"
     },
     {
       "rank": "10.",
-      "title": "Gravitricity – Fast, long-life energy storage",
-      "link": "https://gravitricity.com/"
+      "title": "Low-code, no-model recommendation system with GPT3",
+      "link": "https://medium.com/swlh/gpt3-empowered-recommendation-system-ba4bad29276b"
     },
     {
       "rank": "11.",
@@ -62,13 +62,13 @@
     },
     {
       "rank": "13.",
-      "title": "The Powder Toy",
-      "link": "https://powdertoy.co.uk/"
+      "title": "The Native File System API allows web apps to save directly to files",
+      "link": "https://web.dev/native-file-system/"
     },
     {
       "rank": "14.",
-      "title": "The Native File System API allows web apps to save directly to files",
-      "link": "https://web.dev/native-file-system/"
+      "title": "The Powder Toy",
+      "link": "https://powdertoy.co.uk/"
     },
     {
       "rank": "15.",
@@ -97,13 +97,13 @@
     },
     {
       "rank": "20.",
-      "title": "The Fed now owns nearly 1/3 of all U.S. mortgages",
-      "link": "https://www.thestreet.com/mishtalk/economics/the-fed-now-owns-nearly-one-third-of-all-us-mortgages"
+      "title": "Simple wave-optical superpositions as prime number sieves (2019)",
+      "link": "https://arxiv.org/abs/1812.04203"
     },
     {
       "rank": "21.",
-      "title": "Aram Saroyan and the Art of the One-Word Poem",
-      "link": "https://thereader.mitpress.mit.edu/art-of-one-word-poem/"
+      "title": "Verne Edquist – Glenn Gould’s Piano Man",
+      "link": "https://www.glenngould.ca/verne-edquist/"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
-      "title": "Simple wave-optical superpositions as prime number sieves (2019)",
-      "link": "https://arxiv.org/abs/1812.04203"
-    },
-    {
-      "rank": "24.",
       "title": "Show HN: StowShare – The Airbnb of Storage",
       "link": "https://getstowshare.com/"
     },
     {
+      "rank": "24.",
+      "title": "Aram Saroyan and the Art of the One-Word Poem",
+      "link": "https://thereader.mitpress.mit.edu/art-of-one-word-poem/"
+    },
+    {
       "rank": "25.",
-      "title": "K-9 Mail removed from Google Play Store due to listing description",
-      "link": "https://mobile.twitter.com/obra/status/1303442579107831809"
+      "title": "Attacking the Qualcomm Adreno GPU",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/attacking-qualcomm-adreno-gpu.html"
     },
     {
       "rank": "26.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "Attacking the Qualcomm Adreno GPU",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/attacking-qualcomm-adreno-gpu.html"
+      "title": "K-9 Mail removed from Google Play Store due to listing description",
+      "link": "https://mobile.twitter.com/obra/status/1303442579107831809"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Ad Fraud on LinkedIn",
-      "link": "https://www.samueljscott.com/2020/09/08/linkedin-ad-fraud/"
+      "title": "The Fed now owns nearly 1/3 of all U.S. mortgages",
+      "link": "https://www.thestreet.com/mishtalk/economics/the-fed-now-owns-nearly-one-third-of-all-us-mortgages"
     },
     {
       "rank": "30.",
-      "title": "Newfront (YC W18) is hiring engineering managers to transform insurance",
-      "link": "https://jobs.lever.co/newfrontinsurance/51c08b9c-f5ed-4714-8787-b1a2b1059ead"
+      "title": "Ad Fraud on LinkedIn",
+      "link": "https://www.samueljscott.com/2020/09/08/linkedin-ad-fraud/"
     }
   ],
   "metadata": {
