@@ -12,28 +12,28 @@
     },
     {
       "rank": "3.",
-      "title": "Zuckerberg: Facebook won't target anti-vaxx posts like Covid misinformation",
-      "link": "https://www.axios.com/coronavirus-vaccine-facebook-mark-zuckerberg-9eae01a2-e6b2-4f4c-a48c-986bac665a2b.html"
-    },
-    {
-      "rank": "4.",
       "title": "Kubernetes YAML Generator",
       "link": "https://k8syaml.com/"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Northwestern Point of the Lake of the Woods",
       "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "Lets plot: An interactive Python plotting library using ggplot's API",
       "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Vue.js Creator Evan You Interview",
       "link": "https://evrone.com/evan-you-interview"
+    },
+    {
+      "rank": "7.",
+      "title": "In Unix, what do some obscurely named commands stand for? (2018)",
+      "link": "https://kb.iu.edu/d/abnd"
     },
     {
       "rank": "8.",
@@ -42,13 +42,13 @@
     },
     {
       "rank": "9.",
-      "title": "The End of Dispersed Camping?",
-      "link": "https://www.hatchmag.com/blog/end-dispersed-camping/7715118"
+      "title": "Toys from Trash",
+      "link": "http://arvindguptatoys.com/"
     },
     {
       "rank": "10.",
-      "title": "Toys from Trash",
-      "link": "http://arvindguptatoys.com/"
+      "title": "How WebAssembly Changes Software Distribution",
+      "link": "https://desiatov.com/why-webassembly/"
     },
     {
       "rank": "11.",
@@ -57,18 +57,18 @@
     },
     {
       "rank": "12.",
-      "title": "How WebAssembly Changes Software Distribution",
-      "link": "https://desiatov.com/why-webassembly/"
-    },
-    {
-      "rank": "13.",
       "title": "I still use WordPerfect 6.2 for DOS",
       "link": "https://news.ycombinator.com/item?id=24411333"
     },
     {
+      "rank": "13.",
+      "title": "Hacking Ethernet out of Fibre Channel cards",
+      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
+    },
+    {
       "rank": "14.",
-      "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
-      "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
+      "title": "The End of Dispersed Camping?",
+      "link": "https://www.hatchmag.com/blog/end-dispersed-camping/7715118"
     },
     {
       "rank": "15.",
@@ -77,38 +77,38 @@
     },
     {
       "rank": "16.",
+      "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
+      "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
+    },
+    {
+      "rank": "17.",
       "title": "AMD PSB Vendor Locks EPYC CPUs for Enhanced Security at a Cost",
       "link": "https://www.servethehome.com/amd-psb-vendor-locks-epyc-cpus-for-enhanced-security-at-a-cost/"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
       "link": "https://effectiviology.com/napoleon/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "Gravitricity – Fast, long-life energy storage",
       "link": "https://gravitricity.com/"
     },
     {
-      "rank": "19.",
+      "rank": "20.",
       "title": "Why Karachi Floods",
       "link": "https://www.dawn.com/news/1578061"
     },
     {
-      "rank": "20.",
+      "rank": "21.",
       "title": "Low-code, no-model recommendation system with GPT3",
       "link": "https://medium.com/swlh/gpt3-empowered-recommendation-system-ba4bad29276b"
     },
     {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Fluid framework, for building distributed, real-time collaborative web apps",
       "link": "https://fluidframework.com/"
-    },
-    {
-      "rank": "22.",
-      "title": "The Native File System API allows web apps to save directly to files",
-      "link": "https://web.dev/native-file-system/"
     },
     {
       "rank": "23.",
@@ -117,28 +117,28 @@
     },
     {
       "rank": "24.",
+      "title": "The Native File System API allows web apps to save directly to files",
+      "link": "https://web.dev/native-file-system/"
+    },
+    {
+      "rank": "25.",
       "title": "Open Transclude for Networked Writing",
       "link": "http://subpixel.space/entries/open-transclude/"
     },
     {
-      "rank": "25.",
-      "title": "“Serious Adverse Event” Time in Coronavirus Vaccinations",
-      "link": "https://blogs.sciencemag.org/pipeline/archives/2020/09/09/serious-adverse-event-time"
-    },
-    {
       "rank": "26.",
-      "title": "Show HN: StowShare – The Airbnb of Storage",
-      "link": "https://getstowshare.com/"
-    },
-    {
-      "rank": "27.",
       "title": "Designing New Cryptography for Non-Standard Threat Models",
       "link": "https://soatok.blog/2020/09/09/designing-new-cryptography-for-non-standard-threat-models/"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "A Catalogue of Optimizing Transformations (1971) [pdf]",
       "link": "https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf"
+    },
+    {
+      "rank": "28.",
+      "title": "Show HN: StowShare – The Airbnb of Storage",
+      "link": "https://getstowshare.com/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "The Treachery of Image Files",
-      "link": "http://beyondloom.com/blog/images.html"
+      "title": "Serious Adverse Event Time",
+      "link": "https://blogs.sciencemag.org/pipeline/archives/2020/09/09/serious-adverse-event-time"
     }
   ],
   "metadata": {
