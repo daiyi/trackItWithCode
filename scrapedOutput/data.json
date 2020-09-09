@@ -17,93 +17,93 @@
     },
     {
       "rank": "4.",
-      "title": "Northwestern Point of the Lake of the Woods",
-      "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
-    },
-    {
-      "rank": "5.",
-      "title": "Lets plot: An interactive Python plotting library using ggplot's API",
-      "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
-    },
-    {
-      "rank": "6.",
-      "title": "Vue.js Creator Evan You Interview",
-      "link": "https://evrone.com/evan-you-interview"
-    },
-    {
-      "rank": "7.",
       "title": "In Unix, what do some obscurely named commands stand for? (2018)",
       "link": "https://kb.iu.edu/d/abnd"
     },
     {
+      "rank": "5.",
+      "title": "Northwestern Point of the Lake of the Woods",
+      "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
+    },
+    {
+      "rank": "6.",
+      "title": "Lets plot: An interactive Python plotting library using ggplot's API",
+      "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
+    },
+    {
+      "rank": "7.",
+      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
+      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
+    },
+    {
       "rank": "8.",
-      "title": "Show HN: XML Fiddler – tool for quick XML exploration",
-      "link": "https://masa331.github.io/xml_fiddler/"
+      "title": "Vue.js Creator Evan You Interview",
+      "link": "https://evrone.com/evan-you-interview"
     },
     {
       "rank": "9.",
-      "title": "Toys from Trash",
-      "link": "http://arvindguptatoys.com/"
-    },
-    {
-      "rank": "10.",
-      "title": "How WebAssembly Changes Software Distribution",
-      "link": "https://desiatov.com/why-webassembly/"
-    },
-    {
-      "rank": "11.",
-      "title": "Scanwell is hiring a product designer to design the first at-home Covid-19 test",
-      "link": "https://scanwell-health.breezy.hr/p/cfdf55d8fb85-product-designer"
-    },
-    {
-      "rank": "12.",
-      "title": "I still use WordPerfect 6.2 for DOS",
-      "link": "https://news.ycombinator.com/item?id=24411333"
-    },
-    {
-      "rank": "13.",
       "title": "Hacking Ethernet out of Fibre Channel cards",
       "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
     },
     {
+      "rank": "10.",
+      "title": "Show HN: XML Fiddler – tool for quick XML exploration",
+      "link": "https://masa331.github.io/xml_fiddler/"
+    },
+    {
+      "rank": "11.",
+      "title": "C++ was the fastest growing programming language in Sept according to TIOBE",
+      "link": "https://www.techrepublic.com/article/c-is-now-the-fastest-growing-programming-language/"
+    },
+    {
+      "rank": "12.",
+      "title": "Scanwell is hiring a product designer to design the first at-home Covid-19 test",
+      "link": "https://scanwell-health.breezy.hr/p/cfdf55d8fb85-product-designer"
+    },
+    {
+      "rank": "13.",
+      "title": "Toys from Trash",
+      "link": "http://arvindguptatoys.com/"
+    },
+    {
       "rank": "14.",
-      "title": "The End of Dispersed Camping?",
-      "link": "https://www.hatchmag.com/blog/end-dispersed-camping/7715118"
+      "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
+      "link": "https://www.openssl.org/news/secadv/20200909.txt"
     },
     {
       "rank": "15.",
+      "title": "I still use WordPerfect 6.2 for DOS",
+      "link": "https://news.ycombinator.com/item?id=24411333"
+    },
+    {
+      "rank": "16.",
       "title": "Apple II and Apple IIe emulators written in JavaScript and HTML5",
       "link": "https://github.com/whscullin/apple2js"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
       "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
       "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
     },
     {
-      "rank": "17.",
+      "rank": "18.",
       "title": "AMD PSB Vendor Locks EPYC CPUs for Enhanced Security at a Cost",
       "link": "https://www.servethehome.com/amd-psb-vendor-locks-epyc-cpus-for-enhanced-security-at-a-cost/"
     },
     {
-      "rank": "18.",
+      "rank": "19.",
       "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
       "link": "https://effectiviology.com/napoleon/"
     },
     {
-      "rank": "19.",
-      "title": "Gravitricity – Fast, long-life energy storage",
-      "link": "https://gravitricity.com/"
-    },
-    {
       "rank": "20.",
-      "title": "Why Karachi Floods",
-      "link": "https://www.dawn.com/news/1578061"
+      "title": "Generative Language Modeling for Automated Theorem Proving",
+      "link": "https://arxiv.org/abs/2009.03393"
     },
     {
       "rank": "21.",
-      "title": "Low-code, no-model recommendation system with GPT3",
-      "link": "https://medium.com/swlh/gpt3-empowered-recommendation-system-ba4bad29276b"
+      "title": "Why Karachi Floods",
+      "link": "https://www.dawn.com/news/1578061"
     },
     {
       "rank": "22.",
@@ -117,38 +117,38 @@
     },
     {
       "rank": "24.",
-      "title": "The Native File System API allows web apps to save directly to files",
-      "link": "https://web.dev/native-file-system/"
+      "title": "Low-code, no-model recommendation system with GPT3",
+      "link": "https://medium.com/swlh/gpt3-empowered-recommendation-system-ba4bad29276b"
     },
     {
       "rank": "25.",
-      "title": "Open Transclude for Networked Writing",
-      "link": "http://subpixel.space/entries/open-transclude/"
-    },
-    {
-      "rank": "26.",
       "title": "Designing New Cryptography for Non-Standard Threat Models",
       "link": "https://soatok.blog/2020/09/09/designing-new-cryptography-for-non-standard-threat-models/"
     },
     {
+      "rank": "26.",
+      "title": "Open Transclude for Networked Writing",
+      "link": "http://subpixel.space/entries/open-transclude/"
+    },
+    {
       "rank": "27.",
+      "title": "Serious Adverse Event Time",
+      "link": "https://blogs.sciencemag.org/pipeline/archives/2020/09/09/serious-adverse-event-time"
+    },
+    {
+      "rank": "28.",
       "title": "A Catalogue of Optimizing Transformations (1971) [pdf]",
       "link": "https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf"
     },
     {
-      "rank": "28.",
-      "title": "Show HN: StowShare – The Airbnb of Storage",
-      "link": "https://getstowshare.com/"
-    },
-    {
       "rank": "29.",
-      "title": "Tech firms face growing resentment of parent employees during Covid-19",
-      "link": "https://www.cnet.com/news/tech-firms-face-growing-resentment-of-parent-employees-during-covid-19/"
+      "title": "No-Code vs. Pro-Code: A New Hope",
+      "link": "https://journeyapps.com/engineering-blog/no-code-vs-pro-code-a-new-hope/"
     },
     {
       "rank": "30.",
-      "title": "Serious Adverse Event Time",
-      "link": "https://blogs.sciencemag.org/pipeline/archives/2020/09/09/serious-adverse-event-time"
+      "title": "Tech firms face growing resentment of parent employees during Covid-19",
+      "link": "https://www.cnet.com/news/tech-firms-face-growing-resentment-of-parent-employees-during-covid-19/"
     }
   ],
   "metadata": {
