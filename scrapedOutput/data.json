@@ -2,8 +2,8 @@
   "sources": [
     {
       "rank": "1.",
-      "title": "Amazon demands we correct an article refering to an Echo as a “microphone”",
-      "link": "https://nitter.net/jason_koebler/status/1303383712160190469#m"
+      "title": "AMD PSB Vendor Locks EPYC CPUs for Enhanced Security at a Cost",
+      "link": "https://www.servethehome.com/amd-psb-vendor-locks-epyc-cpus-for-enhanced-security-at-a-cost/"
     },
     {
       "rank": "2.",
@@ -12,43 +12,43 @@
     },
     {
       "rank": "3.",
-      "title": "AMD PSB Vendor Locks EPYC CPUs for Enhanced Security at a Cost",
-      "link": "https://www.servethehome.com/amd-psb-vendor-locks-epyc-cpus-for-enhanced-security-at-a-cost/"
-    },
-    {
-      "rank": "4.",
       "title": "Why Bayesian Stats Needs Monte-Carlo Methods",
       "link": "https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods"
     },
     {
-      "rank": "5.",
+      "rank": "4.",
       "title": "Apple II and Apple IIe emulators written in JavaScript and HTML5",
       "link": "https://github.com/whscullin/apple2js"
     },
     {
-      "rank": "6.",
+      "rank": "5.",
       "title": "I still use WordPerfect 6.2 for DOS",
       "link": "https://news.ycombinator.com/item?id=24411333"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "Non-Posix File Systems",
       "link": "https://weinholt.se/articles/non-posix-filesystems/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Is the web getting slower?",
       "link": "https://www.debugbear.com/blog/is-the-web-getting-slower"
     },
     {
+      "rank": "8.",
+      "title": "Toys from Trash",
+      "link": "http://arvindguptatoys.com/"
+    },
+    {
       "rank": "9.",
-      "title": "Why Karachi Floods",
-      "link": "https://www.dawn.com/news/1578061"
+      "title": "Amazon demands we correct an article refering to an Echo as a “microphone”",
+      "link": "https://nitter.net/jason_koebler/status/1303383712160190469#m"
     },
     {
       "rank": "10.",
-      "title": "Toys from Trash",
-      "link": "http://arvindguptatoys.com/"
+      "title": "Why Karachi Floods",
+      "link": "https://www.dawn.com/news/1578061"
     },
     {
       "rank": "11.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Read Fewer Books",
-      "link": "https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/"
+      "title": "Journalists perceive stories published in local news outlets to be less worthy",
+      "link": "https://www.niemanlab.org/2020/09/journalists-perceive-stories-published-in-local-news-outlets-to-be-less-newsworthy/"
     },
     {
       "rank": "15.",
-      "title": "Journalists perceive stories published in local news outlets to be less worthy",
-      "link": "https://www.niemanlab.org/2020/09/journalists-perceive-stories-published-in-local-news-outlets-to-be-less-newsworthy/"
+      "title": "Read Fewer Books",
+      "link": "https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/"
     },
     {
       "rank": "16.",
@@ -82,8 +82,8 @@
     },
     {
       "rank": "17.",
-      "title": "Tech firms face growing resentment of parent employees during Covid-19",
-      "link": "https://www.cnet.com/news/tech-firms-face-growing-resentment-of-parent-employees-during-covid-19/"
+      "title": "Android 11",
+      "link": "https://www.android.com/android-11/"
     },
     {
       "rank": "18.",
@@ -92,13 +92,13 @@
     },
     {
       "rank": "19.",
-      "title": "What motivates the authors of video game walkthroughs and FAQs?",
-      "link": "https://firstmonday.org/ojs/index.php/fm/article/view/7925/6630"
+      "title": "Tech firms face growing resentment of parent employees during Covid-19",
+      "link": "https://www.cnet.com/news/tech-firms-face-growing-resentment-of-parent-employees-during-covid-19/"
     },
     {
       "rank": "20.",
-      "title": "Show HN: StowShare – The Airbnb of Storage",
-      "link": "https://getstowshare.com/"
+      "title": "What motivates the authors of video game walkthroughs and FAQs?",
+      "link": "https://firstmonday.org/ojs/index.php/fm/article/view/7925/6630"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "The Fed now owns nearly 1/3 of all U.S. mortgages",
-      "link": "https://www.thestreet.com/mishtalk/economics/the-fed-now-owns-nearly-one-third-of-all-us-mortgages"
+      "title": "Show HN: StowShare – The Airbnb of Storage",
+      "link": "https://getstowshare.com/"
     },
     {
       "rank": "23.",
-      "title": "Verne Edquist – Glenn Gould’s Piano Man",
-      "link": "https://www.glenngould.ca/verne-edquist/"
+      "title": "The Fed now owns nearly 1/3 of all U.S. mortgages",
+      "link": "https://www.thestreet.com/mishtalk/economics/the-fed-now-owns-nearly-one-third-of-all-us-mortgages"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "The Treachery of Image Files",
-      "link": "http://beyondloom.com/blog/images.html"
+      "title": "Verne Edquist – Glenn Gould’s Piano Man",
+      "link": "https://www.glenngould.ca/verne-edquist/"
     },
     {
       "rank": "26.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "Assange Hearing Day 7",
-      "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-assange-hearing-day-7/"
+      "title": "The Treachery of Image Files",
+      "link": "http://beyondloom.com/blog/images.html"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Ad Fraud on LinkedIn",
-      "link": "https://www.samueljscott.com/2020/09/08/linkedin-ad-fraud/"
+      "title": "Assange Hearing Day 7",
+      "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-assange-hearing-day-7/"
     },
     {
       "rank": "30.",
-      "title": "A History of Punctuation",
-      "link": "https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation"
+      "title": "Ad Fraud on LinkedIn",
+      "link": "https://www.samueljscott.com/2020/09/08/linkedin-ad-fraud/"
     }
   ],
   "metadata": {
