@@ -47,23 +47,23 @@
     },
     {
       "rank": "10.",
-      "title": "Post-Open Source",
-      "link": "https://www.boringcactus.com/2020/08/13/post-open-source.html"
-    },
-    {
-      "rank": "11.",
       "title": "Toys from Trash",
       "link": "http://arvindguptatoys.com/"
     },
     {
-      "rank": "12.",
+      "rank": "11.",
       "title": "Gravitricity – Fast, long-life energy storage",
       "link": "https://gravitricity.com/"
     },
     {
-      "rank": "13.",
+      "rank": "12.",
       "title": "Low-code, no-model recommendation system with GPT3",
       "link": "https://medium.com/swlh/gpt3-empowered-recommendation-system-ba4bad29276b"
+    },
+    {
+      "rank": "13.",
+      "title": "Read Fewer Books",
+      "link": "https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/"
     },
     {
       "rank": "14.",
@@ -77,33 +77,33 @@
     },
     {
       "rank": "16.",
-      "title": "Read Fewer Books",
-      "link": "https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/"
-    },
-    {
-      "rank": "17.",
       "title": "The Native File System API allows web apps to save directly to files",
       "link": "https://web.dev/native-file-system/"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Tech firms face growing resentment of parent employees during Covid-19",
       "link": "https://www.cnet.com/news/tech-firms-face-growing-resentment-of-parent-employees-during-covid-19/"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "What motivates the authors of video game walkthroughs and FAQs?",
       "link": "https://firstmonday.org/ojs/index.php/fm/article/view/7925/6630"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "The Powder Toy",
       "link": "https://powdertoy.co.uk/"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Fluid framework, for building distributed, real-time collaborative web apps",
       "link": "https://fluidframework.com/"
+    },
+    {
+      "rank": "21.",
+      "title": "Show HN: StowShare – The Airbnb of Storage",
+      "link": "https://getstowshare.com/"
     },
     {
       "rank": "22.",
@@ -112,18 +112,18 @@
     },
     {
       "rank": "23.",
-      "title": "Simple wave-optical superpositions as prime number sieves (2019)",
-      "link": "https://arxiv.org/abs/1812.04203"
-    },
-    {
-      "rank": "24.",
       "title": "Verne Edquist – Glenn Gould’s Piano Man",
       "link": "https://www.glenngould.ca/verne-edquist/"
     },
     {
+      "rank": "24.",
+      "title": "Simple wave-optical superpositions as prime number sieves (2019)",
+      "link": "https://arxiv.org/abs/1812.04203"
+    },
+    {
       "rank": "25.",
-      "title": "Show HN: StowShare – The Airbnb of Storage",
-      "link": "https://getstowshare.com/"
+      "title": "Assange Hearing Day 7",
+      "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-assange-hearing-day-7/"
     },
     {
       "rank": "26.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "Assange Hearing Day 7",
-      "link": "https://www.craigmurray.org.uk/archives/2020/09/your-man-in-the-public-gallery-assange-hearing-day-7/"
+      "title": "Apple countersues Epic, seeks punitive damages",
+      "link": "https://www.wsj.com/articles/apple-countersues-fortnite-maker-epic-games-seeking-to-halt-in-app-payments-11599592017"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Apple countersues Epic, seeks punitive damages",
-      "link": "https://www.wsj.com/articles/apple-countersues-fortnite-maker-epic-games-seeking-to-halt-in-app-payments-11599592017"
+      "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
+      "link": "https://arxiv.org/abs/2008.05300"
     },
     {
       "rank": "30.",
-      "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
-      "link": "https://arxiv.org/abs/2008.05300"
+      "title": "Ad Fraud on LinkedIn",
+      "link": "https://www.samueljscott.com/2020/09/08/linkedin-ad-fraud/"
     }
   ],
   "metadata": {
