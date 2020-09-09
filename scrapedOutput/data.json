@@ -17,118 +17,118 @@
     },
     {
       "rank": "4.",
-      "title": "Why is there a normal galaxy sitting at the edge of the Universe?",
-      "link": "https://www.syfy.com/syfywire/why-is-there-a-normal-galaxy-sitting-at-the-edge-of-the-universe"
-    },
-    {
-      "rank": "5.",
-      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
-      "link": "item?id=24423463"
-    },
-    {
-      "rank": "6.",
-      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
-      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
-    },
-    {
-      "rank": "7.",
       "title": "Async Views in Django 3.1",
       "link": "https://testdriven.io/blog/django-async-views/"
     },
     {
+      "rank": "5.",
+      "title": "Why is there a normal galaxy sitting at the edge of the Universe?",
+      "link": "https://www.syfy.com/syfywire/why-is-there-a-normal-galaxy-sitting-at-the-edge-of-the-universe"
+    },
+    {
+      "rank": "6.",
+      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
+      "link": "item?id=24423463"
+    },
+    {
+      "rank": "7.",
+      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
+      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
+    },
+    {
       "rank": "8.",
+      "title": "Tesla Model Y Owners Find Cooling System Made with Home Depot-Grade Fake Wood",
+      "link": "https://www.thedrive.com/tech/36274/tesla-model-y-owners-find-cooling-system-cobbled-together-with-home-depot-grade-fake-wood"
+    },
+    {
+      "rank": "9.",
       "title": "Show HN: Mimestream, a native macOS email client for Gmail",
       "link": "https://mimestream.com"
     },
     {
-      "rank": "9.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
-    },
-    {
       "rank": "10.",
-      "title": "Convictional (YC W19) Is Hiring Software Engineers for B2B Trade Enablement",
-      "link": "https://jobs.ashbyhq.com/Convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3"
-    },
-    {
-      "rank": "11.",
-      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
-      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
-    },
-    {
-      "rank": "12.",
-      "title": "Show HN: Chrome Extension Starter Kit and eBook",
-      "link": "https://ChromeExtensionKit.com?ref=showhn"
-    },
-    {
-      "rank": "13.",
-      "title": "Elvish is a friendly interactive shell and an expressive programming language",
-      "link": "https://elv.sh"
-    },
-    {
-      "rank": "14.",
       "title": "Lyebird: Clone Your Voice",
       "link": "https://www.descript.com/overdub?lyrebird=true"
     },
     {
+      "rank": "11.",
+      "title": "Convictional (YC W19) Is Hiring Software Engineers for B2B Trade Enablement",
+      "link": "https://jobs.ashbyhq.com/Convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3"
+    },
+    {
+      "rank": "12.",
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+    },
+    {
+      "rank": "13.",
+      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
+      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
+    },
+    {
+      "rank": "14.",
+      "title": "Zink (OpenGL on Vulkan) performance better than expected",
+      "link": "http://www.supergoodcode.com/funday/"
+    },
+    {
       "rank": "15.",
+      "title": "Elvish is a friendly interactive shell and an expressive programming language",
+      "link": "https://elv.sh"
+    },
+    {
+      "rank": "16.",
       "title": "GitPals – Find team for cooperative development",
       "link": "https://www.gitpals.com/"
     },
     {
-      "rank": "16.",
+      "rank": "17.",
+      "title": "Show HN: Chrome Extension Starter Kit and eBook",
+      "link": "https://ChromeExtensionKit.com?ref=showhn"
+    },
+    {
+      "rank": "18.",
       "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
       "link": "https://www.openssl.org/news/secadv/20200909.txt"
     },
     {
-      "rank": "17.",
+      "rank": "19.",
       "title": "Kubernetes YAML Generator",
       "link": "https://k8syaml.com/"
     },
     {
-      "rank": "18.",
+      "rank": "20.",
       "title": "Hacking Ethernet out of Fibre Channel cards",
       "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
     },
     {
-      "rank": "19.",
+      "rank": "21.",
       "title": "Northwestern Point of the Lake of the Woods",
       "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
     },
     {
-      "rank": "20.",
-      "title": "Show HN: Remotely Controlled Escape Room",
-      "link": "https://www.thebureauorlando.com/remote-games"
-    },
-    {
-      "rank": "21.",
+      "rank": "22.",
       "title": "Apple Disabling 'Sign in with Apple' for Epic Games on September 11",
       "link": "https://www.macrumors.com/2020/09/09/sign-in-with-apple-epic-games-disabled/"
     },
     {
-      "rank": "22.",
-      "title": "Classes are a way of writing higher order functions",
-      "link": "https://stopa.io/post/250"
+      "rank": "23.",
+      "title": "What are the legal issues around web scraping?",
+      "link": "http://evan.law/2020/09/09/what-are-the-legal-issues-around-web-scraping/"
     },
     {
-      "rank": "23.",
+      "rank": "24.",
+      "title": "Show HN: Remotely Controlled Escape Room",
+      "link": "https://www.thebureauorlando.com/remote-games"
+    },
+    {
+      "rank": "25.",
       "title": "Generative Language Modeling for Automated Theorem Proving",
       "link": "https://arxiv.org/abs/2009.03393"
     },
     {
-      "rank": "24.",
-      "title": "Lets-plot: An interactive Python plotting library using ggplot's API",
-      "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
-    },
-    {
-      "rank": "25.",
-      "title": "How WebAssembly Changes Software Distribution",
-      "link": "https://desiatov.com/why-webassembly/"
-    },
-    {
       "rank": "26.",
-      "title": "Vue.js Creator Evan You Interview",
-      "link": "https://evrone.com/evan-you-interview"
+      "title": "Classes are a way of writing higher order functions",
+      "link": "https://stopa.io/post/250"
     },
     {
       "rank": "27.",
@@ -137,18 +137,18 @@
     },
     {
       "rank": "28.",
-      "title": "Show HN: XML Fiddler – tool for quick XML exploration",
-      "link": "https://masa331.github.io/xml_fiddler/"
+      "title": "How WebAssembly Changes Software Distribution",
+      "link": "https://desiatov.com/why-webassembly/"
     },
     {
       "rank": "29.",
-      "title": "Apple II and Apple IIe emulators written in JavaScript and HTML5",
-      "link": "https://github.com/whscullin/apple2js"
+      "title": "Lets-plot: An interactive Python plotting library using ggplot's API",
+      "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
     },
     {
       "rank": "30.",
-      "title": "Read Fewer Books",
-      "link": "https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/"
+      "title": "Show HN: BGJar – SVG background generator for your websites",
+      "link": "https://bgjar.com/"
     }
   ],
   "metadata": {
