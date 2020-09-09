@@ -17,23 +17,23 @@
     },
     {
       "rank": "4.",
-      "title": "Classes are just a fancy way of writing higher order functions",
-      "link": "https://stopa.io/post/250"
-    },
-    {
-      "rank": "5.",
       "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
       "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
     },
     {
+      "rank": "5.",
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+    },
+    {
       "rank": "6.",
-      "title": "Convictional (YC W19) Is Hiring Software Engineers for B2B Trade Enablement",
-      "link": "https://jobs.ashbyhq.com/Convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3"
+      "title": "Dozens of scientific journals vanished from the internet: no one preserved them",
+      "link": "https://www.sciencemag.org/news/2020/09/dozens-scientific-journals-have-vanished-internet-and-no-one-preserved-them"
     },
     {
       "rank": "7.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+      "title": "Convictional (YC W19) Is Hiring Software Engineers for B2B Trade Enablement",
+      "link": "https://jobs.ashbyhq.com/Convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3"
     },
     {
       "rank": "8.",
@@ -47,8 +47,8 @@
     },
     {
       "rank": "10.",
-      "title": "Dozens of scientific journals vanished from the internet: no one preserved them",
-      "link": "https://www.sciencemag.org/news/2020/09/dozens-scientific-journals-have-vanished-internet-and-no-one-preserved-them"
+      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
+      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
     },
     {
       "rank": "11.",
@@ -62,8 +62,8 @@
     },
     {
       "rank": "13.",
-      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
-      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
+      "title": "Show HN: Mimestream, a native macOS email client for Gmail",
+      "link": "https://mimestream.com"
     },
     {
       "rank": "14.",
@@ -77,33 +77,33 @@
     },
     {
       "rank": "16.",
-      "title": "Show HN: Mimestream, a native macOS email client for Gmail",
-      "link": "https://mimestream.com"
-    },
-    {
-      "rank": "17.",
       "title": "Lets plot: An interactive Python plotting library using ggplot's API",
       "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
     },
     {
-      "rank": "18.",
+      "rank": "17.",
       "title": "Central Asia's 'desert kites'",
       "link": "http://www.bbc.com/travel/story/20200907-the-mystery-of-central-asias-desert-kites"
     },
     {
-      "rank": "19.",
+      "rank": "18.",
       "title": "Generative Language Modeling for Automated Theorem Proving",
       "link": "https://arxiv.org/abs/2009.03393"
     },
     {
-      "rank": "20.",
+      "rank": "19.",
       "title": "Vue.js Creator Evan You Interview",
       "link": "https://evrone.com/evan-you-interview"
     },
     {
-      "rank": "21.",
+      "rank": "20.",
       "title": "Show HN: XML Fiddler – tool for quick XML exploration",
       "link": "https://masa331.github.io/xml_fiddler/"
+    },
+    {
+      "rank": "21.",
+      "title": "Classes are just a fancy way of writing higher order functions",
+      "link": "https://stopa.io/post/250"
     },
     {
       "rank": "22.",
@@ -132,8 +132,8 @@
     },
     {
       "rank": "27.",
-      "title": "In Unix, what do some obscurely named commands stand for? (2018)",
-      "link": "https://kb.iu.edu/d/abnd"
+      "title": "New Zealand Is About to Test Long-Range Wireless Power Transmission",
+      "link": "https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
-      "link": "https://effectiviology.com/napoleon/"
+      "title": "In Unix, what do some obscurely named commands stand for? (2018)",
+      "link": "https://kb.iu.edu/d/abnd"
     },
     {
       "rank": "30.",
-      "title": "Why Karachi Floods",
-      "link": "https://www.dawn.com/news/1578061"
+      "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
+      "link": "https://effectiviology.com/napoleon/"
     }
   ],
   "metadata": {
