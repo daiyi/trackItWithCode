@@ -27,7 +27,7 @@
     },
     {
       "rank": "6.",
-      "title": "Chrome 86 Enables the Native File System API by Default",
+      "title": "The Native File System API allows web apps to save directly to files",
       "link": "https://web.dev/native-file-system/"
     },
     {
@@ -62,93 +62,93 @@
     },
     {
       "rank": "13.",
+      "title": "The Treachery of Image Files",
+      "link": "http://beyondloom.com/blog/images.html"
+    },
+    {
+      "rank": "14.",
       "title": "U.S. to block cotton, tomato product imports from Xinjiang over forced labor",
       "link": "https://www.reuters.com/article/us-usa-trade-china-xinjiang/u-s-to-block-cotton-tomato-product-imports-from-chinas-xinjiang-over-forced-labor-cbp-idUSKBN25Z29N"
     },
     {
-      "rank": "14.",
-      "title": "Show HN: Free hosted open-source alternative to Zapier/Airflow",
-      "link": "https://cloud.titanoboa.io/index.html"
+      "rank": "15.",
+      "title": "Aram Saroyan and the Art of the One-Word Poem",
+      "link": "https://thereader.mitpress.mit.edu/art-of-one-word-poem/"
     },
     {
-      "rank": "15.",
+      "rank": "16.",
       "title": "K-9 Mail removed from Google Play Store due to listing description",
       "link": "https://mobile.twitter.com/obra/status/1303442579107831809"
     },
     {
-      "rank": "16.",
-      "title": "A Brief Cultural History of the Parking Lot",
-      "link": "https://thereader.mitpress.mit.edu/brief-cultural-history-of-the-parking-lot/"
-    },
-    {
       "rank": "17.",
-      "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
-      "link": "https://arxiv.org/abs/2008.05300"
+      "title": "Why Karachi Floods",
+      "link": "https://www.dawn.com/news/1578061"
     },
     {
       "rank": "18.",
-      "title": "Hidden costs of constantly shipping new things",
-      "link": "https://www.mindtheproduct.com/the-hidden-costs-of-constantly-shipping-new-things/"
+      "title": "Low-code, no-model recommendation system with GPT3",
+      "link": "https://medium.com/swlh/gpt3-empowered-recommendation-system-ba4bad29276b"
     },
     {
       "rank": "19.",
-      "title": "AstraZeneca Covid-19 vaccine study put on hold due to suspected adverse reaction",
-      "link": "https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/"
-    },
-    {
-      "rank": "20.",
-      "title": "Oscars mandate inclusion standards for best picture contenders",
-      "link": "https://www.latimes.com/entertainment-arts/movies/story/2020-09-08/academy-oscars-inclusion-standards-best-picture"
-    },
-    {
-      "rank": "21.",
-      "title": "Verne Edquist – Glenn Gould’s Piano Man",
-      "link": "https://www.glenngould.ca/verne-edquist/"
-    },
-    {
-      "rank": "22.",
-      "title": "Ad Fraud on LinkedIn",
-      "link": "https://www.samueljscott.com/2020/09/08/linkedin-ad-fraud/"
-    },
-    {
-      "rank": "23.",
-      "title": "Slaughter at the bridge: Uncovering a colossal Bronze Age battle (2016)",
-      "link": "https://www.sciencemag.org/news/2016/03/slaughter-bridge-uncovering-colossal-bronze-age-battle"
-    },
-    {
-      "rank": "24.",
-      "title": "FTC Is Investigating Intuit over TurboTax Practices",
-      "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
-    },
-    {
-      "rank": "25.",
       "title": "Attacking the Qualcomm Adreno GPU",
       "link": "https://googleprojectzero.blogspot.com/2020/09/attacking-qualcomm-adreno-gpu.html"
     },
     {
-      "rank": "26.",
-      "title": "Newfront (YC W18) is hiring engineering managers to transform insurance",
-      "link": "https://jobs.lever.co/newfrontinsurance/51c08b9c-f5ed-4714-8787-b1a2b1059ead"
+      "rank": "20.",
+      "title": "A Brief Cultural History of the Parking Lot",
+      "link": "https://thereader.mitpress.mit.edu/brief-cultural-history-of-the-parking-lot/"
     },
     {
-      "rank": "27.",
-      "title": "Producing a Music Video in the Browser",
-      "link": "https://blog.vizibop.com/producing-a-music-video-in-the-browser/"
+      "rank": "21.",
+      "title": "Hidden costs of constantly shipping new things",
+      "link": "https://www.mindtheproduct.com/the-hidden-costs-of-constantly-shipping-new-things/"
     },
     {
-      "rank": "28.",
+      "rank": "22.",
+      "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
+      "link": "https://arxiv.org/abs/2008.05300"
+    },
+    {
+      "rank": "23.",
       "title": "Sid Meier: “I don’t think I could make Civilisation today”",
       "link": "https://www.independent.co.uk/arts-entertainment/games/sid-meier-interview-civilisation-memoir-autobiography-b404968.html"
     },
     {
+      "rank": "24.",
+      "title": "Eliza, the Rogerian Therapist (1999)",
+      "link": "http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm"
+    },
+    {
+      "rank": "25.",
+      "title": "Newfront (YC W18) is hiring engineering managers to transform insurance",
+      "link": "https://jobs.lever.co/newfrontinsurance/51c08b9c-f5ed-4714-8787-b1a2b1059ead"
+    },
+    {
+      "rank": "26.",
+      "title": "AstraZeneca Covid-19 vaccine study put on hold due to suspected adverse reaction",
+      "link": "https://www.statnews.com/2020/09/08/astrazeneca-covid-19-vaccine-study-put-on-hold-due-to-suspected-adverse-reaction-in-participant-in-the-u-k/"
+    },
+    {
+      "rank": "27.",
+      "title": "Verne Edquist – Glenn Gould’s Piano Man",
+      "link": "https://www.glenngould.ca/verne-edquist/"
+    },
+    {
+      "rank": "28.",
+      "title": "Ad Fraud on LinkedIn",
+      "link": "https://www.samueljscott.com/2020/09/08/linkedin-ad-fraud/"
+    },
+    {
       "rank": "29.",
-      "title": "Why I link to Wayback Machine instead of original web content",
-      "link": "https://hawaiigentech.com/post/commentary/why-i-link-to-waybackmachine-instead/"
+      "title": "FTC Is Investigating Intuit over TurboTax Practices",
+      "link": "https://www.propublica.org/article/the-ftc-is-investigating-intuit-over-turbotax-practices"
     },
     {
       "rank": "30.",
-      "title": "The Computational Power of Biological Dendritic Trees",
-      "link": "https://arxiv.org/abs/2009.01269"
+      "title": "Slaughter at the bridge: Uncovering a colossal Bronze Age battle (2016)",
+      "link": "https://www.sciencemag.org/news/2016/03/slaughter-bridge-uncovering-colossal-bronze-age-battle"
     }
   ],
   "metadata": {
