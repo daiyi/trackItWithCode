@@ -12,7 +12,7 @@
     },
     {
       "rank": "3.",
-      "title": "Apple ][ and Apple //e emulators written in JavaScript and HTML5",
+      "title": "Apple II and Apple IIe emulators written in JavaScript and HTML5",
       "link": "https://github.com/whscullin/apple2js"
     },
     {
@@ -57,38 +57,38 @@
     },
     {
       "rank": "12.",
-      "title": "Post-Open Source",
-      "link": "https://www.boringcactus.com/2020/08/13/post-open-source.html"
-    },
-    {
-      "rank": "13.",
       "title": "Journalists perceive stories published in local news outlets to be less worthy",
       "link": "https://www.niemanlab.org/2020/09/journalists-perceive-stories-published-in-local-news-outlets-to-be-less-newsworthy/"
     },
     {
-      "rank": "14.",
+      "rank": "13.",
       "title": "Ask HN: We have the expertise but no clients. How to reach them?",
       "link": "item?id=24397821"
     },
     {
-      "rank": "15.",
-      "title": "Simple wave-optical superpositions as prime number sieves (2019)",
-      "link": "https://arxiv.org/abs/1812.04203"
+      "rank": "14.",
+      "title": "Post-Open Source",
+      "link": "https://www.boringcactus.com/2020/08/13/post-open-source.html"
     },
     {
-      "rank": "16.",
+      "rank": "15.",
       "title": "The Native File System API allows web apps to save directly to files",
       "link": "https://web.dev/native-file-system/"
     },
     {
+      "rank": "16.",
+      "title": "Simple wave-optical superpositions as prime number sieves (2019)",
+      "link": "https://arxiv.org/abs/1812.04203"
+    },
+    {
       "rank": "17.",
-      "title": "The Powder Toy",
-      "link": "https://powdertoy.co.uk/"
+      "title": "What motivates the authors of video game walkthroughs and FAQs?",
+      "link": "https://firstmonday.org/ojs/index.php/fm/article/view/7925/6630"
     },
     {
       "rank": "18.",
-      "title": "What motivates the authors of video game walkthroughs and FAQs?",
-      "link": "https://firstmonday.org/ojs/index.php/fm/article/view/7925/6630"
+      "title": "The Powder Toy",
+      "link": "https://powdertoy.co.uk/"
     },
     {
       "rank": "19.",
@@ -102,8 +102,8 @@
     },
     {
       "rank": "21.",
-      "title": "Show HN: StowShare – The Airbnb of Storage",
-      "link": "https://getstowshare.com/"
+      "title": "The Treachery of Image Files",
+      "link": "http://beyondloom.com/blog/images.html"
     },
     {
       "rank": "22.",
@@ -112,28 +112,28 @@
     },
     {
       "rank": "23.",
+      "title": "Show HN: StowShare – The Airbnb of Storage",
+      "link": "https://getstowshare.com/"
+    },
+    {
+      "rank": "24.",
       "title": "A History of Punctuation",
       "link": "https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation"
     },
     {
-      "rank": "24.",
-      "title": "The Treachery of Image Files",
-      "link": "http://beyondloom.com/blog/images.html"
+      "rank": "25.",
+      "title": "Apple countersues Epic, seeks punitive damages",
+      "link": "https://www.wsj.com/articles/apple-countersues-fortnite-maker-epic-games-seeking-to-halt-in-app-payments-11599592017"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "Aram Saroyan and the Art of the One-Word Poem",
       "link": "https://thereader.mitpress.mit.edu/art-of-one-word-poem/"
     },
     {
-      "rank": "26.",
-      "title": "Sid Meier: “I don’t think I could make Civilisation today”",
-      "link": "https://www.independent.co.uk/arts-entertainment/games/sid-meier-interview-civilisation-memoir-autobiography-b404968.html"
-    },
-    {
       "rank": "27.",
-      "title": "Apple countersues Epic, seeks punitive damages",
-      "link": "https://www.wsj.com/articles/apple-countersues-fortnite-maker-epic-games-seeking-to-halt-in-app-payments-11599592017"
+      "title": "Attacking the Qualcomm Adreno GPU",
+      "link": "https://googleprojectzero.blogspot.com/2020/09/attacking-qualcomm-adreno-gpu.html"
     },
     {
       "rank": "28.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Attacking the Qualcomm Adreno GPU",
-      "link": "https://googleprojectzero.blogspot.com/2020/09/attacking-qualcomm-adreno-gpu.html"
+      "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
+      "link": "https://arxiv.org/abs/2008.05300"
     },
     {
       "rank": "30.",
-      "title": "Who Watches the Watchmen? Sybil-Resistance in Proof of Personhood Protocols",
-      "link": "https://arxiv.org/abs/2008.05300"
+      "title": "Is it possible to cut glass with scissors underwater?",
+      "link": "https://youtu.be/tEAxhMECluM"
     }
   ],
   "metadata": {
