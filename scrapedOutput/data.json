@@ -22,13 +22,13 @@
     },
     {
       "rank": "5.",
-      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
-      "link": "item?id=24423463"
+      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
+      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
     },
     {
       "rank": "6.",
-      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
-      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
+      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
+      "link": "item?id=24423463"
     },
     {
       "rank": "7.",
@@ -37,18 +37,18 @@
     },
     {
       "rank": "8.",
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+    },
+    {
+      "rank": "9.",
       "title": "Elvish is a friendly interactive shell and an expressive programming language",
       "link": "https://elv.sh"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Convictional (YC W19) Is Hiring Software Engineers for B2B Trade Enablement",
       "link": "https://jobs.ashbyhq.com/Convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3"
-    },
-    {
-      "rank": "10.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
     },
     {
       "rank": "11.",
@@ -57,38 +57,38 @@
     },
     {
       "rank": "12.",
-      "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
-      "link": "https://www.openssl.org/news/secadv/20200909.txt"
-    },
-    {
-      "rank": "13.",
-      "title": "Kubernetes YAML Generator",
-      "link": "https://k8syaml.com/"
-    },
-    {
-      "rank": "14.",
-      "title": "Show HN: Chrome Extension Starter Kit and eBook",
-      "link": "https://ChromeExtensionKit.com?ref=showhn"
-    },
-    {
-      "rank": "15.",
-      "title": "Hacking Ethernet out of Fibre Channel cards",
-      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
-    },
-    {
-      "rank": "16.",
       "title": "Async Views in Django 3.1",
       "link": "https://testdriven.io/blog/django-async-views/"
     },
     {
+      "rank": "13.",
+      "title": "Show HN: Chrome Extension Starter Kit and eBook",
+      "link": "https://ChromeExtensionKit.com?ref=showhn"
+    },
+    {
+      "rank": "14.",
+      "title": "OpenSSL Raccoon Attack (CVE-2020-1968)",
+      "link": "https://www.openssl.org/news/secadv/20200909.txt"
+    },
+    {
+      "rank": "15.",
+      "title": "Kubernetes YAML Generator",
+      "link": "https://k8syaml.com/"
+    },
+    {
+      "rank": "16.",
+      "title": "Hacking Ethernet out of Fibre Channel cards",
+      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
+    },
+    {
       "rank": "17.",
-      "title": "Northwestern Point of the Lake of the Woods",
-      "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
+      "title": "Lyebird: Clone Your Voice",
+      "link": "https://www.descript.com/overdub?lyrebird=true"
     },
     {
       "rank": "18.",
-      "title": "Classes are a way of writing higher order functions",
-      "link": "https://stopa.io/post/250"
+      "title": "Northwestern Point of the Lake of the Woods",
+      "link": "https://en.wikipedia.org/wiki/Northwestern_point_of_the_Lake_of_the_Woods"
     },
     {
       "rank": "19.",
@@ -97,53 +97,53 @@
     },
     {
       "rank": "20.",
-      "title": "Foreboding Skies over the SF Bay Area",
-      "link": "https://www.sfchronicle.com/bayarea/article/Bay-Area-awakes-to-foreboding-smoke-choked-15553731.php#photo-19929829"
+      "title": "Classes are a way of writing higher order functions",
+      "link": "https://stopa.io/post/250"
     },
     {
       "rank": "21.",
-      "title": "Generative Language Modeling for Automated Theorem Proving",
-      "link": "https://arxiv.org/abs/2009.03393"
-    },
-    {
-      "rank": "22.",
       "title": "Apple Disabling 'Sign in with Apple' for Epic Games on September 11",
       "link": "https://www.macrumors.com/2020/09/09/sign-in-with-apple-epic-games-disabled/"
     },
     {
+      "rank": "22.",
+      "title": "Generative Language Modeling for Automated Theorem Proving",
+      "link": "https://arxiv.org/abs/2009.03393"
+    },
+    {
       "rank": "23.",
+      "title": "Foreboding Skies over the SF Bay Area",
+      "link": "https://www.sfchronicle.com/bayarea/article/Bay-Area-awakes-to-foreboding-smoke-choked-15553731.php#photo-19929829"
+    },
+    {
+      "rank": "24.",
       "title": "Lets-plot: An interactive Python plotting library using ggplot's API",
       "link": "https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md"
     },
     {
-      "rank": "24.",
-      "title": "The Weston Standard Cell (2011)",
-      "link": "https://www.conradhoffman.com/stdcell.htm"
-    },
-    {
       "rank": "25.",
-      "title": "Vue.js Creator Evan You Interview",
-      "link": "https://evrone.com/evan-you-interview"
-    },
-    {
-      "rank": "26.",
       "title": "How WebAssembly Changes Software Distribution",
       "link": "https://desiatov.com/why-webassembly/"
     },
     {
+      "rank": "26.",
+      "title": "Vue.js Creator Evan You Interview",
+      "link": "https://evrone.com/evan-you-interview"
+    },
+    {
       "rank": "27.",
+      "title": "The Weston Standard Cell (2011)",
+      "link": "https://www.conradhoffman.com/stdcell.htm"
+    },
+    {
+      "rank": "28.",
       "title": "Show HN: XML Fiddler – tool for quick XML exploration",
       "link": "https://masa331.github.io/xml_fiddler/"
     },
     {
-      "rank": "28.",
+      "rank": "29.",
       "title": "Apple II and Apple IIe emulators written in JavaScript and HTML5",
       "link": "https://github.com/whscullin/apple2js"
-    },
-    {
-      "rank": "29.",
-      "title": "Read Fewer Books",
-      "link": "https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/"
     },
     {
       "rank": "30.",
