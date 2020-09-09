@@ -12,23 +12,23 @@
     },
     {
       "rank": "3.",
-      "title": "The Long-Term Stock Exchange Opens for Business",
-      "link": "https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b"
-    },
-    {
-      "rank": "4.",
       "title": "Zink (OpenGL on Vulkan) performance better than expected",
       "link": "http://www.supergoodcode.com/funday/"
     },
     {
+      "rank": "4.",
+      "title": "The Long-Term Stock Exchange Opens for Business",
+      "link": "https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b"
+    },
+    {
       "rank": "5.",
-      "title": "Async Views in Django 3.1",
-      "link": "https://testdriven.io/blog/django-async-views/"
+      "title": "Getting Fiber to My Town [video]",
+      "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
     },
     {
       "rank": "6.",
-      "title": "F.lux automatically adjusts your computer lighting to match your environment",
-      "link": "https://justgetflux.com/"
+      "title": "Async Views in Django 3.1",
+      "link": "https://testdriven.io/blog/django-async-views/"
     },
     {
       "rank": "7.",
@@ -37,8 +37,8 @@
     },
     {
       "rank": "8.",
-      "title": "Getting Fiber to My Town [video]",
-      "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
+      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
+      "link": "item?id=24423463"
     },
     {
       "rank": "9.",
@@ -47,43 +47,43 @@
     },
     {
       "rank": "10.",
-      "title": "What are the legal issues around web scraping?",
-      "link": "http://evan.law/2020/09/09/what-are-the-legal-issues-around-web-scraping/"
-    },
-    {
-      "rank": "11.",
-      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
-      "link": "item?id=24423463"
-    },
-    {
-      "rank": "12.",
-      "title": "Convictional (YC W19) Is Hiring Software Engineers for B2B Trade Enablement",
-      "link": "https://jobs.ashbyhq.com/Convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3"
-    },
-    {
-      "rank": "13.",
       "title": "Sentinels Can Be Faster",
       "link": "https://lemire.me/blog/2020/09/03/sentinels-can-be-faster/"
     },
     {
-      "rank": "14.",
+      "rank": "11.",
       "title": "Show HN: Mimestream, a native macOS email client for Gmail",
       "link": "https://mimestream.com"
     },
     {
-      "rank": "15.",
+      "rank": "12.",
       "title": "How we learnt to stop worrying and love web scraping",
       "link": "https://www.nature.com/articles/d41586-020-02558-0"
     },
     {
-      "rank": "16.",
+      "rank": "13.",
+      "title": "Convictional (YC W19) Is Hiring Software Engineers for B2B Trade Enablement",
+      "link": "https://jobs.ashbyhq.com/Convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3"
+    },
+    {
+      "rank": "14.",
       "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
       "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
     },
     {
-      "rank": "17.",
+      "rank": "15.",
       "title": "Elvish is a friendly interactive shell and an expressive programming language",
       "link": "https://elv.sh"
+    },
+    {
+      "rank": "16.",
+      "title": "F.lux automatically adjusts your computer lighting to match your environment",
+      "link": "https://justgetflux.com/"
+    },
+    {
+      "rank": "17.",
+      "title": "GitPals – Find team for cooperative development",
+      "link": "https://www.gitpals.com/"
     },
     {
       "rank": "18.",
@@ -92,8 +92,8 @@
     },
     {
       "rank": "19.",
-      "title": "GitPals – Find team for cooperative development",
-      "link": "https://www.gitpals.com/"
+      "title": "Mozilla introduces paid add-ons review, called “Promoted add-ons”",
+      "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
     },
     {
       "rank": "20.",
@@ -102,23 +102,23 @@
     },
     {
       "rank": "21.",
-      "title": "Mozilla introduces paid add-ons review, called “Promoted add-ons”",
-      "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
-    },
-    {
-      "rank": "22.",
       "title": "Lyebird: Clone Your Voice",
       "link": "https://www.descript.com/overdub?lyrebird=true"
     },
     {
-      "rank": "23.",
+      "rank": "22.",
       "title": "Kubernetes YAML Generator",
       "link": "https://k8syaml.com/"
     },
     {
-      "rank": "24.",
+      "rank": "23.",
       "title": "Hacking Ethernet out of Fibre Channel cards",
       "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
+    },
+    {
+      "rank": "24.",
+      "title": "Apple Disabling 'Sign in with Apple' for Epic Games on September 11",
+      "link": "https://www.macrumors.com/2020/09/09/sign-in-with-apple-epic-games-disabled/"
     },
     {
       "rank": "25.",
@@ -127,28 +127,28 @@
     },
     {
       "rank": "26.",
-      "title": "Apple Disabling 'Sign in with Apple' for Epic Games on September 11",
-      "link": "https://www.macrumors.com/2020/09/09/sign-in-with-apple-epic-games-disabled/"
-    },
-    {
-      "rank": "27.",
-      "title": "Is America a Myth?",
-      "link": "https://www.newyorker.com/news/our-columnists/is-america-a-myth"
-    },
-    {
-      "rank": "28.",
-      "title": "Show HN: Remotely Controlled Escape Room",
-      "link": "https://www.thebureauorlando.com/remote-games"
-    },
-    {
-      "rank": "29.",
       "title": "Generative Language Modeling for Automated Theorem Proving",
       "link": "https://arxiv.org/abs/2009.03393"
     },
     {
-      "rank": "30.",
+      "rank": "27.",
+      "title": "Show HN: Remotely Controlled Escape Room",
+      "link": "https://www.thebureauorlando.com/remote-games"
+    },
+    {
+      "rank": "28.",
+      "title": "Ireland to Order Facebook to Stop Sending User Data to U.S.",
+      "link": "https://www.wsj.com/articles/ireland-to-order-facebook-to-stop-sending-user-data-to-u-s-11599671980"
+    },
+    {
+      "rank": "29.",
       "title": "Goes-West – Sector View: Pacific Southwest",
       "link": "https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G17&sector=psw"
+    },
+    {
+      "rank": "30.",
+      "title": "Classes are a way of writing higher order functions",
+      "link": "https://stopa.io/post/250"
     }
   ],
   "metadata": {
