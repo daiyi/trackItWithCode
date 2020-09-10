@@ -22,38 +22,38 @@
     },
     {
       "rank": "5.",
-      "title": "Portland, OR adopts landmark facial recognition ordinances",
-      "link": "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance"
-    },
-    {
-      "rank": "6.",
       "title": "The Long-Term Stock Exchange Opens for Business",
       "link": "https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b"
     },
     {
-      "rank": "7.",
+      "rank": "6.",
       "title": "New Zealand is about to test long-range wireless power transmission",
       "link": "https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/"
     },
     {
-      "rank": "8.",
+      "rank": "7.",
       "title": "Getting Fiber to My Town [video]",
       "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
     },
     {
+      "rank": "8.",
+      "title": "Portland, OR adopts landmark facial recognition ordinances",
+      "link": "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance"
+    },
+    {
       "rank": "9.",
+      "title": "Former NSA chief Keith Alexander has joined Amazon’s board of directors",
+      "link": "https://www.theverge.com/2020/9/9/21429635/amazon-keith-alexander-board-of-directors-nsa-cyber-command"
+    },
+    {
+      "rank": "10.",
       "title": "Show HN: Mimestream, a native macOS email client for Gmail",
       "link": "https://mimestream.com"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Zink (OpenGL on Vulkan) performance better than expected",
       "link": "http://www.supergoodcode.com/funday/"
-    },
-    {
-      "rank": "11.",
-      "title": "Former NSA chief Keith Alexander has joined Amazon’s board of directors",
-      "link": "https://www.theverge.com/2020/9/9/21429635/amazon-keith-alexander-board-of-directors-nsa-cyber-command"
     },
     {
       "rank": "12.",
@@ -67,13 +67,13 @@
     },
     {
       "rank": "14.",
-      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
-      "link": "item?id=24423463"
+      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
+      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
     },
     {
       "rank": "15.",
-      "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
-      "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
+      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
+      "link": "item?id=24423463"
     },
     {
       "rank": "16.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "The H Index for Computer Science",
-      "link": "http://web.cs.ucla.edu/~palsberg/h-number.html"
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
     },
     {
       "rank": "19.",
@@ -97,8 +97,8 @@
     },
     {
       "rank": "20.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+      "title": "The H Index for Computer Science",
+      "link": "http://web.cs.ucla.edu/~palsberg/h-number.html"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Elvish is a friendly interactive shell and an expressive programming language",
-      "link": "https://elv.sh"
+      "title": "Macs for 2020: #15 – DayStar Genesis MP – Six Colors",
+      "link": "https://sixcolors.com/post/2020/09/20-macs-for-2020-15-daystar-genesis-mp/"
     },
     {
       "rank": "23.",
-      "title": "Macs for 2020: #15 – DayStar Genesis MP – Six Colors",
-      "link": "https://sixcolors.com/post/2020/09/20-macs-for-2020-15-daystar-genesis-mp/"
+      "title": "Elvish is a friendly interactive shell and an expressive programming language",
+      "link": "https://elv.sh"
     },
     {
       "rank": "24.",
@@ -122,13 +122,13 @@
     },
     {
       "rank": "25.",
-      "title": "IFTTT introduces IFTTT Pro, free accounts now limited to 3 applets",
-      "link": "https://ifttt.com/explore/introducing_ifttt_pro"
+      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
+      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
     },
     {
       "rank": "26.",
-      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
-      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
+      "title": "IFTTT introduces IFTTT Pro, free accounts now limited to 3 applets",
+      "link": "https://ifttt.com/explore/introducing_ifttt_pro"
     },
     {
       "rank": "27.",
@@ -142,13 +142,13 @@
     },
     {
       "rank": "29.",
-      "title": "Eliza, the Rogerian Therapist (1999)",
-      "link": "http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm"
+      "title": "Hacking Ethernet out of Fibre Channel cards",
+      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
     },
     {
       "rank": "30.",
-      "title": "Hacking Ethernet out of Fibre Channel cards",
-      "link": "https://blog.benjojo.co.uk/post/ip-over-fibre-channel-hack"
+      "title": "Sync vs. Async Python: What Is the Difference?",
+      "link": "https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference"
     }
   ],
   "metadata": {
