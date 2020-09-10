@@ -37,23 +37,23 @@
     },
     {
       "rank": "8.",
-      "title": "Zink (OpenGL on Vulkan) performance better than expected",
-      "link": "http://www.supergoodcode.com/funday/"
-    },
-    {
-      "rank": "9.",
-      "title": "Show HN: Mimestream, a native macOS email client for Gmail",
-      "link": "https://mimestream.com"
-    },
-    {
-      "rank": "10.",
       "title": "Portland, OR adopts landmark facial recognition ordinances",
       "link": "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance"
     },
     {
+      "rank": "9.",
+      "title": "Zink (OpenGL on Vulkan) performance better than expected",
+      "link": "http://www.supergoodcode.com/funday/"
+    },
+    {
+      "rank": "10.",
+      "title": "Show HN: Mimestream, a native macOS email client for Gmail",
+      "link": "https://mimestream.com"
+    },
+    {
       "rank": "11.",
-      "title": "Promoted Add-ons Pilot",
-      "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
+      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
+      "link": "item?id=24423463"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
+      "title": "Promoted Add-ons Pilot",
+      "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
+    },
+    {
+      "rank": "14.",
       "title": "Async Views in Django 3.1",
       "link": "https://testdriven.io/blog/django-async-views/"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
       "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
-    },
-    {
-      "rank": "15.",
-      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
-      "link": "item?id=24423463"
     },
     {
       "rank": "16.",
@@ -87,8 +87,8 @@
     },
     {
       "rank": "18.",
-      "title": "'Super Recognizers' Like Me",
-      "link": "https://www.vice.com/en_us/article/ep487p/how-police-are-using-super-recognizers-like-me-to-track-criminals"
+      "title": "Coronavirus: Why aren’t death rates rising with case numbers? A UK perspective",
+      "link": "https://theconversation.com/coronavirus-why-arent-death-rates-rising-with-case-numbers-145865"
     },
     {
       "rank": "19.",
@@ -107,48 +107,48 @@
     },
     {
       "rank": "22.",
-      "title": "Coronavirus: Why aren’t death rates rising with case numbers? A UK perspective",
-      "link": "https://theconversation.com/coronavirus-why-arent-death-rates-rising-with-case-numbers-145865"
-    },
-    {
-      "rank": "23.",
-      "title": "Original Bessemer Investment Memos for Shopify, Twilio, LinkedIn, Pinterest",
-      "link": "https://www.bvp.com/memos"
-    },
-    {
-      "rank": "24.",
-      "title": "Elvish is a friendly interactive shell and an expressive programming language",
-      "link": "https://elv.sh"
-    },
-    {
-      "rank": "25.",
       "title": "Subscription or no subscription? That is not the question",
       "link": "https://ia.net/topics/subscription-or-no-subscription"
     },
     {
-      "rank": "26.",
+      "rank": "23.",
+      "title": "Elvish is a friendly interactive shell and an expressive programming language",
+      "link": "https://elv.sh"
+    },
+    {
+      "rank": "24.",
+      "title": "Original Bessemer Investment Memos for Shopify, Twilio, LinkedIn, Pinterest",
+      "link": "https://www.bvp.com/memos"
+    },
+    {
+      "rank": "25.",
       "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
       "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
     },
     {
-      "rank": "27.",
+      "rank": "26.",
       "title": "Eliza, the Rogerian Therapist (1999)",
       "link": "http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm"
     },
     {
-      "rank": "28.",
+      "rank": "27.",
       "title": "Leadership in crisis – why the West needs Plato more than ever",
       "link": "https://engelsbergideas.com/essays/leadership-in-crisis-why-the-west-needs-plato-more-than-ever/"
     },
     {
+      "rank": "28.",
+      "title": "Wikimedia Foundation: Universal Code of Conduct/Draft Review",
+      "link": "https://meta.wikimedia.org/w/index.php?title=Universal_Code_of_Conduct/Draft_review"
+    },
+    {
       "rank": "29.",
-      "title": "GitPals – Find team for cooperative development",
-      "link": "https://www.gitpals.com/"
+      "title": "IFTTT introduces IFTTT Pro, free accounts now limited to 3 applets",
+      "link": "https://ifttt.com/explore/introducing_ifttt_pro"
     },
     {
       "rank": "30.",
-      "title": "Wikimedia Foundation: Universal Code of Conduct/Draft Review",
-      "link": "https://meta.wikimedia.org/w/index.php?title=Universal_Code_of_Conduct/Draft_review"
+      "title": "GitPals – Find team for cooperative development",
+      "link": "https://www.gitpals.com/"
     }
   ],
   "metadata": {
