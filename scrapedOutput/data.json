@@ -27,23 +27,23 @@
     },
     {
       "rank": "6.",
-      "title": "New Zealand is about to test long-range wireless power transmission",
-      "link": "https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/"
-    },
-    {
-      "rank": "7.",
-      "title": "Getting Fiber to My Town [video]",
-      "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
-    },
-    {
-      "rank": "8.",
       "title": "Portland, OR adopts landmark facial recognition ordinances",
       "link": "https://thehill.com/policy/technology/515772-portland-adopts-landmark-facial-recognition-ordinance"
     },
     {
-      "rank": "9.",
+      "rank": "7.",
       "title": "Former NSA chief Keith Alexander has joined Amazon’s board of directors",
       "link": "https://www.theverge.com/2020/9/9/21429635/amazon-keith-alexander-board-of-directors-nsa-cyber-command"
+    },
+    {
+      "rank": "8.",
+      "title": "New Zealand is about to test long-range wireless power transmission",
+      "link": "https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/"
+    },
+    {
+      "rank": "9.",
+      "title": "Getting Fiber to My Town [video]",
+      "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
     },
     {
       "rank": "10.",
@@ -87,18 +87,18 @@
     },
     {
       "rank": "18.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+      "title": "Sync vs. Async Python: What Is the Difference?",
+      "link": "https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference"
     },
     {
       "rank": "19.",
-      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
-      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
+      "title": "Macs for 2020: #15 – DayStar Genesis MP – Six Colors",
+      "link": "https://sixcolors.com/post/2020/09/20-macs-for-2020-15-daystar-genesis-mp/"
     },
     {
       "rank": "20.",
-      "title": "The H Index for Computer Science",
-      "link": "http://web.cs.ucla.edu/~palsberg/h-number.html"
+      "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
+      "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Macs for 2020: #15 – DayStar Genesis MP – Six Colors",
-      "link": "https://sixcolors.com/post/2020/09/20-macs-for-2020-15-daystar-genesis-mp/"
+      "title": "Elvish is a friendly interactive shell and an expressive programming language",
+      "link": "https://elv.sh"
     },
     {
       "rank": "23.",
-      "title": "Elvish is a friendly interactive shell and an expressive programming language",
-      "link": "https://elv.sh"
+      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
+      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
     },
     {
       "rank": "24.",
@@ -122,8 +122,8 @@
     },
     {
       "rank": "25.",
-      "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
-      "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
+      "title": "Show HN: Eiten – open-source tool for Portfolio Optimization",
+      "link": "https://github.com/tradytics/eiten"
     },
     {
       "rank": "26.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Sync vs. Async Python: What Is the Difference?",
-      "link": "https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference"
+      "title": "The Intricate Translation Process for a Murakami Novel",
+      "link": "https://lithub.com/inside-the-intricate-translation-process-for-a-murakami-novel/"
     }
   ],
   "metadata": {
