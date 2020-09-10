@@ -7,43 +7,43 @@
     },
     {
       "rank": "2.",
-      "title": "Dozens of scientific journals have vanished from the internet",
-      "link": "https://www.sciencemag.org/news/2020/09/dozens-scientific-journals-have-vanished-internet-and-no-one-preserved-them"
-    },
-    {
-      "rank": "3.",
       "title": ".NET Memory Performance Analysis",
       "link": "https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md"
     },
     {
+      "rank": "3.",
+      "title": "Dozens of scientific journals have vanished from the internet",
+      "link": "https://www.sciencemag.org/news/2020/09/dozens-scientific-journals-have-vanished-internet-and-no-one-preserved-them"
+    },
+    {
       "rank": "4.",
-      "title": "New Zealand is about to test long-range wireless power transmission",
-      "link": "https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/"
-    },
-    {
-      "rank": "5.",
-      "title": "The Long-Term Stock Exchange Opens for Business",
-      "link": "https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b"
-    },
-    {
-      "rank": "6.",
-      "title": "Getting Fiber to My Town [video]",
-      "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
-    },
-    {
-      "rank": "7.",
-      "title": "Zink (OpenGL on Vulkan) performance better than expected",
-      "link": "http://www.supergoodcode.com/funday/"
-    },
-    {
-      "rank": "8.",
       "title": "The amazing $1 Microcontroller",
       "link": "https://jaycarlson.net/microcontrollers/"
     },
     {
+      "rank": "5.",
+      "title": "New Zealand is about to test long-range wireless power transmission",
+      "link": "https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/"
+    },
+    {
+      "rank": "6.",
+      "title": "The Long-Term Stock Exchange Opens for Business",
+      "link": "https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b"
+    },
+    {
+      "rank": "7.",
+      "title": "Getting Fiber to My Town [video]",
+      "link": "https://www.youtube.com/watch?v=ASXJgvy3mEg"
+    },
+    {
+      "rank": "8.",
+      "title": "Zink (OpenGL on Vulkan) performance better than expected",
+      "link": "http://www.supergoodcode.com/funday/"
+    },
+    {
       "rank": "9.",
-      "title": "NSA chief who oversaw sweeping domestic phone surveillance joins Amazon board",
-      "link": "https://www.zerohedge.com/political/longtime-nsa-chief-who-oversaw-illegal-domestic-surveillance-joins-amazon-board-directors"
+      "title": "Promoted Add-ons Pilot",
+      "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
     },
     {
       "rank": "10.",
@@ -52,8 +52,8 @@
     },
     {
       "rank": "11.",
-      "title": "Async Views in Django 3.1",
-      "link": "https://testdriven.io/blog/django-async-views/"
+      "title": "NSA chief who oversaw sweeping domestic phone surveillance joins Amazon board",
+      "link": "https://www.zerohedge.com/political/longtime-nsa-chief-who-oversaw-illegal-domestic-surveillance-joins-amazon-board-directors"
     },
     {
       "rank": "12.",
@@ -62,18 +62,18 @@
     },
     {
       "rank": "13.",
+      "title": "Async Views in Django 3.1",
+      "link": "https://testdriven.io/blog/django-async-views/"
+    },
+    {
+      "rank": "14.",
       "title": "YC's Work at a Startup lets you create one application for hundreds of eng jobs",
       "link": "https://www.workatastartup.com/?utm_source=hn_jobs"
     },
     {
-      "rank": "14.",
+      "rank": "15.",
       "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
       "link": "item?id=24423463"
-    },
-    {
-      "rank": "15.",
-      "title": "Promoted Add-ons Pilot",
-      "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
     },
     {
       "rank": "16.",
@@ -87,58 +87,58 @@
     },
     {
       "rank": "18.",
+      "title": "Eliza, the Rogerian Therapist (1999)",
+      "link": "http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm"
+    },
+    {
+      "rank": "19.",
       "title": "WireHole: Set up Pihole, WireGuard, and Unbound instantly",
       "link": "https://github.com/IAmStoxe/wirehole"
     },
     {
-      "rank": "19.",
-      "title": "World suicide prevention day: 'Could I have stopped my dad killing himself?'",
-      "link": "https://www.bbc.co.uk/news/stories-54088546"
-    },
-    {
       "rank": "20.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
-    },
-    {
-      "rank": "21.",
-      "title": "Elvish is a friendly interactive shell and an expressive programming language",
-      "link": "https://elv.sh"
-    },
-    {
-      "rank": "22.",
-      "title": "Subscription or no subscription? That is not the question",
-      "link": "https://ia.net/topics/subscription-or-no-subscription"
-    },
-    {
-      "rank": "23.",
       "title": "'Super Recognizers' Like Me",
       "link": "https://www.vice.com/en_us/article/ep487p/how-police-are-using-super-recognizers-like-me-to-track-criminals"
     },
     {
+      "rank": "21.",
+      "title": "World suicide prevention day: 'Could I have stopped my dad killing himself?'",
+      "link": "https://www.bbc.co.uk/news/stories-54088546"
+    },
+    {
+      "rank": "22.",
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+    },
+    {
+      "rank": "23.",
+      "title": "Elvish is a friendly interactive shell and an expressive programming language",
+      "link": "https://elv.sh"
+    },
+    {
       "rank": "24.",
+      "title": "Subscription or no subscription? That is not the question",
+      "link": "https://ia.net/topics/subscription-or-no-subscription"
+    },
+    {
+      "rank": "25.",
       "title": "Leadership in crisis – why the West needs Plato more than ever",
       "link": "https://engelsbergideas.com/essays/leadership-in-crisis-why-the-west-needs-plato-more-than-ever/"
     },
     {
-      "rank": "25.",
+      "rank": "26.",
       "title": "AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag",
       "link": "https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/"
     },
     {
-      "rank": "26.",
-      "title": "Aram Saroyan and the Art of the One-Word Poem",
-      "link": "https://thereader.mitpress.mit.edu/art-of-one-word-poem/"
-    },
-    {
       "rank": "27.",
-      "title": "The Intricate Translation Process for a Murakami Novel",
-      "link": "https://lithub.com/inside-the-intricate-translation-process-for-a-murakami-novel/"
+      "title": "Kubernetes YAML Generator",
+      "link": "https://k8syaml.com/"
     },
     {
       "rank": "28.",
-      "title": "Kubernetes YAML Generator",
-      "link": "https://k8syaml.com/"
+      "title": "Aram Saroyan and the Art of the One-Word Poem",
+      "link": "https://thereader.mitpress.mit.edu/art-of-one-word-poem/"
     },
     {
       "rank": "29.",
@@ -147,8 +147,8 @@
     },
     {
       "rank": "30.",
-      "title": "Show HN: Chrome Extension Starter Kit and eBook",
-      "link": "https://ChromeExtensionKit.com?ref=showhn"
+      "title": "The Intricate Translation Process for a Murakami Novel",
+      "link": "https://lithub.com/inside-the-intricate-translation-process-for-a-murakami-novel/"
     }
   ],
   "metadata": {
