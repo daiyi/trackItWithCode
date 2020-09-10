@@ -7,13 +7,13 @@
     },
     {
       "rank": "2.",
-      "title": "The amazing $1 Microcontroller",
-      "link": "https://jaycarlson.net/microcontrollers/"
+      "title": ".NET Memory Performance Analysis",
+      "link": "https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md"
     },
     {
       "rank": "3.",
-      "title": ".NET Memory Performance Analysis",
-      "link": "https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md"
+      "title": "The amazing $1 Microcontroller",
+      "link": "https://jaycarlson.net/microcontrollers/"
     },
     {
       "rank": "4.",
@@ -37,38 +37,38 @@
     },
     {
       "rank": "8.",
+      "title": "Wikimedia Foundation: Universal Code of Conduct/Draft Review",
+      "link": "https://meta.wikimedia.org/w/index.php?title=Universal_Code_of_Conduct/Draft_review"
+    },
+    {
+      "rank": "9.",
       "title": "Zink (OpenGL on Vulkan) performance better than expected",
       "link": "http://www.supergoodcode.com/funday/"
     },
     {
-      "rank": "9.",
+      "rank": "10.",
       "title": "Show HN: Mimestream, a native macOS email client for Gmail",
       "link": "https://mimestream.com"
     },
     {
-      "rank": "10.",
+      "rank": "11.",
       "title": "Promoted Add-ons Pilot",
       "link": "https://blog.mozilla.org/addons/2020/09/09/introducing-the-promoted-add-ons-pilot/"
     },
     {
-      "rank": "11.",
+      "rank": "12.",
+      "title": "Coronavirus: Why aren’t death rates rising with case numbers? A UK perspective",
+      "link": "https://theconversation.com/coronavirus-why-arent-death-rates-rising-with-case-numbers-145865"
+    },
+    {
+      "rank": "13.",
       "title": "NSA chief who oversaw sweeping domestic phone surveillance joins Amazon board",
       "link": "https://www.zerohedge.com/political/longtime-nsa-chief-who-oversaw-illegal-domestic-surveillance-joins-amazon-board-directors"
     },
     {
-      "rank": "12.",
+      "rank": "14.",
       "title": "Why is there a normal galaxy sitting at the edge of the Universe?",
       "link": "https://www.syfy.com/syfywire/why-is-there-a-normal-galaxy-sitting-at-the-edge-of-the-universe"
-    },
-    {
-      "rank": "13.",
-      "title": "Async Views in Django 3.1",
-      "link": "https://testdriven.io/blog/django-async-views/"
-    },
-    {
-      "rank": "14.",
-      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
-      "link": "item?id=24423463"
     },
     {
       "rank": "15.",
@@ -77,28 +77,28 @@
     },
     {
       "rank": "16.",
-      "title": "Wikimedia Foundation: Universal Code of Conduct/Draft Review",
-      "link": "https://meta.wikimedia.org/w/index.php?title=Universal_Code_of_Conduct/Draft_review"
+      "title": "Async Views in Django 3.1",
+      "link": "https://testdriven.io/blog/django-async-views/"
     },
     {
       "rank": "17.",
+      "title": "Launch HN: Tappity (YC S20) – Keeping kids entertained with science",
+      "link": "item?id=24423463"
+    },
+    {
+      "rank": "18.",
       "title": "Portable MRI promises to provide immediate diagnosis in virtually any setting",
       "link": "https://news.yale.edu/2020/09/08/portable-mri-can-detect-brain-abnormalities-bedside"
     },
     {
-      "rank": "18.",
-      "title": "Coronavirus: Why aren’t death rates rising with case numbers? A UK perspective",
-      "link": "https://theconversation.com/coronavirus-why-arent-death-rates-rising-with-case-numbers-145865"
-    },
-    {
       "rank": "19.",
-      "title": "'Super Recognizers' Like Me",
-      "link": "https://www.vice.com/en_us/article/ep487p/how-police-are-using-super-recognizers-like-me-to-track-criminals"
+      "title": "WireHole: Set up Pihole, WireGuard, and Unbound instantly",
+      "link": "https://github.com/IAmStoxe/wirehole"
     },
     {
       "rank": "20.",
-      "title": "WireHole: Set up Pihole, WireGuard, and Unbound instantly",
-      "link": "https://github.com/IAmStoxe/wirehole"
+      "title": "'Super Recognizers' Like Me",
+      "link": "https://www.vice.com/en_us/article/ep487p/how-police-are-using-super-recognizers-like-me-to-track-criminals"
     },
     {
       "rank": "21.",
@@ -107,13 +107,13 @@
     },
     {
       "rank": "22.",
-      "title": "Eliza, the Rogerian Therapist (1999)",
-      "link": "http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm"
+      "title": "How we learnt to stop worrying and love web scraping",
+      "link": "https://www.nature.com/articles/d41586-020-02558-0"
     },
     {
       "rank": "23.",
-      "title": "How we learnt to stop worrying and love web scraping",
-      "link": "https://www.nature.com/articles/d41586-020-02558-0"
+      "title": "Eliza, the Rogerian Therapist (1999)",
+      "link": "http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm"
     },
     {
       "rank": "24.",
@@ -137,13 +137,13 @@
     },
     {
       "rank": "28.",
-      "title": "Kubernetes YAML Generator",
-      "link": "https://k8syaml.com/"
+      "title": "Macs for 2020: #15 – DayStar Genesis MP – Six Colors",
+      "link": "https://sixcolors.com/post/2020/09/20-macs-for-2020-15-daystar-genesis-mp/"
     },
     {
       "rank": "29.",
-      "title": "Macs for 2020: #15 – DayStar Genesis MP – Six Colors",
-      "link": "https://sixcolors.com/post/2020/09/20-macs-for-2020-15-daystar-genesis-mp/"
+      "title": "Kubernetes YAML Generator",
+      "link": "https://k8syaml.com/"
     },
     {
       "rank": "30.",
