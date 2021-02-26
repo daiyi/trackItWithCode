@@ -117,7 +117,13 @@
     "vaccinesReceived": "10528",
     "vaccineDose1": "4694",
     "vaccineDose2": "3368",
-    "date": "2021-02-26T14:34:48.806Z",
+    "date": "2021-02-26T14:34:48.806Z"
+  },
+  {
+    "vaccinesReceived": "10528",
+    "vaccineDose1": "4694",
+    "vaccineDose2": "3368",
+    "date": "2021-02-26T14:48:45.070Z",
     "metadata": "Mono County vaccination progress"
   }
 ]
