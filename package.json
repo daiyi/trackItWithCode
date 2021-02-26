@@ -12,6 +12,6 @@
     "tatooine": "^2.0.46"
   },
   "scripts": {
-    "track": "node dist/index.js > scrapedOutput/data.json"
+    "track": "node dist/src/index.js > scrapedOutput/data.json"
   }
 }

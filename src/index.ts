@@ -1,6 +1,8 @@
 // @ts-expect-error – this isn't typed... yet
 import Tatooine from "tatooine";
 
+import historicData from "../scrapedOutput/data.json";
+
 const vaccineScraper = {
   engine: "json",
   options: {
@@ -19,73 +21,59 @@ const vaccineScraper = {
   },
   // @ts-expect-error – this isn't typed
   fork: ({ sources, error }) => {
-    return { sources: { ...sources[0], date: new Date() }, error };
+    const [month, date, year] = new Date()
+      .toLocaleDateString("en-US")
+      .split("/");
+    const [source] = sources;
+    const { vaccinesReceived, vaccineDose1, vaccineDose2 } = source;
+
+    return {
+      sources: {
+        vaccinesReceived: parseInt(vaccinesReceived),
+        vaccineDose1: parseInt(vaccineDose1),
+        vaccineDose2: parseInt(vaccineDose2),
+        date: `${year}-${month}-${date}`,
+      },
+      error,
+    };
   },
   metadata: "Mono County vaccination progress",
 };
 
-const historyScraper = {
-  engine: "json",
-  options: {
-    request: {
-      url:
-        "https://raw.githubusercontent.com/daiyi/trackItWithCode/master/scrapedOutput/data.json",
-      // url: "https://jsonplaceholder.typicode.com/todos",
-    },
-  },
-  selectors: {
-    vaccinesReceived: { value: "vaccinesReceived" },
-    vaccineDose1: { value: "vaccineDose1" },
-    vaccineDose2: { value: "vaccineDose2" },
-    date: { value: "date" },
-  },
-  metadata: "historical data",
-};
-
 type VaccineDataPoint = {
-  vaccinesRecieved: number;
+  vaccinesReceived: number;
   vaccineDose1: number;
   vaccineDose2: number;
   date: string;
+  error?: string;
+  source?: string;
 };
 
-const data: Array<VaccineDataPoint> = [];
-
-const promise = Tatooine([historyScraper]).then(
-  ([{ sources, metadata, error }]: [
-    { sources: Array<VaccineDataPoint>; metadata: any; error: any }
-  ]): Array<VaccineDataPoint> => {
-    // sources: array of objects, e.g:
-    // [
-    //   {
-    //     vaccinesReceived: '10528',
-    //     vaccineDose1: '4694',
-    //     vaccineDose2: '3368'
-    //   }
-    // ]
-    return sources;
-  }
-);
-
-const promise2 = Tatooine([vaccineScraper]).then(
+Tatooine([vaccineScraper]).then(
   ([{ sources, metadata, error }]: [
     { sources: VaccineDataPoint; metadata: any; error: any }
-  ]): Array<VaccineDataPoint> => {
-    // sources: object, e.g:
-    //   {
-    //     vaccinesReceived: '10528',
-    //     vaccineDose1: '4694',
-    //     vaccineDose2: '3368'
-    //   }
-    const datapoint = [{ ...sources, metadata }];
-    return datapoint;
+  ]): void => {
+    const newDatapoint = { ...sources, source: "scraper" };
+    if (error) {
+      newDatapoint.error = error;
+    }
+    const prevData: Array<VaccineDataPoint> = historicData.slice();
+    const data: Array<VaccineDataPoint> = historicData.slice();
+    const lastDatapoint = prevData.pop();
+
+    if (!lastDatapoint || !isSameDatapoint(lastDatapoint, newDatapoint)) {
+      data.push(newDatapoint);
+    }
+
+    console.log(JSON.stringify(data, null, 2));
   }
 );
 
-Promise.all([promise, promise2]).then((values) => {
-  const data = values.reduce(
-    (accumulated, currentArray) => accumulated.concat(currentArray),
-    []
+function isSameDatapoint(a: VaccineDataPoint, b: VaccineDataPoint): boolean {
+  return (
+    a.date === b.date &&
+    a.vaccineDose1 === b.vaccineDose1 &&
+    a.vaccineDose2 === b.vaccineDose2 &&
+    a.vaccinesReceived === b.vaccinesReceived
   );
-  console.log(JSON.stringify(data, null, 2));
-});
+}
