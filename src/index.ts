@@ -1,40 +1,30 @@
 // @ts-expect-error – this isn't typed... yet
-import Tatooine from "tatooine"
+import Tatooine from "tatooine";
 
-// SPA example, see more docs here: https://github.com/obetomuniz/tatooine/blob/master/docs/engines/SPA.md
-const hackerNewsScraper = {
-  // engine: String => Engine identifier
-  engine: "spa",
-  // options: Object => Engine options
+const vaccineScraper = {
+  engine: "json",
   options: {
-    // request: Object => Request settings
     request: {
-      // url: String => URL that should be requested
-      url: "https://news.ycombinator.com/",
+      url:
+        'https://services.arcgis.com/rQj5FcfuWPllzwY8/arcgis/rest/services/Mono_County_Vaccination_Status/FeatureServer/0/query?f=json&where=1%3D1&outFields=*&returnGeometry=false&outStatistics=[{"onStatisticField"%3A"Vacc_Inventory"%2C"outStatisticFieldName"%3A"Vacc_Inventory_sum"%2C"statisticType"%3A"sum"},{"onStatisticField"%3A"Vacc_Admin_2"%2C"outStatisticFieldName"%3A"Vacc_Admin_2_sum"%2C"statisticType"%3A"sum"},{"onStatisticField"%3A"Vacc_Admin_1"%2C"outStatisticFieldName"%3A"Vacc_Admin_1_sum"%2C"statisticType"%3A"sum"}]',
     },
   },
-  // selectors: Object => Maps the selectors that contain data
   selectors: {
-    // root: Object => Allows access a HTML Node List that will have the data mapped
     root: {
-      // value: String => Query selector of the HTML Node List. (E.g.: 'ul li', '.articles-list article', etc.)
-      value: ".itemlist tr.athing",
+      value: "features",
     },
-    date: {
-      value: ".field-content",
-    },
-    // selector: Object => Object key that will store the data extracted as configured
-    rank: { value: ".rank" },
-    title: { value: ".storylink" },
-    link: { value: ".storylink", attribute: "href" }
+    vaccinesReceived: { value: "attributes.Vacc_Inventory_sum" },
+    vaccineDose1: { value: "attributes.Vacc_Admin_1_sum" },
+    vaccineDose2: { value: "attributes.Vacc_Admin_2_sum" },
   },
-  metadata: {
-    name: "Hacker News",
+  // @ts-expect-error – this isn't typed
+  fork: ({ sources, error }) => {
+    return { sources: { ...sources[0], date: new Date() }, error };
   },
-}
-
+  metadata: "Mono County vaccination progress",
+};
 
 // @ts-expect-error Tatooine isn't typed
-Tatooine([hackerNewsScraper]).then(([scrapedHackerNewsData]) => {
-  console.log(JSON.stringify(scrapedHackerNewsData, null, 2))
-})
+Tatooine([vaccineScraper]).then(([data]) => {
+  console.log(JSON.stringify(data, null, 2));
+});
