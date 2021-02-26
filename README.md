@@ -2,7 +2,6 @@
 
 This repo is a batteries included online scraping and tracking toolkit. Use it to scrape things online, track the changes, and be notified when something changes.
 
-
 ## Some example use cases
 
 1. Be notified when a new Apple press release comes out.
@@ -24,7 +23,7 @@ The repo uses GitHub actions to do the scraping and commits the results of the s
 
 1. run `yarn`
 2. run `yarn tsc -w`
-3. In another terminal, run `node dist/index.js`
+3. In another terminal, run `node dist/src/index.js`
 
 ## Email Notifications
 
