@@ -24,8 +24,68 @@ const vaccineScraper = {
   metadata: "Mono County vaccination progress",
 };
 
-// @ts-expect-error Tatooine isn't typed
-Tatooine([vaccineScraper]).then(([{ sources, metadata, error }]) => {
-  const data = [sources];
+const historyScraper = {
+  engine: "json",
+  options: {
+    request: {
+      url:
+        "https://raw.githubusercontent.com/daiyi/trackItWithCode/master/scrapedOutput/data.json",
+      // url: "https://jsonplaceholder.typicode.com/todos",
+    },
+  },
+  selectors: {
+    vaccinesReceived: { value: "vaccinesReceived" },
+    vaccineDose1: { value: "vaccineDose1" },
+    vaccineDose2: { value: "vaccineDose2" },
+    date: { value: "date" },
+  },
+  metadata: "historical data",
+};
+
+type VaccineDataPoint = {
+  vaccinesRecieved: number;
+  vaccineDose1: number;
+  vaccineDose2: number;
+  date: string;
+};
+
+const data: Array<VaccineDataPoint> = [];
+
+const promise = Tatooine([historyScraper]).then(
+  ([{ sources, metadata, error }]: [
+    { sources: Array<VaccineDataPoint>; metadata: any; error: any }
+  ]): Array<VaccineDataPoint> => {
+    // sources: array of objects, e.g:
+    // [
+    //   {
+    //     vaccinesReceived: '10528',
+    //     vaccineDose1: '4694',
+    //     vaccineDose2: '3368'
+    //   }
+    // ]
+    return sources;
+  }
+);
+
+const promise2 = Tatooine([vaccineScraper]).then(
+  ([{ sources, metadata, error }]: [
+    { sources: VaccineDataPoint; metadata: any; error: any }
+  ]): Array<VaccineDataPoint> => {
+    // sources: object, e.g:
+    //   {
+    //     vaccinesReceived: '10528',
+    //     vaccineDose1: '4694',
+    //     vaccineDose2: '3368'
+    //   }
+    const datapoint = [{ ...sources, metadata }];
+    return datapoint;
+  }
+);
+
+Promise.all([promise, promise2]).then((values) => {
+  const data = values.reduce(
+    (accumulated, currentArray) => accumulated.concat(currentArray),
+    []
+  );
   console.log(JSON.stringify(data, null, 2));
 });
