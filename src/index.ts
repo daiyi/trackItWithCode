@@ -21,9 +21,6 @@ const vaccineScraper = {
   },
   // @ts-expect-error – this isn't typed
   fork: ({ sources, error }) => {
-    const [month, date, year] = new Date()
-      .toLocaleDateString("en-US")
-      .split("/");
     const [source] = sources;
     const { vaccinesReceived, vaccineDose1, vaccineDose2 } = source;
 
@@ -32,7 +29,7 @@ const vaccineScraper = {
         vaccinesReceived: parseInt(vaccinesReceived),
         vaccineDose1: parseInt(vaccineDose1),
         vaccineDose2: parseInt(vaccineDose2),
-        date: `${year}-${month}-${date}`,
+        date: getTimestamp(),
       },
       error,
     };
@@ -76,4 +73,16 @@ function isSameDatapoint(a: VaccineDataPoint, b: VaccineDataPoint): boolean {
     a.vaccineDose2 === b.vaccineDose2 &&
     a.vaccinesReceived === b.vaccinesReceived
   );
+}
+
+function getTimestamp(): string {
+  const date = new Date();
+  const day = date.getDate();
+  const month = date.getMonth() + 1;
+  const year = date.getFullYear();
+
+  // lol
+  return `${year}-${month < 10 ? "0" : ""}${month}-${
+    day < 10 ? "0" : ""
+  }${day}`;
 }

@@ -3,28 +3,21 @@
     "vaccinesReceived": 8966,
     "vaccineDose1": 4621,
     "vaccineDose2": 2924,
-    "date": "2021-2-19",
+    "date": "2021-02-19",
     "source": "yelly"
   },
   {
     "vaccinesReceived": 9686,
     "vaccineDose1": 4678,
     "vaccineDose2": 2975,
-    "date": "2021-2-22",
+    "date": "2021-02-22",
     "source": "yelly"
   },
   {
     "vaccinesReceived": 10528,
     "vaccineDose1": 4694,
     "vaccineDose2": 3368,
-    "date": "2021-2-24",
+    "date": "2021-02-24",
     "source": "daiyi"
-  },
-  {
-    "vaccinesReceived": 10528,
-    "vaccineDose1": 4694,
-    "vaccineDose2": 3368,
-    "date": "2021-2-26",
-    "source": "scraper"
   }
 ]
