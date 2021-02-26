@@ -20,6 +20,12 @@ The repo uses GitHub actions to do the scraping and commits the results of the s
 3. Push changes to GitHub
 4. Done!
 
+## Local test
+
+1. run `yarn`
+2. run `yarn tsc -w`
+3. In another terminal, run `node dist/index.js`
+
 ## Email Notifications
 
 If you want to be notified on email when something changes (when the GitHub action makes a new commit):
