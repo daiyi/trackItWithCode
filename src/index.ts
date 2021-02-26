@@ -25,6 +25,7 @@ const vaccineScraper = {
 };
 
 // @ts-expect-error Tatooine isn't typed
-Tatooine([vaccineScraper]).then(([data]) => {
+Tatooine([vaccineScraper]).then(([{ sources, metadata, error }]) => {
+  const data = [sources];
   console.log(JSON.stringify(data, null, 2));
 });
