@@ -1,10 +1,10 @@
 name: Scraper
 on:
   schedule:
-    # https://crontab.guru/#0_*/6_*_*_*
-    # runs “At minute 0 past every 6th hour.” take that, github.
+    # https://crontab.guru/#*/30_*_*_*_*
+    # runs “At every 30th minute.” take that, github.
     # * is a special character in YAML so you have to quote this string
-    - cron: "0 */6 * * *"
+    - cron: "*/30 * * * *"
   push:
     branches:
       - master
