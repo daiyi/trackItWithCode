@@ -173,5 +173,12 @@
     "vaccineDose2": 4569,
     "date": "2021-03-14",
     "source": "scraper"
+  },
+  {
+    "vaccinesReceived": 12937,
+    "vaccineDose1": 6058,
+    "vaccineDose2": 4569,
+    "date": "2021-03-15",
+    "source": "scraper"
   }
 ]
