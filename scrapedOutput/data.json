@@ -1272,5 +1272,12 @@
     "vaccineDose2": 8134,
     "date": "2021-07-09",
     "source": "scraper"
+  },
+  {
+    "vaccinesReceived": 17560,
+    "vaccineDose1": 8307,
+    "vaccineDose2": 8134,
+    "date": "2021-07-10",
+    "source": "scraper"
   }
 ]
